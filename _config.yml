@@ -1,0 +1,92 @@
+# Configuration principale
+title: "Atlas des Plantes du Grand Sud d'Haïti"
+email: contact@atlasplantes.ht
+description: >-
+  Atlas botanique des plantes médicinales, aromatiques et nutritionnelles
+  des départements du Sud et de la Grand'Anse d'Haïti.
+baseurl: ""
+url: "https://atlasplantes.ht"
+
+# Build settings
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+# Collections
+collections:
+  plantes:
+    output: true
+    permalink: /:collection/:name/
+  ressources:
+    output: true
+    permalink: /:collection/:name/
+
+# Langues supportées
+languages:
+  - fr
+  - en
+  - ht
+
+# Defaults
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "page"
+  - scope:
+      path: "fr"
+    values:
+      lang: "fr"
+      locale: "fr_FR"
+  - scope:
+      path: "en"
+    values:
+      lang: "en"
+      locale: "en_US"
+  - scope:
+      path: "ht"
+    values:
+      lang: "ht"
+      locale: "ht_HT"
+
+# Navigation principale
+navigation:
+  fr:
+    - title: "Accueil"
+      url: "/fr/"
+    - title: "Plantes"
+      url: "/fr/plantes/"
+    - title: "Ressources"
+      url: "/fr/ressources/"
+    - title: "À propos"
+      url: "/fr/a-propos/"
+  en:
+    - title: "Home"
+      url: "/en/"
+    - title: "Plants"
+      url: "/en/plants/"
+    - title: "Resources"
+      url: "/en/resources/"
+    - title: "About"
+      url: "/en/about/"
+  ht:
+    - title: "Akèy"
+      url: "/ht/"
+    - title: "Plant"
+      url: "/ht/plant/"
+    - title: "Resous"
+      url: "/ht/resous/"
+    - title: "Apwopo"
+      url: "/ht/apwopo/"
+
+# Exclude from processing
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
+  - .gitignore
+  - README.md
