@@ -1,2 +1,19 @@
-<!-- modal placeholder -->
-<div id="plantModal" class="hidden"></div>
+<!-- Plant Modal -->
+<div id="plantModal"
+     class="fixed inset-0 z-50 hidden items-center justify-center bg-black/70 backdrop-blur-sm">
+
+  <div class="bg-white rounded-2xl max-w-3xl w-full max-h-[90vh] overflow-y-auto relative shadow-2xl">
+
+    <!-- Bouton fermeture -->
+    <button onclick="closeModal()"
+            class="absolute top-4 right-4 bg-white hover:bg-gray-100 rounded-full w-10 h-10 flex items-center justify-center shadow">
+      <i class="fas fa-times"></i>
+    </button>
+
+    <!-- Contenu dynamique injecté par JS -->
+    <div id="modalContent" class="p-6">
+      <!-- Le contenu sera généré par main.js -->
+    </div>
+
+  </div>
+</div>
