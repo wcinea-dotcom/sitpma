@@ -1,74 +1,102 @@
-<nav class="main-nav">
-    <ul class="nav-menu">
-        <!-- Accueil -->
-        <li><a href="/{{ page.lang }}/">{{ site.data.translations[page.lang].nav.home }}</a></li>
-        
-        <!-- Atlas dropdown -->
-        <li class="dropdown">
-            <a href="/{{ page.lang }}/atlas/">{{ site.data.translations[page.lang].nav.atlas }} <i class="fas fa-chevron-down"></i></a>
-            <ul class="dropdown-menu">
-                <li><a href="/{{ page.lang }}/atlas/">{{ site.data.translations[page.lang].dropdown.atlas_overview }}</a></li>
-                <li><a href="/{{ page.lang }}/atlas/familles/">{{ site.data.translations[page.lang].dropdown.by_family }}</a></li>
-                <li><a href="/{{ page.lang }}/atlas/systemes/">{{ site.data.translations[page.lang].dropdown.by_system }}</a></li>
-                <li><a href="/{{ page.lang }}/atlas/maladies/">{{ site.data.translations[page.lang].dropdown.by_disease }}</a></li>
-                <li><a href="/{{ page.lang }}/atlas/plantes/">{{ site.data.translations[page.lang].dropdown.all_plants }}</a></li>
-            </ul>
-        </li>
-        
-        <!-- Conservation dropdown -->
-        <li class="dropdown">
-            <a href="/{{ page.lang }}/conservation/">{{ site.data.translations[page.lang].nav.conservation }} <i class="fas fa-chevron-down"></i></a>
-            <ul class="dropdown-menu">
-                <li><a href="/{{ page.lang }}/conservation/">{{ site.data.translations[page.lang].dropdown.atlas_overview }}</a></li>
-                <li><a href="/{{ page.lang }}/conservation/statuts/">Statuts</a></li>
-                <li><a href="/{{ page.lang }}/conservation/especes-menacees/">Espèces menacées</a></li>
-                <li><a href="/{{ page.lang }}/conservation/endemiques/">Endémiques</a></li>
-                <li><a href="/{{ page.lang }}/conservation/reproduction/">Reproduction</a></li>
-            </ul>
-        </li>
-        
-        <!-- Valorisation dropdown -->
-        <li class="dropdown">
-            <a href="/{{ page.lang }}/valorisation/">{{ site.data.translations[page.lang].nav.valorisation }} <i class="fas fa-chevron-down"></i></a>
-            <ul class="dropdown-menu">
-                <li><a href="/{{ page.lang }}/valorisation/">{{ site.data.translations[page.lang].dropdown.atlas_overview }}</a></li>
-                <li><a href="/{{ page.lang }}/valorisation/usages-medicinaux/">Usages médicinaux</a></li>
-                <li><a href="/{{ page.lang }}/valorisation/toxicite/">Toxicité</a></li>
-                <li><a href="/{{ page.lang }}/valorisation/preparations/">Préparations</a></li>
-                <li><a href="/{{ page.lang }}/valorisation/produits-derives/">Produits dérivés</a></li>
-                <li><a href="/{{ page.lang }}/valorisation/perspectives/">Perspectives</a></li>
-            </ul>
-        </li>
-        
-        <!-- Ressources dropdown -->
-        <li class="dropdown">
-            <a href="/{{ page.lang }}/ressources/">{{ site.data.translations[page.lang].nav.ressources }} <i class="fas fa-chevron-down"></i></a>
-            <ul class="dropdown-menu">
-                <li><a href="/{{ page.lang }}/ressources/">{{ site.data.translations[page.lang].dropdown.atlas_overview }}</a></li>
-                <li><a href="/{{ page.lang }}/ressources/bibliographie/">Bibliographie</a></li>
-                <li><a href="/{{ page.lang }}/ressources/articles/">Articles</a></li>
-                <li><a href="/{{ page.lang }}/ressources/videos/">Vidéos</a></li>
-                <li><a href="/{{ page.lang }}/ressources/glossaire/">Glossaire</a></li>
-            </ul>
-        </li>
-        
-        <!-- Actualités -->
-        <li><a href="/{{ page.lang }}/actualites/">{{ site.data.translations[page.lang].nav.actualites }}</a></li>
-        
-        <!-- À propos dropdown -->
-        <li class="dropdown">
-            <a href="/{{ page.lang }}/a-propos/">{{ site.data.translations[page.lang].nav.a_propos }} <i class="fas fa-chevron-down"></i></a>
-            <ul class="dropdown-menu">
-                <li><a href="/{{ page.lang }}/a-propos/">{{ site.data.translations[page.lang].dropdown.atlas_overview }}</a></li>
-                <li><a href="/{{ page.lang }}/a-propos/equipe/">Équipe</a></li>
-                <li><a href="/{{ page.lang }}/a-propos/partenaires/">Partenaires</a></li>
-                <li><a href="/{{ page.lang }}/a-propos/contact/">Contact</a></li>
-            </ul>
-        </li>
-        
-        <!-- Recherche -->
-        <li class="search-link">
-            <a href="/{{ page.lang }}/recherche/"><i class="fas fa-search"></i></a>
-        </li>
-    </ul>
+{% assign lang = page.lang | default: 'fr' %}
+{% assign base = '/' | append: lang %}
+
+<nav class="main-nav" aria-label="Main">
+  <ul class="nav-menu">
+    <!-- Accueil -->
+    <li>
+      <a href="{{ base | append: '/' | relative_url }}">
+        {{ site.data.translations[lang].nav.home | default: 'Accueil' }}
+      </a>
+    </li>
+
+    <!-- Atlas dropdown -->
+    <li class="dropdown">
+      <a href="{{ base | append: '/atlas/' | relative_url }}">
+        {{ site.data.translations[lang].nav.atlas | default: 'Atlas' }}
+        <i class="fas fa-chevron-down" aria-hidden="true"></i>
+      </a>
+      <ul class="dropdown-menu">
+        <li><a href="{{ base | append: '/atlas/' | relative_url }}">{{ site.data.translations[lang].dropdown.atlas_overview | default: 'Aperçu' }}</a></li>
+        <li><a href="{{ base | append: '/atlas/familles/' | relative_url }}">{{ site.data.translations[lang].dropdown.by_family | default: 'Par famille' }}</a></li>
+        <li><a href="{{ base | append: '/atlas/systemes/' | relative_url }}">{{ site.data.translations[lang].dropdown.by_system | default: 'Par système' }}</a></li>
+        <li><a href="{{ base | append: '/atlas/maladies/' | relative_url }}">{{ site.data.translations[lang].dropdown.by_disease | default: 'Par maladie' }}</a></li>
+        <li><a href="{{ base | append: '/atlas/plantes/' | relative_url }}">{{ site.data.translations[lang].dropdown.all_plants | default: 'Toutes les plantes' }}</a></li>
+      </ul>
+    </li>
+
+    <!-- Conservation dropdown -->
+    <li class="dropdown">
+      <a href="{{ base | append: '/conservation/' | relative_url }}">
+        {{ site.data.translations[lang].nav.conservation | default: 'Conservation' }}
+        <i class="fas fa-chevron-down" aria-hidden="true"></i>
+      </a>
+      <ul class="dropdown-menu">
+        <li><a href="{{ base | append: '/conservation/' | relative_url }}">{{ site.data.translations[lang].dropdown.conservation_overview | default: 'Aperçu' }}</a></li>
+        <li><a href="{{ base | append: '/conservation/statuts/' | relative_url }}">{{ site.data.translations[lang].dropdown.status | default: 'Statuts' }}</a></li>
+        <li><a href="{{ base | append: '/conservation/especes-menacees/' | relative_url }}">{{ site.data.translations[lang].dropdown.threatened | default: 'Espèces menacées' }}</a></li>
+        <li><a href="{{ base | append: '/conservation/endemiques/' | relative_url }}">{{ site.data.translations[lang].dropdown.endemic | default: 'Endémiques' }}</a></li>
+        <li><a href="{{ base | append: '/conservation/reproduction/' | relative_url }}">{{ site.data.translations[lang].dropdown.propagation | default: 'Reproduction' }}</a></li>
+      </ul>
+    </li>
+
+    <!-- Valorisation dropdown -->
+    <li class="dropdown">
+      <a href="{{ base | append: '/valorisation/' | relative_url }}">
+        {{ site.data.translations[lang].nav.valorisation | default: 'Valorisation' }}
+        <i class="fas fa-chevron-down" aria-hidden="true"></i>
+      </a>
+      <ul class="dropdown-menu">
+        <li><a href="{{ base | append: '/valorisation/' | relative_url }}">{{ site.data.translations[lang].dropdown.valorisation_overview | default: 'Aperçu' }}</a></li>
+        <li><a href="{{ base | append: '/valorisation/usages-medicinaux/' | relative_url }}">{{ site.data.translations[lang].dropdown.medicinal_uses | default: 'Usages médicinaux' }}</a></li>
+        <li><a href="{{ base | append: '/valorisation/toxicite/' | relative_url }}">{{ site.data.translations[lang].dropdown.toxicity | default: 'Toxicité' }}</a></li>
+        <li><a href="{{ base | append: '/valorisation/preparations/' | relative_url }}">{{ site.data.translations[lang].dropdown.preparations | default: 'Préparations' }}</a></li>
+        <li><a href="{{ base | append: '/valorisation/produits-derives/' | relative_url }}">{{ site.data.translations[lang].dropdown.products | default: 'Produits dérivés' }}</a></li>
+        <li><a href="{{ base | append: '/valorisation/perspectives/' | relative_url }}">{{ site.data.translations[lang].dropdown.perspectives | default: 'Perspectives' }}</a></li>
+      </ul>
+    </li>
+
+    <!-- Ressources dropdown -->
+    <li class="dropdown">
+      <a href="{{ base | append: '/ressources/' | relative_url }}">
+        {{ site.data.translations[lang].nav.ressources | default: 'Ressources' }}
+        <i class="fas fa-chevron-down" aria-hidden="true"></i>
+      </a>
+      <ul class="dropdown-menu">
+        <li><a href="{{ base | append: '/ressources/' | relative_url }}">{{ site.data.translations[lang].dropdown.resources_overview | default: 'Aperçu' }}</a></li>
+        <li><a href="{{ base | append: '/ressources/bibliographie/' | relative_url }}">{{ site.data.translations[lang].dropdown.bibliography | default: 'Bibliographie' }}</a></li>
+        <li><a href="{{ base | append: '/ressources/articles/' | relative_url }}">{{ site.data.translations[lang].dropdown.articles | default: 'Articles' }}</a></li>
+        <li><a href="{{ base | append: '/ressources/videos/' | relative_url }}">{{ site.data.translations[lang].dropdown.videos | default: 'Vidéos' }}</a></li>
+        <li><a href="{{ base | append: '/ressources/glossaire/' | relative_url }}">{{ site.data.translations[lang].dropdown.glossary | default: 'Glossaire' }}</a></li>
+      </ul>
+    </li>
+
+    <!-- Actualités -->
+    <li>
+      <a href="{{ base | append: '/actualites/' | relative_url }}">
+        {{ site.data.translations[lang].nav.actualites | default: 'Actualités' }}
+      </a>
+    </li>
+
+    <!-- À propos dropdown -->
+    <li class="dropdown">
+      <a href="{{ base | append: '/a-propos/' | relative_url }}">
+        {{ site.data.translations[lang].nav.a_propos | default: 'À propos' }}
+        <i class="fas fa-chevron-down" aria-hidden="true"></i>
+      </a>
+      <ul class="dropdown-menu">
+        <li><a href="{{ base | append: '/a-propos/' | relative_url }}">{{ site.data.translations[lang].dropdown.about_overview | default: 'Aperçu' }}</a></li>
+        <li><a href="{{ base | append: '/a-propos/equipe/' | relative_url }}">{{ site.data.translations[lang].dropdown.team | default: 'Équipe' }}</a></li>
+        <li><a href="{{ base | append: '/a-propos/partenaires/' | relative_url }}">{{ site.data.translations[lang].dropdown.partners | default: 'Partenaires' }}</a></li>
+        <li><a href="{{ base | append: '/a-propos/contact/' | relative_url }}">{{ site.data.translations[lang].dropdown.contact | default: 'Contact' }}</a></li>
+      </ul>
+    </li>
+
+    <!-- Recherche -->
+    <li class="search-link">
+      <a href="{{ base | append: '/recherche/' | relative_url }}" aria-label="Recherche">
+        <i class="fas fa-search" aria-hidden="true"></i>
+      </a>
+    </li>
+  </ul>
 </nav>
