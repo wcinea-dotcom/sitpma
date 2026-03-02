@@ -1,0 +1,135 @@
+- id: 1
+  nom_scientifique: "Ruellia tuberosa L."
+  famille: "acanthaceae"
+  image: "/assets/images/plantes/ruellia-tuberosa.jpg"
+  noms:
+    fr: "Pèpèt"
+    en: "Minnie Root"
+    ht: "Pèpèt"
+  systemes:
+    fr: ["Digestif", "Urinaire"]
+    en: ["Digestive", "Urinary"]
+    ht: ["Dijestif", "Pipi"]
+  maladies:
+    fr: ["Troubles digestifs", "Calculs rénaux", "Diabète"]
+    en: ["Digestive issues", "Kidney stones", "Diabetes"]
+    ht: ["Pwoblèm dijesyon", "Wòch nan ren", "Dyabèt"]
+  proprietes:
+    fr: "Diurétique, anti-inflammatoire, antioxydant"
+    en: "Diuretic, anti-inflammatory, antioxidant"
+    ht: "Dyurétik, anti-enflamasyon, antioksidan"
+  utilisation:
+    fr: "Infusion des feuilles"
+    en: "Leaf infusion"
+    ht: "Fèy bouyi"
+  parties_utilisees:
+    fr: "Feuilles, racines"
+    en: "Leaves, roots"
+    ht: "Fèy, rasin"
+  preparation:
+    fr: "Infuser 5g de feuilles dans 1L d'eau bouillante pendant 10 minutes"
+    en: "Infuse 5g of leaves in 1L of boiling water for 10 minutes"
+    ht: "Enfize 5g fèy nan 1L dlo bouyi pandan 10 minit"
+  posologie:
+    fr: "1-2 tasses par jour"
+    en: "1-2 cups per day"
+    ht: "1-2 tas pa jou"
+  statut:
+    fr: "Commune"
+    en: "Common"
+    ht: "Komen"
+  origine:
+    fr: "Native"
+    en: "Native"
+    ht: "Natif natal"
+  distribution:
+    fr: ["Sud", "Grand'Anse", "Nord-Ouest"]
+    en: ["South", "Grand'Anse", "North-West"]
+    ht: ["Sid", "Grandans", "Nòdwès"]
+  altitude:
+    min: 0
+    max: 800
+  toxicite:
+    fr: "Déconseillé aux femmes enceintes. Usage modéré recommandé."
+    en: "Not recommended for pregnant women. Moderate use advised."
+    ht: "Pa rekòmande pou fanm ansent. Itilizasyon modere rekòmande."
+  description:
+    fr: |
+      ## Description botanique
+      
+      Ruellia tuberosa L., communément appelée « Pèpèt » en Haïti, est une herbacée vivace tubéreuse de la famille des Acanthaceae...
+      
+      ## Écologie et distribution
+      
+      Largement répandue dans les régions tropicales d'Amérique, elle est particulièrement commune dans le Sud et la Grand'Anse...
+      
+      ## Usages traditionnels
+      
+      Le Pèpèt est une ressource médicinale domestique majeure...
+    en: |
+      ## Botanical Description
+      
+      Ruellia tuberosa L., commonly called "Pèpèt" in Haiti, is a tuberous perennial herb of the Acanthaceae family...
+    ht: |
+      ## Deskripsyon botanik
+      
+      Ruellia tuberosa L., ke yo rele "Pèpèt" an Ayiti, se yon plant èrbase vivas ki gen rasin tubèrkil...
+  references:
+    - "TRAMIL 2014"
+    - "POWO 2023"
+    - "Flore d'Haïti Vol. 2"
+
+- id: 2
+  nom_scientifique: "Moringa oleifera Lam."
+  famille: "moringaceae"
+  image: "/assets/images/plantes/moringa-oleifera.jpg"
+  noms:
+    fr: "Benzoliv"
+    en: "Moringa"
+    ht: "Benzoliv"
+  systemes:
+    fr: ["Immunitaire", "Nutrition", "Digestif"]
+    en: ["Immune", "Nutrition", "Digestive"]
+    ht: ["Iminitè", "Nitrisyon", "Dijestif"]
+  maladies:
+    fr: ["Malnutrition", "Anémie", "Diabète"]
+    en: ["Malnutrition", "Anemia", "Diabetes"]
+    ht: ["Malnitrisyon", "Anemi", "Dyabèt"]
+  proprietes:
+    fr: "Nutritif, antioxydant, anti-inflammatoire"
+    en: "Nutritious, antioxidant, anti-inflammatory"
+    ht: "Nitritif, antioksidan, anti-enflamasyon"
+  utilisation:
+    fr: "Feuilles en poudre, infusion"
+    en: "Powdered leaves, infusion"
+    ht: "Fèy an poud, enfizyon"
+  parties_utilisees:
+    fr: "Feuilles, graines, racines"
+    en: "Leaves, seeds, roots"
+    ht: "Fèy, grenn, rasin"
+  preparation:
+    fr: "Sécher les feuilles et réduire en poudre"
+    en: "Dry leaves and grind into powder"
+    ht: "Seche fèy yo epi pile an poud"
+  posologie:
+    fr: "1 cuillère à café par jour"
+    en: "1 teaspoon per day"
+    ht: "1 ti kiyè pa jou"
+  statut:
+    fr: "Cultivée"
+    en: "Cultivated"
+    ht: "Kiltive"
+  origine:
+    fr: "Exotique (Inde)"
+    en: "Exotic (India)"
+    ht: "Egzotik (Peyi Zend)"
+  description:
+    fr: |
+      ## Description botanique
+      
+      Le Moringa oleifera, appelé « Benzoliv » en Haïti, est un arbre à croissance rapide originaire d'Inde...
+  references:
+    - "FAO 2020"
+    - "Journal of Ethnopharmacology 2019"
+
+# ... et ainsi de suite pour 300 plantes
