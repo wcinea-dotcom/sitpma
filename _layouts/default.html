@@ -1,16 +1,26 @@
 <!doctype html>
 <html lang="{{ page.lang | default: 'fr' }}">
 <head>
-  {% include head.html %}
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>{{ page.title }} | {{ site.title }}</title>
+
+  <!-- CSS local -->
+  <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/main.css">
+
+  <!-- FontAwesome -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+
+  <!-- (Optionnel) Tailwind CDN si tu le gardes -->
+  <script src="https://cdn.tailwindcss.com"></script>
 </head>
 <body>
   {% include header.html %}
-
-  <main class="min-h-screen">
+  <main>
     {{ content }}
   </main>
-
   {% include footer.html %}
-  <script src="{{ '/assets/js/app.js' | relative_url }}"></script>
+  {% include modal.html %}
+  <script src="{{ site.baseurl }}/assets/js/main.js"></script>
 </body>
 </html>
