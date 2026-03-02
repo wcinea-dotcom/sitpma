@@ -1,64 +1,290 @@
-{% assign nav = site.navigation[page.lang] %}
+<!DOCTYPE html>
+<html lang="fr" class="scroll-smooth">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Atlas des Plantes d'Haïti</title>
+    <!-- Tailwind CSS -->
+    <script src="https://cdn.tailwindcss.com"></script>
+    <!-- FontAwesome Icons -->
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" rel="stylesheet">
+    <!-- Google Fonts -->
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700;800&display=swap" rel="stylesheet">
+    
+    <style>
+        * { font-family: 'Inter', sans-serif; }
+        body { background-color: #f9fafb; }
+        
+        /* Style des dropdowns */
+        .dropdown:hover .dropdown-menu {
+            display: block;
+        }
+        
+        .dropdown-menu {
+            display: none;
+            position: absolute;
+            top: 100%;
+            left: 0;
+            background: white;
+            min-width: 220px;
+            border-radius: 0 0 12px 12px;
+            box-shadow: 0 10px 25px -5px rgba(0,0,0,0.1);
+            border-top: 4px solid #c5a059;
+            z-index: 50;
+            overflow: hidden;
+        }
+        
+        .dropdown-menu a {
+            display: block;
+            padding: 12px 20px;
+            color: #2c5e3b;
+            text-decoration: none;
+            font-size: 0.9rem;
+            font-weight: 500;
+            border-bottom: 1px solid #e5e7eb;
+            transition: all 0.2s;
+        }
+        
+        .dropdown-menu a:hover {
+            background-color: #e8f5e9;
+            color: #1e4028;
+            padding-left: 25px;
+        }
+        
+        .dropdown-menu a:last-child {
+            border-bottom: none;
+        }
+        
+        /* Style du header */
+        .header-link {
+            position: relative;
+            display: flex;
+            align-items: center;
+            gap: 4px;
+            padding: 0.5rem 1rem;
+            color: white;
+            text-decoration: none;
+            font-weight: 600;
+            font-size: 0.9rem;
+            transition: all 0.2s;
+            border-radius: 8px;
+        }
+        
+        .header-link:hover {
+            background-color: rgba(255,255,255,0.1);
+            color: #c5a059;
+        }
+        
+        /* Style du bouton PRO */
+        .pro-badge {
+            background: linear-gradient(135deg, #c5a059, #b38f4a);
+            color: #1e4028;
+            font-weight: 800;
+            padding: 0.25rem 0.75rem;
+            border-radius: 20px;
+            font-size: 0.7rem;
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+            margin-left: 8px;
+        }
+    </style>
+</head>
+<body>
 
+<!-- Header -->
 <header class="bg-[#2c5e3b] text-white shadow-lg sticky top-0 z-50">
-    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+    <div class="max-w-7xl mx-auto px-4">
         <div class="flex justify-between items-center h-20">
-            <!-- Logo -->
-            <div class="flex-shrink-0 flex items-center gap-3 cursor-pointer" onclick="window.scrollTo({top: 0, behavior: 'smooth'})">
+            
+            <!-- Logo et titre -->
+            <div class="flex items-center gap-3">
                 <i class="fa-solid fa-leaf text-3xl text-[#c5a059]"></i>
-                <h1 class="font-black text-xl md:text-2xl tracking-tight">
-                    {% if page.lang == 'fr' %}Atlas Plantes d'Haïti
-                    {% elsif page.lang == 'en' %}Haiti Plant Atlas
-                    {% else %}Atla Plant Ayiti{% endif %}
-                </h1>
+                <span class="font-black text-xl tracking-tight">Atlas Plantes d'Haïti</span>
+                <span class="pro-badge">PRO</span>
             </div>
 
-            <!-- Language Switcher -->
-            <div class="hidden md:flex items-center gap-3">
-                <div class="bg-[#1e4028] rounded-lg p-1 flex gap-1 border border-[#c5a059]/30">
-                    <a href="/fr/" class="lang-btn fr px-3 py-1.5 rounded-md text-sm font-bold {% if page.lang == 'fr' %}bg-[#c5a059] text-[#1e4028]{% else %}hover:bg-[#c5a059]/20{% endif %} transition">
-                        🇫🇷 FR
-                    </a>
-                    <a href="/en/" class="lang-btn en px-3 py-1.5 rounded-md text-sm font-bold {% if page.lang == 'en' %}bg-[#c5a059] text-[#1e4028]{% else %}hover:bg-[#c5a059]/20{% endif %} transition">
-                        🇬🇧 EN
-                    </a>
-                    <a href="/ht/" class="lang-btn ht px-3 py-1.5 rounded-md text-sm font-bold {% if page.lang == 'ht' %}bg-[#c5a059] text-[#1e4028]{% else %}hover:bg-[#c5a059]/20{% endif %} transition">
-                        🇭🇹 HT
-                    </a>
-                </div>
+            <!-- Navigation principale avec tous les menus -->
+            <nav class="hidden lg:flex items-center gap-1">
                 
-                <!-- Navigation Desktop -->
-                <nav class="hidden lg:flex items-center gap-4 ml-6">
-                    {% for item in nav %}
-                    <a href="{{ item.url }}" class="hover:text-[#c5a059] transition text-sm font-medium">
-                        {{ item.title }}
+                <!-- Accueil Dropdown -->
+                <div class="dropdown relative">
+                    <a href="/fr/" class="header-link">
+                        Accueil <i class="fa-solid fa-chevron-down text-xs ml-1"></i>
                     </a>
-                    {% endfor %}
-                </nav>
-            </div>
+                    <div class="dropdown-menu">
+                        <a href="/fr/histoire/">📜 Historicité</a>
+                        <a href="/fr/mission/">🎯 Notre Mission</a>
+                        <a href="/fr/avertissement/">⚠️ Avertissement</a>
+                        <a href="/fr/vocabulaire/">📚 Vocabulaire</a>
+                        <a href="/fr/ressources/">📖 Ressources</a>
+                    </div>
+                </div>
 
-            <!-- Mobile Menu Button -->
-            <div class="md:hidden flex items-center gap-2">
-                <select id="mobileLang" class="bg-[#1e4028] border border-[#c5a059] rounded-lg px-2 py-1 text-sm text-white" onchange="window.location.href = this.value">
-                    <option value="/fr/" {% if page.lang == 'fr' %}selected{% endif %}>🇫🇷 FR</option>
-                    <option value="/en/" {% if page.lang == 'en' %}selected{% endif %}>🇬🇧 EN</option>
-                    <option value="/ht/" {% if page.lang == 'ht' %}selected{% endif %}>🇭🇹 HT</option>
-                </select>
-                <button id="mobile-menu-btn" class="outline-none text-white focus:outline-none p-2">
-                    <i class="fa-solid fa-bars text-3xl"></i>
-                </button>
-            </div>
-        </div>
-    </div>
+                <!-- Familles Dropdown -->
+                <div class="dropdown relative">
+                    <a href="/fr/familles/" class="header-link">
+                        Familles <i class="fa-solid fa-chevron-down text-xs ml-1"></i>
+                    </a>
+                    <div class="dropdown-menu">
+                        <a href="/fr/familles/acanthaceae/">🌿 Acanthaceae</a>
+                        <a href="/fr/familles/asteraceae/">🌻 Asteraceae</a>
+                        <a href="/fr/familles/fabaceae/">🌱 Fabaceae</a>
+                        <a href="/fr/familles/lamiaceae/">🍃 Lamiaceae</a>
+                        <a href="/fr/familles/rutaceae/">🍊 Rutaceae</a>
+                        <a href="/fr/familles/solanaceae/">🍅 Solanaceae</a>
+                        <a href="/fr/familles/" class="font-bold text-[#c5a059]">Voir toutes →</a>
+                    </div>
+                </div>
 
-    <!-- Mobile Menu -->
-    <div id="mobile-menu" class="hidden md:hidden bg-[#1e4028] border-t border-[#c5a059]/30 pb-4 shadow-inner">
-        <div class="px-4 py-2 space-y-2">
-            {% for item in nav %}
-            <a href="{{ item.url }}" class="block px-4 py-3 hover:bg-[#2c5e3b] rounded-lg text-white">
-                {{ item.title }}
-            </a>
-            {% endfor %}
+                <!-- Systèmes Dropdown -->
+                <div class="dropdown relative">
+                    <a href="/fr/systemes/" class="header-link">
+                        Systèmes <i class="fa-solid fa-chevron-down text-xs ml-1"></i>
+                    </a>
+                    <div class="dropdown-menu">
+                        <a href="/fr/systemes/nerveux/">🧠 Nerveux</a>
+                        <a href="/fr/systemes/digestif/">🍽️ Digestif</a>
+                        <a href="/fr/systemes/cardiovasculaire/">❤️ Cardiovasculaire</a>
+                        <a href="/fr/systemes/respiratoire/">🫁 Respiratoire</a>
+                        <a href="/fr/systemes/immunitaire/">🛡️ Immunitaire</a>
+                        <a href="/fr/systemes/urinaire/">💧 Urinaire</a>
+                        <a href="/fr/systemes/reproducteur/">👶 Reproducteur</a>
+                        <a href="/fr/systemes/musculo-squelettique/">🦴 Musculo-squelettique</a>
+                        <a href="/fr/systemes/endocrinien/">⚖️ Endocrinien</a>
+                        <a href="/fr/systemes/dermatologique/">🧴 Dermatologique</a>
+                        <a href="/fr/systemes/" class="font-bold text-[#c5a059]">Voir tous →</a>
+                    </div>
+                </div>
+
+                <!-- Maladies Dropdown -->
+                <div class="dropdown relative">
+                    <a href="/fr/maladies/" class="header-link">
+                        Maladies <i class="fa-solid fa-chevron-down text-xs ml-1"></i>
+                    </a>
+                    <div class="dropdown-menu">
+                        <a href="/fr/maladies/diabete/">💉 Diabète</a>
+                        <a href="/fr/maladies/hypertension/">📈 Hypertension</a>
+                        <a href="/fr/maladies/paludisme/">🦟 Paludisme</a>
+                        <a href="/fr/maladies/infections/">🦠 Infections</a>
+                        <a href="/fr/maladies/inflammations/">🔥 Inflammations</a>
+                        <a href="/fr/maladies/calculs-renaux/">🪨 Calculs rénaux</a>
+                        <a href="/fr/maladies/parasitose/">🐛 Parasitose</a>
+                        <a href="/fr/maladies/stress/">😰 Stress & Anxiété</a>
+                        <a href="/fr/maladies/" class="font-bold text-[#c5a059]">Voir toutes →</a>
+                    </div>
+                </div>
+
+                <!-- Conservation Dropdown -->
+                <div class="dropdown relative">
+                    <a href="/fr/conservation/" class="header-link">
+                        Conservation <i class="fa-solid fa-chevron-down text-xs ml-1"></i>
+                    </a>
+                    <div class="dropdown-menu">
+                        <a href="/fr/conservation/statuts/">📊 Statuts des espèces</a>
+                        <a href="/fr/conservation/especes-menacees/">⚠️ Espèces menacées</a>
+                        <a href="/fr/conservation/endemiques/">🌍 Espèces endémiques</a>
+                        <a href="/fr/conservation/reproduction/">🌱 Reproduction</a>
+                        <a href="/fr/conservation/habitats/">🏞️ Habitats</a>
+                        <a href="/fr/conservation/restauration/">🔄 Restauration écologique</a>
+                    </div>
+                </div>
+
+                <!-- Valorisation Dropdown -->
+                <div class="dropdown relative">
+                    <a href="/fr/valorisation/" class="header-link">
+                        Valorisation <i class="fa-solid fa-chevron-down text-xs ml-1"></i>
+                    </a>
+                    <div class="dropdown-menu">
+                        <a href="/fr/valorisation/usages-medicinaux/">💊 Usages médicinaux</a>
+                        <a href="/fr/valorisation/toxicite/">⚠️ Toxicité & précautions</a>
+                        <a href="/fr/valorisation/preparations/">⚗️ Préparations</a>
+                        <a href="/fr/valorisation/produits-derives/">🧴 Produits dérivés</a>
+                        <a href="/fr/valorisation/perspectives/">🔬 Perspectives</a>
+                    </div>
+                </div>
+
+                <!-- Ressources Dropdown -->
+                <div class="dropdown relative">
+                    <a href="/fr/ressources/" class="header-link">
+                        Ressources <i class="fa-solid fa-chevron-down text-xs ml-1"></i>
+                    </a>
+                    <div class="dropdown-menu">
+                        <a href="/fr/ressources/bibliographie/">📚 Bibliographie</a>
+                        <a href="/fr/ressources/articles/">📄 Articles scientifiques</a>
+                        <a href="/fr/ressources/videos/">🎥 Vidéos</a>
+                        <a href="/fr/ressources/glossaire/">📖 Glossaire</a>
+                        <a href="/fr/ressources/bases-donnees/">🗄️ Bases de données</a>
+                    </div>
+                </div>
+
+                <!-- Sélecteur de langue -->
+                <div class="ml-4 flex items-center gap-1 bg-[#1e4028] rounded-lg p-1">
+                    <a href="/fr/" class="px-3 py-1.5 rounded-md text-sm font-bold bg-[#c5a059] text-[#1e4028]">FR</a>
+                    <a href="/en/" class="px-3 py-1.5 rounded-md text-sm font-bold hover:bg-[#c5a059]/20 transition">EN</a>
+                    <a href="/ht/" class="px-3 py-1.5 rounded-md text-sm font-bold hover:bg-[#c5a059]/20 transition">HT</a>
+                </div>
+            </nav>
+
+            <!-- Menu mobile (hamburger) -->
+            <button class="lg:hidden text-white">
+                <i class="fa-solid fa-bars text-2xl"></i>
+            </button>
         </div>
     </div>
 </header>
+
+<!-- Bannière d'avertissement -->
+<div class="bg-gradient-to-r from-red-600 to-red-500 text-white py-3 px-4">
+    <div class="max-w-7xl mx-auto flex items-center justify-center gap-3 text-center text-sm md:text-base">
+        <i class="fa-solid fa-triangle-exclamation text-xl"></i>
+        <span class="font-bold">AVERTISSEMENT IMPORTANT :</span>
+        Cet atlas n'est pas destiné à l'automédication. Consultez toujours un professionnel de santé.
+    </div>
+</div>
+
+<!-- Contenu principal (exemple) -->
+<main class="max-w-7xl mx-auto px-4 py-12">
+    <h1 class="text-4xl md:text-5xl font-black text-[#1e4028] mb-6">
+        Atlas des Plantes du Grand Sud d'Haïti
+    </h1>
+    
+    <p class="text-xl text-gray-600 mb-8">
+        Explorez la richesse de la flore médicinale, aromatique et nutritionnelle des départements du Sud et de la Grand'Anse.
+    </p>
+    
+    <div class="grid grid-cols-1 md:grid-cols-4 gap-6 mt-12">
+        <div class="bg-white p-6 rounded-xl shadow-md text-center">
+            <div class="text-3xl font-bold text-[#2c5e3b]">90+</div>
+            <div class="text-gray-600">Plantes documentées</div>
+        </div>
+        <div class="bg-white p-6 rounded-xl shadow-md text-center">
+            <div class="text-3xl font-bold text-[#2c5e3b]">25+</div>
+            <div class="text-gray-600">Familles botaniques</div>
+        </div>
+        <div class="bg-white p-6 rounded-xl shadow-md text-center">
+            <div class="text-3xl font-bold text-[#2c5e3b]">12</div>
+            <div class="text-gray-600">Systèmes du corps</div>
+        </div>
+        <div class="bg-white p-6 rounded-xl shadow-md text-center">
+            <div class="text-3xl font-bold text-[#2c5e3b]">3</div>
+            <div class="text-gray-600">Langues disponibles</div>
+        </div>
+    </div>
+</main>
+
+<!-- Footer -->
+<footer class="bg-gray-900 text-gray-400 py-12 mt-12 border-t-4 border-[#c5a059]">
+    <div class="max-w-7xl mx-auto px-4 text-center">
+        <p class="text-white text-lg mb-4">Atlas des Plantes du Grand Sud d'Haïti</p>
+        <p class="text-sm">Documentation, conservation et valorisation de la biodiversité</p>
+        <p class="text-xs mt-8">© 2026 Atlas Botanique d'Haïti. Tous droits réservés.</p>
+    </div>
+</footer>
+
+<!-- Script pour le menu mobile (optionnel) -->
+<script>
+    // Vous pouvez ajouter ici le script pour le menu mobile si nécessaire
+</script>
+
+</body>
+</html>
