@@ -1,21 +1,50 @@
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<header class="bg-[#2c5e3b] text-white shadow-lg sticky top-0 z-50">
+  <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+    <div class="flex justify-between items-center h-20">
 
-<title>
-  {% if page.title %}
-    {{ page.title | escape }} | 
-  {% endif %}
-  {{ site.title | escape }}
-</title>
+      <div class="flex-shrink-0 flex items-center gap-3 cursor-pointer" onclick="window.scrollTo({top: 0, behavior: 'smooth'})">
+        <i class="fa-solid fa-leaf text-3xl text-[#c5a059]"></i>
+        <h1 class="font-black text-xl md:text-2xl tracking-tight" data-i18n="hero_title"></h1>
+      </div>
 
-<!-- Google Fonts -->
-<link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700;800&display=swap" rel="stylesheet">
+      <div class="hidden md:flex items-center gap-3">
+        
+        <div class="bg-[#1e4028] rounded-lg p-1 flex gap-1 border border-[#c5a059]/30">
+          <button type="button" onclick="applyTranslations('fr')" class="lang-btn px-3 py-1.5 rounded-md text-sm font-bold hover:bg-[#c5a059]/20 transition" data-lang="fr">🇫🇷 FR</button>
+          <button type="button" onclick="applyTranslations('en')" class="lang-btn px-3 py-1.5 rounded-md text-sm font-bold hover:bg-[#c5a059]/20 transition" data-lang="en">🇬🇧 EN</button>
+          <button type="button" onclick="applyTranslations('ht')" class="lang-btn px-3 py-1.5 rounded-md text-sm font-bold hover:bg-[#c5a059]/20 transition" data-lang="ht">🇭🇹 HT</button>
+        </div>
 
-<!-- Tailwind CSS (chargement non bloquant) -->
-<script defer src="https://cdn.tailwindcss.com"></script>
+        <nav class="hidden lg:flex items-center gap-4 ml-6">
+          <a href="#home" class="hover:text-[#c5a059] transition text-sm font-medium" data-i18n="nav_home"></a>
+          <a href="#data-hub" class="hover:text-[#c5a059] transition text-sm font-medium" data-i18n="nav_data"></a>
+          <a href="#resources-hub" class="hover:text-[#c5a059] transition text-sm font-medium" data-i18n="nav_res"></a>
+          <a href="#mission" class="hover:text-[#c5a059] transition text-sm font-medium" data-i18n="nav_miss"></a>
+        </nav>
+      </div>
 
-<!-- CSS personnalisé (important pour ton design) -->
-<link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}">
+      <div class="md:hidden flex items-center gap-2">
+        
+        <select id="mobileLang" class="bg-[#1e4028] border border-[#c5a059] rounded-lg px-2 py-1 text-sm text-white" onchange="applyTranslations(this.value)">
+          <option value="fr">🇫🇷 FR</option>
+          <option value="en">🇬🇧 EN</option>
+          <option value="ht">🇭🇹 HT</option>
+        </select>
 
-<!-- FontAwesome -->
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+        <button id="mobile-menu-btn" class="outline-none text-white focus:outline-none p-2" type="button" aria-label="Open Menu">
+          <i class="fa-solid fa-bars text-3xl"></i>
+        </button>
+      </div>
+
+    </div>
+  </div>
+
+  <div id="mobile-menu" class="hidden bg-[#1e4028] border-t border-[#c5a059]/30 pb-4 shadow-inner">
+    <div class="px-4 py-2 space-y-2">
+      <a href="#home" class="block px-4 py-3 hover:bg-[#2c5e3b] rounded-lg text-white" data-i18n="nav_home"></a>
+      <a href="#data-hub" class="block px-4 py-3 hover:bg-[#2c5e3b] rounded-lg text-white" data-i18n="nav_data"></a>
+      <a href="#resources-hub" class="block px-4 py-3 hover:bg-[#2c5e3b] rounded-lg text-white" data-i18n="nav_res"></a>
+      <a href="#mission" class="block px-4 py-3 hover:bg-[#2c5e3b] rounded-lg text-white" data-i18n="nav_miss"></a>
+    </div>
+  </div>
+</header>
