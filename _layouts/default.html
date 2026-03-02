@@ -3,32 +3,31 @@
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width,initial-scale=1" />
-  <title>{{ page.title }}{% if site.title %} | {{ site.title }}{% endif %}</title>
+  <title>{{ page.title | escape }} | {{ site.title | escape }}</title>
 
-  <!-- CSS local (corrigé: ton repo a style.css) -->
-  <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+  <!-- CSS local -->
+  <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}">
 
   <!-- FontAwesome -->
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
 
-  <!-- Tailwind CDN (optionnel) -->
+  <!-- Tailwind (si tu le gardes) -->
   <script src="https://cdn.tailwindcss.com"></script>
 </head>
+
 <body>
   {% include header.html %}
-
   <main>
     {{ content }}
   </main>
-
   {% include footer.html %}
 
-  <!-- MODAL (ne garder QUE si le fichier existe dans _includes/) -->
-  {% comment %}
+  {%- comment -%}
+  IMPORTANT:
+  Si _includes/modal.html n'existe pas, ça casse Netlify.
+  {%- endcomment -%}
   {% include modal.html %}
-  {% endcomment %}
 
-  <!-- JS local (corrigé: ton repo a app.js; sinon remets main.js si tu l’as vraiment) -->
-  <script src="{{ '/assets/js/app.js' | relative_url }}"></script>
+  <script src="{{ '/assets/js/main.js' | relative_url }}"></script>
 </body>
 </html>
