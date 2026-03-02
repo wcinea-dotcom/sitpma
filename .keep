@@ -1,9 +1,4 @@
----
-layout: default
-title: "Accueil"
-lang: fr
-permalink: /fr/
----
+
 
 <!-- Hero Avertissement -->
 <section class="bg-gradient-to-r from-red-700 to-red-500 text-white py-6 px-4">
