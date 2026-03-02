@@ -1,16 +1,16 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="{{ page.lang | default: 'fr' }}">
 <head>
-    {% include head.html %}
+  {% include head.html %}
 </head>
 <body>
-    {% include header.html %}
-    {% include warning-banner.html %}
-    
-    <main class="min-h-screen">
-        {{ content }}
-    </main>
-    
-    {% include footer.html %}
+  {% include header.html %}
+
+  <main class="min-h-screen">
+    {{ content }}
+  </main>
+
+  {% include footer.html %}
+  <script src="{{ '/assets/js/app.js' | relative_url }}"></script>
 </body>
 </html>
