@@ -1,134 +1,21 @@
-<header class="site-header" id="top">
-  <div class="nav-wrap">
-    <a class="brand" href="index.html" aria-label="Accueil">
-      <span class="brand-mark" aria-hidden="true">
-        <!-- petite icône feuille -->
-        <svg width="34" height="34" viewBox="0 0 24 24" fill="none">
-          <path d="M20 4s-7 1-11 5-5 11-5 11 7-1 11-5 5-11 5-11Z" fill="currentColor" opacity=".95"/>
-          <path d="M9 15c2-2 6-4 10-5" stroke="#0b1f14" stroke-width="1.6" stroke-linecap="round"/>
-        </svg>
-      </span>
-      <span class="brand-title">Atlas Plantes d'Haïti</span>
-    </a>
+<header class="site-header">
+    <div class="container">
+        <div class="header-content">
+            <div class="logo">
+                <a href="/{{ page.lang }}/">
+                    <i class="fas fa-leaf"></i>
+                    <span>{{ site.data.translations[page.lang].site_title }}</span>
+                </a>
+            </div>
 
-    <!-- actions à gauche du menu -->
-    <div class="nav-actions">
-      <button class="lang-btn" id="langSelector" type="button" aria-haspopup="listbox" aria-expanded="false">
-        <span class="globe" aria-hidden="true">
-          <svg width="16" height="16" viewBox="0 0 24 24" fill="none">
-            <path d="M12 22a10 10 0 1 0-10-10 10 10 0 0 0 10 10Z" stroke="currentColor" stroke-width="1.8"/>
-            <path d="M2 12h20" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"/>
-            <path d="M12 2c3.5 3 3.5 17 0 20" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"/>
-            <path d="M12 2c-3.5 3-3.5 17 0 20" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" opacity=".55"/>
-          </svg>
-        </span>
-        <span id="currentLang">FR</span>
-        <span class="chev" aria-hidden="true">▾</span>
-      </button>
-
-      <ul class="lang-menu" id="langMenu" role="listbox" aria-label="Choix de langue" hidden>
-        <li role="option"><button type="button" data-lang="FR">FR — Français</button></li>
-        <li role="option"><button type="button" data-lang="EN">EN — English</button></li>
-        <li role="option"><button type="button" data-lang="ES">ES — Español</button></li>
-      </ul>
+            {% include navigation.html %}
+            {% include language-switcher.html %}
+            
+            <button class="mobile-menu-toggle">
+                <i class="fas fa-bars"></i>
+            </button>
+        </div>
     </div>
-
-    <!-- bouton mobile -->
-    <button class="burger" id="mobileMenuBtn" type="button" aria-label="Ouvrir le menu" aria-expanded="false">
-      <span></span><span></span><span></span>
-    </button>
-
-    <!-- menu desktop -->
-    <nav class="main-nav" id="mainNav" aria-label="Navigation principale">
-      <ul class="nav-list">
-        <li class="nav-item has-dd">
-          <a href="#" class="nav-link">Accueil</a>
-          <ul class="dropdown">
-            <li><a href="index.html">Page d’accueil</a></li>
-            <li><a href="#intro">Introduction</a></li>
-          </ul>
-        </li>
-
-        <li class="nav-item has-dd">
-          <a href="#" class="nav-link">Familles</a>
-          <ul class="dropdown">
-            <li><a href="familles.html">Toutes les familles</a></li>
-            <li><a href="famille-detail.html">Famille (exemple)</a></li>
-          </ul>
-        </li>
-
-        <li class="nav-item has-dd">
-          <a href="#" class="nav-link">Systèmes</a>
-          <ul class="dropdown">
-            <li><a href="systemes.html">Tous les systèmes</a></li>
-            <li><a href="systeme-digestif.html">Système digestif</a></li>
-            <li><a href="systeme-respiratoire.html">Système respiratoire</a></li>
-          </ul>
-        </li>
-
-        <li class="nav-item has-dd">
-          <a href="#" class="nav-link">Maladies</a>
-          <ul class="dropdown">
-            <li><a href="maladies.html">Liste des maladies</a></li>
-            <li><a href="maladie-grippe.html">Grippe (exemple)</a></li>
-          </ul>
-        </li>
-
-        <li class="nav-item has-dd">
-          <a href="#" class="nav-link">Conservation</a>
-          <ul class="dropdown">
-            <li><a href="conservation.html">Approche</a></li>
-            <li><a href="in-situ.html">In situ</a></li>
-            <li><a href="ex-situ.html">Ex situ</a></li>
-          </ul>
-        </li>
-
-        <li class="nav-item has-dd">
-          <a href="#" class="nav-link">Valorisation</a>
-          <ul class="dropdown">
-            <li><a href="valorisation.html">Usages</a></li>
-            <li><a href="phytotherapie.html">Phytothérapie</a></li>
-          </ul>
-        </li>
-
-        <li class="nav-item has-dd">
-          <a href="#" class="nav-link">Ressources</a>
-          <ul class="dropdown">
-            <li><a href="ressources.html">Documents</a></li>
-            <li><a href="references.html">Références</a></li>
-          </ul>
-        </li>
-      </ul>
-    </nav>
-
-    <!-- bouton vertical à droite -->
-    <a class="db-pill" href="base-de-donnees.html" aria-label="Base de données">
-      <span class="db-ico" aria-hidden="true">🗄️</span>
-      <span class="db-text">Base<br/>de<br/>données</span>
-    </a>
-  </div>
-
-  <!-- menu mobile (drawer) -->
-  <div class="mobile-drawer" id="mobileDrawer" hidden>
-    <div class="mobile-inner">
-      <div class="mobile-top">
-        <strong>Menu</strong>
-        <button class="mobile-close" id="mobileClose" type="button" aria-label="Fermer">✕</button>
-      </div>
-
-      <a class="mobile-link" href="index.html">Accueil</a>
-      <a class="mobile-link" href="familles.html">Familles</a>
-      <a class="mobile-link" href="systemes.html">Systèmes</a>
-      <a class="mobile-link" href="maladies.html">Maladies</a>
-      <a class="mobile-link" href="conservation.html">Conservation</a>
-      <a class="mobile-link" href="valorisation.html">Valorisation</a>
-      <a class="mobile-link" href="ressources.html">Ressources</a>
-
-      <div class="mobile-cta">
-        <a href="base-de-donnees.html" class="mobile-db">Base de données</a>
-      </div>
-    </div>
-  </div>
 </header>
         
        
