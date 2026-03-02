@@ -8,34 +8,43 @@ baseurl: ""
 url: "https://atlasplantes.ht"
 
 # Build settings
-theme: minima
+markdown: kramdown
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-sitemap
+  - jekyll-paginate
 
 # Collections
 collections:
   plantes:
     output: true
     permalink: /:collection/:name/
+  familles:
+    output: true
+    permalink: /:collection/:name/
+  systemes:
+    output: true
+    permalink: /:collection/:name/
+  maladies:
+    output: true
+    permalink: /:collection/:name/
   ressources:
     output: true
     permalink: /:collection/:name/
 
-# Langues supportées
+# Pagination
+paginate: 20
+paginate_path: "/fr/atlas/plantes/page/:num/"
+
+# Langues
 languages:
   - fr
   - en
   - ht
 
-# Defaults
+# Defaults par langue
 defaults:
-  - scope:
-      path: ""
-      type: "pages"
-    values:
-      layout: "page"
   - scope:
       path: "fr"
     values:
@@ -52,37 +61,7 @@ defaults:
       lang: "ht"
       locale: "ht_HT"
 
-# Navigation principale
-navigation:
-  fr:
-    - title: "Accueil"
-      url: "/fr/"
-    - title: "Plantes"
-      url: "/fr/plantes/"
-    - title: "Ressources"
-      url: "/fr/ressources/"
-    - title: "À propos"
-      url: "/fr/a-propos/"
-  en:
-    - title: "Home"
-      url: "/en/"
-    - title: "Plants"
-      url: "/en/plants/"
-    - title: "Resources"
-      url: "/en/resources/"
-    - title: "About"
-      url: "/en/about/"
-  ht:
-    - title: "Akèy"
-      url: "/ht/"
-    - title: "Plant"
-      url: "/ht/plant/"
-    - title: "Resous"
-      url: "/ht/resous/"
-    - title: "Apwopo"
-      url: "/ht/apwopo/"
-
-# Exclude from processing
+# Exclude
 exclude:
   - Gemfile
   - Gemfile.lock
