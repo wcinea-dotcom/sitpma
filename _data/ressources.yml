@@ -1,0 +1,7 @@
+- type: "Livre"
+  titres:
+    fr: "Pharmacopée de la Caraïbe"
+  auteur: "TRAMIL"
+  annee: "2014"
+  descriptions:
+    fr: "Ouvrage de référence sur les plantes médicinales caribéennes."
