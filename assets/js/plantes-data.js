@@ -286,4 +286,86 @@ const plantesData = [
         id: 24,
         nomScientifique: "Bidens pilosa L.",
         famille: "Asteraceae",
-        image:
+        image: "https://images.unsplash.com/photo-1628096321710-6a9b3f3e4b6d?auto=format&fit=crop&q=80&w=400&h=300",
+        nomCommun: {fr:"Zegwi", en:"Hairy beggarticks", ht:"Zegwi"},
+        systeme: {fr:"Sanguin, Métabolique", en:"Blood, Metabolic", ht:"San, Metabolik"},
+        maladie: {fr:"Anémie, Diabète", en:"Anemia, Diabetes", ht:"Anemi, Dyabèt"},
+        utilisation: {fr:"Feuilles cuites", en:"Cooked leaves", ht:"Fèy kwit"},
+        statut: {fr:"Commune", en:"Common", ht:"Komen"},
+        origine: {fr:"Native", en:"Native", ht:"Natif natal"}
+    },
+    {
+        id: 25,
+        nomScientifique: "Chromolaena odorata",
+        famille: "Asteraceae",
+        image: "https://images.unsplash.com/photo-1518495973542-4542c06a5843?auto=format&fit=crop&q=80&w=400&h=300",
+        nomCommun: {fr:"Laglichat", en:"Siam weed", ht:"Laglichat"},
+        systeme: {fr:"Dermatologique", en:"Dermatological", ht:"Po"},
+        maladie: {fr:"Plaies, Coupures", en:"Wounds, Cuts", ht:"Blesi, Koup"},
+        utilisation: {fr:"Jus des feuilles", en:"Leaf juice", ht:"Ji fèy"},
+        statut: {fr:"Envahissante", en:"Invasive", ht:"Anvayisan"},
+        origine: {fr:"Native", en:"Native", ht:"Natif natal"}
+    },
+    {
+        id: 26,
+        nomScientifique: "Neurolaena lobata",
+        famille: "Asteraceae",
+        image: "https://images.unsplash.com/photo-1532094349884-543bc11b234d?auto=format&fit=crop&q=80&w=400&h=300",
+        nomCommun: {fr:"Zèb a clous", en:"Jackass bitters", ht:"Zèb a klou"},
+        systeme: {fr:"Immunitaire", en:"Immune", ht:"Iminitè"},
+        maladie: {fr:"Paludisme, Fièvres", en:"Malaria, Fever", ht:"Malarya, Lafyèv"},
+        utilisation: {fr:"Décoction", en:"Decoction", ht:"Dekoksyon"},
+        statut: {fr:"Rare", en:"Rare", ht:"Ra"},
+        origine: {fr:"Native", en:"Native", ht:"Natif natal"}
+    },
+    {
+        id: 27,
+        nomScientifique: "Catalpa longissima",
+        famille: "Bignoniaceae",
+        image: "https://images.unsplash.com/photo-1542601906990-b4d3fb778b09?auto=format&fit=crop&q=80&w=400&h=300",
+        nomCommun: {fr:"Bwa Chèn", en:"Haitian oak", ht:"Bwa Chèn"},
+        systeme: {fr:"Digestif", en:"Digestive", ht:"Dijestif"},
+        maladie: {fr:"Diarrhée, Maux de gorge", en:"Diarrhea, Sore throat", ht:"Dyare, Gòj fè mal"},
+        utilisation: {fr:"Décoction d'écorce", en:"Bark decoction", ht:"Dekoksyon kòs"},
+        statut: {fr:"Menacée", en:"Endangered", ht:"An danje"},
+        origine: {fr:"Native", en:"Native", ht:"Natif natal"}
+    },
+    {
+        id: 28,
+        nomScientifique: "Crescentia cujete L.",
+        famille: "Bignoniaceae",
+        image: "https://images.unsplash.com/photo-1589923188900-85dae523342b?auto=format&fit=crop&q=80&w=400&h=300",
+        nomCommun: {fr:"Kalbas", en:"Calabash", ht:"Kalbas"},
+        systeme: {fr:"Respiratoire", en:"Respiratory", ht:"Respiratwa"},
+        maladie: {fr:"Bronchite, Asthme", en:"Bronchitis, Asthma", ht:"Bwonchit, Opresyon"},
+        utilisation: {fr:"Sirop de pulpe", en:"Pulp syrup", ht:"Siwo kalebasi"},
+        statut: {fr:"Commune", en:"Common", ht:"Komen"},
+        origine: {fr:"Native", en:"Native", ht:"Natif natal"},
+        toxicite: {fr:"Pulpe crue toxique", en:"Raw pulp toxic", ht:"Kalebas kri pwezon"}
+    },
+    {
+        id: 29,
+        nomScientifique: "Bixa orellana L.",
+        famille: "Bixaceae",
+        image: "https://images.unsplash.com/photo-1576188973526-0e5d7047b0cf?auto=format&fit=crop&q=80&w=400&h=300",
+        nomCommun: {fr:"Roukou", en:"Achiote", ht:"Woukou"},
+        systeme: {fr:"Nutrition, Métabolique", en:"Nutrition, Metabolic", ht:"Nitrisyon, Metabolik"},
+        maladie: {fr:"Diabète, Colorant", en:"Diabetes, Colorant", ht:"Dyabèt, Koloran"},
+        utilisation: {fr:"Graines en cuisine", en:"Seeds in cooking", ht:"Grenn nan manje"},
+        statut: {fr:"Rare", en:"Rare", ht:"Ra"},
+        origine: {fr:"Native", en:"Native", ht:"Natif natal"}
+    },
+    {
+        id: 30,
+        nomScientifique: "Heliotropium indicum",
+        famille: "Boraginaceae",
+        image: "https://images.unsplash.com/photo-1473448912268-2022ce9509d8?auto=format&fit=crop&q=80&w=400&h=300",
+        nomCommun: {fr:"Krèt kòk", en:"Indian heliotrope", ht:"Krèt kòk"},
+        systeme: {fr:"Ophtalmologique", en:"Ophthalmic", ht:"Je"},
+        maladie: {fr:"Conjonctivite, Taies", en:"Conjunctivitis, Opacities", ht:"Konjonktivit, Tach"},
+        utilisation: {fr:"Jus en collyre", en:"Juice as eye drops", ht:"Ji pou je"},
+        statut: {fr:"Commune", en:"Common", ht:"Komen"},
+        origine: {fr:"Exotique", en:"Exotic", ht:"Egzotik"},
+        toxicite: {fr:"Hépatotoxique (interne)", en:"Hepatotoxic (internal)", ht:"Pwezon pou fwa (si vale)"}
+    }
+];
