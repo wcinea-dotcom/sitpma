@@ -9,7 +9,7 @@ Site web documentaire sur les plantes médicinales, aromatiques et nutritionnell
 - Filtres par famille botanique, système du corps, maladie
 - Ressources documentaires (livres, articles, vocabulaire)
 - Interface responsive et moderne
-- Mode hors ligne avec localStorage
+- Mode hors ligne avec localStorage.
 
 ## 🚀 Déploiement
 
