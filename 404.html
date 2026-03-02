@@ -3,17 +3,98 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Page non trouvée - Atlas Plantes d'Haïti</title>
-    <script src="https://cdn.tailwindcss.com"></script>
+    <title>404 - Page non trouvée</title>
+    <style>
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            background: linear-gradient(135deg, #1e4028 0%, #2c5e3b 100%);
+            min-height: 100vh;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            margin: 0;
+            padding: 20px;
+            color: white;
+        }
+        
+        .container {
+            max-width: 600px;
+            text-align: center;
+            background: rgba(255,255,255,0.1);
+            backdrop-filter: blur(10px);
+            border-radius: 30px;
+            padding: 50px;
+            border: 1px solid rgba(255,255,255,0.2);
+        }
+        
+        h1 {
+            font-size: 6rem;
+            margin: 0;
+            color: #c5a059;
+            line-height: 1;
+        }
+        
+        h2 {
+            font-size: 2rem;
+            margin: 0 0 20px 0;
+        }
+        
+        .leaf {
+            font-size: 5rem;
+            margin-bottom: 20px;
+        }
+        
+        .btn {
+            display: inline-block;
+            padding: 15px 40px;
+            background: #c5a059;
+            color: #1e4028;
+            text-decoration: none;
+            border-radius: 50px;
+            font-weight: bold;
+            margin-top: 20px;
+            transition: transform 0.3s;
+        }
+        
+        .btn:hover {
+            transform: translateY(-3px);
+        }
+        
+        .links {
+            margin-top: 30px;
+            display: flex;
+            gap: 20px;
+            justify-content: center;
+        }
+        
+        .links a {
+            color: white;
+            text-decoration: none;
+            padding: 5px 15px;
+            border-radius: 20px;
+            background: rgba(255,255,255,0.1);
+        }
+        
+        .links a:hover {
+            background: #c5a059;
+            color: #1e4028;
+        }
+    </style>
 </head>
-<body class="bg-gray-50 min-h-screen flex items-center justify-center">
-    <div class="text-center p-8">
-        <i class="fa-solid fa-leaf text-6xl text-botanical mb-4"></i>
-        <h1 class="text-4xl font-bold text-gray-800 mb-4">404 - Page non trouvée</h1>
-        <p class="text-gray-600 mb-8">La page que vous recherchez n'existe pas ou a été déplacée.</p>
-        <a href="/" class="px-6 py-3 bg-botanical text-white rounded-lg hover:bg-botanical-dark transition">
-            Retour à l'accueil
-        </a>
+<body>
+    <div class="container">
+        <div class="leaf">🌿</div>
+        <h1>404</h1>
+        <h2>Page non trouvée</h2>
+        <p>La page que vous recherchez n'existe pas ou a été déplacée.</p>
+        
+        <a href="/" class="btn">🏠 Retour à l'accueil</a>
+        
+        <div class="links">
+            <a href="/fr/">🇫🇷 FR</a>
+            <a href="/en/">🇬🇧 EN</a>
+            <a href="/ht/">🇭🇹 HT</a>
+        </div>
     </div>
 </body>
 </html>
