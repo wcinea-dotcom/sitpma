@@ -1,144 +1,75 @@
----
-layout: default
-title: "Accueil - Atlas des Plantes d'Haïti"
-lang: fr
-permalink: /
----
-
-<style>
-.home-redirect {
-    text-align: center;
-    padding: 50px 20px;
-    max-width: 800px;
-    margin: 0 auto;
-}
-
-.language-grid {
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
-    gap: 30px;
-    margin: 50px 0;
-}
-
-.lang-card {
-    background: linear-gradient(135deg, #f8f9fa 0%, #e9ecef 100%);
-    border-radius: 20px;
-    padding: 40px 20px;
-    text-decoration: none;
-    color: #2c5e3b;
-    transition: all 0.3s ease;
-    border: 2px solid transparent;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    gap: 15px;
-}
-
-.lang-card:hover {
-    transform: translateY(-10px);
-    border-color: #c5a059;
-    box-shadow: 0 20px 40px rgba(0,0,0,0.1);
-}
-
-.lang-flag {
-    font-size: 5rem;
-    line-height: 1;
-}
-
-.lang-name {
-    font-size: 2rem;
-    font-weight: bold;
-}
-
-.lang-desc {
-    color: #666;
-    font-size: 1rem;
-}
-
-.hero {
-    background: linear-gradient(135deg, #1e4028 0%, #2c5e3b 100%);
-    color: white;
-    padding: 80px 20px;
-    border-radius: 30px;
-    margin-bottom: 50px;
-}
-
-.hero h1 {
-    font-size: 3rem;
-    margin-bottom: 20px;
-    color: #c5a059;
-}
-
-.stats {
-    display: flex;
-    justify-content: center;
-    gap: 50px;
-    margin: 50px 0;
-    flex-wrap: wrap;
-}
-
-.stat {
-    text-align: center;
-}
-
-.stat-number {
-    font-size: 2.5rem;
-    font-weight: bold;
-    color: #2c5e3b;
-    display: block;
-}
-
-.stat-label {
-    color: #666;
-    font-size: 1rem;
-    text-transform: uppercase;
-    letter-spacing: 1px;
-}
-</style>
-
-<div class="home-redirect">
-    <div class="hero">
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Atlas des Plantes d'Haïti - Accueil</title>
+    <style>
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            background: linear-gradient(135deg, #1e4028, #2c5e3b);
+            min-height: 100vh;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            margin: 0;
+            padding: 20px;
+            color: white;
+        }
+        .container {
+            max-width: 800px;
+            text-align: center;
+            background: rgba(255,255,255,0.1);
+            backdrop-filter: blur(10px);
+            border-radius: 30px;
+            padding: 50px;
+        }
+        h1 { color: #c5a059; font-size: 3rem; margin-bottom: 20px; }
+        .language-grid {
+            display: grid;
+            grid-template-columns: repeat(3, 1fr);
+            gap: 20px;
+            margin: 40px 0;
+        }
+        .lang-card {
+            background: white;
+            border-radius: 20px;
+            padding: 30px;
+            text-decoration: none;
+            color: #2c5e3b;
+            transition: 0.3s;
+        }
+        .lang-card:hover {
+            transform: translateY(-5px);
+            background: #c5a059;
+            color: #1e4028;
+        }
+        .lang-flag { font-size: 3rem; display: block; }
+        .lang-name { font-size: 1.5rem; font-weight: bold; }
+        @media (max-width: 600px) {
+            .language-grid { grid-template-columns: 1fr; }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
         <h1>🌿 Atlas des Plantes du Grand Sud d'Haïti</h1>
-        <p style="font-size: 1.3rem; max-width: 600px; margin: 0 auto;">
-            Documentation, conservation et valorisation de la biodiversité<br>
-            <strong>90+ plantes médicinales, aromatiques et nutritionnelles</strong>
-        </p>
-    </div>
-
-    <div class="stats">
-        <div class="stat">
-            <span class="stat-number">90+</span>
-            <span class="stat-label">Plantes</span>
-        </div>
-        <div class="stat">
-            <span class="stat-number">25+</span>
-            <span class="stat-label">Familles</span>
-        </div>
-        <div class="stat">
-            <span class="stat-number">3</span>
-            <span class="stat-label">Langues</span>
-        </div>
-    </div>
-
-    <h2 style="font-size: 2rem; color: #1e4028; margin-bottom: 30px;">Choisissez votre langue</h2>
-
-    <div class="language-grid">
-        <a href="/fr/" class="lang-card">
-            <span class="lang-flag">🇫🇷</span>
-            <span class="lang-name">Français</span>
-            <span class="lang-desc">Langue principale</span>
-        </a>
+        <p>Documentation, conservation et valorisation de la biodiversité</p>
         
-        <a href="/en/" class="lang-card">
-            <span class="lang-flag">🇬🇧</span>
-            <span class="lang-name">English</span>
-            <span class="lang-desc">Main language</span>
-        </a>
-        
-        <a href="/ht/" class="lang-card">
-            <span class="lang-flag">🇭🇹</span>
-            <span class="lang-name">Kreyòl</span>
-            <span class="lang-desc">Lang matènèl</span>
-        </a>
+        <div class="language-grid">
+            <a href="/fr/" class="lang-card">
+                <span class="lang-flag">🇫🇷</span>
+                <span class="lang-name">Français</span>
+            </a>
+            <a href="/en/" class="lang-card">
+                <span class="lang-flag">🇬🇧</span>
+                <span class="lang-name">English</span>
+            </a>
+            <a href="/ht/" class="lang-card">
+                <span class="lang-flag">🇭🇹</span>
+                <span class="lang-name">Kreyòl</span>
+            </a>
+        </div>
     </div>
-</div>
+</body>
+</html>
