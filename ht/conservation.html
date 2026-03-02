@@ -1,0 +1,109 @@
+---
+layout: default
+title: "Konsèvasyon ak Bon Pratik"
+lang: ht
+permalink: /ht/conservation/
+---
+
+{% assign t = site.data.translations.ht %}
+
+{% assign plantes = site.data.plantes %}
+{% assign plantes_menacees = plantes | where_exp: "item", "item.statut.ht == 'An danje' or item.statut.ht == 'Andemik'" %}
+
+<section class="bg-[#1e4028] text-white py-16 px-4 relative overflow-hidden">
+  <div class="absolute inset-0 opacity-20 bg-[url('https://images.unsplash.com/photo-1516026672322-bc52d61a55d5?auto=format&fit=crop&q=80')] bg-cover bg-center"></div>
+  <div class="max-w-6xl mx-auto relative z-10 text-center">
+    <span class="inline-block py-1 px-4 rounded-full bg-red-500 text-white text-sm font-bold mb-6 tracking-wide shadow-lg">
+      <i class="fa-solid fa-shield-halved mr-1"></i> Ijans Ekolojik
+    </span>
+    <h1 class="text-4xl md:text-6xl font-black mb-6">Pwoteje Plant Gran Sid yo</h1>
+    <p class="text-xl max-w-3xl mx-auto opacity-90 leading-relaxed">
+      Medsin tradisyonèl ayisyen an chita sou lanati. Si nou detwi kote plant yo ap grandi lè nou koupe bwa oswa rache yo mal, remèd zansèt nou yo ap disparèt pou toutan.
+    </p>
+  </div>
+</section>
+
+<section class="py-16 px-4 bg-gray-50 border-b border-gray-200">
+  <div class="max-w-7xl mx-auto">
+    <div class="text-center mb-12">
+      <h2 class="text-3xl font-black text-[#1e4028]">Gid pou Rekòt Dirab</h2>
+      <p class="text-gray-600 mt-4">Kijan pou nou keyi plant yo san nou pa touye yo.</p>
+    </div>
+
+    <div class="grid grid-cols-1 md:grid-cols-3 gap-8">
+      <div class="bg-white p-8 rounded-2xl shadow-md border-t-4 border-green-500 hover:-translate-y-2 transition-transform duration-300">
+        <div class="w-16 h-16 bg-green-100 text-green-600 rounded-2xl flex items-center justify-center text-3xl mb-6">
+          <i class="fa-solid fa-leaf"></i>
+        </div>
+        <h3 class="text-xl font-bold mb-3 text-gray-800">Fèy ak Tij</h3>
+        <p class="text-gray-600">Pa janm rache tout fèy ki sou yon plant. Pran sèlman sa w bezwen an (mwens pase 20%) epi kite pwent yo pou plant lan ka kontinye respire epi pouse ankò.</p>
+      </div>
+
+      <div class="bg-white p-8 rounded-2xl shadow-md border-t-4 border-amber-600 hover:-translate-y-2 transition-transform duration-300">
+        <div class="w-16 h-16 bg-amber-100 text-amber-700 rounded-2xl flex items-center justify-center text-3xl mb-6">
+          <i class="fa-solid fa-seedling"></i>
+        </div>
+        <h3 class="text-xl font-bold mb-3 text-gray-800">Rasin ak Zonyon</h3>
+        <p class="text-gray-600">Pa rache tout plant lan ak tout rasin ni! Fouye tou piti sou kote a, pran <strong>ti rasin segondè yo</strong>, epi remete tè a pou tij prensipal la ka sove.</p>
+      </div>
+
+      <div class="bg-white p-8 rounded-2xl shadow-md border-t-4 border-amber-800 hover:-translate-y-2 transition-transform duration-300">
+        <div class="w-16 h-16 bg-orange-100 text-amber-900 rounded-2xl flex items-center justify-center text-3xl mb-6">
+          <i class="fa-solid fa-tree"></i>
+        </div>
+        <h3 class="text-xl font-bold mb-3 text-gray-800">Ekòs (Po Bwa)</h3>
+        <p class="text-gray-600">Pa janm wete tout po a fè wonn kò pyebwa a (sa ap touye l frèt). Retire <strong>ti bann vètikal tou fen</strong> sou yon sèl bò pyebwa a.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="py-16 px-4 bg-white">
+  <div class="max-w-6xl mx-auto flex flex-col md:flex-row items-center gap-12">
+    <div class="md:w-1/2">
+      <span class="text-[#c5a059] font-bold tracking-widest uppercase text-sm mb-2 block">Zòn Pwoteje pou Biyodivèsite</span>
+      <h2 class="text-3xl font-black text-gray-900 mb-6">Pak Nasyonal Makaya</h2>
+      <p class="text-gray-600 mb-6 leading-relaxed">
+        Pak Nasyonal Makaya ki nan Masif Lòt (Massif de la Hotte) se dènye refij pou anpil plant andemik an Ayiti (plant ki pa pouse okenn lòt kote sou latè). Pwoteje zòn sa yo se sèl fason pou nou sove famakopè nou an.
+      </p>
+      <a href="https://ht.wikipedia.org/wiki/Pak_nasyonal_Makaya" target="_blank" class="inline-flex items-center gap-2 px-6 py-3 bg-[#1e4028] text-white font-bold rounded-xl hover:bg-[#2c5e3b] transition-colors">
+        Dekouvri Pak la <i class="fa-solid fa-arrow-right"></i>
+      </a>
+    </div>
+    <div class="md:w-1/2 rounded-2xl overflow-hidden shadow-2xl">
+      <img src="https://images.unsplash.com/photo-1542273917363-3b1817f69a2d?auto=format&fit=crop&q=80" alt="Forè twopikal Makaya" class="w-full h-auto object-cover hover:scale-105 transition-transform duration-700">
+    </div>
+  </div>
+</section>
+
+<section class="py-16 px-4 bg-[#e8f5e9] border-t border-gray-200">
+  <div class="max-w-7xl mx-auto">
+    <div class="flex flex-col md:flex-row justify-between items-end mb-10">
+      <div>
+        <h2 class="text-3xl font-black text-[#1e4028] mb-2"><i class="fa-solid fa-triangle-exclamation text-red-500 mr-2"></i> Lis Wouj Gran Sid la</h2>
+        <p class="text-gray-600">Espès sa yo andemik oswa yo an danje pou yo disparèt. Fòk nou fè anpil atansyon lè n ap sèvi ak yo.</p>
+      </div>
+      <div class="mt-4 md:mt-0 px-4 py-2 bg-white rounded-full font-bold text-gray-700 shadow border border-gray-200">
+        {{ plantes_menacees | size }} espès nou jwenn
+      </div>
+    </div>
+
+    <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-6">
+      {% for plante in plantes_menacees %}
+        {% include plant-card.html plante=plante %}
+      {% else %}
+        <div class="col-span-full text-center py-10">
+          <p class="text-gray-500">N ap mete done yo a jou...</p>
+        </div>
+      {% endfor %}
+    </div>
+  </div>
+</section>
+
+<section class="py-12 bg-[#c5a059] text-[#1e4028] text-center px-4">
+  <h2 class="text-2xl font-black mb-4">Èske w se yon chèchè oswa yon doktè fèy?</h2>
+  <p class="mb-6 max-w-2xl mx-auto font-medium">Ede nou dokimante ak pwoteje plant sa yo. Pataje konesans ou ak nou.</p>
+  <button class="px-8 py-3 bg-[#1e4028] text-white font-bold rounded-xl hover:bg-gray-900 transition-colors shadow-lg">
+    Kontribye nan Atla a
+  </button>
+</section>
