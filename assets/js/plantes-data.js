@@ -170,9 +170,54 @@ function closeModal() {
     document.body.classList.remove('modal-open');
 }
 
-// Render the initial grid when the file loads
+// Fonction pour appliquer les filtres et la recherche
+function applyFilters() {
+    const searchText = document.getElementById('searchInput').value.toLowerCase();
+    const familleFilter = document.getElementById('filterFamille').value;
+    const systemeFilter = document.getElementById('filterSysteme').value;
+    const maladieFilter = document.getElementById('filterMaladie').value;
+
+    const filteredPlantes = plantesData.filter(plante => {
+        // Search matches Scientific name OR Common name in current language
+        const nomSci = plante.nomScientifique.toLowerCase();
+        const nomCom = plante.nomCommun[currentLang].toLowerCase();
+        const matchSearch = nomSci.includes(searchText) || nomCom.includes(searchText);
+        
+        const matchFamille = familleFilter === "" || plante.famille === familleFilter;
+        // Option values are in French, so we check against the fr property
+        const matchSysteme = systemeFilter === "" || plante.systeme.fr.includes(systemeFilter);
+        const matchMaladie = maladieFilter === "" || plante.maladie.fr.includes(maladieFilter);
+
+        return matchSearch && matchFamille && matchSysteme && matchMaladie;
+    });
+
+    renderPlantes(filteredPlantes);
+}
+
+// Fonction pour réinitialiser les filtres
+function resetFilters() {
+    document.getElementById('searchInput').value = '';
+    document.getElementById('filterFamille').value = '';
+    document.getElementById('filterSysteme').value = '';
+    document.getElementById('filterMaladie').value = '';
+    
+    renderPlantes(plantesData);
+}
+
+// Initialize everything when the DOM loads
 document.addEventListener('DOMContentLoaded', () => {
-    // Adding a slight delay to ensure i18n is fully loaded from main.js
+    // Attach Event Listeners to filters
+    const searchInput = document.getElementById('searchInput');
+    const filterFamille = document.getElementById('filterFamille');
+    const filterSysteme = document.getElementById('filterSysteme');
+    const filterMaladie = document.getElementById('filterMaladie');
+
+    if (searchInput) searchInput.addEventListener('input', applyFilters);
+    if (filterFamille) filterFamille.addEventListener('change', applyFilters);
+    if (filterSysteme) filterSysteme.addEventListener('change', applyFilters);
+    if (filterMaladie) filterMaladie.addEventListener('change', applyFilters);
+
+    // Initial render with a slight delay to ensure i18n dictionary is loaded
     setTimeout(() => {
         renderPlantes(plantesData);
     }, 100);
