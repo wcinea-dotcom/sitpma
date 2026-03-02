@@ -1,0 +1,15 @@
+{% assign ressource = include.ressource %}
+{% assign lang = page.lang | default: 'fr' %}
+
+<div class="resource-card bg-white p-6 rounded-xl shadow-sm hover:shadow-md transition border border-gray-100">
+    <div class="flex items-center gap-3 mb-4">
+        <div class="w-10 h-10 rounded-full bg-[#e8f5e9] text-[#2c5e3b] flex items-center justify-center">
+            <i class="fa-solid fa-file-lines"></i>
+        </div>
+        <span class="text-xs font-bold text-[#2c5e3b] border border-[#2c5e3b] px-2 py-1 rounded-full">{{ ressource.type }}</span>
+    </div>
+    
+    <h3 class="text-lg font-bold text-gray-800 mb-2">{{ ressource.titres[lang] }}</h3>
+    <p class="text-sm text-gray-500 mb-2">{{ ressource.auteur }} • {{ ressource.annee }}</p>
+    <p class="text-gray-600 text-sm">{{ ressource.descriptions[lang] | truncate: 100 }}</p>
+</div>
