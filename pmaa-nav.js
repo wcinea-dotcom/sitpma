@@ -284,44 +284,54 @@ const PMAA = {
         btn.classList.add('active');
     });
 
-    /* 2. Traduire tous les éléments [data-i18n] */
+    /* 2. Traduire les éléments [data-i18n] (clés du dictionnaire) */
     document.querySelectorAll('[data-i18n]').forEach(el => {
       const key = el.dataset.i18n;
       const translated = this.tr(key);
       if (translated && translated !== key) {
-        /* Conserver les balises HTML internes (spans, etc.) */
-        if (el.children.length === 0) {
-          el.textContent = translated;
+        if (el.children.length === 0) el.textContent = translated;
+        else el.innerHTML = translated;
+      }
+    });
+
+    /* 3. Traduire les éléments inline [data-fr / data-en / data-kr]
+          → approche contenu directement dans l'attribut HTML */
+    document.querySelectorAll('[data-fr],[data-en],[data-kr]').forEach(el => {
+      const txt = el.dataset[lang === 'kr' ? 'kr' : lang];
+      if (txt) {
+        if (el.tagName === 'INPUT' || el.tagName === 'TEXTAREA') {
+          el.placeholder = txt;
+        } else if (el.children.length === 0) {
+          el.textContent = txt;
         } else {
-          /* Pour les éléments avec enfants (h2 trilingue), remplacer seulement le texte */
-          el.innerHTML = translated;
+          el.innerHTML = txt;
         }
       }
     });
 
-    /* 3. Traduire les placeholders [data-i18n-ph] */
+    /* 4. Attribut alt des images */
+    document.querySelectorAll('img[data-alt-fr]').forEach(el => {
+      el.alt = el.dataset[`alt${lang.charAt(0).toUpperCase()+lang.slice(1)}`] || el.alt;
+    });
+
+    /* 5. Placeholders [data-i18n-ph] */
     document.querySelectorAll('[data-i18n-ph]').forEach(el => {
-      const key = el.dataset.i18nPh;
-      const translated = this.tr(key);
+      const translated = this.tr(el.dataset.i18nPh);
       if (translated) el.placeholder = translated;
     });
 
-    /* 4. Re-rendre la nav avec la bonne langue */
+    /* 6. Re-rendre nav + footer dans la bonne langue */
     if (this._activePage) {
       this.renderNav(this._activePage);
       this.renderFooter();
-      /* Réappliquer toutes les traductions après re-render */
-      document.querySelectorAll('[data-i18n]').forEach(el => {
-        const key = el.dataset.i18n;
-        const translated = this.tr(key);
-        if (translated && translated !== key) {
-          if (el.children.length === 0) el.textContent = translated;
-          else el.innerHTML = translated;
-        }
+      /* Ré-appliquer les traductions inline après re-render du footer */
+      document.querySelectorAll('[data-fr],[data-en],[data-kr]').forEach(el => {
+        const txt = el.dataset[lang === 'kr' ? 'kr' : lang];
+        if (txt && el.children.length === 0) el.textContent = txt;
       });
     }
 
-    /* 5. Sauvegarder le choix de langue en session */
+    /* 7. Sauvegarder */
     try { sessionStorage.setItem('pmaa_lang', lang); } catch(e) {}
   },
 
