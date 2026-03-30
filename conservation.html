@@ -1,30 +1,813 @@
----
-layout: default
-title: "Conservation et Statuts"
-permalink: /conservation/
----
-<section class="py-16 px-4 bg-white">
-  <div class="max-w-4xl mx-auto">
-    <h1 class="text-4xl font-black text-[#1e4028] mb-8">Statuts de Conservation et Origine</h1>
-    
-    <div class="grid gap-8">
-      <div class="p-6 bg-green-50 rounded-2xl border-l-4 border-green-600">
-        <h2 class="text-2xl font-bold mb-2">Endémique</h2>
-        <p>Ne pousse naturellement <strong>que</strong> dans la région (ex: Bwa Nègès). Priorité absolue de conservation.</p>
-      </div>
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Conservation & Biodiversité — PMAA Haïti</title>
+	<link rel="stylesheet" href="pmaa-styles.css">
+	<style>
+		.alert-banner {
+			background: linear-gradient(135deg, #e74c3c, #e67e22);
+			color: white;
+			padding: 18px;
+			text-align: center;
+			font-size: 15px;
+			font-weight: 500;
+			line-height: 1.6;
+			width: 100%;
+		}
 
-      <div class="p-6 bg-blue-50 rounded-2xl border-l-4 border-blue-600">
-        <h2 class="text-2xl font-bold mb-2">Native</h2>
-        <p>Présente naturellement dans la région Caraïbe avant l'arrivée des Européens.</p>
-      </div>
+		.status-grid {
+			display: grid;
+			grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+			gap: 20px;
+		}
 
-      <div class="p-6 bg-red-50 rounded-2xl border-l-4 border-red-600">
-        <h2 class="text-2xl font-bold mb-2">Conservation des Espèces</h2>
-        <ul class="list-disc pl-5 mt-2 space-y-2">
-          <li><strong>L'éducation des cueilleurs :</strong> Apprendre à récolter sans tuer l'arbre.</li>
-          <li><strong>La réglementation :</strong> Respecter les lois sur les espèces protégées.</li>
-        </ul>
-      </div>
-    </div>
-  </div>
-</section>
+		.status-card {
+			background: white;
+			border-radius: 8px;
+			padding: 25px;
+			text-align: center;
+			border: 2px solid #ecf0f1;
+		}
+
+		.status-code {
+			font-size: 28px;
+			font-weight: 700;
+			letter-spacing: 2px;
+			margin-bottom: 10px;
+		}
+
+		.status-name {
+			font-size: 14px;
+			font-weight: 600;
+			margin-bottom: 8px;
+		}
+
+		.status-count {
+			font-size: 20px;
+			font-weight: 700;
+			margin-bottom: 12px;
+		}
+
+		.status-bar {
+			height: 6px;
+			border-radius: 3px;
+			margin-bottom: 15px;
+		}
+
+		.status-examples {
+			font-size: 12px;
+			line-height: 1.5;
+			color: #666;
+		}
+
+		.status-examples li {
+			margin: 4px 0;
+		}
+
+		.threat-table {
+			width: 100%;
+			margin-bottom: 20px;
+		}
+
+		.threat-row {
+			display: grid;
+			grid-template-columns: 150px 1fr;
+			gap: 20px;
+			align-items: center;
+			margin-bottom: 20px;
+			padding-bottom: 15px;
+			border-bottom: 1px solid #ecf0f1;
+		}
+
+		.threat-row:last-child {
+			border-bottom: none;
+			margin-bottom: 0;
+			padding-bottom: 0;
+		}
+
+		.threat-name {
+			font-weight: 600;
+			color: #2c3e50;
+			font-size: 14px;
+		}
+
+		.threat-bar-container {
+			display: flex;
+			align-items: center;
+			gap: 10px;
+		}
+
+		.threat-bar {
+			flex: 1;
+			height: 8px;
+			background: #ecf0f1;
+			border-radius: 4px;
+			overflow: hidden;
+		}
+
+		.threat-fill {
+			height: 100%;
+			background: #e74c3c;
+		}
+
+		.threat-level {
+			font-size: 12px;
+			font-weight: 600;
+			min-width: 40px;
+			text-align: right;
+		}
+
+		.map-placeholder {
+			background: linear-gradient(135deg, #ecf0f1, #d5dbdb);
+			border: 2px dashed #bdc3c7;
+			border-radius: 8px;
+			padding: 40px;
+			text-align: center;
+			color: #7f8c8d;
+			font-size: 14px;
+			min-height: 300px;
+			display: flex;
+			flex-direction: column;
+			justify-content: center;
+			align-items: center;
+		}
+
+		.map-icon {
+			font-size: 48px;
+			margin-bottom: 15px;
+		}
+
+		.map-legend {
+			margin-top: 20px;
+			text-align: left;
+			display: inline-block;
+		}
+
+		.legend-item {
+			display: flex;
+			align-items: center;
+			gap: 10px;
+			margin: 8px 0;
+			font-size: 12px;
+		}
+
+		.legend-dot {
+			width: 12px;
+			height: 12px;
+			border-radius: 50%;
+		}
+
+		.action-cards {
+			display: grid;
+			grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+			gap: 20px;
+		}
+
+		.action-card {
+			background: white;
+			padding: 25px;
+			border-radius: 8px;
+			border-top: 4px solid #27ae60;
+		}
+
+		.action-card h3 {
+			margin: 0 0 12px 0;
+			color: #27ae60;
+			font-size: 16px;
+		}
+
+		.action-card p {
+			margin: 0 0 12px 0;
+			font-size: 13px;
+			line-height: 1.6;
+			color: #555;
+		}
+
+		.action-card ul {
+			margin: 0;
+			padding-left: 20px;
+			font-size: 12px;
+		}
+
+		.action-card li {
+			margin: 6px 0;
+			color: #666;
+		}
+
+		.macaya-section {
+			display: grid;
+			grid-template-columns: 1fr 1fr;
+			gap: 30px;
+		}
+
+		.macaya-text p {
+			font-size: 14px;
+			line-height: 1.7;
+			margin: 0 0 15px 0;
+			color: #bdc3c7;
+		}
+
+		.macaya-stats {
+			background: rgba(255, 255, 255, 0.1);
+			padding: 20px;
+			border-radius: 8px;
+			margin: 20px 0;
+		}
+
+		.macaya-stat {
+			display: flex;
+			justify-content: space-between;
+			padding: 8px 0;
+			border-bottom: 1px solid rgba(255, 255, 255, 0.2);
+			font-size: 13px;
+			color: #bdc3c7;
+		}
+
+		.macaya-stat:last-child {
+			border-bottom: none;
+		}
+
+		.macaya-stat strong {
+			color: #ffffff;
+		}
+
+		.macaya-timeline {
+			margin: 20px 0;
+		}
+
+		.timeline-item {
+			padding-left: 25px;
+			padding-bottom: 15px;
+			position: relative;
+			color: #bdc3c7;
+		}
+
+		.timeline-item:before {
+			content: '';
+			position: absolute;
+			left: 0;
+			top: 5px;
+			width: 12px;
+			height: 12px;
+			border-radius: 50%;
+			background: #27ae60;
+		}
+
+		.timeline-item strong {
+			color: #ffffff;
+			font-size: 13px;
+		}
+
+		.timeline-item span {
+			display: block;
+			font-size: 12px;
+			margin-top: 3px;
+		}
+
+		.engagement-card {
+			background: #1b5e20;
+			color: white;
+			padding: 25px;
+			border-radius: 8px;
+		}
+
+		.engagement-card h3 {
+			margin: 0 0 15px 0;
+			font-size: 16px;
+		}
+
+		.engagement-card p {
+			margin: 0 0 12px 0;
+			font-size: 13px;
+			line-height: 1.6;
+			opacity: 0.95;
+		}
+
+		.engagement-card ul {
+			margin: 12px 0 0 0;
+			padding-left: 20px;
+			font-size: 12px;
+		}
+
+		.engagement-card li {
+			margin: 6px 0;
+			opacity: 0.9;
+		}
+
+		.engagement-section {
+			margin-top: 15px;
+			padding-top: 15px;
+			border-top: 1px solid rgba(255, 255, 255, 0.2);
+		}
+
+		.engagement-section strong {
+			display: block;
+			margin-bottom: 8px;
+			font-size: 13px;
+		}
+
+		.timeline-horizontal {
+			display: grid;
+			grid-template-columns: repeat(3, 1fr);
+			gap: 20px;
+		}
+
+		.timeline-card {
+			background: white;
+			padding: 25px;
+			border-radius: 8px;
+			border-left: 4px solid #3498db;
+		}
+
+		.timeline-period {
+			font-size: 13px;
+			font-weight: 600;
+			color: #3498db;
+			margin-bottom: 10px;
+		}
+
+		.timeline-card h4 {
+			margin: 0 0 10px 0;
+			font-size: 15px;
+			color: #2c3e50;
+		}
+
+		.timeline-card p {
+			margin: 0;
+			font-size: 12px;
+			line-height: 1.6;
+			color: #666;
+		}
+
+		.timeline-card ul {
+			margin: 10px 0 0 0;
+			padding-left: 18px;
+			font-size: 12px;
+		}
+
+		.timeline-card li {
+			margin: 4px 0;
+			color: #666;
+		}
+
+		@media (max-width: 768px) {
+			.macaya-section {
+				grid-template-columns: 1fr;
+			}
+
+			.threat-row {
+				grid-template-columns: 1fr;
+				gap: 8px;
+			}
+
+			.status-grid {
+				grid-template-columns: repeat(2, 1fr);
+			}
+
+			.timeline-horizontal {
+				grid-template-columns: 1fr;
+			}
+		}
+	</style>
+</head>
+<body>
+
+<div id="topbar-placeholder"></div>
+
+<!-- Page Hero -->
+<div class="page-hero">
+	<div class="page-hero-inner">
+		<div class="breadcrumb">Accueil &gt; Conservation &amp; Biodiversité</div>
+		<span class="page-tag">🏞️ Biodiversité Patrimoniale</span>
+		<h1>Conservation &amp; <span>Biodiversité</span></h1>
+		<p>Protéger les 5 600+ espèces de Haïti avec 40% d'endémisme — la flore endémique la plus riche de la Caraïbe. Stratégie nationale de conservation PMAA en partenariat avec le MSPP et le Jardin Botanique de Calabaza.</p>
+	</div>
+</div>
+
+<!-- Emergency Alert Banner -->
+<div class="alert-banner">
+	⚠️ <strong>Alerte Urgent :</strong> 127 espèces PMAA en statut UICN menacé dans le Grand Sud — dont 43 endémiques à Haïti uniquement. Action urgente requise pour la protection et propagation.
+</div>
+
+<!-- Key Conservation Stats -->
+<div class="section-bg">
+	<div class="section-inner">
+		<div class="grid-4">
+			<div class="stat-card">
+				<div class="stat-number">5 600+</div>
+				<div class="stat-label">Espèces Recensées</div>
+				<div class="stat-desc">Flore haïtienne documentée</div>
+			</div>
+			<div class="stat-card">
+				<div class="stat-number">40%</div>
+				<div class="stat-label">Endémisme</div>
+				<div class="stat-desc">Plus haut taux régional</div>
+			</div>
+			<div class="stat-card">
+				<div class="stat-number">127</div>
+				<div class="stat-label">Espèces Menacées</div>
+				<div class="stat-desc">Selon critères UICN</div>
+			</div>
+			<div class="stat-card">
+				<div class="stat-number">43</div>
+				<div class="stat-label">Endémiques en Danger</div>
+				<div class="stat-desc">Uniques à Haïti uniquement</div>
+			</div>
+		</div>
+	</div>
+</div>
+
+<!-- UICN Status Section -->
+<div class="section">
+	<div class="section-inner">
+		<h2>Statut de Conservation des PMAA selon les Critères UICN</h2>
+		<p style="margin-bottom: 30px; color: #666;">Classification scientifique internationale des niveaux de menace — de l'extinction critique au statut stable.</p>
+
+		<div class="status-grid">
+			<div class="status-card">
+				<div class="status-code" style="color: #c0392b;">CR</div>
+				<div class="status-name">Critically Endangered</div>
+				<div class="status-count">12 espèces</div>
+				<div class="status-bar" style="background: #c0392b;"></div>
+				<div class="status-examples">
+					<strong>Exemples :</strong>
+					<ul style="list-style: none; padding: 0; margin: 5px 0 0 0;">
+						<li>Aristida curtifolia</li>
+						<li>Trichilia pallida</li>
+						<li>Raiania echinata</li>
+					</ul>
+				</div>
+			</div>
+
+			<div class="status-card">
+				<div class="status-code" style="color: #e74c3c;">EN</div>
+				<div class="status-name">Endangered</div>
+				<div class="status-count">31 espèces</div>
+				<div class="status-bar" style="background: #e74c3c;"></div>
+				<div class="status-examples">
+					<strong>Exemples :</strong>
+					<ul style="list-style: none; padding: 0; margin: 5px 0 0 0;">
+						<li>Eryngium aralifolium</li>
+						<li>Mahonia trifoliolata</li>
+						<li>Gonocalyx cornutus</li>
+					</ul>
+				</div>
+			</div>
+
+			<div class="status-card">
+				<div class="status-code" style="color: #f39c12;">VU</div>
+				<div class="status-name">Vulnerable</div>
+				<div class="status-count">84 espèces</div>
+				<div class="status-bar" style="background: #f39c12;"></div>
+				<div class="status-examples">
+					<strong>Exemples :</strong>
+					<ul style="list-style: none; padding: 0; margin: 5px 0 0 0;">
+						<li>Cornutia pyramidata</li>
+						<li>Tetrazygia elata</li>
+						<li>Yucca aloifolia</li>
+					</ul>
+				</div>
+			</div>
+
+			<div class="status-card">
+				<div class="status-code" style="color: #2c3e50;">NT</div>
+				<div class="status-name">Near Threatened</div>
+				<div class="status-count">156 espèces</div>
+				<div class="status-bar" style="background: #f1c40f;"></div>
+				<div class="status-examples">
+					<strong>Exemples :</strong>
+					<ul style="list-style: none; padding: 0; margin: 5px 0 0 0;">
+						<li>Scoparia dulcis</li>
+						<li>Randia aculeata</li>
+						<li>Piscidia piscipula</li>
+					</ul>
+				</div>
+			</div>
+
+			<div class="status-card">
+				<div class="status-code" style="color: #27ae60;">LC</div>
+				<div class="status-name">Least Concern</div>
+				<div class="status-count">2 840 espèces</div>
+				<div class="status-bar" style="background: #27ae60;"></div>
+				<div class="status-examples">
+					<strong>Exemples :</strong>
+					<ul style="list-style: none; padding: 0; margin: 5px 0 0 0;">
+						<li>Moringa oleifera</li>
+						<li>Citrus aurantium</li>
+						<li>Zingiber officinale</li>
+					</ul>
+				</div>
+			</div>
+
+			<div class="status-card">
+				<div class="status-code" style="color: #95a5a6;">DD</div>
+				<div class="status-name">Data Deficient</div>
+				<div class="status-count">1 200+ espèces</div>
+				<div class="status-bar" style="background: #95a5a6;"></div>
+				<div class="status-examples">
+					<strong>Exemples :</strong>
+					<ul style="list-style: none; padding: 0; margin: 5px 0 0 0;">
+						<li>Espèces peu étudiées</li>
+						<li>Usages non documentés</li>
+						<li>Demande étude urgente</li>
+					</ul>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+
+<!-- Threat Analysis -->
+<div class="section-bg">
+	<div class="section-inner">
+		<h2>Analyse des Menaces pour la Biodiversité PMAA</h2>
+
+		<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 30px; margin-top: 25px;">
+			<div>
+				<h3 style="margin: 0 0 20px 0; color: #2c3e50; font-size: 16px;">Niveaux d'Impact par Menace</h3>
+
+				<div class="threat-row">
+					<div class="threat-name">Surexploitation</div>
+					<div class="threat-bar-container">
+						<div class="threat-bar">
+							<div class="threat-fill" style="width: 95%;"></div>
+						</div>
+						<div class="threat-level">Critique</div>
+					</div>
+				</div>
+
+				<div class="threat-row">
+					<div class="threat-name">Déforestation</div>
+					<div class="threat-bar-container">
+						<div class="threat-bar">
+							<div class="threat-fill" style="width: 92%;"></div>
+						</div>
+						<div class="threat-level">Critique</div>
+					</div>
+				</div>
+
+				<div class="threat-row">
+					<div class="threat-name">Méconnaissance</div>
+					<div class="threat-bar-container">
+						<div class="threat-bar">
+							<div class="threat-fill" style="width: 78%;"></div>
+						</div>
+						<div class="threat-level">Haute</div>
+					</div>
+				</div>
+
+				<div class="threat-row">
+					<div class="threat-name">Espèces invasives</div>
+					<div class="threat-bar-container">
+						<div class="threat-bar">
+							<div class="threat-fill" style="width: 65%;"></div>
+						</div>
+						<div class="threat-level">Haute</div>
+					</div>
+				</div>
+
+				<div class="threat-row">
+					<div class="threat-name">Catastrophes naturelles</div>
+					<div class="threat-bar-container">
+						<div class="threat-bar">
+							<div class="threat-fill" style="width: 60%;"></div>
+						</div>
+						<div class="threat-level">Moyenne</div>
+					</div>
+				</div>
+
+				<div class="threat-row">
+					<div class="threat-name">Absence cadre légal</div>
+					<div class="threat-bar-container">
+						<div class="threat-bar">
+							<div class="threat-fill" style="width: 88%;"></div>
+						</div>
+						<div class="threat-level">Critique</div>
+					</div>
+				</div>
+			</div>
+
+			<div>
+				<h3 style="margin: 0 0 20px 0; color: #2c3e50; font-size: 16px;">Zones Critiques — Localisation</h3>
+				<div class="map-placeholder">
+					<div class="map-icon">🗺️</div>
+					<div><strong>Carte des Zones Critiques</strong></div>
+					<div style="font-size: 13px; margin-top: 5px;">Grand Sud &amp; Grand'Anse</div>
+					<div class="map-legend">
+						<div class="legend-item">
+							<div class="legend-dot" style="background: #c0392b;"></div>
+							<span>Biodiversité en danger critique</span>
+						</div>
+						<div class="legend-item">
+							<div class="legend-dot" style="background: #f39c12;"></div>
+							<span>Forte pression anthropique</span>
+						</div>
+						<div class="legend-item">
+							<div class="legend-dot" style="background: #27ae60;"></div>
+							<span>Zones protégées existantes</span>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+
+<!-- Conservation Actions -->
+<div class="section-green">
+	<div class="section-inner">
+		<h2>Plan de Conservation National PMAA</h2>
+		<p style="margin-bottom: 25px; color: #333;">Stratégie intégrée pour la sauvegarde et la valorisation durable de la biodiversité haïtienne, en partenariat avec le MSPP, JBC et partenaires internationaux.</p>
+
+		<div class="action-cards">
+			<div class="action-card">
+				<h3>Conservation In Situ</h3>
+				<p>Protection des espèces dans leur habitat naturel — forêts, zones humides, écosystèmes côtiers.</p>
+				<ul>
+					<li>Zones protégées légales (Parc Macaya, Forêt des Pins)</li>
+					<li>Agroforesterie communautaire (semis, reboisement)</li>
+					<li>Gestion participative avec collectivités</li>
+					<li>Suivi écologique périodique</li>
+				</ul>
+			</div>
+
+			<div class="action-card">
+				<h3>Conservation Ex Situ</h3>
+				<p>Préservation hors habitat naturel — banques de graines, pépinières, centres de propagation.</p>
+				<ul>
+					<li>Banques de semences du JBC (température contrôlée)</li>
+					<li>Pépinières de propagation (150 espèces prioritaires)</li>
+					<li>Cryoconservation pour espèces extrêmement rares</li>
+					<li>Échanges internationaux (BGCI, Kew Gardens)</li>
+				</ul>
+			</div>
+
+			<div class="action-card">
+				<h3>Cadre Légal &amp; Politique</h3>
+				<p>Institutionnalisation de la protection des plantes patrimoniales au niveau national.</p>
+				<ul>
+					<li>Statut "Plantes Patrimoniales Protégées" (en cours)</li>
+					<li>Listes officielles MSPP (obligatoires dans enseignement)</li>
+					<li>Sanctions pour surexploitation commerciale</li>
+					<li>Incitations pour producteurs agroforestiers</li>
+				</ul>
+			</div>
+
+			<div class="action-card">
+				<h3>Suivi &amp; Évaluation</h3>
+				<p>Monitoring continu et scientifique de l'efficacité des actions de conservation.</p>
+				<ul>
+					<li>Inventaires quinquennaux UICN (Red List)</li>
+					<li>Système d'alerte précoce (espèces en déclin)</li>
+					<li>Indicateurs de santé écosystémique</li>
+					<li>Rapports publics annuels de progrès</li>
+				</ul>
+			</div>
+		</div>
+	</div>
+</div>
+
+<!-- Parc Macaya Section -->
+<div class="section-dark">
+	<div class="section-inner">
+		<h2>Parc Macaya — Epicentre de la Biodiversité Haïtienne</h2>
+
+		<div class="macaya-section">
+			<div class="macaya-text">
+				<p>Parc Macaya est l'écosystème terrestre le plus important de la Caraïbe orientale, abritant une biodiversité exceptionelle et des taux d'endémisme uniques. Ce site représente le cœur de la stratégie de conservation PMAA.</p>
+
+				<div class="macaya-stats">
+					<div class="macaya-stat">
+						<strong>Surface</strong>
+						<span>4 706 km²</span>
+					</div>
+					<div class="macaya-stat">
+						<strong>Départements</strong>
+						<span>2 (Sud, Nippes)</span>
+					</div>
+					<div class="macaya-stat">
+						<strong>Espèces inventoriées</strong>
+						<span>1 547 plantes</span>
+					</div>
+					<div class="macaya-stat">
+						<strong>Endémiques Haïti</strong>
+						<span>412 espèces</span>
+					</div>
+					<div class="macaya-stat">
+						<strong>Espèces menacées</strong>
+						<span>94 (UICN)</span>
+					</div>
+				</div>
+
+				<p style="font-weight: 500; margin: 20px 0 10px 0; color: #bdc3c7;">Timeline des Actions de Conservation :</p>
+				<div class="macaya-timeline">
+					<div class="timeline-item">
+						<strong>2003</strong>
+						<span>Création du Jardin Botanique de Calabaza (JBC) — fondation pour conservation scientifique</span>
+					</div>
+					<div class="timeline-item">
+						<strong>2012</strong>
+						<span>Parc Macaya reconnu par UNESCO — zone d'importance internationale</span>
+					</div>
+					<div class="timeline-item">
+						<strong>2018</strong>
+						<span>Inventaire floristique complet — baseline scientifique établie</span>
+					</div>
+					<div class="timeline-item">
+						<strong>2024</strong>
+						<span>Lancement du Plan National PMAA — stratégie intégrée 10 ans</span>
+					</div>
+					<div class="timeline-item">
+						<strong>2025</strong>
+						<span>Expansion des zones protégées — objectif 15% du territoire haïtien</span>
+					</div>
+				</div>
+			</div>
+
+			<div class="engagement-card">
+				<h3>Notre Engagement JBC Depuis 2003</h3>
+
+				<div>
+					<strong style="display: block; margin-bottom: 8px;">Mission</strong>
+					<p style="margin: 0 0 12px 0;">Sauvegarder la flore endémique haïtienne par la recherche scientifique, la conservation ex situ, et l'éducation environnementale. Établir Haïti comme leader caribéen en biodiversité.</p>
+				</div>
+
+				<div>
+					<strong>Projets actuels :</strong>
+					<ul style="margin: 8px 0 0 0; padding-left: 18px;">
+						<li>Banque de semences (1 200+ espèces)</li>
+						<li>Pépinière de propagation (50 ha)</li>
+						<li>Recherche phytochimique (TRAMIL)</li>
+						<li>Formation naturopathes (100+/an)</li>
+					</ul>
+				</div>
+
+				<div class="engagement-section">
+					<strong>Partenaires Internationaux</strong>
+					<ul style="margin: 8px 0 0 0; padding-left: 18px;">
+						<li>BGCI — Botanic Gardens Conservation International</li>
+						<li>TRAMIL — Red de Investigación de Tecnologia</li>
+						<li>WWF Caraïbes — conservation marine &amp; terrestre</li>
+						<li>Kew Royal Botanic Gardens — expertise scientifique</li>
+					</ul>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+
+<!-- SPANB Section -->
+<div class="section-bg">
+	<div class="section-inner">
+		<h2>SPANB — Stratégie et Plan d'Action Nationale pour la Biodiversité</h2>
+		<p style="margin-bottom: 30px; color: #666;">Feuille de route 2025-2030 alignée aux objectifs internationaux (CBD Kunming-Montréal) pour restaurer et valoriser durable la biodiversité haïtienne.</p>
+
+		<div class="timeline-horizontal">
+			<div class="timeline-card">
+				<div class="timeline-period">2025–2026</div>
+				<h4>Documentation Scientifique</h4>
+				<p>Inventaires complets de la flore des zones prioritaires. Études phytochimiques. Cartographie de la biodiversité.</p>
+				<ul>
+					<li>20 000+ collectes botaniques</li>
+					<li>Analyses chimiques complètes</li>
+					<li>SIG biodiversité national</li>
+				</ul>
+			</div>
+
+			<div class="timeline-card">
+				<div class="timeline-period">2026–2028</div>
+				<h4>Protection Légale</h4>
+				<p>Enactment de statut des Plantes Patrimoniales Protégées. Élargissement des zones protégées (10% territoire). Loi sur commerce d'espèces menacées.</p>
+				<ul>
+					<li>4 nouveaux parcs nationaux</li>
+					<li>Cadre légal strict CITES-Haiti</li>
+					<li>Programmes d'indemnisation rural</li>
+				</ul>
+			</div>
+
+			<div class="timeline-card">
+				<div class="timeline-period">2028–2030</div>
+				<h4>Valorisation Durable</h4>
+				<p>Modèles agroforestiers. Certification des produits PMAA. Intégration curriculum scolaire. Export légitime maîtrisé.</p>
+				<ul>
+					<li>1 000 fermes agroforestières</li>
+					<li>Label PMAA-Haïti certifié</li>
+					<li>Formation 500 paysans</li>
+				</ul>
+			</div>
+		</div>
+	</div>
+</div>
+
+<div id="footer-placeholder"></div>
+
+<script src="pmaa-nav.js"></script>
+<script>
+	PMAA.renderNav('conservation');
+	PMAA.renderFooter();
+</script>
+
+</body>
+</html>

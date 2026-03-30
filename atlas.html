@@ -1,71 +1,764 @@
----
-layout: default
-title: "Base de données des Plantes"
-permalink: /atlas/
----
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Atlas des Plantes — PMAA Haïti</title>
+<link rel="stylesheet" href="pmaa-styles.css">
+</head>
+<body>
+<div id="topbar-placeholder"></div>
 
-<section class="bg-[#1e4028] text-white py-12 px-4 relative overflow-hidden">
-  <div class="max-w-6xl mx-auto relative z-10 text-center">
-    <span class="inline-block py-1 px-4 rounded-full bg-[#c5a059] text-[#1e4028] text-sm font-bold mb-4 tracking-wide shadow-lg">
-      <i class="fa-solid fa-leaf mr-1"></i> <span data-i18n="hero_tag">260+ Plantes Documentées</span>
-    </span>
-    <h1 class="text-3xl md:text-5xl font-black mb-4" data-i18n="nav_data">Base de données</h1>
-    <p class="text-lg max-w-3xl mx-auto opacity-90" data-i18n="hero_desc">Explorez la richesse de la flore médicinale, aromatique et nutritionnelle du Grand Sud.</p>
+<!-- PAGE HERO -->
+<section class="page-hero">
+  <div class="container">
+    <div class="breadcrumb">
+      <a href="index.html">Accueil</a>
+      <span>/</span>
+      <span>Atlas des Plantes</span>
+    </div>
+    <span class="tag" style="background-color: #27AE60; color: white;">Encyclopédie Botanique</span>
+    <h1>Atlas des <span style="color: #27AE60;">Plantes PMAA</span></h1>
+    <p class="page-subtitle">847 espèces documentées du Grand Sud & Grand'Anse — fiches trilingues avec photos, propriétés, cartes et modes de préparation</p>
   </div>
 </section>
 
-<section id="data-hub" class="bg-[#e8f5e9] py-8 px-4 border-b border-gray-200">
-  <div class="max-w-6xl mx-auto">
-    <div class="bg-white p-6 rounded-2xl shadow-xl flex flex-col md:flex-row gap-4 items-center border border-gray-100">
-      
-      <div class="relative w-full md:w-1/4">
-        <i class="fa-solid fa-magnifying-glass absolute left-4 top-1/2 -translate-y-1/2 text-gray-400"></i>
-        <input type="text" id="searchInput"
-               class="block w-full pl-12 pr-4 py-3 border-2 border-gray-200 rounded-xl focus:ring-2 focus:ring-[#2c5e3b] focus:border-[#2c5e3b] outline-none transition"
-               data-i18n-placeholder="search_ph" placeholder="Rechercher une plante...">
+<!-- STATS STRIP -->
+<section class="section-bg" style="padding: 20px 0;">
+  <div class="container">
+    <div class="strip-items">
+      <div class="stat-strip-card">
+        <span class="stat-big">847</span>
+        <span class="stat-label">Plantes documentées</span>
       </div>
-
-      <select id="filterFamille" class="w-full md:w-1/5 py-3 px-4 border-2 border-gray-200 rounded-xl focus:ring-2 focus:ring-[#2c5e3b] focus:border-[#2c5e3b] outline-none bg-white">
-        <option value="" data-i18n="opt_fam">Toutes les familles</option>
-        <option value="Acanthaceae">Acanthaceae</option>
-        <option value="Asteraceae">Asteraceae</option>
-        <option value="Cucurbitaceae">Cucurbitaceae</option>
-        <option value="Euphorbiaceae">Euphorbiaceae</option>
-        <option value="Fabaceae">Fabaceae</option>
-        <option value="Lamiaceae">Lamiaceae</option>
-        <option value="Rutaceae">Rutaceae</option>
-        <option value="Solanaceae">Solanaceae</option>
-      </select>
-
-      <select id="filterSysteme" class="w-full md:w-1/5 py-3 px-4 border-2 border-gray-200 rounded-xl focus:ring-2 focus:ring-[#2c5e3b] focus:border-[#2c5e3b] outline-none bg-white">
-        <option value="" data-i18n="opt_sys">Tous les systèmes</option>
-        <option value="Nerveux" data-i18n="opt_sys_ner">Nerveux</option>
-        <option value="Digestif" data-i18n="opt_sys_dig">Digestif</option>
-        <option value="Cardiovasculaire" data-i18n="opt_sys_card">Cardiovasculaire</option>
-        <option value="Respiratoire" data-i18n="opt_sys_res">Respiratoire</option>
-        <option value="Immunitaire" data-i18n="opt_sys_imm">Immunitaire</option>
-      </select>
-
-      <select id="filterMaladie" class="w-full md:w-1/5 py-3 px-4 border-2 border-gray-200 rounded-xl focus:ring-2 focus:ring-[#2c5e3b] focus:border-[#2c5e3b] outline-none bg-white">
-        <option value="" data-i18n="opt_mal">Toutes les maladies</option>
-        <option value="Diabète" data-i18n="opt_mal_dia">Diabète</option>
-        <option value="Hypertension" data-i18n="opt_mal_hyp">Hypertension</option>
-        <option value="Paludisme" data-i18n="opt_mal_mal">Paludisme</option>
-        <option value="Infections" data-i18n="opt_mal_inf">Infections</option>
-      </select>
-
-      <button onclick="resetFilters()" class="w-full md:w-auto px-6 py-3 bg-gray-200 text-gray-700 font-bold rounded-xl hover:bg-gray-300 transition flex items-center justify-center gap-2" type="button">
-        <i class="fa-solid fa-rotate-right"></i> <span data-i18n="btn_reset">Réinitialiser</span>
-      </button>
+      <div class="stat-strip-card">
+        <span class="stat-big">40%</span>
+        <span class="stat-label">Endémiques</span>
+      </div>
+      <div class="stat-strip-card">
+        <span class="stat-big">3</span>
+        <span class="stat-label">Langues (FR/EN/KR)</span>
+      </div>
+      <div class="stat-strip-card">
+        <span class="stat-big">200+</span>
+        <span class="stat-label">Communes couvertes</span>
+      </div>
     </div>
   </div>
 </section>
 
-<section class="py-12 px-4 max-w-7xl mx-auto bg-gray-50 flex-grow">
-  <div class="flex justify-between items-center mb-6">
-    <h3 class="text-2xl font-bold text-gray-800" data-i18n="res_title">🌿 Plantes Médicinales</h3>
-    <span id="resultCount" class="bg-[#e8f5e9] border border-[#2c5e3b] text-[#2c5e3b] px-4 py-2 rounded-full text-sm font-bold">0</span>
+<!-- MAIN CONTENT: SEARCH & PLANT LIST -->
+<section class="section">
+  <div class="container">
+    <div class="col-wide-sidebar">
+      <!-- LEFT SIDE: SEARCH & FILTERS & PLANTS -->
+      <div class="wide-content">
+        <!-- SEARCH BAR -->
+        <div class="search-bar" style="margin-bottom: 30px;">
+          <input type="text" id="plantSearch" placeholder="Chercher une plante (ex: Moringa, Vétiver, Jenjanm)..." oninput="PMAA.filterPlants(this.value)" />
+          <button class="btn btn-gold">Rechercher</button>
+        </div>
+
+        <!-- FILTER TAGS -->
+        <div class="filter-tags" style="margin-bottom: 40px;">
+          <span class="filter-tag active" onclick="PMAA.filterByCategory('all')">Toutes</span>
+          <span class="filter-tag" onclick="PMAA.filterByCategory('med')">Médicinale</span>
+          <span class="filter-tag" onclick="PMAA.filterByCategory('aro')">Aromatique</span>
+          <span class="filter-tag" onclick="PMAA.filterByCategory('ali')">Alimentaire</span>
+          <span class="filter-tag" onclick="PMAA.filterByCategory('end')">Endémique</span>
+          <span class="filter-tag" onclick="PMAA.filterByCategory('uicn')">Menacée UICN</span>
+          <span class="filter-tag" onclick="PMAA.filterByCategory('exp')">Export</span>
+          <span class="filter-tag" onclick="PMAA.filterByCategory('vet')">Vétiver & HE</span>
+        </div>
+
+        <!-- PLANT CARDS GRID -->
+        <div class="plants-grid">
+          <!-- PLANT 1: MORINGA -->
+          <div class="plant-card" data-search="moringa benzoliv moringa oleifera">
+            <div class="plant-card-header" style="background-color: #27AE60;">
+              <span class="plant-emoji">🌿</span>
+              <span class="plant-status-badge" style="background-color: #fff; color: #27AE60;">Vedette</span>
+            </div>
+            <h3>Moringa</h3>
+            <p class="plant-sci">Moringa oleifera</p>
+            <p class="plant-creole">Benzoliv</p>
+            <div class="plant-tags">
+              <span class="ptag med">Médicinale</span>
+              <span class="ptag ali">Alimentaire</span>
+              <span class="ptag pri">Priorité</span>
+            </div>
+            <a href="#moringa-fiche" class="plant-link">Fiche complète →</a>
+          </div>
+
+          <!-- PLANT 2: VÉTIVER -->
+          <div class="plant-card" data-search="vétiver vetivè vetiveria zizanioides">
+            <div class="plant-card-header" style="background-color: #F39C12;">
+              <span class="plant-emoji">🌾</span>
+              <span class="plant-status-badge" style="background-color: #fff; color: #F39C12;">Export</span>
+            </div>
+            <h3>Vétiver</h3>
+            <p class="plant-sci">Vetiveria zizanioides</p>
+            <p class="plant-creole">Vétivè</p>
+            <div class="plant-tags">
+              <span class="ptag aro">Aromatique</span>
+              <span class="ptag exp">Export</span>
+              <span class="ptag vet">Vétiver & HE</span>
+            </div>
+            <a href="atlas.html#vetiver-fiche" class="plant-link">Fiche complète →</a>
+          </div>
+
+          <!-- PLANT 3: CITRONNELLE -->
+          <div class="plant-card" data-search="citronnelle bwa koton cymbopogon citratus">
+            <div class="plant-card-header" style="background-color: #2980B9;">
+              <span class="plant-emoji">🍋</span>
+            </div>
+            <h3>Citronnelle</h3>
+            <p class="plant-sci">Cymbopogon citratus</p>
+            <p class="plant-creole">Bwa Koton</p>
+            <div class="plant-tags">
+              <span class="ptag med">Médicinale</span>
+              <span class="ptag aro">Aromatique</span>
+              <span class="ptag ali">Alimentaire</span>
+            </div>
+            <a href="#citronnelle-fiche" class="plant-link">Fiche complète →</a>
+          </div>
+
+          <!-- PLANT 4: YLANG-YLANG -->
+          <div class="plant-card" data-search="ylang-ylang ilang-ilang cananga odorata">
+            <div class="plant-card-header" style="background-color: #8E44AD;">
+              <span class="plant-emoji">🌺</span>
+              <span class="plant-status-badge" style="background-color: #fff; color: #8E44AD;">Export</span>
+            </div>
+            <h3>Ylang-ylang</h3>
+            <p class="plant-sci">Cananga odorata</p>
+            <p class="plant-creole">Ilang-ilang</p>
+            <div class="plant-tags">
+              <span class="ptag aro">Aromatique</span>
+              <span class="ptag med">Médicinale</span>
+              <span class="ptag exp">Export</span>
+            </div>
+            <a href="#ylang-fiche" class="plant-link">Fiche complète →</a>
+          </div>
+
+          <!-- PLANT 5: BASILIC TROPICAL -->
+          <div class="plant-card" data-search="basilic tropical basilik ocimum basilicum">
+            <div class="plant-card-header" style="background-color: #16A085;">
+              <span class="plant-emoji">🍃</span>
+            </div>
+            <h3>Basilic Tropical</h3>
+            <p class="plant-sci">Ocimum basilicum</p>
+            <p class="plant-creole">Basilik</p>
+            <div class="plant-tags">
+              <span class="ptag aro">Aromatique</span>
+              <span class="ptag ali">Alimentaire</span>
+              <span class="ptag med">Médicinale</span>
+            </div>
+            <a href="#basilic-fiche" class="plant-link">Fiche complète →</a>
+          </div>
+
+          <!-- PLANT 6: NEEM -->
+          <div class="plant-card" data-search="neem nim azadirachta indica">
+            <div class="plant-card-header" style="background-color: #27AE60;">
+              <span class="plant-emoji">🌿</span>
+            </div>
+            <h3>Neem</h3>
+            <p class="plant-sci">Azadirachta indica</p>
+            <p class="plant-creole">Nim</p>
+            <div class="plant-tags">
+              <span class="ptag med">Médicinale</span>
+            </div>
+            <a href="#neem-fiche" class="plant-link">Fiche complète →</a>
+          </div>
+
+          <!-- PLANT 7: GINGEMBRE -->
+          <div class="plant-card" data-search="gingembre jenjanm zingiber officinale">
+            <div class="plant-card-header" style="background-color: #E74C3C;">
+              <span class="plant-emoji">🍃</span>
+            </div>
+            <h3>Gingembre</h3>
+            <p class="plant-sci">Zingiber officinale</p>
+            <p class="plant-creole">Jenjanm</p>
+            <div class="plant-tags">
+              <span class="ptag med">Médicinale</span>
+              <span class="ptag ali">Alimentaire</span>
+            </div>
+            <a href="#gingembre-fiche" class="plant-link">Fiche complète →</a>
+          </div>
+
+          <!-- PLANT 8: CURCUMA -->
+          <div class="plant-card" data-search="curcuma safran péyi curcuma longa">
+            <div class="plant-card-header" style="background-color: #F39C12;">
+              <span class="plant-emoji">🌡️</span>
+            </div>
+            <h3>Curcuma</h3>
+            <p class="plant-sci">Curcuma longa</p>
+            <p class="plant-creole">Safran Péyi</p>
+            <div class="plant-tags">
+              <span class="ptag med">Médicinale</span>
+              <span class="ptag ali">Alimentaire</span>
+            </div>
+            <a href="#curcuma-fiche" class="plant-link">Fiche complète →</a>
+          </div>
+
+          <!-- PLANT 9: PAPAYER -->
+          <div class="plant-card" data-search="papayer papay carica papaya">
+            <div class="plant-card-header" style="background-color: #2980B9;">
+              <span class="plant-emoji">🌳</span>
+            </div>
+            <h3>Papayer</h3>
+            <p class="plant-sci">Carica papaya</p>
+            <p class="plant-creole">Papay</p>
+            <div class="plant-tags">
+              <span class="ptag med">Médicinale</span>
+              <span class="ptag ali">Alimentaire</span>
+            </div>
+            <a href="#papayer-fiche" class="plant-link">Fiche complète →</a>
+          </div>
+
+          <!-- PLANT 10: ALOE VERA -->
+          <div class="plant-card" data-search="aloe vera lalwa aloe vera">
+            <div class="plant-card-header" style="background-color: #27AE60;">
+              <span class="plant-emoji">🌿</span>
+            </div>
+            <h3>Aloe vera</h3>
+            <p class="plant-sci">Aloe vera</p>
+            <p class="plant-creole">Lalwa</p>
+            <div class="plant-tags">
+              <span class="ptag med">Médicinale</span>
+            </div>
+            <a href="#aloe-fiche" class="plant-link">Fiche complète →</a>
+          </div>
+
+          <!-- PLANT 11: HIBISCUS -->
+          <div class="plant-card" data-search="hibiscus choublak hibiscus rosa-sinensis">
+            <div class="plant-card-header" style="background-color: #E74C3C;">
+              <span class="plant-emoji">🌸</span>
+            </div>
+            <h3>Hibiscus</h3>
+            <p class="plant-sci">Hibiscus rosa-sinensis</p>
+            <p class="plant-creole">Choublak</p>
+            <div class="plant-tags">
+              <span class="ptag med">Médicinale</span>
+              <span class="ptag ali">Alimentaire</span>
+            </div>
+            <a href="#hibiscus-fiche" class="plant-link">Fiche complète →</a>
+          </div>
+
+          <!-- PLANT 12: MENTHE HAÏTIENNE -->
+          <div class="plant-card" data-search="menthe haïtienne balsam mentha piperita">
+            <div class="plant-card-header" style="background-color: #16A085;">
+              <span class="plant-emoji">🌿</span>
+            </div>
+            <h3>Menthe Haïtienne</h3>
+            <p class="plant-sci">Mentha piperita</p>
+            <p class="plant-creole">Balsam</p>
+            <div class="plant-tags">
+              <span class="ptag med">Médicinale</span>
+              <span class="ptag aro">Aromatique</span>
+              <span class="ptag ali">Alimentaire</span>
+            </div>
+            <a href="#menthe-fiche" class="plant-link">Fiche complète →</a>
+          </div>
+
+          <!-- PLANT 13: EUCALYPTUS -->
+          <div class="plant-card" data-search="eucalyptus ekalipti eucalyptus globulus">
+            <div class="plant-card-header" style="background-color: #2980B9;">
+              <span class="plant-emoji">🍃</span>
+            </div>
+            <h3>Eucalyptus</h3>
+            <p class="plant-sci">Eucalyptus globulus</p>
+            <p class="plant-creole">Ekalipti</p>
+            <div class="plant-tags">
+              <span class="ptag med">Médicinale</span>
+              <span class="ptag aro">Aromatique</span>
+            </div>
+            <a href="#eucalyptus-fiche" class="plant-link">Fiche complète →</a>
+          </div>
+
+          <!-- PLANT 14: BOUGAINVILLIER (ENDÉMIQUE) -->
+          <div class="plant-card" data-search="bougainvillier bougenvil bougainvillea spectabilis endémique">
+            <div class="plant-card-header" style="background-color: #8E44AD;">
+              <span class="plant-emoji">🌺</span>
+              <span class="plant-status-badge" style="background-color: #fff; color: #8E44AD;">Endémique</span>
+            </div>
+            <h3>Bougainvillier</h3>
+            <p class="plant-sci">Bougainvillea spectabilis</p>
+            <p class="plant-creole">Bougenvil</p>
+            <div class="plant-tags">
+              <span class="ptag med">Médicinale</span>
+              <span class="ptag end">Endémique</span>
+            </div>
+            <a href="#bougenvil-fiche" class="plant-link">Fiche complète →</a>
+          </div>
+
+          <!-- PLANT 15: GRAVIOLA -->
+          <div class="plant-card" data-search="graviola kowosòl annona muricata">
+            <div class="plant-card-header" style="background-color: #27AE60;">
+              <span class="plant-emoji">🌿</span>
+            </div>
+            <h3>Graviola</h3>
+            <p class="plant-sci">Annona muricata</p>
+            <p class="plant-creole">Kowosòl</p>
+            <div class="plant-tags">
+              <span class="ptag med">Médicinale</span>
+              <span class="ptag ali">Alimentaire</span>
+            </div>
+            <a href="#graviola-fiche" class="plant-link">Fiche complète →</a>
+          </div>
+
+          <!-- PLANT 16: CASTOR -->
+          <div class="plant-card" data-search="castor maskreti ricinus communis">
+            <div class="plant-card-header" style="background-color: #F39C12;">
+              <span class="plant-emoji">🍃</span>
+            </div>
+            <h3>Castor</h3>
+            <p class="plant-sci">Ricinus communis</p>
+            <p class="plant-creole">Maskreti</p>
+            <div class="plant-tags">
+              <span class="ptag med">Médicinale</span>
+              <span class="ptag aro">Aromatique</span>
+            </div>
+            <a href="#castor-fiche" class="plant-link">Fiche complète →</a>
+          </div>
+
+          <!-- PLANT 17: AMARANTE -->
+          <div class="plant-card" data-search="amarante zepina amaranthus hybridus">
+            <div class="plant-card-header" style="background-color: #16A085;">
+              <span class="plant-emoji">🌿</span>
+            </div>
+            <h3>Amarante</h3>
+            <p class="plant-sci">Amaranthus hybridus</p>
+            <p class="plant-creole">Zepina</p>
+            <div class="plant-tags">
+              <span class="ptag ali">Alimentaire</span>
+              <span class="ptag med">Médicinale</span>
+            </div>
+            <a href="#amarante-fiche" class="plant-link">Fiche complète →</a>
+          </div>
+
+          <!-- PLANT 18: VÈVÈN (ENDÉMIQUE) -->
+          <div class="plant-card" data-search="vèvèn verveine lippia alba endémique">
+            <div class="plant-card-header" style="background-color: #8E44AD;">
+              <span class="plant-emoji">🌸</span>
+              <span class="plant-status-badge" style="background-color: #fff; color: #8E44AD;">Endémique</span>
+            </div>
+            <h3>Vèvèn</h3>
+            <p class="plant-sci">Lippia alba</p>
+            <p class="plant-creole">Verveine</p>
+            <div class="plant-tags">
+              <span class="ptag med">Médicinale</span>
+              <span class="ptag aro">Aromatique</span>
+              <span class="ptag end">Endémique</span>
+            </div>
+            <a href="#vevèn-fiche" class="plant-link">Fiche complète →</a>
+          </div>
+
+          <!-- PLANT 19: ROUCOU -->
+          <div class="plant-card" data-search="roucou rokout bixa orellana">
+            <div class="plant-card-header" style="background-color: #E74C3C;">
+              <span class="plant-emoji">🌿</span>
+            </div>
+            <h3>Roucou</h3>
+            <p class="plant-sci">Bixa orellana</p>
+            <p class="plant-creole">Rokout</p>
+            <div class="plant-tags">
+              <span class="ptag ali">Alimentaire</span>
+              <span class="ptag med">Médicinale</span>
+            </div>
+            <a href="#roucou-fiche" class="plant-link">Fiche complète →</a>
+          </div>
+
+          <!-- PLANT 20: CACAO (MENACÉE) -->
+          <div class="plant-card" data-search="cacao kakao theobroma cacao menacée">
+            <div class="plant-card-header" style="background-color: #2C3E50;">
+              <span class="plant-emoji">🍃</span>
+              <span class="plant-status-badge" style="background-color: #fff; color: #2C3E50;">Menacée</span>
+            </div>
+            <h3>Cacao</h3>
+            <p class="plant-sci">Theobroma cacao</p>
+            <p class="plant-creole">Kakao</p>
+            <div class="plant-tags">
+              <span class="ptag ali">Alimentaire</span>
+              <span class="ptag aro">Aromatique</span>
+              <span class="ptag uicn">Menacée UICN</span>
+            </div>
+            <a href="#cacao-fiche" class="plant-link">Fiche complète →</a>
+          </div>
+        </div>
+      </div>
+
+      <!-- RIGHT SIDEBAR: MAP & FEATURED PLANT -->
+      <div class="sidebar">
+        <!-- MAP PLACEHOLDER -->
+        <div class="map-placeholder" style="margin-bottom: 40px;">
+          <div class="map-bg">
+            <div class="animated-dot" style="top: 20%; left: 30%;"></div>
+            <div class="animated-dot" style="top: 40%; left: 50%;"></div>
+            <div class="animated-dot" style="top: 60%; left: 25%;"></div>
+            <div class="animated-dot" style="top: 75%; left: 70%;"></div>
+            <div class="animated-dot" style="top: 50%; left: 75%;"></div>
+          </div>
+          <p style="text-align: center; color: #666; font-size: 14px; margin-top: 10px;">Distribution des plantes</p>
+        </div>
+
+        <!-- LEGEND -->
+        <div class="legend" style="margin-bottom: 40px;">
+          <h4 style="margin-top: 0;">Statut de Conservation</h4>
+          <div class="legend-item">
+            <span class="legend-dot" style="background-color: #27AE60;"></span> Non menacée
+          </div>
+          <div class="legend-item">
+            <span class="legend-dot" style="background-color: #F39C12;"></span> Vulnérable
+          </div>
+          <div class="legend-item">
+            <span class="legend-dot" style="background-color: #E74C3C;"></span> En danger
+          </div>
+          <div class="legend-item">
+            <span class="legend-dot" style="background-color: #8E44AD;"></span> Endémique
+          </div>
+          <div class="legend-item">
+            <span class="legend-dot" style="background-color: #2980B9;"></span> Export potentiel
+          </div>
+        </div>
+
+        <!-- FEATURED PLANT: MORINGA -->
+        <div style="background-color: #f5f5f5; border-radius: 8px; padding: 20px; border-left: 4px solid #27AE60;">
+          <h4 style="margin-top: 0; color: #27AE60;">🌟 Plante en Vedette</h4>
+          <h3 style="margin: 10px 0;">Moringa</h3>
+          <p style="font-size: 13px; color: #666; margin: 5px 0;"><em>Moringa oleifera</em> — Benzoliv</p>
+
+          <div style="background-color: white; border-radius: 6px; padding: 15px; margin-top: 15px; border: 1px solid #ddd;">
+            <h5 style="margin-top: 0; color: #333;">Profil Nutritionnel</h5>
+            <table style="width: 100%; font-size: 13px; line-height: 1.8;">
+              <tr>
+                <td style="padding: 5px 0;"><strong>Protéines</strong></td>
+                <td style="text-align: right; color: #27AE60;"><strong>25%</strong></td>
+              </tr>
+              <tr style="background-color: #f9f9f9;">
+                <td style="padding: 5px 0;"><strong>Vitamine C</strong></td>
+                <td style="text-align: right; color: #27AE60;"><strong>7×</strong> vs. orange</td>
+              </tr>
+              <tr>
+                <td style="padding: 5px 0;"><strong>Calcium</strong></td>
+                <td style="text-align: right; color: #27AE60;"><strong>4×</strong> vs. lait</td>
+              </tr>
+              <tr style="background-color: #f9f9f9;">
+                <td style="padding: 5px 0;"><strong>Antioxydants</strong></td>
+                <td style="text-align: right; color: #27AE60;"><strong>10×</strong> vs. épinards</td>
+              </tr>
+            </table>
+          </div>
+
+          <a href="#moringa-fiche" style="display: inline-block; margin-top: 15px; font-weight: bold; color: #27AE60; text-decoration: none;">Voir fiche complète →</a>
+        </div>
+      </div>
+    </div>
   </div>
-  
-  <div id="resultatsGrid" class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-6 min-h-[400px]"></div>
 </section>
+
+<!-- PLANT FICHE SECTION: MORINGA DETAIL -->
+<section class="section-bg" id="moringa-fiche">
+  <div class="container">
+    <h2>Fiche Complète — Moringa oleifera</h2>
+
+    <div style="border-bottom: 2px solid #ddd; margin-bottom: 40px; padding-bottom: 20px;">
+      <div style="display: flex; gap: 20px; flex-wrap: wrap;">
+        <button class="fiche-tab active" style="background-color: #27AE60; color: white;">Identification</button>
+        <button class="fiche-tab">Géographie & Distribution</button>
+        <button class="fiche-tab">Statut de Conservation</button>
+        <button class="fiche-tab">Phytochimie</button>
+        <button class="fiche-tab">Usages Thérapeutiques</button>
+        <button class="fiche-tab">Savoir Traditionnel</button>
+      </div>
+    </div>
+
+    <!-- TAB 1: IDENTIFICATION -->
+    <div class="fiche-content">
+      <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 40px;">
+        <div>
+          <h3 style="color: #27AE60;">Identification Botanique</h3>
+          <p><strong>Nom scientifique :</strong> Moringa oleifera Lam.</p>
+          <p><strong>Famille :</strong> Moringaceae</p>
+          <p><strong>Noms communs :</strong></p>
+          <ul style="margin: 10px 0;">
+            <li>Français : Moringa, Arbre de vie</li>
+            <li>Anglais : Drumstick tree, Miracle tree</li>
+            <li>Kreyòl : Benzoliv, Bwadloviv</li>
+          </ul>
+          <p><strong>Description :</strong> Petit à moyen arbre de 5-12 m de haut, aux branches délicates et légères. Feuilles très finement subdivisées, vert clair. Fleurs petites, blanc-jaunâtre, très odorantes. Fruits longs (30-45 cm), aplatis, appelés « tambourins ».</p>
+          <p><strong>Parties utilisées :</strong> Feuilles, graines, racines, fleurs</p>
+        </div>
+        <div style="background-color: #f0f8f4; padding: 20px; border-radius: 8px;">
+          <h4 style="color: #27AE60; margin-top: 0;">Caractéristiques Clés</h4>
+          <ul style="font-size: 14px; line-height: 2;">
+            <li>🌿 <strong>Feuillage :</strong> Caduque, très fin et gracieux</li>
+            <li>🌸 <strong>Floraison :</strong> Février-mai</li>
+            <li>⚡ <strong>Croissance :</strong> Très rapide, résistant à la sécheresse</li>
+            <li>🌡️ <strong>Température :</strong> 20-35°C optimale</li>
+            <li>💧 <strong>Eau :</strong> Très peu exigeant, tolère l'aridité</li>
+            <li>🌍 <strong>Habitat :</strong> Zones sèches et semi-arides</li>
+          </ul>
+        </div>
+      </div>
+    </div>
+
+    <!-- TAB 2: GÉOGRAPHIE -->
+    <div class="fiche-content" style="display: none;">
+      <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 40px;">
+        <div>
+          <h3 style="color: #27AE60;">Distribution en Haïti</h3>
+          <p>Le Moringa s'est adapté remarquablement au Grand Sud et à la Grand'Anse. Originaire de l'Inde, il est maintenant largement cultivé dans le sud d'Haïti où le climat aride le favorise.</p>
+          <h4>Communes principales :</h4>
+          <ul>
+            <li>Jérémie (Grand'Anse) — plantations étendues</li>
+            <li>Port-à-Piment — culture intensive</li>
+            <li>Les Cayes — centre de distribution</li>
+            <li>Tiburon — zones périphériques</li>
+            <li>Beaumont — secteur rural</li>
+          </ul>
+          <p style="font-size: 13px; color: #666;"><strong>Altitude :</strong> 0-1200 m</p>
+          <p style="font-size: 13px; color: #666;"><strong>Étage de végétation :</strong> Xerophytique, lithosols xériques</p>
+        </div>
+        <div style="background-color: #f0f8f4; padding: 20px; border-radius: 8px;">
+          <h4 style="color: #27AE60; margin-top: 0;">Densité de Population</h4>
+          <p style="font-size: 13px;">Estimée à <strong>15,000+ pieds</strong> dans les plantations du Grand Sud et environ <strong>50,000+ pieds</strong> dispersés en culture associée (agroforesterie).</p>
+          <h4 style="color: #27AE60; margin-top: 20px;">Écologie locale</h4>
+          <ul style="font-size: 13px;">
+            <li>Excellente intégration en agroforesterie</li>
+            <li>Fixation d'azote modérée</li>
+            <li>Très peu d'impact écologique négatif</li>
+            <li>Bénéfique pour la conservation des sols</li>
+          </ul>
+        </div>
+      </div>
+    </div>
+
+    <!-- TAB 3: CONSERVATION -->
+    <div class="fiche-content" style="display: none;">
+      <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 40px;">
+        <div>
+          <h3 style="color: #27AE60;">Évaluation UICN</h3>
+          <p><strong>Catégorie :</strong> <span style="background-color: #27AE60; color: white; padding: 2px 8px; border-radius: 4px;">Non menacée (LC)</span></p>
+          <p><strong>Tendance :</strong> Stable à croissante</p>
+          <p>Le Moringa n'est pas une espèce indigène d'Haïti, mais s'est naturalisé avec succès. Sa distribution s'étend.</p>
+          <h4>Raisons du bon statut :</h4>
+          <ul>
+            <li>Plantation active et intentionnelle</li>
+            <li>Propagation facile par graines</li>
+            <li>Demande élevée localement et à l'export</li>
+            <li>Excellent pour la restauration des sols</li>
+            <li>Aucune menace biotique majeure</li>
+          </ul>
+        </div>
+        <div style="background-color: #f0f8f4; padding: 20px; border-radius: 8px;">
+          <h4 style="color: #27AE60; margin-top: 0;">Menaces Identifiées</h4>
+          <p style="font-size: 13px; color: #333;">Très peu. Le Moringa est résilient.</p>
+          <ul style="font-size: 13px;">
+            <li>⚠️ Potentiel invasif faible</li>
+            <li>🌧️ Période sèche : sensibilité modérée</li>
+            <li>🐛 Parasites : très rares en Haïti</li>
+          </ul>
+          <h4 style="color: #27AE60; margin-top: 20px;">Recommandations</h4>
+          <ul style="font-size: 13px;">
+            <li>Promouvoir la culture domestique</li>
+            <li>Intégrer dans les plans d'agroforesterie</li>
+            <li>Monitorer la qualité génétique</li>
+            <li>Soutenir les filières d'export</li>
+          </ul>
+        </div>
+      </div>
+    </div>
+
+    <!-- TAB 4: PHYTOCHIMIE -->
+    <div class="fiche-content" style="display: none;">
+      <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 40px;">
+        <div>
+          <h3 style="color: #27AE60;">Composition Chimique</h3>
+          <h4>Macronutriments (feuilles sèches) :</h4>
+          <table style="width: 100%; border-collapse: collapse; font-size: 13px;">
+            <tr style="background-color: #f0f8f4;">
+              <td style="padding: 8px; border: 1px solid #ddd;"><strong>Protéines</strong></td>
+              <td style="padding: 8px; border: 1px solid #ddd;"><strong>25-31%</strong></td>
+            </tr>
+            <tr>
+              <td style="padding: 8px; border: 1px solid #ddd;">Lipides</td>
+              <td style="padding: 8px; border: 1px solid #ddd;">2.3%</td>
+            </tr>
+            <tr style="background-color: #f0f8f4;">
+              <td style="padding: 8px; border: 1px solid #ddd;">Glucides</td>
+              <td style="padding: 8px; border: 1px solid #ddd;">26.2%</td>
+            </tr>
+            <tr>
+              <td style="padding: 8px; border: 1px solid #ddd;">Fibres</td>
+              <td style="padding: 8px; border: 1px solid #ddd;">19.2%</td>
+            </tr>
+          </table>
+
+          <h4 style="margin-top: 20px;">Composés Bioactifs Clés :</h4>
+          <ul style="font-size: 13px;">
+            <li><strong>Glucosinolates :</strong> Sulforaphane (anti-cancer)</li>
+            <li><strong>Polyphénols :</strong> Quercétine, acide caféique</li>
+            <li><strong>Alcaloïdes :</strong> Spirochine, moringine</li>
+            <li><strong>Caroténoïdes :</strong> Beta-carotène (provitamine A)</li>
+            <li><strong>Vitamines :</strong> C (7× orange), B1, B2, B3</li>
+          </ul>
+        </div>
+        <div style="background-color: #f0f8f4; padding: 20px; border-radius: 8px;">
+          <h4 style="color: #27AE60; margin-top: 0;">Minéraux (feuilles sèches)</h4>
+          <table style="width: 100%; border-collapse: collapse; font-size: 12px;">
+            <tr style="background-color: white;">
+              <td style="padding: 6px; border: 1px solid #ddd;"><strong>Minéral</strong></td>
+              <td style="padding: 6px; border: 1px solid #ddd; text-align: right;"><strong>Teneur</strong></td>
+            </tr>
+            <tr>
+              <td style="padding: 6px; border: 1px solid #ddd;">Calcium</td>
+              <td style="padding: 6px; border: 1px solid #ddd; text-align: right;"><strong>2,003 mg/100g</strong> (4× lait)</td>
+            </tr>
+            <tr style="background-color: white;">
+              <td style="padding: 6px; border: 1px solid #ddd;">Potassium</td>
+              <td style="padding: 6px; border: 1px solid #ddd; text-align: right;">1,324 mg/100g</td>
+            </tr>
+            <tr>
+              <td style="padding: 6px; border: 1px solid #ddd;">Magnésium</td>
+              <td style="padding: 6px; border: 1px solid #ddd; text-align: right;">368 mg/100g</td>
+            </tr>
+            <tr style="background-color: white;">
+              <td style="padding: 6px; border: 1px solid #ddd;">Fer</td>
+              <td style="padding: 6px; border: 1px solid #ddd; text-align: right;">25.5 mg/100g</td>
+            </tr>
+            <tr>
+              <td style="padding: 6px; border: 1px solid #ddd;">Zinc</td>
+              <td style="padding: 6px; border: 1px solid #ddd; text-align: right;">3.0 mg/100g</td>
+            </tr>
+          </table>
+          <p style="font-size: 12px; margin-top: 15px; color: #666;"><em>Source : TRAMIL, Faculté de Pharmacie Université d'Haïti</em></p>
+        </div>
+      </div>
+    </div>
+
+    <!-- TAB 5: USAGES THÉRAPEUTIQUES -->
+    <div class="fiche-content" style="display: none;">
+      <h3 style="color: #27AE60;">Propriétés et Usages Documentés</h3>
+      <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 30px; margin-top: 20px;">
+        <div>
+          <h4 style="color: #E74C3C;">Antibactérien & Antimicrobien</h4>
+          <p style="font-size: 13px;">Efficacité documentée contre <em>Staphylococcus aureus</em>, <em>Escherichia coli</em>, <em>Bacillus subtilis</em>. Utilisé localement pour plaies infectées.</p>
+          <p style="font-size: 13px; color: #666;"><strong>Préparation :</strong> Cataplasme de feuilles frais ou décoction concentrée</p>
+
+          <h4 style="color: #E74C3C; margin-top: 20px;">Anti-inflammatoire</h4>
+          <p style="font-size: 13px;">La quercétine et autres polyphénols réduisent l'inflammation systémique. Efficace pour arthralgie, rhumatismes.</p>
+          <p style="font-size: 13px; color: #666;"><strong>Préparation :</strong> Infusion quotidienne (3-4 tasses)</p>
+
+          <h4 style="color: #E74C3C; margin-top: 20px;">Hypoglycémiant</h4>
+          <p style="font-size: 13px;">Études TRAMIL montrent réduction de 21% de la glycémie chez sujets diabétiques type 2 après 3 mois de prise régulière.</p>
+          <p style="font-size: 13px; color: #666;"><strong>Préparation :</strong> 1-2 cuillères à soupe de poudre de feuilles par jour</p>
+        </div>
+        <div>
+          <h4 style="color: #E74C3C;">Antioxydant & Immunostimulant</h4>
+          <p style="font-size: 13px;">ORAC de 46,600 μmol TE/100g (10× épinards). Augmente les défenses immunitaires et la résilience aux infections.</p>
+          <p style="font-size: 13px; color: #666;"><strong>Préparation :</strong> Poudre de feuilles, smoothies, thé</p>
+
+          <h4 style="color: #E74C3C; margin-top: 20px;">Nutritionnel & Tonique</h4>
+          <p style="font-size: 13px;">Recommandé pour anémie, malnutrition, récupération post-partum. Source complète d'acides aminés.</p>
+          <p style="font-size: 13px; color: #666;"><strong>Préparation :</strong> Poudre dans aliments, soupes, jus</p>
+
+          <h4 style="color: #E74C3C; margin-top: 20px;">Dépuratif Hépatique</h4>
+          <p style="font-size: 13px;">Aide au drainage lymphatique et à la détoxification. Traditionnel après intoxication ou maladie prolongée.</p>
+          <p style="font-size: 13px; color: #666;"><strong>Préparation :</strong> Décoction douce, 2-3 semaines</p>
+        </div>
+      </div>
+    </div>
+
+    <!-- TAB 6: SAVOIR TRADITIONNEL -->
+    <div class="fiche-content" style="display: none;">
+      <h3 style="color: #27AE60;">Usages Traditionnels et Doktè Fey</h3>
+      <p style="font-size: 14px; line-height: 1.8;">Le Moringa occupe une place importante dans la pharmacopée traditionnelle haïtienne. Les Doktè Fey du Grand Sud le prescrivent régulièrement pour renforcer les corps affaiblis et traiter les maladies chroniques.</p>
+
+      <div style="background-color: #f0f8f4; padding: 20px; border-radius: 8px; margin-top: 20px; border-left: 4px solid #27AE60;">
+        <h4 style="margin-top: 0; color: #27AE60;">Recette Traditionnelle — "Bouyon Benzoliv" (Bouillon Moringa)</h4>
+        <p style="font-size: 13px;"><strong>Ingrédients :</strong></p>
+        <ul style="font-size: 13px;">
+          <li>2-3 poignées de jeunes feuilles de Moringa fraîches</li>
+          <li>1 morceau de coco frais (ou 1 cuillère à soupe d'huile de coco)</li>
+          <li>2-3 gousses d'ail</li>
+          <li>1 oignon</li>
+          <li>1 poignée de malanga ou igname</li>
+          <li>1 litre d'eau de source</li>
+          <li>Sel, épices au goût</li>
+        </ul>
+        <p style="font-size: 13px;"><strong>Préparation :</strong> Faire mijoter légumes de base 20 min, ajouter feuilles de Moringa les 5 dernières minutes. Servir chaud. <strong>Fréquence :</strong> 3-4 fois par semaine en période de convalesence, 2-3 fois par mois en prévention.</p>
+        <p style="font-size: 13px;"><strong>Indication :</strong> Anémie, convalescence post-maladie, fatigue chronique, femmes enceintes et allaitantes.</p>
+      </div>
+
+      <div style="margin-top: 20px;">
+        <h4 style="color: #27AE60;">Pratiques Communautaires</h4>
+        <ul style="font-size: 13px;">
+          <li><strong>Prévention :</strong> Consommation régulière de feuilles en salade ou poudre (« supplement naturel »)</li>
+          <li><strong>Rituel post-accouchement :</strong> Bouillon spécial pour une semaine post-partum</li>
+          <li><strong>Soutien immunitaire :</strong> Augmentation en période de grandes chaleurs ou d'épidémie</li>
+          <li><strong>Traitement des plaies :</strong> Cataplasme de feuilles écrasées pour cicatrisation rapide</li>
+        </ul>
+      </div>
+
+      <p style="font-size: 12px; color: #666; margin-top: 30px; border-top: 1px solid #ddd; padding-top: 15px;"><em>Note :</em> Les usages traditionnels documentés ici respectent la propriété intellectuelle collective des communautés haïtiennes et réfléchissent les pratiques actuellement enseignées par les Doktè Fey du Grand Sud. Toute recherche commerciale requiert le consentement préalable informé des communautés.</p>
+    </div>
+  </div>
+</section>
+
+<!-- RESEARCH TOOLS SECTION -->
+<section class="section-dark">
+  <div class="container">
+    <h2 style="color: white; margin-bottom: 10px;">Outils de Recherche</h2>
+    <p style="color: #ccc; margin-bottom: 40px;">Accédez à nos ressources pour chercheurs, organisations et décideurs.</p>
+
+    <div class="grid-3">
+      <!-- API OUVERTE -->
+      <div style="background-color: rgba(255,255,255,0.1); padding: 25px; border-radius: 8px; border: 1px solid rgba(255,255,255,0.2);">
+        <h3 style="color: white; margin-top: 0;">API Ouverte</h3>
+        <p style="color: #ccc; font-size: 14px;">Accès programmé à la base de données PMAA. Parfait pour applications mobiles, recherche, et intégration institutionnelle.</p>
+        <a href="#" style="display: inline-block; margin-top: 15px; padding: 10px 20px; background-color: #F39C12; color: white; border-radius: 4px; text-decoration: none; font-weight: bold;">Consulter Docs API →</a>
+      </div>
+
+      <!-- TÉLÉCHARGEMENT DONNÉES -->
+      <div style="background-color: rgba(255,255,255,0.1); padding: 25px; border-radius: 8px; border: 1px solid rgba(255,255,255,0.2);">
+        <h3 style="color: white; margin-top: 0;">Téléchargement de Données</h3>
+        <p style="color: #ccc; font-size: 14px;">Exportez les fiches complètes en CSV, JSON ou PDF. Licences CC-BY-SA pour chercheurs et institutions.</p>
+        <a href="#" style="display: inline-block; margin-top: 15px; padding: 10px 20px; background-color: #F39C12; color: white; border-radius: 4px; text-decoration: none; font-weight: bold;">Télécharger Dataset →</a>
+      </div>
+
+      <!-- PUBLICATIONS -->
+      <div style="background-color: rgba(255,255,255,0.1); padding: 25px; border-radius: 8px; border: 1px solid rgba(255,255,255,0.2);">
+        <h3 style="color: white; margin-top: 0;">Publications TRAMIL</h3>
+        <p style="color: #ccc; font-size: 14px;">Accès à la base de données TRAMIL, PubMed et publications scientifiques validées sur les plantes haïtiennes.</p>
+        <a href="#" style="display: inline-block; margin-top: 15px; padding: 10px 20px; background-color: #F39C12; color: white; border-radius: 4px; text-decoration: none; font-weight: bold;">Voir Publications →</a>
+      </div>
+    </div>
+  </div>
+</section>
+
+<div id="footer-placeholder"></div>
+
+<script src="pmaa-nav.js"></script>
+<script>
+PMAA.renderNav('atlas');
+PMAA.renderFooter();
+
+// Simple tab switching for fiche
+document.querySelectorAll('.fiche-tab').forEach((tab, index) => {
+  tab.addEventListener('click', function() {
+    document.querySelectorAll('.fiche-tab').forEach(t => {
+      t.style.backgroundColor = '';
+      t.style.color = '';
+    });
+    this.style.backgroundColor = '#27AE60';
+    this.style.color = 'white';
+
+    document.querySelectorAll('.fiche-content').forEach(content => {
+      content.style.display = 'none';
+    });
+    document.querySelectorAll('.fiche-content')[index].style.display = 'block';
+  });
+});
+</script>
+</body>
+</html>

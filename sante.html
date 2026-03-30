@@ -1,0 +1,803 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Santé & Maladies — PMAA Haïti</title>
+	<link rel="stylesheet" href="pmaa-styles.css">
+	<style>
+		.warning-bar {
+			background-color: #f39c12;
+			padding: 20px;
+			text-align: center;
+			color: #333;
+			font-weight: 500;
+			font-size: 14px;
+			line-height: 1.6;
+			width: 100%;
+		}
+
+		.disease-category {
+			background: white;
+			border: 1px solid #ecf0f1;
+			border-radius: 8px;
+			margin-bottom: 30px;
+			overflow: hidden;
+		}
+
+		.category-header {
+			padding: 20px;
+			color: white;
+			font-weight: 600;
+			font-size: 18px;
+			display: flex;
+			justify-content: space-between;
+			align-items: center;
+		}
+
+		.category-badge {
+			background-color: rgba(255, 255, 255, 0.3);
+			padding: 5px 12px;
+			border-radius: 20px;
+			font-size: 13px;
+		}
+
+		.category-content {
+			padding: 20px;
+		}
+
+		.example-grid {
+			display: grid;
+			grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+			gap: 15px;
+			margin-bottom: 25px;
+		}
+
+		.example-plant {
+			background: #f8f9fa;
+			padding: 12px;
+			border-radius: 6px;
+			border-left: 3px solid #bdc3c7;
+		}
+
+		.example-plant strong {
+			display: block;
+			margin-bottom: 5px;
+		}
+
+		.example-plant span {
+			font-size: 12px;
+			color: #666;
+		}
+
+		.key-plants {
+			background: #f0f4f8;
+			padding: 15px;
+			border-radius: 6px;
+			margin-bottom: 15px;
+		}
+
+		.key-plants h4 {
+			margin: 0 0 12px 0;
+			font-size: 14px;
+			color: #333;
+		}
+
+		.plant-dosage {
+			padding: 8px 0;
+			font-size: 13px;
+			border-bottom: 1px solid #ddd;
+		}
+
+		.plant-dosage:last-child {
+			border-bottom: none;
+		}
+
+		.plant-dosage strong {
+			display: block;
+			color: #2c3e50;
+		}
+
+		.plant-dosage span {
+			font-size: 12px;
+			color: #666;
+		}
+
+		.category-link {
+			display: inline-block;
+			background: #34495e;
+			color: white;
+			padding: 8px 16px;
+			border-radius: 4px;
+			text-decoration: none;
+			font-size: 13px;
+			margin-top: 10px;
+		}
+
+		.category-link:hover {
+			background: #2c3e50;
+		}
+
+		.protocol-cards {
+			display: grid;
+			grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+			gap: 20px;
+		}
+
+		.protocol-card {
+			background: white;
+			padding: 20px;
+			border-radius: 8px;
+			border-left: 4px solid #27ae60;
+		}
+
+		.protocol-card h3 {
+			margin: 0 0 12px 0;
+			color: #27ae60;
+			font-size: 16px;
+		}
+
+		.protocol-card p {
+			margin: 0;
+			font-size: 13px;
+			line-height: 1.6;
+			color: #555;
+		}
+
+		.protocol-card ul {
+			margin: 10px 0 0 0;
+			padding-left: 20px;
+			font-size: 13px;
+		}
+
+		.protocol-card li {
+			margin: 5px 0;
+			color: #555;
+		}
+
+		.pharma-section {
+			display: grid;
+			grid-template-columns: 1fr 1fr;
+			gap: 30px;
+		}
+
+		.progress-bar {
+			margin-bottom: 15px;
+		}
+
+		.progress-label {
+			font-size: 13px;
+			font-weight: 500;
+			margin-bottom: 5px;
+			color: #333;
+		}
+
+		.progress-track {
+			background: #ecf0f1;
+			height: 8px;
+			border-radius: 4px;
+			overflow: hidden;
+		}
+
+		.progress-fill {
+			height: 100%;
+			background: #3498db;
+			transition: width 0.3s ease;
+		}
+
+		.contribution-box {
+			background: #f0fdf4;
+			border: 1px solid #86efac;
+			padding: 20px;
+			border-radius: 8px;
+		}
+
+		.contribution-box h3 {
+			margin: 0 0 15px 0;
+			color: #22863a;
+			font-size: 16px;
+		}
+
+		.form-group {
+			margin-bottom: 15px;
+		}
+
+		.form-group label {
+			display: block;
+			font-size: 13px;
+			font-weight: 500;
+			margin-bottom: 5px;
+			color: #333;
+		}
+
+		.form-group input,
+		.form-group textarea {
+			width: 100%;
+			padding: 8px 12px;
+			border: 1px solid #ddd;
+			border-radius: 4px;
+			font-family: inherit;
+			font-size: 13px;
+		}
+
+		.form-group textarea {
+			resize: vertical;
+			min-height: 80px;
+		}
+
+		.submit-btn {
+			background: #27ae60;
+			color: white;
+			padding: 10px 20px;
+			border: none;
+			border-radius: 4px;
+			cursor: pointer;
+			font-size: 14px;
+			font-weight: 500;
+		}
+
+		.submit-btn:hover {
+			background: #229954;
+		}
+
+		.naturopath-cards {
+			display: grid;
+			grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+			gap: 20px;
+		}
+
+		.naturopath-card {
+			background: #2c3e50;
+			color: white;
+			padding: 25px;
+			border-radius: 8px;
+			border-top: 3px solid #3498db;
+		}
+
+		.naturopath-card h3 {
+			margin: 0 0 12px 0;
+			font-size: 16px;
+		}
+
+		.naturopath-card p {
+			margin: 0;
+			font-size: 13px;
+			line-height: 1.6;
+			opacity: 0.9;
+		}
+
+		@media (max-width: 768px) {
+			.pharma-section {
+				grid-template-columns: 1fr;
+			}
+
+			.example-grid {
+				grid-template-columns: 1fr;
+			}
+		}
+	</style>
+</head>
+<body>
+
+<div id="topbar-placeholder"></div>
+
+<!-- Page Hero -->
+<div class="page-hero">
+	<div class="page-hero-inner">
+		<div class="breadcrumb">Accueil &gt; Santé &amp; Maladies</div>
+		<span class="page-tag">💊 Phytothérapie Scientifique</span>
+		<h1>Santé &amp; <span>Maladies</span> — Plantes Thérapeutiques</h1>
+		<p>Index scientifiquement validé de 802 associations plante-maladie par TRAMIL et le Jardin Botanique de Calabaza. Accédez aux protocoles phytothérapeutiques éprouvés pour les pathologies courantes en Haïti.</p>
+	</div>
+</div>
+
+<!-- Warning Medical Bar -->
+<div class="warning-bar">
+	<strong>⚕️ Information médicale :</strong> Ces données sont à titre informatif. Consultez toujours un professionnel de santé avant tout traitement. / For informational purposes only — consult a health professional.
+</div>
+
+<!-- Key Stats -->
+<div class="section-bg">
+	<div class="section-inner">
+		<div class="grid-4">
+			<div class="stat-card">
+				<div class="stat-number">802</div>
+				<div class="stat-label">Associations Validées</div>
+				<div class="stat-desc">Plante-maladie documentées</div>
+			</div>
+			<div class="stat-card">
+				<div class="stat-number">8</div>
+				<div class="stat-label">Catégories Thérapeutiques</div>
+				<div class="stat-desc">Domaines de santé couverts</div>
+			</div>
+			<div class="stat-card">
+				<div class="stat-number">127</div>
+				<div class="stat-label">Contre-indications</div>
+				<div class="stat-desc">Interactions documentées</div>
+			</div>
+			<div class="stat-card">
+				<div class="stat-number">45</div>
+				<div class="stat-label">Protocoles d'Urgence</div>
+				<div class="stat-desc">Situations post-catastrophes</div>
+			</div>
+		</div>
+	</div>
+</div>
+
+<!-- Disease Categories -->
+<div class="section">
+	<div class="section-inner">
+
+		<!-- Category 1: Infections -->
+		<div class="disease-category">
+			<div class="category-header" style="background-color: #c0392b;">
+				<span>🦠 Infections &amp; Maladies Tropicales</span>
+				<span class="category-badge">127 plantes</span>
+			</div>
+			<div class="category-content">
+				<div class="example-grid">
+					<div class="example-plant">
+						<strong>Fièvre</strong>
+						<span>Citronnelle, Eucalyptus</span>
+					</div>
+					<div class="example-plant">
+						<strong>Paludisme</strong>
+						<span>Quinquina, Neem</span>
+					</div>
+					<div class="example-plant">
+						<strong>Grippe</strong>
+						<span>Gingembre, Menthe</span>
+					</div>
+					<div class="example-plant">
+						<strong>Dengue</strong>
+						<span>Papayer feuilles, Goyave</span>
+					</div>
+					<div class="example-plant">
+						<strong>Infections bactériennes</strong>
+						<span>Neem, Ail</span>
+					</div>
+				</div>
+				<div class="key-plants">
+					<h4>🌿 Plantes phares</h4>
+					<div class="plant-dosage">
+						<strong>Eucalyptus</strong>
+						<span>Infusion : 3-5g feuilles/tasse, 2-3 fois/jour</span>
+					</div>
+					<div class="plant-dosage">
+						<strong>Neem</strong>
+						<span>Décoction : 30-50ml feuilles, 2 fois/jour</span>
+					</div>
+					<div class="plant-dosage">
+						<strong>Quinquina</strong>
+						<span>Écorce : 1-2g par tasse, max 3 fois/jour</span>
+					</div>
+				</div>
+				<a href="atlas.html?category=infections" class="category-link">Voir les 127 plantes →</a>
+			</div>
+		</div>
+
+		<!-- Category 2: Cardiovascular -->
+		<div class="disease-category">
+			<div class="category-header" style="background-color: #2471a3;">
+				<span>❤️ Maladies Chroniques Cardiovasculaires</span>
+				<span class="category-badge">94 plantes</span>
+			</div>
+			<div class="category-content">
+				<div class="example-grid">
+					<div class="example-plant">
+						<strong>Diabète</strong>
+						<span>Moringa, Cannelle, Corossol</span>
+					</div>
+					<div class="example-plant">
+						<strong>Hypertension</strong>
+						<span>Ail, Hibiscus, Curcuma</span>
+					</div>
+					<div class="example-plant">
+						<strong>Cholestérol</strong>
+						<span>Artichaut, Avocat, Ail</span>
+					</div>
+				</div>
+				<div class="key-plants">
+					<h4>🌿 Plantes phares</h4>
+					<div class="plant-dosage">
+						<strong>Moringa</strong>
+						<span>Poudre feuilles : 5-10g/jour dans alimentation</span>
+					</div>
+					<div class="plant-dosage">
+						<strong>Hibiscus</strong>
+						<span>Infusion fleurs : 5-10g/tasse, 1-2 fois/jour</span>
+					</div>
+					<div class="plant-dosage">
+						<strong>Curcuma</strong>
+						<span>Racine : 1-2g poudre, 2 fois/jour avec poivre noir</span>
+					</div>
+				</div>
+				<a href="atlas.html?category=cardiovascular" class="category-link">Voir les 94 plantes →</a>
+			</div>
+		</div>
+
+		<!-- Category 3: Digestive -->
+		<div class="disease-category">
+			<div class="category-header" style="background-color: #ca6f1e;">
+				<span>🫁 Système Digestif &amp; Parasitoses</span>
+				<span class="category-badge">108 plantes</span>
+			</div>
+			<div class="category-content">
+				<div class="example-grid">
+					<div class="example-plant">
+						<strong>Diarrhée</strong>
+						<span>Goyavier, Papayer, Coing</span>
+					</div>
+					<div class="example-plant">
+						<strong>Parasitoses</strong>
+						<span>Papayer graines, Citrouille graines</span>
+					</div>
+					<div class="example-plant">
+						<strong>Gastrite</strong>
+						<span>Aloe vera, Réglisse</span>
+					</div>
+				</div>
+				<div class="key-plants">
+					<h4>🌿 Plantes phares</h4>
+					<div class="plant-dosage">
+						<strong>Goyavier</strong>
+						<span>Infusion feuilles : 10-15g/tasse, 3 fois/jour</span>
+					</div>
+					<div class="plant-dosage">
+						<strong>Papayer</strong>
+						<span>Graines séchées : 1-2g poudre, 1 fois/jour</span>
+					</div>
+					<div class="plant-dosage">
+						<strong>Aloe vera</strong>
+						<span>Gel : 15-30ml/jour dilué, max 2 semaines</span>
+					</div>
+				</div>
+				<a href="atlas.html?category=digestive" class="category-link">Voir les 108 plantes →</a>
+			</div>
+		</div>
+
+		<!-- Category 4: Mental Health -->
+		<div class="disease-category">
+			<div class="category-header" style="background-color: #7d3c98;">
+				<span>🧠 Santé Mentale &amp; Neurologique</span>
+				<span class="category-badge">72 plantes</span>
+			</div>
+			<div class="category-content">
+				<div class="example-grid">
+					<div class="example-plant">
+						<strong>Stress/Anxiété</strong>
+						<span>Vétiver, Lavande, Passiflore</span>
+					</div>
+					<div class="example-plant">
+						<strong>Insomnie</strong>
+						<span>Citronnelle, Valériane</span>
+					</div>
+					<div class="example-plant">
+						<strong>Épilepsie légère</strong>
+						<span>Basilic, Millepertuis</span>
+					</div>
+				</div>
+				<div class="key-plants">
+					<h4>🌿 Plantes phares</h4>
+					<div class="plant-dosage">
+						<strong>Passiflore</strong>
+						<span>Infusion : 5-7g feuilles/tasse, 1-2 fois/jour</span>
+					</div>
+					<div class="plant-dosage">
+						<strong>Vétiver</strong>
+						<span>Infusion racines : 3-5g/tasse, le soir</span>
+					</div>
+					<div class="plant-dosage">
+						<strong>Lavande</strong>
+						<span>Infusion fleurs : 2-5g/tasse, 2 fois/jour</span>
+					</div>
+				</div>
+				<a href="atlas.html?category=mental" class="category-link">Voir les 72 plantes →</a>
+			</div>
+		</div>
+
+		<!-- Category 5: Skin & Wounds -->
+		<div class="disease-category">
+			<div class="category-header" style="background-color: #1e8449;">
+				<span>🖐️ Peau, Plaies &amp; Cicatrisation</span>
+				<span class="category-badge">115 plantes</span>
+			</div>
+			<div class="category-content">
+				<div class="example-grid">
+					<div class="example-plant">
+						<strong>Brûlures</strong>
+						<span>Aloe vera, Papayer</span>
+					</div>
+					<div class="example-plant">
+						<strong>Infections cutanées</strong>
+						<span>Neem, Eucalyptus</span>
+					</div>
+					<div class="example-plant">
+						<strong>Plaies</strong>
+						<span>Moringa, Castor</span>
+					</div>
+					<div class="example-plant">
+						<strong>Eczéma</strong>
+						<span>Calendula</span>
+					</div>
+				</div>
+				<div class="key-plants">
+					<h4>🌿 Plantes phares</h4>
+					<div class="plant-dosage">
+						<strong>Aloe vera</strong>
+						<span>Gel : application directe 2-3 fois/jour</span>
+					</div>
+					<div class="plant-dosage">
+						<strong>Neem</strong>
+						<span>Huile : application cutanée, 2 fois/jour</span>
+					</div>
+					<div class="plant-dosage">
+						<strong>Moringa</strong>
+						<span>Poudre feuillle : en cataplasme avec eau</span>
+					</div>
+				</div>
+				<a href="atlas.html?category=skin" class="category-link">Voir les 115 plantes →</a>
+			</div>
+		</div>
+
+		<!-- Category 6: Respiratory -->
+		<div class="disease-category">
+			<div class="category-header" style="background-color: #148f77;">
+				<span>🫀 Système Respiratoire</span>
+				<span class="category-badge">83 plantes</span>
+			</div>
+			<div class="category-content">
+				<div class="example-grid">
+					<div class="example-plant">
+						<strong>Asthme</strong>
+						<span>Eucalyptus, Menthe, Thym</span>
+					</div>
+					<div class="example-plant">
+						<strong>Toux</strong>
+						<span>Gingembre, Miel+Citron, Thym</span>
+					</div>
+					<div class="example-plant">
+						<strong>Bronchite</strong>
+						<span>Eucalyptus, Oignon</span>
+					</div>
+				</div>
+				<div class="key-plants">
+					<h4>🌿 Plantes phares</h4>
+					<div class="plant-dosage">
+						<strong>Thym</strong>
+						<span>Infusion : 5-10g/tasse, 2-3 fois/jour</span>
+					</div>
+					<div class="plant-dosage">
+						<strong>Gingembre</strong>
+						<span>Décoction : 10-20g racine/tasse, 2 fois/jour</span>
+					</div>
+					<div class="plant-dosage">
+						<strong>Eucalyptus</strong>
+						<span>Inhalation : feuilles + eau chaude, 10min</span>
+					</div>
+				</div>
+				<a href="atlas.html?category=respiratory" class="category-link">Voir les 83 plantes →</a>
+			</div>
+		</div>
+
+		<!-- Category 7: Maternal & Infant -->
+		<div class="disease-category">
+			<div class="category-header" style="background-color: #c2185b;">
+				<span>🤱 Santé Maternelle &amp; Infantile</span>
+				<span class="category-badge">61 plantes</span>
+			</div>
+			<div class="category-content">
+				<div class="example-grid">
+					<div class="example-plant">
+						<strong>Nausées grossesse</strong>
+						<span>Gingembre</span>
+					</div>
+					<div class="example-plant">
+						<strong>Allaitement</strong>
+						<span>Fenouil, Moringa</span>
+					</div>
+					<div class="example-plant">
+						<strong>Nutrition infantile</strong>
+						<span>Moringa poudre, Amarante</span>
+					</div>
+					<div class="example-plant">
+						<strong>Fièvres nourrisson</strong>
+						<span>Citronnelle tisane douce</span>
+					</div>
+				</div>
+				<div class="key-plants">
+					<h4>🌿 Plantes phares</h4>
+					<div class="plant-dosage">
+						<strong>Gingembre</strong>
+						<span>Petit morceau + eau chaude, max 1x/jour</span>
+					</div>
+					<div class="plant-dosage">
+						<strong>Moringa</strong>
+						<span>Poudre : 3-5g/jour dans aliments</span>
+					</div>
+					<div class="plant-dosage">
+						<strong>Fenouil</strong>
+						<span>Graines : infusion légère, 1-2 fois/jour</span>
+					</div>
+				</div>
+				<a href="atlas.html?category=maternal" class="category-link">Voir les 61 plantes →</a>
+			</div>
+		</div>
+
+		<!-- Category 8: Immunity -->
+		<div class="disease-category">
+			<div class="category-header" style="background-color: #e64a19;">
+				<span>🛡️ Immunité &amp; Antioxydants</span>
+				<span class="category-badge">142 plantes</span>
+			</div>
+			<div class="category-content">
+				<div class="example-grid">
+					<div class="example-plant">
+						<strong>Immunostimulants</strong>
+						<span>Moringa, Curcuma, Ail</span>
+					</div>
+					<div class="example-plant">
+						<strong>Anti-inflammatoires</strong>
+						<span>Curcuma, Gingembre, Aloe</span>
+					</div>
+					<div class="example-plant">
+						<strong>Post-Covid</strong>
+						<span>Moringa, Vitamine C naturelle</span>
+					</div>
+				</div>
+				<div class="key-plants">
+					<h4>🌿 Plantes phares</h4>
+					<div class="plant-dosage">
+						<strong>Moringa</strong>
+						<span>Poudre : 5-10g/jour dans alimentation</span>
+					</div>
+					<div class="plant-dosage">
+						<strong>Curcuma</strong>
+						<span>Poudre : 1-2g/jour avec poivre noir</span>
+					</div>
+					<div class="plant-dosage">
+						<strong>Ail</strong>
+						<span>Frais : 2-3 gousses/jour, cru ou cuit</span>
+					</div>
+				</div>
+				<a href="atlas.html?category=immunity" class="category-link">Voir les 142 plantes →</a>
+			</div>
+		</div>
+
+	</div>
+</div>
+
+<!-- Emergency Protocols -->
+<div class="section-green">
+	<div class="section-inner">
+		<h2>Protocoles d'Urgence PMAA — Post-Catastrophes Naturelles</h2>
+		<p style="margin-bottom: 30px; color: #333;">En situation post-séisme, cyclone ou urgence sanitaire, ces protocoles phytothérapeutiques éprouvés peuvent compléter la prise en charge médicale.</p>
+		<div class="protocol-cards">
+			<div class="protocol-card">
+				<h3>Gestion des Douleurs &amp; Traumatismes</h3>
+				<p>Soulagement des contusions, fractures et douleurs aigües post-traumatiques</p>
+				<ul>
+					<li><strong>Aloe vera</strong> — Compresses gel, anti-inflammatoire</li>
+					<li><strong>Huile de Castor</strong> — Massage doux, cicatrisation</li>
+					<li><strong>Arnica</strong> — Onguent local, ecchymoses</li>
+				</ul>
+			</div>
+			<div class="protocol-card">
+				<h3>Prévention des Infections</h3>
+				<p>Prévention des infections opportunistes dans environnement contaminé</p>
+				<ul>
+					<li><strong>Eau de Neem</strong> — Rinçage plaies, antiseptique</li>
+					<li><strong>Eucalyptus</strong> — Fumigation habitat, antivirale</li>
+					<li><strong>Ail</strong> — Consommation, antimicrobienne générale</li>
+				</ul>
+			</div>
+			<div class="protocol-card">
+				<h3>Maladies Gastro-intestinales Post-Catastrophe</h3>
+				<p>Gestion diarrhée, cholera et contaminations hydriques</p>
+				<ul>
+					<li><strong>Charbon végétal</strong> — Purification eau, détoxication</li>
+					<li><strong>Feuilles Goyavier</strong> — Infusion, arrêt diarrhée</li>
+					<li><strong>Eau salée + Citron</strong> — Réhydratation électrolytes</li>
+				</ul>
+			</div>
+		</div>
+	</div>
+</div>
+
+<!-- Pharmacopoeia National -->
+<div class="section-bg">
+	<div class="section-inner">
+		<h2>Pharmacopée Nationale en Développement</h2>
+		<div class="pharma-section">
+			<div>
+				<p>Le Ministère de la Santé Publique avec le Jardin Botanique de Calabaza (JBC) développe la Pharmacopée Nationale Haïtienne. Ce projet ambitieux documente et valide scientifiquement les pratiques phytothérapeutiques traditionnelles, établissant des standards de qualité, dosage et efficacité.</p>
+				<p style="margin-top: 20px; font-weight: 500; color: #333;">Progression par catégorie thérapeutique :</p>
+
+				<div class="progress-bar">
+					<div class="progress-label">Validé scientifiquement</div>
+					<div class="progress-track">
+						<div class="progress-fill" style="width: 45%; background: #27ae60;"></div>
+					</div>
+				</div>
+
+				<div class="progress-bar">
+					<div class="progress-label">En cours d'étude</div>
+					<div class="progress-track">
+						<div class="progress-fill" style="width: 30%; background: #f39c12;"></div>
+					</div>
+				</div>
+
+				<div class="progress-bar">
+					<div class="progress-label">Usage traditionnel documenté</div>
+					<div class="progress-track">
+						<div class="progress-fill" style="width: 20%; background: #3498db;"></div>
+					</div>
+				</div>
+
+				<div class="progress-bar">
+					<div class="progress-label">En attente d'évaluation</div>
+					<div class="progress-track">
+						<div class="progress-fill" style="width: 5%; background: #95a5a6;"></div>
+					</div>
+				</div>
+			</div>
+
+			<div class="contribution-box">
+				<h3>Contribuez au Savoir Traditionnel</h3>
+				<p>Partagez vos connaissances locales en phytothérapie. Les usages documentés et validés seront intégrés à la Pharmacopée Nationale.</p>
+				<form style="margin-top: 15px;">
+					<div class="form-group">
+						<label for="contrib_name">Votre nom</label>
+						<input type="text" id="contrib_name" placeholder="Nom complet" required>
+					</div>
+					<div class="form-group">
+						<label for="contrib_region">Région / Localité</label>
+						<input type="text" id="contrib_region" placeholder="P. ex. Port-au-Prince, Grand'Anse" required>
+					</div>
+					<div class="form-group">
+						<label for="contrib_plant">Nom de la plante</label>
+						<input type="text" id="contrib_plant" placeholder="Nom créole et français" required>
+					</div>
+					<div class="form-group">
+						<label for="contrib_usage">Usage traditionnel documenté</label>
+						<textarea id="contrib_usage" placeholder="Description du traitement, dosage, durée..." required></textarea>
+					</div>
+					<button type="submit" class="submit-btn">Soumettre ma Contribution</button>
+				</form>
+			</div>
+		</div>
+	</div>
+</div>
+
+<!-- Naturopaths Section -->
+<div class="section-dark">
+	<div class="section-inner">
+		<h2>Pour les Naturopathes &amp; Professionnels de Santé</h2>
+		<p style="margin-bottom: 30px; color: #bdc3c7;">Accès aux données avancées, protocoles complets et formation continue PMAA pour les praticiens certifiés.</p>
+		<div class="naturopath-cards">
+			<div class="naturopath-card">
+				<h3>Données Phytochimiques Avancées</h3>
+				<p>Principes actifs détaillés, mécanismes d'action, biodisponibilité et études cliniques pour chaque plante du référentiel.</p>
+			</div>
+			<div class="naturopath-card">
+				<h3>Interactions Médicamenteuses</h3>
+				<p>Base de données complète des interactions avec médicaments courants, contre-indications absolues et gestion des co-prescriptions.</p>
+			</div>
+			<div class="naturopath-card">
+				<h3>Formation Continue PMAA</h3>
+				<p>Certificat de praticien PMAA, webinaires mensuels, études de cas, et mise à jour des protocoles basée sur dernières recherches.</p>
+			</div>
+		</div>
+	</div>
+</div>
+
+<div id="footer-placeholder"></div>
+
+<script src="pmaa-nav.js"></script>
+<script>
+	PMAA.renderNav('sante');
+	PMAA.renderFooter();
+</script>
+
+</body>
+</html>

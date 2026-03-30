@@ -1,0 +1,979 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Savoir Traditionnel — PMAA Haïti</title>
+  <link rel="stylesheet" href="pmaa-styles.css">
+  <style>
+    .breadcrumb {
+      display: flex;
+      gap: 0.5rem;
+      margin-bottom: 1rem;
+      font-size: 0.9rem;
+      color: #666;
+    }
+
+    .breadcrumb a {
+      color: #2980b9;
+      text-decoration: none;
+    }
+
+    .breadcrumb a:hover {
+      text-decoration: underline;
+    }
+
+    .page-tag {
+      display: inline-block;
+      background: rgba(52, 73, 94, 0.1);
+      color: #34495e;
+      padding: 0.5rem 1rem;
+      border-radius: 4px;
+      font-size: 0.85rem;
+      font-weight: 500;
+      margin-bottom: 1rem;
+    }
+
+    .page-hero h1 {
+      font-size: 3rem;
+      margin: 1.5rem 0;
+    }
+
+    .page-hero h1 span {
+      color: #e8a652;
+    }
+
+    .page-subtitle {
+      font-size: 1.2rem;
+      color: rgba(255,255,255,0.8);
+      line-height: 1.6;
+      max-width: 900px;
+    }
+
+    .section-inner {
+      max-width: 1200px;
+      margin: 0 auto;
+    }
+
+    .heritage-card {
+      background: white;
+      padding: 2rem;
+      border-radius: 8px;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+      border-left: 6px solid #ddd;
+    }
+
+    .heritage-card.taino {
+      border-left-color: #d4af37;
+      background: #fffdf8;
+    }
+
+    .heritage-card.african {
+      border-left-color: #27ae60;
+      background: #f0f9f5;
+    }
+
+    .heritage-card.european {
+      border-left-color: #3498db;
+      background: #ecf2f7;
+    }
+
+    .heritage-icon {
+      font-size: 2.5rem;
+      margin-bottom: 1rem;
+    }
+
+    .heritage-title {
+      font-size: 1.5rem;
+      font-weight: bold;
+      margin: 1rem 0;
+    }
+
+    .heritage-narrative {
+      color: #555;
+      line-height: 1.7;
+      margin: 1rem 0;
+      font-size: 0.95rem;
+    }
+
+    .heritage-plants {
+      margin: 1.5rem 0;
+      padding: 1rem;
+      background: rgba(0,0,0,0.03);
+      border-radius: 6px;
+    }
+
+    .heritage-plants-label {
+      font-weight: bold;
+      margin-bottom: 0.5rem;
+      display: block;
+    }
+
+    .plant-list {
+      display: flex;
+      gap: 0.5rem;
+      flex-wrap: wrap;
+    }
+
+    .plant-tag {
+      background: white;
+      padding: 0.4rem 0.8rem;
+      border-radius: 4px;
+      font-size: 0.85rem;
+      border: 1px solid #ddd;
+    }
+
+    .heritage-significance {
+      margin: 1rem 0;
+      padding: 1rem;
+      background: rgba(0,0,0,0.05);
+      border-radius: 6px;
+      font-style: italic;
+      color: #666;
+      font-size: 0.9rem;
+    }
+
+    .grid-3 {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+      gap: 1.5rem;
+    }
+
+    .grid-2 {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 2rem;
+      align-items: start;
+    }
+
+    .section-bg {
+      background: #f8f9fa;
+      padding: 3rem 2rem;
+    }
+
+    .section-green {
+      background: #e8f5e9;
+      padding: 3rem 2rem;
+    }
+
+    .section-dark {
+      background: #2c3e50;
+      color: white;
+      padding: 3rem 2rem;
+    }
+
+    .section-dark h2,
+    .section-dark h3,
+    .section-dark h4 {
+      color: white;
+    }
+
+    .guerisseur-text {
+      font-size: 1.05rem;
+      line-height: 1.8;
+      color: #555;
+    }
+
+    .guerisseur-stats {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 1rem;
+      margin: 1.5rem 0;
+      padding: 1rem;
+      background: white;
+      border-radius: 6px;
+    }
+
+    .stat-box {
+      text-align: center;
+      padding: 1rem;
+    }
+
+    .stat-number {
+      font-size: 2rem;
+      font-weight: bold;
+      color: #27ae60;
+      display: block;
+    }
+
+    .stat-label {
+      font-size: 0.85rem;
+      color: #666;
+      margin-top: 0.3rem;
+    }
+
+    .testimonial {
+      background: white;
+      padding: 2rem;
+      border-left: 4px solid #27ae60;
+      border-radius: 6px;
+      margin: 1.5rem 0;
+      font-style: italic;
+      color: #555;
+    }
+
+    .testimonial-author {
+      font-style: normal;
+      font-weight: bold;
+      color: #27ae60;
+      margin-top: 1rem;
+      font-size: 0.9rem;
+    }
+
+    .green-card {
+      background: #1a5f3c;
+      color: white;
+      padding: 2rem;
+      border-radius: 8px;
+      margin-top: 1.5rem;
+    }
+
+    .green-card h4 {
+      font-size: 1.3rem;
+      margin: 0 0 1rem 0;
+    }
+
+    .green-card ul {
+      list-style: none;
+      padding-left: 0;
+      line-height: 1.8;
+    }
+
+    .green-card li:before {
+      content: "➤ ";
+      margin-right: 0.5rem;
+    }
+
+    .prep-card {
+      background: white;
+      padding: 1.5rem;
+      border-radius: 8px;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+      text-align: center;
+    }
+
+    .prep-icon {
+      font-size: 2.5rem;
+      margin-bottom: 1rem;
+    }
+
+    .prep-name {
+      font-weight: bold;
+      font-size: 1.1rem;
+      margin: 0.5rem 0;
+    }
+
+    .prep-description {
+      font-size: 0.85rem;
+      color: #666;
+      margin: 0.5rem 0;
+    }
+
+    .prep-example {
+      font-size: 0.8rem;
+      color: #27ae60;
+      font-weight: 500;
+      margin-top: 0.5rem;
+    }
+
+    .vodou-card {
+      background: rgba(255,255,255,0.1);
+      border: 1px solid rgba(255,255,255,0.2);
+      padding: 2rem;
+      border-radius: 8px;
+      margin-bottom: 1.5rem;
+    }
+
+    .vodou-card h4 {
+      margin-top: 0;
+      color: white;
+    }
+
+    .vodou-list {
+      list-style: none;
+      padding-left: 0;
+    }
+
+    .vodou-item {
+      padding: 0.8rem 0;
+      border-bottom: 1px solid rgba(255,255,255,0.1);
+    }
+
+    .vodou-item:last-child {
+      border-bottom: none;
+    }
+
+    .vodou-plant {
+      font-weight: bold;
+      color: #f4d03f;
+    }
+
+    .media-card {
+      background: white;
+      padding: 2rem;
+      border-radius: 8px;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+      text-align: center;
+    }
+
+    .media-icon {
+      font-size: 3rem;
+      margin-bottom: 1rem;
+    }
+
+    .media-count {
+      font-size: 2rem;
+      font-weight: bold;
+      color: #27ae60;
+      margin-bottom: 0.5rem;
+    }
+
+    .media-label {
+      font-weight: 600;
+      margin-bottom: 0.5rem;
+    }
+
+    .media-description {
+      font-size: 0.9rem;
+      color: #666;
+    }
+
+    .contrib-section {
+      background: #e8f5e9;
+      padding: 1.5rem;
+      border-radius: 6px;
+      text-align: center;
+      margin-top: 1.5rem;
+    }
+
+    .contrib-button {
+      display: inline-block;
+      background: #27ae60;
+      color: white;
+      padding: 0.8rem 1.5rem;
+      border-radius: 4px;
+      text-decoration: none;
+      font-weight: 500;
+      margin-top: 1rem;
+      transition: background 0.3s;
+      border: none;
+      cursor: pointer;
+      font-size: 0.95rem;
+    }
+
+    .contrib-button:hover {
+      background: #1e8a4a;
+    }
+
+    .glossary-table {
+      width: 100%;
+      border-collapse: collapse;
+      margin: 1.5rem 0;
+      background: white;
+      border-radius: 6px;
+      overflow: hidden;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+    }
+
+    .glossary-table th,
+    .glossary-table td {
+      padding: 1rem;
+      text-align: left;
+      border-bottom: 1px solid #eee;
+    }
+
+    .glossary-table th {
+      background: #27ae60;
+      color: white;
+      font-weight: bold;
+    }
+
+    .glossary-table tr:nth-child(even) {
+      background: #f8f9fa;
+    }
+
+    .glossary-table tr:hover {
+      background: #e8f5e9;
+    }
+
+    .creole-term {
+      font-weight: 600;
+      color: #27ae60;
+    }
+
+    .scientific-name {
+      font-style: italic;
+      color: #666;
+      font-size: 0.9rem;
+    }
+
+    @media (max-width: 768px) {
+      .grid-3,
+      .grid-2,
+      .guerisseur-stats {
+        grid-template-columns: 1fr;
+      }
+
+      .page-hero h1 {
+        font-size: 2rem;
+      }
+
+      .heritage-card {
+        padding: 1.5rem;
+      }
+    }
+
+    h2 {
+      margin-top: 0;
+    }
+  </style>
+</head>
+<body>
+
+<div id="topbar-placeholder"></div>
+
+<!-- Page Hero -->
+<div style="background: linear-gradient(135deg, #2c3e50 0%, #34495e 100%); color: white; padding: 4rem 2rem; margin-bottom: 3rem;">
+  <div class="section-inner">
+    <div class="breadcrumb" style="color: rgba(255,255,255,0.7);">
+      <a href="index.html" style="color: rgba(255,255,255,0.9);">Accueil</a>
+      <span>›</span>
+      <span>Tradition</span>
+    </div>
+    <span class="page-tag" style="background: rgba(232, 166, 82, 0.2); color: #e8a652;">📜 Patrimoine Vivant</span>
+    <h1 class="page-hero">Savoir <span>Traditionnel</span> — Doktè Fey & Héritage Botanique</h1>
+    <p class="page-subtitle">Documenter, préserver et transmettre — 2 300+ préparations traditionnelles haïtiennes, trois héritages fondateurs</p>
+  </div>
+</div>
+
+<!-- Three Heritages -->
+<div style="padding: 3rem 2rem;">
+  <div class="section-inner">
+    <h2>Les Trois Héritages Fondateurs de la Botanique Haïtienne</h2>
+    <div class="grid-3">
+      <!-- Taino Heritage -->
+      <div class="heritage-card taino">
+        <div class="heritage-icon">🌺</div>
+        <div class="heritage-title">Héritage Taïno</div>
+        <p class="heritage-narrative">
+          Les premiers peuples d'Haïti, les Taïnos, ont développé une pharmacopée complexe et sophistiquée antérieure à toute colonisation. Leurs connaissances du terroir caribéen, de la récolte saisonnière et de la préparation des plantes constituent les fondements de la médecine créole actuelle. Bien que les Taïnos aient disparu, leur héritage botanique persiste dans les pratiques des Doktè Fey haïtiens.
+        </p>
+        <div class="heritage-plants">
+          <span class="heritage-plants-label">Plantes emblématiques :</span>
+          <div class="plant-list">
+            <span class="plant-tag">Corossol</span>
+            <span class="plant-tag">Mamey</span>
+            <span class="plant-tag">Maracuja</span>
+            <span class="plant-tag">Roucou</span>
+          </div>
+        </div>
+        <div class="heritage-significance">
+          <strong>Signification culturelle :</strong> Fondements de la médecine créole actuelle — les Doktè Fey perpétuent les connaissances taïnos depuis plus de 500 ans.
+        </div>
+      </div>
+
+      <!-- African Heritage -->
+      <div class="heritage-card african">
+        <div class="heritage-icon">🌿</div>
+        <div class="heritage-title">Héritage Africain</div>
+        <p class="heritage-narrative">
+          Les peuples africains déportés en Haïti ont enrichi considérablement le patrimoine botanique insulaire. Apportant leurs propres connaissances médicinales, ils ont adapté leurs pratiques au climat caribéen, créant une fusion unique. Cet héritage a soutenu la résistance physique et spirituelle pendant l'esclavage et a fortement contribué à la victoire de la révolution haïtienne de 1804.
+        </p>
+        <div class="heritage-plants">
+          <span class="heritage-plants-label">Plantes emblématiques :</span>
+          <div class="plant-list">
+            <span class="plant-tag">Neem</span>
+            <span class="plant-tag">Moringa</span>
+            <span class="plant-tag">Baobab</span>
+            <span class="plant-tag">Sésame</span>
+          </div>
+        </div>
+        <div class="heritage-significance">
+          <strong>Signification culturelle :</strong> Résistance et survie — contribution majeure à l'indépendance haïtienne en 1804.
+        </div>
+      </div>
+
+      <!-- European Heritage -->
+      <div class="heritage-card european">
+        <div class="heritage-icon">🍃</div>
+        <div class="heritage-title">Héritage Européen & Créole</div>
+        <p class="heritage-narrative">
+          L'influence européenne a introduit de nouvelles espèces botaniques et traditions médicales. Cette rencontre a créé une médecine créole unique, fusion de trois mondes. Les Doktè Fey haïtiens ont intégré ces apports à leurs connaissances taïnos et africaines, formant un système thérapeutique syncrétique et performant.
+        </p>
+        <div class="heritage-plants">
+          <span class="heritage-plants-label">Plantes emblématiques :</span>
+          <div class="plant-list">
+            <span class="plant-tag">Lavande</span>
+            <span class="plant-tag">Thym</span>
+            <span class="plant-tag">Menthe</span>
+            <span class="plant-tag">Eucalyptus</span>
+          </div>
+        </div>
+        <div class="heritage-significance">
+          <strong>Signification culturelle :</strong> Synthèse créatrice unique au monde — la médecine créole est une innovation haïtienne.
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- Doktè Fey Section -->
+<div class="section-green">
+  <div class="section-inner">
+    <h2 id="guerisseurs">Les Doktè Fey — Gardiens du Savoir Ancestral</h2>
+    <div class="grid-2">
+      <div>
+        <p class="guerisseur-text">
+          Les Doktè Fey (littéralement "docteurs des feuilles") sont les gardiens vivants du savoir traditionnel haïtien. Ce sont des guérisseurs pratiquant une médecine basée sur les plantes, l'expérience millénaire et souvent une dimension spirituelle. Ils occupent une place centrale dans les communautés haïtiennes, en particulier dans les zones rurales où l'accès aux services de santé modernes est limité.
+        </p>
+
+        <p class="guerisseur-text">
+          La JBC a entrepris un projet de documentation systématique de leurs savoirs, en collaboration avec des anthropologues et des pharmacologues. Cet effort respecte l'éthique de protection du savoir traditionnel et reconnaît la propriété intellectuelle collective des communautés.
+        </p>
+
+        <div class="guerisseur-stats">
+          <div class="stat-box">
+            <span class="stat-number">350+</span>
+            <span class="stat-label">Guérisseurs répertoriés</span>
+          </div>
+          <div class="stat-box">
+            <span class="stat-number">12</span>
+            <span class="stat-label">Communes couvertes</span>
+          </div>
+          <div class="stat-box">
+            <span class="stat-number">2 300+</span>
+            <span class="stat-label">Préparations documentées</span>
+          </div>
+          <div class="stat-box">
+            <span class="stat-number">15</span>
+            <span class="stat-label">Types de préparations</span>
+          </div>
+        </div>
+
+        <div class="testimonial">
+          "Après le tremblement de terre de 2021, les Doktè Fey ont joué un rôle crucial dans la première réponse médicale. Nombreux ont traité gratuitement les blessés avec des cataplasmes, des décoctions anti-infection et ont offert du réconfort spirituel. Plusieurs ont sauvé des vies sans ressources modernes."
+          <div class="testimonial-author">— Rapport JBC, Réponse d'Urgence 2021</div>
+        </div>
+      </div>
+
+      <div>
+        <div class="green-card">
+          <h4>Catégories de Guérisseurs Traditionnels</h4>
+          <ul>
+            <li><strong>Doktè Fey pure :</strong> Spécialisés en plantes médicinales uniquement</li>
+            <li><strong>Manbo/Houngan PMAA :</strong> Prêtres vodou intégrant plantes spirituelles</li>
+            <li><strong>Matrones :</strong> Sages-femmes traditionnelles (accouchement + PMAA)</li>
+            <li><strong>Herboristes des marchés :</strong> Vendeurs/conseillants en herbes curatives</li>
+          </ul>
+        </div>
+
+        <div class="green-card" style="margin-top: 1.5rem;">
+          <h4>Processus de Documentation JBC</h4>
+          <ul>
+            <li><strong>Phase 1 — Consentement :</strong> Accord écrit, respect confidentialité, droits auteur reconnus</li>
+            <li><strong>Phase 2 — Enregistrement :</strong> Entretiens audio, photographies plantes, recettes détaillées</li>
+            <li><strong>Phase 3 — Validation :</strong> Analyse scientifique, test efficacité, documentation contre-indications</li>
+          </ul>
+        </div>
+
+        <div class="green-card" style="margin-top: 1.5rem;">
+          <h4 style="color: white; margin-bottom: 1rem;">Contribution du Savoir Traditionnel</h4>
+          <p style="color: white; font-size: 0.95rem; line-height: 1.6; margin: 0;">
+            Si vous êtes guérisseur traditionnel ou détenteur de savoir botanique, la JBC vous invite à partager vos connaissances. Votre contribution sera protégée, respectée, et peut aider les générations futures.
+          </p>
+          <button class="contrib-button" onclick="alert('Accès au formulaire de contribution...')">
+            Soumettre une Préparation Traditionnelle
+          </button>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- Traditional Preparations -->
+<div class="section-bg">
+  <div class="section-inner">
+    <h2>Les 15 Types de Préparations Traditionnelles Haïtiennes</h2>
+    <p style="color: #666; margin-bottom: 2rem; max-width: 900px;">
+      La pharmacopée traditionnelle haïtienne utilise 15 méthodes distinctes de préparation, chacune adaptée à des besoins spécifiques. Ces techniques ancestrales, transmises par les Doktè Fey, combinent efficacité thérapeutique et sagesse écologique.
+    </p>
+
+    <div class="grid-3">
+      <!-- Tisane -->
+      <div class="prep-card">
+        <div class="prep-icon">🍵</div>
+        <div class="prep-name">Tisane (Dèkokt)</div>
+        <div class="prep-description">Infusion simple de feuilles, fleurs ou racines dans eau chaude</div>
+        <div class="prep-example">Ex: Citronnelle contre fièvre</div>
+      </div>
+
+      <!-- Décoction -->
+      <div class="prep-card">
+        <div class="prep-icon">🧪</div>
+        <div class="prep-name">Décoction</div>
+        <div class="prep-description">Ébullition prolongée de racines, écorces ou parties dures</div>
+        <div class="prep-example">Ex: Neem anti-parasitaire</div>
+      </div>
+
+      <!-- Bain Medicinal -->
+      <div class="prep-card">
+        <div class="prep-icon">🛁</div>
+        <div class="prep-name">Bain Médicinal</div>
+        <div class="prep-description">Plantes infusées dans l'eau du bain pour absorption cutanée</div>
+        <div class="prep-example">Ex: Eucalyptus contre rhume</div>
+      </div>
+
+      <!-- Teinture Mere -->
+      <div class="prep-card">
+        <div class="prep-icon">💧</div>
+        <div class="prep-name">Teinture Mère</div>
+        <div class="prep-description">Macération alcoolique de plantes fraîches ou sèches</div>
+        <div class="prep-example">Ex: Propolis + plantes</div>
+      </div>
+
+      <!-- Cataplasme -->
+      <div class="prep-card">
+        <div class="prep-icon">🌿</div>
+        <div class="prep-name">Cataplasme</div>
+        <div class="prep-description">Application locale de plantes broyées sur la peau</div>
+        <div class="prep-example">Ex: Aloe vera sur brûlures</div>
+      </div>
+
+      <!-- Fumigation -->
+      <div class="prep-card">
+        <div class="prep-icon">💨</div>
+        <div class="prep-name">Fumigation</div>
+        <div class="prep-description">Inhalation de vapeurs de plantes en vapeur ou brûlées</div>
+        <div class="prep-example">Ex: Eucalyptus pour voies respiratoires</div>
+      </div>
+
+      <!-- Huile Infusee -->
+      <div class="prep-card">
+        <div class="prep-icon">🍶</div>
+        <div class="prep-name">Huile Infusée</div>
+        <div class="prep-description">Plantes macérées dans huile pour absorption dermatologique</div>
+        <div class="prep-example">Ex: Ricin + plantes médicinales</div>
+      </div>
+
+      <!-- Pommade -->
+      <div class="prep-card">
+        <div class="prep-icon">🧴</div>
+        <div class="prep-name">Pommade</div>
+        <div class="prep-description">Base grasse (beurre, cire) + extrait de plante</div>
+        <div class="prep-example">Ex: Beurre cacao + moringa</div>
+      </div>
+
+      <!-- Sirop -->
+      <div class="prep-card">
+        <div class="prep-icon">🫙</div>
+        <div class="prep-name">Sirop</div>
+        <div class="prep-description">Sucre de canne + décoction ou jus de plantes</div>
+        <div class="prep-example">Ex: Thym + gingembre contre toux</div>
+      </div>
+
+      <!-- Hydrolat -->
+      <div class="prep-card">
+        <div class="prep-icon">🌸</div>
+        <div class="prep-name">Hydrolat</div>
+        <div class="prep-description">Eau florale distillée à partir de plantes</div>
+        <div class="prep-example">Ex: Vétiver hydrolat calmant</div>
+      </div>
+
+      <!-- Jus Frais -->
+      <div class="prep-card">
+        <div class="prep-icon">🥤</div>
+        <div class="prep-name">Jus Frais</div>
+        <div class="prep-description">Extraction directe de jus de plantes vivantes</div>
+        <div class="prep-example">Ex: Jus d'aloe vera</div>
+      </div>
+
+      <!-- Feuilles Fraiches -->
+      <div class="prep-card">
+        <div class="prep-icon">🌺</div>
+        <div class="prep-name">Feuilles Fraîches</div>
+        <div class="prep-description">Application directe de feuilles fraîches sur plaie/peau</div>
+        <div class="prep-example">Ex: Papayer feuilles sur plaies</div>
+      </div>
+
+      <!-- Poudre Seche -->
+      <div class="prep-card">
+        <div class="prep-icon">🍃</div>
+        <div class="prep-name">Poudre Séchée</div>
+        <div class="prep-description">Broyage fin de parties sèches de plantes</div>
+        <div class="prep-example">Ex: Moringa poudre suppléments</div>
+      </div>
+
+      <!-- Vinaigre Medicinal -->
+      <div class="prep-card">
+        <div class="prep-icon">🧊</div>
+        <div class="prep-name">Vinaigre Médicinal</div>
+        <div class="prep-description">Macération de plantes dans vinaigre de canne</div>
+        <div class="prep-example">Ex: Détox 5-plantes</div>
+      </div>
+
+      <!-- Fumée Rituelle -->
+      <div class="prep-card">
+        <div class="prep-icon">🌿</div>
+        <div class="prep-name">Fumée Rituelle</div>
+        <div class="prep-description">Dimension spirituelle + thérapeutique (cérémonies)</div>
+        <div class="prep-example">Ex: Séances vodou PMAA</div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- Vodou & PMAA Section -->
+<div class="section-dark">
+  <div class="section-inner">
+    <h2>Les Plantes dans la Spiritualité Haïtienne — Dimension Sacrée & Thérapeutique</h2>
+    <p style="margin-bottom: 2rem; opacity: 0.95;">
+      Le vodou haïtien, religion syncrétique respectée et riche, intègre profondément les plantes médicinales. Cette relation n'est pas mystérieuse : elle reflète une vision holistique de la guérison, combinant traitement physique et spirituel. La JBC documente cette dimension avec respect scientifique et culturel.
+    </p>
+
+    <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 2rem;">
+      <div class="vodou-card">
+        <h4>Plantes Sacrées dans le Vodou Haïtien</h4>
+        <ul class="vodou-list">
+          <li class="vodou-item">
+            <span class="vodou-plant">Basilic (Okantò) :</span> Consécration des autels, protection spirituelle, puissance féminine
+          </li>
+          <li class="vodou-item">
+            <span class="vodou-plant">Vétiver (Vetivè) :</span> Ancrage spirituel, connexion à la terre, protection énergétique
+          </li>
+          <li class="vodou-item">
+            <span class="vodou-plant">Citronnelle (Sironèl) :</span> Nettoyage spirituel, protection, dissipation négativité
+          </li>
+          <li class="vodou-item">
+            <span class="vodou-plant">Ceiba (Sèiba) :</span> Arbre sacré, point de rencontre divinités, méditation spirituelle
+          </li>
+          <li class="vodou-item">
+            <span class="vodou-plant">Neem (Nim) :</span> Purification énergétique, protection malveillance, énergie masculine
+          </li>
+        </ul>
+      </div>
+
+      <div class="vodou-card">
+        <h4>Protocole Éthique de Documentation JBC</h4>
+        <p style="margin-top: 0; font-size: 0.95rem;">
+          La JBC respecte strictement les protocoles d'éthique lors de documentation du savoir vodou et spirituel :
+        </p>
+        <ul class="vodou-list">
+          <li class="vodou-item">
+            <strong>Consentement explicite :</strong> Manbo/Houngan approuvent chaque documentation
+          </li>
+          <li class="vodou-item">
+            <strong>Secrets protégés :</strong> Rituels secrets restent confidentiels, seule l'utilisation PMAA documentée
+          </li>
+          <li class="vodou-item">
+            <strong>Reconnaissance auteur :</strong> Communauté vodou creditée, droits d'auteur respectés
+          </li>
+          <li class="vodou-item">
+            <strong>Pas de vulgarisation :</strong> Savoirs spirituels ne sont pas popularisés à des fins commerciales
+          </li>
+          <li class="vodou-item">
+            <strong>Partenariat :</strong> Manbo/Houngan sont partners dans recherche, pas objets d'étude
+          </li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- Archive Multimedia -->
+<div class="section-bg">
+  <div class="section-inner">
+    <h2>Archives Sonores, Vidéo & Photographiques — La Mémoire Vivante des PMAA Haïtiennes</h2>
+    <p style="color: #666; margin-bottom: 2rem;">
+      La JBC maintient une archive multimédia croissante documentant les PMAA haïtiennes, les Doktè Fey et les préparations traditionnelles. Ces contenus sont accessibles aux chercheurs, étudiants et communautés locales.
+    </p>
+
+    <div class="grid-3">
+      <div class="media-card">
+        <div class="media-icon">📷</div>
+        <div class="media-count">2 847</div>
+        <div class="media-label">Photographies</div>
+        <div class="media-description">Images de plantes médicinales et préparations traditionnelles, cataloguées par espèce et technique</div>
+      </div>
+
+      <div class="media-card">
+        <div class="media-icon">🎙️</div>
+        <div class="media-count">156</div>
+        <div class="media-label">Enregistrements Audio</div>
+        <div class="media-description">Entretiens avec Doktè Fey, témoignages, chants spirituels, histoires orales (en créole)</div>
+      </div>
+
+      <div class="media-card">
+        <div class="media-icon">🎥</div>
+        <div class="media-count">67</div>
+        <div class="media-label">Vidéos</div>
+        <div class="media-description">Démonstrations de préparations, techniques de récolte, cérémonies (avec consentement)</div>
+      </div>
+    </div>
+
+    <div class="contrib-section">
+      <h4 style="margin-top: 0;">Contribuer à l'Archive</h4>
+      <p style="color: #555;">
+        Vous possédez des photos, vidéos ou enregistrements de PMAA haïtiennes, de traditions ou de Doktè Fey ? La JBC vous invite à les partager pour enrichir la mémoire vivante collective.
+      </p>
+      <button class="contrib-button" onclick="alert('Accès au formulaire de contribution multimédia...')">
+        Soumettre du Contenu Multimédia
+      </button>
+    </div>
+  </div>
+</div>
+
+<!-- Glossaire Créole -->
+<div class="section-green">
+  <div class="section-inner">
+    <h2>Glossaire Botanique Trilingue</h2>
+    <p style="color: #555; margin-bottom: 1rem;">
+      Référence rapide des noms de plantes médicinales haïtiennes en créole, français, anglais et nomenclature scientifique.
+    </p>
+
+    <table class="glossary-table">
+      <thead>
+        <tr>
+          <th>Créole (Kreyòl)</th>
+          <th>Français</th>
+          <th>Anglais</th>
+          <th>Nom Scientifique</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td><span class="creole-term">Sironèl</span></td>
+          <td>Citronnelle</td>
+          <td>Lemongrass</td>
+          <td><span class="scientific-name">Cymbopogon citratus</span></td>
+        </tr>
+        <tr>
+          <td><span class="creole-term">Nim</span></td>
+          <td>Neem</td>
+          <td>Indian Lilac</td>
+          <td><span class="scientific-name">Azadirachta indica</span></td>
+        </tr>
+        <tr>
+          <td><span class="creole-term">Morèn</span></td>
+          <td>Moringa</td>
+          <td>Drumstick Tree</td>
+          <td><span class="scientific-name">Moringa oleifera</span></td>
+        </tr>
+        <tr>
+          <td><span class="creole-term">Tilèy</span></td>
+          <td>Thym</td>
+          <td>Thyme</td>
+          <td><span class="scientific-name">Thymus vulgaris</span></td>
+        </tr>
+        <tr>
+          <td><span class="creole-term">Mant</span></td>
+          <td>Menthe</td>
+          <td>Mint</td>
+          <td><span class="scientific-name">Mentha spp.</span></td>
+        </tr>
+        <tr>
+          <td><span class="creole-term">Aloè</span></td>
+          <td>Aloe Vera</td>
+          <td>Aloe</td>
+          <td><span class="scientific-name">Aloe barbadensis</span></td>
+        </tr>
+        <tr>
+          <td><span class="creole-term">Papay</span></td>
+          <td>Papaye</td>
+          <td>Papaya</td>
+          <td><span class="scientific-name">Carica papaya</span></td>
+        </tr>
+        <tr>
+          <td><span class="creole-term">Kokoye</span></td>
+          <td>Noix de Coco</td>
+          <td>Coconut</td>
+          <td><span class="scientific-name">Cocos nucifera</span></td>
+        </tr>
+        <tr>
+          <td><span class="creole-term">Gingimb</span></td>
+          <td>Gingembre</td>
+          <td>Ginger</td>
+          <td><span class="scientific-name">Zingiber officinale</span></td>
+        </tr>
+        <tr>
+          <td><span class="creole-term">Kanel</span></td>
+          <td>Cannelle</td>
+          <td>Cinnamon</td>
+          <td><span class="scientific-name">Cinnamomum verum</span></td>
+        </tr>
+        <tr>
+          <td><span class="creole-term">Pwa ghinen</span></td>
+          <td>Ricin</td>
+          <td>Castor</td>
+          <td><span class="scientific-name">Ricinus communis</span></td>
+        </tr>
+        <tr>
+          <td><span class="creole-term">Brijwèt</span></td>
+          <td>Brèche blanche</td>
+          <td>Vervain</td>
+          <td><span class="scientific-name">Phyla nodiflora</span></td>
+        </tr>
+        <tr>
+          <td><span class="creole-term">Sandrès</span></td>
+          <td>Sândre</td>
+          <td>Sorrel</td>
+          <td><span class="scientific-name">Hibiscus sabdariffa</span></td>
+        </tr>
+        <tr>
+          <td><span class="creole-term">Zanj dwèt</span></td>
+          <td>Gingembre Sauvage</td>
+          <td>Wild Ginger</td>
+          <td><span class="scientific-name">Alpinia zerumbet</span></td>
+        </tr>
+        <tr>
+          <td><span class="creole-term">Okantò</span></td>
+          <td>Basilic Sacré</td>
+          <td>Holy Basil</td>
+          <td><span class="scientific-name">Ocimum sanctum</span></td>
+        </tr>
+        <tr>
+          <td><span class="creole-term">Vetivè</span></td>
+          <td>Vétiver</td>
+          <td>Vetiver</td>
+          <td><span class="scientific-name">Chrysopogon zizanioides</span></td>
+        </tr>
+        <tr>
+          <td><span class="creole-term">Kuskus</span></td>
+          <td>Vétiver</td>
+          <td>Vetiver Root</td>
+          <td><span class="scientific-name">Chrysopogon zizanioides</span></td>
+        </tr>
+        <tr>
+          <td><span class="creole-term">Sèiba</span></td>
+          <td>Fromager/Ceiba</td>
+          <td>Ceiba Tree</td>
+          <td><span class="scientific-name">Ceiba pentandra</span></td>
+        </tr>
+        <tr>
+          <td><span class="creole-term">Ponm Kanèl</span></td>
+          <td>Pomme Cannelle</td>
+          <td>Soursop</td>
+          <td><span class="scientific-name">Annona muricata</span></td>
+        </tr>
+        <tr>
+          <td><span class="creole-term">Swadjèn</span></td>
+          <td>Avocat</td>
+          <td>Avocado</td>
+          <td><span class="scientific-name">Persea americana</span></td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+</div>
+
+<div id="footer-placeholder"></div>
+
+<script src="pmaa-nav.js"></script>
+<script>
+  if (typeof PMAA !== 'undefined') {
+    PMAA.renderNav('tradition');
+    PMAA.renderFooter();
+  }
+</script>
+
+</body>
+</html>

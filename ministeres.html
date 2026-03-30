@@ -1,0 +1,1057 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Portails Ministériels — PMAA Haïti</title>
+  <link rel="stylesheet" href="pmaa-styles.css">
+  <style>
+    .breadcrumb {
+      display: flex;
+      gap: 0.5rem;
+      margin-bottom: 1rem;
+      font-size: 0.9rem;
+      color: #666;
+    }
+
+    .breadcrumb a {
+      color: #2980b9;
+      text-decoration: none;
+    }
+
+    .breadcrumb a:hover {
+      text-decoration: underline;
+    }
+
+    .page-tag {
+      display: inline-block;
+      background: rgba(52, 152, 219, 0.1);
+      color: #2980b9;
+      padding: 0.5rem 1rem;
+      border-radius: 4px;
+      font-size: 0.85rem;
+      font-weight: 500;
+      margin-bottom: 1rem;
+    }
+
+    .page-hero h1 {
+      font-size: 3rem;
+      margin: 1.5rem 0;
+    }
+
+    .page-hero h1 span {
+      color: #2980b9;
+    }
+
+    .page-subtitle {
+      font-size: 1.2rem;
+      color: rgba(255,255,255,0.8);
+      line-height: 1.6;
+      max-width: 900px;
+    }
+
+    .section-inner {
+      max-width: 1200px;
+      margin: 0 auto;
+    }
+
+    .ministry-tabs {
+      display: flex;
+      gap: 0.5rem;
+      margin: 2rem 0;
+      flex-wrap: wrap;
+    }
+
+    .ministry-tab {
+      flex: 1;
+      min-width: 180px;
+      padding: 1rem;
+      text-align: center;
+      background: white;
+      border: 2px solid #ddd;
+      border-radius: 6px;
+      cursor: pointer;
+      font-weight: 600;
+      transition: all 0.3s;
+      color: #333;
+    }
+
+    .ministry-tab.active {
+      color: white;
+      border: none;
+    }
+
+    .ministry-tab[data-ministry="env"] { background: #27ae60; color: white; border: none; }
+    .ministry-tab[data-ministry="env"].inactive { background: #e8f5e9; color: #27ae60; }
+
+    .ministry-tab[data-ministry="sante"] { background: #e74c3c; color: white; border: none; }
+    .ministry-tab[data-ministry="sante"].inactive { background: #fadbd8; color: #e74c3c; }
+
+    .ministry-tab[data-ministry="agri"] { background: #f39c12; color: white; border: none; }
+    .ministry-tab[data-ministry="agri"].inactive { background: #fdebd0; color: #f39c12; }
+
+    .ministry-tab[data-ministry="comm"] { background: #2980b9; color: white; border: none; }
+    .ministry-tab[data-ministry="comm"].inactive { background: #d6eaf8; color: #2980b9; }
+
+    .ministry-content {
+      display: none;
+    }
+
+    .ministry-content.active {
+      display: block;
+    }
+
+    .ministry-card {
+      background: white;
+      border-radius: 8px;
+      overflow: hidden;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+      margin-bottom: 2rem;
+    }
+
+    .ministry-header {
+      padding: 2rem;
+      color: white;
+    }
+
+    .ministry-header.env { background: #27ae60; }
+    .ministry-header.sante { background: #e74c3c; }
+    .ministry-header.agri { background: #f39c12; }
+    .ministry-header.comm { background: #2980b9; }
+
+    .ministry-header h2 {
+      font-size: 2rem;
+      margin: 0 0 0.5rem 0;
+    }
+
+    .ministry-header p {
+      margin: 0;
+      opacity: 0.95;
+      font-size: 0.95rem;
+    }
+
+    .ministry-mission {
+      padding: 2rem;
+      background: #f8f9fa;
+      font-size: 1.05rem;
+      line-height: 1.7;
+    }
+
+    .dashboard-previews {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: 1.5rem;
+      padding: 2rem;
+      background: white;
+    }
+
+    .dashboard-box {
+      background: #f8f9fa;
+      padding: 1.5rem;
+      border-radius: 6px;
+      border-left: 4px solid #ddd;
+    }
+
+    .ministry-header.env ~ .dashboard-previews .dashboard-box {
+      border-left-color: #27ae60;
+    }
+
+    .ministry-header.sante ~ .dashboard-previews .dashboard-box {
+      border-left-color: #e74c3c;
+    }
+
+    .ministry-header.agri ~ .dashboard-previews .dashboard-box {
+      border-left-color: #f39c12;
+    }
+
+    .ministry-header.comm ~ .dashboard-previews .dashboard-box {
+      border-left-color: #2980b9;
+    }
+
+    .dashboard-box h4 {
+      margin: 0 0 1rem 0;
+      font-size: 1rem;
+    }
+
+    .dashboard-content {
+      font-size: 0.9rem;
+      color: #555;
+    }
+
+    .progress-item {
+      margin: 0.8rem 0;
+    }
+
+    .progress-label {
+      display: flex;
+      justify-content: space-between;
+      margin-bottom: 0.3rem;
+      font-size: 0.85rem;
+    }
+
+    .progress-bar {
+      height: 6px;
+      background: #e0e0e0;
+      border-radius: 3px;
+      overflow: hidden;
+    }
+
+    .progress-fill {
+      height: 100%;
+      background: #27ae60;
+      border-radius: 3px;
+    }
+
+    .alert-item {
+      padding: 0.8rem 0;
+      border-bottom: 1px solid #eee;
+      font-size: 0.9rem;
+    }
+
+    .alert-item:last-child {
+      border-bottom: none;
+    }
+
+    .alert-dot {
+      display: inline-block;
+      width: 8px;
+      height: 8px;
+      border-radius: 50%;
+      margin-right: 0.5rem;
+    }
+
+    .alert-dot.red { background: #e74c3c; }
+    .alert-dot.orange { background: #f39c12; }
+    .alert-dot.yellow { background: #f1c40f; }
+
+    .tools-section {
+      padding: 2rem;
+      background: white;
+    }
+
+    .tools-title {
+      font-weight: bold;
+      margin-bottom: 1rem;
+      font-size: 1.05rem;
+    }
+
+    .tools-grid {
+      display: grid;
+      grid-template-columns: 1fr;
+      gap: 1rem;
+    }
+
+    .tool-item {
+      padding: 1rem;
+      background: #f8f9fa;
+      border-left: 4px solid #ddd;
+      border-radius: 4px;
+    }
+
+    .ministry-header.env ~ .tools-section .tool-item {
+      border-left-color: #27ae60;
+    }
+
+    .ministry-header.sante ~ .tools-section .tool-item {
+      border-left-color: #e74c3c;
+    }
+
+    .ministry-header.agri ~ .tools-section .tool-item {
+      border-left-color: #f39c12;
+    }
+
+    .ministry-header.comm ~ .tools-section .tool-item {
+      border-left-color: #2980b9;
+    }
+
+    .tool-name {
+      font-weight: 600;
+      margin-bottom: 0.3rem;
+    }
+
+    .tool-desc {
+      font-size: 0.85rem;
+      color: #666;
+    }
+
+    .stats-section {
+      padding: 2rem;
+      background: #f8f9fa;
+    }
+
+    .stats-title {
+      font-weight: bold;
+      margin-bottom: 1rem;
+    }
+
+    .stats-grid {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: 1rem;
+    }
+
+    .stat-item {
+      padding: 1rem;
+      background: white;
+      border-radius: 6px;
+      text-align: center;
+    }
+
+    .stat-value {
+      font-size: 1.8rem;
+      font-weight: bold;
+      margin-bottom: 0.3rem;
+    }
+
+    .stat-label {
+      font-size: 0.85rem;
+      color: #666;
+    }
+
+    .ministry-header.env ~ .stats-section .stat-value { color: #27ae60; }
+    .ministry-header.sante ~ .stats-section .stat-value { color: #e74c3c; }
+    .ministry-header.agri ~ .stats-section .stat-value { color: #f39c12; }
+    .ministry-header.comm ~ .stats-section .stat-value { color: #2980b9; }
+
+    .cta-button {
+      display: inline-block;
+      padding: 1rem 2rem;
+      margin: 2rem;
+      border-radius: 6px;
+      color: white;
+      text-decoration: none;
+      font-weight: 600;
+      transition: background 0.3s;
+      cursor: pointer;
+      border: none;
+      font-size: 1rem;
+    }
+
+    .ministry-header.env ~ .cta-button { background: #27ae60; }
+    .ministry-header.env ~ .cta-button:hover { background: #1e8a4a; }
+
+    .ministry-header.sante ~ .cta-button { background: #e74c3c; }
+    .ministry-header.sante ~ .cta-button:hover { background: #c0392b; }
+
+    .ministry-header.agri ~ .cta-button { background: #f39c12; }
+    .ministry-header.agri ~ .cta-button:hover { background: #d68910; }
+
+    .ministry-header.comm ~ .cta-button { background: #2980b9; }
+    .ministry-header.comm ~ .cta-button:hover { background: #1f618d; }
+
+    .coordination-section {
+      background: #f8f9fa;
+      padding: 3rem 2rem;
+    }
+
+    .org-chart {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      gap: 2rem;
+      flex-wrap: wrap;
+      margin: 2rem 0;
+    }
+
+    .org-box {
+      background: white;
+      padding: 1.5rem;
+      border-radius: 6px;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+      min-width: 180px;
+      text-align: center;
+      font-weight: 600;
+      position: relative;
+    }
+
+    .org-box.center {
+      background: #2980b9;
+      color: white;
+      border: 3px solid #2980b9;
+      z-index: 10;
+    }
+
+    .org-box.ministry {
+      border-top: 4px solid #2980b9;
+    }
+
+    .org-box.partner {
+      border-top: 4px solid #f39c12;
+      opacity: 0.85;
+    }
+
+    .org-connector {
+      position: absolute;
+      height: 2px;
+      background: #ddd;
+      top: -2rem;
+      left: 50%;
+      width: 200%;
+      transform: translateX(-50%);
+      z-index: 1;
+    }
+
+    .data-reporting-section {
+      background: #2c3e50;
+      color: white;
+      padding: 3rem 2rem;
+    }
+
+    .data-card {
+      background: rgba(255,255,255,0.1);
+      border: 1px solid rgba(255,255,255,0.2);
+      padding: 2rem;
+      border-radius: 8px;
+      margin-bottom: 1.5rem;
+    }
+
+    .data-card h4 {
+      margin-top: 0;
+      font-size: 1.1rem;
+      color: white;
+    }
+
+    .data-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+      gap: 1.5rem;
+    }
+
+    .section-bg {
+      background: #f8f9fa;
+      padding: 3rem 2rem;
+    }
+
+    .section-dark {
+      background: #2c3e50;
+      color: white;
+      padding: 3rem 2rem;
+    }
+
+    h2 {
+      margin-top: 0;
+    }
+
+    @media (max-width: 768px) {
+      .ministry-tabs {
+        flex-direction: column;
+      }
+
+      .ministry-tab {
+        min-width: 100%;
+      }
+
+      .dashboard-previews,
+      .stats-grid,
+      .data-grid {
+        grid-template-columns: 1fr;
+      }
+
+      .org-chart {
+        flex-direction: column;
+        gap: 1rem;
+      }
+
+      .page-hero h1 {
+        font-size: 2rem;
+      }
+    }
+  </style>
+</head>
+<body>
+
+<div id="topbar-placeholder"></div>
+
+<!-- Page Hero -->
+<div style="background: linear-gradient(135deg, #2c3e50 0%, #34495e 100%); color: white; padding: 4rem 2rem; margin-bottom: 3rem;">
+  <div class="section-inner">
+    <div class="breadcrumb" style="color: rgba(255,255,255,0.7);">
+      <a href="index.html" style="color: rgba(255,255,255,0.9);">Accueil</a>
+      <span>›</span>
+      <span>Ministères</span>
+    </div>
+    <span class="page-tag" style="background: rgba(52, 152, 219, 0.2); color: #3498db;">🏛️ Outils Institutionnels</span>
+    <h1 class="page-hero">Portails <span>Ministériels</span> & Décideurs</h1>
+    <p class="page-subtitle">Tableaux de bord, données et outils de politique publique — 4 ministères, 1 plateforme nationale PMAA</p>
+  </div>
+</div>
+
+<!-- Ministry Tabs -->
+<div style="padding: 2rem; background: white;">
+  <div class="section-inner">
+    <div class="ministry-tabs">
+      <div class="ministry-tab active" data-ministry="env" onclick="switchMinistry('env')">
+        🌲 Environnement
+      </div>
+      <div class="ministry-tab" data-ministry="sante" onclick="switchMinistry('sante')">
+        🏥 Santé Publique
+      </div>
+      <div class="ministry-tab" data-ministry="agri" onclick="switchMinistry('agri')">
+        🌾 Agriculture
+      </div>
+      <div class="ministry-tab" data-ministry="comm" onclick="switchMinistry('comm')">
+        💼 Commerce
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- Ministry Portals -->
+<div style="padding: 0 2rem; background: white;">
+  <div class="section-inner">
+
+    <!-- Environnement -->
+    <div id="env-content" class="ministry-content active">
+      <div class="ministry-card">
+        <div class="ministry-header env">
+          <h2>🌲 Ministère de l'Environnement</h2>
+          <p>Conservation, biodiversité & gestion durable des ressources naturelles haïtiennes</p>
+        </div>
+
+        <div class="ministry-mission">
+          <strong>Mission :</strong> Assurer la conservation de la biodiversité haïtienne, inventorier et protéger les PMAA endémiques, promouvoir la reboisement et agroforesterie, mettre en place le cadre légal pour la gestion durable des écosystèmes et des plantes médicinales.
+        </div>
+
+        <div class="dashboard-previews">
+          <div class="dashboard-box">
+            <h4>📊 Biodiversité Dashboard</h4>
+            <div class="dashboard-content">
+              <div style="margin-bottom: 1rem;">
+                <strong style="display: block; margin-bottom: 0.5rem;">Endémisme par région</strong>
+                <div style="font-size: 0.85rem; color: #666;">
+                  <div>Massif Sel : 40%</div>
+                  <div>Barbiers : 38%</div>
+                  <div>Petites Antilles : 35%</div>
+                  <div>Fondation : 42%</div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="dashboard-box">
+            <h4>🗺️ Carte Menaces</h4>
+            <div class="dashboard-content">
+              <div style="font-size: 0.85rem; color: #666;">
+                <div style="margin: 0.5rem 0;">🔴 Zone critique : 12 zones</div>
+                <div style="margin: 0.5rem 0;">🟠 Zone menacée : 28 zones</div>
+                <div style="margin: 0.5rem 0;">🟡 Zone stable : 45 zones</div>
+                <div style="margin: 0.5rem 0; font-weight: bold;">Mise à jour : Hier</div>
+              </div>
+            </div>
+          </div>
+
+          <div class="dashboard-box">
+            <h4>⚠️ Alertes Espèces</h4>
+            <div class="dashboard-content">
+              <div class="alert-item">
+                <span class="alert-dot red"></span>
+                Noyer Blanc : En danger critique
+              </div>
+              <div class="alert-item">
+                <span class="alert-dot orange"></span>
+                Bois Chandelle : Population ↓ 20%
+              </div>
+              <div class="alert-item">
+                <span class="alert-dot orange"></span>
+                Vetiver : Surexploitation détectée
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="tools-section">
+          <div class="tools-title">5 Outils Clés</div>
+          <div class="tools-grid">
+            <div class="tool-item">
+              <div class="tool-name">Inventaire Botanique National</div>
+              <div class="tool-desc">Base de données complète des 1 200+ espèces haïtiennes, cartes de distribution, statut conservation</div>
+            </div>
+            <div class="tool-item">
+              <div class="tool-name">Système d'Alertes Écologiques</div>
+              <div class="tool-desc">Notifications temps réel sur menaces, déforestation, changements climat affectant PMAA</div>
+            </div>
+            <div class="tool-item">
+              <div class="tool-name">Cadastre Zones Prioritaires</div>
+              <div class="tool-desc">Périmètres de protection, réserves botaniques, corridors agroforesterie</div>
+            </div>
+            <div class="tool-item">
+              <div class="tool-name">Plan d'Action Récupération Espèces</div>
+              <div class="tool-desc">Protocoles de réintroduction, propagation ex-situ, partenariat avec JBC/BGCI</div>
+            </div>
+            <div class="tool-item">
+              <div class="tool-name">Rapports Conformité CITES</div>
+              <div class="tool-desc">Suivi export espèces protégées, certifications légalité, coordonnées points de contrôle</div>
+            </div>
+          </div>
+        </div>
+
+        <div class="stats-section">
+          <div class="stats-title">Statistiques Clés</div>
+          <div class="stats-grid">
+            <div class="stat-item">
+              <div class="stat-value">127</div>
+              <div class="stat-label">Espèces menacées</div>
+            </div>
+            <div class="stat-item">
+              <div class="stat-value">847</div>
+              <div class="stat-label">PMAA inventoriées</div>
+            </div>
+            <div class="stat-item">
+              <div class="stat-value">4 706</div>
+              <div class="stat-label">km² zone prioritaire</div>
+            </div>
+          </div>
+        </div>
+
+        <button class="cta-button" onclick="alert('Navigation vers tableau complet...')">
+          Accéder au Tableau de Bord Complet →
+        </button>
+      </div>
+    </div>
+
+    <!-- Santé Publique -->
+    <div id="sante-content" class="ministry-content">
+      <div class="ministry-card">
+        <div class="ministry-header sante">
+          <h2>🏥 Ministère de la Santé Publique</h2>
+          <p>Pharmacopée nationale, protocoles thérapeutiques & formation médicale intégrative</p>
+        </div>
+
+        <div class="ministry-mission">
+          <strong>Mission :</strong> Développer la pharmacopée nationale haïtienne basée sur TRAMIL, valider protocoles phytothérapeutiques, former professionnels de santé, documenter contre-indications, intégrer médecine traditionnelle au système santé public.
+        </div>
+
+        <div class="dashboard-previews">
+          <div class="dashboard-box">
+            <h4>💊 Progrès Pharmacopée</h4>
+            <div class="dashboard-content">
+              <div class="progress-item">
+                <div class="progress-label">
+                  <span>Monographies validées</span>
+                  <span>68%</span>
+                </div>
+                <div class="progress-bar">
+                  <div class="progress-fill" style="width: 68%; background: #e74c3c;"></div>
+                </div>
+              </div>
+              <div class="progress-item">
+                <div class="progress-label">
+                  <span>Études cliniques</span>
+                  <span>45%</span>
+                </div>
+                <div class="progress-bar">
+                  <div class="progress-fill" style="width: 45%; background: #e74c3c;"></div>
+                </div>
+              </div>
+              <div class="progress-item">
+                <div class="progress-label">
+                  <span>Formations agents santé</span>
+                  <span>82%</span>
+                </div>
+                <div class="progress-bar">
+                  <div class="progress-fill" style="width: 82%; background: #e74c3c;"></div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="dashboard-box">
+            <h4>⚠️ Alertes Toxicologiques</h4>
+            <div class="dashboard-content">
+              <div class="alert-item">
+                <span class="alert-dot red"></span>
+                <strong>Ricin :</strong> Grappe interdite
+              </div>
+              <div class="alert-item">
+                <span class="alert-dot orange"></span>
+                <strong>Datura :</strong> Hallucinogène, toxique
+              </div>
+              <div class="alert-item">
+                <span class="alert-dot orange"></span>
+                <strong>Belladone :</strong> Interaction médicaments
+              </div>
+            </div>
+          </div>
+
+          <div class="dashboard-box">
+            <h4>🆘 Protocoles Urgence</h4>
+            <div class="dashboard-content">
+              <div style="font-size: 0.85rem; color: #666;">
+                <div style="margin: 0.5rem 0;">✓ Kit post-tremblement</div>
+                <div style="margin: 0.5rem 0;">✓ Kit épidémie dengue</div>
+                <div style="margin: 0.5rem 0;">✓ Trousse urgence cholera</div>
+                <div style="margin: 0.5rem 0; font-weight: bold;">Mis à jour : Mensuel</div>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="tools-section">
+          <div class="tools-title">5 Outils Clés</div>
+          <div class="tools-grid">
+            <div class="tool-item">
+              <div class="tool-name">Pharmacopée Nationale Interactive</div>
+              <div class="tool-desc">45 protocoles validés TRAMIL, posologie, contre-indications, interactions médicaments</div>
+            </div>
+            <div class="tool-item">
+              <div class="tool-name">Base Toxicologie PMAA</div>
+              <div class="tool-desc">127 contre-indications documentées, allergies, toxicité, doses dangereuses</div>
+            </div>
+            <div class="tool-item">
+              <div class="tool-name">Validations Associations</div>
+              <div class="tool-desc">802 associations plantes validées, synergies confirmées, combinaisons approuvées</div>
+            </div>
+            <div class="tool-item">
+              <div class="tool-name">Formation Agents Santé</div>
+              <div class="tool-desc">Modules e-learning, certification, intégration médecine traditionnelle/moderne</div>
+            </div>
+            <div class="tool-item">
+              <div class="tool-name">Rapports Pharmacovigilance</div>
+              <div class="tool-desc">Signalement effets indésirables, surveillance sécurité produits phyto approuvés</div>
+            </div>
+          </div>
+        </div>
+
+        <div class="stats-section">
+          <div class="stats-title">Statistiques Clés</div>
+          <div class="stats-grid">
+            <div class="stat-item">
+              <div class="stat-value">45</div>
+              <div class="stat-label">Protocoles validés</div>
+            </div>
+            <div class="stat-item">
+              <div class="stat-value">127</div>
+              <div class="stat-label">Contre-indications</div>
+            </div>
+            <div class="stat-item">
+              <div class="stat-value">802</div>
+              <div class="stat-label">Associations validées</div>
+            </div>
+          </div>
+        </div>
+
+        <button class="cta-button" onclick="alert('Navigation vers tableau complet...')">
+          Accéder au Tableau de Bord Complet →
+        </button>
+      </div>
+    </div>
+
+    <!-- Agriculture -->
+    <div id="agri-content" class="ministry-content">
+      <div class="ministry-card">
+        <div class="ministry-header agri">
+          <h2>🌾 Ministère de l'Agriculture</h2>
+          <p>Production PMAA, semences & agroforesterie pour sécurité alimentaire</p>
+        </div>
+
+        <div class="ministry-mission">
+          <strong>Mission :</strong> Développer production agricole haïtienne de PMAA, promouvoir cultures agroforestières, multiplier semences locales, soutenir pépinières, assurer sécurité alimentaire via diversification systémique, former agriculteurs à techniques durables.
+        </div>
+
+        <div class="dashboard-previews">
+          <div class="dashboard-box">
+            <h4>🗺️ Carte Production PMAA</h4>
+            <div class="dashboard-content">
+              <div style="font-size: 0.85rem; color: #666;">
+                <div style="margin: 0.5rem 0;">🔴 Zone intensive : Sud, Artibonite</div>
+                <div style="margin: 0.5rem 0;">🟠 Zone modérée : Plateau Central</div>
+                <div style="margin: 0.5rem 0;">🟡 Zone développement : Nord</div>
+                <div style="margin: 0.5rem 0; font-weight: bold;">Couverture : 85% territoire</div>
+              </div>
+            </div>
+          </div>
+
+          <div class="dashboard-box">
+            <h4>👨‍🌾 Registre Producteurs</h4>
+            <div class="dashboard-content">
+              <div style="font-size: 0.85rem; color: #666;">
+                <div style="margin: 0.5rem 0; font-weight: bold; color: #f39c12;">3 847</div>
+                <div style="margin: 0.5rem 0;">producteurs PMAA actifs</div>
+                <div style="margin: 0.5rem 0;">Certifiés bio : 456</div>
+                <div style="margin: 0.5rem 0;">En coopérative : 1 203</div>
+              </div>
+            </div>
+          </div>
+
+          <div class="dashboard-box">
+            <h4>🌱 Programme Semences</h4>
+            <div class="dashboard-content">
+              <div class="progress-item">
+                <div class="progress-label">
+                  <span>Banque semences</span>
+                  <span>95%</span>
+                </div>
+                <div class="progress-bar">
+                  <div class="progress-fill" style="width: 95%; background: #f39c12;"></div>
+                </div>
+              </div>
+              <div class="progress-item">
+                <div class="progress-label">
+                  <span>Pépinières</span>
+                  <span>92%</span>
+                </div>
+                <div class="progress-bar">
+                  <div class="progress-fill" style="width: 92%; background: #f39c12;"></div>
+                </div>
+              </div>
+              <div class="progress-item">
+                <div class="progress-label">
+                  <span>Distribution plantules</span>
+                  <span>78%</span>
+                </div>
+                <div class="progress-bar">
+                  <div class="progress-fill" style="width: 78%; background: #f39c12;"></div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="tools-section">
+          <div class="tools-title">5 Outils Clés</div>
+          <div class="tools-grid">
+            <div class="tool-item">
+              <div class="tool-name">200+ Guides Culturaux</div>
+              <div class="tool-desc">Fiches techniques par plante : climat, sol, itinéraire, rendement, maladies, traitement</div>
+            </div>
+            <div class="tool-item">
+              <div class="tool-name">12 Pépinières Actives</div>
+              <div class="tool-desc">Localisation, horaires visites, arbres disponibles, prix plantules, certification phytosanitaire</div>
+            </div>
+            <div class="tool-item">
+              <div class="tool-name">3 Banques Semences</div>
+              <div class="tool-desc">Port-au-Prince, Les Cayes, Cap-Haïtien : catalogue semences, demande accès, conservation</div>
+            </div>
+            <div class="tool-item">
+              <div class="tool-name">Cartes Agroécologiques</div>
+              <div class="tool-desc">Zones agroclimatiques, potentiel cultures, prévention déforestation, corridors biodiversité</div>
+            </div>
+            <div class="tool-item">
+              <div class="tool-name">Annuaire Coopératives</div>
+              <div class="tool-desc">300+ coopératives agricoles, structure, contacts, services, prix groupés d'intrants</div>
+            </div>
+          </div>
+        </div>
+
+        <div class="stats-section">
+          <div class="stats-title">Statistiques Clés</div>
+          <div class="stats-grid">
+            <div class="stat-item">
+              <div class="stat-value">200+</div>
+              <div class="stat-label">Guides culturaux</div>
+            </div>
+            <div class="stat-item">
+              <div class="stat-value">12</div>
+              <div class="stat-label">Pépinières actives</div>
+            </div>
+            <div class="stat-item">
+              <div class="stat-value">3</div>
+              <div class="stat-label">Banques de semences</div>
+            </div>
+          </div>
+        </div>
+
+        <button class="cta-button" onclick="alert('Navigation vers tableau complet...')">
+          Accéder au Tableau de Bord Complet →
+        </button>
+      </div>
+    </div>
+
+    <!-- Commerce -->
+    <div id="comm-content" class="ministry-content">
+      <div class="ministry-card">
+        <div class="ministry-header comm">
+          <h2>💼 Ministère du Commerce</h2>
+          <p>Filières économiques, export & marque "Plantes d'Haïti"</p>
+        </div>
+
+        <div class="ministry-mission">
+          <strong>Mission :</strong> Structurer filières PMAA d'export, certifier entreprises productrices, développer marque collective "Plantes d'Haïti", faciliter accès marchés internationaux, soutenir diaspora haïtienne, coordonner accord CARICOM & free-trade USA.
+        </div>
+
+        <div class="dashboard-previews">
+          <div class="dashboard-box">
+            <h4>📤 Pipeline Export</h4>
+            <div class="dashboard-content">
+              <div style="font-size: 0.85rem; color: #666;">
+                <div style="margin: 0.5rem 0;">🇺🇸 USA : $28M/an</div>
+                <div style="margin: 0.5rem 0;">🇪🇺 Europe : $12M/an</div>
+                <div style="margin: 0.5rem 0;">🇨🇦 Canada : $8M/an</div>
+                <div style="margin: 0.5rem 0;">🌎 Caraïbes : $5M/an</div>
+                <div style="margin: 0.5rem 0; font-weight: bold;">Total : $53M/an</div>
+              </div>
+            </div>
+          </div>
+
+          <div class="dashboard-box">
+            <h4>🏢 Registre Entreprises</h4>
+            <div class="dashboard-content">
+              <div style="font-size: 0.85rem; color: #666;">
+                <div style="margin: 0.5rem 0; font-weight: bold; color: #2980b9;">847</div>
+                <div style="margin: 0.5rem 0;">Entreprises PMAA actives</div>
+                <div style="margin: 0.5rem 0;">Certifiées export : 156</div>
+                <div style="margin: 0.5rem 0;">En développement : 345</div>
+              </div>
+            </div>
+          </div>
+
+          <div class="dashboard-box">
+            <h4>💰 Marché Diaspora</h4>
+            <div class="dashboard-content">
+              <div class="progress-item">
+                <div class="progress-label">
+                  <span>Potentiel capté</span>
+                  <span>32%</span>
+                </div>
+                <div class="progress-bar">
+                  <div class="progress-fill" style="width: 32%; background: #2980b9;"></div>
+                </div>
+              </div>
+              <div style="font-size: 0.85rem; color: #666; margin-top: 1rem;">
+                <div>Diaspora potentielle : 3M+</div>
+                <div>Ventes actuelles : $18M/an</div>
+                <div>Cible 2027 : $45M/an</div>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="tools-section">
+          <div class="tools-title">5 Outils Clés</div>
+          <div class="tools-grid">
+            <div class="tool-item">
+              <div class="tool-name">Portail Filières PMAA</div>
+              <div class="tool-desc">5 filières détaillées : HE, Nutraceutiques, Cosmétiques, Phytothérapie, Écotourisme</div>
+            </div>
+            <div class="tool-item">
+              <div class="tool-name">Système Certification Export</div>
+              <div class="tool-desc">Normes ISO, Ecocert, USDA Organic, label "Plantes d'Haïti", checklist audits</div>
+            </div>
+            <div class="tool-item">
+              <div class="tool-name">Annuaire Acheteurs B2B</div>
+              <div class="tool-desc">Parfumeries, cosmétiques, nutraceutiques, distributeurs internationaux cherchant PMAA haïti</div>
+            </div>
+            <div class="tool-item">
+              <div class="tool-name">Hub Diaspora Commerce</div>
+              <div class="tool-desc">Connecte producteurs haïtiens directement à diaspora USA/Canada/Europe</div>
+            </div>
+            <div class="tool-item">
+              <div class="tool-name">Accord Préférentiels Commerciaux</div>
+              <div class="tool-desc">CARICOM, CBI, accord USA-Haïti, tarif douanier réduit, règles origine</div>
+            </div>
+          </div>
+        </div>
+
+        <div class="stats-section">
+          <div class="stats-title">Statistiques Clés</div>
+          <div class="stats-grid">
+            <div class="stat-item">
+              <div class="stat-value">5</div>
+              <div class="stat-label">Filières économiques</div>
+            </div>
+            <div class="stat-item">
+              <div class="stat-value">3M+</div>
+              <div class="stat-label">Diaspora cible</div>
+            </div>
+            <div class="stat-item">
+              <div class="stat-value">61,5B</div>
+              <div class="stat-label">USD marché 2027</div>
+            </div>
+          </div>
+        </div>
+
+        <button class="cta-button" onclick="alert('Navigation vers tableau complet...')">
+          Accéder au Tableau de Bord Complet →
+        </button>
+      </div>
+    </div>
+
+  </div>
+</div>
+
+<!-- Coordination Inter-Ministérielle -->
+<div class="coordination-section">
+  <div class="section-inner">
+    <h2 style="text-align: center;">Comité de Coordination PMAA</h2>
+    <p style="text-align: center; color: #666; margin-bottom: 2rem;">Partenaires gouvernementaux, scientifiques et internationaux travaillant ensemble pour le développement des plantes médicinales haïtiennes</p>
+
+    <div class="org-chart">
+      <div class="org-box ministry">Ministère<br>Environnement</div>
+      <div class="org-box ministry">Ministère<br>Santé</div>
+      <div class="org-box center">JBC<br>PMAA</div>
+      <div class="org-box ministry">Ministère<br>Agriculture</div>
+      <div class="org-box ministry">Ministère<br>Commerce</div>
+    </div>
+
+    <div style="text-align: center; margin-top: 2rem;">
+      <div style="display: inline-block; max-width: 600px; color: #666; font-size: 0.9rem;">
+        <p><strong>Partenaires scientifiques & internationaux :</strong></p>
+        <div style="display: flex; justify-content: center; gap: 2rem; flex-wrap: wrap; margin-top: 1rem;">
+          <div class="org-box partner">TRAMIL<br>Pharmacopée</div>
+          <div class="org-box partner">BGCI<br>Botanique</div>
+          <div class="org-box partner">BRH<br>Recherche</div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- Data & Reporting Section -->
+<div class="data-reporting-section">
+  <div class="section-inner">
+    <h2 style="text-align: center; color: white;">Données & Reporting Gouvernementaux</h2>
+
+    <div class="data-grid">
+      <div class="data-card">
+        <h4>📊 Rapports Automatisés</h4>
+        <p>Tableaux de bord temps réel par ministère. Rapports mensuels agrégés, analyses tendances, alertes anormales. Export PDF/Excel pour réunions gouvernementales.</p>
+        <p style="font-size: 0.9rem; color: rgba(255,255,255,0.7); margin-bottom: 0;">Fréquence : Quotidienne, Hebdomadaire, Mensuelle</p>
+      </div>
+
+      <div class="data-card">
+        <h4>🔗 API Données Gouvernementales</h4>
+        <p>Interface programmation pour intégration données JBC aux systèmes ministériels existants. Authentification OAuth, endpoints RESTful, webhooks temps réel.</p>
+        <p style="font-size: 0.9rem; color: rgba(255,255,255,0.7); margin-bottom: 0;">Accès : Documentation complète disponible</p>
+      </div>
+
+      <div class="data-card">
+        <h4>🎓 Formation & Capacity Building</h4>
+        <p>Formation agents gouvernementaux à utilisation tableau de bord, collecte données fiable, interprétation résultats, utilisation pour décision politique.</p>
+        <p style="font-size: 0.9rem; color: rgba(255,255,255,0.7); margin-bottom: 0;">Modalité : Presentiels + e-learning</p>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div id="footer-placeholder"></div>
+
+<script src="pmaa-nav.js"></script>
+<script>
+  function switchMinistry(ministry) {
+    // Hide all content
+    document.querySelectorAll('.ministry-content').forEach(el => {
+      el.classList.remove('active');
+    });
+
+    // Deactivate all tabs
+    document.querySelectorAll('.ministry-tab').forEach(el => {
+      el.classList.remove('active');
+      el.classList.add('inactive');
+    });
+
+    // Show selected content
+    document.getElementById(ministry + '-content').classList.add('active');
+
+    // Activate selected tab
+    document.querySelector('[data-ministry="' + ministry + '"]').classList.add('active');
+    document.querySelector('[data-ministry="' + ministry + '"]').classList.remove('inactive');
+  }
+
+  if (typeof PMAA !== 'undefined') {
+    PMAA.renderNav('ministeres');
+    PMAA.renderFooter();
+  }
+</script>
+
+</body>
+</html>

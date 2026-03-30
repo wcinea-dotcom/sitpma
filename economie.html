@@ -1,0 +1,954 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Développement Économique — PMAA Haïti</title>
+  <link rel="stylesheet" href="pmaa-styles.css">
+  <style>
+    .market-bar {
+      background-color: #f4d03f;
+      padding: 2rem;
+      text-align: center;
+      font-weight: 500;
+      font-size: 1.1rem;
+      margin: 2rem 0;
+    }
+
+    .stat-card {
+      background: white;
+      padding: 2rem;
+      border-radius: 8px;
+      text-align: center;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+    }
+
+    .stat-card.gold { border-top: 4px solid #f4d03f; }
+    .stat-card.blue { border-top: 4px solid #2980b9; }
+    .stat-card.green { border-top: 4px solid #27ae60; }
+
+    .stat-card-value {
+      font-size: 2rem;
+      font-weight: bold;
+      margin-bottom: 0.5rem;
+    }
+
+    .stat-card-label {
+      font-size: 0.95rem;
+      color: #555;
+    }
+
+    .filiere-card {
+      background: white;
+      margin-bottom: 2rem;
+      border-radius: 8px;
+      overflow: hidden;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+    }
+
+    .filiere-header {
+      padding: 2rem;
+      border-left: 4px solid;
+      background-color: #f8f9fa;
+    }
+
+    .filiere-icon {
+      font-size: 2rem;
+      margin-right: 1rem;
+    }
+
+    .filiere-title {
+      font-size: 1.5rem;
+      font-weight: bold;
+      margin: 0.5rem 0;
+    }
+
+    .filiere-market {
+      font-size: 1.1rem;
+      color: #666;
+      margin: 0.5rem 0;
+    }
+
+    .filiere-content {
+      padding: 2rem;
+    }
+
+    .filiere-description {
+      margin-bottom: 1.5rem;
+      color: #555;
+      line-height: 1.6;
+    }
+
+    .products-grid {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: 1rem;
+      margin: 1.5rem 0;
+    }
+
+    .product-item {
+      background: #f8f9fa;
+      padding: 1rem;
+      border-radius: 6px;
+      font-size: 0.95rem;
+      text-align: center;
+    }
+
+    .filiere-markets {
+      margin: 1.5rem 0;
+      padding: 1rem;
+      background: #f8f9fa;
+      border-radius: 6px;
+    }
+
+    .filiere-markets-label {
+      font-weight: bold;
+      margin-bottom: 0.5rem;
+    }
+
+    .filiere-potential {
+      margin-top: 1rem;
+      padding: 1rem;
+      background: #e8f5e9;
+      border-radius: 6px;
+      border-left: 4px solid #27ae60;
+    }
+
+    .filiere-potential-label {
+      font-weight: bold;
+      color: #27ae60;
+    }
+
+    .comparison-table {
+      width: 100%;
+      border-collapse: collapse;
+      margin: 1rem 0;
+    }
+
+    .comparison-table th,
+    .comparison-table td {
+      padding: 1rem;
+      text-align: left;
+      border-bottom: 1px solid #ddd;
+    }
+
+    .comparison-table th {
+      background: #f8f9fa;
+      font-weight: bold;
+    }
+
+    .comparison-table tr:nth-child(even) {
+      background: #f8f9fa;
+    }
+
+    .haiti-row {
+      background: #e8f5e9 !important;
+    }
+
+    .haiti-row td {
+      color: #27ae60;
+      font-weight: 500;
+    }
+
+    .haiti-note {
+      font-size: 0.85rem;
+      color: #27ae60;
+      font-style: italic;
+    }
+
+    .swot-grid {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 1rem;
+      margin: 1.5rem 0;
+    }
+
+    .swot-box {
+      padding: 1.5rem;
+      border-radius: 6px;
+      background: #f8f9fa;
+    }
+
+    .swot-box.forces {
+      border-left: 4px solid #27ae60;
+      background: #e8f5e9;
+    }
+
+    .swot-box.faiblesses {
+      border-left: 4px solid #e74c3c;
+      background: #fadbd8;
+    }
+
+    .swot-box.opportunites {
+      border-left: 4px solid #f39c12;
+      background: #fdebd0;
+    }
+
+    .swot-box.menaces {
+      border-left: 4px solid #95a5a6;
+      background: #ecf0f1;
+    }
+
+    .swot-title {
+      font-weight: bold;
+      margin-bottom: 0.5rem;
+      font-size: 1rem;
+    }
+
+    .swot-list {
+      list-style: none;
+      padding-left: 0;
+      font-size: 0.9rem;
+    }
+
+    .swot-list li {
+      margin: 0.3rem 0;
+    }
+
+    .swot-list li:before {
+      content: "• ";
+      margin-right: 0.5rem;
+    }
+
+    .program-card {
+      background: #1a5f3c;
+      color: white;
+      padding: 2rem;
+      border-radius: 8px;
+      margin-top: 1.5rem;
+    }
+
+    .program-card h4 {
+      font-size: 1.3rem;
+      margin: 0 0 1rem 0;
+    }
+
+    .program-card ul {
+      list-style: none;
+      padding-left: 0;
+      line-height: 1.8;
+    }
+
+    .program-card li:before {
+      content: "→ ";
+      margin-right: 0.5rem;
+    }
+
+    .brand-roadmap {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: 1.5rem;
+      margin: 2rem 0;
+    }
+
+    .roadmap-step {
+      background: white;
+      padding: 2rem;
+      border-radius: 8px;
+      text-align: center;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+      border-top: 4px solid #27ae60;
+    }
+
+    .roadmap-step-num {
+      font-size: 2.5rem;
+      color: #27ae60;
+      font-weight: bold;
+      margin-bottom: 1rem;
+    }
+
+    .roadmap-step h4 {
+      margin: 1rem 0;
+      font-size: 1.1rem;
+    }
+
+    .dark-card {
+      background: #2c3e50;
+      color: white;
+      padding: 2rem;
+      border-radius: 8px;
+      margin-bottom: 1.5rem;
+    }
+
+    .dark-card h4 {
+      font-size: 1.2rem;
+      margin-top: 0;
+    }
+
+    .dark-card p {
+      margin: 1rem 0;
+      line-height: 1.6;
+      font-size: 0.95rem;
+    }
+
+    .btn-dark {
+      display: inline-block;
+      background: #27ae60;
+      color: white;
+      padding: 0.8rem 1.5rem;
+      border-radius: 4px;
+      text-decoration: none;
+      font-weight: 500;
+      margin-top: 1rem;
+      transition: background 0.3s;
+    }
+
+    .btn-dark:hover {
+      background: #1e8a4a;
+    }
+
+    .access-card {
+      background: white;
+      padding: 2rem;
+      border-radius: 8px;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+    }
+
+    .access-card h4 {
+      margin-top: 0;
+      font-size: 1.1rem;
+      color: #2c3e50;
+    }
+
+    .access-card ul {
+      list-style: none;
+      padding-left: 0;
+    }
+
+    .access-card li {
+      padding: 0.5rem 0;
+      border-bottom: 1px solid #eee;
+      font-size: 0.95rem;
+    }
+
+    .access-card li:last-child {
+      border-bottom: none;
+    }
+
+    .grid-4 {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+      gap: 1.5rem;
+    }
+
+    .grid-3 {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+      gap: 1.5rem;
+    }
+
+    .col-2 {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 2rem;
+      align-items: start;
+    }
+
+    @media (max-width: 768px) {
+      .products-grid,
+      .swot-grid,
+      .brand-roadmap,
+      .grid-4,
+      .grid-3,
+      .col-2 {
+        grid-template-columns: 1fr;
+      }
+
+      .filiere-header {
+        display: flex;
+        align-items: flex-start;
+      }
+    }
+
+    .section-green {
+      background: #e8f5e9;
+      padding: 3rem 2rem;
+    }
+
+    .section-bg {
+      background: #f8f9fa;
+      padding: 3rem 2rem;
+    }
+
+    .section-dark {
+      background: #2c3e50;
+      color: white;
+      padding: 3rem 2rem;
+    }
+
+    .section-dark h3 {
+      color: white;
+    }
+
+    .breadcrumb {
+      display: flex;
+      gap: 0.5rem;
+      margin-bottom: 1rem;
+      font-size: 0.9rem;
+      color: #666;
+    }
+
+    .breadcrumb a {
+      color: #2980b9;
+      text-decoration: none;
+    }
+
+    .breadcrumb a:hover {
+      text-decoration: underline;
+    }
+
+    .page-tag {
+      display: inline-block;
+      background: #e8f5e9;
+      color: #27ae60;
+      padding: 0.5rem 1rem;
+      border-radius: 4px;
+      font-size: 0.85rem;
+      font-weight: 500;
+      margin-bottom: 1rem;
+    }
+
+    .page-hero h1 {
+      font-size: 3rem;
+      margin: 1.5rem 0;
+    }
+
+    .page-hero h1 span {
+      color: #27ae60;
+    }
+
+    .page-subtitle {
+      font-size: 1.2rem;
+      color: #666;
+      line-height: 1.6;
+      max-width: 900px;
+    }
+
+    .section-inner {
+      max-width: 1200px;
+      margin: 0 auto;
+    }
+  </style>
+</head>
+<body>
+
+<div id="topbar-placeholder"></div>
+
+<!-- Page Hero -->
+<div style="background: linear-gradient(135deg, #2c3e50 0%, #34495e 100%); color: white; padding: 4rem 2rem; margin-bottom: 3rem;">
+  <div class="section-inner">
+    <div class="breadcrumb" style="color: rgba(255,255,255,0.7);">
+      <a href="index.html" style="color: rgba(255,255,255,0.9);">Accueil</a>
+      <span>›</span>
+      <span>Économie</span>
+    </div>
+    <span class="page-tag" style="background: rgba(244, 208, 63, 0.2); color: #f4d03f;">📈 Économie Verte</span>
+    <h1 class="page-hero">Développement <span style="color: #f4d03f;">Économique</span> — Filières PMAA</h1>
+    <p class="page-subtitle">De la forêt au marché mondial — Haïti, le Maroc des Caraïbes. Un marché de 61,5 milliards USD d'ici 2027 accessible depuis Les Cayes.</p>
+  </div>
+</div>
+
+<!-- Gold Market Opportunity Bar -->
+<div class="market-bar section-inner">
+  🌍 Marché mondial PMAA : 34,4 milliards USD (2022) → 61,5 milliards USD (2027) · +12,5%/an · Haïti à 7h des USA
+</div>
+
+<!-- Key Market Stats -->
+<div class="section-bg">
+  <div class="section-inner">
+    <h2 style="text-align: center; margin-top: 0;">Chiffres-Clés du Marché</h2>
+    <div class="grid-4">
+      <div class="stat-card gold">
+        <div class="stat-card-value">61,5B</div>
+        <div class="stat-card-label">Marché mondial PMAA 2027</div>
+      </div>
+      <div class="stat-card blue">
+        <div class="stat-card-value">3M+</div>
+        <div class="stat-card-label">Membres diaspora haïtienne (USA, Canada, France)</div>
+      </div>
+      <div class="stat-card green">
+        <div class="stat-card-value">7h</div>
+        <div class="stat-card-label">Distance Miami ↔ Haïti (avantage logistique)</div>
+      </div>
+      <div class="stat-card green">
+        <div class="stat-card-value">40%</div>
+        <div class="stat-card-label">Endémisme haïtien = molécules uniques mondiales</div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- 5 Economic Value Chains -->
+<div style="padding: 3rem 2rem;">
+  <div class="section-inner">
+    <h2>Les 5 Filières Économiques PMAA d'Haïti</h2>
+
+    <!-- Filiere 1: Huiles Essentielles -->
+    <div class="filiere-card">
+      <div class="filiere-header" style="border-left-color: #8e44ad;">
+        <div style="display: flex; align-items: center;">
+          <span class="filiere-icon">🌾</span>
+          <div>
+            <div class="filiere-title">Huiles Essentielles & Vétiver</div>
+            <div class="filiere-market">2,3 milliards USD (secteur mondial HE)</div>
+          </div>
+        </div>
+      </div>
+      <div class="filiere-content">
+        <p class="filiere-description">Spécialisation haïtienne dans le vétiver de luxe, destiné aux plus grandes maisons de parfumerie mondiale. Ylang-ylang, citronnelle et basilic tropical offrent des débouchés supplémentaires dans les cosmétiques naturelles et l'aromathérapie.</p>
+        <div>
+          <strong style="display: block; margin-bottom: 0.5rem;">Produits-clés :</strong>
+          <div class="products-grid">
+            <div class="product-item">Vétiver (racines)</div>
+            <div class="product-item">Huile essentielle vétiver</div>
+            <div class="product-item">Ylang-ylang</div>
+            <div class="product-item">Citronnelle</div>
+            <div class="product-item">Basilic tropical</div>
+            <div class="product-item">Hydrolats</div>
+          </div>
+        </div>
+        <div class="filiere-markets">
+          <div class="filiere-markets-label">Marchés-cibles :</div>
+          USA, France, Japon, Pays du Golfe (parfumerie de luxe)
+        </div>
+        <div class="filiere-potential">
+          <div class="filiere-potential-label">Potentiel estimé :</div>
+          15-20 millions USD/an pour Haïti
+        </div>
+      </div>
+    </div>
+
+    <!-- Filiere 2: Nutraceutiques -->
+    <div class="filiere-card">
+      <div class="filiere-header" style="border-left-color: #27ae60;">
+        <div style="display: flex; align-items: center;">
+          <span class="filiere-icon">🌿</span>
+          <div>
+            <div class="filiere-title">Nutraceutiques & Compléments</div>
+            <div class="filiere-market">454 milliards USD (marché mondial)</div>
+          </div>
+        </div>
+      </div>
+      <div class="filiere-content">
+        <p class="filiere-description">Marché en croissance exponentielle (+8%/an). Haïti possède des ressources uniques : moringa, neem, curcuma adaptés aux conditions locales. Opportunité directe avec la diaspora (5x prix retail vs export traditionnel).</p>
+        <div>
+          <strong style="display: block; margin-bottom: 0.5rem;">Produits-clés :</strong>
+          <div class="products-grid">
+            <div class="product-item">Moringa en poudre</div>
+            <div class="product-item">Capsules curcuma</div>
+            <div class="product-item">Extraits neem</div>
+            <div class="product-item">Superaliments</div>
+            <div class="product-item">Poudres multi-plantes</div>
+            <div class="product-item">Comprimés herbes</div>
+          </div>
+        </div>
+        <div class="filiere-markets">
+          <div class="filiere-markets-label">Marchés-cibles :</div>
+          USA, Canada (diaspora haïtienne), Wellness Europe
+        </div>
+        <div class="filiere-potential">
+          <div class="filiere-potential-label">Potentiel estimé :</div>
+          8-12 millions USD/an
+        </div>
+      </div>
+    </div>
+
+    <!-- Filiere 3: Cosmétique Naturelle -->
+    <div class="filiere-card">
+      <div class="filiere-header" style="border-left-color: #e91e63;">
+        <div style="display: flex; align-items: center;">
+          <span class="filiere-icon">✨</span>
+          <div>
+            <div class="filiere-title">Cosmétique Naturelle</div>
+            <div class="filiere-market">40+ milliards USD (cosmétique naturel)</div>
+          </div>
+        </div>
+      </div>
+      <div class="filiere-content">
+        <p class="filiere-description">Segment "Clean Beauty" en expansion mondiale. Les consommateurs des USA et Europe recherchent l'authenticité et la traçabilité. Haïti peut certifier "origine" et "artisanal" — deux facteurs clés de différenciation premium.</p>
+        <div>
+          <strong style="display: block; margin-bottom: 0.5rem;">Produits-clés :</strong>
+          <div class="products-grid">
+            <div class="product-item">Huile moringa</div>
+            <div class="product-item">Beurre cacao</div>
+            <div class="product-item">Huile ricin</div>
+            <div class="product-item">Savons botaniques</div>
+            <div class="product-item">Sérums naturels</div>
+            <div class="product-item">Crèmes shea-PMAA</div>
+          </div>
+        </div>
+        <div class="filiere-markets">
+          <div class="filiere-markets-label">Marchés-cibles :</div>
+          USA diaspora, Clean Beauty USA/EU, Marques éco-responsables
+        </div>
+        <div class="filiere-potential">
+          <div class="filiere-potential-label">Potentiel estimé :</div>
+          10-18 millions USD/an
+        </div>
+      </div>
+    </div>
+
+    <!-- Filiere 4: Phytothérapie -->
+    <div class="filiere-card">
+      <div class="filiere-header" style="border-left-color: #e74c3c;">
+        <div style="display: flex; align-items: center;">
+          <span class="filiere-icon">💊</span>
+          <div>
+            <div class="filiere-title">Phytothérapie & Tisanes</div>
+            <div class="filiere-market">Marché local + export en croissance</div>
+          </div>
+        </div>
+      </div>
+      <div class="filiere-content">
+        <p class="filiere-description">Tisanes premium et phytopharmaceutiques représentent un marché de niche hautement profitable. Les protocoles haïtiens documentés par TRAMIL offrent une caution scientifique unique pour l'export, validant les savoirs traditionnels.</p>
+        <div>
+          <strong style="display: block; margin-bottom: 0.5rem;">Produits-clés :</strong>
+          <div class="products-grid">
+            <div class="product-item">Tisanes premium</div>
+            <div class="product-item">Teintures mères</div>
+            <div class="product-item">Extraits standardisés</div>
+            <div class="product-item">Gélules phytothérapie</div>
+            <div class="product-item">Sirops phyto</div>
+            <div class="product-item">Baumes herboriste</div>
+          </div>
+        </div>
+        <div class="filiere-markets">
+          <div class="filiere-markets-label">Marchés-cibles :</div>
+          Haïti (local), Caraïbes, Diaspora haïtienne
+        </div>
+        <div class="filiere-potential">
+          <div class="filiere-potential-label">Potentiel estimé :</div>
+          5-8 millions USD/an
+        </div>
+      </div>
+    </div>
+
+    <!-- Filiere 5: Écotourisme -->
+    <div class="filiere-card">
+      <div class="filiere-header" style="border-left-color: #f39c12;">
+        <div style="display: flex; align-items: center;">
+          <span class="filiere-icon">🌿</span>
+          <div>
+            <div class="filiere-title">Écotourisme Botanique</div>
+            <div class="filiere-market">Tourisme vert en croissance mondiale</div>
+          </div>
+        </div>
+      </div>
+      <div class="filiere-content">
+        <p class="filiere-description">Tourisme expérientiel et éducatif autour des PMAA. Les jardins botaniques, stages de récolte et ateliers de préparation attirent les touristes éco-responsables et la diaspora en quête de reconnexion à ses racines. Forte marge brute.</p>
+        <div>
+          <strong style="display: block; margin-bottom: 0.5rem;">Produits-clés :</strong>
+          <div class="products-grid">
+            <div class="product-item">Circuits ethnobotaniques</div>
+            <div class="product-item">Jardins botaniques</div>
+            <div class="product-item">Stages cueillette</div>
+            <div class="product-item">Ateliers HE/cosmétiques</div>
+            <div class="product-item">Séjours wellness</div>
+            <div class="product-item">Formations guérisseurs</div>
+          </div>
+        </div>
+        <div class="filiere-markets">
+          <div class="filiere-markets-label">Marchés-cibles :</div>
+          USA, Canada, France (diaspora & green tourists)
+        </div>
+        <div class="filiere-potential">
+          <div class="filiere-potential-label">Potentiel estimé :</div>
+          3-5 millions USD/an
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- Haiti vs Competitors -->
+<div class="section-bg">
+  <div class="section-inner">
+    <h2>Haïti vs Compétiteurs Mondiaux</h2>
+    <table class="comparison-table">
+      <thead>
+        <tr>
+          <th>Pays</th>
+          <th>Espèces Disponibles</th>
+          <th>Taux Endémisme</th>
+          <th>Produit Phare</th>
+          <th>Marché Principal</th>
+          <th>Export Actuel</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td><strong>Maroc</strong></td>
+          <td>3 500+</td>
+          <td>15%</td>
+          <td>Argan</td>
+          <td>EU, USA</td>
+          <td>450M USD/an</td>
+        </tr>
+        <tr>
+          <td><strong>Inde</strong></td>
+          <td>7 500+</td>
+          <td>8%</td>
+          <td>Curcuma, Tulsi</td>
+          <td>Global</td>
+          <td>2,3B USD/an</td>
+        </tr>
+        <tr>
+          <td><strong>Brésil</strong></td>
+          <td>40 000+</td>
+          <td>12%</td>
+          <td>Açaí, Guarana</td>
+          <td>Global</td>
+          <td>1,8B USD/an</td>
+        </tr>
+        <tr class="haiti-row">
+          <td><strong>Haïti</strong></td>
+          <td>1 200+</td>
+          <td><strong>40%</strong></td>
+          <td>Vétiver (global #1)</td>
+          <td>Sous-exploré</td>
+          <td>&lt; 50M USD/an <span class="haiti-note">(potentiel largement sous-utilisé)</span></td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+</div>
+
+<!-- Vétiver Section -->
+<div style="padding: 3rem 2rem;">
+  <div class="section-inner">
+    <h2>Le Vétiver Haïtien — Trésor de la Parfumerie Mondiale</h2>
+    <div class="col-2">
+      <div>
+        <p><strong>Haïti = #1 mondial en vétiver de qualité</strong></p>
+        <p>Le vétiver haïtien est la matière première préférée des plus grandes maisons de parfumerie de luxe : Chanel N°5, Dior Fahrenheit, Guerlain, Lancôme, etc. La qualité distinctive vient du terroir des montagnes haïtiennes et du climat unique de la région.</p>
+        <p><strong>Problématique actuelle :</strong> La production insuffisante ne peut répondre à la demande mondiale croissante. Les prix du vétiver brut haïtien ont augmenté de 40% en 5 ans, reflétant cette rareté.</p>
+        <p><strong>Statistiques :</strong></p>
+        <ul style="margin: 1rem 0;">
+          <li>Production actuelle : ~800 tonnes/an</li>
+          <li>Demande mondiale : 1 200+ tonnes/an</li>
+          <li>Prix brut : 35-55 USD/kg (vs Inde 12-18 USD/kg)</li>
+          <li>Marché HE vétiver : 650M USD/an</li>
+          <li>Part Haïti : ~5% (sous-exploité)</li>
+        </ul>
+
+        <h4 style="margin-top: 2rem;">SWOT du Vétiver Haïtien</h4>
+        <div class="swot-grid">
+          <div class="swot-box forces">
+            <div class="swot-title">Forces</div>
+            <ul class="swot-list">
+              <li>Qualité #1 mondial</li>
+              <li>Reconnu par luxe</li>
+              <li>Prix premium justifié</li>
+              <li>Terroir unique</li>
+            </ul>
+          </div>
+          <div class="swot-box faiblesses">
+            <div class="swot-title">Faiblesses</div>
+            <ul class="swot-list">
+              <li>Production limitée</li>
+              <li>Infrastructure obsolète</li>
+              <li>Peu de distilleries</li>
+              <li>Savoir-faire fragmenté</li>
+            </ul>
+          </div>
+          <div class="swot-box opportunites">
+            <div class="swot-title">Opportunités</div>
+            <ul class="swot-list">
+              <li>Hausse de 3-5%/an</li>
+              <li>Certification d'origine</li>
+              <li>Marque "Haïti Vétiver"</li>
+              <li>Coopératives export</li>
+            </ul>
+          </div>
+          <div class="swot-box menaces">
+            <div class="swot-title">Menaces</div>
+            <ul class="swot-list">
+              <li>Synthétiques génériques</li>
+              <li>Inde augmente qualité</li>
+              <li>Instabilité politique</li>
+              <li>Déforestation locale</li>
+            </ul>
+          </div>
+        </div>
+      </div>
+
+      <div>
+        <div class="program-card">
+          <h4>Programme Vétiver Haïtien</h4>
+          <ul>
+            <li>Phase 1 : Inventaire & Cadastrage producteurs vétiver (6 mois)</li>
+            <li>Phase 2 : Modernisation distilleries (12 mois)</li>
+            <li>Phase 3 : Certification JBC + Label d'origine (3 mois)</li>
+            <li>Phase 4 : Marketing B2B directe parfumeries (continu)</li>
+            <li>Phase 5 : Coopératives d'export structurées (12 mois)</li>
+          </ul>
+
+          <h4 style="margin-top: 2rem;">Processus d'Export</h4>
+          <ul>
+            <li>Récolte vétiver sept-déc</li>
+            <li>Séchage 3-6 mois</li>
+            <li>Distillation eau ou solvant</li>
+            <li>Test qualité JBC</li>
+            <li>Conteneurisation</li>
+            <li>Export Les Cayes → Miami → Monde</li>
+          </ul>
+
+          <p style="margin-top: 1.5rem; font-size: 0.9rem; opacity: 0.9;">
+            <strong>Projets JBC en cours :</strong> Cadastrage de 450+ producteurs, audit 8 distilleries, partenariat avec Robertet (fournisseur Chanel).
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- Marque Plantes d'Haïti Section -->
+<div class="section-green">
+  <div class="section-inner">
+    <h2>La Marque "Plantes d'Haïti" — Certification Nationale d'Excellence</h2>
+    <p style="max-width: 800px; margin-bottom: 2rem;">
+      Inspirée par le succès de l'Argan marocain, la marque "Plantes d'Haïti" unifie l'offre haïtienne sous un label d'origine et de qualité reconnu mondialement. Cette marque collective certifie : terroir haïtien authentique, processus durable, traçabilité JBC, respect des traditions.
+    </p>
+
+    <div class="brand-roadmap">
+      <div class="roadmap-step">
+        <div class="roadmap-step-num">1</div>
+        <h4>Standardisation</h4>
+        <p>Cahiers des charges techniques + critères de qualité pour chaque filière PMAA</p>
+      </div>
+      <div class="roadmap-step">
+        <div class="roadmap-step-num">2</div>
+        <h4>Certification</h4>
+        <p>Audit JBC + certifications ISO, Ecocert, USDA Organic selon filière</p>
+      </div>
+      <div class="roadmap-step">
+        <div class="roadmap-step-num">3</div>
+        <h4>Commercialisation</h4>
+        <p>Marketing global, partenariats distribution, prix premium "Haïti"</p>
+      </div>
+    </div>
+
+    <div style="background: white; padding: 2rem; border-radius: 8px; margin-top: 2rem;">
+      <h4 style="margin-top: 0;">Trois Piliers du Label</h4>
+      <div class="grid-3">
+        <div>
+          <strong style="color: #27ae60;">✓ Certification d'Origine</strong>
+          <p style="font-size: 0.9rem; color: #555;">100% cultivé, récolté, transformé en Haïti. Traçabilité JBC complète de la graine au produit fini.</p>
+        </div>
+        <div>
+          <strong style="color: #27ae60;">✓ Label Qualité Export</strong>
+          <p style="font-size: 0.9rem; color: #555;">Certifications multiples : Ecocert, USDA Organic, Fairtrade, analyses micro/chimie JBC.</p>
+        </div>
+        <div>
+          <strong style="color: #27ae60;">✓ Marketing International</strong>
+          <p style="font-size: 0.9rem; color: #555;">Storytelling "Haïti", patrimoine botanique, supports premium pour B2B & B2C.</p>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- Entrepreneurs Section -->
+<div style="padding: 3rem 2rem;">
+  <div class="section-inner">
+    <h2>Créer votre Entreprise PMAA en Haïti</h2>
+    <p style="max-width: 900px; margin-bottom: 2rem;">
+      La JBC fournit le cadre légal, technique et commercial pour lancer votre projet PMAA. Quatre modèles entrepreneuriaux sont possibles, du travailleur indépendant à la start-up technologique.
+    </p>
+
+    <div class="grid-4">
+      <div class="dark-card">
+        <h4>TPME Phytothérapie</h4>
+        <p>Très petite entreprise de production/transformation de tisanes, teintures, poudres.</p>
+        <p><strong>Modèle :</strong> Producteur artisanal, vente locale + e-commerce</p>
+        <p><strong>Investissement :</strong> 5-10k USD</p>
+        <a href="#" class="btn-dark">En savoir plus →</a>
+      </div>
+
+      <div class="dark-card">
+        <h4>Start-up HE & Parfumerie</h4>
+        <p>Distillerie locale ou pré-traitement huiles essentielles pour export B2B.</p>
+        <p><strong>Modèle :</strong> PME export directe aux parfumeries/cosmétiques</p>
+        <p><strong>Investissement :</strong> 50-150k USD</p>
+        <a href="#" class="btn-dark">En savoir plus →</a>
+      </div>
+
+      <div class="dark-card">
+        <h4>Coopérative Agricole PMAA</h4>
+        <p>Groupement de producteurs vétiver, moringa, neem avec structure collective.</p>
+        <p><strong>Modèle :</strong> Mutualisation récolte, transformation, export</p>
+        <p><strong>Investissement :</strong> 20-50k USD (partagé)</p>
+        <a href="#" class="btn-dark">En savoir plus →</a>
+      </div>
+
+      <div class="dark-card">
+        <h4>E-commerce Diaspora</h4>
+        <p>Plateforme en ligne sourçant produits PMAA pour vente USA/EU/Canada.</p>
+        <p><strong>Modèle :</strong> Marketplace B2C, drop-shipping ou stock propre</p>
+        <p><strong>Investissement :</strong> 10-30k USD</p>
+        <a href="#" class="btn-dark">En savoir plus →</a>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- Market Access Section -->
+<div class="section-bg">
+  <div class="section-inner">
+    <h2>Accès aux Marchés Mondiaux</h2>
+    <p style="max-width: 900px; margin-bottom: 2rem;">
+      Trois corridors d'export stratégiques ouverts aux producteurs haïtiens certifiés PMAA.
+    </p>
+
+    <div class="grid-3">
+      <div class="access-card">
+        <h4>🇺🇸 USA & Canada</h4>
+        <p><strong>Diaspora haïtienne directe</strong></p>
+        <ul>
+          <li>3M+ Haïtiens USA</li>
+          <li>500k Canada</li>
+          <li>Reconnexion culturelle</li>
+          <li>5-8x prix retail</li>
+        </ul>
+        <p><strong>Circuits :</strong> Amazon, Etsy, magasins créoles</p>
+      </div>
+
+      <div class="access-card">
+        <h4>🇪🇺 Europe</h4>
+        <p><strong>Certifications Bio & Éco</strong></p>
+        <ul>
+          <li>Ecocert (organisme EU)</li>
+          <li>Cosmos + AOP possible</li>
+          <li>Clean Beauty trend</li>
+          <li>Prix premium justifiés</li>
+        </ul>
+        <p><strong>Circuits :</strong> Marques bio, distribution Carrefour/Leclerc</p>
+      </div>
+
+      <div class="access-card">
+        <h4>🌎 Régional Caraïbes</h4>
+        <p><strong>Distribution directe + CARICOM</strong></p>
+        <ul>
+          <li>Marché régional proche</li>
+          <li>Réduction frais transport</li>
+          <li>Accord CARICOM</li>
+          <li>Volume initial</li>
+        </ul>
+        <p><strong>Circuits :</strong> Distributeurs Caraïbes, pharmacies locales</p>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div id="footer-placeholder"></div>
+
+<script src="pmaa-nav.js"></script>
+<script>
+  if (typeof PMAA !== 'undefined') {
+    PMAA.renderNav('economie');
+    PMAA.renderFooter();
+  }
+</script>
+
+</body>
+</html>

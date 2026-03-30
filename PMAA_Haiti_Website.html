@@ -1,0 +1,1891 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>PMAA Haïti — Plantes Médicinales, Aromatiques & Alimentaires du Grand Sud</title>
+<style>
+  :root {
+    --green-dark: #1a4a2e;
+    --green-mid: #2d7a4f;
+    --green-light: #4caf73;
+    --green-pale: #e8f5e9;
+    --gold: #c8a84b;
+    --gold-light: #f5e8c0;
+    --red-haiti: #c0392b;
+    --blue-dark: #1a3a5c;
+    --blue-mid: #2563a8;
+    --blue-light: #e8f0fb;
+    --text-dark: #1a1a2e;
+    --text-mid: #4a5568;
+    --white: #ffffff;
+    --gray-light: #f7f8fa;
+    --shadow: 0 4px 24px rgba(0,0,0,0.10);
+    --shadow-lg: 0 8px 40px rgba(0,0,0,0.16);
+  }
+
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  html { scroll-behavior: smooth; }
+  body { font-family: 'Georgia', serif; color: var(--text-dark); background: var(--white); }
+
+  /* ─── TOP BAR ─── */
+  .topbar {
+    background: var(--green-dark);
+    color: rgba(255,255,255,0.75);
+    font-size: 12px;
+    padding: 6px 40px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-family: 'Arial', sans-serif;
+  }
+  .topbar-left { display: flex; gap: 20px; }
+  .topbar-right { display: flex; gap: 10px; align-items: center; }
+  .lang-btn {
+    padding: 3px 10px;
+    border: 1px solid rgba(255,255,255,0.3);
+    border-radius: 3px;
+    background: transparent;
+    color: rgba(255,255,255,0.7);
+    cursor: pointer;
+    font-size: 12px;
+    transition: all 0.2s;
+    font-family: Arial, sans-serif;
+  }
+  .lang-btn.active, .lang-btn:hover {
+    background: var(--gold);
+    color: var(--green-dark);
+    border-color: var(--gold);
+    font-weight: bold;
+  }
+
+  /* ─── HEADER / NAV ─── */
+  header {
+    background: var(--white);
+    border-bottom: 3px solid var(--green-mid);
+    padding: 0 40px;
+    position: sticky;
+    top: 0;
+    z-index: 1000;
+    box-shadow: var(--shadow);
+  }
+  .header-inner {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    max-width: 1400px;
+    margin: 0 auto;
+    height: 76px;
+  }
+  .logo-area { display: flex; align-items: center; gap: 14px; }
+  .logo-icon {
+    width: 52px; height: 52px;
+    background: linear-gradient(135deg, var(--green-mid), var(--green-dark));
+    border-radius: 12px;
+    display: flex; align-items: center; justify-content: center;
+    font-size: 28px;
+  }
+  .logo-text h1 {
+    font-size: 18px;
+    color: var(--green-dark);
+    font-weight: bold;
+    letter-spacing: -0.3px;
+    line-height: 1.2;
+  }
+  .logo-text p {
+    font-size: 11px;
+    color: var(--text-mid);
+    font-family: Arial, sans-serif;
+    letter-spacing: 0.5px;
+  }
+  nav { display: flex; align-items: center; gap: 4px; }
+  .nav-item {
+    position: relative;
+    padding: 8px 14px;
+    color: var(--text-mid);
+    font-family: Arial, sans-serif;
+    font-size: 13.5px;
+    font-weight: 500;
+    cursor: pointer;
+    border-radius: 6px;
+    transition: all 0.2s;
+    white-space: nowrap;
+  }
+  .nav-item:hover, .nav-item.active {
+    color: var(--green-mid);
+    background: var(--green-pale);
+  }
+  .nav-item.active::after {
+    content: '';
+    position: absolute;
+    bottom: -3px;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 60%;
+    height: 3px;
+    background: var(--green-mid);
+    border-radius: 2px;
+  }
+  .nav-search {
+    display: flex;
+    align-items: center;
+    border: 1.5px solid #d0d0d0;
+    border-radius: 20px;
+    padding: 6px 14px;
+    gap: 8px;
+    background: var(--gray-light);
+    margin-left: 10px;
+  }
+  .nav-search input {
+    border: none;
+    background: transparent;
+    font-size: 13px;
+    color: var(--text-dark);
+    width: 160px;
+    outline: none;
+    font-family: Arial, sans-serif;
+  }
+  .nav-search span { color: var(--text-mid); font-size: 14px; }
+
+  /* ─── HERO ─── */
+  .hero {
+    background: linear-gradient(135deg, var(--green-dark) 0%, #0f2d1a 50%, var(--blue-dark) 100%);
+    position: relative;
+    overflow: hidden;
+    padding: 80px 40px 90px;
+    color: var(--white);
+  }
+  .hero::before {
+    content: '';
+    position: absolute;
+    top: 0; left: 0; right: 0; bottom: 0;
+    background: url("data:image/svg+xml,%3Csvg width='60' height='60' viewBox='0 0 60 60' xmlns='http://www.w3.org/2000/svg'%3E%3Cg fill='none' fill-rule='evenodd'%3E%3Cg fill='%23ffffff' fill-opacity='0.03'%3E%3Cpath d='M36 34v-4h-2v4h-4v2h4v4h2v-4h4v-2h-4zm0-30V0h-2v4h-4v2h4v4h2V6h4V4h-4zM6 34v-4H4v4H0v2h4v4h2v-4h4v-2H6zM6 4V0H4v4H0v2h4v4h2V6h4V4H6z'/%3E%3C/g%3E%3C/g%3E%3C/svg%3E");
+    opacity: 0.3;
+  }
+  .hero-content {
+    max-width: 1400px;
+    margin: 0 auto;
+    position: relative;
+    display: grid;
+    grid-template-columns: 1fr 400px;
+    gap: 60px;
+    align-items: center;
+  }
+  .hero-badge {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+    background: rgba(200,168,75,0.2);
+    border: 1px solid rgba(200,168,75,0.5);
+    border-radius: 30px;
+    padding: 6px 16px;
+    font-size: 12px;
+    font-family: Arial, sans-serif;
+    color: var(--gold);
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    margin-bottom: 20px;
+  }
+  .hero h2 {
+    font-size: 48px;
+    line-height: 1.1;
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
+  .hero h2 span { color: var(--gold); }
+  .hero-subtitle {
+    font-size: 18px;
+    color: rgba(255,255,255,0.8);
+    line-height: 1.6;
+    margin: 20px 0 36px;
+    font-family: Arial, sans-serif;
+  }
+  .hero-langs {
+    display: flex;
+    gap: 10px;
+    margin-bottom: 32px;
+    flex-wrap: wrap;
+  }
+  .hero-lang-pill {
+    padding: 6px 18px;
+    border-radius: 20px;
+    font-size: 13px;
+    font-family: Arial, sans-serif;
+    font-weight: 600;
+    cursor: pointer;
+  }
+  .hero-lang-pill.fr { background: #003087; color: white; border: 2px solid #003087; }
+  .hero-lang-pill.en { background: #c0392b; color: white; border: 2px solid #c0392b; }
+  .hero-lang-pill.cr { background: var(--gold); color: var(--green-dark); border: 2px solid var(--gold); }
+  .hero-cta { display: flex; gap: 14px; flex-wrap: wrap; }
+  .btn-primary {
+    padding: 14px 28px;
+    background: var(--gold);
+    color: var(--green-dark);
+    border: none;
+    border-radius: 8px;
+    font-size: 15px;
+    font-weight: bold;
+    font-family: Arial, sans-serif;
+    cursor: pointer;
+    transition: all 0.2s;
+    text-decoration: none;
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+  }
+  .btn-primary:hover { background: #e0bc5a; transform: translateY(-1px); }
+  .btn-secondary {
+    padding: 14px 28px;
+    background: transparent;
+    color: white;
+    border: 2px solid rgba(255,255,255,0.4);
+    border-radius: 8px;
+    font-size: 15px;
+    font-weight: bold;
+    font-family: Arial, sans-serif;
+    cursor: pointer;
+    transition: all 0.2s;
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+  }
+  .btn-secondary:hover { border-color: white; background: rgba(255,255,255,0.1); }
+  .hero-stats {
+    background: rgba(255,255,255,0.07);
+    border: 1px solid rgba(255,255,255,0.15);
+    border-radius: 20px;
+    padding: 32px;
+    backdrop-filter: blur(10px);
+  }
+  .hero-stats h3 {
+    font-size: 13px;
+    text-transform: uppercase;
+    letter-spacing: 1.5px;
+    color: var(--gold);
+    font-family: Arial, sans-serif;
+    margin-bottom: 24px;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+  }
+  .stat-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 20px; }
+  .stat-item { text-align: center; }
+  .stat-number {
+    font-size: 32px;
+    font-weight: bold;
+    color: var(--gold);
+    display: block;
+    line-height: 1;
+  }
+  .stat-label {
+    font-size: 12px;
+    color: rgba(255,255,255,0.7);
+    font-family: Arial, sans-serif;
+    margin-top: 4px;
+    line-height: 1.3;
+  }
+  .stat-divider {
+    width: 1px;
+    background: rgba(255,255,255,0.1);
+    margin: 0 auto;
+  }
+
+  /* ─── AUDIENCE SELECTOR ─── */
+  .audience-section {
+    background: var(--gray-light);
+    padding: 60px 40px;
+    border-bottom: 1px solid #e0e0e0;
+  }
+  .section-header {
+    text-align: center;
+    max-width: 700px;
+    margin: 0 auto 40px;
+  }
+  .section-tag {
+    display: inline-block;
+    padding: 5px 16px;
+    background: var(--green-pale);
+    color: var(--green-mid);
+    border-radius: 20px;
+    font-size: 12px;
+    font-family: Arial, sans-serif;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    margin-bottom: 14px;
+  }
+  .section-header h2 {
+    font-size: 34px;
+    color: var(--green-dark);
+    margin-bottom: 14px;
+    line-height: 1.2;
+  }
+  .section-header p {
+    font-size: 16px;
+    color: var(--text-mid);
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+  }
+  .audience-grid {
+    max-width: 1400px;
+    margin: 0 auto;
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 20px;
+  }
+  .audience-card {
+    background: var(--white);
+    border-radius: 16px;
+    padding: 28px 22px;
+    text-align: center;
+    border: 2px solid transparent;
+    cursor: pointer;
+    transition: all 0.25s;
+    box-shadow: 0 2px 10px rgba(0,0,0,0.06);
+    position: relative;
+    overflow: hidden;
+  }
+  .audience-card::before {
+    content: '';
+    position: absolute;
+    top: 0; left: 0; right: 0;
+    height: 4px;
+  }
+  .audience-card.env::before { background: #27ae60; }
+  .audience-card.sante::before { background: #e74c3c; }
+  .audience-card.agri::before { background: #f39c12; }
+  .audience-card.comm::before { background: #2980b9; }
+  .audience-card.heal::before { background: #8e44ad; }
+  .audience-card.user::before { background: #16a085; }
+  .audience-card.nat::before { background: #d35400; }
+  .audience-card.res::before { background: #2c3e50; }
+  .audience-card:hover {
+    transform: translateY(-4px);
+    box-shadow: var(--shadow-lg);
+    border-color: var(--green-light);
+  }
+  .audience-icon { font-size: 44px; margin-bottom: 16px; display: block; }
+  .audience-card h3 {
+    font-size: 15px;
+    font-weight: bold;
+    color: var(--green-dark);
+    margin-bottom: 8px;
+    font-family: Arial, sans-serif;
+    line-height: 1.3;
+  }
+  .audience-card p {
+    font-size: 12.5px;
+    color: var(--text-mid);
+    font-family: Arial, sans-serif;
+    line-height: 1.5;
+  }
+  .audience-tag {
+    display: inline-block;
+    margin-top: 12px;
+    padding: 3px 10px;
+    border-radius: 10px;
+    font-size: 11px;
+    font-family: Arial, sans-serif;
+    font-weight: 600;
+  }
+  .audience-card.env .audience-tag { background: #e8f8ee; color: #27ae60; }
+  .audience-card.sante .audience-tag { background: #fde8e8; color: #e74c3c; }
+  .audience-card.agri .audience-tag { background: #fef5e0; color: #f39c12; }
+  .audience-card.comm .audience-tag { background: #e8f4fb; color: #2980b9; }
+  .audience-card.heal .audience-tag { background: #f3e8fb; color: #8e44ad; }
+  .audience-card.user .audience-tag { background: #e8f8f5; color: #16a085; }
+  .audience-card.nat .audience-tag { background: #fdf0e8; color: #d35400; }
+  .audience-card.res .audience-tag { background: #eaecee; color: #2c3e50; }
+
+  /* ─── FEATURES STRIP ─── */
+  .features-strip {
+    background: var(--green-dark);
+    padding: 36px 40px;
+    display: flex;
+    justify-content: center;
+    gap: 0;
+  }
+  .feature-item {
+    display: flex;
+    align-items: center;
+    gap: 14px;
+    padding: 0 40px;
+    border-right: 1px solid rgba(255,255,255,0.15);
+    color: white;
+  }
+  .feature-item:last-child { border-right: none; }
+  .feature-icon-bg {
+    width: 44px; height: 44px;
+    background: rgba(255,255,255,0.12);
+    border-radius: 10px;
+    display: flex; align-items: center; justify-content: center;
+    font-size: 22px;
+    flex-shrink: 0;
+  }
+  .feature-text h4 {
+    font-size: 15px;
+    font-weight: bold;
+    font-family: Arial, sans-serif;
+    margin-bottom: 2px;
+  }
+  .feature-text p {
+    font-size: 12px;
+    color: rgba(255,255,255,0.65);
+    font-family: Arial, sans-serif;
+  }
+
+  /* ─── MAIN MODULES ─── */
+  .modules-section {
+    padding: 80px 40px;
+    max-width: 1400px;
+    margin: 0 auto;
+  }
+  .modules-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 28px;
+    margin-top: 50px;
+  }
+  .module-card {
+    border-radius: 20px;
+    overflow: hidden;
+    box-shadow: var(--shadow);
+    transition: all 0.25s;
+    cursor: pointer;
+  }
+  .module-card:hover { transform: translateY(-5px); box-shadow: var(--shadow-lg); }
+  .module-header {
+    padding: 32px 28px 24px;
+    position: relative;
+  }
+  .module-icon {
+    font-size: 40px;
+    margin-bottom: 16px;
+    display: block;
+  }
+  .module-header h3 {
+    font-size: 20px;
+    font-weight: bold;
+    margin-bottom: 8px;
+    line-height: 1.2;
+  }
+  .module-header p {
+    font-size: 13.5px;
+    font-family: Arial, sans-serif;
+    line-height: 1.5;
+    opacity: 0.85;
+  }
+  .module-card.health .module-header { background: linear-gradient(135deg, #c0392b, #922b21); color: white; }
+  .module-card.conservation .module-header { background: linear-gradient(135deg, #1e8449, #145a32); color: white; }
+  .module-card.economy .module-header { background: linear-gradient(135deg, #1a5276, #1a3a5c); color: white; }
+  .module-card.wellbeing .module-header { background: linear-gradient(135deg, #6c3483, #4a235a); color: white; }
+  .module-card.nutrition .module-header { background: linear-gradient(135deg, #ca6f1e, #9c4c0c); color: white; }
+  .module-card.knowledge .module-header { background: linear-gradient(135deg, #148f77, #0e6655); color: white; }
+  .module-body {
+    background: white;
+    padding: 22px 28px;
+    border: 1px solid #eee;
+    border-top: none;
+  }
+  .module-feature {
+    display: flex;
+    align-items: flex-start;
+    gap: 10px;
+    padding: 8px 0;
+    border-bottom: 1px solid #f0f0f0;
+    font-size: 13px;
+    font-family: Arial, sans-serif;
+    color: var(--text-mid);
+  }
+  .module-feature:last-child { border-bottom: none; }
+  .module-feature-dot {
+    width: 7px; height: 7px;
+    border-radius: 50%;
+    margin-top: 5px;
+    flex-shrink: 0;
+  }
+  .health .module-feature-dot { background: #c0392b; }
+  .conservation .module-feature-dot { background: #1e8449; }
+  .economy .module-feature-dot { background: #1a5276; }
+  .wellbeing .module-feature-dot { background: #6c3483; }
+  .nutrition .module-feature-dot { background: #ca6f1e; }
+  .knowledge .module-feature-dot { background: #148f77; }
+  .module-link {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 14px 28px;
+    font-size: 13px;
+    font-family: Arial, sans-serif;
+    font-weight: 600;
+    color: var(--green-mid);
+    background: var(--gray-light);
+    cursor: pointer;
+    transition: background 0.2s;
+  }
+  .module-link:hover { background: var(--green-pale); }
+
+  /* ─── PLANT ATLAS PREVIEW ─── */
+  .atlas-section {
+    background: var(--green-pale);
+    padding: 80px 40px;
+    border-top: 3px solid var(--green-light);
+    border-bottom: 3px solid var(--green-light);
+  }
+  .atlas-inner {
+    max-width: 1400px;
+    margin: 0 auto;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 60px;
+    align-items: start;
+  }
+  .atlas-left h2 { font-size: 34px; color: var(--green-dark); margin: 16px 0; }
+  .atlas-left p {
+    font-size: 15px;
+    font-family: Arial, sans-serif;
+    color: var(--text-mid);
+    line-height: 1.7;
+    margin-bottom: 24px;
+  }
+  .search-bar {
+    display: flex;
+    background: white;
+    border-radius: 12px;
+    border: 2px solid var(--green-light);
+    overflow: hidden;
+    box-shadow: 0 2px 12px rgba(0,0,0,0.08);
+    margin-bottom: 20px;
+  }
+  .search-bar input {
+    flex: 1;
+    padding: 14px 20px;
+    border: none;
+    font-size: 15px;
+    font-family: Arial, sans-serif;
+    outline: none;
+    color: var(--text-dark);
+  }
+  .search-bar button {
+    padding: 14px 24px;
+    background: var(--green-mid);
+    color: white;
+    border: none;
+    font-size: 15px;
+    font-family: Arial, sans-serif;
+    font-weight: 600;
+    cursor: pointer;
+  }
+  .filter-tags {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+    margin-bottom: 24px;
+  }
+  .filter-tag {
+    padding: 5px 14px;
+    border-radius: 20px;
+    font-size: 12px;
+    font-family: Arial, sans-serif;
+    cursor: pointer;
+    border: 1.5px solid;
+    transition: all 0.15s;
+  }
+  .filter-tag.active, .filter-tag:hover { color: white; }
+  .filter-tag.med { color: #c0392b; border-color: #c0392b; }
+  .filter-tag.med.active, .filter-tag.med:hover { background: #c0392b; }
+  .filter-tag.arom { color: #8e44ad; border-color: #8e44ad; }
+  .filter-tag.arom.active, .filter-tag.arom:hover { background: #8e44ad; }
+  .filter-tag.alim { color: #ca6f1e; border-color: #ca6f1e; }
+  .filter-tag.alim.active, .filter-tag.alim:hover { background: #ca6f1e; }
+  .filter-tag.end { color: #1a5276; border-color: #1a5276; }
+  .filter-tag.end.active, .filter-tag.end:hover { background: #1a5276; }
+  .filter-tag.men { color: #27ae60; border-color: #27ae60; }
+  .filter-tag.men.active, .filter-tag.men:hover { background: #27ae60; }
+  .plant-cards { display: flex; flex-direction: column; gap: 14px; }
+  .plant-card {
+    background: white;
+    border-radius: 14px;
+    padding: 18px 20px;
+    display: flex;
+    align-items: center;
+    gap: 18px;
+    box-shadow: 0 2px 12px rgba(0,0,0,0.07);
+    border: 1px solid #e8f0e8;
+    cursor: pointer;
+    transition: all 0.2s;
+  }
+  .plant-card:hover { border-color: var(--green-mid); transform: translateX(4px); }
+  .plant-emoji { font-size: 36px; flex-shrink: 0; }
+  .plant-info h4 {
+    font-size: 16px;
+    font-weight: bold;
+    color: var(--green-dark);
+    margin-bottom: 2px;
+  }
+  .plant-info .plant-latin {
+    font-style: italic;
+    font-size: 12.5px;
+    color: var(--text-mid);
+    font-family: Arial, sans-serif;
+    margin-bottom: 6px;
+  }
+  .plant-tags { display: flex; gap: 6px; flex-wrap: wrap; }
+  .plant-tag {
+    padding: 2px 8px;
+    border-radius: 8px;
+    font-size: 11px;
+    font-family: Arial, sans-serif;
+    font-weight: 600;
+  }
+  .plant-tag.med { background: #fde8e8; color: #c0392b; }
+  .plant-tag.arom { background: #f3e8fb; color: #8e44ad; }
+  .plant-tag.alim { background: #fef5e0; color: #ca6f1e; }
+  .plant-tag.end { background: #e8f4fb; color: #1a5276; }
+  .plant-tag.prio { background: #e8f8ee; color: #27ae60; }
+  .plant-arrow { margin-left: auto; color: var(--text-mid); font-size: 18px; }
+
+  /* ─── MAP SECTION ─── */
+  .map-section {
+    padding: 80px 40px;
+    background: var(--gray-light);
+  }
+  .map-inner {
+    max-width: 1400px;
+    margin: 0 auto;
+    display: grid;
+    grid-template-columns: 1fr 340px;
+    gap: 40px;
+    align-items: start;
+  }
+  .map-placeholder {
+    background: linear-gradient(135deg, #1a4a2e 0%, #2d7a4f 50%, #4caf73 100%);
+    border-radius: 20px;
+    height: 460px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    text-align: center;
+    position: relative;
+    overflow: hidden;
+    box-shadow: var(--shadow-lg);
+  }
+  .map-placeholder::before {
+    content: '';
+    position: absolute;
+    top: 0; left: 0; right: 0; bottom: 0;
+    background: radial-gradient(circle at 30% 40%, rgba(255,255,255,0.1) 0%, transparent 60%),
+                radial-gradient(circle at 70% 70%, rgba(0,0,0,0.2) 0%, transparent 50%);
+  }
+  .map-icon { font-size: 60px; margin-bottom: 16px; position: relative; }
+  .map-placeholder h3 { font-size: 22px; margin-bottom: 8px; position: relative; }
+  .map-placeholder p { font-size: 14px; font-family: Arial, sans-serif; opacity: 0.8; position: relative; }
+  .map-dots {
+    position: absolute;
+    top: 0; left: 0; right: 0; bottom: 0;
+  }
+  .map-dot {
+    position: absolute;
+    width: 16px; height: 16px;
+    border-radius: 50%;
+    border: 2px solid rgba(255,255,255,0.8);
+    animation: pulse 2s infinite;
+  }
+  .map-dot.d1 { top: 35%; left: 25%; background: #e74c3c; animation-delay: 0s; }
+  .map-dot.d2 { top: 55%; left: 45%; background: #f39c12; animation-delay: 0.5s; }
+  .map-dot.d3 { top: 40%; left: 65%; background: #27ae60; animation-delay: 1s; }
+  .map-dot.d4 { top: 70%; left: 35%; background: #3498db; animation-delay: 1.5s; }
+  .map-dot.d5 { top: 25%; left: 55%; background: #8e44ad; animation-delay: 0.8s; }
+  @keyframes pulse {
+    0% { box-shadow: 0 0 0 0 rgba(255,255,255,0.4); }
+    70% { box-shadow: 0 0 0 10px rgba(255,255,255,0); }
+    100% { box-shadow: 0 0 0 0 rgba(255,255,255,0); }
+  }
+  .map-controls h3 {
+    font-size: 20px;
+    color: var(--green-dark);
+    margin-bottom: 6px;
+  }
+  .map-controls p {
+    font-size: 13.5px;
+    font-family: Arial, sans-serif;
+    color: var(--text-mid);
+    line-height: 1.5;
+    margin-bottom: 24px;
+  }
+  .map-layer {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    padding: 12px 16px;
+    background: white;
+    border-radius: 10px;
+    margin-bottom: 10px;
+    border: 1.5px solid #e8e8e8;
+    cursor: pointer;
+    transition: all 0.2s;
+  }
+  .map-layer:hover { border-color: var(--green-mid); }
+  .layer-dot { width: 14px; height: 14px; border-radius: 50%; flex-shrink: 0; }
+  .map-layer h4 { font-size: 13.5px; font-family: Arial, sans-serif; font-weight: 600; color: var(--text-dark); }
+  .map-layer p { font-size: 11.5px; font-family: Arial, sans-serif; color: var(--text-mid); }
+
+  /* ─── DISEASE-PLANT SECTION ─── */
+  .disease-section {
+    padding: 80px 40px;
+    background: var(--white);
+  }
+  .disease-inner { max-width: 1400px; margin: 0 auto; }
+  .disease-grid {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 18px;
+    margin-top: 40px;
+  }
+  .disease-card {
+    border-radius: 16px;
+    padding: 24px 20px;
+    border: 1.5px solid;
+    cursor: pointer;
+    transition: all 0.2s;
+    background: white;
+  }
+  .disease-card:hover { transform: translateY(-3px); box-shadow: var(--shadow); }
+  .disease-card.infect { border-color: #e74c3c; }
+  .disease-card.chron { border-color: #3498db; }
+  .disease-card.digest { border-color: #f39c12; }
+  .disease-card.mental { border-color: #8e44ad; }
+  .disease-card.skin { border-color: #27ae60; }
+  .disease-card.resp { border-color: #16a085; }
+  .disease-card.matern { border-color: #e91e63; }
+  .disease-card.immun { border-color: #ff5722; }
+  .disease-icon { font-size: 36px; margin-bottom: 12px; display: block; }
+  .disease-card h3 { font-size: 15px; font-weight: bold; font-family: Arial, sans-serif; margin-bottom: 6px; }
+  .disease-card.infect h3 { color: #c0392b; }
+  .disease-card.chron h3 { color: #2471a3; }
+  .disease-card.digest h3 { color: #ca6f1e; }
+  .disease-card.mental h3 { color: #7d3c98; }
+  .disease-card.skin h3 { color: #1e8449; }
+  .disease-card.resp h3 { color: #148f77; }
+  .disease-card.matern h3 { color: #c2185b; }
+  .disease-card.immun h3 { color: #e64a19; }
+  .disease-card p {
+    font-size: 12px;
+    font-family: Arial, sans-serif;
+    color: var(--text-mid);
+    line-height: 1.5;
+    margin-bottom: 12px;
+  }
+  .disease-count {
+    font-size: 11.5px;
+    font-family: Arial, sans-serif;
+    font-weight: 600;
+    padding: 3px 10px;
+    border-radius: 10px;
+    display: inline-block;
+  }
+  .disease-card.infect .disease-count { background: #fde8e8; color: #c0392b; }
+  .disease-card.chron .disease-count { background: #e8f4fb; color: #2471a3; }
+  .disease-card.digest .disease-count { background: #fef5e0; color: #ca6f1e; }
+  .disease-card.mental .disease-count { background: #f3e8fb; color: #7d3c98; }
+  .disease-card.skin .disease-count { background: #e8f8ee; color: #1e8449; }
+  .disease-card.resp .disease-count { background: #e8f8f5; color: #148f77; }
+  .disease-card.matern .disease-count { background: #fce4ec; color: #c2185b; }
+  .disease-card.immun .disease-count { background: #fbe9e7; color: #e64a19; }
+
+  /* ─── MINISTRY PORTALS ─── */
+  .ministry-section {
+    background: var(--blue-dark);
+    padding: 80px 40px;
+    color: white;
+  }
+  .ministry-inner { max-width: 1400px; margin: 0 auto; }
+  .ministry-grid {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 20px;
+    margin-top: 40px;
+  }
+  .ministry-card {
+    background: rgba(255,255,255,0.07);
+    border: 1px solid rgba(255,255,255,0.15);
+    border-radius: 16px;
+    padding: 28px 22px;
+    cursor: pointer;
+    transition: all 0.25s;
+    position: relative;
+    overflow: hidden;
+  }
+  .ministry-card::before {
+    content: '';
+    position: absolute;
+    top: 0; left: 0; right: 0;
+    height: 3px;
+    border-radius: 16px 16px 0 0;
+  }
+  .ministry-card.env::before { background: linear-gradient(90deg, #27ae60, #2ecc71); }
+  .ministry-card.sante::before { background: linear-gradient(90deg, #e74c3c, #ff6b6b); }
+  .ministry-card.agri::before { background: linear-gradient(90deg, #f39c12, #f5b942); }
+  .ministry-card.comm::before { background: linear-gradient(90deg, #3498db, #5dade2); }
+  .ministry-card:hover {
+    background: rgba(255,255,255,0.12);
+    border-color: rgba(255,255,255,0.3);
+    transform: translateY(-3px);
+  }
+  .ministry-emoji { font-size: 42px; margin-bottom: 16px; display: block; }
+  .ministry-card h3 { font-size: 16px; font-weight: bold; margin-bottom: 10px; line-height: 1.2; }
+  .ministry-card p { font-size: 13px; font-family: Arial, sans-serif; color: rgba(255,255,255,0.7); line-height: 1.6; margin-bottom: 16px; }
+  .ministry-features { list-style: none; }
+  .ministry-features li {
+    font-size: 12.5px;
+    font-family: Arial, sans-serif;
+    color: rgba(255,255,255,0.6);
+    padding: 4px 0;
+    padding-left: 14px;
+    position: relative;
+    line-height: 1.4;
+  }
+  .ministry-features li::before { content: '›'; position: absolute; left: 0; color: var(--gold); }
+  .ministry-btn {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+    padding: 10px 18px;
+    border: 1.5px solid rgba(255,255,255,0.3);
+    border-radius: 8px;
+    font-size: 12.5px;
+    font-family: Arial, sans-serif;
+    font-weight: 600;
+    color: white;
+    cursor: pointer;
+    transition: all 0.2s;
+    margin-top: 14px;
+  }
+  .ministry-btn:hover { background: rgba(255,255,255,0.15); border-color: white; }
+
+  /* ─── KNOWLEDGE / TRADITIONAL ─── */
+  .knowledge-section {
+    padding: 80px 40px;
+    background: var(--gray-light);
+  }
+  .knowledge-inner {
+    max-width: 1400px;
+    margin: 0 auto;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 60px;
+    align-items: center;
+  }
+  .knowledge-text h2 { font-size: 34px; color: var(--green-dark); margin: 14px 0; line-height: 1.2; }
+  .knowledge-text p { font-size: 15px; font-family: Arial, sans-serif; color: var(--text-mid); line-height: 1.7; margin-bottom: 16px; }
+  .heritage-items { margin-top: 28px; }
+  .heritage-item {
+    display: flex;
+    gap: 18px;
+    padding: 18px 0;
+    border-bottom: 1px solid #e0e0e0;
+  }
+  .heritage-item:last-child { border-bottom: none; }
+  .heritage-icon {
+    width: 48px; height: 48px;
+    border-radius: 12px;
+    display: flex; align-items: center; justify-content: center;
+    font-size: 24px;
+    flex-shrink: 0;
+  }
+  .heritage-icon.taino { background: #fef5e0; }
+  .heritage-icon.afri { background: #fde8e8; }
+  .heritage-icon.euro { background: #e8f4fb; }
+  .heritage-text h4 { font-size: 15px; font-weight: bold; color: var(--green-dark); font-family: Arial, sans-serif; margin-bottom: 4px; }
+  .heritage-text p { font-size: 13px; font-family: Arial, sans-serif; color: var(--text-mid); line-height: 1.5; }
+  .knowledge-visual {
+    background: linear-gradient(135deg, #1a4a2e, #2d7a4f);
+    border-radius: 24px;
+    padding: 40px;
+    color: white;
+    position: relative;
+    overflow: hidden;
+  }
+  .knowledge-visual::before {
+    content: '';
+    position: absolute;
+    bottom: -30px; right: -30px;
+    width: 200px; height: 200px;
+    border-radius: 50%;
+    background: rgba(255,255,255,0.05);
+  }
+  .knowledge-visual h3 { font-size: 22px; margin-bottom: 20px; }
+  .testimonial-box {
+    background: rgba(255,255,255,0.1);
+    border-left: 3px solid var(--gold);
+    border-radius: 0 10px 10px 0;
+    padding: 20px;
+    margin-bottom: 20px;
+    font-size: 14px;
+    font-family: Arial, sans-serif;
+    font-style: italic;
+    line-height: 1.6;
+    color: rgba(255,255,255,0.9);
+  }
+  .testimonial-author { font-size: 12px; color: var(--gold); font-style: normal; font-weight: 600; margin-top: 10px; }
+  .doktè-fey-feature {
+    background: rgba(255,255,255,0.08);
+    border-radius: 12px;
+    padding: 18px;
+    font-size: 13.5px;
+    font-family: Arial, sans-serif;
+  }
+  .doktè-fey-feature h4 { font-size: 15px; font-weight: bold; margin-bottom: 8px; color: var(--gold); }
+
+  /* ─── NEWSLETTER / CTA SECTION ─── */
+  .cta-section {
+    padding: 80px 40px;
+    background: linear-gradient(135deg, var(--gold) 0%, #e8c050 100%);
+    text-align: center;
+  }
+  .cta-section h2 { font-size: 36px; color: var(--green-dark); margin: 14px 0; }
+  .cta-section p { font-size: 17px; color: rgba(26,74,46,0.85); font-family: Arial, sans-serif; margin-bottom: 32px; }
+  .cta-form { display: flex; gap: 12px; justify-content: center; flex-wrap: wrap; }
+  .cta-form input {
+    padding: 14px 22px;
+    border: none;
+    border-radius: 8px;
+    font-size: 15px;
+    font-family: Arial, sans-serif;
+    width: 320px;
+    box-shadow: 0 2px 12px rgba(0,0,0,0.1);
+    outline: none;
+  }
+  .cta-form button {
+    padding: 14px 28px;
+    background: var(--green-dark);
+    color: white;
+    border: none;
+    border-radius: 8px;
+    font-size: 15px;
+    font-family: Arial, sans-serif;
+    font-weight: 700;
+    cursor: pointer;
+    box-shadow: 0 2px 12px rgba(0,0,0,0.15);
+  }
+
+  /* ─── FOOTER ─── */
+  footer {
+    background: var(--text-dark);
+    color: rgba(255,255,255,0.7);
+    padding: 60px 40px 30px;
+  }
+  .footer-grid {
+    max-width: 1400px;
+    margin: 0 auto;
+    display: grid;
+    grid-template-columns: 2fr 1fr 1fr 1fr;
+    gap: 40px;
+    padding-bottom: 40px;
+    border-bottom: 1px solid rgba(255,255,255,0.1);
+  }
+  .footer-brand h3 { color: white; font-size: 20px; margin-bottom: 12px; }
+  .footer-brand p { font-size: 13px; font-family: Arial, sans-serif; line-height: 1.7; margin-bottom: 18px; }
+  .footer-col h4 { color: white; font-size: 14px; font-weight: bold; font-family: Arial, sans-serif; margin-bottom: 16px; text-transform: uppercase; letter-spacing: 0.5px; }
+  .footer-col a {
+    display: block;
+    font-size: 13px;
+    font-family: Arial, sans-serif;
+    color: rgba(255,255,255,0.6);
+    text-decoration: none;
+    padding: 4px 0;
+    transition: color 0.2s;
+    cursor: pointer;
+  }
+  .footer-col a:hover { color: var(--gold); }
+  .footer-bottom {
+    max-width: 1400px;
+    margin: 0 auto;
+    padding-top: 24px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 12.5px;
+    font-family: Arial, sans-serif;
+  }
+  .footer-logos { display: flex; gap: 20px; align-items: center; }
+  .partner-logo {
+    background: rgba(255,255,255,0.1);
+    border-radius: 8px;
+    padding: 6px 14px;
+    font-size: 12px;
+    font-family: Arial, sans-serif;
+    color: rgba(255,255,255,0.6);
+  }
+
+  /* ─── ANNOUNCEMENT BANNER ─── */
+  .announce {
+    background: var(--gold);
+    padding: 10px 40px;
+    text-align: center;
+    font-family: Arial, sans-serif;
+    font-size: 13px;
+    font-weight: 600;
+    color: var(--green-dark);
+  }
+
+  /* ─── TECH ARCHITECTURE SECTION ─── */
+  .tech-section {
+    padding: 80px 40px;
+    background: var(--white);
+  }
+  .tech-inner { max-width: 1400px; margin: 0 auto; }
+  .tech-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 24px;
+    margin-top: 40px;
+  }
+  .tech-card {
+    border: 1.5px solid #e0e0e0;
+    border-radius: 16px;
+    padding: 28px 24px;
+    transition: all 0.2s;
+  }
+  .tech-card:hover { border-color: var(--green-mid); box-shadow: var(--shadow); }
+  .tech-card-icon { font-size: 36px; margin-bottom: 14px; display: block; }
+  .tech-card h3 { font-size: 17px; font-weight: bold; color: var(--green-dark); font-family: Arial, sans-serif; margin-bottom: 8px; }
+  .tech-card p { font-size: 13px; font-family: Arial, sans-serif; color: var(--text-mid); line-height: 1.6; }
+  .tech-badge {
+    display: inline-block;
+    margin-top: 12px;
+    padding: 3px 10px;
+    background: var(--green-pale);
+    color: var(--green-mid);
+    border-radius: 8px;
+    font-size: 11px;
+    font-family: Arial, sans-serif;
+    font-weight: 600;
+  }
+
+  /* section spacing utility */
+  .section-tag-mid { text-align: center; margin-bottom: 6px; }
+  .map-section .section-header, .disease-inner .section-header, .ministry-inner .section-header,
+  .tech-inner .section-header { max-width: 700px; margin: 0 auto 8px; }
+</style>
+</head>
+<body>
+
+<!-- ──────────────────── ANNOUNCEMENT ──────────────────── -->
+<div class="announce">
+  🌿 Nouveau : Base de données de 847 plantes du Grand Sud d'Haïti maintenant disponible —
+  <span style="text-decoration:underline;cursor:pointer">Explorez l'Atlas →</span>
+</div>
+
+<!-- ──────────────────── TOPBAR ──────────────────── -->
+<div class="topbar">
+  <div class="topbar-left">
+    <span>🌱 Jardin Botanique des Cayes (JBC) · 2025</span>
+    <span>|</span>
+    <span>📍 Grand Sud & Grand'Anse, Haïti</span>
+  </div>
+  <div class="topbar-right">
+    <span style="font-size:11px;margin-right:4px;">Langue / Language / Lang :</span>
+    <button class="lang-btn active">🇫🇷 Français</button>
+    <button class="lang-btn">🇺🇸 English</button>
+    <button class="lang-btn">🇭🇹 Kreyòl</button>
+  </div>
+</div>
+
+<!-- ──────────────────── HEADER ──────────────────── -->
+<header>
+  <div class="header-inner">
+    <div class="logo-area">
+      <div class="logo-icon">🌿</div>
+      <div class="logo-text">
+        <h1>PMAA Haïti</h1>
+        <p>ATLAS BOTANIQUE DU GRAND SUD · JARDIN BOTANIQUE DES CAYES</p>
+      </div>
+    </div>
+    <nav>
+      <div class="nav-item active">Accueil</div>
+      <div class="nav-item">Atlas des Plantes</div>
+      <div class="nav-item">Santé & Maladies</div>
+      <div class="nav-item">Conservation</div>
+      <div class="nav-item">Économie</div>
+      <div class="nav-item">Ministères</div>
+      <div class="nav-item">Savoir Traditionnel</div>
+    </nav>
+    <div class="nav-search">
+      <span>🔍</span>
+      <input type="text" placeholder="Rechercher une plante, maladie...">
+    </div>
+  </div>
+</header>
+
+<!-- ──────────────────── HERO ──────────────────── -->
+<section class="hero">
+  <div class="hero-content">
+    <div>
+      <div class="hero-badge">🏛️ Patrimoine Botanique National · Grand Sud d'Haïti</div>
+      <h2>Les Plantes du <span>Grand Sud</span><br>au Service de la Vie</h2>
+      <p class="hero-subtitle">
+        Plateforme nationale de référence pour les Plantes Médicinales, Aromatiques et Alimentaires
+        d'Haïti — conservation, santé, économie et bien-être communautaire.
+      </p>
+      <div class="hero-langs">
+        <div class="hero-lang-pill fr">🇫🇷 Français</div>
+        <div class="hero-lang-pill en">🇺🇸 English</div>
+        <div class="hero-lang-pill cr">🇭🇹 Kreyòl Ayisyen</div>
+      </div>
+      <div class="hero-cta">
+        <a class="btn-primary" href="#">🔍 Explorer l'Atlas des Plantes</a>
+        <a class="btn-secondary" href="#">📋 Portails Ministériels</a>
+      </div>
+    </div>
+    <div class="hero-stats">
+      <h3>📊 CHIFFRES CLÉS</h3>
+      <div class="stat-grid">
+        <div class="stat-item">
+          <span class="stat-number">5 600+</span>
+          <span class="stat-label">Espèces végétales recensées en Haïti</span>
+        </div>
+        <div class="stat-item">
+          <span class="stat-number">40%</span>
+          <span class="stat-label">Taux d'endémisme — le plus élevé des Caraïbes</span>
+        </div>
+        <div class="stat-item">
+          <span class="stat-number">80%</span>
+          <span class="stat-label">De la population utilise les plantes comme 1ère option de soins</span>
+        </div>
+        <div class="stat-item">
+          <span class="stat-number">$61,5B</span>
+          <span class="stat-label">Marché mondial PMAA projeté 2027</span>
+        </div>
+      </div>
+      <div style="margin-top:24px; padding:14px; background:rgba(200,168,75,0.15); border-radius:10px; border:1px solid rgba(200,168,75,0.3);">
+        <p style="font-size:12px; font-family:Arial; color:rgba(255,255,255,0.7); line-height:1.5;">
+          🌿 <strong style="color:var(--gold);">847 plantes</strong> documentées dans la base de données PMAA du Grand Sud —
+          disponibles en consultation pour professionnels, chercheurs et décideurs.
+        </p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ──────────────────── FEATURES STRIP ──────────────────── -->
+<div class="features-strip">
+  <div class="feature-item">
+    <div class="feature-icon-bg">🗺️</div>
+    <div class="feature-text">
+      <h4>Carte Interactive</h4>
+      <p>Distribution géographique des PMAA</p>
+    </div>
+  </div>
+  <div class="feature-item">
+    <div class="feature-icon-bg">💊</div>
+    <div class="feature-text">
+      <h4>Plantes & Maladies</h4>
+      <p>Index thérapeutique validé scientifiquement</p>
+    </div>
+  </div>
+  <div class="feature-item">
+    <div class="feature-icon-bg">📚</div>
+    <div class="feature-text">
+      <h4>Encyclopédie Botanique</h4>
+      <p>Fiches détaillées trilingues</p>
+    </div>
+  </div>
+  <div class="feature-item">
+    <div class="feature-icon-bg">🏛️</div>
+    <div class="feature-text">
+      <h4>Portails Ministériels</h4>
+      <p>Outils pour décideurs institutionnels</p>
+    </div>
+  </div>
+  <div class="feature-item">
+    <div class="feature-icon-bg">📱</div>
+    <div class="feature-text">
+      <h4>Application Mobile</h4>
+      <p>Identification terrain hors ligne</p>
+    </div>
+  </div>
+</div>
+
+<!-- ──────────────────── AUDIENCE SELECTOR ──────────────────── -->
+<section class="audience-section">
+  <div class="section-header">
+    <div class="section-tag">Portails Spécialisés</div>
+    <h2>Une plateforme pour tous les acteurs</h2>
+    <p>Accédez directement aux informations et outils adaptés à votre rôle et vos besoins spécifiques</p>
+  </div>
+  <div class="audience-grid">
+    <div class="audience-card env">
+      <span class="audience-icon">🏞️</span>
+      <h3>Ministère de l'Environnement</h3>
+      <p>Conservation, biodiversité, aires protégées, cadre légal et reboisement avec espèces natives</p>
+      <div class="audience-tag">Décideur · Conservation</div>
+    </div>
+    <div class="audience-card sante">
+      <span class="audience-icon">🏥</span>
+      <h3>Ministère de la Santé Publique</h3>
+      <p>Pharmacopée nationale, protocoles d'utilisation, prévention des intoxications et formation médicale</p>
+      <div class="audience-tag">Décideur · Santé</div>
+    </div>
+    <div class="audience-card agri">
+      <span class="audience-icon">🌾</span>
+      <h3>Ministère de l'Agriculture</h3>
+      <p>Protection, production, agroforesterie, semences et sécurité alimentaire par les PMAA</p>
+      <div class="audience-tag">Décideur · Agriculture</div>
+    </div>
+    <div class="audience-card comm">
+      <span class="audience-icon">📦</span>
+      <h3>Ministère du Commerce</h3>
+      <p>Développement de filières, certification, exportation et création d'entreprises PMAA</p>
+      <div class="audience-tag">Décideur · Commerce</div>
+    </div>
+    <div class="audience-card heal">
+      <span class="audience-icon">🌿</span>
+      <h3>Guérisseurs & Doktè Fey</h3>
+      <p>Base de données des savoirs traditionnels, identification des plantes et répertoire des usages locaux</p>
+      <div class="audience-tag">Savoirs Traditionnels</div>
+    </div>
+    <div class="audience-card user">
+      <span class="audience-icon">👨‍👩‍👧</span>
+      <h3>Grand Public & Familles</h3>
+      <p>Guides d'utilisation sécurisée, recettes, dosages recommandés et conseils de bien-être</p>
+      <div class="audience-tag">Santé Communautaire</div>
+    </div>
+    <div class="audience-card nat">
+      <span class="audience-icon">🔬</span>
+      <h3>Naturopathes & Phytothérapeutes</h3>
+      <p>Données phytochimiques, interactions médicamenteuses, protocoles cliniques et recherche</p>
+      <div class="audience-tag">Praticiens</div>
+    </div>
+    <div class="audience-card res">
+      <span class="audience-icon">🎓</span>
+      <h3>Chercheurs & Académiques</h3>
+      <p>Base de données scientifique, publications TRAMIL/PubMed, données moléculaires et ethnobotaniques</p>
+      <div class="audience-tag">Recherche</div>
+    </div>
+  </div>
+</section>
+
+<!-- ──────────────────── MAIN MODULES ──────────────────── -->
+<section class="modules-section">
+  <div class="section-header" style="text-align:center; margin-bottom:0;">
+    <div class="section-tag">Modules Principaux</div>
+    <h2>Cinq Volets de Valorisation</h2>
+    <p>La plateforme couvre l'ensemble du cycle PMAA — de la conservation à la commercialisation</p>
+  </div>
+  <div class="modules-grid">
+    <div class="module-card health">
+      <div class="module-header">
+        <span class="module-icon">💊</span>
+        <h3>Santé & Phytothérapie</h3>
+        <p>Prévention, traitement et pharmacopée nationale à base de plantes validées scientifiquement</p>
+      </div>
+      <div class="module-body">
+        <div class="module-feature health">
+          <div class="module-feature-dot health"></div>
+          <span>Fièvre, infections, maladies tropicales</span>
+        </div>
+        <div class="module-feature health">
+          <div class="module-feature-dot health"></div>
+          <span>Diabète, hypertension, maladies chroniques</span>
+        </div>
+        <div class="module-feature health">
+          <div class="module-feature-dot health"></div>
+          <span>Santé maternelle et infantile</span>
+        </div>
+        <div class="module-feature health">
+          <div class="module-feature-dot health"></div>
+          <span>Protocoles d'urgence post-catastrophes</span>
+        </div>
+        <div class="module-feature health">
+          <div class="module-feature-dot health"></div>
+          <span>Contre-indications et interactions médicamenteuses</span>
+        </div>
+      </div>
+      <div class="module-link">Accéder au module Santé <span>→</span></div>
+    </div>
+    <div class="module-card conservation">
+      <div class="module-header">
+        <span class="module-icon">🏞️</span>
+        <h3>Conservation & Biodiversité</h3>
+        <p>Préservation des espèces menacées, cartographie et plans de conservation nationale</p>
+      </div>
+      <div class="module-body">
+        <div class="module-feature conservation">
+          <div class="module-feature-dot conservation"></div>
+          <span>Espèces menacées — critères UICN</span>
+        </div>
+        <div class="module-feature conservation">
+          <div class="module-feature-dot conservation"></div>
+          <span>Carte interactive de distribution</span>
+        </div>
+        <div class="module-feature conservation">
+          <div class="module-feature-dot conservation"></div>
+          <span>Plantes patrimoniales protégées</span>
+        </div>
+        <div class="module-feature conservation">
+          <div class="module-feature-dot conservation"></div>
+          <span>Banques de semences et pépinières</span>
+        </div>
+        <div class="module-feature conservation">
+          <div class="module-feature-dot conservation"></div>
+          <span>Suivi de population et alerte précoce</span>
+        </div>
+      </div>
+      <div class="module-link">Accéder au module Conservation <span>→</span></div>
+    </div>
+    <div class="module-card economy">
+      <div class="module-header">
+        <span class="module-icon">📈</span>
+        <h3>Développement Économique</h3>
+        <p>Filières, exportation, certification et création d'entreprises à base de plantes</p>
+      </div>
+      <div class="module-body">
+        <div class="module-feature economy">
+          <div class="module-feature-dot economy"></div>
+          <span>Filière huiles essentielles & vétiver</span>
+        </div>
+        <div class="module-feature economy">
+          <div class="module-feature-dot economy"></div>
+          <span>Nutraceutiques & compléments alimentaires</span>
+        </div>
+        <div class="module-feature economy">
+          <div class="module-feature-dot economy"></div>
+          <span>Cosmétique naturelle haïtienne</span>
+        </div>
+        <div class="module-feature economy">
+          <div class="module-feature-dot economy"></div>
+          <span>Marchés USA/Canada/UE pour la diaspora</span>
+        </div>
+        <div class="module-feature economy">
+          <div class="module-feature-dot economy"></div>
+          <span>Certifications ISO, Ecocert, Cosmos</span>
+        </div>
+      </div>
+      <div class="module-link">Accéder au module Économique <span>→</span></div>
+    </div>
+    <div class="module-card wellbeing">
+      <div class="module-header">
+        <span class="module-icon">🌸</span>
+        <h3>Bien-être & Aromathérapie</h3>
+        <p>Vétiver haïtien, huiles essentielles, santé mentale et thérapies aromatiques</p>
+      </div>
+      <div class="module-body">
+        <div class="module-feature wellbeing">
+          <div class="module-feature-dot wellbeing"></div>
+          <span>Vétiver — trésor aromatique mondial (Chanel, Dior)</span>
+        </div>
+        <div class="module-feature wellbeing">
+          <div class="module-feature-dot wellbeing"></div>
+          <span>Stress, anxiété, troubles du sommeil</span>
+        </div>
+        <div class="module-feature wellbeing">
+          <div class="module-feature-dot wellbeing"></div>
+          <span>Ylang-ylang, citronnelle, basilic tropical</span>
+        </div>
+        <div class="module-feature wellbeing">
+          <div class="module-feature-dot wellbeing"></div>
+          <span>Bains thérapeutiques — tradition haïtienne</span>
+        </div>
+        <div class="module-feature wellbeing">
+          <div class="module-feature-dot wellbeing"></div>
+          <span>Santé mentale communautaire post-traumatique</span>
+        </div>
+      </div>
+      <div class="module-link">Accéder au module Bien-être <span>→</span></div>
+    </div>
+    <div class="module-card nutrition">
+      <div class="module-header">
+        <span class="module-icon">🥗</span>
+        <h3>Nutrition & Alicaments</h3>
+        <p>Superaliments, moringa, plantes nourrissantes et sécurité alimentaire</p>
+      </div>
+      <div class="module-body">
+        <div class="module-feature nutrition">
+          <div class="module-feature-dot nutrition"></div>
+          <span>Moringa — superaliment contre la malnutrition</span>
+        </div>
+        <div class="module-feature nutrition">
+          <div class="module-feature-dot nutrition"></div>
+          <span>Papayer, gingembre, curcuma, patate douce</span>
+        </div>
+        <div class="module-feature nutrition">
+          <div class="module-feature-dot nutrition"></div>
+          <span>Alicaments : plantes qui nourrissent ET soignent</span>
+        </div>
+        <div class="module-feature nutrition">
+          <div class="module-feature-dot nutrition"></div>
+          <span>Recettes thérapeutiques traditionnelles</span>
+        </div>
+        <div class="module-feature nutrition">
+          <div class="module-feature-dot nutrition"></div>
+          <span>Nutrition infantile et maternelle</span>
+        </div>
+      </div>
+      <div class="module-link">Accéder au module Nutrition <span>→</span></div>
+    </div>
+    <div class="module-card knowledge">
+      <div class="module-header">
+        <span class="module-icon">📜</span>
+        <h3>Savoir Traditionnel</h3>
+        <p>Documentation des savoirs taïnos, africains et créoles — un patrimoine vivant</p>
+      </div>
+      <div class="module-body">
+        <div class="module-feature knowledge">
+          <div class="module-feature-dot knowledge"></div>
+          <span>Ethnobotanique — usages des guérisseurs locaux</span>
+        </div>
+        <div class="module-feature knowledge">
+          <div class="module-feature-dot knowledge"></div>
+          <span>Répertoire des noms créoles et locaux</span>
+        </div>
+        <div class="module-feature knowledge">
+          <div class="module-feature-dot knowledge"></div>
+          <span>Plantes et rites spirituels vodou</span>
+        </div>
+        <div class="module-feature knowledge">
+          <div class="module-feature-dot knowledge"></div>
+          <span>Archives sonores et vidéo d'experts locaux</span>
+        </div>
+        <div class="module-feature knowledge">
+          <div class="module-feature-dot knowledge"></div>
+          <span>Protection du patrimoine intellectuel haïtien</span>
+        </div>
+      </div>
+      <div class="module-link">Accéder au module Savoir Traditionnel <span>→</span></div>
+    </div>
+  </div>
+</section>
+
+<!-- ──────────────────── PLANT ATLAS PREVIEW ──────────────────── -->
+<section class="atlas-section">
+  <div class="atlas-inner">
+    <div class="atlas-left">
+      <div class="section-tag">Encyclopédie Botanique</div>
+      <h2>Atlas des Plantes PMAA du Grand Sud</h2>
+      <p>
+        Recherchez parmi <strong>847 plantes documentées</strong> — espèces médicinales, aromatiques et alimentaires
+        du Département du Sud et de la Grand'Anse. Chaque fiche disponible en français, anglais et créole,
+        avec photos, propriétés, maladies traitées et modes de préparation.
+      </p>
+      <div class="search-bar">
+        <input type="text" placeholder="🔍  Rechercher une plante — ex: Moringa, Vétiver, Citronnelle...">
+        <button>Rechercher</button>
+      </div>
+      <div class="filter-tags">
+        <span style="font-size:12px;font-family:Arial;color:#888;margin-right:4px;">Filtrer :</span>
+        <div class="filter-tag med active">💊 Médicinale</div>
+        <div class="filter-tag arom">🌸 Aromatique</div>
+        <div class="filter-tag alim">🥗 Alimentaire</div>
+        <div class="filter-tag end">🔬 Endémique</div>
+        <div class="filter-tag men">⚠️ Menacée UICN</div>
+      </div>
+      <div class="plant-cards">
+        <div class="plant-card">
+          <span class="plant-emoji">🌿</span>
+          <div class="plant-info">
+            <h4>Moringa / Benzoliv</h4>
+            <div class="plant-latin">Moringa oleifera — Moringaceae</div>
+            <div class="plant-tags">
+              <span class="plant-tag med">Médicinale</span>
+              <span class="plant-tag alim">Alimentaire</span>
+              <span class="plant-tag prio">Prioritaire JBC</span>
+            </div>
+          </div>
+          <span class="plant-arrow">›</span>
+        </div>
+        <div class="plant-card">
+          <span class="plant-emoji">🌾</span>
+          <div class="plant-info">
+            <h4>Vétiver / Vétivè</h4>
+            <div class="plant-latin">Vetiveria zizanioides — Poaceae</div>
+            <div class="plant-tags">
+              <span class="plant-tag arom">Aromatique</span>
+              <span class="plant-tag prio">Export Mondial</span>
+            </div>
+          </div>
+          <span class="plant-arrow">›</span>
+        </div>
+        <div class="plant-card">
+          <span class="plant-emoji">🍋</span>
+          <div class="plant-info">
+            <h4>Citronnelle / Bwa Koton</h4>
+            <div class="plant-latin">Cymbopogon citratus — Poaceae</div>
+            <div class="plant-tags">
+              <span class="plant-tag med">Médicinale</span>
+              <span class="plant-tag arom">Aromatique</span>
+              <span class="plant-tag alim">Alimentaire</span>
+            </div>
+          </div>
+          <span class="plant-arrow">›</span>
+        </div>
+        <div class="plant-card">
+          <span class="plant-emoji">🌺</span>
+          <div class="plant-info">
+            <h4>Ylang-ylang / Ilang-ilang</h4>
+            <div class="plant-latin">Cananga odorata — Annonaceae</div>
+            <div class="plant-tags">
+              <span class="plant-tag arom">Aromatique</span>
+              <span class="plant-tag med">Médicinale</span>
+            </div>
+          </div>
+          <span class="plant-arrow">›</span>
+        </div>
+      </div>
+    </div>
+    <div>
+      <div class="section-tag" style="margin-bottom:14px;">Carte Interactif de Distribution</div>
+      <div class="map-placeholder">
+        <div class="map-dots">
+          <div class="map-dot d1"></div>
+          <div class="map-dot d2"></div>
+          <div class="map-dot d3"></div>
+          <div class="map-dot d4"></div>
+          <div class="map-dot d5"></div>
+        </div>
+        <span class="map-icon">🗺️</span>
+        <h3>Carte Botanique Interactive</h3>
+        <p>Grand Sud & Grand'Anse · Haïti</p>
+        <p style="margin-top:8px; font-size:12px; opacity:0.65;">847 stations de collecte géoréférencées</p>
+      </div>
+      <div style="margin-top:16px; background:white; border-radius:14px; padding:18px; box-shadow:0 2px 10px rgba(0,0,0,0.06); border: 1px solid #e0e8e0;">
+        <p style="font-size:12.5px; font-family:Arial; color:#666; font-weight:600; margin-bottom:10px; text-transform:uppercase; letter-spacing:0.5px;">Légende des couches cartographiques</p>
+        <div style="display:flex; gap:10px; flex-wrap:wrap;">
+          <div style="display:flex; align-items:center; gap:6px; font-size:12px; font-family:Arial; color:#555;">
+            <div style="width:12px;height:12px;border-radius:50%;background:#e74c3c;"></div> Médicinales
+          </div>
+          <div style="display:flex; align-items:center; gap:6px; font-size:12px; font-family:Arial; color:#555;">
+            <div style="width:12px;height:12px;border-radius:50%;background:#8e44ad;"></div> Aromatiques
+          </div>
+          <div style="display:flex; align-items:center; gap:6px; font-size:12px; font-family:Arial; color:#555;">
+            <div style="width:12px;height:12px;border-radius:50%;background:#f39c12;"></div> Alimentaires
+          </div>
+          <div style="display:flex; align-items:center; gap:6px; font-size:12px; font-family:Arial; color:#555;">
+            <div style="width:12px;height:12px;border-radius:50%;background:#27ae60;"></div> Endémiques
+          </div>
+          <div style="display:flex; align-items:center; gap:6px; font-size:12px; font-family:Arial; color:#555;">
+            <div style="width:12px;height:12px;border-radius:50%;background:#3498db;"></div> Aires protégées
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ──────────────────── DISEASE-PLANT SECTION ──────────────────── -->
+<section class="disease-section">
+  <div class="disease-inner">
+    <div class="section-header">
+      <div class="section-tag">Santé & Phytothérapie</div>
+      <h2>Plantes & Systèmes de Maladies</h2>
+      <p>Index thérapeutique validé scientifiquement — trouvez les plantes haïtiennes adaptées à chaque condition de santé</p>
+    </div>
+    <div class="disease-grid">
+      <div class="disease-card infect">
+        <span class="disease-icon">🦠</span>
+        <h3>Infections & Maladies Tropicales</h3>
+        <p>Fièvre, paludisme, dengue, grippe, infections bactériennes et virales</p>
+        <div class="disease-count">127 plantes associées</div>
+      </div>
+      <div class="disease-card chron">
+        <span class="disease-icon">❤️</span>
+        <h3>Maladies Chroniques</h3>
+        <p>Diabète, hypertension, cholestérol, maladies cardiovasculaires</p>
+        <div class="disease-count">94 plantes associées</div>
+      </div>
+      <div class="disease-card digest">
+        <span class="disease-icon">🫁</span>
+        <h3>Système Digestif</h3>
+        <p>Diarrhée, gastrites, parasitoses intestinales, dyspepsie, constipation</p>
+        <div class="disease-count">108 plantes associées</div>
+      </div>
+      <div class="disease-card mental">
+        <span class="disease-icon">🧠</span>
+        <h3>Santé Mentale & Neurologique</h3>
+        <p>Stress, anxiété, dépression, insomnie, épilepsie, traumatismes</p>
+        <div class="disease-count">72 plantes associées</div>
+      </div>
+      <div class="disease-card skin">
+        <span class="disease-icon">🖐️</span>
+        <h3>Peau & Plaies</h3>
+        <p>Plaies, brûlures, infections cutanées, eczéma, champignons, cicatrisation</p>
+        <div class="disease-count">115 plantes associées</div>
+      </div>
+      <div class="disease-card resp">
+        <span class="disease-icon">🫀</span>
+        <h3>Système Respiratoire</h3>
+        <p>Asthme, toux, bronchite, rhume, sinusite, infections pulmonaires</p>
+        <div class="disease-count">83 plantes associées</div>
+      </div>
+      <div class="disease-card matern">
+        <span class="disease-icon">🤱</span>
+        <h3>Santé Maternelle & Infantile</h3>
+        <p>Grossesse, accouchement, allaitement, nutrition infantile, fièvres néonatales</p>
+        <div class="disease-count">61 plantes associées</div>
+      </div>
+      <div class="disease-card immun">
+        <span class="disease-icon">🛡️</span>
+        <h3>Immunité & Antioxydants</h3>
+        <p>Renforcement immunitaire, anti-inflammatoires, protection cellulaire, post-Covid</p>
+        <div class="disease-count">142 plantes associées</div>
+      </div>
+    </div>
+    <div style="text-align:center; margin-top:36px;">
+      <div style="display:inline-flex;align-items:center;gap:10px;background:#fff3cd;border:1px solid #ffc107;border-radius:10px;padding:12px 22px;font-size:13px;font-family:Arial;">
+        ⚠️ <strong>Avertissement médical :</strong> Ces informations sont à titre informatif uniquement. Consultez un professionnel de santé avant tout traitement.
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ──────────────────── MINISTRY PORTALS ──────────────────── -->
+<section class="ministry-section">
+  <div class="ministry-inner">
+    <div class="section-header" style="text-align:center;">
+      <div class="section-tag" style="background:rgba(255,255,255,0.15); color:var(--gold);">Portails Institutionnels</div>
+      <h2 style="color:white; font-size:34px; margin:14px 0;">Outils pour les Décideurs</h2>
+      <p style="color:rgba(255,255,255,0.7); font-size:16px; font-family:Arial;">Chaque ministère dispose d'un portail dédié avec tableaux de bord, données et outils de politique publique</p>
+    </div>
+    <div class="ministry-grid">
+      <div class="ministry-card env">
+        <span class="ministry-emoji">🌲</span>
+        <h3>Ministère de l'Environnement</h3>
+        <p>Conservation et protection des PMAA patrimoniales dans les aires protégées du Grand Sud</p>
+        <ul class="ministry-features">
+          <li>Carte des espèces menacées UICN</li>
+          <li>Tableau de bord de la biodiversité</li>
+          <li>Plan de conservation SPANB</li>
+          <li>Suivi des populations végétales</li>
+          <li>Gestion des plantes invasives</li>
+        </ul>
+        <div class="ministry-btn">Accéder au portail Environnement →</div>
+      </div>
+      <div class="ministry-card sante">
+        <span class="ministry-emoji">🏥</span>
+        <h3>Ministère de la Santé Publique</h3>
+        <p>Développement de protocoles cliniques d'utilisation des PMAA et pharmacopée nationale</p>
+        <ul class="ministry-features">
+          <li>Protocoles d'urgence post-catastrophes</li>
+          <li>Pharmacopée nationale en construction</li>
+          <li>Alerte contre-indications & toxicité</li>
+          <li>Formation des professionnels de santé</li>
+          <li>Données épidémiologiques & plantes</li>
+        </ul>
+        <div class="ministry-btn">Accéder au portail Santé →</div>
+      </div>
+      <div class="ministry-card agri">
+        <span class="ministry-emoji">🌱</span>
+        <h3>Ministère de l'Agriculture</h3>
+        <p>Protection, production agricole et intégration des PMAA dans les systèmes alimentaires</p>
+        <ul class="ministry-features">
+          <li>Guides de culture des PMAA prioritaires</li>
+          <li>Systèmes d'agroforesterie PMAA</li>
+          <li>Banques de semences nationales</li>
+          <li>Certification des producteurs locaux</li>
+          <li>Sécurité alimentaire & nutrition</li>
+        </ul>
+        <div class="ministry-btn">Accéder au portail Agriculture →</div>
+      </div>
+      <div class="ministry-card comm">
+        <span class="ministry-emoji">🏭</span>
+        <h3>Ministère du Commerce</h3>
+        <p>Développement d'entreprises PMAA et accès aux marchés internationaux — modèle Maroc</p>
+        <ul class="ministry-features">
+          <li>Registre des entreprises PMAA</li>
+          <li>Normes ISO / Ecocert / Cosmos</li>
+          <li>Marchés export USA, Canada, UE</li>
+          <li>Marque nationale "Plantes d'Haïti"</li>
+          <li>Incubateur TPME phytothérapie</li>
+        </ul>
+        <div class="ministry-btn">Accéder au portail Commerce →</div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ──────────────────── TRADITIONAL KNOWLEDGE ──────────────────── -->
+<section class="knowledge-section">
+  <div class="knowledge-inner">
+    <div class="knowledge-text">
+      <div class="section-tag">Patrimoine Vivant</div>
+      <h2>Trois Héritages Botaniques — Une Identité Haïtienne</h2>
+      <p>
+        La richesse botanique d'Haïti est le fruit d'une confluence unique entre les savoirs
+        taïnos, africains et européens — un patrimoine précieux que la plateforme PMAA s'engage
+        à documenter, préserver et transmettre.
+      </p>
+      <div class="heritage-items">
+        <div class="heritage-item">
+          <div class="heritage-icon taino">🌺</div>
+          <div class="heritage-text">
+            <h4>Héritage Taïno</h4>
+            <p>Les premiers peuples d'Haïti avaient développé une pharmacopée complexe à partir de la flore locale, dont les savoirs survivent dans les pratiques des guérisseurs modernes.</p>
+          </div>
+        </div>
+        <div class="heritage-item">
+          <div class="heritage-icon afri">🌿</div>
+          <div class="heritage-text">
+            <h4>Héritage Africain</h4>
+            <p>Les peuples africains déportés ont enrichi le patrimoine botanique haïtien de leurs savoirs sur les plantes — des connaissances qui ont contribué à la résistance et à l'indépendance de 1804.</p>
+          </div>
+        </div>
+        <div class="heritage-item">
+          <div class="heritage-icon euro">🍃</div>
+          <div class="heritage-text">
+            <h4>Héritage Européen & Créole</h4>
+            <p>L'influence européenne a introduit de nouvelles espèces et pratiques, intégrées dans une médecine créole unique qui constitue aujourd'hui la première ligne de soins pour 80% de la population.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="knowledge-visual">
+      <h3>🌿 Les Doktè Fey — Gardiens du Savoir</h3>
+      <div class="testimonial-box">
+        "Après le séisme de 2021, nos communautés du Sud ont mobilisé spontanément leurs connaissances
+        botaniques pour faire face à l'urgence sanitaire — en l'absence quasi-totale de médicaments
+        conventionnels. Ces savoirs se sont avérés d'une valeur inestimable."
+        <div class="testimonial-author">— Équipe de terrain, Jardin Botanique des Cayes · 2021</div>
+      </div>
+      <div class="doktè-fey-feature">
+        <h4>📖 Module Doktè Fey — Guérisseurs Traditionnels</h4>
+        <p style="font-size:13px; font-family:Arial; color:rgba(255,255,255,0.8); line-height:1.6; margin-top:8px;">
+          La plateforme comprend un module dédié à la documentation et la valorisation des savoirs
+          des guérisseurs traditionnels (Doktè Fey), incluant un répertoire des noms créoles,
+          un archive de préparations traditionnelles, et un système de contribution communautaire.
+        </p>
+        <div style="margin-top:14px; display:flex; gap:10px; flex-wrap:wrap;">
+          <div style="padding:5px 12px; background:rgba(255,255,255,0.12); border-radius:8px; font-size:12px; font-family:Arial; color:rgba(255,255,255,0.8);">350+ guérisseurs répertoriés</div>
+          <div style="padding:5px 12px; background:rgba(255,255,255,0.12); border-radius:8px; font-size:12px; font-family:Arial; color:rgba(255,255,255,0.8);">12 communes couvertes</div>
+          <div style="padding:5px 12px; background:rgba(255,255,255,0.12); border-radius:8px; font-size:12px; font-family:Arial; color:rgba(255,255,255,0.8);">2 300+ préparations documentées</div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ──────────────────── TECHNOLOGY ARCHITECTURE ──────────────────── -->
+<section class="tech-section">
+  <div class="tech-inner">
+    <div class="section-header" style="text-align:center;">
+      <div class="section-tag">Architecture Technique</div>
+      <h2>Systèmes & Technologies de la Plateforme</h2>
+      <p>Une infrastructure numérique robuste, accessible et adaptée aux réalités haïtiennes</p>
+    </div>
+    <div class="tech-grid">
+      <div class="tech-card">
+        <span class="tech-card-icon">🗄️</span>
+        <h3>Base de Données Botanique</h3>
+        <p>Base de données relationnelle PostgreSQL hébergeant 847 espèces, avec données phytochimiques, géographiques, ethnobotaniques et médicales. API ouverte pour chercheurs.</p>
+        <div class="tech-badge">PostgreSQL · API REST · Open Data</div>
+      </div>
+      <div class="tech-card">
+        <span class="tech-card-icon">🗺️</span>
+        <h3>Système d'Information Géographique</h3>
+        <p>Cartographie interactive Leaflet.js avec couches SIG — distribution des espèces, aires protégées, stations de collecte et zones de risque écologique.</p>
+        <div class="tech-badge">Leaflet.js · GeoJSON · OpenStreetMap</div>
+      </div>
+      <div class="tech-card">
+        <span class="tech-card-icon">🌐</span>
+        <h3>Trilinguisme Intégral</h3>
+        <p>Contenu natif en français, anglais et créole haïtien — pas de traduction automatique. Toutes les fiches de plantes disponibles dans les trois langues avec noms vernaculaires locaux.</p>
+        <div class="tech-badge">FR · EN · KR — 100% Natif</div>
+      </div>
+      <div class="tech-card">
+        <span class="tech-card-icon">📱</span>
+        <h3>Application Mobile Hors-Ligne</h3>
+        <p>Application Android/iOS permettant l'identification des plantes sur le terrain, sans connexion internet — adaptée aux zones rurales à faible connectivité du Grand Sud.</p>
+        <div class="tech-badge">React Native · Mode hors-ligne · Android · iOS</div>
+      </div>
+      <div class="tech-card">
+        <span class="tech-card-icon">🔒</span>
+        <h3>Accès Différencié par Rôle</h3>
+        <p>Système de niveaux d'accès — données publiques pour le grand public, données phytochimiques avancées pour chercheurs et praticiens, tableaux de bord réservés aux ministères.</p>
+        <div class="tech-badge">RBAC · Auth sécurisée · Niveaux d'accès</div>
+      </div>
+      <div class="tech-card">
+        <span class="tech-card-icon">📊</span>
+        <h3>Tableaux de Bord Ministériels</h3>
+        <p>Dashboards interactifs pour chaque ministère — indicateurs de conservation, épidémiologiques, économiques et agricoles mis à jour en temps réel par les équipes JBC.</p>
+        <div class="tech-badge">React · Recharts · Données temps réel</div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ──────────────────── CTA / NEWSLETTER ──────────────────── -->
+<section class="cta-section">
+  <div class="section-tag" style="background:rgba(26,74,46,0.15); color:var(--green-dark);">Restez Informé</div>
+  <h2>Rejoignez la Communauté PMAA Haïti</h2>
+  <p>Recevez les nouvelles publications scientifiques, actualités du Jardin Botanique des Cayes et mises à jour de l'Atlas</p>
+  <div class="cta-form">
+    <input type="email" placeholder="Votre adresse email...">
+    <button>S'inscrire gratuitement →</button>
+  </div>
+  <p style="font-size:12px; color:rgba(26,74,46,0.6); margin-top:14px; font-family:Arial;">
+    Plus de 3 200 professionnels, chercheurs et décideurs déjà inscrits • Aucun spam
+  </p>
+</section>
+
+<!-- ──────────────────── FOOTER ──────────────────── -->
+<footer>
+  <div class="footer-grid">
+    <div class="footer-brand">
+      <h3>🌿 PMAA Haïti</h3>
+      <p>
+        Plateforme nationale de référence pour les Plantes Médicinales, Aromatiques et Alimentaires
+        du Grand Sud d'Haïti. Une initiative du Jardin Botanique des Cayes (JBC) —
+        depuis 2003, moteur scientifique de la botanique haïtienne.
+      </p>
+      <div style="display:flex; gap:10px;">
+        <span class="partner-logo">🏦 BRH</span>
+        <span class="partner-logo">🌱 JBC</span>
+        <span class="partner-logo">🌍 BGCI</span>
+      </div>
+    </div>
+    <div class="footer-col">
+      <h4>Modules</h4>
+      <a>Atlas des Plantes</a>
+      <a>Santé & Maladies</a>
+      <a>Conservation</a>
+      <a>Économie</a>
+      <a>Bien-être</a>
+      <a>Nutrition</a>
+      <a>Savoir Traditionnel</a>
+    </div>
+    <div class="footer-col">
+      <h4>Portails</h4>
+      <a>Environnement</a>
+      <a>Santé Publique</a>
+      <a>Agriculture</a>
+      <a>Commerce</a>
+      <a>Guérisseurs</a>
+      <a>Chercheurs</a>
+    </div>
+    <div class="footer-col">
+      <h4>Ressources</h4>
+      <a>Publications scientifiques</a>
+      <a>Pharmacopée nationale</a>
+      <a>Guide des protocoles</a>
+      <a>Application mobile</a>
+      <a>API pour chercheurs</a>
+      <a>À propos du JBC</a>
+      <a>Contact & Partenariats</a>
+    </div>
+  </div>
+  <div class="footer-bottom">
+    <span>© 2025 PMAA Haïti · Jardin Botanique des Cayes (JBC) · Tous droits réservés</span>
+    <div style="display:flex; gap:14px; align-items:center;">
+      <span>🇫🇷 Français</span>
+      <span style="opacity:0.4;">|</span>
+      <span>🇺🇸 English</span>
+      <span style="opacity:0.4;">|</span>
+      <span>🇭🇹 Kreyòl</span>
+    </div>
+  </div>
+</footer>
+
+</body>
+</html>
