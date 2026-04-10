@@ -39,10 +39,10 @@ function renderPlantes(plantesToRender) {
         <div class="plant-card bg-white rounded-2xl shadow hover:shadow-xl transition-all duration-300 overflow-hidden border border-gray-100 flex flex-col cursor-pointer group"
              onclick="showPlantDetails(${p.id})">
             <div class="relative overflow-hidden h-44">
-                <img src="${p.image || '/assets/images/placeholder.jpg'}"
+                <img src="${p.image || '/assets/images/placeholder.svg'}"
                      alt="${p.nomScientifique}"
                      class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500"
-                     onerror="this.src='/assets/images/placeholder.jpg'">
+                     onerror="this.src='/assets/images/placeholder.svg'">
                 ${toxBadge}
                 <span class="absolute bottom-2 left-2 bg-[#2c5e3b]/80 text-white text-xs px-2 py-0.5 rounded-full font-medium">
                     ${p.famille || ''}
