@@ -493,8 +493,95 @@ footer .max-w-2xl {
     .sm\:grid-cols-2 {
         grid-template-columns: 1fr;
     }
-    
+
     .text-4xl {
         font-size: 2rem;
+    }
+}
+
+/* ===== MODAL STYLES ===== */
+#plantModal {
+    display: none;
+    position: fixed;
+    inset: 0;
+    background: rgba(0, 0, 0, 0.5);
+    z-index: 1000;
+    align-items: center;
+    justify-content: center;
+    padding: 1rem;
+}
+
+#plantModal.flex {
+    display: flex;
+}
+
+#plantModal.hidden {
+    display: none;
+}
+
+#modalContent {
+    width: 100%;
+    max-width: 900px;
+    max-height: 90vh;
+    background: white;
+    border-radius: 0.75rem;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    box-shadow: 0 25px 50px -12px rgba(0, 0, 0, 0.25);
+}
+
+#modalContent .tab-btn {
+    cursor: pointer;
+    transition: all 0.3s;
+    position: relative;
+}
+
+#modalContent .tab-btn.active {
+    color: #2c5e3b;
+    border-bottom-color: #2c5e3b;
+    font-weight: 600;
+}
+
+#modalContent .tab-btn:not(.active) {
+    color: #6b7280;
+    border-bottom-color: transparent;
+}
+
+#modalContent .tab-btn:hover:not(.active) {
+    color: #2c5e3b;
+}
+
+#modalContent .tab-content {
+    display: none;
+}
+
+#modalContent .tab-content.active {
+    display: block;
+}
+
+#modalContent .tab-content h4 {
+    color: #2c5e3b;
+    font-weight: 700;
+    margin-bottom: 0.5rem;
+    font-size: 1rem;
+}
+
+#modalContent .tab-content p {
+    color: #4b5563;
+    line-height: 1.8;
+    margin-bottom: 1rem;
+}
+
+/* ===== MODAL RESPONSIVE ===== */
+@media (max-width: 768px) {
+    #modalContent {
+        max-height: 100vh;
+        border-radius: 0;
+    }
+
+    #plantModal {
+        padding: 0;
+        align-items: flex-end;
     }
 }

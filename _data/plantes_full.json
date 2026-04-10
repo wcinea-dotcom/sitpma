@@ -1,8 +1,4 @@
-// Auto-generated from plantes_full.json — enriched database
-// 271 plantes — Atlas JBC-BRH
-// Dernière mise à jour : 10 avril 2026
-
-const plantesData = [
+[
   {
     "id": 1,
     "plantId": "plt-0101",
@@ -12735,4 +12731,4 @@ const plantesData = [
     "familleImage": "891_Guaiacum_officinale-001.jpg",
     "familleNum": "90"
   }
-];
+]

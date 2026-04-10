@@ -1,135 +1,2981 @@
 - id: 1
+  plant_id: "plt-0101"
   nom_scientifique: "Ruellia tuberosa L."
-  famille: "acanthaceae"
-  image: "/assets/images/plantes/ruellia-tuberosa.jpg"
+  famille: "Acanthacées"
+  image: "images/especes/Ruellia_tuberosa/11_Ruellia_tuberosa-001.jpg"
   noms:
     fr: "Pèpèt"
-    en: "Minnie Root"
+    en: ""
     ht: "Pèpèt"
-  systemes:
-    fr: ["Digestif", "Urinaire"]
-    en: ["Digestive", "Urinary"]
-    ht: ["Dijestif", "Pipi"]
-  maladies:
-    fr: ["Troubles digestifs", "Calculs rénaux", "Diabète"]
-    en: ["Digestive issues", "Kidney stones", "Diabetes"]
-    ht: ["Pwoblèm dijesyon", "Wòch nan ren", "Dyabèt"]
-  proprietes:
-    fr: "Diurétique, anti-inflammatoire, antioxydant"
-    en: "Diuretic, anti-inflammatory, antioxidant"
-    ht: "Dyurétik, anti-enflamasyon, antioksidan"
-  utilisation:
-    fr: "Infusion des feuilles"
-    en: "Leaf infusion"
-    ht: "Fèy bouyi"
-  parties_utilisees:
-    fr: "Feuilles, racines"
-    en: "Leaves, roots"
-    ht: "Fèy, rasin"
-  preparation:
-    fr: "Infuser 5g de feuilles dans 1L d'eau bouillante pendant 10 minutes"
-    en: "Infuse 5g of leaves in 1L of boiling water for 10 minutes"
-    ht: "Enfize 5g fèy nan 1L dlo bouyi pandan 10 minit"
-  posologie:
-    fr: "1-2 tasses par jour"
-    en: "1-2 cups per day"
-    ht: "1-2 tas pa jou"
-  statut:
-    fr: "Commune"
-    en: "Common"
-    ht: "Komen"
-  origine:
-    fr: "Native"
-    en: "Native"
-    ht: "Natif natal"
-  distribution:
-    fr: ["Sud", "Grand'Anse", "Nord-Ouest"]
-    en: ["South", "Grand'Anse", "North-West"]
-    ht: ["Sid", "Grandans", "Nòdwès"]
-  altitude:
-    min: 0
-    max: 800
-  toxicite:
-    fr: "Déconseillé aux femmes enceintes. Usage modéré recommandé."
-    en: "Not recommended for pregnant women. Moderate use advised."
-    ht: "Pa rekòmande pou fanm ansent. Itilizasyon modere rekòmande."
-  description:
-    fr: |
-      ## Description botanique
-      
-      Ruellia tuberosa L., communément appelée « Pèpèt » en Haïti, est une herbacée vivace tubéreuse de la famille des Acanthaceae...
-      
-      ## Écologie et distribution
-      
-      Largement répandue dans les régions tropicales d'Amérique, elle est particulièrement commune dans le Sud et la Grand'Anse...
-      
-      ## Usages traditionnels
-      
-      Le Pèpèt est une ressource médicinale domestique majeure...
-    en: |
-      ## Botanical Description
-      
-      Ruellia tuberosa L., commonly called "Pèpèt" in Haiti, is a tuberous perennial herb of the Acanthaceae family...
-    ht: |
-      ## Deskripsyon botanik
-      
-      Ruellia tuberosa L., ke yo rele "Pèpèt" an Ayiti, se yon plant èrbase vivas ki gen rasin tubèrkil...
-  references:
-    - "TRAMIL 2014"
-    - "POWO 2023"
-    - "Flore d'Haïti Vol. 2"
+  toxicite_level: "safe"
 
 - id: 2
+  plant_id: "plt-0201"
+  nom_scientifique: "Sambucus simpsonii Rehd."
+  famille: "Adoxacées"
+  image: "images/especes/Sambucus_simpsonii/21_Sambucus_simpsonii-001.jpg"
+  noms:
+    fr: "Siwo"
+    en: "Florida Elder"
+    ht: "Siwo"
+  toxicite_level: "caution"
+
+- id: 3
+  plant_id: "plt-0301"
+  nom_scientifique: "Sesuvium portulacastrum (L.)"
+  famille: "Aizoacées"
+  image: "images/especes/Sesuvium_portulacastrum/31_Sesuvium_portulacastrum-001.jpg"
+  noms:
+    fr: "Koupye lanmè"
+    en: "Sea Purslane"
+    ht: "Koupye lanmè"
+  toxicite_level: "safe"
+
+- id: 4
+  plant_id: "plt-0401"
+  nom_scientifique: "Achyranthes aspera"
+  famille: "Amaranthacées"
+  image: "images/especes/Achyranthes_aspera/41_Achyranthes_aspera-001.jpg"
+  noms:
+    fr: "Ke rat"
+    en: "Devil's Horsewhip"
+    ht: "Ke rat"
+  toxicite_level: "safe"
+
+- id: 5
+  plant_id: "plt-0402"
+  nom_scientifique: "Amaranthus caudatus L."
+  famille: "Amaranthacées"
+  image: "images/especes/Amaranthus_caudatus/42_Amaranthus_caudatus-001.jpg"
+  noms:
+    fr: "Zepina"
+    en: "Love-lies-bleeding"
+    ht: "Zepina"
+  toxicite_level: "safe"
+
+- id: 6
+  plant_id: "plt-0403"
+  nom_scientifique: "Beta vulgaris L."
+  famille: "Amaranthacées"
+  image: "images/especes/Beta_vulgaris/43_Beta_vulgaris-001.jpg"
+  noms:
+    fr: "Bètrav"
+    en: "Beetroot"
+    ht: "Bètrav"
+  toxicite_level: "safe"
+
+- id: 7
+  plant_id: "plt-0404"
+  nom_scientifique: "Dysphania ambrosioides"
+  famille: "Amaranthacées"
+  image: "images/especes/Dysphania_ambrosioides/44_Dysphania_ambrosioides-001.jpg"
+  noms:
+    fr: "Simenkontra"
+    en: "Mexican Tea"
+    ht: "Simenkontra"
+  toxicite_level: "caution"
+
+- id: 8
+  plant_id: "plt-0501"
+  nom_scientifique: "Allium cepa L."
+  famille: "Amaryllidacées"
+  image: "images/especes/Allium_cepa/51_Allium_cepa-001.jpg"
+  noms:
+    fr: "Zonyon"
+    en: "Onion"
+    ht: "Zonyon"
+  toxicite_level: "safe"
+
+- id: 9
+  plant_id: "plt-0502"
+  nom_scientifique: "Allium porrum L."
+  famille: "Amaryllidacées"
+  image: "images/especes/Allium_porrum/52_Allium_porrum-001.png"
+  noms:
+    fr: "Poro"
+    en: "Leek"
+    ht: "Poro"
+  toxicite_level: "safe"
+
+- id: 10
+  plant_id: "plt-0503"
+  nom_scientifique: "Allium sativum L."
+  famille: "Amaryllidacées"
+  image: "images/especes/Allium_sativum/53_Allium_sativum-001.jpg"
+  noms:
+    fr: "Lay"
+    en: "Garlic"
+    ht: "Lay"
+  toxicite_level: "safe"
+
+- id: 11
+  plant_id: "plt-0504"
+  nom_scientifique: "Hippeastrum puniceum (Lam.) Voss"
+  famille: "Amaryllidacées"
+  image: "images/especes/Hippeastrum_puniceum/54_Hippeastrum_puniceum-001.jpg"
+  noms:
+    fr: "Lis, Bèl nwit"
+    en: "Barbados lily"
+    ht: "Lis, Bèl nwit"
+  toxicite_level: "caution"
+
+- id: 12
+  plant_id: "plt-0601"
+  nom_scientifique: "Anacardium occidentale L."
+  famille: "Anacardiacées"
+  image: "images/especes/Anacardium_occidentale/61_Anacardium_occidentale-001.jpg"
+  noms:
+    fr: "Ponm kajou/ nwa"
+    en: "Cashew"
+    ht: "Ponm kajou/ nwa"
+  toxicite_level: "caution"
+
+- id: 13
+  plant_id: "plt-0602"
+  nom_scientifique: "Comocladia pinnatifolia L."
+  famille: "Anacardiacées"
+  image: "images/especes/Comocladia_pinnatifolia/62_Comocladia_pinnatifolia-001.jpg"
+  noms:
+    fr: "Bwa panyòl"
+    en: "Maiden Plum"
+    ht: "Bwa panyòl"
+  toxicite_level: "caution"
+
+- id: 14
+  plant_id: "plt-0603"
+  nom_scientifique: "Mangifera indica L."
+  famille: "Anacardiacées"
+  image: "images/especes/Mangifera_indica/63_Mangifera_indica-001.jpg"
+  noms:
+    fr: "Pye mango"
+    en: "Mango"
+    ht: "Pye mango"
+  toxicite_level: "safe"
+
+- id: 15
+  plant_id: "plt-0604"
+  nom_scientifique: "Spondias mombin L."
+  famille: "Anacardiacées"
+  image: "images/especes/Spondias_mombin/64_Spondias_mombin-001.jpg"
+  noms:
+    fr: "Monben"
+    en: "Hog Plum"
+    ht: "Monben"
+  toxicite_level: "safe"
+
+- id: 16
+  plant_id: "plt-0605"
+  nom_scientifique: "Spondias purpurea L."
+  famille: "Anacardiacées"
+  image: "images/especes/Spondias_purpurea/65_Spondias_purpurea-001.jpg"
+  noms:
+    fr: "Siwèl"
+    en: "Purple Mombin"
+    ht: "Siwèl"
+  toxicite_level: "safe"
+
+- id: 17
+  plant_id: "plt-0701"
+  nom_scientifique: "Annona glabra L."
+  famille: "Annonacées"
+  image: "/assets/images/placeholder.jpg"
+  noms:
+    fr: "Kachiman maron"
+    en: "Pond apple"
+    ht: "Kachiman maron"
+  toxicite_level: "caution"
+
+- id: 18
+  plant_id: "plt-0702"
+  nom_scientifique: "Annona muricata L."
+  famille: "Annonacées"
+  image: "images/especes/Annona_muricata/72_Annona_muricata-001.jpg"
+  noms:
+    fr: "Kowosòl"
+    en: "Soursop"
+    ht: "Kowosòl"
+  toxicite_level: "caution"
+
+- id: 19
+  plant_id: "plt-0703"
+  nom_scientifique: "Annona reticulata L."
+  famille: "Annonacées"
+  image: "images/especes/Annona_reticulata/73_Annona_reticulata-001.jpg"
+  noms:
+    fr: "Kachiman kè bèf"
+    en: "Custard Apple"
+    ht: "Kachiman kè bèf"
+  toxicite_level: "caution"
+
+- id: 20
+  plant_id: "plt-0704"
+  nom_scientifique: "Annona squamosa L."
+  famille: "Annonacées"
+  image: "images/especes/Annona_squamosa/74_Annona_squamosa-001.jpg"
+  noms:
+    fr: "Kachiman zonbi"
+    en: "Sugar Apple"
+    ht: "Kachiman zonbi"
+  toxicite_level: "caution"
+
+- id: 21
+  plant_id: "plt-0705"
+  nom_scientifique: "Cananga odorata"
+  famille: "Annonacées"
+  image: "images/especes/Cananga_odorata/75_Cananga_odorata-001.jpg"
+  noms:
+    fr: "Ilang-ilang"
+    en: "Ylang-ylang"
+    ht: "Ilang-ilang"
+  toxicite_level: "safe"
+
+- id: 22
+  plant_id: "plt-0801"
+  nom_scientifique: "Apium graveolens L."
+  famille: "Apiacées"
+  image: "images/especes/Apium_graveolens/81_Apium_graveolens-001.jpg"
+  noms:
+    fr: "Seleri"
+    en: "Celery"
+    ht: "Seleri"
+  toxicite_level: "safe"
+
+- id: 23
+  plant_id: "plt-0802"
+  nom_scientifique: "Centella asiatica (L.)"
+  famille: "Apiacées"
+  image: "images/especes/Centella_asiatica/82_Centella_asiatica-001.jpg"
+  noms:
+    fr: "Gotu Kola"
+    en: "Gotu Kola"
+    ht: "Gotu Kola"
+  toxicite_level: "safe"
+
+- id: 24
+  plant_id: "plt-0803"
+  nom_scientifique: "Daucus carota L."
+  famille: "Apiacées"
+  image: "images/especes/Daucus_carota/83_Daucus_carota-001.jpg"
+  noms:
+    fr: "Kawòt"
+    en: "Carrot"
+    ht: "Kawòt"
+  toxicite_level: "safe"
+
+- id: 25
+  plant_id: "plt-0804"
+  nom_scientifique: "Eryngium foetidum L."
+  famille: "Apiacées"
+  image: "images/especes/Eryngium_foetidum/84_Eryngium_foetidum-001.jpg"
+  noms:
+    fr: "Koulan"
+    en: "Culantro"
+    ht: "Koulan"
+  toxicite_level: "safe"
+
+- id: 26
+  plant_id: "plt-0805"
+  nom_scientifique: "Foeniculum vulgare Mill."
+  famille: "Apiacées"
+  image: "images/especes/Foeniculum_vulgare/85_Foeniculum_vulgare-001.jpg"
+  noms:
+    fr: "Lanni"
+    en: "Fennel"
+    ht: "Lanni"
+  toxicite_level: "safe"
+
+- id: 27
+  plant_id: "plt-0806"
+  nom_scientifique: "Petroselinum crispum"
+  famille: "Apiacées"
+  image: "images/especes/Petroselinum_crispum/86_Petroselinum_crispum-001.jpg"
+  noms:
+    fr: "Pèsi"
+    en: "Parsley"
+    ht: "Pèsi"
+  toxicite_level: "safe"
+
+- id: 28
+  plant_id: "plt-0901"
+  nom_scientifique: "Asclepias nivea L."
+  famille: "Apocynacées"
+  image: "images/especes/Asclepias_nivea/91_Asclepias_nivea-001.jpg"
+  noms:
+    fr: "Zèb mandan bouven"
+    en: "Caribbean Milkweed"
+    ht: "Zèb mandan bouven"
+  toxicite_level: "toxic"
+
+- id: 29
+  plant_id: "plt-0902"
+  nom_scientifique: "Calotropis procera"
+  famille: "Apocynacées"
+  image: "images/especes/Calotropis_procera/92_Calotropis_procera-001.jpg"
+  noms:
+    fr: "Koton swa"
+    en: "Apple of Sodom"
+    ht: "Koton swa"
+  toxicite_level: "toxic"
+
+- id: 30
+  plant_id: "plt-0903"
+  nom_scientifique: "Catharanthus roseus"
+  famille: "Apocynacées"
+  image: "images/especes/Catharanthus_roseus/93_Catharanthus_roseus-001.jpg"
+  noms:
+    fr: "Kaka poul"
+    en: "Madagascar Periwinkle"
+    ht: "Kaka poul"
+  toxicite_level: "toxic"
+
+- id: 31
+  plant_id: "plt-0904"
+  nom_scientifique: "Nerium oleander L."
+  famille: "Apocynacées"
+  image: "images/especes/Nerium_oleander/94_Nerium_oleander-001.jpg"
+  noms:
+    fr: "Lorye"
+    en: "Oleander"
+    ht: "Lorye"
+  toxicite_level: "danger"
+
+- id: 32
+  plant_id: "plt-0905"
+  nom_scientifique: "Plumeria subsessilis"
+  famille: "Apocynacées"
+  image: "images/especes/Plumeria_subsessilis/95_Plumeria_subsessilis-001.jpg"
+  noms:
+    fr: "Franjipanye"
+    en: "Frangipani"
+    ht: "Franjipanye"
+  toxicite_level: "toxic"
+
+- id: 33
+  plant_id: "plt-0906"
+  nom_scientifique: "Tabernaemontana citrifolia"
+  famille: "Apocynacées"
+  image: "images/especes/Tabernaemontana_citrifolia/96_Tabernaemontana_citrifolia-001.jpg"
+  noms:
+    fr: "Bwa lèt"
+    en: "Milkwood"
+    ht: "Bwa lèt"
+  toxicite_level: "toxic"
+
+- id: 34
+  plant_id: "plt-0907"
+  nom_scientifique: "Thevetia peruviana"
+  famille: "Apocynacées"
+  image: "images/especes/Thevetia_peruviana/97_Thevetia_peruviana-001.jpg"
+  noms:
+    fr: "Fèy sezi"
+    en: "Yellow Oleander"
+    ht: "Fèy sezi"
+  toxicite_level: "danger"
+
+- id: 35
+  plant_id: "plt-1001"
+  nom_scientifique: "Alocasia macrorrhizos"
+  famille: "Aracées"
+  image: "/assets/images/placeholder.jpg"
+  noms:
+    fr: "Karayib grate"
+    en: "Giant Taro"
+    ht: "Karayib grate"
+  toxicite_level: "caution"
+
+- id: 36
+  plant_id: "plt-1002"
+  nom_scientifique: "Colocasia esculenta"
+  famille: "Aracées"
+  image: "images/especes/Colocasia_esculenta/102_Colocasia_esculenta-001.jpg"
+  noms:
+    fr: "Mazonbèl"
+    en: "Taro"
+    ht: "Mazonbèl"
+  toxicite_level: "caution"
+
+- id: 37
+  plant_id: "plt-1003"
+  nom_scientifique: "Philodendron consanguineum"
+  famille: "Aracées"
+  image: "images/especes/Philodendron_consanguineum/103_Philodendron_consanguineum-001.jpg"
+  noms:
+    fr: "Geritou"
+    en: "Philodendron"
+    ht: "Geritou"
+  toxicite_level: "toxic"
+
+- id: 38
+  plant_id: "plt-1004"
+  nom_scientifique: "Pistia stratiotes L."
+  famille: "Aracées"
+  image: "images/especes/Pistia_stratiotes/104_Pistia_stratiotes-001.jpg"
+  noms:
+    fr: "Lèti dlo"
+    en: "Water Lettuce"
+    ht: "Lèti dlo"
+  toxicite_level: "toxic"
+
+- id: 39
+  plant_id: "plt-1101"
+  nom_scientifique: "Dendropanax arboreus"
+  famille: "Araliacées"
+  image: "images/especes/Dendropanax_arboreus/111_Dendropanax_arboreus-001.jpg"
+  noms:
+    fr: "Bwa nègès"
+    en: "Angelica tree"
+    ht: "Bwa nègès"
+  toxicite_level: "safe"
+
+- id: 40
+  plant_id: "plt-1102"
+  nom_scientifique: "Polyscias pinnata"
+  famille: "Araliacées"
+  image: "images/especes/Polyscias_pinnata/112_Polyscias_pinnata-001.png"
+  noms:
+    fr: "Parès"
+    en: "Geranium Aralia"
+    ht: "Parès"
+  toxicite_level: "safe"
+
+- id: 41
+  plant_id: "plt-1103"
+  nom_scientifique: "Schefflera tremula"
+  famille: "Araliacées"
+  image: "images/especes/Schefflera_tremula/113_Schefflera_tremula-001.jpg"
+  noms:
+    fr: "Bwa tranble"
+    en: "-"
+    ht: "Bwa tranble"
+  toxicite_level: "safe"
+
+- id: 42
+  plant_id: "plt-1201"
+  nom_scientifique: "Aristolochia bilobata"
+  famille: "Aristolochiacées"
+  image: "images/especes/Aristolochia_bilobata/121_Aristolochia_bilobata-001.jpg"
+  noms:
+    fr: "Aniko"
+    en: "Dutchman's Pipe"
+    ht: "Aniko"
+  toxicite_level: "toxic"
+
+- id: 43
+  plant_id: "plt-1301"
+  nom_scientifique: "Caryota mitis"
+  famille: "Arécacées"
+  image: "/assets/images/placeholder.jpg"
+  noms:
+    fr: "Palmis seleri"
+    en: "Fishtail Palm"
+    ht: "Palmis seleri"
+  toxicite_level: "caution"
+
+- id: 44
+  plant_id: "plt-1302"
+  nom_scientifique: "Cocos nucifera L."
+  famille: "Arécacées"
+  image: "images/especes/Cocos_nucifera/132_Cocos_nucifera-002.jpg"
+  noms:
+    fr: "Kokoye"
+    en: "Coconut Palm"
+    ht: "Kokoye"
+  toxicite_level: "safe"
+
+- id: 45
+  plant_id: "plt-1303"
+  nom_scientifique: "Roystonea regia"
+  famille: "Arécacées"
+  image: "images/especes/Roystonea_regia/133_Roystonea_regia-001.jpg"
+  noms:
+    fr: "Palmis"
+    en: "Royal Palm"
+    ht: "Palmis"
+  toxicite_level: "safe"
+
+- id: 46
+  plant_id: "plt-1401"
+  nom_scientifique: "Agave brevispina"
+  famille: "Asparagacées"
+  image: "/assets/images/placeholder.jpg"
+  noms:
+    fr: "Galata"
+    en: "Agave"
+    ht: "Galata"
+  toxicite_level: "safe"
+
+- id: 47
+  plant_id: "plt-1402"
+  nom_scientifique: "Agave sisalana"
+  famille: "Asparagacées"
+  image: "images/especes/Agave_sisalana/142_Agave_sisalana-001.jpg"
+  noms:
+    fr: "Pit"
+    en: "Sisal"
+    ht: "Pit"
+  toxicite_level: "safe"
+
+- id: 48
+  plant_id: "plt-1403"
+  nom_scientifique: "Sansevieria hyacinthoides"
+  famille: "Asparagacées"
+  image: "images/especes/Sansevieria_hyacinthoides/143_Sansevieria_hyacinthoides-001.jpg"
+  noms:
+    fr: "Zòrèy bourik"
+    en: "Snake Plant"
+    ht: "Zòrèy bourik"
+  toxicite_level: "toxic"
+
+- id: 49
+  plant_id: "plt-1501"
+  nom_scientifique: "Aloe vera (L.)"
+  famille: "Asphodélacées"
+  image: "/assets/images/placeholder.jpg"
+  noms:
+    fr: "Lalwa"
+    en: "Aloe Vera"
+    ht: "Lalwa"
+  toxicite_level: "caution"
+
+- id: 50
+  plant_id: "plt-1601"
+  nom_scientifique: "Elekmania stenodon (Urb.) B. Nord."
+  famille: "Asteracées"
+  image: "images/especes/Elekmania_stenodon/161_Elekmania_stenodon-001.jpg"
+  noms:
+    fr: "Tisoley"
+    en: "-"
+    ht: "Tisoley"
+  toxicite_level: "danger"
+
+- id: 51
+  plant_id: "plt-1602"
+  nom_scientifique: "Gamochaeta purpurea (L.) Cabrera"
+  famille: "Asteracées"
+  image: "/assets/images/placeholder.jpg"
+  noms:
+    fr: "Gnaphale pourpre"
+    en: "Spoonleaf purple everlasting"
+    ht: ""
+  toxicite_level: "safe"
+
+- id: 52
+  plant_id: "plt-1603"
+  nom_scientifique: "Gnaphalium domingense Lam."
+  famille: "Asteracées"
+  image: "images/especes/Gnaphalium_domingense/163_Gnaphalium_domingense-001.jpg"
+  noms:
+    fr: "Gnaphale de Saint-Domingue"
+    en: "-"
+    ht: ""
+  toxicite_level: "safe"
+
+- id: 53
+  plant_id: "plt-1604"
+  nom_scientifique: "Pluchea carolinensis (Jacq.) G. Don"
+  famille: "Asteracées"
+  image: "images/especes/Pluchea_carolinensis/164_Pluchea_carolinensis-001.jpg"
+  noms:
+    fr: "Fèy tabak/Lachoy"
+    en: "Cure-for-all"
+    ht: "Fèy tabak/Lachoy"
+  toxicite_level: "safe"
+
+- id: 54
+  plant_id: "plt-1701"
+  nom_scientifique: "Artemisia annua"
+  famille: "Astéracées"
+  image: "images/especes/Artemisia_annua/171_Artemisia_annua-001.jpg"
+  noms:
+    fr: "Amwaz"
+    en: "Wormwood"
+    ht: "Amwaz"
+  toxicite_level: "toxic"
+
+- id: 55
+  plant_id: "plt-1702"
+  nom_scientifique: "Bidens pilosa L."
+  famille: "Astéracées"
+  image: "images/especes/Bidens_pilosa/172_Bidens_pilosa-001.jpg"
+  noms:
+    fr: "Zegui"
+    en: "Beggar's Ticks"
+    ht: "Zegui"
+  toxicite_level: "safe"
+
+- id: 56
+  plant_id: "plt-1703"
+  nom_scientifique: "Chromolaena odorata"
+  famille: "Astéracées"
+  image: "images/especes/Chromolaena_odorata/173_Chromolaena_odorata-001.jpg"
+  noms:
+    fr: "Laglichat"
+    en: "Siam Weed"
+    ht: "Laglichat"
+  toxicite_level: "toxic"
+
+- id: 57
+  plant_id: "plt-1704"
+  nom_scientifique: "Lactuca sativa L."
+  famille: "Astéracées"
+  image: "images/especes/Lactuca_sativa/174_Lactuca_sativa-001.jpg"
+  noms:
+    fr: "Lèti"
+    en: "Lettuce"
+    ht: "Lèti"
+  toxicite_level: "safe"
+
+- id: 58
+  plant_id: "plt-1705"
+  nom_scientifique: "Mikania micrantha"
+  famille: "Astéracées"
+  image: "images/especes/Mikania_micrantha/175_Mikania_micrantha-001.jpg"
+  noms:
+    fr: "Lyan franswaz"
+    en: "Bitter Vine"
+    ht: "Lyan franswaz"
+  toxicite_level: "safe"
+
+- id: 59
+  plant_id: "plt-1706"
+  nom_scientifique: "Neurolaena lobata"
+  famille: "Astéracées"
+  image: "images/especes/Neurolaena_lobata/176_Neurolaena_lobata-001.jpg"
+  noms:
+    fr: "Zèb a kou"
+    en: "Jackass Bitters"
+    ht: "Zèb a kou"
+  toxicite_level: "safe"
+
+- id: 60
+  plant_id: "plt-1707"
+  nom_scientifique: "Parthenium hysterophorus"
+  famille: "Astéracées"
+  image: "images/especes/Parthenium_hysterophorus/177_Parthenium_hysterophorus-001.jpg"
+  noms:
+    fr: "Lapsent"
+    en: "Whitetop Weed"
+    ht: "Lapsent"
+  toxicite_level: "toxic"
+
+- id: 61
+  plant_id: "plt-1708"
+  nom_scientifique: "Porophyllum ruderale"
+  famille: "Astéracées"
+  image: "images/especes/Porophyllum_ruderale/178_Porophyllum_ruderale-001.jpg"
+  noms:
+    fr: "Pa janbe"
+    en: "Bolivian Coriander"
+    ht: "Pa janbe"
+  toxicite_level: "safe"
+
+- id: 62
+  plant_id: "plt-1709"
+  nom_scientifique: "Sphagneticola trilobata"
+  famille: "Astéracées"
+  image: "images/especes/Sphagneticola_trilobata/179_Sphagneticola_trilobata-001.jpg"
+  noms:
+    fr: "Zèb krab"
+    en: "Wedelia"
+    ht: "Zèb krab"
+  toxicite_level: "safe"
+
+- id: 63
+  plant_id: "plt-1710"
+  nom_scientifique: "Tagetes patula L."
+  famille: "Astéracées"
+  image: "images/especes/Tagetes_patula/1710_Tagetes_patula-001.jpg"
+  noms:
+    fr: "Sousi"
+    en: "French Marigold"
+    ht: "Sousi"
+  toxicite_level: "safe"
+
+- id: 64
+  plant_id: "plt-1711"
+  nom_scientifique: "Vernonia saepium"
+  famille: "Astéracées"
+  image: "images/especes/Vernonia_saepium/1711_Vernonia_saepium-001.jpg"
+  noms:
+    fr: "Premye beny, premye te"
+    en: "-"
+    ht: "Premye beny, premye te"
+  toxicite_level: "safe"
+
+- id: 65
+  plant_id: "plt-1801"
+  nom_scientifique: "Catalpa longissima"
+  famille: "Bignoniacées"
+  image: "/assets/images/placeholder.jpg"
+  noms:
+    fr: "Bwa chèn"
+    en: "Haitian Oak"
+    ht: "Bwa chèn"
+  toxicite_level: "safe"
+
+- id: 66
+  plant_id: "plt-1802"
+  nom_scientifique: "Crescentia cujete L."
+  famille: "Bignoniacées"
+  image: "images/especes/Crescentia_cujete/182_Crescentia_cujete-001.jpg"
+  noms:
+    fr: "Kalbas"
+    en: "Calabash Tree"
+    ht: "Kalbas"
+  toxicite_level: "toxic"
+
+- id: 67
+  plant_id: "plt-1803"
+  nom_scientifique: "Ekmanianthe longiflora"
+  famille: "Bignoniacées"
+  image: "images/especes/Ekmanianthe_longiflora/183_Ekmanianthe_longiflora-001.jpg"
+  noms:
+    fr: "Bwa chèn"
+    en: "-"
+    ht: "Bwa chèn"
+  toxicite_level: "safe"
+
+- id: 68
+  plant_id: "plt-1804"
+  nom_scientifique: "Tabebuia calcicola Britton"
+  famille: "Bignoniacées"
+  image: "images/especes/Tabebuia_calcicola/184_Tabebuia_calcicola-001.jpg"
+  noms:
+    fr: "Kalbasye"
+    en: "-"
+    ht: "Kalbasye"
+  toxicite_level: "caution"
+
+- id: 69
+  plant_id: "plt-1805"
+  nom_scientifique: "Tabebuia conferta Urb."
+  famille: "Bignoniacées"
+  image: "images/especes/Tabebuia_conferta/185_Tabebuia_conferta-001.jpg"
+  noms:
+    fr: "Kalbasye"
+    en: "-"
+    ht: "Kalbasye"
+  toxicite_level: "safe"
+
+- id: 70
+  plant_id: "plt-1806"
+  nom_scientifique: "Tecoma stans (L.)"
+  famille: "Bignoniacées"
+  image: "images/especes/Tecoma_stans/186_Tecoma_stans-001.jpg"
+  noms:
+    fr: "Chevalye"
+    en: "Yellow Elder"
+    ht: "Chevalye"
+  toxicite_level: "toxic"
+
+- id: 71
+  plant_id: "plt-1901"
+  nom_scientifique: "Bixa orellana L."
+  famille: "Bixacées"
+  image: "images/especes/Bixa_orellana/191_Bixa_orellana-001.jpg"
+  noms:
+    fr: "Roukou"
+    en: "Annatto"
+    ht: "Roukou"
+  toxicite_level: "safe"
+
+- id: 72
+  plant_id: "plt-2001"
+  nom_scientifique: "Wigandia pruritiva"
+  famille: "Boraginacées"
+  image: "images/especes/Wigandia_pruritiva/204_Wigandia_Pruritiva-001.jpg"
+  noms:
+    fr: "Fey aran"
+    en: ""
+    ht: "Fey aran"
+  toxicite_level: "safe"
+
+- id: 73
+  plant_id: "plt-2002"
+  nom_scientifique: "Heliotropium indicum"
+  famille: "Boraginacées"
+  image: "images/especes/Heliotropium_indicum/201_Heliotropium_indicum-001.jpg"
+  noms:
+    fr: "Krèt kòk"
+    en: "Indian Heliotrope"
+    ht: "Krèt kòk"
+  toxicite_level: "toxic"
+
+- id: 74
+  plant_id: "plt-2003"
+  nom_scientifique: "Tournefortia hirsutissima"
+  famille: "Boraginacées"
+  image: "images/especes/Tournefortia_hirsutissima/202_Tournefortia_hirsutissima-001.jpg"
+  noms:
+    fr: "Chikchik"
+    en: "Chiggery grape"
+    ht: "Chikchik"
+  toxicite_level: "safe"
+
+- id: 75
+  plant_id: "plt-2004"
+  nom_scientifique: "Varronia serrata"
+  famille: "Boraginacées"
+  image: "images/especes/Varronia_serrata/203_Varronia_serrata-001.jpg"
+  noms:
+    fr: "-"
+    en: "Sawtooth Varronia"
+    ht: ""
+  toxicite_level: "caution"
+
+- id: 76
+  plant_id: "plt-2101"
+  nom_scientifique: "Brassica oleracea capitata"
+  famille: "Brassicacées"
+  image: "images/especes/Brassica_oleracea/211_Brassica_oleracea-001.jpg"
+  noms:
+    fr: "Chou"
+    en: "Cabbage"
+    ht: "Chou"
+  toxicite_level: "safe"
+
+- id: 77
+  plant_id: "plt-2102"
+  nom_scientifique: "Nasturtium officinale"
+  famille: "Brassicacées"
+  image: "images/especes/Nasturtium_officinale/212_Nasturtium_officinale-001.jpg"
+  noms:
+    fr: "Kreson"
+    en: "Watercress"
+    ht: "Kreson"
+  toxicite_level: "safe"
+
+- id: 78
+  plant_id: "plt-2103"
+  nom_scientifique: "Raphanus sativus L."
+  famille: "Brassicacées"
+  image: "images/especes/Raphanus_sativus/213_Raphanus_sativus-001.jpg"
+  noms:
+    fr: "Radi"
+    en: "Radish"
+    ht: "Radi"
+  toxicite_level: "safe"
+
+- id: 79
+  plant_id: "plt-2201"
+  nom_scientifique: "Ananas comosus (L.)"
+  famille: "Broméliacées"
+  image: "/assets/images/placeholder.jpg"
+  noms:
+    fr: "Anana"
+    en: "Pineapple"
+    ht: "Anana"
+  toxicite_level: "safe"
+
+- id: 80
+  plant_id: "plt-2301"
+  nom_scientifique: "Bursera simaruba (L.)"
+  famille: "Burséracées"
+  image: "/assets/images/placeholder.jpg"
+  noms:
+    fr: "Gomye"
+    en: "Gumbo-limbo"
+    ht: "Gomye"
+  toxicite_level: "safe"
+
+- id: 81
+  plant_id: "plt-2401"
+  nom_scientifique: "Opuntia ficus-indica"
+  famille: "Cactacées"
+  image: "/assets/images/placeholder.jpg"
+  noms:
+    fr: "Rakèt"
+    en: "Prickly Pear"
+    ht: "Rakèt"
+  toxicite_level: "safe"
+
+- id: 82
+  plant_id: "plt-2501"
+  nom_scientifique: "Calophyllum antillanum"
+  famille: "Calophyllacées"
+  image: "/assets/images/placeholder.jpg"
+  noms:
+    fr: "Danmari"
+    en: "Santa Maria"
+    ht: "Danmari"
+  toxicite_level: "caution"
+
+- id: 83
+  plant_id: "plt-2502"
+  nom_scientifique: "Mammea americana L."
+  famille: "Calophyllacées"
+  image: "images/especes/Mammea_americana/252_Mammea_americana-001.jpg"
+  noms:
+    fr: "Abriko"
+    en: "Mammee Apple"
+    ht: "Abriko"
+  toxicite_level: "caution"
+
+- id: 84
+  plant_id: "plt-2601"
+  nom_scientifique: "Hippobroma longiflora"
+  famille: "Campanulacées"
+  image: "images/especes/Hippobroma_longiflora/261_Hippobroma_longiflora-001.jpg"
+  noms:
+    fr: "Chebèk"
+    en: "Star of Bethlehem"
+    ht: "Chebèk"
+  toxicite_level: "danger"
+
+- id: 85
+  plant_id: "plt-2602"
+  nom_scientifique: "Lobelia assurgens L."
+  famille: "Campanulacées"
+  image: "images/especes/Lobelia_assurgens/262_Lobelia_assurgens-001.jpg"
+  noms:
+    fr: "Lang bèf"
+    en: "-"
+    ht: "Lang bèf"
+  toxicite_level: "toxic"
+
+- id: 86
+  plant_id: "plt-2701"
+  nom_scientifique: "Capparidastrum frondosum"
+  famille: "Capparacées"
+  image: "/assets/images/placeholder.jpg"
+  noms:
+    fr: ""
+    en: "Bwa kaka"
+    ht: ""
+  toxicite_level: "safe"
+
+- id: 87
+  plant_id: "plt-2801"
+  nom_scientifique: "Carica papaya L."
+  famille: "Caricacées"
+  image: "/assets/images/placeholder.jpg"
+  noms:
+    fr: "Papay"
+    en: "Papaya"
+    ht: "Papay"
+  toxicite_level: "caution"
+
+- id: 88
+  plant_id: "plt-2901"
+  nom_scientifique: "Chrysobalanus icaco L."
+  famille: "Chrysobalanacées"
+  image: "images/especes/Chrysobalanus_icaco/291_Chrysobalanus_icaco-001.jpg"
+  noms:
+    fr: "Zikak"
+    en: "Cocoplum"
+    ht: "Zikak"
+  toxicite_level: "safe"
+
+- id: 89
+  plant_id: "plt-3001"
+  nom_scientifique: "Clusia minor L."
+  famille: "Clusiacées"
+  image: "images/especes/Clusia_minor/301_Clusia_minor-001.jpg"
+  noms:
+    fr: "Ti figye"
+    en: "Balsam Apple"
+    ht: "Ti figye"
+  toxicite_level: "safe"
+
+- id: 90
+  plant_id: "plt-3002"
+  nom_scientifique: "Clusia rosea Jacq."
+  famille: "Clusiacées"
+  image: "images/especes/Clusia_rosea/302_Clusia_rosea-001.jpg"
+  noms:
+    fr: "Figye modi"
+    en: "Autograph Tree"
+    ht: "Figye modi"
+  toxicite_level: "caution"
+
+- id: 91
+  plant_id: "plt-3003"
+  nom_scientifique: "Garcinia barkeriana"
+  famille: "Clusiacées"
+  image: "images/especes/Garcinia_barkeriana/303_Garcinia_barkeriana-001.jpg"
+  noms:
+    fr: "-"
+    en: "-"
+    ht: ""
+  toxicite_level: "safe"
+
+- id: 92
+  plant_id: "plt-3101"
+  nom_scientifique: "Conocarpus erectus L."
+  famille: "Combrétacées"
+  image: "images/especes/Conocarpus_erectus/311_Conocarpus_erectus-001.jpg"
+  noms:
+    fr: "Mangliye"
+    en: "Buttonwood"
+    ht: "Mangliye"
+  toxicite_level: "safe"
+
+- id: 93
+  plant_id: "plt-3102"
+  nom_scientifique: "Terminalia catappa L."
+  famille: "Combrétacées"
+  image: "images/especes/Terminalia_catappa/312_Terminalia_catappa-001.jpg"
+  noms:
+    fr: "Zanman"
+    en: "Tropical Almond"
+    ht: "Zanman"
+  toxicite_level: "safe"
+
+- id: 94
+  plant_id: "plt-3201"
+  nom_scientifique: "Tradescantia spathacea"
+  famille: "Commélinacées"
+  image: "images/especes/Tradescantia_spathacea/321_Tradescantia_spathacea-001.jpg"
+  noms:
+    fr: "Moïse dans le berceau"
+    en: "Moses-in-the-Cradle"
+    ht: ""
+  toxicite_level: "safe"
+
+- id: 95
+  plant_id: "plt-3202"
+  nom_scientifique: "Tradescantia zebrina"
+  famille: "Commélinacées"
+  image: "images/especes/Tradescantia_zebrina/322_Tradescantia_zebrina-001.jpg"
+  noms:
+    fr: "Zèl ravèt"
+    en: "Inchplant"
+    ht: "Zèl ravèt"
+  toxicite_level: "caution"
+
+- id: 96
+  plant_id: "plt-3301"
+  nom_scientifique: "Cuscuta americana L."
+  famille: "Convolvulacées"
+  image: "images/especes/Cuscuta_americana/331_Cuscuta_americana-001.jpg"
+  noms:
+    fr: "Kouskout"
+    en: "Dodder"
+    ht: "Kouskout"
+  toxicite_level: "toxic"
+
+- id: 97
+  plant_id: "plt-3302"
+  nom_scientifique: "Ipomoea batatas (L.)"
+  famille: "Convolvulacées"
+  image: "images/especes/Ipomoea_batatas/332_Ipomoea_batatas-001.jpg"
+  noms:
+    fr: "Patat"
+    en: "Sweet Potato"
+    ht: "Patat"
+  toxicite_level: "safe"
+
+- id: 98
+  plant_id: "plt-3303"
+  nom_scientifique: "Ipomoea pes-caprae"
+  famille: "Convolvulacées"
+  image: "images/especes/Ipomoea_pes-caprae/333_Ipomoea_pes-caprae-002.jpg"
+  noms:
+    fr: "Patat lanmè"
+    en: "Railroad Vine"
+    ht: "Patat lanmè"
+  toxicite_level: "safe"
+
+- id: 99
+  plant_id: "plt-3401"
+  nom_scientifique: "Kalanchoe pinnata"
+  famille: "Crassulacées"
+  image: "images/especes/Kalanchoe_pinnata/341_Kalanchoe_pinnata-001.jpg"
+  noms:
+    fr: "Fèy lougarou"
+    en: "Life Plant"
+    ht: "Fèy lougarou"
+  toxicite_level: "caution"
+
+- id: 100
+  plant_id: "plt-3501"
+  nom_scientifique: "Cucumis melo L."
+  famille: "Cucurbitacées"
+  image: "images/especes/Cucumis_melo/351_Cucumis_melo-001.jpg"
+  noms:
+    fr: "Melon"
+    en: "Melon"
+    ht: "Melon"
+  toxicite_level: "safe"
+
+- id: 101
+  plant_id: "plt-3502"
+  nom_scientifique: "Cucurbita moschata"
+  famille: "Cucurbitacées"
+  image: "images/especes/Cucurbita_moschata/352_Cucurbita_moschata-001.jpg"
+  noms:
+    fr: "Jiromon"
+    en: "Pumpkin / Squash"
+    ht: "Jiromon"
+  toxicite_level: "safe"
+
+- id: 102
+  plant_id: "plt-3503"
+  nom_scientifique: "Luffa acutangula (L.)"
+  famille: "Cucurbitacées"
+  image: "images/especes/Luffa_acutangula/353_Luffa_acutangula-001.jpg"
+  noms:
+    fr: "Tòchon"
+    en: "Angled Luffa"
+    ht: "Tòchon"
+  toxicite_level: "caution"
+
+- id: 103
+  plant_id: "plt-3504"
+  nom_scientifique: "Momordica charantia L."
+  famille: "Cucurbitacées"
+  image: "images/especes/Momordica_charantia/354_Momordica_charantia-001.jpg"
+  noms:
+    fr: "Asosi"
+    en: "Bitter Melon"
+    ht: "Asosi"
+  toxicite_level: "toxic"
+
+- id: 104
+  plant_id: "plt-3505"
+  nom_scientifique: "Sechium edule (Jacq.)"
+  famille: "Cucurbitacées"
+  image: "images/especes/Sechium_edule/355_Sechium_edule-001.jpg"
+  noms:
+    fr: "Militon"
+    en: "Chayote"
+    ht: "Militon"
+  toxicite_level: "safe"
+
+- id: 105
+  plant_id: "plt-3601"
+  nom_scientifique: "Tapura haitiensis Urb. & Ekman"
+  famille: "Dichapetalacées"
+  image: "images/especes/Tapura_haitiensis/361_Tapura_haitiensis-001.jpg"
+  noms:
+    fr: "-"
+    en: "-"
+    ht: ""
+  toxicite_level: "safe"
+
+- id: 106
+  plant_id: "plt-3701"
+  nom_scientifique: "Acalypha alopecuroides"
+  famille: "Euphorbiacées"
+  image: "images/especes/Acalypha_alopecuroides/371_Acalypha_alopecuroides-001.jpg"
+  noms:
+    fr: "Ti ponpon"
+    en: "Foxtail Acalypha"
+    ht: "Ti ponpon"
+  toxicite_level: "safe"
+
+- id: 107
+  plant_id: "plt-3702"
+  nom_scientifique: "Croton ciliatoglandulifer Ortega"
+  famille: "Euphorbiacées"
+  image: "images/especes/Croton_ciliatoglandulifer/372_Croton_ciliatoglandulifer-001.jpg"
+  noms:
+    fr: "-"
+    en: "-"
+    ht: ""
+  toxicite_level: "caution"
+
+- id: 108
+  plant_id: "plt-3703"
+  nom_scientifique: "Croton linearis Jacq."
+  famille: "Euphorbiacées"
+  image: "images/especes/Croton_linearis/373_Croton_linearis-001.jpg"
+  noms:
+    fr: "Womaren"
+    en: "Rosemary Croton"
+    ht: "Womaren"
+  toxicite_level: "toxic"
+
+- id: 109
+  plant_id: "plt-3704"
+  nom_scientifique: "Euphorbia hirta L."
+  famille: "Euphorbiacées"
+  image: "images/especes/Euphorbia_hirta/374_Euphorbia_hirta-001.jpg"
+  noms:
+    fr: "Malonmen"
+    en: "Asthma Weed"
+    ht: "Malonmen"
+  toxicite_level: "safe"
+
+- id: 110
+  plant_id: "plt-3705"
+  nom_scientifique: "Euphorbia lactea Haw."
+  famille: "Euphorbiacées"
+  image: "images/especes/Euphorbia_lactea/375_Euphorbia_lactea-001.jpg"
+  noms:
+    fr: "Kandelab"
+    en: "Candelabra Cactus"
+    ht: "Kandelab"
+  toxicite_level: "toxic"
+
+- id: 111
+  plant_id: "plt-3706"
+  nom_scientifique: "Hippomane mancinella"
+  famille: "Euphorbiacées"
+  image: "images/especes/Hippomane_mancinella/376_Hippomane_mancinella-001.jpg"
+  noms:
+    fr: "Mansenilye"
+    en: "Manchineel"
+    ht: "Mansenilye"
+  toxicite_level: "danger"
+
+- id: 112
+  plant_id: "plt-3707"
+  nom_scientifique: "Hura crepitans L."
+  famille: "Euphorbiacées"
+  image: "images/especes/Hura_crepitans/377_Hura_crepitans-001.jpg"
+  noms:
+    fr: "Sabliye"
+    en: "Sandbox Tree"
+    ht: "Sabliye"
+  toxicite_level: "danger"
+
+- id: 113
+  plant_id: "plt-3708"
+  nom_scientifique: "Jatropha curcas L."
+  famille: "Euphorbiacées"
+  image: "images/especes/Jatropha_curcas/378_Jatropha_curcas-001.jpg"
+  noms:
+    fr: "Medsiyen"
+    en: "Physic Nut"
+    ht: "Medsiyen"
+  toxicite_level: "toxic"
+
+- id: 114
+  plant_id: "plt-3709"
+  nom_scientifique: "Jatropha gossypiifolia"
+  famille: "Euphorbiacées"
+  image: "images/especes/Jatropha_gossypiifolia/379_Jatropha_gossypiifolia-001.jpg"
+  noms:
+    fr: "Timapou / Ti medsiyen"
+    en: "Bellyache Bush"
+    ht: "Timapou / Ti medsiyen"
+  toxicite_level: "toxic"
+
+- id: 115
+  plant_id: "plt-3710"
+  nom_scientifique: "Manihot esculenta"
+  famille: "Euphorbiacées"
+  image: "images/especes/Manihot_esculenta/3710_Manihot_esculenta-001.jpg"
+  noms:
+    fr: "Manyòk"
+    en: "Cassava"
+    ht: "Manyòk"
+  toxicite_level: "caution"
+
+- id: 116
+  plant_id: "plt-3711"
+  nom_scientifique: "Ricinus communis L."
+  famille: "Euphorbiacées"
+  image: "images/especes/Ricinus_communis/3711_Ricinus_communis-001.jpg"
+  noms:
+    fr: "Maskreti"
+    en: "Castor Oil Plant"
+    ht: "Maskreti"
+  toxicite_level: "danger"
+
+- id: 117
+  plant_id: "plt-3801"
+  nom_scientifique: "Abrus precatorius L."
+  famille: "Fabacées"
+  image: "images/especes/Abrus_precatorius/381_Abrus_precatorius-001.jpg"
+  noms:
+    fr: "Lyann legliz"
+    en: "Rosary Pea"
+    ht: "Lyann legliz"
+  toxicite_level: "danger"
+
+- id: 118
+  plant_id: "plt-3802"
+  nom_scientifique: "Arachis hypogaea L."
+  famille: "Fabacées"
+  image: "images/especes/Arachis_hypogaea/382_Arachis_hypogaea-001.jpg"
+  noms:
+    fr: "Pistach"
+    en: "Peanut"
+    ht: "Pistach"
+  toxicite_level: "safe"
+
+- id: 119
+  plant_id: "plt-3803"
+  nom_scientifique: "Bauhinia divaricata L."
+  famille: "Fabacées"
+  image: "images/especes/Bauhinia_divaricata/383_Bauhinia_divaricata-001.jpg"
+  noms:
+    fr: "Ti kanson"
+    en: "Butterfly Tree"
+    ht: "Ti kanson"
+  toxicite_level: "safe"
+
+- id: 120
+  plant_id: "plt-3804"
+  nom_scientifique: "Cajanus cajan (L.)"
+  famille: "Fabacées"
+  image: "images/especes/Cajanus_cajan/384_Cajanus_cajan-001.jpg"
+  noms:
+    fr: "Pwa kongo"
+    en: "Pigeon Pea"
+    ht: "Pwa kongo"
+  toxicite_level: "safe"
+
+- id: 121
+  plant_id: "plt-3805"
+  nom_scientifique: "Haematoxylum campechianum"
+  famille: "Fabacées"
+  image: "images/especes/Haematoxylum_campechianum/385_Haematoxylum_campechianum-001.jpg"
+  noms:
+    fr: "Kanpèch"
+    en: "Logwood"
+    ht: "Kanpèch"
+  toxicite_level: "safe"
+
+- id: 122
+  plant_id: "plt-3806"
+  nom_scientifique: "Inga vera Willd."
+  famille: "Fabacées"
+  image: "images/especes/Inga_vera/386_Inga_vera-001.jpg"
+  noms:
+    fr: "Sikren"
+    en: "Inga"
+    ht: "Sikren"
+  toxicite_level: "safe"
+
+- id: 123
+  plant_id: "plt-3807"
+  nom_scientifique: "Mimosa pudica L."
+  famille: "Fabacées"
+  image: "images/especes/Mimosa_pudica/387_Mimosa_pudica-001.jpg"
+  noms:
+    fr: "Wont"
+    en: "Sensitive Plant"
+    ht: "Wont"
+  toxicite_level: "safe"
+
+- id: 124
+  plant_id: "plt-3808"
+  nom_scientifique: "Mucuna pruriens (L.)"
+  famille: "Fabacées"
+  image: "images/especes/Mucuna_pruriens/388_Mucuna_pruriens-001.jpg"
+  noms:
+    fr: "Pwa grate"
+    en: "Velvet Bean"
+    ht: "Pwa grate"
+  toxicite_level: "caution"
+
+- id: 125
+  plant_id: "plt-3809"
+  nom_scientifique: "Mucuna urens (L.)"
+  famille: "Fabacées"
+  image: "images/especes/Mucuna_urens/389_Mucuna_urens-001.jpg"
+  noms:
+    fr: "Je bourik"
+    en: "Ox-eye Bean"
+    ht: "Je bourik"
+  toxicite_level: "toxic"
+
+- id: 126
+  plant_id: "plt-3810"
+  nom_scientifique: "Phaseolus lunatus L."
+  famille: "Fabacées"
+  image: "images/especes/Phaseolus_lunatus/3810_Phaseolus_lunatus-001.jpg"
+  noms:
+    fr: "Pwa souch"
+    en: "Lima Bean"
+    ht: "Pwa souch"
+  toxicite_level: "caution"
+
+- id: 127
+  plant_id: "plt-3811"
+  nom_scientifique: "Prosopis juliflora"
+  famille: "Fabacées"
+  image: "images/especes/Prosopis_juliflora/3811_Prosopis_juliflora-001.jpg"
+  noms:
+    fr: "Bayawonn"
+    en: "Mesquite"
+    ht: "Bayawonn"
+  toxicite_level: "safe"
+
+- id: 128
+  plant_id: "plt-3812"
+  nom_scientifique: "Senna alata (L.)"
+  famille: "Fabacées"
+  image: "images/especes/Senna_alata/3812_Senna_alata-001.jpg"
+  noms:
+    fr: "Flè dat"
+    en: "Candle Bush"
+    ht: "Flè dat"
+  toxicite_level: "safe"
+
+- id: 129
+  plant_id: "plt-3813"
+  nom_scientifique: "Senna occidentalis (L.)"
+  famille: "Fabacées"
+  image: "images/especes/Senna_occidentalis/3813_Senna_occidentalis-001.jpg"
+  noms:
+    fr: "Pwa pyant"
+    en: "Coffee Senna"
+    ht: "Pwa pyant"
+  toxicite_level: "toxic"
+
+- id: 130
+  plant_id: "plt-3814"
+  nom_scientifique: "Tamarindus indica L."
+  famille: "Fabacées"
+  image: "images/especes/Tamarindus_indica/3814_Tamarindus_indica-001.jpg"
+  noms:
+    fr: "Tamaren"
+    en: "Tamarind"
+    ht: "Tamaren"
+  toxicite_level: "safe"
+
+- id: 131
+  plant_id: "plt-3901"
+  nom_scientifique: "Rhytidophyllum bicolor"
+  famille: "Gesneriacées"
+  image: "images/especes/Rhytidophyllum_bicolor/391_Rhytidophyllum_bicolor-001.jpg"
+  noms:
+    fr: "Fey aran/ kasenèt"
+    en: "-"
+    ht: "Fey aran/ kasenèt"
+  toxicite_level: "safe"
+
+- id: 132
+  plant_id: "plt-4001"
+  nom_scientifique: "Heliconia bihai (L.) L."
+  famille: "Heliconiacées"
+  image: "images/especes/Heliconia_bihai/401_Heliconia_bihai-001.jpg"
+  noms:
+    fr: "Banann mawon"
+    en: "Macaw flower"
+    ht: "Banann mawon"
+  toxicite_level: "safe"
+
+- id: 133
+  plant_id: "plt-4101"
+  nom_scientifique: "Hernandia obovata"
+  famille: "Hernandiacées"
+  image: "images/especes/Hernandia_obovata/411_Hernandia_obovata-001.jpg"
+  noms:
+    fr: "Mabilo"
+    en: "-"
+    ht: "Mabilo"
+  toxicite_level: "safe"
+
+- id: 134
+  plant_id: "plt-4201"
+  nom_scientifique: "Clerodendrum spinosum"
+  famille: "Lamiacées"
+  image: "images/especes/Clerodendrum_spinosum/421_Clerodendrum_spinosum-001.jpg"
+  noms:
+    fr: "Je mouton"
+    en: "-"
+    ht: "Je mouton"
+  toxicite_level: "caution"
+
+- id: 135
+  plant_id: "plt-4202"
+  nom_scientifique: "Coleus barbatus (Andr.) Benth."
+  famille: "Lamiacées"
+  image: "images/especes/Coleus_barbatus/422_Coleus_barbatus-001.jpg"
+  noms:
+    fr: "Coléus"
+    en: "Indian Coleus"
+    ht: ""
+  toxicite_level: "caution"
+
+- id: 136
+  plant_id: "plt-4203"
+  nom_scientifique: "Melissa officinalis L."
+  famille: "Lamiacées"
+  image: "images/especes/Melissa_officinalis/423_Melissa_officinalis-001.jpg"
+  noms:
+    fr: "Melis"
+    en: "Lemon Balm"
+    ht: "Melis"
+  toxicite_level: "safe"
+
+- id: 137
+  plant_id: "plt-4204"
+  nom_scientifique: "Mentha nemorosa Willd."
+  famille: "Lamiacées"
+  image: "images/especes/Mentha_nemorosa/424_Mentha_nemorosa-001.jpg"
+  noms:
+    fr: "Ti bonm"
+    en: "Mint"
+    ht: "Ti bonm"
+  toxicite_level: "safe"
+
+- id: 138
+  plant_id: "plt-4205"
+  nom_scientifique: "Ocimum basilicum L."
+  famille: "Lamiacées"
+  image: "images/especes/Ocimum_basilicum/425_Ocimum_basilicum-001.jpg"
+  noms:
+    fr: "Bazilik"
+    en: "Basil"
+    ht: "Bazilik"
+  toxicite_level: "safe"
+
+- id: 139
+  plant_id: "plt-4206"
+  nom_scientifique: "Ocimum gratissimum L."
+  famille: "Lamiacées"
+  image: "images/especes/Ocimum_gratissimum/426_Ocimum_gratissimum-001.jpg"
+  noms:
+    fr: "Fobazen"
+    en: "African Basil"
+    ht: "Fobazen"
+  toxicite_level: "safe"
+
+- id: 140
+  plant_id: "plt-4207"
+  nom_scientifique: "Plectranthus amboinicus"
+  famille: "Lamiacées"
+  image: "images/especes/Plectranthus_amboinicus/427_Plectranthus_amboinicus-001.jpg"
+  noms:
+    fr: "Gwo ten"
+    en: "Mexican Mint"
+    ht: "Gwo ten"
+  toxicite_level: "safe"
+
+- id: 141
+  plant_id: "plt-4208"
+  nom_scientifique: "Salvia rosmarinus (L.)"
+  famille: "Lamiacées"
+  image: "images/especes/Salvia_rosmarinus/428_Salvia_rosmarinus-001.jpg"
+  noms:
+    fr: "Womaren"
+    en: "Rosemary"
+    ht: "Womaren"
+  toxicite_level: "safe"
+
+- id: 142
+  plant_id: "plt-4209"
+  nom_scientifique: "Thymus vulgaris L."
+  famille: "Lamiacées"
+  image: "images/especes/Thymus_vulgaris/429_Thymus_vulgaris-001.jpg"
+  noms:
+    fr: "Ten"
+    en: "Thyme"
+    ht: "Ten"
+  toxicite_level: "safe"
+
+- id: 143
+  plant_id: "plt-4301"
+  nom_scientifique: "Cinnamomum verum"
+  famille: "Lauracées"
+  image: "images/especes/Cinnamomum_verum/431_Cinnamomum_verum-001.jpg"
+  noms:
+    fr: "Kannèl"
+    en: "Cinnamon"
+    ht: "Kannèl"
+  toxicite_level: "safe"
+
+- id: 144
+  plant_id: "plt-4302"
+  nom_scientifique: "Persea americana Mill."
+  famille: "Lauracées"
+  image: "images/especes/Persea_americana/432_Persea_americana-001.jpg"
+  noms:
+    fr: "Zaboka"
+    en: "Avocado"
+    ht: "Zaboka"
+  toxicite_level: "safe"
+
+- id: 145
+  plant_id: "plt-4401"
+  nom_scientifique: "Spigelia anthelmia L."
+  famille: "Loganiacées"
+  image: "images/especes/Spigelia_anthelmia/441_Spigelia_anthelmia-001.jpg"
+  noms:
+    fr: "Zèb vè"
+    en: "Wormgrass"
+    ht: "Zèb vè"
+  toxicite_level: "toxic"
+
+- id: 146
+  plant_id: "plt-4501"
+  nom_scientifique: "Punica granatum L."
+  famille: "Lythracées"
+  image: "images/especes/Punica_granatum/451_Punica_granatum-001.jpg"
+  noms:
+    fr: "Grenad"
+    en: "Pomegranate"
+    ht: "Grenad"
+  toxicite_level: "caution"
+
+- id: 147
+  plant_id: "plt-4601"
+  nom_scientifique: "Bunchosia glandulosa"
+  famille: "Malpighiacées"
+  image: "/assets/images/placeholder.jpg"
+  noms:
+    fr: "Bwa kaka"
+    en: "-"
+    ht: "Bwa kaka"
+  toxicite_level: "safe"
+
+- id: 148
+  plant_id: "plt-4602"
+  nom_scientifique: "Malpighia emarginata"
+  famille: "Malpighiacées"
+  image: "images/especes/Malpighia_emarginata/462_Malpighia_emarginata-001.jpg"
+  noms:
+    fr: "Seriz"
+    en: "Acerola / Cherry"
+    ht: "Seriz"
+  toxicite_level: "safe"
+
+- id: 149
+  plant_id: "plt-4701"
+  nom_scientifique: "Abelmoschus esculentus"
+  famille: "Malvacées"
+  image: "images/especes/Abelmoschus_esculentus/471_Abelmoschus_esculentus-001.jpg"
+  noms:
+    fr: "Kalalou"
+    en: "Okra"
+    ht: "Kalalou"
+  toxicite_level: "safe"
+
+- id: 150
+  plant_id: "plt-4702"
+  nom_scientifique: "Abutilon abutiloides"
+  famille: "Malvacées"
+  image: "images/especes/Abutilon_abutiloides/472_Abutilon_abutiloides-001.jpg"
+  noms:
+    fr: "Pete vye granmoun"
+    en: "Indian Mallow"
+    ht: "Pete vye granmoun"
+  toxicite_level: "safe"
+
+- id: 151
+  plant_id: "plt-4703"
+  nom_scientifique: "Ceiba pentandra (L.) Gaertn."
+  famille: "Malvacées"
+  image: "images/especes/Ceiba_pentandra/473_Ceiba_pentandra-001.jpg"
+  noms:
+    fr: "Mapou"
+    en: "Kapok tree"
+    ht: "Mapou"
+  toxicite_level: "safe"
+
+- id: 152
+  plant_id: "plt-4704"
+  nom_scientifique: "Corchorus siliquosus L."
+  famille: "Malvacées"
+  image: "images/especes/Corchorus_siliquosus/474_Corchorus_siliquosus-001.jpg"
+  noms:
+    fr: "Ti lalo"
+    en: "Jute"
+    ht: "Ti lalo"
+  toxicite_level: "safe"
+
+- id: 153
+  plant_id: "plt-4705"
+  nom_scientifique: "Guazuma ulmifolia Lam."
+  famille: "Malvacées"
+  image: "images/especes/Guazuma_ulmifolia/475_Guazuma_ulmifolia-001.jpg"
+  noms:
+    fr: "Bwa dòm"
+    en: "West Indian Elm"
+    ht: "Bwa dòm"
+  toxicite_level: "safe"
+
+- id: 154
+  plant_id: "plt-4706"
+  nom_scientifique: "Hibiscus rosa-sinensis"
+  famille: "Malvacées"
+  image: "/assets/images/placeholder.jpg"
+  noms:
+    fr: "Choublak"
+    en: "Hibiscus"
+    ht: "Choublak"
+  toxicite_level: "safe"
+
+- id: 155
+  plant_id: "plt-4707"
+  nom_scientifique: "Pavonia spinifex (L.)"
+  famille: "Malvacées"
+  image: "images/especes/Pavonia_spinifex/477_Pavonia_spinifex-001.jpg"
+  noms:
+    fr: "Gran kouzen"
+    en: "Gingerbush"
+    ht: "Gran kouzen"
+  toxicite_level: "safe"
+
+- id: 156
+  plant_id: "plt-4708"
+  nom_scientifique: "Sida acuta Burm. f."
+  famille: "Malvacées"
+  image: "images/especes/Sida_acuta/478_Sida_acuta-001.jpg"
+  noms:
+    fr: "Ti lalo"
+    en: "Wireweed"
+    ht: "Ti lalo"
+  toxicite_level: "safe"
+
+- id: 157
+  plant_id: "plt-4709"
+  nom_scientifique: "Theobroma cacao L."
+  famille: "Malvacées"
+  image: "images/especes/Theobroma_cacao/479_Theobroma_cacao-001.jpg"
+  noms:
+    fr: "Kakao"
+    en: "Cocoa"
+    ht: "Kakao"
+  toxicite_level: "caution"
+
+- id: 158
+  plant_id: "plt-4710"
+  nom_scientifique: "Thespesia populnea (L.)"
+  famille: "Malvacées"
+  image: "images/especes/Thespesia_populnea/4710_Thespesia_populnea-001.jpg"
+  noms:
+    fr: "Fèy dayiti"
+    en: "Portia Tree"
+    ht: "Fèy dayiti"
+  toxicite_level: "caution"
+
+- id: 159
+  plant_id: "plt-4711"
+  nom_scientifique: "Urena lobata L."
+  famille: "Malvacées"
+  image: "images/especes/Urena_lobata/4711_Urena_lobata-001.jpg"
+  noms:
+    fr: "Kouzen"
+    en: "Caesarweed"
+    ht: "Kouzen"
+  toxicite_level: "safe"
+
+- id: 160
+  plant_id: "plt-4712"
+  nom_scientifique: "Wercklea hottensis"
+  famille: "Malvacées"
+  image: "images/especes/Wercklea_hottensis/4712_Wercklea_hottensis-001.jpg"
+  noms:
+    fr: "Maho"
+    en: "-"
+    ht: "Maho"
+  toxicite_level: "safe"
+
+- id: 161
+  plant_id: "plt-4801"
+  nom_scientifique: "Meriana brevipenduculata"
+  famille: "Melastomatacées"
+  image: "images/especes/Meriana_brevipenduculata/481_Meriana_Brevipenduculata-001.jpg"
+  noms:
+    fr: "Flèmalarèz"
+    en: "-"
+    ht: "Flèmalarèz"
+  toxicite_level: "safe"
+
+- id: 162
+  plant_id: "plt-4901"
+  nom_scientifique: "Cissampelos pareira L."
+  famille: "Menispermacées"
+  image: "images/especes/Cissampelos_pareira/491_Cissampelos_pareira-001.jpg"
+  noms:
+    fr: "Pat shwal"
+    en: "Velvetleaf"
+    ht: "Pat shwal"
+  toxicite_level: "toxic"
+
+- id: 163
+  plant_id: "plt-5001"
+  nom_scientifique: "Artocarpus altilis"
+  famille: "Moracées"
+  image: "images/especes/Artocarpus_altilis/501_Artocarpus_altilis-001.jpg"
+  noms:
+    fr: "Lam veritab"
+    en: "Breadfruit"
+    ht: "Lam veritab"
+  toxicite_level: "safe"
+
+- id: 164
+  plant_id: "plt-5002"
+  nom_scientifique: "Artocarpus communis"
+  famille: "Moracées"
+  image: "images/especes/Artocarpus_communis/502_Artocarpus_communis-001.jpg"
+  noms:
+    fr: "Lam veritab"
+    en: "Breadfruit"
+    ht: "Lam veritab"
+  toxicite_level: "safe"
+
+- id: 165
+  plant_id: "plt-5003"
+  nom_scientifique: "Artocarpus jaca"
+  famille: "Moracées"
+  image: "images/especes/Artocarpus_jaca/503_Artocarpus_jaca-001.jpg"
+  noms:
+    fr: "Jak"
+    en: "Jackfruit"
+    ht: "Jak"
+  toxicite_level: "safe"
+
+- id: 166
+  plant_id: "plt-5101"
   nom_scientifique: "Moringa oleifera Lam."
-  famille: "moringaceae"
-  image: "/assets/images/plantes/moringa-oleifera.jpg"
+  famille: "Moringacées"
+  image: "images/especes/Moringa_oleifera/511_Moringa_oleifera-001.jpg"
   noms:
     fr: "Benzoliv"
-    en: "Moringa"
+    en: "Drumstick Tree"
     ht: "Benzoliv"
-  systemes:
-    fr: ["Immunitaire", "Nutrition", "Digestif"]
-    en: ["Immune", "Nutrition", "Digestive"]
-    ht: ["Iminitè", "Nitrisyon", "Dijestif"]
-  maladies:
-    fr: ["Malnutrition", "Anémie", "Diabète"]
-    en: ["Malnutrition", "Anemia", "Diabetes"]
-    ht: ["Malnitrisyon", "Anemi", "Dyabèt"]
-  proprietes:
-    fr: "Nutritif, antioxydant, anti-inflammatoire"
-    en: "Nutritious, antioxidant, anti-inflammatory"
-    ht: "Nitritif, antioksidan, anti-enflamasyon"
-  utilisation:
-    fr: "Feuilles en poudre, infusion"
-    en: "Powdered leaves, infusion"
-    ht: "Fèy an poud, enfizyon"
-  parties_utilisees:
-    fr: "Feuilles, graines, racines"
-    en: "Leaves, seeds, roots"
-    ht: "Fèy, grenn, rasin"
-  preparation:
-    fr: "Sécher les feuilles et réduire en poudre"
-    en: "Dry leaves and grind into powder"
-    ht: "Seche fèy yo epi pile an poud"
-  posologie:
-    fr: "1 cuillère à café par jour"
-    en: "1 teaspoon per day"
-    ht: "1 ti kiyè pa jou"
-  statut:
-    fr: "Cultivée"
-    en: "Cultivated"
-    ht: "Kiltive"
-  origine:
-    fr: "Exotique (Inde)"
-    en: "Exotic (India)"
-    ht: "Egzotik (Peyi Zend)"
-  description:
-    fr: |
-      ## Description botanique
-      
-      Le Moringa oleifera, appelé « Benzoliv » en Haïti, est un arbre à croissance rapide originaire d'Inde...
-  references:
-    - "FAO 2020"
-    - "Journal of Ethnopharmacology 2019"
+  toxicite_level: "safe"
 
-# ... et ainsi de suite pour 300 plantes
+- id: 167
+  plant_id: "plt-5201"
+  nom_scientifique: "Musa balbisiana"
+  famille: "Musacées"
+  image: "images/especes/Musa_paradisiaca/521_Musa_paradisiaca-001.jpg"
+  noms:
+    fr: "Bannann"
+    en: "Banana / Plantain"
+    ht: "Bannann"
+  toxicite_level: "safe"
+
+- id: 168
+  plant_id: "plt-5301"
+  nom_scientifique: "Calyptranthes nummularia"
+  famille: "Myrtacées"
+  image: "/assets/images/placeholder.jpg"
+  noms:
+    fr: "Gwo kanèl"
+    en: "-"
+    ht: "Gwo kanèl"
+  toxicite_level: "safe"
+
+- id: 169
+  plant_id: "plt-5302"
+  nom_scientifique: "Eucalyptus globulus"
+  famille: "Myrtacées"
+  image: "images/especes/Eucalyptus_globulus/532_Eucalyptus_globulus-001.jpg"
+  noms:
+    fr: "Ekaliptis"
+    en: "Blue Gum"
+    ht: "Ekaliptis"
+  toxicite_level: "caution"
+
+- id: 170
+  plant_id: "plt-5303"
+  nom_scientifique: "Eugenia crenulata"
+  famille: "Myrtacées"
+  image: "images/especes/Eugenia_crenulata/533_Eugenia_crenulata-001.jpg"
+  noms:
+    fr: "Zodevan"
+    en: "-"
+    ht: "Zodevan"
+  toxicite_level: "safe"
+
+- id: 171
+  plant_id: "plt-5304"
+  nom_scientifique: "Eugenia jambos L."
+  famille: "Myrtacées"
+  image: "images/especes/Eugenia_jambos/534_Eugenia_jambos-001.jpg"
+  noms:
+    fr: "Ponm woz"
+    en: "Rose Apple"
+    ht: "Ponm woz"
+  toxicite_level: "caution"
+
+- id: 172
+  plant_id: "plt-5305"
+  nom_scientifique: "Myrica picardae"
+  famille: "Myrtacées"
+  image: "images/especes/Myrica_picardae/535_Myrica_picardae-001.jpg"
+  noms:
+    fr: "Ti kanèl"
+    en: "-"
+    ht: "Ti kanèl"
+  toxicite_level: "safe"
+
+- id: 173
+  plant_id: "plt-5306"
+  nom_scientifique: "Pimenta racemosa"
+  famille: "Myrtacées"
+  image: "images/especes/Pimenta_racemosa/536_Pimenta_racemosa-001.jpg"
+  noms:
+    fr: "Bwadenn"
+    en: "Bay Rum Tree"
+    ht: "Bwadenn"
+  toxicite_level: "safe"
+
+- id: 174
+  plant_id: "plt-5307"
+  nom_scientifique: "Psidium guajava"
+  famille: "Myrtacées"
+  image: "images/especes/Psidium_guajava/537_Psidium_guajava-001.jpg"
+  noms:
+    fr: "Gouyav"
+    en: "Guava"
+    ht: "Gouyav"
+  toxicite_level: "safe"
+
+- id: 175
+  plant_id: "plt-5401"
+  nom_scientifique: "Azadirachta indica"
+  famille: "Méliacées"
+  image: "images/especes/Azadirachta_indica/541_Azadirachta_indica-001.jpg"
+  noms:
+    fr: "Nim / Bwa leta"
+    en: "Neem"
+    ht: "Nim / Bwa leta"
+  toxicite_level: "safe"
+
+- id: 176
+  plant_id: "plt-5402"
+  nom_scientifique: "Cedrela odorata L."
+  famille: "Méliacées"
+  image: "images/especes/Cedrela_odorata/542_Cedrela_odorata-001.jpg"
+  noms:
+    fr: "Sèd"
+    en: "Spanish Cedar"
+    ht: "Sèd"
+  toxicite_level: "safe"
+
+- id: 177
+  plant_id: "plt-5403"
+  nom_scientifique: "Guarea guidonia"
+  famille: "Méliacées"
+  image: "images/especes/Guarea_guidonia/543_Guarea_guidonia-001.jpg"
+  noms:
+    fr: "Bwa wouj"
+    en: "Muskwood"
+    ht: "Bwa wouj"
+  toxicite_level: "caution"
+
+- id: 178
+  plant_id: "plt-5404"
+  nom_scientifique: "Melia azedarach L."
+  famille: "Méliacées"
+  image: "images/especes/Melia_azedarach/544_Melia_azedarach-001.jpg"
+  noms:
+    fr: "Lila peyi"
+    en: "Chinaberry"
+    ht: "Lila peyi"
+  toxicite_level: "toxic"
+
+- id: 179
+  plant_id: "plt-5405"
+  nom_scientifique: "Swietenia mahagoni (L.)"
+  famille: "Méliacées"
+  image: "images/especes/Swietenia_mahagoni/545_Swietenia_mahagoni-001.jpg"
+  noms:
+    fr: "Kajou"
+    en: "Mahogany"
+    ht: "Kajou"
+  toxicite_level: "safe"
+
+- id: 180
+  plant_id: "plt-5406"
+  nom_scientifique: "Trichilia hirta"
+  famille: "Méliacées"
+  image: "images/especes/Trichilia_hirta/546_Trichilia_hirta-001.jpg"
+  noms:
+    fr: "Monben bata"
+    en: "Broomstick"
+    ht: "Monben bata"
+  toxicite_level: "safe"
+
+- id: 181
+  plant_id: "plt-5407"
+  nom_scientifique: "Trichilia pallida Sw."
+  famille: "Méliacées"
+  image: "images/especes/Trichilia_pallida/547_Trichilia_pallida-001.jpg"
+  noms:
+    fr: "Bwa arada"
+    en: "-"
+    ht: "Bwa arada"
+  toxicite_level: "safe"
+
+- id: 182
+  plant_id: "plt-5601"
+  nom_scientifique: "Mirabilis jalapa L."
+  famille: "Nyctaginacées"
+  image: "images/especes/Mirabilis_jalapa/551_Mirabilis_jalapa-001.jpg"
+  noms:
+    fr: "Bèl de nwi"
+    en: "Four O'Clock"
+    ht: "Bèl de nwi"
+  toxicite_level: "caution"
+
+- id: 183
+  plant_id: "plt-5701"
+  nom_scientifique: "Ximenia americana L."
+  famille: "Olacacées"
+  image: "images/especes/Ximenia_americana/561_Ximenia_americana-001.jpg"
+  noms:
+    fr: "Pwa savann"
+    en: "Tallow wood"
+    ht: "Pwa savann"
+  toxicite_level: "safe"
+
+- id: 184
+  plant_id: "plt-5801"
+  nom_scientifique: "Averrhoa bilimbi L."
+  famille: "Oxalidacées"
+  image: "images/especes/Averrhoa_bilimbi/571_Averrhoa_bilimbi-001.jpg"
+  noms:
+    fr: "Blinblin"
+    en: "Bilimbi"
+    ht: "Blinblin"
+  toxicite_level: "caution"
+
+- id: 185
+  plant_id: "plt-5802"
+  nom_scientifique: "Averrhoa carambola L."
+  famille: "Oxalidacées"
+  image: "images/especes/Averrhoa_carambola/572_Averrhoa_carambola-001.jpg"
+  noms:
+    fr: "Karanbòl"
+    en: "Starfruit"
+    ht: "Karanbòl"
+  toxicite_level: "caution"
+
+- id: 186
+  plant_id: "plt-5901"
+  nom_scientifique: "Argemone mexicana L."
+  famille: "Papavéracées"
+  image: "images/especes/Argemone_mexicana/581_Argemone_mexicana-001.jpg"
+  noms:
+    fr: "Chadwon"
+    en: "Mexican Poppy"
+    ht: "Chadwon"
+  toxicite_level: "toxic"
+
+- id: 187
+  plant_id: "plt-5902"
+  nom_scientifique: "Bocconia frutescens L."
+  famille: "Papavéracées"
+  image: "images/especes/Bocconia_frutescens/582_Bocconia_frutescens-001.jpg"
+  noms:
+    fr: "Bocconia frutecens"
+    en: "Parrot Weed"
+    ht: "Bocconia frutecens"
+  toxicite_level: "toxic"
+
+- id: 188
+  plant_id: "plt-6001"
+  nom_scientifique: "Passiflora edulis Sims"
+  famille: "Passifloracées"
+  image: "images/especes/Passiflora_edulis/591_Passiflora_edulis-001.jpg"
+  noms:
+    fr: "Grenadya"
+    en: "Passion Fruit"
+    ht: "Grenadya"
+  toxicite_level: "safe"
+
+- id: 189
+  plant_id: "plt-6002"
+  nom_scientifique: "Passiflora quadrangularis"
+  famille: "Passifloracées"
+  image: "images/especes/Passiflora_quadrangularis/592_Passiflora_quadrangularis-001.jpg"
+  noms:
+    fr: "Grenadin"
+    en: "Giant Granadilla"
+    ht: "Grenadin"
+  toxicite_level: "safe"
+
+- id: 190
+  plant_id: "plt-6003"
+  nom_scientifique: "Turnera diffusa Willd."
+  famille: "Passifloracées"
+  image: "images/especes/Turnera_diffusa/593_Turnera_diffusa-001.jpg"
+  noms:
+    fr: "Ten savann"
+    en: "Damiana"
+    ht: "Ten savann"
+  toxicite_level: "safe"
+
+- id: 191
+  plant_id: "plt-6101"
+  nom_scientifique: "Ternstroemia barker"
+  famille: "Pentaphyllacées"
+  image: "images/especes/Ternstroemia_barkeri/601_Ternstroemia_barkeri-001.jpg"
+  noms:
+    fr: "Abriko mawon"
+    en: ""
+    ht: "Abriko mawon"
+  toxicite_level: "safe"
+
+- id: 192
+  plant_id: "plt-6201"
+  nom_scientifique: "Phyllanthus niruri"
+  famille: "Phyllanthacées"
+  image: "images/especes/Phyllanthus_niruri/611_Phyllanthus_niruri-001.jpg"
+  noms:
+    fr: "Dèyè do"
+    en: "Stonebreaker"
+    ht: "Dèyè do"
+  toxicite_level: "safe"
+
+- id: 193
+  plant_id: "plt-6301"
+  nom_scientifique: "Phytolacca rivinoides"
+  famille: "Phytolaccacées"
+  image: "images/especes/Phytolacca_rivinoides/621_Phytolacca_rivinoides-001.jpg"
+  noms:
+    fr: "Lyan klou"
+    en: "Pokeberry"
+    ht: "Lyan klou"
+  toxicite_level: "toxic"
+
+- id: 194
+  plant_id: "plt-6302"
+  nom_scientifique: "Trichostigma octandrum"
+  famille: "Phytolaccacées"
+  image: "images/especes/Trichostigma_octandrum/622_Trichostigma_octandrum-001.jpg"
+  noms:
+    fr: "Lyan panye"
+    en: "Hoop Vine"
+    ht: "Lyan panye"
+  toxicite_level: "safe"
+
+- id: 195
+  plant_id: "plt-6401"
+  nom_scientifique: "Pinus occidentalis"
+  famille: "Pinacées"
+  image: "images/especes/Pinus_occidentalis/631_Pinus_occidentalis-001.jpg"
+  noms:
+    fr: "Bwa pen"
+    en: "Hispaniolan Pine"
+    ht: "Bwa pen"
+  toxicite_level: "safe"
+
+- id: 196
+  plant_id: "plt-6501"
+  nom_scientifique: "Manekia urbanii Trel."
+  famille: "Piperacées"
+  image: "images/especes/Manekia_urbanii/641_Manekia_urbanii-001.jpg"
+  noms:
+    fr: "-"
+    en: "-"
+    ht: ""
+  toxicite_level: "caution"
+
+- id: 197
+  plant_id: "plt-6601"
+  nom_scientifique: "Piper aduncum L."
+  famille: "Pipéracées"
+  image: "images/especes/Piper_aduncum/651_Piper_aduncum-001.jpg"
+  noms:
+    fr: "Bwa majò"
+    en: "Spiked Pepper"
+    ht: "Bwa majò"
+  toxicite_level: "safe"
+
+- id: 198
+  plant_id: "plt-6602"
+  nom_scientifique: "Piper hispidum Sw."
+  famille: "Pipéracées"
+  image: "images/especes/Piper_hispidum/652_Piper_hispidum-001.jpg"
+  noms:
+    fr: "Ti siwo"
+    en: "Shrubby Pepper"
+    ht: "Ti siwo"
+  toxicite_level: "safe"
+
+- id: 199
+  plant_id: "plt-6603"
+  nom_scientifique: "Piper umbellatum (L.)"
+  famille: "Pipéracées"
+  image: "images/especes/Piper_umbellatum/653_Piper_umbellatum-001.jpg"
+  noms:
+    fr: "Kolèt adam"
+    en: "Cow's Foot"
+    ht: "Kolèt adam"
+  toxicite_level: "safe"
+
+- id: 200
+  plant_id: "plt-6701"
+  nom_scientifique: "Plantago major L."
+  famille: "Plantaginacées"
+  image: "images/especes/Plantago_major/661_Plantago_major-001.jpg"
+  noms:
+    fr: "Planten"
+    en: "Plantain"
+    ht: "Planten"
+  toxicite_level: "safe"
+
+- id: 201
+  plant_id: "plt-6801"
+  nom_scientifique: "Chrysopogon zizanioides"
+  famille: "Poacées"
+  image: "images/especes/Chrysopogon_zizanioides/671_Chrysopogon_zizanioides-001.jpg"
+  noms:
+    fr: "Vètivè"
+    en: "Vetiver"
+    ht: "Vètivè"
+  toxicite_level: "safe"
+
+- id: 202
+  plant_id: "plt-6802"
+  nom_scientifique: "Cymbopogon citratus"
+  famille: "Poacées"
+  image: "images/especes/Cymbopogon_citratus/672_Cymbopogon_citratus-001.jpg"
+  noms:
+    fr: "Sitwonèl"
+    en: "Lemongrass"
+    ht: "Sitwonèl"
+  toxicite_level: "safe"
+
+- id: 203
+  plant_id: "plt-6803"
+  nom_scientifique: "Oryza sativa L."
+  famille: "Poacées"
+  image: "images/especes/Oryza_sativa/673_Oryza_sativa-001.jpg"
+  noms:
+    fr: "Diri"
+    en: "Rice"
+    ht: "Diri"
+  toxicite_level: "safe"
+
+- id: 204
+  plant_id: "plt-6804"
+  nom_scientifique: "Saccharum officinarum"
+  famille: "Poacées"
+  image: "images/especes/Saccharum_officinarum/674_Saccharum_officinarum-003.jpg"
+  noms:
+    fr: "Kann"
+    en: "Sugarcane"
+    ht: "Kann"
+  toxicite_level: "safe"
+
+- id: 205
+  plant_id: "plt-6805"
+  nom_scientifique: "Sorghum bicolor (L.)"
+  famille: "Poacées"
+  image: "images/especes/Sorghum_bicolor/675_Sorghum_bicolor-001.jpg"
+  noms:
+    fr: "Pitimi"
+    en: "Sorghum"
+    ht: "Pitimi"
+  toxicite_level: "caution"
+
+- id: 206
+  plant_id: "plt-6806"
+  nom_scientifique: "Zea mays L."
+  famille: "Poacées"
+  image: "images/especes/Zea_mays/676_Zea_mays-001.jpg"
+  noms:
+    fr: "Mayi"
+    en: "Corn / Maize"
+    ht: "Mayi"
+  toxicite_level: "safe"
+
+- id: 207
+  plant_id: "plt-6901"
+  nom_scientifique: "Securidaca virgata Sw."
+  famille: "Polygalacées"
+  image: "images/especes/Securidaca_virgata/681_Securidaca_virgata-001.jpg"
+  noms:
+    fr: "Bale koukouy"
+    en: "-"
+    ht: "Bale koukouy"
+  toxicite_level: "caution"
+
+- id: 208
+  plant_id: "plt-7001"
+  nom_scientifique: "Antigonon leptopus Hook"
+  famille: "Polygonacées"
+  image: "images/especes/Antigonon_leptopus/691_Antigonon_leptopus-001.jpg"
+  noms:
+    fr: "Lyan koray"
+    en: "Coral Vine"
+    ht: "Lyan koray"
+  toxicite_level: "safe"
+
+- id: 209
+  plant_id: "plt-7002"
+  nom_scientifique: "Coccoloba uvifera (L.)"
+  famille: "Polygonacées"
+  image: "images/especes/Coccoloba_uvifera/692_Coccoloba_uvifera-001.jpg"
+  noms:
+    fr: "Rezen lanmè"
+    en: "Sea Grape"
+    ht: "Rezen lanmè"
+  toxicite_level: "safe"
+
+- id: 210
+  plant_id: "plt-7101"
+  nom_scientifique: "Portulaca oleracea L."
+  famille: "Portulacacées"
+  image: "images/especes/Portulaca_oleracea/701_Portulaca_oleracea-001.jpg"
+  noms:
+    fr: "Koupye"
+    en: "Purslane"
+    ht: "Koupye"
+  toxicite_level: "safe"
+
+- id: 211
+  plant_id: "plt-7201"
+  nom_scientifique: "Clavija domingensis"
+  famille: "Primulacées"
+  image: "images/especes/Clavija_domingensis/711_Clavija_domingensis-001.jpg"
+  noms:
+    fr: "Lang bèf"
+    en: "-"
+    ht: "Lang bèf"
+  toxicite_level: "safe"
+
+- id: 212
+  plant_id: "plt-7301"
+  nom_scientifique: "Adiantum capillus-veneris"
+  famille: "Ptéridacées"
+  image: "/assets/images/placeholder.jpg"
+  noms:
+    fr: "Kapilè"
+    en: "Maidenhair Fern"
+    ht: "Kapilè"
+  toxicite_level: "safe"
+
+- id: 213
+  plant_id: "plt-7401"
+  nom_scientifique: "Petiveria alliacea L."
+  famille: "Pétivériacées"
+  image: "images/especes/Petiveria_alliacea/731_Petiveria_alliacea-001.jpg"
+  noms:
+    fr: "Ave / Malpouri"
+    en: "Guinea Hen Weed"
+    ht: "Ave / Malpouri"
+  toxicite_level: "caution"
+
+- id: 214
+  plant_id: "plt-7402"
+  nom_scientifique: "Rivinia humilis L."
+  famille: "Pétivériacées"
+  image: "images/especes/Rivinia_humilis/732_Rivinia_humilis-001.jpg"
+  noms:
+    fr: "Bobo kodèn / Panzou"
+    en: "Pigeonberry"
+    ht: "Bobo kodèn / Panzou"
+  toxicite_level: "safe"
+
+- id: 215
+  plant_id: "plt-7501"
+  nom_scientifique: "Colubrina arborescens"
+  famille: "Rhamnacées"
+  image: "images/especes/Colubrina_arborescens/741_Colubrina_arborescens-001.jpg"
+  noms:
+    fr: "Bwa ple"
+    en: "Coffee Colubrina"
+    ht: "Bwa ple"
+  toxicite_level: "safe"
+
+- id: 216
+  plant_id: "plt-7502"
+  nom_scientifique: "Colubrina asiatica (L.)"
+  famille: "Rhamnacées"
+  image: "images/especes/Colubrina_asiatica/742_Colubrina_asiatica-001.jpg"
+  noms:
+    fr: "Lyan"
+    en: "Asian Snakewood"
+    ht: "Lyan"
+  toxicite_level: "safe"
+
+- id: 217
+  plant_id: "plt-7503"
+  nom_scientifique: "Gouania lupuloides (L.)"
+  famille: "Rhamnacées"
+  image: "images/especes/Gouania_lupuloides/743_Gouania_lupuloides-001.jpg"
+  noms:
+    fr: "Lyan savon"
+    en: "Chewstick"
+    ht: "Lyan savon"
+  toxicite_level: "safe"
+
+- id: 218
+  plant_id: "plt-7601"
+  nom_scientifique: "Rhizophora mangle L."
+  famille: "Rhizophoracées"
+  image: "images/especes/Rhizophora_mangle/751_Rhizophora_mangle-001.jpg"
+  noms:
+    fr: "Mangliye wouj"
+    en: "Red Mangrove"
+    ht: "Mangliye wouj"
+  toxicite_level: "safe"
+
+- id: 219
+  plant_id: "plt-7701"
+  nom_scientifique: "Eriobotrya japonica"
+  famille: "Rosacées"
+  image: "images/especes/Eriobotrya_japonica/761_Eriobotrya_japonica-001.jpg"
+  noms:
+    fr: "Lokwat"
+    en: "Loquat"
+    ht: "Lokwat"
+  toxicite_level: "caution"
+
+- id: 220
+  plant_id: "plt-7702"
+  nom_scientifique: "Prunus myrtifolia (L.)"
+  famille: "Rosacées"
+  image: "images/especes/Prunus_myrtifolia/762_Prunus_myrtifolia-001.jpg"
+  noms:
+    fr: "Amandye ti fèy"
+    en: "West Indian Laurel"
+    ht: "Amandye ti fèy"
+  toxicite_level: "toxic"
+
+- id: 221
+  plant_id: "plt-7703"
+  nom_scientifique: "Prunus occidentalis Sw."
+  famille: "Rosacées"
+  image: "images/especes/Prunus_occidentalis/763_Prunus_occidentalis-001.jpg"
+  noms:
+    fr: "Amandye gwo fèy"
+    en: "West Indian Cherry"
+    ht: "Amandye gwo fèy"
+  toxicite_level: "toxic"
+
+- id: 222
+  plant_id: "plt-7704"
+  nom_scientifique: "Rubus selleanus Helwig"
+  famille: "Rosacées"
+  image: "images/especes/Rubus_selleanus/764_Rubus_selleanus-002.jpg"
+  noms:
+    fr: "Ronce"
+    en: "-"
+    ht: ""
+  toxicite_level: "safe"
+
+- id: 223
+  plant_id: "plt-7801"
+  nom_scientifique: "Coffea arabica L."
+  famille: "Rubiacées"
+  image: "images/especes/Coffea_arabica/771_Coffea_arabica-001.jpg"
+  noms:
+    fr: "Kafe"
+    en: "Coffee"
+    ht: "Kafe"
+  toxicite_level: "safe"
+
+- id: 224
+  plant_id: "plt-7802"
+  nom_scientifique: "Genipa americana L."
+  famille: "Rubiacées"
+  image: "images/especes/Genipa_americana/772_Genipa_americana-001.jpg"
+  noms:
+    fr: "Jenipa"
+    en: "Genipap"
+    ht: "Jenipa"
+  toxicite_level: "safe"
+
+- id: 225
+  plant_id: "plt-7803"
+  nom_scientifique: "Hamelia patens Jacq."
+  famille: "Rubiacées"
+  image: "images/especes/Hamelia_patens/773_Hamelia_patens-001.jpg"
+  noms:
+    fr: "Koray"
+    en: "Firebush"
+    ht: "Koray"
+  toxicite_level: "safe"
+
+- id: 226
+  plant_id: "plt-7804"
+  nom_scientifique: "Morinda citrifolia L."
+  famille: "Rubiacées"
+  image: "images/especes/Morinda_citrifolia/774_Morinda_citrifolia-001.jpg"
+  noms:
+    fr: "Doulè"
+    en: "Noni"
+    ht: "Doulè"
+  toxicite_level: "safe"
+
+- id: 227
+  plant_id: "plt-7805"
+  nom_scientifique: "Morinda royoc L."
+  famille: "Rubiacées"
+  image: "images/especes/Morinda_royoc/775_Morinda_royoc-001.jpg"
+  noms:
+    fr: "Safran"
+    en: "Red Gal"
+    ht: "Safran"
+  toxicite_level: "safe"
+
+- id: 228
+  plant_id: "plt-7806"
+  nom_scientifique: "Spermacoce assurgens"
+  famille: "Rubiacées"
+  image: "images/especes/Spermacoce_assurgens/776_Spermacoce_assurgens-001.jpg"
+  noms:
+    fr: "Koupe kolonn"
+    en: "Buttonweed"
+    ht: "Koupe kolonn"
+  toxicite_level: "safe"
+
+- id: 229
+  plant_id: "plt-7901"
+  nom_scientifique: "Amyris apiculata"
+  famille: "Rutacées"
+  image: "/assets/images/placeholder.jpg"
+  noms:
+    fr: "Ti pwason"
+    en: "-"
+    ht: "Ti pwason"
+  toxicite_level: "safe"
+
+- id: 230
+  plant_id: "plt-7902"
+  nom_scientifique: "Amyris balsamifera L."
+  famille: "Rutacées"
+  image: "images/especes/Amyris_balsamifera/782_Amyris_balsamifera-001.jpg"
+  noms:
+    fr: "Bwa chandèl"
+    en: "Balsam Torchwood"
+    ht: "Bwa chandèl"
+  toxicite_level: "safe"
+
+- id: 231
+  plant_id: "plt-7903"
+  nom_scientifique: "Citrus aurantiifolia"
+  famille: "Rutacées"
+  image: "images/especes/Citrus_aurantiifolia/783_Citrus_aurantiifolia-001.jpg"
+  noms:
+    fr: "Sitwon"
+    en: "Key Lime"
+    ht: "Sitwon"
+  toxicite_level: "safe"
+
+- id: 232
+  plant_id: "plt-7904"
+  nom_scientifique: "Citrus aurantium L."
+  famille: "Rutacées"
+  image: "images/especes/Citrus_aurantium/784_Citrus_aurantium-001.jpg"
+  noms:
+    fr: "Zoranj si"
+    en: "Bitter Orange"
+    ht: "Zoranj si"
+  toxicite_level: "safe"
+
+- id: 233
+  plant_id: "plt-7905"
+  nom_scientifique: "Citrus bergamia Risso"
+  famille: "Rutacées"
+  image: "images/especes/Citrus_bergamia/785_Citrus_bergamia-001.jpg"
+  noms:
+    fr: "Bègamot"
+    en: "Bergamot"
+    ht: "Bègamot"
+  toxicite_level: "safe"
+
+- id: 234
+  plant_id: "plt-7906"
+  nom_scientifique: "Citrus maxima (Burm.)"
+  famille: "Rutacées"
+  image: "images/especes/Citrus_maxima/786_Citrus_maxima-001.jpg"
+  noms:
+    fr: "Chadèk"
+    en: "Pomelo"
+    ht: "Chadèk"
+  toxicite_level: "safe"
+
+- id: 235
+  plant_id: "plt-7907"
+  nom_scientifique: "Citrus sinensis (L.)"
+  famille: "Rutacées"
+  image: "images/especes/Citrus_sinensis/787_Citrus_sinensis-001.jpg"
+  noms:
+    fr: "Zoranj dous"
+    en: "Sweet Orange"
+    ht: "Zoranj dous"
+  toxicite_level: "safe"
+
+- id: 236
+  plant_id: "plt-7908"
+  nom_scientifique: "Glycosmis parviflora"
+  famille: "Rutacées"
+  image: "images/especes/Glycosmis_parviflora/788_Glycosmis_parviflora-001.jpg"
+  noms:
+    fr: "Zoranje"
+    en: "Chinese Glycosmis"
+    ht: "Zoranje"
+  toxicite_level: "caution"
+
+- id: 237
+  plant_id: "plt-8001"
+  nom_scientifique: "Samyda dodecandra Jacq."
+  famille: "Salicacées"
+  image: "images/especes/Samyda_dodecandra/791_Samyda_dodecandra-001.jpg"
+  noms:
+    fr: "Kasèk"
+    en: "Wild Guava"
+    ht: "Kasèk"
+  toxicite_level: "safe"
+
+- id: 238
+  plant_id: "plt-8101"
+  nom_scientifique: "Allophylus racemosus"
+  famille: "Sapindacées"
+  image: "/assets/images/placeholder.jpg"
+  noms:
+    fr: "Twa pawòl"
+    en: "-"
+    ht: "Twa pawòl"
+  toxicite_level: "safe"
+
+- id: 239
+  plant_id: "plt-8102"
+  nom_scientifique: "Blighia sapida"
+  famille: "Sapindacées"
+  image: "images/especes/Blighia_sapida/802_Blighia_sapida-001.jpg"
+  noms:
+    fr: "Aki"
+    en: "Ackee"
+    ht: "Aki"
+  toxicite_level: "danger"
+
+- id: 240
+  plant_id: "plt-8103"
+  nom_scientifique: "Cupania americana L."
+  famille: "Sapindacées"
+  image: "images/especes/Cupania_americana/803_Cupania_americana-001.jpg"
+  noms:
+    fr: "Santanyen"
+    en: "Cupania"
+    ht: "Santanyen"
+  toxicite_level: "safe"
+
+- id: 241
+  plant_id: "plt-8104"
+  nom_scientifique: "Melicoccus bijugatus"
+  famille: "Sapindacées"
+  image: "images/especes/Melicoccus_bijugatus/804_Melicoccus_bijugatus-001.jpg"
+  noms:
+    fr: "Kenèp"
+    en: "Spanish Lime"
+    ht: "Kenèp"
+  toxicite_level: "safe"
+
+- id: 242
+  plant_id: "plt-8105"
+  nom_scientifique: "Sapindus saponaria L."
+  famille: "Sapindacées"
+  image: "images/especes/Sapindus_saponaria/805_Sapindus_saponaria-001.jpg"
+  noms:
+    fr: "Savonèt"
+    en: "Soapberry"
+    ht: "Savonèt"
+  toxicite_level: "caution"
+
+- id: 243
+  plant_id: "plt-8201"
+  nom_scientifique: "Chrysophyllum cainito L."
+  famille: "Sapotacées"
+  image: "images/especes/Chrysophyllum_cainito/811_Chrysophyllum_cainito-001.jpg"
+  noms:
+    fr: "Kayimit"
+    en: "Star Apple"
+    ht: "Kayimit"
+  toxicite_level: "safe"
+
+- id: 244
+  plant_id: "plt-8202"
+  nom_scientifique: "Chrysophyllum oliviforme"
+  famille: "Sapotacées"
+  image: "images/especes/Chrysophyllum_oliviforme/812_Chrysophyllum_oliviforme-001.jpg"
+  noms:
+    fr: "Ti kayimit"
+    en: "Satinleaf"
+    ht: "Ti kayimit"
+  toxicite_level: "safe"
+
+- id: 245
+  plant_id: "plt-8203"
+  nom_scientifique: "Manilkara zapota (L.)"
+  famille: "Sapotacées"
+  image: "images/especes/Manilkara_zapota/813_Manilkara_zapota-001.jpg"
+  noms:
+    fr: "Sapoti"
+    en: "Sapodilla"
+    ht: "Sapoti"
+  toxicite_level: "safe"
+
+- id: 246
+  plant_id: "plt-8204"
+  nom_scientifique: "Pouteria dominigensis"
+  famille: "Sapotacées"
+  image: "images/especes/Pouteria_dominigensis/814_Pouteria_dominigensis-001.jpg"
+  noms:
+    fr: "Jòndèf"
+    en: "-"
+    ht: "Jòndèf"
+  toxicite_level: "safe"
+
+- id: 247
+  plant_id: "plt-8205"
+  nom_scientifique: "Pouteria hotteana (Urb.)"
+  famille: "Sapotacées"
+  image: "images/especes/Pouteria_hotteana/815_Pouteria_hotteana-001.jpg"
+  noms:
+    fr: "Jòndèf"
+    en: "-"
+    ht: "Jòndèf"
+  toxicite_level: "safe"
+
+- id: 248
+  plant_id: "plt-8206"
+  nom_scientifique: "Sideroxylon foetidissimum"
+  famille: "Sapotacées"
+  image: "images/especes/Sideroxylon_foetidissimum/816_Sideroxylon_foetidissimum-001.jpg"
+  noms:
+    fr: "Sip"
+    en: "Mastic"
+    ht: "Sip"
+  toxicite_level: "safe"
+
+- id: 249
+  plant_id: "plt-8207"
+  nom_scientifique: "Sideroxylon salicifolium"
+  famille: "Sapotacées"
+  image: "images/especes/Sideroxylon_salicifolium/817_Sideroxylon_salicifolium-001.jpg"
+  noms:
+    fr: "Kòma"
+    en: "White Bully"
+    ht: "Kòma"
+  toxicite_level: "safe"
+
+- id: 250
+  plant_id: "plt-8301"
+  nom_scientifique: "Illicium hottense"
+  famille: "Schisandracées"
+  image: "images/especes/Illicium_hottense/821_Illicium_hottense-001.jpg"
+  noms:
+    fr: "Bwa aniz"
+    en: "-"
+    ht: "Bwa aniz"
+  toxicite_level: "danger"
+
+- id: 251
+  plant_id: "plt-8401"
+  nom_scientifique: "Picramnia pentandra Sw."
+  famille: "Simaroubacées"
+  image: "images/especes/Picramnia_pentandra/831_Picramnia_pentandra-001.jpg"
+  noms:
+    fr: "Ti gason"
+    en: "Bitter Bush"
+    ht: "Ti gason"
+  toxicite_level: "caution"
+
+- id: 252
+  plant_id: "plt-8402"
+  nom_scientifique: "Simarouba glauca DC."
+  famille: "Simaroubacées"
+  image: "images/especes/Simarouba_glauca/832_Simarouba_glauca-001.jpg"
+  noms:
+    fr: "Frèn"
+    en: "Paradise Tree"
+    ht: "Frèn"
+  toxicite_level: "safe"
+
+- id: 253
+  plant_id: "plt-8501"
+  nom_scientifique: "Brugmansia suaveolens"
+  famille: "Solanacées"
+  image: "images/especes/Brugmansia_suaveolens/841_Brugmansia_suaveolens-001.jpg"
+  noms:
+    fr: "Flè klòch"
+    en: "Angel's Trumpet"
+    ht: "Flè klòch"
+  toxicite_level: "danger"
+
+- id: 254
+  plant_id: "plt-8502"
+  nom_scientifique: "Capsicum frutescens L."
+  famille: "Solanacées"
+  image: "images/especes/Capsicum_frutescens/842_Capsicum_frutescens-001.jpg"
+  noms:
+    fr: "Piman zwazo"
+    en: "Bird Pepper"
+    ht: "Piman zwazo"
+  toxicite_level: "caution"
+
+- id: 255
+  plant_id: "plt-8503"
+  nom_scientifique: "Cestrum bicolor Urban"
+  famille: "Solanacées"
+  image: "images/especes/Cestrum_bicolor/843_Cestrum_bicolor-001.jpg"
+  noms:
+    fr: "Zozofine"
+    en: ""
+    ht: "Zozofine"
+  toxicite_level: "safe"
+
+- id: 256
+  plant_id: "plt-8504"
+  nom_scientifique: "Nicotiana tabacum L."
+  famille: "Solanacées"
+  image: "images/especes/Nicotiana_tabacum/844_Nicotiana_tabacum-001.jpg"
+  noms:
+    fr: "Tabak"
+    en: "Tobacco"
+    ht: "Tabak"
+  toxicite_level: "toxic"
+
+- id: 257
+  plant_id: "plt-8505"
+  nom_scientifique: "Solanum americanum"
+  famille: "Solanacées"
+  image: "images/especes/Solanum_americanum/845_Solanum_americanum-001.jpg"
+  noms:
+    fr: "Lanman"
+    en: "Black Nightshade"
+    ht: "Lanman"
+  toxicite_level: "caution"
+
+- id: 258
+  plant_id: "plt-8506"
+  nom_scientifique: "Solanum lycopersicum L."
+  famille: "Solanacées"
+  image: "images/especes/Solanum_lycopersicum/846_Solanum_lycopersicum-001.jpg"
+  noms:
+    fr: "Tomat"
+    en: "Tomato"
+    ht: "Tomat"
+  toxicite_level: "safe"
+
+- id: 259
+  plant_id: "plt-8507"
+  nom_scientifique: "Solanum melongena L."
+  famille: "Solanacées"
+  image: "images/especes/Solanum_melongena/847_Solanum_melongena-001.jpg"
+  noms:
+    fr: "Berejèn"
+    en: "Eggplant"
+    ht: "Berejèn"
+  toxicite_level: "safe"
+
+- id: 260
+  plant_id: "plt-8508"
+  nom_scientifique: "Solanum torvum Sw."
+  famille: "Solanacées"
+  image: "images/especes/Solanum_torvum/848_Solanum_torvum-001.jpg"
+  noms:
+    fr: "Zamorèt"
+    en: "Turkey Berry"
+    ht: "Zamorèt"
+  toxicite_level: "safe"
+
+- id: 261
+  plant_id: "plt-8601"
+  nom_scientifique: "Cecropia peltata L."
+  famille: "Urticacées"
+  image: "images/especes/Cecropia_peltata/851_Cecropia_peltata-001.jpg"
+  noms:
+    fr: "Twonpèt"
+    en: "Trumpet Tree"
+    ht: "Twonpèt"
+  toxicite_level: "safe"
+
+- id: 262
+  plant_id: "plt-8602"
+  nom_scientifique: "Urera baccifera (L.)"
+  famille: "Urticacées"
+  image: "images/especes/Urera_baccifera/852_Urera_baccifera-001.jpg"
+  noms:
+    fr: "Manman gèp / Gratgrat"
+    en: "Scratchbush"
+    ht: "Manman gèp / Gratgrat"
+  toxicite_level: "toxic"
+
+- id: 263
+  plant_id: "plt-8701"
+  nom_scientifique: "Citharexylum spinosum"
+  famille: "Verbénacées"
+  image: "images/especes/Citharexylum_spinosum/861_Citharexylum_spinosum-001.jpg"
+  noms:
+    fr: "Bwa kòt"
+    en: "Fiddlewood"
+    ht: "Bwa kòt"
+  toxicite_level: "safe"
+
+- id: 264
+  plant_id: "plt-8702"
+  nom_scientifique: "Lantana camara L."
+  famille: "Verbénacées"
+  image: "images/especes/Lantana_camara/862_Lantana_camara-001.jpg"
+  noms:
+    fr: "Bonbonyen"
+    en: "Lantana"
+    ht: "Bonbonyen"
+  toxicite_level: "caution"
+
+- id: 265
+  plant_id: "plt-8703"
+  nom_scientifique: "Priva lappulacea (L.)"
+  famille: "Verbénacées"
+  image: "images/especes/Priva_lappulacea/863_Priva_lappulacea-001.jpg"
+  noms:
+    fr: "Kouzen van"
+    en: "Velvet burr"
+    ht: "Kouzen van"
+  toxicite_level: "safe"
+
+- id: 266
+  plant_id: "plt-8704"
+  nom_scientifique: "Stachytarpheta jamaicensis"
+  famille: "Verbénacées"
+  image: "images/especes/Stachytarpheta_jamaicensis/864_Stachytarpheta_jamaicensis-001.jpg"
+  noms:
+    fr: "Vèvèn"
+    en: "Blue Porterweed"
+    ht: "Vèvèn"
+  toxicite_level: "safe"
+
+- id: 267
+  plant_id: "plt-8801"
+  nom_scientifique: "Cissus verticillata (L.)"
+  famille: "Vitacées"
+  image: "images/especes/Cissus_verticillata/871_Cissus_verticillata-001.jpg"
+  noms:
+    fr: "Lyan mòl"
+    en: "Season Vine"
+    ht: "Lyan mòl"
+  toxicite_level: "safe"
+
+- id: 268
+  plant_id: "plt-8802"
+  nom_scientifique: "Vitis vinifera"
+  famille: "Vitacées"
+  image: "images/especes/Vitis_vinifera/872_Vitis_vinifera-001.jpg"
+  noms:
+    fr: "Rezen"
+    en: "Grapevine"
+    ht: "Rezen"
+  toxicite_level: "safe"
+
+- id: 269
+  plant_id: "plt-8901"
+  nom_scientifique: "Curcuma longa L."
+  famille: "Zingibéracées"
+  image: "images/especes/Curcuma_longa/881_Curcuma_longa-001.jpg"
+  noms:
+    fr: "Safran"
+    en: "Turmeric"
+    ht: "Safran"
+  toxicite_level: "safe"
+
+- id: 270
+  plant_id: "plt-8902"
+  nom_scientifique: "Zingiber officinale"
+  famille: "Zingibéracées"
+  image: "images/especes/Zingiber_officinale/882_Zingiber_officinale-001.jpg"
+  noms:
+    fr: "Jenjanm"
+    en: "Ginger"
+    ht: "Jenjanm"
+  toxicite_level: "safe"
+
+- id: 271
+  plant_id: "plt-9001"
+  nom_scientifique: "Guaiacum officinale L."
+  famille: "Zygophyllacées"
+  image: "images/especes/Guaiacum_officinale/891_Guaiacum_officinale-001.jpg"
+  noms:
+    fr: "Gayak"
+    en: "Lignum Vitae"
+    ht: "Gayak"
+  toxicite_level: "safe"
+
