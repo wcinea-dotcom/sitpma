@@ -19,11 +19,11 @@ lang: fr
 <section class="bg-[#2c5e3b] text-white py-8">
   <div class="max-w-7xl mx-auto px-4 grid grid-cols-2 md:grid-cols-4 gap-4 text-center">
     <div class="bg-white/10 p-4 rounded-xl">
-      <div class="text-3xl font-black">30+</div>
+      <div class="text-3xl font-black">271</div>
       <div class="text-sm uppercase tracking-wider opacity-90">Plantes Documentées</div>
     </div>
     <div class="bg-white/10 p-4 rounded-xl">
-      <div class="text-3xl font-black">25+</div>
+      <div class="text-3xl font-black">89</div>
       <div class="text-sm uppercase tracking-wider opacity-90">Familles Botaniques</div>
     </div>
     <div class="bg-white/10 p-4 rounded-xl">
@@ -31,8 +31,8 @@ lang: fr
       <div class="text-sm uppercase tracking-wider opacity-90">Systèmes du Corps</div>
     </div>
     <div class="bg-white/10 p-4 rounded-xl">
-      <div class="text-3xl font-black">80%</div>
-      <div class="text-sm uppercase tracking-wider opacity-90">Utilisation Traditionnelle</div>
+      <div class="text-3xl font-black">601</div>
+      <div class="text-sm uppercase tracking-wider opacity-90">Photos</div>
     </div>
   </div>
 </section>
