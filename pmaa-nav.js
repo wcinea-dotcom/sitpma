@@ -71,13 +71,13 @@ const PMAA = {
 
     /* Section — Explorer plantes */
     sec_atlas_h:        { fr: 'Explorer les Plantes',   en: 'Explore the Plants',     kr: 'Eksplore Plantes yo' },
-    sec_atlas_sub:      { fr: 'Cherchez par nom commun, scientifique ou propriété. 847 espèces documentées en français, anglais et kreyòl.',
-                          en: 'Search by common name, scientific name or property. 847 species documented in French, English and Kreyòl.',
-                          kr: 'Chèche pa non komen, syantifik oswa pwopriyete. 847 espès dokumenté an fransè, anglè ak kreyòl.' },
+    sec_atlas_sub:      { fr: 'Cherchez par nom commun, scientifique ou propriété. 271 espèces documentées en français, anglais et kreyòl.',
+                          en: 'Search by common name, scientific name or property. 271 species documented in French, English and Kreyòl.',
+                          kr: 'Chèche pa non komen, syantifik oswa pwopriyete. 271 espès dokumenté an fransè, anglè ak kreyòl.' },
     search_placeholder: { fr: 'Chercher une plante (ex: Moringa, Vétiver)...',
                           en: 'Search a plant (e.g.: Moringa, Vetiver)...',
                           kr: 'Chèche yon plant (eks: Moringa, Vétiver)...' },
-    btn_voir_tout:      { fr: 'Voir tous les 847 plantes →', en: 'View all 847 plants →', kr: 'Wè tout 847 plantes yo →' },
+    btn_voir_tout:      { fr: 'Voir tous les 271 plantes →', en: 'View all 271 plants →', kr: 'Wè tout 271 plantes yo →' },
 
     /* Filtres */
     filter_all:         { fr: 'Toutes',       en: 'All',          kr: 'Tout' },
@@ -133,9 +133,9 @@ const PMAA = {
                           kr: '© 2025 PMAA Ayiti · Jaden Botanik Kaye · Tout dwa rezève' },
 
     /* Page hero subtitles */
-    atlas_sub:          { fr: '847 espèces documentées du Grand Sud & Grand\'Anse — fiches trilingues avec photos, propriétés, cartes et modes de préparation',
-                          en: '847 species documented in the Grand Sud & Grand\'Anse — trilingual sheets with photos, properties, maps and preparation methods',
-                          kr: '847 espès dokumenté nan Gran Sid & Gran\'Anse — fich trileng ak foto, pwopriyete, kat ak fason preparasyon' },
+    atlas_sub:          { fr: '271 espèces documentées du Grand Sud & Grand\'Anse — fiches trilingues avec photos, propriétés, cartes et modes de préparation',
+                          en: '271 species documented in the Grand Sud & Grand\'Anse — trilingual sheets with photos, properties, maps and preparation methods',
+                          kr: '271 espès dokumenté nan Gran Sid & Gran\'Anse — fich trileng ak foto, pwopriyete, kat ak fason preparasyon' },
   },
 
   /* ── HELPER: traduit une clé dans la langue courante ─ */
