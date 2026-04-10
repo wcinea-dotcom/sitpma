@@ -1,0 +1,813 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Conservation & Biodiversité — PMAA Haïti</title>
+	<link rel="stylesheet" href="pmaa-styles.css">
+	<style>
+		.alert-banner {
+			background: linear-gradient(135deg, #e74c3c, #e67e22);
+			color: white;
+			padding: 18px;
+			text-align: center;
+			font-size: 15px;
+			font-weight: 500;
+			line-height: 1.6;
+			width: 100%;
+		}
+
+		.status-grid {
+			display: grid;
+			grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+			gap: 20px;
+		}
+
+		.status-card {
+			background: white;
+			border-radius: 8px;
+			padding: 25px;
+			text-align: center;
+			border: 2px solid #ecf0f1;
+		}
+
+		.status-code {
+			font-size: 28px;
+			font-weight: 700;
+			letter-spacing: 2px;
+			margin-bottom: 10px;
+		}
+
+		.status-name {
+			font-size: 14px;
+			font-weight: 600;
+			margin-bottom: 8px;
+		}
+
+		.status-count {
+			font-size: 20px;
+			font-weight: 700;
+			margin-bottom: 12px;
+		}
+
+		.status-bar {
+			height: 6px;
+			border-radius: 3px;
+			margin-bottom: 15px;
+		}
+
+		.status-examples {
+			font-size: 12px;
+			line-height: 1.5;
+			color: #666;
+		}
+
+		.status-examples li {
+			margin: 4px 0;
+		}
+
+		.threat-table {
+			width: 100%;
+			margin-bottom: 20px;
+		}
+
+		.threat-row {
+			display: grid;
+			grid-template-columns: 150px 1fr;
+			gap: 20px;
+			align-items: center;
+			margin-bottom: 20px;
+			padding-bottom: 15px;
+			border-bottom: 1px solid #ecf0f1;
+		}
+
+		.threat-row:last-child {
+			border-bottom: none;
+			margin-bottom: 0;
+			padding-bottom: 0;
+		}
+
+		.threat-name {
+			font-weight: 600;
+			color: #2c3e50;
+			font-size: 14px;
+		}
+
+		.threat-bar-container {
+			display: flex;
+			align-items: center;
+			gap: 10px;
+		}
+
+		.threat-bar {
+			flex: 1;
+			height: 8px;
+			background: #ecf0f1;
+			border-radius: 4px;
+			overflow: hidden;
+		}
+
+		.threat-fill {
+			height: 100%;
+			background: #e74c3c;
+		}
+
+		.threat-level {
+			font-size: 12px;
+			font-weight: 600;
+			min-width: 40px;
+			text-align: right;
+		}
+
+		.map-placeholder {
+			background: linear-gradient(135deg, #ecf0f1, #d5dbdb);
+			border: 2px dashed #bdc3c7;
+			border-radius: 8px;
+			padding: 40px;
+			text-align: center;
+			color: #7f8c8d;
+			font-size: 14px;
+			min-height: 300px;
+			display: flex;
+			flex-direction: column;
+			justify-content: center;
+			align-items: center;
+		}
+
+		.map-icon {
+			font-size: 48px;
+			margin-bottom: 15px;
+		}
+
+		.map-legend {
+			margin-top: 20px;
+			text-align: left;
+			display: inline-block;
+		}
+
+		.legend-item {
+			display: flex;
+			align-items: center;
+			gap: 10px;
+			margin: 8px 0;
+			font-size: 12px;
+		}
+
+		.legend-dot {
+			width: 12px;
+			height: 12px;
+			border-radius: 50%;
+		}
+
+		.action-cards {
+			display: grid;
+			grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+			gap: 20px;
+		}
+
+		.action-card {
+			background: white;
+			padding: 25px;
+			border-radius: 8px;
+			border-top: 4px solid #27ae60;
+		}
+
+		.action-card h3 {
+			margin: 0 0 12px 0;
+			color: #27ae60;
+			font-size: 16px;
+		}
+
+		.action-card p {
+			margin: 0 0 12px 0;
+			font-size: 13px;
+			line-height: 1.6;
+			color: #555;
+		}
+
+		.action-card ul {
+			margin: 0;
+			padding-left: 20px;
+			font-size: 12px;
+		}
+
+		.action-card li {
+			margin: 6px 0;
+			color: #666;
+		}
+
+		.macaya-section {
+			display: grid;
+			grid-template-columns: 1fr 1fr;
+			gap: 30px;
+		}
+
+		.macaya-text p {
+			font-size: 14px;
+			line-height: 1.7;
+			margin: 0 0 15px 0;
+			color: #bdc3c7;
+		}
+
+		.macaya-stats {
+			background: rgba(255, 255, 255, 0.1);
+			padding: 20px;
+			border-radius: 8px;
+			margin: 20px 0;
+		}
+
+		.macaya-stat {
+			display: flex;
+			justify-content: space-between;
+			padding: 8px 0;
+			border-bottom: 1px solid rgba(255, 255, 255, 0.2);
+			font-size: 13px;
+			color: #bdc3c7;
+		}
+
+		.macaya-stat:last-child {
+			border-bottom: none;
+		}
+
+		.macaya-stat strong {
+			color: #ffffff;
+		}
+
+		.macaya-timeline {
+			margin: 20px 0;
+		}
+
+		.timeline-item {
+			padding-left: 25px;
+			padding-bottom: 15px;
+			position: relative;
+			color: #bdc3c7;
+		}
+
+		.timeline-item:before {
+			content: '';
+			position: absolute;
+			left: 0;
+			top: 5px;
+			width: 12px;
+			height: 12px;
+			border-radius: 50%;
+			background: #27ae60;
+		}
+
+		.timeline-item strong {
+			color: #ffffff;
+			font-size: 13px;
+		}
+
+		.timeline-item span {
+			display: block;
+			font-size: 12px;
+			margin-top: 3px;
+		}
+
+		.engagement-card {
+			background: #1b5e20;
+			color: white;
+			padding: 25px;
+			border-radius: 8px;
+		}
+
+		.engagement-card h3 {
+			margin: 0 0 15px 0;
+			font-size: 16px;
+		}
+
+		.engagement-card p {
+			margin: 0 0 12px 0;
+			font-size: 13px;
+			line-height: 1.6;
+			opacity: 0.95;
+		}
+
+		.engagement-card ul {
+			margin: 12px 0 0 0;
+			padding-left: 20px;
+			font-size: 12px;
+		}
+
+		.engagement-card li {
+			margin: 6px 0;
+			opacity: 0.9;
+		}
+
+		.engagement-section {
+			margin-top: 15px;
+			padding-top: 15px;
+			border-top: 1px solid rgba(255, 255, 255, 0.2);
+		}
+
+		.engagement-section strong {
+			display: block;
+			margin-bottom: 8px;
+			font-size: 13px;
+		}
+
+		.timeline-horizontal {
+			display: grid;
+			grid-template-columns: repeat(3, 1fr);
+			gap: 20px;
+		}
+
+		.timeline-card {
+			background: white;
+			padding: 25px;
+			border-radius: 8px;
+			border-left: 4px solid #3498db;
+		}
+
+		.timeline-period {
+			font-size: 13px;
+			font-weight: 600;
+			color: #3498db;
+			margin-bottom: 10px;
+		}
+
+		.timeline-card h4 {
+			margin: 0 0 10px 0;
+			font-size: 15px;
+			color: #2c3e50;
+		}
+
+		.timeline-card p {
+			margin: 0;
+			font-size: 12px;
+			line-height: 1.6;
+			color: #666;
+		}
+
+		.timeline-card ul {
+			margin: 10px 0 0 0;
+			padding-left: 18px;
+			font-size: 12px;
+		}
+
+		.timeline-card li {
+			margin: 4px 0;
+			color: #666;
+		}
+
+		@media (max-width: 768px) {
+			.macaya-section {
+				grid-template-columns: 1fr;
+			}
+
+			.threat-row {
+				grid-template-columns: 1fr;
+				gap: 8px;
+			}
+
+			.status-grid {
+				grid-template-columns: repeat(2, 1fr);
+			}
+
+			.timeline-horizontal {
+				grid-template-columns: 1fr;
+			}
+		}
+	</style>
+</head>
+<body>
+
+<div id="topbar-placeholder"></div>
+
+<!-- Page Hero -->
+<div class="page-hero">
+	<div class="page-hero-inner">
+		<div class="breadcrumb" data-fr="Accueil > Conservation & Biodiversité" data-en="Home > Conservation & Biodiversity" data-kr="Akèy > Konsèvasyon & Byodivèsite">Accueil &gt; Conservation &amp; Biodiversité</div>
+		<span class="page-tag" data-fr="🏞️ Biodiversité Patrimoniale" data-en="🏞️ Heritage Biodiversity" data-kr="🏞️ Byodivèsite Patrimoni Ayisyen">🏞️ Biodiversité Patrimoniale</span>
+		<h1 data-fr="Conservation & Biodiversité" data-en="Conservation & Biodiversity" data-kr="Konsèvasyon & Byodivèsite">Conservation &amp; <span>Biodiversité</span></h1>
+		<p data-fr="Protéger les 5 600+ espèces de Haïti avec 40% d'endémisme — la flore endémique la plus riche de la Caraïbe. Stratégie nationale de conservation PMAA en partenariat avec le MSPP et le Jardin Botanique de Calabaza." data-en="Protect Haiti's 5,600+ species with 40% endemism — the richest endemic flora in the Caribbean. PMAA national conservation strategy in partnership with MSPP and Calabaza Botanical Garden." data-kr="Pwoteje 5 600+ espès Ayisyen ak 40% endemik — flò endemik pi rich Karayib la. Estrateji konsèvasyon nasyonal PMAA an patenè avèk MSPP ak Jaden Botanik Calabaza.">Protéger les 5 600+ espèces de Haïti avec 40% d'endémisme — la flore endémique la plus riche de la Caraïbe. Stratégie nationale de conservation PMAA en partenariat avec le MSPP et le Jardin Botanique de Calabaza.</p>
+	</div>
+</div>
+
+<!-- Emergency Alert Banner -->
+<div class="alert-banner" data-fr="⚠️ Alerte Urgent : 127 espèces PMAA en statut UICN menacé dans le Grand Sud — dont 43 endémiques à Haïti uniquement. Action urgente requise pour la protection et propagation." data-en="⚠️ Urgent Alert: 127 PMAA species with threatened UICN status in Grand South — including 43 endemic to Haiti alone. Urgent action required for protection and propagation." data-kr="⚠️ Alèt Ijans: 127 espès PMAA nan estati UICN menase nan Gran Sid la — ki gen 43 endemik Ayiti sèl. Aksyon ijans oblije pou pwoteksyon ak pwopagasyon.">
+	⚠️ <strong data-fr="Alerte Urgent :" data-en="Urgent Alert:" data-kr="Alèt Ijans:">Alerte Urgent :</strong> 127 espèces PMAA en statut UICN menacé dans le Grand Sud — dont 43 endémiques à Haïti uniquement. Action urgente requise pour la protection et propagation.
+</div>
+
+<!-- Key Conservation Stats -->
+<div class="section-bg">
+	<div class="section-inner">
+		<div class="grid-4">
+			<div class="stat-card">
+				<div class="stat-number" data-fr="5 600+" data-en="5,600+" data-kr="5 600+">5 600+</div>
+				<div class="stat-label" data-fr="Espèces Recensées" data-en="Species Recorded" data-kr="Espès Enregistre">Espèces Recensées</div>
+				<div class="stat-desc" data-fr="Flore haïtienne documentée" data-en="Documented Haitian flora" data-kr="Flò Ayisyen dokimante">Flore haïtienne documentée</div>
+			</div>
+			<div class="stat-card">
+				<div class="stat-number" data-fr="40%" data-en="40%" data-kr="40%">40%</div>
+				<div class="stat-label" data-fr="Endémisme" data-en="Endemism" data-kr="Endemik">Endémisme</div>
+				<div class="stat-desc" data-fr="Plus haut taux régional" data-en="Highest regional rate" data-kr="To plis wo nan rejyon an">Plus haut taux régional</div>
+			</div>
+			<div class="stat-card">
+				<div class="stat-number" data-fr="127" data-en="127" data-kr="127">127</div>
+				<div class="stat-label" data-fr="Espèces Menacées" data-en="Threatened Species" data-kr="Espès Menase">Espèces Menacées</div>
+				<div class="stat-desc" data-fr="Selon critères UICN" data-en="By IUCN criteria" data-kr="Selon kritè UICN">Selon critères UICN</div>
+			</div>
+			<div class="stat-card">
+				<div class="stat-number" data-fr="43" data-en="43" data-kr="43">43</div>
+				<div class="stat-label" data-fr="Endémiques en Danger" data-en="Endemic in Danger" data-kr="Endemik an Danje">Endémiques en Danger</div>
+				<div class="stat-desc" data-fr="Uniques à Haïti uniquement" data-en="Unique to Haiti alone" data-kr="Inik Ayiti sèlman">Uniques à Haïti uniquement</div>
+			</div>
+		</div>
+	</div>
+</div>
+
+<!-- UICN Status Section -->
+<div class="section">
+	<div class="section-inner">
+		<h2 data-fr="Statut de Conservation des PMAA selon les Critères UICN" data-en="Conservation Status of PMAA by IUCN Criteria" data-kr="Estati Konsèvasyon PMAA Selon Kritè UICN">Statut de Conservation des PMAA selon les Critères UICN</h2>
+		<p style="margin-bottom: 30px; color: #666;" data-fr="Classification scientifique internationale des niveaux de menace — de l'extinction critique au statut stable." data-en="International scientific classification of threat levels — from critical extinction to stable status." data-kr="Klasifikasyon syantifik entènasyonal nivo menase — soti nan etènnisyon kritik pou estati estab.">Classification scientifique internationale des niveaux de menace — de l'extinction critique au statut stable.</p>
+
+		<div class="status-grid">
+			<div class="status-card">
+				<div class="status-code" style="color: #c0392b;">CR</div>
+				<div class="status-name" data-fr="Critically Endangered" data-en="Critically Endangered" data-kr="An Danje Kritik">Critically Endangered</div>
+				<div class="status-count" data-fr="12 espèces" data-en="12 species" data-kr="12 espès">12 espèces</div>
+				<div class="status-bar" style="background: #c0392b;"></div>
+				<div class="status-examples">
+					<strong data-fr="Exemples :" data-en="Examples:" data-kr="Egzanp:">Exemples :</strong>
+					<ul style="list-style: none; padding: 0; margin: 5px 0 0 0;">
+						<li data-fr="Aristida curtifolia" data-en="Aristida curtifolia" data-kr="Aristida curtifolia">Aristida curtifolia</li>
+						<li data-fr="Trichilia pallida" data-en="Trichilia pallida" data-kr="Trichilia pallida">Trichilia pallida</li>
+						<li data-fr="Raiania echinata" data-en="Raiania echinata" data-kr="Raiania echinata">Raiania echinata</li>
+					</ul>
+				</div>
+			</div>
+
+			<div class="status-card">
+				<div class="status-code" style="color: #e74c3c;">EN</div>
+				<div class="status-name" data-fr="Endangered" data-en="Endangered" data-kr="An Danje">Endangered</div>
+				<div class="status-count" data-fr="31 espèces" data-en="31 species" data-kr="31 espès">31 espèces</div>
+				<div class="status-bar" style="background: #e74c3c;"></div>
+				<div class="status-examples">
+					<strong data-fr="Exemples :" data-en="Examples:" data-kr="Egzanp:">Exemples :</strong>
+					<ul style="list-style: none; padding: 0; margin: 5px 0 0 0;">
+						<li data-fr="Eryngium aralifolium" data-en="Eryngium aralifolium" data-kr="Eryngium aralifolium">Eryngium aralifolium</li>
+						<li data-fr="Mahonia trifoliolata" data-en="Mahonia trifoliolata" data-kr="Mahonia trifoliolata">Mahonia trifoliolata</li>
+						<li data-fr="Gonocalyx cornutus" data-en="Gonocalyx cornutus" data-kr="Gonocalyx cornutus">Gonocalyx cornutus</li>
+					</ul>
+				</div>
+			</div>
+
+			<div class="status-card">
+				<div class="status-code" style="color: #f39c12;">VU</div>
+				<div class="status-name" data-fr="Vulnerable" data-en="Vulnerable" data-kr="Vilnerab">Vulnerable</div>
+				<div class="status-count" data-fr="84 espèces" data-en="84 species" data-kr="84 espès">84 espèces</div>
+				<div class="status-bar" style="background: #f39c12;"></div>
+				<div class="status-examples">
+					<strong data-fr="Exemples :" data-en="Examples:" data-kr="Egzanp:">Exemples :</strong>
+					<ul style="list-style: none; padding: 0; margin: 5px 0 0 0;">
+						<li data-fr="Cornutia pyramidata" data-en="Cornutia pyramidata" data-kr="Cornutia pyramidata">Cornutia pyramidata</li>
+						<li data-fr="Tetrazygia elata" data-en="Tetrazygia elata" data-kr="Tetrazygia elata">Tetrazygia elata</li>
+						<li data-fr="Yucca aloifolia" data-en="Yucca aloifolia" data-kr="Yucca aloifolia">Yucca aloifolia</li>
+					</ul>
+				</div>
+			</div>
+
+			<div class="status-card">
+				<div class="status-code" style="color: #2c3e50;">NT</div>
+				<div class="status-name" data-fr="Near Threatened" data-en="Near Threatened" data-kr="Prèske Menase">Near Threatened</div>
+				<div class="status-count" data-fr="156 espèces" data-en="156 species" data-kr="156 espès">156 espèces</div>
+				<div class="status-bar" style="background: #f1c40f;"></div>
+				<div class="status-examples">
+					<strong data-fr="Exemples :" data-en="Examples:" data-kr="Egzanp:">Exemples :</strong>
+					<ul style="list-style: none; padding: 0; margin: 5px 0 0 0;">
+						<li data-fr="Scoparia dulcis" data-en="Scoparia dulcis" data-kr="Scoparia dulcis">Scoparia dulcis</li>
+						<li data-fr="Randia aculeata" data-en="Randia aculeata" data-kr="Randia aculeata">Randia aculeata</li>
+						<li data-fr="Piscidia piscipula" data-en="Piscidia piscipula" data-kr="Piscidia piscipula">Piscidia piscipula</li>
+					</ul>
+				</div>
+			</div>
+
+			<div class="status-card">
+				<div class="status-code" style="color: #27ae60;">LC</div>
+				<div class="status-name" data-fr="Least Concern" data-en="Least Concern" data-kr="Mwens Preokilpe">Least Concern</div>
+				<div class="status-count" data-fr="2 840 espèces" data-en="2,840 species" data-kr="2 840 espès">2 840 espèces</div>
+				<div class="status-bar" style="background: #27ae60;"></div>
+				<div class="status-examples">
+					<strong data-fr="Exemples :" data-en="Examples:" data-kr="Egzanp:">Exemples :</strong>
+					<ul style="list-style: none; padding: 0; margin: 5px 0 0 0;">
+						<li data-fr="Moringa oleifera" data-en="Moringa oleifera" data-kr="Moringa oleifera">Moringa oleifera</li>
+						<li data-fr="Citrus aurantium" data-en="Citrus aurantium" data-kr="Citrus aurantium">Citrus aurantium</li>
+						<li data-fr="Zingiber officinale" data-en="Zingiber officinale" data-kr="Zingiber officinale">Zingiber officinale</li>
+					</ul>
+				</div>
+			</div>
+
+			<div class="status-card">
+				<div class="status-code" style="color: #95a5a6;">DD</div>
+				<div class="status-name" data-fr="Data Deficient" data-en="Data Deficient" data-kr="Done Defisan">Data Deficient</div>
+				<div class="status-count" data-fr="1 200+ espèces" data-en="1,200+ species" data-kr="1 200+ espès">1 200+ espèces</div>
+				<div class="status-bar" style="background: #95a5a6;"></div>
+				<div class="status-examples">
+					<strong data-fr="Exemples :" data-en="Examples:" data-kr="Egzanp:">Exemples :</strong>
+					<ul style="list-style: none; padding: 0; margin: 5px 0 0 0;">
+						<li data-fr="Espèces peu étudiées" data-en="Little-studied species" data-kr="Espès kèk etidye">Espèces peu étudiées</li>
+						<li data-fr="Usages non documentés" data-en="Undocumented uses" data-kr="Itilizasyon pa dokimante">Usages non documentés</li>
+						<li data-fr="Demande étude urgente" data-en="Urgent study needed" data-kr="Etid ijans nesesè">Demande étude urgente</li>
+					</ul>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+
+<!-- Threat Analysis -->
+<div class="section-bg">
+	<div class="section-inner">
+		<h2 data-fr="Analyse des Menaces pour la Biodiversité PMAA" data-en="Threat Analysis for PMAA Biodiversity" data-kr="Analiz Menas pou Byodivèsite PMAA">Analyse des Menaces pour la Biodiversité PMAA</h2>
+
+		<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 30px; margin-top: 25px;">
+			<div>
+				<h3 style="margin: 0 0 20px 0; color: #2c3e50; font-size: 16px;" data-fr="Niveaux d'Impact par Menace" data-en="Impact Levels by Threat" data-kr="Nivo Enpak pa Men">Niveaux d'Impact par Menace</h3>
+
+				<div class="threat-row">
+					<div class="threat-name" data-fr="Surexploitation" data-en="Overexploitation" data-kr="Suresplwatasyon">Surexploitation</div>
+					<div class="threat-bar-container">
+						<div class="threat-bar">
+							<div class="threat-fill" style="width: 95%;"></div>
+						</div>
+						<div class="threat-level" data-fr="Critique" data-en="Critical" data-kr="Kritik">Critique</div>
+					</div>
+				</div>
+
+				<div class="threat-row">
+					<div class="threat-name" data-fr="Déforestation" data-en="Deforestation" data-kr="Defòrestasyon">Déforestation</div>
+					<div class="threat-bar-container">
+						<div class="threat-bar">
+							<div class="threat-fill" style="width: 92%;"></div>
+						</div>
+						<div class="threat-level" data-fr="Critique" data-en="Critical" data-kr="Kritik">Critique</div>
+					</div>
+				</div>
+
+				<div class="threat-row">
+					<div class="threat-name" data-fr="Méconnaissance" data-en="Lack of knowledge" data-kr="Manke konesans">Méconnaissance</div>
+					<div class="threat-bar-container">
+						<div class="threat-bar">
+							<div class="threat-fill" style="width: 78%;"></div>
+						</div>
+						<div class="threat-level" data-fr="Haute" data-en="High" data-kr="Wo">Haute</div>
+					</div>
+				</div>
+
+				<div class="threat-row">
+					<div class="threat-name" data-fr="Espèces invasives" data-en="Invasive species" data-kr="Espès envaziv">Espèces invasives</div>
+					<div class="threat-bar-container">
+						<div class="threat-bar">
+							<div class="threat-fill" style="width: 65%;"></div>
+						</div>
+						<div class="threat-level" data-fr="Haute" data-en="High" data-kr="Wo">Haute</div>
+					</div>
+				</div>
+
+				<div class="threat-row">
+					<div class="threat-name" data-fr="Catastrophes naturelles" data-en="Natural disasters" data-kr="Katastròf natirel">Catastrophes naturelles</div>
+					<div class="threat-bar-container">
+						<div class="threat-bar">
+							<div class="threat-fill" style="width: 60%;"></div>
+						</div>
+						<div class="threat-level" data-fr="Moyenne" data-en="Medium" data-kr="Mwayen">Moyenne</div>
+					</div>
+				</div>
+
+				<div class="threat-row">
+					<div class="threat-name" data-fr="Absence cadre légal" data-en="Lack of legal framework" data-kr="Absans kad legal">Absence cadre légal</div>
+					<div class="threat-bar-container">
+						<div class="threat-bar">
+							<div class="threat-fill" style="width: 88%;"></div>
+						</div>
+						<div class="threat-level" data-fr="Critique" data-en="Critical" data-kr="Kritik">Critique</div>
+					</div>
+				</div>
+			</div>
+
+			<div>
+				<h3 style="margin: 0 0 20px 0; color: #2c3e50; font-size: 16px;" data-fr="Zones Critiques — Localisation" data-en="Critical Zones — Location" data-kr="Zon Kritik — Lokalizasyon">Zones Critiques — Localisation</h3>
+				<div class="map-placeholder">
+					<div class="map-icon">🗺️</div>
+					<div><strong data-fr="Carte des Zones Critiques" data-en="Map of Critical Zones" data-kr="Kat Zon Kritik">Carte des Zones Critiques</strong></div>
+					<div style="font-size: 13px; margin-top: 5px;" data-fr="Grand Sud & Grand'Anse" data-en="Grand South & Grand'Anse" data-kr="Gran Sid & Gran Ans">Grand Sud &amp; Grand'Anse</div>
+					<div class="map-legend">
+						<div class="legend-item">
+							<div class="legend-dot" style="background: #c0392b;"></div>
+							<span data-fr="Biodiversité en danger critique" data-en="Biodiversity in critical danger" data-kr="Byodivèsite an danje kritik">Biodiversité en danger critique</span>
+						</div>
+						<div class="legend-item">
+							<div class="legend-dot" style="background: #f39c12;"></div>
+							<span data-fr="Forte pression anthropique" data-en="Strong human pressure" data-kr="Fòs pwochen antropik">Forte pression anthropique</span>
+						</div>
+						<div class="legend-item">
+							<div class="legend-dot" style="background: #27ae60;"></div>
+							<span data-fr="Zones protégées existantes" data-en="Existing protected areas" data-kr="Zon pwoteje ki egziste">Zones protégées existantes</span>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+
+<!-- Conservation Actions -->
+<div class="section-green">
+	<div class="section-inner">
+		<h2 data-fr="Plan de Conservation National PMAA" data-en="PMAA National Conservation Plan" data-kr="Plan Konsèvasyon Nasyonal PMAA">Plan de Conservation National PMAA</h2>
+		<p style="margin-bottom: 25px; color: #333;" data-fr="Stratégie intégrée pour la sauvegarde et la valorisation durable de la biodiversité haïtienne, en partenariat avec le MSPP, JBC et partenaires internationaux." data-en="Integrated strategy for the safeguarding and sustainable enhancement of Haitian biodiversity, in partnership with MSPP, JBC and international partners." data-kr="Estrateji entegre pou safegad ak valorisasyon dirab byodivèsite Ayisyen, an patenè avèk MSPP, JBC ak patne entènasjonal.">Stratégie intégrée pour la sauvegarde et la valorisation durable de la biodiversité haïtienne, en partenariat avec le MSPP, JBC et partenaires internationaux.</p>
+
+		<div class="action-cards">
+			<div class="action-card">
+				<h3 data-fr="Conservation In Situ" data-en="In Situ Conservation" data-kr="Konsèvasyon In Situ">Conservation In Situ</h3>
+				<p data-fr="Protection des espèces dans leur habitat naturel — forêts, zones humides, écosystèmes côtiers." data-en="Species protection in their natural habitat — forests, wetlands, coastal ecosystems." data-kr="Pwoteksyon espès nan abita natirel yo — forè, zon imen, ekosistèm côtiè.">Protection des espèces dans leur habitat naturel — forêts, zones humides, écosystèmes côtiers.</p>
+				<ul>
+					<li data-fr="Zones protégées légales (Parc Macaya, Forêt des Pins)" data-en="Legal protected areas (Macaya Park, Pine Forest)" data-kr="Zon pwoteje legal (Pak Macaya, Forè Pen)">Zones protégées légales (Parc Macaya, Forêt des Pins)</li>
+					<li data-fr="Agroforesterie communautaire (semis, reboisement)" data-en="Community agroforestry (planting, reforestation)" data-kr="Agroforestri komine (semens, rebwaze)">Agroforesterie communautaire (semis, reboisement)</li>
+					<li data-fr="Gestion participative avec collectivités" data-en="Participatory management with communities" data-kr="Jesyon partisipativ ak kolektivite">Gestion participative avec collectivités</li>
+					<li data-fr="Suivi écologique périodique" data-en="Periodic ecological monitoring" data-kr="Swiv ekolojik pewoodik">Suivi écologique périodique</li>
+				</ul>
+			</div>
+
+			<div class="action-card">
+				<h3 data-fr="Conservation Ex Situ" data-en="Ex Situ Conservation" data-kr="Konsèvasyon Ex Situ">Conservation Ex Situ</h3>
+				<p data-fr="Préservation hors habitat naturel — banques de graines, pépinières, centres de propagation." data-en="Preservation outside natural habitat — seed banks, nurseries, propagation centers." data-kr="Konsèvasyon deyò abita natirel — bank gre, pepinye, sant pwopagasyon.">Préservation hors habitat naturel — banques de graines, pépinières, centres de propagation.</p>
+				<ul>
+					<li data-fr="Banques de semences du JBC (température contrôlée)" data-en="JBC seed banks (temperature controlled)" data-kr="Bank gre JBC (tanperati kontrole)">Banques de semences du JBC (température contrôlée)</li>
+					<li data-fr="Pépinières de propagation (150 espèces prioritaires)" data-en="Propagation nurseries (150 priority species)" data-kr="Pepinye pwopagasyon (150 espès priyorite)">Pépinières de propagation (150 espèces prioritaires)</li>
+					<li data-fr="Cryoconservation pour espèces extrêmement rares" data-en="Cryoconservation for extremely rare species" data-kr="Kryokonservasyon pou espès ekstrèm ra">Cryoconservation pour espèces extrêmement rares</li>
+					<li data-fr="Échanges internationaux (BGCI, Kew Gardens)" data-en="International exchanges (BGCI, Kew Gardens)" data-kr="Echanj entènasjonal (BGCI, Kew Gardens)">Échanges internationaux (BGCI, Kew Gardens)</li>
+				</ul>
+			</div>
+
+			<div class="action-card">
+				<h3 data-fr="Cadre Légal & Politique" data-en="Legal & Policy Framework" data-kr="Kad Legal & Politik">Cadre Légal &amp; Politique</h3>
+				<p data-fr="Institutionnalisation de la protection des plantes patrimoniales au niveau national." data-en="Institutionalization of protection of heritage plants at national level." data-kr="Institisyonalizasyon pwoteksyon plant patrimoni nan nivo nasyonal.">Institutionnalisation de la protection des plantes patrimoniales au niveau national.</p>
+				<ul>
+					<li data-fr="Statut 'Plantes Patrimoniales Protégées' (en cours)" data-en="Status 'Protected Heritage Plants' (ongoing)" data-kr="Estati 'Plant Patrimoni Pwoteje' (an kou)">Statut "Plantes Patrimoniales Protégées" (en cours)</li>
+					<li data-fr="Listes officielles MSPP (obligatoires dans enseignement)" data-en="Official MSPP lists (mandatory in education)" data-kr="Lis ofisyèl MSPP (obligatwa nan edikasyon)">Listes officielles MSPP (obligatoires dans enseignement)</li>
+					<li data-fr="Sanctions pour surexploitation commerciale" data-en="Penalties for commercial overexploitation" data-kr="Sansyon pou suresplwatasyon komèsyal">Sanctions pour surexploitation commerciale</li>
+					<li data-fr="Incitations pour producteurs agroforestiers" data-en="Incentives for agroforestry producers" data-kr="Ensitasyon pou pwodiktè agroforestè">Incitations pour producteurs agroforestiers</li>
+				</ul>
+			</div>
+
+			<div class="action-card">
+				<h3 data-fr="Suivi & Évaluation" data-en="Monitoring & Evaluation" data-kr="Swiv & Evaliyasyon">Suivi &amp; Évaluation</h3>
+				<p data-fr="Monitoring continu et scientifique de l'efficacité des actions de conservation." data-en="Continuous scientific monitoring of conservation action effectiveness." data-kr="Swiv kontini syantifik efikasite aksyon konsèvasyon.">Monitoring continu et scientifique de l'efficacité des actions de conservation.</p>
+				<ul>
+					<li data-fr="Inventaires quinquennaux UICN (Red List)" data-en="Five-year IUCN inventories (Red List)" data-kr="Envantè senkan UICN (Red List)">Inventaires quinquennaux UICN (Red List)</li>
+					<li data-fr="Système d'alerte précoce (espèces en déclin)" data-en="Early warning system (declining species)" data-kr="Sistèm alèt avans (espès an deklen)">Système d'alerte précoce (espèces en déclin)</li>
+					<li data-fr="Indicateurs de santé écosystémique" data-en="Ecosystem health indicators" data-kr="Endikatè sante ekosistèm">Indicateurs de santé écosystémique</li>
+					<li data-fr="Rapports publics annuels de progrès" data-en="Annual public progress reports" data-kr="Rapo pilik anyèl pwogre">Rapports publics annuels de progrès</li>
+				</ul>
+			</div>
+		</div>
+	</div>
+</div>
+
+<!-- Parc Macaya Section -->
+<div class="section-dark">
+	<div class="section-inner">
+		<h2 data-fr="Parc Macaya — Epicentre de la Biodiversité Haïtienne" data-en="Macaya Park — Epicenter of Haitian Biodiversity" data-kr="Pak Macaya — Epicent Byodivèsite Ayisyen">Parc Macaya — Epicentre de la Biodiversité Haïtienne</h2>
+
+		<div class="macaya-section">
+			<div class="macaya-text">
+				<p data-fr="Parc Macaya est l'écosystème terrestre le plus important de la Caraïbe orientale, abritant une biodiversité exceptionelle et des taux d'endémisme uniques. Ce site représente le cœur de la stratégie de conservation PMAA." data-en="Macaya Park is the most important terrestrial ecosystem in the eastern Caribbean, hosting exceptional biodiversity and unique endemism rates. This site represents the heart of the PMAA conservation strategy." data-kr="Pak Macaya se ekosistèm tèrès pi enpòtan nan Karayib oryantal, ki gen byodivèsite eksepsyonèl ak to endemik inik. Sit sa a reprezante kè estrateji konsèvasyon PMAA.">Parc Macaya est l'écosystème terrestre le plus important de la Caraïbe orientale, abritant une biodiversité exceptionelle et des taux d'endémisme uniques. Ce site représente le cœur de la stratégie de conservation PMAA.</p>
+
+				<div class="macaya-stats">
+					<div class="macaya-stat">
+						<strong data-fr="Surface" data-en="Area" data-kr="Sifas">Surface</strong>
+						<span data-fr="4 706 km²" data-en="4,706 km²" data-kr="4 706 km²">4 706 km²</span>
+					</div>
+					<div class="macaya-stat">
+						<strong data-fr="Départements" data-en="Departments" data-kr="Depatman">Départements</strong>
+						<span data-fr="2 (Sud, Nippes)" data-en="2 (South, Nippes)" data-kr="2 (Sid, Nip)">2 (Sud, Nippes)</span>
+					</div>
+					<div class="macaya-stat">
+						<strong data-fr="Espèces inventoriées" data-en="Species inventoried" data-kr="Espès envantoriye">Espèces inventoriées</strong>
+						<span data-fr="1 547 plantes" data-en="1,547 plants" data-kr="1 547 plant">1 547 plantes</span>
+					</div>
+					<div class="macaya-stat">
+						<strong data-fr="Endémiques Haïti" data-en="Endemic Haiti" data-kr="Endemik Ayiti">Endémiques Haïti</strong>
+						<span data-fr="412 espèces" data-en="412 species" data-kr="412 espès">412 espèces</span>
+					</div>
+					<div class="macaya-stat">
+						<strong data-fr="Espèces menacées" data-en="Threatened species" data-kr="Espès menase">Espèces menacées</strong>
+						<span data-fr="94 (UICN)" data-en="94 (IUCN)" data-kr="94 (UICN)">94 (UICN)</span>
+					</div>
+				</div>
+
+				<p style="font-weight: 500; margin: 20px 0 10px 0; color: #bdc3c7;" data-fr="Timeline des Actions de Conservation :" data-en="Timeline of Conservation Actions:" data-kr="Tiylin Aksyon Konsèvasyon:">Timeline des Actions de Conservation :</p>
+				<div class="macaya-timeline">
+					<div class="timeline-item">
+						<strong data-fr="2003" data-en="2003" data-kr="2003">2003</strong>
+						<span data-fr="Création du Jardin Botanique de Calabaza (JBC) — fondation pour conservation scientifique" data-en="Creation of Calabaza Botanical Garden (JBC) — foundation for scientific conservation" data-kr="Kreyasyon Jaden Botanik Calabaza (JBC) — fondasyon pou konsèvasyon syantifik">Création du Jardin Botanique de Calabaza (JBC) — fondation pour conservation scientifique</span>
+					</div>
+					<div class="timeline-item">
+						<strong data-fr="2012" data-en="2012" data-kr="2012">2012</strong>
+						<span data-fr="Parc Macaya reconnu par UNESCO — zone d'importance internationale" data-en="Macaya Park recognized by UNESCO — area of international importance" data-kr="Pak Macaya rekonèt pa UNESCO — zon enpòtan entènasjonal">Parc Macaya reconnu par UNESCO — zone d'importance internationale</span>
+					</div>
+					<div class="timeline-item">
+						<strong data-fr="2018" data-en="2018" data-kr="2018">2018</strong>
+						<span data-fr="Inventaire floristique complet — baseline scientifique établie" data-en="Complete floristic inventory — scientific baseline established" data-kr="Anvante floristic konplè — basliy syantifik etabli">Inventaire floristique complet — baseline scientifique établie</span>
+					</div>
+					<div class="timeline-item">
+						<strong data-fr="2024" data-en="2024" data-kr="2024">2024</strong>
+						<span data-fr="Lancement du Plan National PMAA — stratégie intégrée 10 ans" data-en="Launch of PMAA National Plan — 10-year integrated strategy" data-kr="Lansman Plan Nasyonal PMAA — estrateji entegre 10 an">Lancement du Plan National PMAA — stratégie intégrée 10 ans</span>
+					</div>
+					<div class="timeline-item">
+						<strong data-fr="2025" data-en="2025" data-kr="2025">2025</strong>
+						<span data-fr="Expansion des zones protégées — objectif 15% du territoire haïtien" data-en="Expansion of protected areas — goal 15% of Haitian territory" data-kr="Ekspansyon zon pwoteje — objektif 15% trito Ayisyen">Expansion des zones protégées — objectif 15% du territoire haïtien</span>
+					</div>
+				</div>
+			</div>
+
+			<div class="engagement-card">
+				<h3 data-fr="Notre Engagement JBC Depuis 2003" data-en="Our JBC Commitment Since 2003" data-kr="Engajman JBC Nou Depi 2003">Notre Engagement JBC Depuis 2003</h3>
+
+				<div>
+					<strong style="display: block; margin-bottom: 8px;" data-fr="Mission" data-en="Mission" data-kr="Misyon">Mission</strong>
+					<p style="margin: 0 0 12px 0;" data-fr="Sauvegarder la flore endémique haïtienne par la recherche scientifique, la conservation ex situ, et l'éducation environnementale. Établir Haïti comme leader caribéen en biodiversité." data-en="Safeguard Haitian endemic flora through scientific research, ex situ conservation, and environmental education. Establish Haiti as a Caribbean leader in biodiversity." data-kr="Safegad flò endemik Ayisyen pa rechèch syantifik, konsèvasyon ex situ, ak edikasyon anviwonmantal. Etabli Ayiti kòm lidè Karayib nan byodivèsite.">Sauvegarder la flore endémique haïtienne par la recherche scientifique, la conservation ex situ, et l'éducation environnementale. Établir Haïti comme leader caribéen en biodiversité.</p>
+				</div>
+
+				<div>
+					<strong data-fr="Projets actuels :" data-en="Current projects:" data-kr="Pwojè aktyèl:">Projets actuels :</strong>
+					<ul style="margin: 8px 0 0 0; padding-left: 18px;">
+						<li data-fr="Banque de semences (1 200+ espèces)" data-en="Seed bank (1,200+ species)" data-kr="Bank gre (1 200+ espès)">Banque de semences (1 200+ espèces)</li>
+						<li data-fr="Pépinière de propagation (50 ha)" data-en="Propagation nursery (50 ha)" data-kr="Pepinye pwopagasyon (50 ha)">Pépinière de propagation (50 ha)</li>
+						<li data-fr="Recherche phytochimique (TRAMIL)" data-en="Phytochemical research (TRAMIL)" data-kr="Rechèch fitokimik (TRAMIL)">Recherche phytochimique (TRAMIL)</li>
+						<li data-fr="Formation naturopathes (100+/an)" data-en="Naturopath training (100+/year)" data-kr="Fòmasyon natiropat (100+/an)">Formation naturopathes (100+/an)</li>
+					</ul>
+				</div>
+
+				<div class="engagement-section">
+					<strong data-fr="Partenaires Internationaux" data-en="International Partners" data-kr="Patne Entènasjonal">Partenaires Internationaux</strong>
+					<ul style="margin: 8px 0 0 0; padding-left: 18px;">
+						<li data-fr="BGCI — Botanic Gardens Conservation International" data-en="BGCI — Botanic Gardens Conservation International" data-kr="BGCI — Botanic Gardens Conservation International">BGCI — Botanic Gardens Conservation International</li>
+						<li data-fr="TRAMIL — Red de Investigación de Tecnologia" data-en="TRAMIL — Research Network for Technology" data-kr="TRAMIL — Red de Investigación de Tecnologia">TRAMIL — Red de Investigación de Tecnologia</li>
+						<li data-fr="WWF Caraïbes — conservation marine & terrestre" data-en="WWF Caribbean — marine & terrestrial conservation" data-kr="WWF Karayib — konsèvasyon dlo & tèrès">WWF Caraïbes — conservation marine &amp; terrestre</li>
+						<li data-fr="Kew Royal Botanic Gardens — expertise scientifique" data-en="Kew Royal Botanic Gardens — scientific expertise" data-kr="Kew Royal Botanic Gardens — ekspetiz syantifik">Kew Royal Botanic Gardens — expertise scientifique</li>
+					</ul>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+
+<!-- SPANB Section -->
+<div class="section-bg">
+	<div class="section-inner">
+		<h2 data-fr="SPANB — Stratégie et Plan d'Action Nationale pour la Biodiversité" data-en="SPANB — National Biodiversity Strategy and Action Plan" data-kr="SPANB — Estrateji Nasyonal ak Plan Aksyon pou Byodivèsite">SPANB — Stratégie et Plan d'Action Nationale pour la Biodiversité</h2>
+		<p style="margin-bottom: 30px; color: #666;" data-fr="Feuille de route 2025-2030 alignée aux objectifs internationaux (CBD Kunming-Montréal) pour restaurer et valoriser durable la biodiversité haïtienne." data-en="2025-2030 roadmap aligned with international objectives (CBD Kunming-Montreal) to restore and sustainably enhance Haitian biodiversity." data-kr="Fèy wout 2025-2030 aliyen ak objektif entènasjonal (CBD Kunming-Montréal) pou restòre ak valworize dirab byodivèsite Ayisyen.">Feuille de route 2025-2030 alignée aux objectifs internationaux (CBD Kunming-Montréal) pour restaurer et valoriser durable la biodiversité haïtienne.</p>
+
+		<div class="timeline-horizontal">
+			<div class="timeline-card">
+				<div class="timeline-period" data-fr="2025–2026" data-en="2025–2026" data-kr="2025–2026">2025–2026</div>
+				<h4 data-fr="Documentation Scientifique" data-en="Scientific Documentation" data-kr="Dokimantasyon Syantifik">Documentation Scientifique</h4>
+				<p data-fr="Inventaires complets de la flore des zones prioritaires. Études phytochimiques. Cartographie de la biodiversité." data-en="Complete inventories of priority zone flora. Phytochemical studies. Biodiversity mapping." data-kr="Anvante konplè flò zon priyorite. Etid fitokimik. Mapaj byodivèsite.">Inventaires complets de la flore des zones prioritaires. Études phytochimiques. Cartographie de la biodiversité.</p>
+				<ul>
+					<li data-fr="20 000+ collectes botaniques" data-en="20,000+ botanical collections" data-kr="20 000+ kolèk botanik">20 000+ collectes botaniques</li>
+					<li data-fr="Analyses chimiques complètes" data-en="Complete chemical analyses" data-kr="Analiz kimik konplè">Analyses chimiques complètes</li>
+					<li data-fr="SIG biodiversité national" data-en="National biodiversity GIS" data-kr="SIG byodivèsite nasyonal">SIG biodiversité national</li>
+				</ul>
+			</div>
+
+			<div class="timeline-card">
+				<div class="timeline-period" data-fr="2026–2028" data-en="2026–2028" data-kr="2026–2028">2026–2028</div>
+				<h4 data-fr="Protection Légale" data-en="Legal Protection" data-kr="Pwoteksyon Legal">Protection Légale</h4>
+				<p data-fr="Enactment de statut des Plantes Patrimoniales Protégées. Élargissement des zones protégées (10% territoire). Loi sur commerce d'espèces menacées." data-en="Enactment of Protected Heritage Plants status. Expansion of protected areas (10% territory). Law on threatened species trade." data-kr="Enaktman estati Plant Patrimoni Pwoteje. Elaji zon pwoteje (10% trito). Lwa sou komès espès menase.">Enactment de statut des Plantes Patrimoniales Protégées. Élargissement des zones protégées (10% territoire). Loi sur commerce d'espèces menacées.</p>
+				<ul>
+					<li data-fr="4 nouveaux parcs nationaux" data-en="4 new national parks" data-kr="4 nové pak nasyonal">4 nouveaux parcs nationaux</li>
+					<li data-fr="Cadre légal strict CITES-Haiti" data-en="Strict CITES-Haiti legal framework" data-kr="Kad legal strict CITES-Haiti">Cadre légal strict CITES-Haiti</li>
+					<li data-fr="Programmes d'indemnisation rural" data-en="Rural compensation programs" data-kr="Pwogram endemnizasyon irel">Programmes d'indemnisation rural</li>
+				</ul>
+			</div>
+
+			<div class="timeline-card">
+				<div class="timeline-period" data-fr="2028–2030" data-en="2028–2030" data-kr="2028–2030">2028–2030</div>
+				<h4 data-fr="Valorisation Durable" data-en="Sustainable Enhancement" data-kr="Valworiwzasyon Dirab">Valorisation Durable</h4>
+				<p data-fr="Modèles agroforestiers. Certification des produits PMAA. Intégration curriculum scolaire. Export légitime maîtrisé." data-en="Agroforestry models. PMAA product certification. School curriculum integration. Controlled legitimate export." data-kr="Modèl agroforestè. Sètifikasyon pwodwi PMAA. Entegrasyon kirikisum elèv. Ekspò lejitim kontrole.">Modèles agroforestiers. Certification des produits PMAA. Intégration curriculum scolaire. Export légitime maîtrisé.</p>
+				<ul>
+					<li data-fr="1 000 fermes agroforestières" data-en="1,000 agroforestry farms" data-kr="1 000 fèm agroforestè">1 000 fermes agroforestières</li>
+					<li data-fr="Label PMAA-Haïti certifié" data-en="Certified PMAA-Haiti label" data-kr="Labèl PMAA-Ayiti sètifye">Label PMAA-Haïti certifié</li>
+					<li data-fr="Formation 500 paysans" data-en="Training 500 farmers" data-kr="Fòmasyon 500 plantè">Formation 500 paysans</li>
+				</ul>
+			</div>
+		</div>
+	</div>
+</div>
+
+<div id="footer-placeholder"></div>
+
+<script src="pmaa-nav.js"></script>
+<script>
+	PMAA.renderNav('conservation');
+	PMAA.renderFooter();
+</script>
+
+</body>
+</html>

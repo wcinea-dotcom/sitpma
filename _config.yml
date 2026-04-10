@@ -69,3 +69,4 @@ exclude:
   - vendor
   - .gitignore
   - README.md
+  - _archive_pmaa

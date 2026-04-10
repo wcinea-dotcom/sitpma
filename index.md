@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Atlas des Plantes du Grand Sud d'Haïti
+permalink: /
 lang: fr
 ---
 
