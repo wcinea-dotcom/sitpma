@@ -3,6 +3,14 @@
 // Gère : rendu des cartes, modal, filtres, menu mobile
 // ============================================================
 
+// ---- Langue courante (compatible PMAA et mode standalone) ---
+function getCurrentLang() {
+    // PMAA context
+    if (typeof PMAA !== 'undefined' && PMAA.currentLang) return PMAA.currentLang === 'kr' ? 'ht' : PMAA.currentLang;
+    // Standalone context
+    return window.currentLang || 'fr';
+}
+
 // ---- Rendu de la grille de plantes -------------------------
 
 function renderPlantes(plantesToRender) {
@@ -20,7 +28,10 @@ function renderPlantes(plantesToRender) {
         return;
     }
 
-    const lang = window.currentLang || 'fr';
+    const lang = getCurrentLang();
+
+    // Placeholder SVG inline (pas de requête réseau)
+    const placeholderSVG = `data:image/svg+xml,${encodeURIComponent('<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300" viewBox="0 0 400 300"><rect width="400" height="300" fill="%23e8f5e9"/><g transform="translate(200,110)"><path d="M0,-45C30,-30 50,0 35,30C20,60 0,40 0,40C0,40-20,60-35,30C-50,0-30,-30 0,-45Z" fill="%234caf50" opacity=".6"/><line x1="0" y1="20" x2="0" y2="65" stroke="%232c5e3b" stroke-width="3"/></g><text x="200" y="210" text-anchor="middle" font-family="Arial" font-size="13" fill="%232c5e3b" font-weight="bold">Photo non disponible</text></svg>')}`;
 
     grid.innerHTML = plantesToRender.map(p => {
         const toxBadge = p.toxicite
@@ -35,14 +46,18 @@ function renderPlantes(plantesToRender) {
               ).join(' ')
             : '';
 
+        // Utiliser le nom scientifique pour construire le chemin si pas d'image
+        const imgSrc = p.image || placeholderSVG;
+
         return `
-        <div class="plant-card bg-white rounded-2xl shadow hover:shadow-xl transition-all duration-300 overflow-hidden border border-gray-100 flex flex-col cursor-pointer group"
+        <div class="plant-card bg-white rounded-2xl shadow hover:shadow-xl transition-shadow duration-300 overflow-hidden border border-gray-100 flex flex-col cursor-pointer group"
              onclick="showPlantDetails(${p.id})">
-            <div class="relative overflow-hidden h-44">
-                <img src="${p.image || '/assets/images/placeholder.svg'}"
+            <div class="relative overflow-hidden h-44 bg-[#e8f5e9]">
+                <img src="${imgSrc}"
                      alt="${p.nomScientifique}"
                      class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500"
-                     onerror="this.src='/assets/images/placeholder.svg'">
+                     loading="lazy"
+                     onerror="this.onerror=null;this.src='${placeholderSVG}';">
                 ${toxBadge}
                 <span class="absolute bottom-2 left-2 bg-[#2c5e3b]/80 text-white text-xs px-2 py-0.5 rounded-full font-medium">
                     ${p.famille || ''}
@@ -64,7 +79,7 @@ function renderPlantes(plantesToRender) {
 function applyFilters() {
     if (typeof plantesData === 'undefined') return;
 
-    const lang       = window.currentLang || 'fr';
+    const lang       = getCurrentLang();
     const search     = (document.getElementById('searchInput')?.value || '').toLowerCase().trim();
     const famille    = document.getElementById('filterFamille')?.value || '';
     const systeme    = document.getElementById('filterSysteme')?.value || '';
@@ -113,7 +128,7 @@ function showPlantDetails(id) {
     const p = plantesData.find(x => x.id === id);
     if (!p) return;
 
-    const lang = window.currentLang || 'fr';
+    const lang = getCurrentLang();
     const modal = document.getElementById('plantModal');
     const content = document.getElementById('modalContent');
     if (!modal || !content) return;
