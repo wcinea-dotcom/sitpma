@@ -1,6 +1,7 @@
 // Auto-generated from plantes_full.json — enriched database
 // 271 plantes — Atlas JBC-BRH
 // Dernière mise à jour : 10 avril 2026
+// Chemins images corrigés : /images/
 
 const plantesData = [
   {
@@ -9,11 +10,11 @@ const plantesData = [
     "nomScientifique": "Ruellia tuberosa L.",
     "famille": "Acanthacées",
     "familleId": "1",
-    "image": "/assets/images/especes/Ruellia_tuberosa/11_Ruellia_tuberosa-001.jpg",
+    "image": "/images/11_Ruellia_tuberosa-001.jpg",
     "images": [
-      "/assets/images/especes/Ruellia_tuberosa/11_Ruellia_tuberosa-001.jpg",
-      "/assets/images/especes/Ruellia_tuberosa/11_Ruellia_tuberosa-002.jpg",
-      "/assets/images/especes/Ruellia_tuberosa/11_Ruellia_tuberosa-003.jpg"
+      "/images/11_Ruellia_tuberosa-001.jpg",
+      "/images/11_Ruellia_tuberosa-002.jpg",
+      "/images/11_Ruellia_tuberosa-003.jpg"
     ],
     "nomCommun": {
       "fr": "Pèpèt",
@@ -57,9 +58,9 @@ const plantesData = [
     "nomScientifique": "Sambucus simpsonii Rehd.",
     "famille": "Adoxacées",
     "familleId": "2",
-    "image": "/assets/images/especes/Sambucus_simpsonii/21_Sambucus_simpsonii-001.jpg",
+    "image": "/images/21_Sambucus_simpsonii-001.jpg",
     "images": [
-      "/assets/images/especes/Sambucus_simpsonii/21_Sambucus_simpsonii-001.jpg"
+      "/images/21_Sambucus_simpsonii-001.jpg"
     ],
     "nomCommun": {
       "fr": "Siwo",
@@ -103,12 +104,12 @@ const plantesData = [
     "nomScientifique": "Sesuvium portulacastrum (L.)",
     "famille": "Aizoacées",
     "familleId": "3",
-    "image": "/assets/images/especes/Sesuvium_portulacastrum/31_Sesuvium_portulacastrum-001.jpg",
+    "image": "/images/31_Sesuvium_portulacastrum-001.jpg",
     "images": [
-      "/assets/images/especes/Sesuvium_portulacastrum/31_Sesuvium_portulacastrum-001.jpg",
-      "/assets/images/especes/Sesuvium_portulacastrum/31_Sesuvium_portulacastrum-002.jpg",
-      "/assets/images/especes/Sesuvium_portulacastrum/31_Sesuvium_portulacastrum-003.jpg",
-      "/assets/images/especes/Sesuvium_portulacastrum/31_Sesuvium_portulacastrum-004.jpg"
+      "/images/31_Sesuvium_portulacastrum-001.jpg",
+      "/images/31_Sesuvium_portulacastrum-002.jpg",
+      "/images/31_Sesuvium_portulacastrum-003.jpg",
+      "/images/31_Sesuvium_portulacastrum-004.jpg"
     ],
     "nomCommun": {
       "fr": "Koupye lanmè",
@@ -152,12 +153,12 @@ const plantesData = [
     "nomScientifique": "Achyranthes aspera",
     "famille": "Amaranthacées",
     "familleId": "4",
-    "image": "/assets/images/especes/Achyranthes_aspera/41_Achyranthes_aspera-001.jpg",
+    "image": "/images/41_Achyranthes_aspera-001.jpg",
     "images": [
-      "/assets/images/especes/Achyranthes_aspera/41_Achyranthes_aspera-001.jpg",
-      "/assets/images/especes/Achyranthes_aspera/41_Achyranthes_aspera-002.jpg",
-      "/assets/images/especes/Achyranthes_aspera/41_Achyranthes_aspera-003.jpg",
-      "/assets/images/especes/Achyranthes_aspera/41_Achyranthes_aspera-005.jpg"
+      "/images/41_Achyranthes_aspera-001.jpg",
+      "/images/41_Achyranthes_aspera-002.jpg",
+      "/images/41_Achyranthes_aspera-003.jpg",
+      "/images/41_Achyranthes_aspera-005.jpg"
     ],
     "nomCommun": {
       "fr": "Ke rat",
@@ -201,10 +202,10 @@ const plantesData = [
     "nomScientifique": "Amaranthus caudatus L.",
     "famille": "Amaranthacées",
     "familleId": "4",
-    "image": "/assets/images/especes/Amaranthus_caudatus/42_Amaranthus_caudatus-001.jpg",
+    "image": "/images/42_Amaranthus_caudatus-001.jpg",
     "images": [
-      "/assets/images/especes/Amaranthus_caudatus/42_Amaranthus_caudatus-001.jpg",
-      "/assets/images/especes/Amaranthus_caudatus/42_Amaranthus_caudatus-002.jpg"
+      "/images/42_Amaranthus_caudatus-001.jpg",
+      "/images/42_Amaranthus_caudatus-002.jpg"
     ],
     "nomCommun": {
       "fr": "Zepina",
@@ -248,11 +249,11 @@ const plantesData = [
     "nomScientifique": "Beta vulgaris L.",
     "famille": "Amaranthacées",
     "familleId": "4",
-    "image": "/assets/images/especes/Beta_vulgaris/43_Beta_vulgaris-001.jpg",
+    "image": "/images/43_Beta_vulgaris-001.jpg",
     "images": [
-      "/assets/images/especes/Beta_vulgaris/43_Beta_vulgaris-001.jpg",
-      "/assets/images/especes/Beta_vulgaris/43_Beta_vulgaris-002.jpg",
-      "/assets/images/especes/Beta_vulgaris/43_Beta_vulgaris-003.jpg"
+      "/images/43_Beta_vulgaris-001.jpg",
+      "/images/43_Beta_vulgaris-002.jpg",
+      "/images/43_Beta_vulgaris-003.jpg"
     ],
     "nomCommun": {
       "fr": "Bètrav",
@@ -296,10 +297,10 @@ const plantesData = [
     "nomScientifique": "Dysphania ambrosioides",
     "famille": "Amaranthacées",
     "familleId": "4",
-    "image": "/assets/images/especes/Dysphania_ambrosioides/44_Dysphania_ambrosioides-001.jpg",
+    "image": "/images/44_Dysphania_ambrosioides-001.jpg",
     "images": [
-      "/assets/images/especes/Dysphania_ambrosioides/44_Dysphania_ambrosioides-001.jpg",
-      "/assets/images/especes/Dysphania_ambrosioides/44_Dysphania_ambrosioides-002.jpg"
+      "/images/44_Dysphania_ambrosioides-001.jpg",
+      "/images/44_Dysphania_ambrosioides-002.jpg"
     ],
     "nomCommun": {
       "fr": "Simenkontra",
@@ -343,9 +344,9 @@ const plantesData = [
     "nomScientifique": "Allium cepa L.",
     "famille": "Amaryllidacées",
     "familleId": "5",
-    "image": "/assets/images/especes/Allium_cepa/51_Allium_cepa-001.jpg",
+    "image": "/images/51_Allium_cepa-001.jpg",
     "images": [
-      "/assets/images/especes/Allium_cepa/51_Allium_cepa-001.jpg"
+      "/images/51_Allium_cepa-001.jpg"
     ],
     "nomCommun": {
       "fr": "Zonyon",
@@ -389,10 +390,10 @@ const plantesData = [
     "nomScientifique": "Allium porrum L.",
     "famille": "Amaryllidacées",
     "familleId": "5",
-    "image": "/assets/images/especes/Allium_porrum/52_Allium_porrum-001.png",
+    "image": "/images/52_Allium_porrum-001.png",
     "images": [
-      "/assets/images/especes/Allium_porrum/52_Allium_porrum-001.png",
-      "/assets/images/especes/Allium_porrum/52_Allium_porrum-002.png"
+      "/images/52_Allium_porrum-001.png",
+      "/images/52_Allium_porrum-002.png"
     ],
     "nomCommun": {
       "fr": "Poro",
@@ -436,12 +437,12 @@ const plantesData = [
     "nomScientifique": "Allium sativum L.",
     "famille": "Amaryllidacées",
     "familleId": "5",
-    "image": "/assets/images/especes/Allium_sativum/53_Allium_sativum-001.jpg",
+    "image": "/images/53_Allium_sativum-001.jpg",
     "images": [
-      "/assets/images/especes/Allium_sativum/53_Allium_sativum-001.jpg",
-      "/assets/images/especes/Allium_sativum/53_Allium_sativum-002.jpg",
-      "/assets/images/especes/Allium_sativum/53_Allium_sativum-003.jpg",
-      "/assets/images/especes/Allium_sativum/53_Allium_sativum-004.jpg"
+      "/images/53_Allium_sativum-001.jpg",
+      "/images/53_Allium_sativum-002.jpg",
+      "/images/53_Allium_sativum-003.jpg",
+      "/images/53_Allium_sativum-004.jpg"
     ],
     "nomCommun": {
       "fr": "Lay",
@@ -485,11 +486,11 @@ const plantesData = [
     "nomScientifique": "Hippeastrum puniceum (Lam.) Voss",
     "famille": "Amaryllidacées",
     "familleId": "5",
-    "image": "/assets/images/especes/Hippeastrum_puniceum/54_Hippeastrum_puniceum-001.jpg",
+    "image": "/images/54_Hippeastrum_puniceum-001.jpg",
     "images": [
-      "/assets/images/especes/Hippeastrum_puniceum/54_Hippeastrum_puniceum-001.jpg",
-      "/assets/images/especes/Hippeastrum_puniceum/54_Hippeastrum_puniceum-002.jpg",
-      "/assets/images/especes/Hippeastrum_puniceum/54_Hippeastrum_puniceum-003.jpg"
+      "/images/54_Hippeastrum_puniceum-001.jpg",
+      "/images/54_Hippeastrum_puniceum-002.jpg",
+      "/images/54_Hippeastrum_puniceum-003.jpg"
     ],
     "nomCommun": {
       "fr": "Lis, Bèl nwit",
@@ -533,11 +534,11 @@ const plantesData = [
     "nomScientifique": "Anacardium occidentale L.",
     "famille": "Anacardiacées",
     "familleId": "6",
-    "image": "/assets/images/especes/Anacardium_occidentale/61_Anacardium_occidentale-001.jpg",
+    "image": "/images/61_Anacardium_occidentale-001.jpg",
     "images": [
-      "/assets/images/especes/Anacardium_occidentale/61_Anacardium_occidentale-001.jpg",
-      "/assets/images/especes/Anacardium_occidentale/61_Anacardium_occidentale-002.jpg",
-      "/assets/images/especes/Anacardium_occidentale/61_Anacardium_occidentale-003.jpg"
+      "/images/61_Anacardium_occidentale-001.jpg",
+      "/images/61_Anacardium_occidentale-002.jpg",
+      "/images/61_Anacardium_occidentale-003.jpg"
     ],
     "nomCommun": {
       "fr": "Ponm kajou/ nwa",
@@ -581,10 +582,10 @@ const plantesData = [
     "nomScientifique": "Comocladia pinnatifolia L.",
     "famille": "Anacardiacées",
     "familleId": "6",
-    "image": "/assets/images/especes/Comocladia_pinnatifolia/62_Comocladia_pinnatifolia-001.jpg",
+    "image": "/images/62_Comocladia_pinnatifolia-001.jpg",
     "images": [
-      "/assets/images/especes/Comocladia_pinnatifolia/62_Comocladia_pinnatifolia-001.jpg",
-      "/assets/images/especes/Comocladia_pinnatifolia/62_Comocladia_pinnatifolia-002.jpg"
+      "/images/62_Comocladia_pinnatifolia-001.jpg",
+      "/images/62_Comocladia_pinnatifolia-002.jpg"
     ],
     "nomCommun": {
       "fr": "Bwa panyòl",
@@ -628,10 +629,10 @@ const plantesData = [
     "nomScientifique": "Mangifera indica L.",
     "famille": "Anacardiacées",
     "familleId": "6",
-    "image": "/assets/images/especes/Mangifera_indica/63_Mangifera_indica-001.jpg",
+    "image": "/images/63_Mangifera_indica-001.jpg",
     "images": [
-      "/assets/images/especes/Mangifera_indica/63_Mangifera_indica-001.jpg",
-      "/assets/images/especes/Mangifera_indica/63_Mangifera_indica-002.jpg"
+      "/images/63_Mangifera_indica-001.jpg",
+      "/images/63_Mangifera_indica-002.jpg"
     ],
     "nomCommun": {
       "fr": "Pye mango",
@@ -675,11 +676,11 @@ const plantesData = [
     "nomScientifique": "Spondias mombin L.",
     "famille": "Anacardiacées",
     "familleId": "6",
-    "image": "/assets/images/especes/Spondias_mombin/64_Spondias_mombin-001.jpg",
+    "image": "/images/64_Spondias_mombin-001.jpg",
     "images": [
-      "/assets/images/especes/Spondias_mombin/64_Spondias_mombin-001.jpg",
-      "/assets/images/especes/Spondias_mombin/64_Spondias_mombin-002.jpg",
-      "/assets/images/especes/Spondias_mombin/64_Spondias_mombin-003.jpg"
+      "/images/64_Spondias_mombin-001.jpg",
+      "/images/64_Spondias_mombin-002.jpg",
+      "/images/64_Spondias_mombin-003.jpg"
     ],
     "nomCommun": {
       "fr": "Monben",
@@ -723,9 +724,9 @@ const plantesData = [
     "nomScientifique": "Spondias purpurea L.",
     "famille": "Anacardiacées",
     "familleId": "6",
-    "image": "/assets/images/especes/Spondias_purpurea/65_Spondias_purpurea-001.jpg",
+    "image": "/images/65_Spondias_purpurea-001.jpg",
     "images": [
-      "/assets/images/especes/Spondias_purpurea/65_Spondias_purpurea-001.jpg"
+      "/images/65_Spondias_purpurea-001.jpg"
     ],
     "nomCommun": {
       "fr": "Siwèl",
@@ -769,7 +770,7 @@ const plantesData = [
     "nomScientifique": "Annona glabra L.",
     "famille": "Annonacées",
     "familleId": "7",
-    "image": "/assets/images/placeholder.jpg",
+    "image": "/images/placeholder.svg",
     "images": [],
     "nomCommun": {
       "fr": "Kachiman maron",
@@ -813,12 +814,12 @@ const plantesData = [
     "nomScientifique": "Annona muricata L.",
     "famille": "Annonacées",
     "familleId": "7",
-    "image": "/assets/images/especes/Annona_muricata/72_Annona_muricata-001.jpg",
+    "image": "/images/72_Annona_muricata-001.jpg",
     "images": [
-      "/assets/images/especes/Annona_muricata/72_Annona_muricata-001.jpg",
-      "/assets/images/especes/Annona_muricata/72_Annona_muricata-002.jpg",
-      "/assets/images/especes/Annona_muricata/72_Annona_muricata-003.jpg",
-      "/assets/images/especes/Annona_muricata/72_Annona_muricata-004.jpg"
+      "/images/72_Annona_muricata-001.jpg",
+      "/images/72_Annona_muricata-002.jpg",
+      "/images/72_Annona_muricata-003.jpg",
+      "/images/72_Annona_muricata-004.jpg"
     ],
     "nomCommun": {
       "fr": "Kowosòl",
@@ -862,10 +863,10 @@ const plantesData = [
     "nomScientifique": "Annona reticulata L.",
     "famille": "Annonacées",
     "familleId": "7",
-    "image": "/assets/images/especes/Annona_reticulata/73_Annona_reticulata-001.jpg",
+    "image": "/images/73_Annona_reticulata-001.jpg",
     "images": [
-      "/assets/images/especes/Annona_reticulata/73_Annona_reticulata-001.jpg",
-      "/assets/images/especes/Annona_reticulata/73_Annona_reticulata-002.jpg"
+      "/images/73_Annona_reticulata-001.jpg",
+      "/images/73_Annona_reticulata-002.jpg"
     ],
     "nomCommun": {
       "fr": "Kachiman kè bèf",
@@ -909,10 +910,10 @@ const plantesData = [
     "nomScientifique": "Annona squamosa L.",
     "famille": "Annonacées",
     "familleId": "7",
-    "image": "/assets/images/especes/Annona_squamosa/74_Annona_squamosa-001.jpg",
+    "image": "/images/74_Annona_squamosa-001.jpg",
     "images": [
-      "/assets/images/especes/Annona_squamosa/74_Annona_squamosa-001.jpg",
-      "/assets/images/especes/Annona_squamosa/74_Annona_squamosa-002.jpg"
+      "/images/74_Annona_squamosa-001.jpg",
+      "/images/74_Annona_squamosa-002.jpg"
     ],
     "nomCommun": {
       "fr": "Kachiman zonbi",
@@ -956,10 +957,10 @@ const plantesData = [
     "nomScientifique": "Cananga odorata",
     "famille": "Annonacées",
     "familleId": "7",
-    "image": "/assets/images/especes/Cananga_odorata/75_Cananga_odorata-001.jpg",
+    "image": "/images/75_Cananga_odorata-001.jpg",
     "images": [
-      "/assets/images/especes/Cananga_odorata/75_Cananga_odorata-001.jpg",
-      "/assets/images/especes/Cananga_odorata/75_Cananga_odorata-002.jpg"
+      "/images/75_Cananga_odorata-001.jpg",
+      "/images/75_Cananga_odorata-002.jpg"
     ],
     "nomCommun": {
       "fr": "Ilang-ilang",
@@ -1003,9 +1004,9 @@ const plantesData = [
     "nomScientifique": "Apium graveolens L.",
     "famille": "Apiacées",
     "familleId": "8",
-    "image": "/assets/images/especes/Apium_graveolens/81_Apium_graveolens-001.jpg",
+    "image": "/images/81_Apium_graveolens-001.jpg",
     "images": [
-      "/assets/images/especes/Apium_graveolens/81_Apium_graveolens-001.jpg"
+      "/images/81_Apium_graveolens-001.jpg"
     ],
     "nomCommun": {
       "fr": "Seleri",
@@ -1049,10 +1050,10 @@ const plantesData = [
     "nomScientifique": "Centella asiatica (L.)",
     "famille": "Apiacées",
     "familleId": "8",
-    "image": "/assets/images/especes/Centella_asiatica/82_Centella_asiatica-001.jpg",
+    "image": "/images/82_Centella_asiatica-001.jpg",
     "images": [
-      "/assets/images/especes/Centella_asiatica/82_Centella_asiatica-001.jpg",
-      "/assets/images/especes/Centella_asiatica/82_Centella_asiatica-002.jpg"
+      "/images/82_Centella_asiatica-001.jpg",
+      "/images/82_Centella_asiatica-002.jpg"
     ],
     "nomCommun": {
       "fr": "Gotu Kola",
@@ -1096,10 +1097,10 @@ const plantesData = [
     "nomScientifique": "Daucus carota L.",
     "famille": "Apiacées",
     "familleId": "8",
-    "image": "/assets/images/especes/Daucus_carota/83_Daucus_carota-001.jpg",
+    "image": "/images/83_Daucus_carota-001.jpg",
     "images": [
-      "/assets/images/especes/Daucus_carota/83_Daucus_carota-001.jpg",
-      "/assets/images/especes/Daucus_carota/83_Daucus_carota-002.jpg"
+      "/images/83_Daucus_carota-001.jpg",
+      "/images/83_Daucus_carota-002.jpg"
     ],
     "nomCommun": {
       "fr": "Kawòt",
@@ -1143,10 +1144,10 @@ const plantesData = [
     "nomScientifique": "Eryngium foetidum L.",
     "famille": "Apiacées",
     "familleId": "8",
-    "image": "/assets/images/especes/Eryngium_foetidum/84_Eryngium_foetidum-001.jpg",
+    "image": "/images/84_Eryngium_foetidum-001.jpg",
     "images": [
-      "/assets/images/especes/Eryngium_foetidum/84_Eryngium_foetidum-001.jpg",
-      "/assets/images/especes/Eryngium_foetidum/84_Eryngium_foetidum-002.jpg"
+      "/images/84_Eryngium_foetidum-001.jpg",
+      "/images/84_Eryngium_foetidum-002.jpg"
     ],
     "nomCommun": {
       "fr": "Koulan",
@@ -1190,9 +1191,9 @@ const plantesData = [
     "nomScientifique": "Foeniculum vulgare Mill.",
     "famille": "Apiacées",
     "familleId": "8",
-    "image": "/assets/images/especes/Foeniculum_vulgare/85_Foeniculum_vulgare-001.jpg",
+    "image": "/images/85_Foeniculum_vulgare-001.jpg",
     "images": [
-      "/assets/images/especes/Foeniculum_vulgare/85_Foeniculum_vulgare-001.jpg"
+      "/images/85_Foeniculum_vulgare-001.jpg"
     ],
     "nomCommun": {
       "fr": "Lanni",
@@ -1236,9 +1237,9 @@ const plantesData = [
     "nomScientifique": "Petroselinum crispum",
     "famille": "Apiacées",
     "familleId": "8",
-    "image": "/assets/images/especes/Petroselinum_crispum/86_Petroselinum_crispum-001.jpg",
+    "image": "/images/86_Petroselinum_crispum-001.jpg",
     "images": [
-      "/assets/images/especes/Petroselinum_crispum/86_Petroselinum_crispum-001.jpg"
+      "/images/86_Petroselinum_crispum-001.jpg"
     ],
     "nomCommun": {
       "fr": "Pèsi",
@@ -1282,11 +1283,11 @@ const plantesData = [
     "nomScientifique": "Asclepias nivea L.",
     "famille": "Apocynacées",
     "familleId": "9",
-    "image": "/assets/images/especes/Asclepias_nivea/91_Asclepias_nivea-001.jpg",
+    "image": "/images/91_Asclepias_nivea-001.jpg",
     "images": [
-      "/assets/images/especes/Asclepias_nivea/91_Asclepias_nivea-001.jpg",
-      "/assets/images/especes/Asclepias_nivea/91_Asclepias_nivea-002.jpg",
-      "/assets/images/especes/Asclepias_nivea/91_Asclepias_nivea-003.jpg"
+      "/images/91_Asclepias_nivea-001.jpg",
+      "/images/91_Asclepias_nivea-002.jpg",
+      "/images/91_Asclepias_nivea-003.jpg"
     ],
     "nomCommun": {
       "fr": "Zèb mandan bouven",
@@ -1330,11 +1331,11 @@ const plantesData = [
     "nomScientifique": "Calotropis procera",
     "famille": "Apocynacées",
     "familleId": "9",
-    "image": "/assets/images/especes/Calotropis_procera/92_Calotropis_procera-001.jpg",
+    "image": "/images/92_Calotropis_procera-001.jpg",
     "images": [
-      "/assets/images/especes/Calotropis_procera/92_Calotropis_procera-001.jpg",
-      "/assets/images/especes/Calotropis_procera/92_Calotropis_procera-002.jpg",
-      "/assets/images/especes/Calotropis_procera/92_Calotropis_procera-003.jpg"
+      "/images/92_Calotropis_procera-001.jpg",
+      "/images/92_Calotropis_procera-002.jpg",
+      "/images/92_Calotropis_procera-003.jpg"
     ],
     "nomCommun": {
       "fr": "Koton swa",
@@ -1378,11 +1379,11 @@ const plantesData = [
     "nomScientifique": "Catharanthus roseus",
     "famille": "Apocynacées",
     "familleId": "9",
-    "image": "/assets/images/especes/Catharanthus_roseus/93_Catharanthus_roseus-001.jpg",
+    "image": "/images/93_Catharanthus_roseus-001.jpg",
     "images": [
-      "/assets/images/especes/Catharanthus_roseus/93_Catharanthus_roseus-001.jpg",
-      "/assets/images/especes/Catharanthus_roseus/93_Catharanthus_roseus-002.jpg",
-      "/assets/images/especes/Catharanthus_roseus/93_Catharanthus_roseus-003.jpg"
+      "/images/93_Catharanthus_roseus-001.jpg",
+      "/images/93_Catharanthus_roseus-002.jpg",
+      "/images/93_Catharanthus_roseus-003.jpg"
     ],
     "nomCommun": {
       "fr": "Kaka poul",
@@ -1426,11 +1427,11 @@ const plantesData = [
     "nomScientifique": "Nerium oleander L.",
     "famille": "Apocynacées",
     "familleId": "9",
-    "image": "/assets/images/especes/Nerium_oleander/94_Nerium_oleander-001.jpg",
+    "image": "/images/94_Nerium_oleander-001.jpg",
     "images": [
-      "/assets/images/especes/Nerium_oleander/94_Nerium_oleander-001.jpg",
-      "/assets/images/especes/Nerium_oleander/94_Nerium_oleander-002.jpg",
-      "/assets/images/especes/Nerium_oleander/94_Nerium_oleander-003.jpg"
+      "/images/94_Nerium_oleander-001.jpg",
+      "/images/94_Nerium_oleander-002.jpg",
+      "/images/94_Nerium_oleander-003.jpg"
     ],
     "nomCommun": {
       "fr": "Lorye",
@@ -1474,10 +1475,10 @@ const plantesData = [
     "nomScientifique": "Plumeria subsessilis",
     "famille": "Apocynacées",
     "familleId": "9",
-    "image": "/assets/images/especes/Plumeria_subsessilis/95_Plumeria_subsessilis-001.jpg",
+    "image": "/images/95_Plumeria_subsessilis-001.jpg",
     "images": [
-      "/assets/images/especes/Plumeria_subsessilis/95_Plumeria_subsessilis-001.jpg",
-      "/assets/images/especes/Plumeria_subsessilis/95_Plumeria_subsessilis-002.jpg"
+      "/images/95_Plumeria_subsessilis-001.jpg",
+      "/images/95_Plumeria_subsessilis-002.jpg"
     ],
     "nomCommun": {
       "fr": "Franjipanye",
@@ -1521,10 +1522,10 @@ const plantesData = [
     "nomScientifique": "Tabernaemontana citrifolia",
     "famille": "Apocynacées",
     "familleId": "9",
-    "image": "/assets/images/especes/Tabernaemontana_citrifolia/96_Tabernaemontana_citrifolia-001.jpg",
+    "image": "/images/96_Tabernaemontana_citrifolia-001.jpg",
     "images": [
-      "/assets/images/especes/Tabernaemontana_citrifolia/96_Tabernaemontana_citrifolia-001.jpg",
-      "/assets/images/especes/Tabernaemontana_citrifolia/96_Tabernaemontana_citrifolia-002.jpg"
+      "/images/96_Tabernaemontana_citrifolia-001.jpg",
+      "/images/96_Tabernaemontana_citrifolia-002.jpg"
     ],
     "nomCommun": {
       "fr": "Bwa lèt",
@@ -1568,10 +1569,10 @@ const plantesData = [
     "nomScientifique": "Thevetia peruviana",
     "famille": "Apocynacées",
     "familleId": "9",
-    "image": "/assets/images/especes/Thevetia_peruviana/97_Thevetia_peruviana-001.jpg",
+    "image": "/images/97_Thevetia_peruviana-001.jpg",
     "images": [
-      "/assets/images/especes/Thevetia_peruviana/97_Thevetia_peruviana-001.jpg",
-      "/assets/images/especes/Thevetia_peruviana/97_Thevetia_peruviana-002.jpg"
+      "/images/97_Thevetia_peruviana-001.jpg",
+      "/images/97_Thevetia_peruviana-002.jpg"
     ],
     "nomCommun": {
       "fr": "Fèy sezi",
@@ -1615,7 +1616,7 @@ const plantesData = [
     "nomScientifique": "Alocasia macrorrhizos",
     "famille": "Aracées",
     "familleId": "10",
-    "image": "/assets/images/placeholder.jpg",
+    "image": "/images/placeholder.svg",
     "images": [],
     "nomCommun": {
       "fr": "Karayib grate",
@@ -1659,10 +1660,10 @@ const plantesData = [
     "nomScientifique": "Colocasia esculenta",
     "famille": "Aracées",
     "familleId": "10",
-    "image": "/assets/images/especes/Colocasia_esculenta/102_Colocasia_esculenta-001.jpg",
+    "image": "/images/102_Colocasia_esculenta-001.jpg",
     "images": [
-      "/assets/images/especes/Colocasia_esculenta/102_Colocasia_esculenta-001.jpg",
-      "/assets/images/especes/Colocasia_esculenta/102_Colocasia_esculenta-002.jpg"
+      "/images/102_Colocasia_esculenta-001.jpg",
+      "/images/102_Colocasia_esculenta-002.jpg"
     ],
     "nomCommun": {
       "fr": "Mazonbèl",
@@ -1706,9 +1707,9 @@ const plantesData = [
     "nomScientifique": "Philodendron consanguineum",
     "famille": "Aracées",
     "familleId": "10",
-    "image": "/assets/images/especes/Philodendron_consanguineum/103_Philodendron_consanguineum-001.jpg",
+    "image": "/images/103_Philodendron_consanguineum-001.jpg",
     "images": [
-      "/assets/images/especes/Philodendron_consanguineum/103_Philodendron_consanguineum-001.jpg"
+      "/images/103_Philodendron_consanguineum-001.jpg"
     ],
     "nomCommun": {
       "fr": "Geritou",
@@ -1752,11 +1753,11 @@ const plantesData = [
     "nomScientifique": "Pistia stratiotes L.",
     "famille": "Aracées",
     "familleId": "10",
-    "image": "/assets/images/especes/Pistia_stratiotes/104_Pistia_stratiotes-001.jpg",
+    "image": "/images/104_Pistia_stratiotes-001.jpg",
     "images": [
-      "/assets/images/especes/Pistia_stratiotes/104_Pistia_stratiotes-001.jpg",
-      "/assets/images/especes/Pistia_stratiotes/104_Pistia_stratiotes-002.jpg",
-      "/assets/images/especes/Pistia_stratiotes/104_Pistia_stratiotes-003.jpg"
+      "/images/104_Pistia_stratiotes-001.jpg",
+      "/images/104_Pistia_stratiotes-002.jpg",
+      "/images/104_Pistia_stratiotes-003.jpg"
     ],
     "nomCommun": {
       "fr": "Lèti dlo",
@@ -1800,12 +1801,12 @@ const plantesData = [
     "nomScientifique": "Dendropanax arboreus",
     "famille": "Araliacées",
     "familleId": "11",
-    "image": "/assets/images/especes/Dendropanax_arboreus/111_Dendropanax_arboreus-001.jpg",
+    "image": "/images/111_Dendropanax_arboreus-001.jpg",
     "images": [
-      "/assets/images/especes/Dendropanax_arboreus/111_Dendropanax_arboreus-001.jpg",
-      "/assets/images/especes/Dendropanax_arboreus/111_Dendropanax_arboreus-002.jpg",
-      "/assets/images/especes/Dendropanax_arboreus/111_Dendropanax_arboreus-003.jpg",
-      "/assets/images/especes/Dendropanax_arboreus/111_Dendropanax_arboreus-006.jpg"
+      "/images/111_Dendropanax_arboreus-001.jpg",
+      "/images/111_Dendropanax_arboreus-002.jpg",
+      "/images/111_Dendropanax_arboreus-003.jpg",
+      "/images/111_Dendropanax_arboreus-006.jpg"
     ],
     "nomCommun": {
       "fr": "Bwa nègès",
@@ -1849,10 +1850,10 @@ const plantesData = [
     "nomScientifique": "Polyscias pinnata",
     "famille": "Araliacées",
     "familleId": "11",
-    "image": "/assets/images/especes/Polyscias_pinnata/112_Polyscias_pinnata-001.png",
+    "image": "/images/112_Polyscias_pinnata-001.png",
     "images": [
-      "/assets/images/especes/Polyscias_pinnata/112_Polyscias_pinnata-001.png",
-      "/assets/images/especes/Polyscias_pinnata/112_Polyscias_pinnata-002.png"
+      "/images/112_Polyscias_pinnata-001.png",
+      "/images/112_Polyscias_pinnata-002.png"
     ],
     "nomCommun": {
       "fr": "Parès",
@@ -1896,10 +1897,10 @@ const plantesData = [
     "nomScientifique": "Schefflera tremula",
     "famille": "Araliacées",
     "familleId": "11",
-    "image": "/assets/images/especes/Schefflera_tremula/113_Schefflera_tremula-001.jpg",
+    "image": "/images/113_Schefflera_tremula-001.jpg",
     "images": [
-      "/assets/images/especes/Schefflera_tremula/113_Schefflera_tremula-001.jpg",
-      "/assets/images/especes/Schefflera_tremula/113_Schefflera_tremula-002.jpg"
+      "/images/113_Schefflera_tremula-001.jpg",
+      "/images/113_Schefflera_tremula-002.jpg"
     ],
     "nomCommun": {
       "fr": "Bwa tranble",
@@ -1943,12 +1944,12 @@ const plantesData = [
     "nomScientifique": "Aristolochia bilobata",
     "famille": "Aristolochiacées",
     "familleId": "12",
-    "image": "/assets/images/especes/Aristolochia_bilobata/121_Aristolochia_bilobata-001.jpg",
+    "image": "/images/121_Aristolochia_bilobata-001.jpg",
     "images": [
-      "/assets/images/especes/Aristolochia_bilobata/121_Aristolochia_bilobata-001.jpg",
-      "/assets/images/especes/Aristolochia_bilobata/121_Aristolochia_bilobata-002.jpg",
-      "/assets/images/especes/Aristolochia_bilobata/121_Aristolochia_bilobata-003.jpg",
-      "/assets/images/especes/Aristolochia_bilobata/121_Aristolochia_bilobata-004.jpg"
+      "/images/121_Aristolochia_bilobata-001.jpg",
+      "/images/121_Aristolochia_bilobata-002.jpg",
+      "/images/121_Aristolochia_bilobata-003.jpg",
+      "/images/121_Aristolochia_bilobata-004.jpg"
     ],
     "nomCommun": {
       "fr": "Aniko",
@@ -1992,7 +1993,7 @@ const plantesData = [
     "nomScientifique": "Caryota mitis",
     "famille": "Arécacées",
     "familleId": "13",
-    "image": "/assets/images/placeholder.jpg",
+    "image": "/images/placeholder.svg",
     "images": [],
     "nomCommun": {
       "fr": "Palmis seleri",
@@ -2036,12 +2037,12 @@ const plantesData = [
     "nomScientifique": "Cocos nucifera L.",
     "famille": "Arécacées",
     "familleId": "13",
-    "image": "/assets/images/especes/Cocos_nucifera/132_Cocos_nucifera-002.jpg",
+    "image": "/images/132_Cocos_nucifera-002.jpg",
     "images": [
-      "/assets/images/especes/Cocos_nucifera/132_Cocos_nucifera-002.jpg",
-      "/assets/images/especes/Cocos_nucifera/132_Cocos_nucifera-003.jpg",
-      "/assets/images/especes/Cocos_nucifera/132_Cocos_nucifera-004.jpg",
-      "/assets/images/especes/Cocos_nucifera/132_Cocos_nucifera-005.jpg"
+      "/images/132_Cocos_nucifera-002.jpg",
+      "/images/132_Cocos_nucifera-003.jpg",
+      "/images/132_Cocos_nucifera-004.jpg",
+      "/images/132_Cocos_nucifera-005.jpg"
     ],
     "nomCommun": {
       "fr": "Kokoye",
@@ -2085,9 +2086,9 @@ const plantesData = [
     "nomScientifique": "Roystonea regia",
     "famille": "Arécacées",
     "familleId": "13",
-    "image": "/assets/images/especes/Roystonea_regia/133_Roystonea_regia-001.jpg",
+    "image": "/images/133_Roystonea_regia-001.jpg",
     "images": [
-      "/assets/images/especes/Roystonea_regia/133_Roystonea_regia-001.jpg"
+      "/images/133_Roystonea_regia-001.jpg"
     ],
     "nomCommun": {
       "fr": "Palmis",
@@ -2131,7 +2132,7 @@ const plantesData = [
     "nomScientifique": "Agave brevispina",
     "famille": "Asparagacées",
     "familleId": "14",
-    "image": "/assets/images/placeholder.jpg",
+    "image": "/images/placeholder.svg",
     "images": [],
     "nomCommun": {
       "fr": "Galata",
@@ -2175,9 +2176,9 @@ const plantesData = [
     "nomScientifique": "Agave sisalana",
     "famille": "Asparagacées",
     "familleId": "14",
-    "image": "/assets/images/especes/Agave_sisalana/142_Agave_sisalana-001.jpg",
+    "image": "/images/142_Agave_sisalana-001.jpg",
     "images": [
-      "/assets/images/especes/Agave_sisalana/142_Agave_sisalana-001.jpg"
+      "/images/142_Agave_sisalana-001.jpg"
     ],
     "nomCommun": {
       "fr": "Pit",
@@ -2221,12 +2222,12 @@ const plantesData = [
     "nomScientifique": "Sansevieria hyacinthoides",
     "famille": "Asparagacées",
     "familleId": "14",
-    "image": "/assets/images/especes/Sansevieria_hyacinthoides/143_Sansevieria_hyacinthoides-001.jpg",
+    "image": "/images/143_Sansevieria_hyacinthoides-001.jpg",
     "images": [
-      "/assets/images/especes/Sansevieria_hyacinthoides/143_Sansevieria_hyacinthoides-001.jpg",
-      "/assets/images/especes/Sansevieria_hyacinthoides/143_Sansevieria_hyacinthoides-002.jpg",
-      "/assets/images/especes/Sansevieria_hyacinthoides/143_Sansevieria_hyacinthoides-003.jpg",
-      "/assets/images/especes/Sansevieria_hyacinthoides/143_Sansevieria_hyacinthoides-004.jpg"
+      "/images/143_Sansevieria_hyacinthoides-001.jpg",
+      "/images/143_Sansevieria_hyacinthoides-002.jpg",
+      "/images/143_Sansevieria_hyacinthoides-003.jpg",
+      "/images/143_Sansevieria_hyacinthoides-004.jpg"
     ],
     "nomCommun": {
       "fr": "Zòrèy bourik",
@@ -2270,7 +2271,7 @@ const plantesData = [
     "nomScientifique": "Aloe vera (L.)",
     "famille": "Asphodélacées",
     "familleId": "15",
-    "image": "/assets/images/placeholder.jpg",
+    "image": "/images/placeholder.svg",
     "images": [],
     "nomCommun": {
       "fr": "Lalwa",
@@ -2314,12 +2315,12 @@ const plantesData = [
     "nomScientifique": "Elekmania stenodon (Urb.) B. Nord.",
     "famille": "Asteracées",
     "familleId": "16",
-    "image": "/assets/images/especes/Elekmania_stenodon/161_Elekmania_stenodon-001.jpg",
+    "image": "/images/161_Elekmania_stenodon-001.jpg",
     "images": [
-      "/assets/images/especes/Elekmania_stenodon/161_Elekmania_stenodon-001.jpg",
-      "/assets/images/especes/Elekmania_stenodon/161_Elekmania_stenodon-002.jpg",
-      "/assets/images/especes/Elekmania_stenodon/161_Elekmania_stenodon-003.jpg",
-      "/assets/images/especes/Elekmania_stenodon/161_Elekmania_stenodon-004.jpg"
+      "/images/161_Elekmania_stenodon-001.jpg",
+      "/images/161_Elekmania_stenodon-002.jpg",
+      "/images/161_Elekmania_stenodon-003.jpg",
+      "/images/161_Elekmania_stenodon-004.jpg"
     ],
     "nomCommun": {
       "fr": "Tisoley",
@@ -2363,7 +2364,7 @@ const plantesData = [
     "nomScientifique": "Gamochaeta purpurea (L.) Cabrera",
     "famille": "Asteracées",
     "familleId": "16",
-    "image": "/assets/images/placeholder.jpg",
+    "image": "/images/placeholder.svg",
     "images": [],
     "nomCommun": {
       "fr": "-",
@@ -2407,10 +2408,10 @@ const plantesData = [
     "nomScientifique": "Gnaphalium domingense Lam.",
     "famille": "Asteracées",
     "familleId": "16",
-    "image": "/assets/images/especes/Gnaphalium_domingense/163_Gnaphalium_domingense-001.jpg",
+    "image": "/images/163_Gnaphalium_domingense-001.jpg",
     "images": [
-      "/assets/images/especes/Gnaphalium_domingense/163_Gnaphalium_domingense-001.jpg",
-      "/assets/images/especes/Gnaphalium_domingense/163_Gnaphalium_domingense-002.jpg"
+      "/images/163_Gnaphalium_domingense-001.jpg",
+      "/images/163_Gnaphalium_domingense-002.jpg"
     ],
     "nomCommun": {
       "fr": "-",
@@ -2454,12 +2455,12 @@ const plantesData = [
     "nomScientifique": "Pluchea carolinensis (Jacq.) G. Don",
     "famille": "Asteracées",
     "familleId": "16",
-    "image": "/assets/images/especes/Pluchea_carolinensis/164_Pluchea_carolinensis-001.jpg",
+    "image": "/images/164_Pluchea_carolinensis-001.jpg",
     "images": [
-      "/assets/images/especes/Pluchea_carolinensis/164_Pluchea_carolinensis-001.jpg",
-      "/assets/images/especes/Pluchea_carolinensis/164_Pluchea_carolinensis-002.jpg",
-      "/assets/images/especes/Pluchea_carolinensis/164_Pluchea_carolinensis-003.jpg",
-      "/assets/images/especes/Pluchea_carolinensis/164_Pluchea_carolinensis-004.jpg"
+      "/images/164_Pluchea_carolinensis-001.jpg",
+      "/images/164_Pluchea_carolinensis-002.jpg",
+      "/images/164_Pluchea_carolinensis-003.jpg",
+      "/images/164_Pluchea_carolinensis-004.jpg"
     ],
     "nomCommun": {
       "fr": "Fèy tabak/Lachoy",
@@ -2503,9 +2504,9 @@ const plantesData = [
     "nomScientifique": "Artemisia annua",
     "famille": "Astéracées",
     "familleId": "17",
-    "image": "/assets/images/especes/Artemisia_annua/171_Artemisia_annua-001.jpg",
+    "image": "/images/171_Artemisia_annua-001.jpg",
     "images": [
-      "/assets/images/especes/Artemisia_annua/171_Artemisia_annua-001.jpg"
+      "/images/171_Artemisia_annua-001.jpg"
     ],
     "nomCommun": {
       "fr": "Amwaz",
@@ -2549,10 +2550,10 @@ const plantesData = [
     "nomScientifique": "Bidens pilosa L.",
     "famille": "Astéracées",
     "familleId": "17",
-    "image": "/assets/images/especes/Bidens_pilosa/172_Bidens_pilosa-001.jpg",
+    "image": "/images/172_Bidens_pilosa-001.jpg",
     "images": [
-      "/assets/images/especes/Bidens_pilosa/172_Bidens_pilosa-001.jpg",
-      "/assets/images/especes/Bidens_pilosa/172_Bidens_pilosa-002.jpg"
+      "/images/172_Bidens_pilosa-001.jpg",
+      "/images/172_Bidens_pilosa-002.jpg"
     ],
     "nomCommun": {
       "fr": "Zegui",
@@ -2596,10 +2597,10 @@ const plantesData = [
     "nomScientifique": "Chromolaena odorata",
     "famille": "Astéracées",
     "familleId": "17",
-    "image": "/assets/images/especes/Chromolaena_odorata/173_Chromolaena_odorata-001.jpg",
+    "image": "/images/173_Chromolaena_odorata-001.jpg",
     "images": [
-      "/assets/images/especes/Chromolaena_odorata/173_Chromolaena_odorata-001.jpg",
-      "/assets/images/especes/Chromolaena_odorata/173_Chromolaena_odorata-002.jpg"
+      "/images/173_Chromolaena_odorata-001.jpg",
+      "/images/173_Chromolaena_odorata-002.jpg"
     ],
     "nomCommun": {
       "fr": "Laglichat",
@@ -2643,9 +2644,9 @@ const plantesData = [
     "nomScientifique": "Lactuca sativa L.",
     "famille": "Astéracées",
     "familleId": "17",
-    "image": "/assets/images/especes/Lactuca_sativa/174_Lactuca_sativa-001.jpg",
+    "image": "/images/174_Lactuca_sativa-001.jpg",
     "images": [
-      "/assets/images/especes/Lactuca_sativa/174_Lactuca_sativa-001.jpg"
+      "/images/174_Lactuca_sativa-001.jpg"
     ],
     "nomCommun": {
       "fr": "Lèti",
@@ -2689,9 +2690,9 @@ const plantesData = [
     "nomScientifique": "Mikania micrantha",
     "famille": "Astéracées",
     "familleId": "17",
-    "image": "/assets/images/especes/Mikania_micrantha/175_Mikania_micrantha-001.jpg",
+    "image": "/images/175_Mikania_micrantha-001.jpg",
     "images": [
-      "/assets/images/especes/Mikania_micrantha/175_Mikania_micrantha-001.jpg"
+      "/images/175_Mikania_micrantha-001.jpg"
     ],
     "nomCommun": {
       "fr": "Lyan franswaz",
@@ -2735,12 +2736,12 @@ const plantesData = [
     "nomScientifique": "Neurolaena lobata",
     "famille": "Astéracées",
     "familleId": "17",
-    "image": "/assets/images/especes/Neurolaena_lobata/176_Neurolaena_lobata-001.jpg",
+    "image": "/images/176_Neurolaena_lobata-001.jpg",
     "images": [
-      "/assets/images/especes/Neurolaena_lobata/176_Neurolaena_lobata-001.jpg",
-      "/assets/images/especes/Neurolaena_lobata/176_Neurolaena_lobata-002.jpg",
-      "/assets/images/especes/Neurolaena_lobata/176_Neurolaena_lobata-003.jpg",
-      "/assets/images/especes/Neurolaena_lobata/176_Neurolaena_lobata-004.jpg"
+      "/images/176_Neurolaena_lobata-001.jpg",
+      "/images/176_Neurolaena_lobata-002.jpg",
+      "/images/176_Neurolaena_lobata-003.jpg",
+      "/images/176_Neurolaena_lobata-004.jpg"
     ],
     "nomCommun": {
       "fr": "Zèb a kou",
@@ -2784,12 +2785,12 @@ const plantesData = [
     "nomScientifique": "Parthenium hysterophorus",
     "famille": "Astéracées",
     "familleId": "17",
-    "image": "/assets/images/especes/Parthenium_hysterophorus/177_Parthenium_hysterophorus-001.jpg",
+    "image": "/images/177_Parthenium_hysterophorus-001.jpg",
     "images": [
-      "/assets/images/especes/Parthenium_hysterophorus/177_Parthenium_hysterophorus-001.jpg",
-      "/assets/images/especes/Parthenium_hysterophorus/177_Parthenium_hysterophorus-002.jpg",
-      "/assets/images/especes/Parthenium_hysterophorus/177_Parthenium_hysterophorus-003.jpg",
-      "/assets/images/especes/Parthenium_hysterophorus/177_Parthenium_hysterophorus-004.jpg"
+      "/images/177_Parthenium_hysterophorus-001.jpg",
+      "/images/177_Parthenium_hysterophorus-002.jpg",
+      "/images/177_Parthenium_hysterophorus-003.jpg",
+      "/images/177_Parthenium_hysterophorus-004.jpg"
     ],
     "nomCommun": {
       "fr": "Lapsent",
@@ -2833,10 +2834,10 @@ const plantesData = [
     "nomScientifique": "Porophyllum ruderale",
     "famille": "Astéracées",
     "familleId": "17",
-    "image": "/assets/images/especes/Porophyllum_ruderale/178_Porophyllum_ruderale-001.jpg",
+    "image": "/images/178_Porophyllum_ruderale-001.jpg",
     "images": [
-      "/assets/images/especes/Porophyllum_ruderale/178_Porophyllum_ruderale-001.jpg",
-      "/assets/images/especes/Porophyllum_ruderale/178_Porophyllum_ruderale-002.jpg"
+      "/images/178_Porophyllum_ruderale-001.jpg",
+      "/images/178_Porophyllum_ruderale-002.jpg"
     ],
     "nomCommun": {
       "fr": "Pa janbe",
@@ -2880,10 +2881,10 @@ const plantesData = [
     "nomScientifique": "Sphagneticola trilobata",
     "famille": "Astéracées",
     "familleId": "17",
-    "image": "/assets/images/especes/Sphagneticola_trilobata/179_Sphagneticola_trilobata-001.jpg",
+    "image": "/images/179_Sphagneticola_trilobata-001.jpg",
     "images": [
-      "/assets/images/especes/Sphagneticola_trilobata/179_Sphagneticola_trilobata-001.jpg",
-      "/assets/images/especes/Sphagneticola_trilobata/179_Sphagneticola_trilobata-002.jpg"
+      "/images/179_Sphagneticola_trilobata-001.jpg",
+      "/images/179_Sphagneticola_trilobata-002.jpg"
     ],
     "nomCommun": {
       "fr": "Zèb krab",
@@ -2927,9 +2928,9 @@ const plantesData = [
     "nomScientifique": "Tagetes patula L.",
     "famille": "Astéracées",
     "familleId": "17",
-    "image": "/assets/images/especes/Tagetes_patula/1710_Tagetes_patula-001.jpg",
+    "image": "/images/1710_Tagetes_patula-001.jpg",
     "images": [
-      "/assets/images/especes/Tagetes_patula/1710_Tagetes_patula-001.jpg"
+      "/images/1710_Tagetes_patula-001.jpg"
     ],
     "nomCommun": {
       "fr": "Sousi",
@@ -2973,10 +2974,10 @@ const plantesData = [
     "nomScientifique": "Vernonia saepium",
     "famille": "Astéracées",
     "familleId": "17",
-    "image": "/assets/images/especes/Vernonia_saepium/1711_Vernonia_saepium-001.jpg",
+    "image": "/images/1711_Vernonia_saepium-001.jpg",
     "images": [
-      "/assets/images/especes/Vernonia_saepium/1711_Vernonia_saepium-001.jpg",
-      "/assets/images/especes/Vernonia_saepium/1711_Vernonia_saepium-002.jpg"
+      "/images/1711_Vernonia_saepium-001.jpg",
+      "/images/1711_Vernonia_saepium-002.jpg"
     ],
     "nomCommun": {
       "fr": "Premye beny, premye te",
@@ -3020,7 +3021,7 @@ const plantesData = [
     "nomScientifique": "Catalpa longissima",
     "famille": "Bignoniacées",
     "familleId": "18",
-    "image": "/assets/images/placeholder.jpg",
+    "image": "/images/placeholder.svg",
     "images": [],
     "nomCommun": {
       "fr": "Bwa chèn",
@@ -3064,10 +3065,10 @@ const plantesData = [
     "nomScientifique": "Crescentia cujete L.",
     "famille": "Bignoniacées",
     "familleId": "18",
-    "image": "/assets/images/especes/Crescentia_cujete/182_Crescentia_cujete-001.jpg",
+    "image": "/images/182_Crescentia_cujete-001.jpg",
     "images": [
-      "/assets/images/especes/Crescentia_cujete/182_Crescentia_cujete-001.jpg",
-      "/assets/images/especes/Crescentia_cujete/182_Crescentia_cujete-002.jpg"
+      "/images/182_Crescentia_cujete-001.jpg",
+      "/images/182_Crescentia_cujete-002.jpg"
     ],
     "nomCommun": {
       "fr": "Kalbas",
@@ -3111,12 +3112,12 @@ const plantesData = [
     "nomScientifique": "Ekmanianthe longiflora",
     "famille": "Bignoniacées",
     "familleId": "18",
-    "image": "/assets/images/especes/Ekmanianthe_longiflora/183_Ekmanianthe_longiflora-001.jpg",
+    "image": "/images/183_Ekmanianthe_longiflora-001.jpg",
     "images": [
-      "/assets/images/especes/Ekmanianthe_longiflora/183_Ekmanianthe_longiflora-001.jpg",
-      "/assets/images/especes/Ekmanianthe_longiflora/183_Ekmanianthe_longiflora-003.jpg",
-      "/assets/images/especes/Ekmanianthe_longiflora/183_Ekmanianthe_longiflora-004.jpg",
-      "/assets/images/especes/Ekmanianthe_longiflora/183_Ekmanianthe_longiflora-005.jpg"
+      "/images/183_Ekmanianthe_longiflora-001.jpg",
+      "/images/183_Ekmanianthe_longiflora-003.jpg",
+      "/images/183_Ekmanianthe_longiflora-004.jpg",
+      "/images/183_Ekmanianthe_longiflora-005.jpg"
     ],
     "nomCommun": {
       "fr": "Bwa chèn",
@@ -3160,11 +3161,11 @@ const plantesData = [
     "nomScientifique": "Tabebuia calcicola Britton",
     "famille": "Bignoniacées",
     "familleId": "18",
-    "image": "/assets/images/especes/Tabebuia_calcicola/184_Tabebuia_calcicola-001.jpg",
+    "image": "/images/184_Tabebuia_calcicola-001.jpg",
     "images": [
-      "/assets/images/especes/Tabebuia_calcicola/184_Tabebuia_calcicola-001.jpg",
-      "/assets/images/especes/Tabebuia_calcicola/184_Tabebuia_calcicola-002.jpg",
-      "/assets/images/especes/Tabebuia_calcicola/184_Tabebuia_calcicola-003.jpg"
+      "/images/184_Tabebuia_calcicola-001.jpg",
+      "/images/184_Tabebuia_calcicola-002.jpg",
+      "/images/184_Tabebuia_calcicola-003.jpg"
     ],
     "nomCommun": {
       "fr": "Kalbasye",
@@ -3208,11 +3209,11 @@ const plantesData = [
     "nomScientifique": "Tabebuia conferta Urb.",
     "famille": "Bignoniacées",
     "familleId": "18",
-    "image": "/assets/images/especes/Tabebuia_conferta/185_Tabebuia_conferta-001.jpg",
+    "image": "/images/185_Tabebuia_conferta-001.jpg",
     "images": [
-      "/assets/images/especes/Tabebuia_conferta/185_Tabebuia_conferta-001.jpg",
-      "/assets/images/especes/Tabebuia_conferta/185_Tabebuia_conferta-002.jpg",
-      "/assets/images/especes/Tabebuia_conferta/185_Tabebuia_conferta-003.jpg"
+      "/images/185_Tabebuia_conferta-001.jpg",
+      "/images/185_Tabebuia_conferta-002.jpg",
+      "/images/185_Tabebuia_conferta-003.jpg"
     ],
     "nomCommun": {
       "fr": "Kalbasye",
@@ -3256,9 +3257,9 @@ const plantesData = [
     "nomScientifique": "Tecoma stans (L.)",
     "famille": "Bignoniacées",
     "familleId": "18",
-    "image": "/assets/images/especes/Tecoma_stans/186_Tecoma_stans-001.jpg",
+    "image": "/images/186_Tecoma_stans-001.jpg",
     "images": [
-      "/assets/images/especes/Tecoma_stans/186_Tecoma_stans-001.jpg"
+      "/images/186_Tecoma_stans-001.jpg"
     ],
     "nomCommun": {
       "fr": "Chevalye",
@@ -3302,10 +3303,10 @@ const plantesData = [
     "nomScientifique": "Bixa orellana L.",
     "famille": "Bixacées",
     "familleId": "19",
-    "image": "/assets/images/especes/Bixa_orellana/191_Bixa_orellana-001.jpg",
+    "image": "/images/191_Bixa_orellana-001.jpg",
     "images": [
-      "/assets/images/especes/Bixa_orellana/191_Bixa_orellana-001.jpg",
-      "/assets/images/especes/Bixa_orellana/191_Bixa_orellana-002.jpg"
+      "/images/191_Bixa_orellana-001.jpg",
+      "/images/191_Bixa_orellana-002.jpg"
     ],
     "nomCommun": {
       "fr": "Roukou",
@@ -3349,10 +3350,10 @@ const plantesData = [
     "nomScientifique": "Wigandia pruritiva",
     "famille": "Boraginacées",
     "familleId": "20",
-    "image": "/assets/images/especes/Wigandia_pruritiva/204_Wigandia_Pruritiva-001.jpg",
+    "image": "/images/204_Wigandia_Pruritiva-001.jpg",
     "images": [
-      "/assets/images/especes/Wigandia_pruritiva/204_Wigandia_Pruritiva-001.jpg",
-      "/assets/images/especes/Wigandia_pruritiva/204_Wigandia_Pruritiva-002.jpg"
+      "/images/204_Wigandia_Pruritiva-001.jpg",
+      "/images/204_Wigandia_Pruritiva-002.jpg"
     ],
     "nomCommun": {
       "fr": "Fey aran",
@@ -3396,10 +3397,10 @@ const plantesData = [
     "nomScientifique": "Heliotropium indicum",
     "famille": "Boraginacées",
     "familleId": "20",
-    "image": "/assets/images/especes/Heliotropium_indicum/201_Heliotropium_indicum-001.jpg",
+    "image": "/images/201_Heliotropium_indicum-001.jpg",
     "images": [
-      "/assets/images/especes/Heliotropium_indicum/201_Heliotropium_indicum-001.jpg",
-      "/assets/images/especes/Heliotropium_indicum/201_Heliotropium_indicum-002.jpg"
+      "/images/201_Heliotropium_indicum-001.jpg",
+      "/images/201_Heliotropium_indicum-002.jpg"
     ],
     "nomCommun": {
       "fr": "Krèt kòk",
@@ -3443,10 +3444,10 @@ const plantesData = [
     "nomScientifique": "Tournefortia hirsutissima",
     "famille": "Boraginacées",
     "familleId": "20",
-    "image": "/assets/images/especes/Tournefortia_hirsutissima/202_Tournefortia_hirsutissima-001.jpg",
+    "image": "/images/202_Tournefortia_hirsutissima-001.jpg",
     "images": [
-      "/assets/images/especes/Tournefortia_hirsutissima/202_Tournefortia_hirsutissima-001.jpg",
-      "/assets/images/especes/Tournefortia_hirsutissima/202_Tournefortia_hirsutissima-002.jpg"
+      "/images/202_Tournefortia_hirsutissima-001.jpg",
+      "/images/202_Tournefortia_hirsutissima-002.jpg"
     ],
     "nomCommun": {
       "fr": "Chikchik",
@@ -3490,9 +3491,9 @@ const plantesData = [
     "nomScientifique": "Varronia serrata",
     "famille": "Boraginacées",
     "familleId": "20",
-    "image": "/assets/images/especes/Varronia_serrata/203_Varronia_serrata-001.jpg",
+    "image": "/images/203_Varronia_serrata-001.jpg",
     "images": [
-      "/assets/images/especes/Varronia_serrata/203_Varronia_serrata-001.jpg"
+      "/images/203_Varronia_serrata-001.jpg"
     ],
     "nomCommun": {
       "fr": "-",
@@ -3536,11 +3537,11 @@ const plantesData = [
     "nomScientifique": "Brassica oleracea capitata",
     "famille": "Brassicacées",
     "familleId": "21",
-    "image": "/assets/images/especes/Brassica_oleracea/211_Brassica_oleracea-001.jpg",
+    "image": "/images/211_Brassica_oleracea-001.jpg",
     "images": [
-      "/assets/images/especes/Brassica_oleracea/211_Brassica_oleracea-001.jpg",
-      "/assets/images/especes/Brassica_oleracea/211_Brassica_oleracea-002.jpg",
-      "/assets/images/especes/Brassica_oleracea/211_Brassica_oleracea-003.jpg"
+      "/images/211_Brassica_oleracea-001.jpg",
+      "/images/211_Brassica_oleracea-002.jpg",
+      "/images/211_Brassica_oleracea-003.jpg"
     ],
     "nomCommun": {
       "fr": "Chou",
@@ -3584,10 +3585,10 @@ const plantesData = [
     "nomScientifique": "Nasturtium officinale",
     "famille": "Brassicacées",
     "familleId": "21",
-    "image": "/assets/images/especes/Nasturtium_officinale/212_Nasturtium_officinale-001.jpg",
+    "image": "/images/212_Nasturtium_officinale-001.jpg",
     "images": [
-      "/assets/images/especes/Nasturtium_officinale/212_Nasturtium_officinale-001.jpg",
-      "/assets/images/especes/Nasturtium_officinale/212_Nasturtium_officinale-002.jpg"
+      "/images/212_Nasturtium_officinale-001.jpg",
+      "/images/212_Nasturtium_officinale-002.jpg"
     ],
     "nomCommun": {
       "fr": "Kreson",
@@ -3631,10 +3632,10 @@ const plantesData = [
     "nomScientifique": "Raphanus sativus L.",
     "famille": "Brassicacées",
     "familleId": "21",
-    "image": "/assets/images/especes/Raphanus_sativus/213_Raphanus_sativus-001.jpg",
+    "image": "/images/213_Raphanus_sativus-001.jpg",
     "images": [
-      "/assets/images/especes/Raphanus_sativus/213_Raphanus_sativus-001.jpg",
-      "/assets/images/especes/Raphanus_sativus/213_Raphanus_sativus-002.jpg"
+      "/images/213_Raphanus_sativus-001.jpg",
+      "/images/213_Raphanus_sativus-002.jpg"
     ],
     "nomCommun": {
       "fr": "Radi",
@@ -3678,7 +3679,7 @@ const plantesData = [
     "nomScientifique": "Ananas comosus (L.)",
     "famille": "Broméliacées",
     "familleId": "22",
-    "image": "/assets/images/placeholder.jpg",
+    "image": "/images/placeholder.svg",
     "images": [],
     "nomCommun": {
       "fr": "Anana",
@@ -3722,7 +3723,7 @@ const plantesData = [
     "nomScientifique": "Bursera simaruba (L.)",
     "famille": "Burséracées",
     "familleId": "23",
-    "image": "/assets/images/placeholder.jpg",
+    "image": "/images/placeholder.svg",
     "images": [],
     "nomCommun": {
       "fr": "Gomye",
@@ -3766,7 +3767,7 @@ const plantesData = [
     "nomScientifique": "Opuntia ficus-indica",
     "famille": "Cactacées",
     "familleId": "24",
-    "image": "/assets/images/placeholder.jpg",
+    "image": "/images/placeholder.svg",
     "images": [],
     "nomCommun": {
       "fr": "Rakèt",
@@ -3810,7 +3811,7 @@ const plantesData = [
     "nomScientifique": "Calophyllum antillanum",
     "famille": "Calophyllacées",
     "familleId": "25",
-    "image": "/assets/images/placeholder.jpg",
+    "image": "/images/placeholder.svg",
     "images": [],
     "nomCommun": {
       "fr": "Danmari",
@@ -3854,10 +3855,10 @@ const plantesData = [
     "nomScientifique": "Mammea americana L.",
     "famille": "Calophyllacées",
     "familleId": "25",
-    "image": "/assets/images/especes/Mammea_americana/252_Mammea_americana-001.jpg",
+    "image": "/images/252_Mammea_americana-001.jpg",
     "images": [
-      "/assets/images/especes/Mammea_americana/252_Mammea_americana-001.jpg",
-      "/assets/images/especes/Mammea_americana/252_Mammea_americana-002.jpg"
+      "/images/252_Mammea_americana-001.jpg",
+      "/images/252_Mammea_americana-002.jpg"
     ],
     "nomCommun": {
       "fr": "Abriko",
@@ -3901,10 +3902,10 @@ const plantesData = [
     "nomScientifique": "Hippobroma longiflora",
     "famille": "Campanulacées",
     "familleId": "26",
-    "image": "/assets/images/especes/Hippobroma_longiflora/261_Hippobroma_longiflora-001.jpg",
+    "image": "/images/261_Hippobroma_longiflora-001.jpg",
     "images": [
-      "/assets/images/especes/Hippobroma_longiflora/261_Hippobroma_longiflora-001.jpg",
-      "/assets/images/especes/Hippobroma_longiflora/261_Hippobroma_longiflora-002.jpg"
+      "/images/261_Hippobroma_longiflora-001.jpg",
+      "/images/261_Hippobroma_longiflora-002.jpg"
     ],
     "nomCommun": {
       "fr": "Chebèk",
@@ -3948,12 +3949,12 @@ const plantesData = [
     "nomScientifique": "Lobelia assurgens L.",
     "famille": "Campanulacées",
     "familleId": "26",
-    "image": "/assets/images/especes/Lobelia_assurgens/262_Lobelia_assurgens-001.jpg",
+    "image": "/images/262_Lobelia_assurgens-001.jpg",
     "images": [
-      "/assets/images/especes/Lobelia_assurgens/262_Lobelia_assurgens-001.jpg",
-      "/assets/images/especes/Lobelia_assurgens/262_Lobelia_assurgens-002.jpg",
-      "/assets/images/especes/Lobelia_assurgens/262_Lobelia_assurgens-003.jpg",
-      "/assets/images/especes/Lobelia_assurgens/262_Lobelia_assurgens-004.jpg"
+      "/images/262_Lobelia_assurgens-001.jpg",
+      "/images/262_Lobelia_assurgens-002.jpg",
+      "/images/262_Lobelia_assurgens-003.jpg",
+      "/images/262_Lobelia_assurgens-004.jpg"
     ],
     "nomCommun": {
       "fr": "Lang bèf",
@@ -3997,7 +3998,7 @@ const plantesData = [
     "nomScientifique": "Capparidastrum frondosum",
     "famille": "Capparacées",
     "familleId": "27",
-    "image": "/assets/images/placeholder.jpg",
+    "image": "/images/placeholder.svg",
     "images": [],
     "nomCommun": {
       "fr": "",
@@ -4041,7 +4042,7 @@ const plantesData = [
     "nomScientifique": "Carica papaya L.",
     "famille": "Caricacées",
     "familleId": "28",
-    "image": "/assets/images/placeholder.jpg",
+    "image": "/images/placeholder.svg",
     "images": [],
     "nomCommun": {
       "fr": "Papay",
@@ -4085,11 +4086,11 @@ const plantesData = [
     "nomScientifique": "Chrysobalanus icaco L.",
     "famille": "Chrysobalanacées",
     "familleId": "29",
-    "image": "/assets/images/especes/Chrysobalanus_icaco/291_Chrysobalanus_icaco-001.jpg",
+    "image": "/images/291_Chrysobalanus_icaco-001.jpg",
     "images": [
-      "/assets/images/especes/Chrysobalanus_icaco/291_Chrysobalanus_icaco-001.jpg",
-      "/assets/images/especes/Chrysobalanus_icaco/291_Chrysobalanus_icaco-002.jpg",
-      "/assets/images/especes/Chrysobalanus_icaco/291_Chrysobalanus_icaco-003.jpg"
+      "/images/291_Chrysobalanus_icaco-001.jpg",
+      "/images/291_Chrysobalanus_icaco-002.jpg",
+      "/images/291_Chrysobalanus_icaco-003.jpg"
     ],
     "nomCommun": {
       "fr": "Zikak",
@@ -4133,10 +4134,10 @@ const plantesData = [
     "nomScientifique": "Clusia minor L.",
     "famille": "Clusiacées",
     "familleId": "30",
-    "image": "/assets/images/especes/Clusia_minor/301_Clusia_minor-001.jpg",
+    "image": "/images/301_Clusia_minor-001.jpg",
     "images": [
-      "/assets/images/especes/Clusia_minor/301_Clusia_minor-001.jpg",
-      "/assets/images/especes/Clusia_minor/301_Clusia_minor-002.jpg"
+      "/images/301_Clusia_minor-001.jpg",
+      "/images/301_Clusia_minor-002.jpg"
     ],
     "nomCommun": {
       "fr": "Ti figye",
@@ -4180,10 +4181,10 @@ const plantesData = [
     "nomScientifique": "Clusia rosea Jacq.",
     "famille": "Clusiacées",
     "familleId": "30",
-    "image": "/assets/images/especes/Clusia_rosea/302_Clusia_rosea-001.jpg",
+    "image": "/images/302_Clusia_rosea-001.jpg",
     "images": [
-      "/assets/images/especes/Clusia_rosea/302_Clusia_rosea-001.jpg",
-      "/assets/images/especes/Clusia_rosea/302_Clusia_rosea-002.jpg"
+      "/images/302_Clusia_rosea-001.jpg",
+      "/images/302_Clusia_rosea-002.jpg"
     ],
     "nomCommun": {
       "fr": "Figye modi",
@@ -4227,10 +4228,10 @@ const plantesData = [
     "nomScientifique": "Garcinia barkeriana",
     "famille": "Clusiacées",
     "familleId": "30",
-    "image": "/assets/images/especes/Garcinia_barkeriana/303_Garcinia_barkeriana-001.jpg",
+    "image": "/images/303_Garcinia_barkeriana-001.jpg",
     "images": [
-      "/assets/images/especes/Garcinia_barkeriana/303_Garcinia_barkeriana-001.jpg",
-      "/assets/images/especes/Garcinia_barkeriana/303_Garcinia_barkeriana-002.jpg"
+      "/images/303_Garcinia_barkeriana-001.jpg",
+      "/images/303_Garcinia_barkeriana-002.jpg"
     ],
     "nomCommun": {
       "fr": "-",
@@ -4274,12 +4275,12 @@ const plantesData = [
     "nomScientifique": "Conocarpus erectus L.",
     "famille": "Combrétacées",
     "familleId": "31",
-    "image": "/assets/images/especes/Conocarpus_erectus/311_Conocarpus_erectus-001.jpg",
+    "image": "/images/311_Conocarpus_erectus-001.jpg",
     "images": [
-      "/assets/images/especes/Conocarpus_erectus/311_Conocarpus_erectus-001.jpg",
-      "/assets/images/especes/Conocarpus_erectus/311_Conocarpus_erectus-002.jpg",
-      "/assets/images/especes/Conocarpus_erectus/311_Conocarpus_erectus-003.jpg",
-      "/assets/images/especes/Conocarpus_erectus/311_Conocarpus_erectus-004.jpg"
+      "/images/311_Conocarpus_erectus-001.jpg",
+      "/images/311_Conocarpus_erectus-002.jpg",
+      "/images/311_Conocarpus_erectus-003.jpg",
+      "/images/311_Conocarpus_erectus-004.jpg"
     ],
     "nomCommun": {
       "fr": "Mangliye",
@@ -4323,10 +4324,10 @@ const plantesData = [
     "nomScientifique": "Terminalia catappa L.",
     "famille": "Combrétacées",
     "familleId": "31",
-    "image": "/assets/images/especes/Terminalia_catappa/312_Terminalia_catappa-001.jpg",
+    "image": "/images/312_Terminalia_catappa-001.jpg",
     "images": [
-      "/assets/images/especes/Terminalia_catappa/312_Terminalia_catappa-001.jpg",
-      "/assets/images/especes/Terminalia_catappa/312_Terminalia_catappa-002.jpg"
+      "/images/312_Terminalia_catappa-001.jpg",
+      "/images/312_Terminalia_catappa-002.jpg"
     ],
     "nomCommun": {
       "fr": "Zanman",
@@ -4370,9 +4371,9 @@ const plantesData = [
     "nomScientifique": "Tradescantia spathacea",
     "famille": "Commélinacées",
     "familleId": "32",
-    "image": "/assets/images/especes/Tradescantia_spathacea/321_Tradescantia_spathacea-001.jpg",
+    "image": "/images/321_Tradescantia_spathacea-001.jpg",
     "images": [
-      "/assets/images/especes/Tradescantia_spathacea/321_Tradescantia_spathacea-001.jpg"
+      "/images/321_Tradescantia_spathacea-001.jpg"
     ],
     "nomCommun": {
       "fr": "-",
@@ -4416,9 +4417,9 @@ const plantesData = [
     "nomScientifique": "Tradescantia zebrina",
     "famille": "Commélinacées",
     "familleId": "32",
-    "image": "/assets/images/especes/Tradescantia_zebrina/322_Tradescantia_zebrina-001.jpg",
+    "image": "/images/322_Tradescantia_zebrina-001.jpg",
     "images": [
-      "/assets/images/especes/Tradescantia_zebrina/322_Tradescantia_zebrina-001.jpg"
+      "/images/322_Tradescantia_zebrina-001.jpg"
     ],
     "nomCommun": {
       "fr": "Zèl ravèt",
@@ -4462,10 +4463,10 @@ const plantesData = [
     "nomScientifique": "Cuscuta americana L.",
     "famille": "Convolvulacées",
     "familleId": "33",
-    "image": "/assets/images/especes/Cuscuta_americana/331_Cuscuta_americana-001.jpg",
+    "image": "/images/331_Cuscuta_americana-001.jpg",
     "images": [
-      "/assets/images/especes/Cuscuta_americana/331_Cuscuta_americana-001.jpg",
-      "/assets/images/especes/Cuscuta_americana/331_Cuscuta_americana-002.jpg"
+      "/images/331_Cuscuta_americana-001.jpg",
+      "/images/331_Cuscuta_americana-002.jpg"
     ],
     "nomCommun": {
       "fr": "Kouskout",
@@ -4509,10 +4510,10 @@ const plantesData = [
     "nomScientifique": "Ipomoea batatas (L.)",
     "famille": "Convolvulacées",
     "familleId": "33",
-    "image": "/assets/images/especes/Ipomoea_batatas/332_Ipomoea_batatas-001.jpg",
+    "image": "/images/332_Ipomoea_batatas-001.jpg",
     "images": [
-      "/assets/images/especes/Ipomoea_batatas/332_Ipomoea_batatas-001.jpg",
-      "/assets/images/especes/Ipomoea_batatas/332_Ipomoea_batatas-002.jpg"
+      "/images/332_Ipomoea_batatas-001.jpg",
+      "/images/332_Ipomoea_batatas-002.jpg"
     ],
     "nomCommun": {
       "fr": "Patat",
@@ -4556,9 +4557,9 @@ const plantesData = [
     "nomScientifique": "Ipomoea pes-caprae",
     "famille": "Convolvulacées",
     "familleId": "33",
-    "image": "/assets/images/especes/Ipomoea_pes-caprae/333_Ipomoea_pes-caprae-002.jpg",
+    "image": "/images/333_Ipomoea_pes-caprae-002.jpg",
     "images": [
-      "/assets/images/especes/Ipomoea_pes-caprae/333_Ipomoea_pes-caprae-002.jpg"
+      "/images/333_Ipomoea_pes-caprae-002.jpg"
     ],
     "nomCommun": {
       "fr": "Patat lanmè",
@@ -4602,11 +4603,11 @@ const plantesData = [
     "nomScientifique": "Kalanchoe pinnata",
     "famille": "Crassulacées",
     "familleId": "34",
-    "image": "/assets/images/especes/Kalanchoe_pinnata/341_Kalanchoe_pinnata-001.jpg",
+    "image": "/images/341_Kalanchoe_pinnata-001.jpg",
     "images": [
-      "/assets/images/especes/Kalanchoe_pinnata/341_Kalanchoe_pinnata-001.jpg",
-      "/assets/images/especes/Kalanchoe_pinnata/341_Kalanchoe_pinnata-002.jpg",
-      "/assets/images/especes/Kalanchoe_pinnata/341_Kalanchoe_pinnata-003.jpg"
+      "/images/341_Kalanchoe_pinnata-001.jpg",
+      "/images/341_Kalanchoe_pinnata-002.jpg",
+      "/images/341_Kalanchoe_pinnata-003.jpg"
     ],
     "nomCommun": {
       "fr": "Fèy lougarou",
@@ -4650,9 +4651,9 @@ const plantesData = [
     "nomScientifique": "Cucumis melo L.",
     "famille": "Cucurbitacées",
     "familleId": "35",
-    "image": "/assets/images/especes/Cucumis_melo/351_Cucumis_melo-001.jpg",
+    "image": "/images/351_Cucumis_melo-001.jpg",
     "images": [
-      "/assets/images/especes/Cucumis_melo/351_Cucumis_melo-001.jpg"
+      "/images/351_Cucumis_melo-001.jpg"
     ],
     "nomCommun": {
       "fr": "Melon",
@@ -4696,10 +4697,10 @@ const plantesData = [
     "nomScientifique": "Cucurbita moschata",
     "famille": "Cucurbitacées",
     "familleId": "35",
-    "image": "/assets/images/especes/Cucurbita_moschata/352_Cucurbita_moschata-001.jpg",
+    "image": "/images/352_Cucurbita_moschata-001.jpg",
     "images": [
-      "/assets/images/especes/Cucurbita_moschata/352_Cucurbita_moschata-001.jpg",
-      "/assets/images/especes/Cucurbita_moschata/352_Cucurbita_moschata-002.jpg"
+      "/images/352_Cucurbita_moschata-001.jpg",
+      "/images/352_Cucurbita_moschata-002.jpg"
     ],
     "nomCommun": {
       "fr": "Jiromon",
@@ -4743,10 +4744,10 @@ const plantesData = [
     "nomScientifique": "Luffa acutangula (L.)",
     "famille": "Cucurbitacées",
     "familleId": "35",
-    "image": "/assets/images/especes/Luffa_acutangula/353_Luffa_acutangula-001.jpg",
+    "image": "/images/353_Luffa_acutangula-001.jpg",
     "images": [
-      "/assets/images/especes/Luffa_acutangula/353_Luffa_acutangula-001.jpg",
-      "/assets/images/especes/Luffa_acutangula/353_Luffa_acutangula-002.jpg"
+      "/images/353_Luffa_acutangula-001.jpg",
+      "/images/353_Luffa_acutangula-002.jpg"
     ],
     "nomCommun": {
       "fr": "Tòchon",
@@ -4790,12 +4791,12 @@ const plantesData = [
     "nomScientifique": "Momordica charantia L.",
     "famille": "Cucurbitacées",
     "familleId": "35",
-    "image": "/assets/images/especes/Momordica_charantia/354_Momordica_charantia-001.jpg",
+    "image": "/images/354_Momordica_charantia-001.jpg",
     "images": [
-      "/assets/images/especes/Momordica_charantia/354_Momordica_charantia-001.jpg",
-      "/assets/images/especes/Momordica_charantia/354_Momordica_charantia-002.jpg",
-      "/assets/images/especes/Momordica_charantia/354_Momordica_charantia-003.jpg",
-      "/assets/images/especes/Momordica_charantia/354_Momordica_charantia-004.jpg"
+      "/images/354_Momordica_charantia-001.jpg",
+      "/images/354_Momordica_charantia-002.jpg",
+      "/images/354_Momordica_charantia-003.jpg",
+      "/images/354_Momordica_charantia-004.jpg"
     ],
     "nomCommun": {
       "fr": "Asosi",
@@ -4839,9 +4840,9 @@ const plantesData = [
     "nomScientifique": "Sechium edule (Jacq.)",
     "famille": "Cucurbitacées",
     "familleId": "35",
-    "image": "/assets/images/especes/Sechium_edule/355_Sechium_edule-001.jpg",
+    "image": "/images/355_Sechium_edule-001.jpg",
     "images": [
-      "/assets/images/especes/Sechium_edule/355_Sechium_edule-001.jpg"
+      "/images/355_Sechium_edule-001.jpg"
     ],
     "nomCommun": {
       "fr": "Militon",
@@ -4885,10 +4886,10 @@ const plantesData = [
     "nomScientifique": "Tapura haitiensis Urb. & Ekman",
     "famille": "Dichapetalacées",
     "familleId": "36",
-    "image": "/assets/images/especes/Tapura_haitiensis/361_Tapura_haitiensis-001.jpg",
+    "image": "/images/361_Tapura_haitiensis-001.jpg",
     "images": [
-      "/assets/images/especes/Tapura_haitiensis/361_Tapura_haitiensis-001.jpg",
-      "/assets/images/especes/Tapura_haitiensis/361_Tapura_haitiensis-002.jpg"
+      "/images/361_Tapura_haitiensis-001.jpg",
+      "/images/361_Tapura_haitiensis-002.jpg"
     ],
     "nomCommun": {
       "fr": "-",
@@ -4932,9 +4933,9 @@ const plantesData = [
     "nomScientifique": "Acalypha alopecuroides",
     "famille": "Euphorbiacées",
     "familleId": "37",
-    "image": "/assets/images/especes/Acalypha_alopecuroides/371_Acalypha_alopecuroides-001.jpg",
+    "image": "/images/371_Acalypha_alopecuroides-001.jpg",
     "images": [
-      "/assets/images/especes/Acalypha_alopecuroides/371_Acalypha_alopecuroides-001.jpg"
+      "/images/371_Acalypha_alopecuroides-001.jpg"
     ],
     "nomCommun": {
       "fr": "Ti ponpon",
@@ -4978,12 +4979,12 @@ const plantesData = [
     "nomScientifique": "Croton ciliatoglandulifer Ortega",
     "famille": "Euphorbiacées",
     "familleId": "37",
-    "image": "/assets/images/especes/Croton_ciliatoglandulifer/372_Croton_ciliatoglandulifer-001.jpg",
+    "image": "/images/372_Croton_ciliatoglandulifer-001.jpg",
     "images": [
-      "/assets/images/especes/Croton_ciliatoglandulifer/372_Croton_ciliatoglandulifer-001.jpg",
-      "/assets/images/especes/Croton_ciliatoglandulifer/372_Croton_ciliatoglandulifer-002.jpg",
-      "/assets/images/especes/Croton_ciliatoglandulifer/372_Croton_ciliatoglandulifer-003.jpg",
-      "/assets/images/especes/Croton_ciliatoglandulifer/372_Croton_ciliatoglandulifer-004.jpg"
+      "/images/372_Croton_ciliatoglandulifer-001.jpg",
+      "/images/372_Croton_ciliatoglandulifer-002.jpg",
+      "/images/372_Croton_ciliatoglandulifer-003.jpg",
+      "/images/372_Croton_ciliatoglandulifer-004.jpg"
     ],
     "nomCommun": {
       "fr": "-",
@@ -5027,9 +5028,9 @@ const plantesData = [
     "nomScientifique": "Croton linearis Jacq.",
     "famille": "Euphorbiacées",
     "familleId": "37",
-    "image": "/assets/images/especes/Croton_linearis/373_Croton_linearis-001.jpg",
+    "image": "/images/373_Croton_linearis-001.jpg",
     "images": [
-      "/assets/images/especes/Croton_linearis/373_Croton_linearis-001.jpg"
+      "/images/373_Croton_linearis-001.jpg"
     ],
     "nomCommun": {
       "fr": "Womaren",
@@ -5073,9 +5074,9 @@ const plantesData = [
     "nomScientifique": "Euphorbia hirta L.",
     "famille": "Euphorbiacées",
     "familleId": "37",
-    "image": "/assets/images/especes/Euphorbia_hirta/374_Euphorbia_hirta-001.jpg",
+    "image": "/images/374_Euphorbia_hirta-001.jpg",
     "images": [
-      "/assets/images/especes/Euphorbia_hirta/374_Euphorbia_hirta-001.jpg"
+      "/images/374_Euphorbia_hirta-001.jpg"
     ],
     "nomCommun": {
       "fr": "Malonmen",
@@ -5119,9 +5120,9 @@ const plantesData = [
     "nomScientifique": "Euphorbia lactea Haw.",
     "famille": "Euphorbiacées",
     "familleId": "37",
-    "image": "/assets/images/especes/Euphorbia_lactea/375_Euphorbia_lactea-001.jpg",
+    "image": "/images/375_Euphorbia_lactea-001.jpg",
     "images": [
-      "/assets/images/especes/Euphorbia_lactea/375_Euphorbia_lactea-001.jpg"
+      "/images/375_Euphorbia_lactea-001.jpg"
     ],
     "nomCommun": {
       "fr": "Kandelab",
@@ -5165,9 +5166,9 @@ const plantesData = [
     "nomScientifique": "Hippomane mancinella",
     "famille": "Euphorbiacées",
     "familleId": "37",
-    "image": "/assets/images/especes/Hippomane_mancinella/376_Hippomane_mancinella-001.jpg",
+    "image": "/images/376_Hippomane_mancinella-001.jpg",
     "images": [
-      "/assets/images/especes/Hippomane_mancinella/376_Hippomane_mancinella-001.jpg"
+      "/images/376_Hippomane_mancinella-001.jpg"
     ],
     "nomCommun": {
       "fr": "Mansenilye",
@@ -5211,12 +5212,12 @@ const plantesData = [
     "nomScientifique": "Hura crepitans L.",
     "famille": "Euphorbiacées",
     "familleId": "37",
-    "image": "/assets/images/especes/Hura_crepitans/377_Hura_crepitans-001.jpg",
+    "image": "/images/377_Hura_crepitans-001.jpg",
     "images": [
-      "/assets/images/especes/Hura_crepitans/377_Hura_crepitans-001.jpg",
-      "/assets/images/especes/Hura_crepitans/377_Hura_crepitans-002.jpg",
-      "/assets/images/especes/Hura_crepitans/377_Hura_crepitans-003.jpg",
-      "/assets/images/especes/Hura_crepitans/377_Hura_crepitans-004.jpg"
+      "/images/377_Hura_crepitans-001.jpg",
+      "/images/377_Hura_crepitans-002.jpg",
+      "/images/377_Hura_crepitans-003.jpg",
+      "/images/377_Hura_crepitans-004.jpg"
     ],
     "nomCommun": {
       "fr": "Sabliye",
@@ -5260,11 +5261,11 @@ const plantesData = [
     "nomScientifique": "Jatropha curcas L.",
     "famille": "Euphorbiacées",
     "familleId": "37",
-    "image": "/assets/images/especes/Jatropha_curcas/378_Jatropha_curcas-001.jpg",
+    "image": "/images/378_Jatropha_curcas-001.jpg",
     "images": [
-      "/assets/images/especes/Jatropha_curcas/378_Jatropha_curcas-001.jpg",
-      "/assets/images/especes/Jatropha_curcas/378_Jatropha_curcas-002.jpg",
-      "/assets/images/especes/Jatropha_curcas/378_Jatropha_curcas-003.jpg"
+      "/images/378_Jatropha_curcas-001.jpg",
+      "/images/378_Jatropha_curcas-002.jpg",
+      "/images/378_Jatropha_curcas-003.jpg"
     ],
     "nomCommun": {
       "fr": "Medsiyen",
@@ -5308,10 +5309,10 @@ const plantesData = [
     "nomScientifique": "Jatropha gossypiifolia",
     "famille": "Euphorbiacées",
     "familleId": "37",
-    "image": "/assets/images/especes/Jatropha_gossypiifolia/379_Jatropha_gossypiifolia-001.jpg",
+    "image": "/images/379_Jatropha_gossypiifolia-001.jpg",
     "images": [
-      "/assets/images/especes/Jatropha_gossypiifolia/379_Jatropha_gossypiifolia-001.jpg",
-      "/assets/images/especes/Jatropha_gossypiifolia/379_Jatropha_gossypiifolia-002.jpg"
+      "/images/379_Jatropha_gossypiifolia-001.jpg",
+      "/images/379_Jatropha_gossypiifolia-002.jpg"
     ],
     "nomCommun": {
       "fr": "Timapou / Ti medsiyen",
@@ -5355,9 +5356,9 @@ const plantesData = [
     "nomScientifique": "Manihot esculenta",
     "famille": "Euphorbiacées",
     "familleId": "37",
-    "image": "/assets/images/especes/Manihot_esculenta/3710_Manihot_esculenta-001.jpg",
+    "image": "/images/3710_Manihot_esculenta-001.jpg",
     "images": [
-      "/assets/images/especes/Manihot_esculenta/3710_Manihot_esculenta-001.jpg"
+      "/images/3710_Manihot_esculenta-001.jpg"
     ],
     "nomCommun": {
       "fr": "Manyòk",
@@ -5401,10 +5402,10 @@ const plantesData = [
     "nomScientifique": "Ricinus communis L.",
     "famille": "Euphorbiacées",
     "familleId": "37",
-    "image": "/assets/images/especes/Ricinus_communis/3711_Ricinus_communis-001.jpg",
+    "image": "/images/3711_Ricinus_communis-001.jpg",
     "images": [
-      "/assets/images/especes/Ricinus_communis/3711_Ricinus_communis-001.jpg",
-      "/assets/images/especes/Ricinus_communis/3711_Ricinus_communis-002.jpg"
+      "/images/3711_Ricinus_communis-001.jpg",
+      "/images/3711_Ricinus_communis-002.jpg"
     ],
     "nomCommun": {
       "fr": "Maskreti",
@@ -5448,10 +5449,10 @@ const plantesData = [
     "nomScientifique": "Abrus precatorius L.",
     "famille": "Fabacées",
     "familleId": "38",
-    "image": "/assets/images/especes/Abrus_precatorius/381_Abrus_precatorius-001.jpg",
+    "image": "/images/381_Abrus_precatorius-001.jpg",
     "images": [
-      "/assets/images/especes/Abrus_precatorius/381_Abrus_precatorius-001.jpg",
-      "/assets/images/especes/Abrus_precatorius/381_Abrus_precatorius-002.jpg"
+      "/images/381_Abrus_precatorius-001.jpg",
+      "/images/381_Abrus_precatorius-002.jpg"
     ],
     "nomCommun": {
       "fr": "Lyann legliz",
@@ -5495,9 +5496,9 @@ const plantesData = [
     "nomScientifique": "Arachis hypogaea L.",
     "famille": "Fabacées",
     "familleId": "38",
-    "image": "/assets/images/especes/Arachis_hypogaea/382_Arachis_hypogaea-001.jpg",
+    "image": "/images/382_Arachis_hypogaea-001.jpg",
     "images": [
-      "/assets/images/especes/Arachis_hypogaea/382_Arachis_hypogaea-001.jpg"
+      "/images/382_Arachis_hypogaea-001.jpg"
     ],
     "nomCommun": {
       "fr": "Pistach",
@@ -5541,10 +5542,10 @@ const plantesData = [
     "nomScientifique": "Bauhinia divaricata L.",
     "famille": "Fabacées",
     "familleId": "38",
-    "image": "/assets/images/especes/Bauhinia_divaricata/383_Bauhinia_divaricata-001.jpg",
+    "image": "/images/383_Bauhinia_divaricata-001.jpg",
     "images": [
-      "/assets/images/especes/Bauhinia_divaricata/383_Bauhinia_divaricata-001.jpg",
-      "/assets/images/especes/Bauhinia_divaricata/383_Bauhinia_divaricata-002.jpg"
+      "/images/383_Bauhinia_divaricata-001.jpg",
+      "/images/383_Bauhinia_divaricata-002.jpg"
     ],
     "nomCommun": {
       "fr": "Ti kanson",
@@ -5588,12 +5589,12 @@ const plantesData = [
     "nomScientifique": "Cajanus cajan (L.)",
     "famille": "Fabacées",
     "familleId": "38",
-    "image": "/assets/images/especes/Cajanus_cajan/384_Cajanus_cajan-001.jpg",
+    "image": "/images/384_Cajanus_cajan-001.jpg",
     "images": [
-      "/assets/images/especes/Cajanus_cajan/384_Cajanus_cajan-001.jpg",
-      "/assets/images/especes/Cajanus_cajan/384_Cajanus_cajan-002.jpg",
-      "/assets/images/especes/Cajanus_cajan/384_Cajanus_cajan-003.jpg",
-      "/assets/images/especes/Cajanus_cajan/384_Cajanus_cajan-004.jpg"
+      "/images/384_Cajanus_cajan-001.jpg",
+      "/images/384_Cajanus_cajan-002.jpg",
+      "/images/384_Cajanus_cajan-003.jpg",
+      "/images/384_Cajanus_cajan-004.jpg"
     ],
     "nomCommun": {
       "fr": "Pwa kongo",
@@ -5637,12 +5638,12 @@ const plantesData = [
     "nomScientifique": "Haematoxylum campechianum",
     "famille": "Fabacées",
     "familleId": "38",
-    "image": "/assets/images/especes/Haematoxylum_campechianum/385_Haematoxylum_campechianum-001.jpg",
+    "image": "/images/385_Haematoxylum_campechianum-001.jpg",
     "images": [
-      "/assets/images/especes/Haematoxylum_campechianum/385_Haematoxylum_campechianum-001.jpg",
-      "/assets/images/especes/Haematoxylum_campechianum/385_Haematoxylum_campechianum-002.jpg",
-      "/assets/images/especes/Haematoxylum_campechianum/385_Haematoxylum_campechianum-003.jpg",
-      "/assets/images/especes/Haematoxylum_campechianum/385_Haematoxylum_campechianum-004.jpg"
+      "/images/385_Haematoxylum_campechianum-001.jpg",
+      "/images/385_Haematoxylum_campechianum-002.jpg",
+      "/images/385_Haematoxylum_campechianum-003.jpg",
+      "/images/385_Haematoxylum_campechianum-004.jpg"
     ],
     "nomCommun": {
       "fr": "Kanpèch",
@@ -5686,10 +5687,10 @@ const plantesData = [
     "nomScientifique": "Inga vera Willd.",
     "famille": "Fabacées",
     "familleId": "38",
-    "image": "/assets/images/especes/Inga_vera/386_Inga_vera-001.jpg",
+    "image": "/images/386_Inga_vera-001.jpg",
     "images": [
-      "/assets/images/especes/Inga_vera/386_Inga_vera-001.jpg",
-      "/assets/images/especes/Inga_vera/386_Inga_vera-002.jpg"
+      "/images/386_Inga_vera-001.jpg",
+      "/images/386_Inga_vera-002.jpg"
     ],
     "nomCommun": {
       "fr": "Sikren",
@@ -5733,10 +5734,10 @@ const plantesData = [
     "nomScientifique": "Mimosa pudica L.",
     "famille": "Fabacées",
     "familleId": "38",
-    "image": "/assets/images/especes/Mimosa_pudica/387_Mimosa_pudica-001.jpg",
+    "image": "/images/387_Mimosa_pudica-001.jpg",
     "images": [
-      "/assets/images/especes/Mimosa_pudica/387_Mimosa_pudica-001.jpg",
-      "/assets/images/especes/Mimosa_pudica/387_Mimosa_pudica-002.jpg"
+      "/images/387_Mimosa_pudica-001.jpg",
+      "/images/387_Mimosa_pudica-002.jpg"
     ],
     "nomCommun": {
       "fr": "Wont",
@@ -5780,10 +5781,10 @@ const plantesData = [
     "nomScientifique": "Mucuna pruriens (L.)",
     "famille": "Fabacées",
     "familleId": "38",
-    "image": "/assets/images/especes/Mucuna_pruriens/388_Mucuna_pruriens-001.jpg",
+    "image": "/images/388_Mucuna_pruriens-001.jpg",
     "images": [
-      "/assets/images/especes/Mucuna_pruriens/388_Mucuna_pruriens-001.jpg",
-      "/assets/images/especes/Mucuna_pruriens/388_Mucuna_pruriens-002.jpg"
+      "/images/388_Mucuna_pruriens-001.jpg",
+      "/images/388_Mucuna_pruriens-002.jpg"
     ],
     "nomCommun": {
       "fr": "Pwa grate",
@@ -5827,9 +5828,9 @@ const plantesData = [
     "nomScientifique": "Mucuna urens (L.)",
     "famille": "Fabacées",
     "familleId": "38",
-    "image": "/assets/images/especes/Mucuna_urens/389_Mucuna_urens-001.jpg",
+    "image": "/images/389_Mucuna_urens-001.jpg",
     "images": [
-      "/assets/images/especes/Mucuna_urens/389_Mucuna_urens-001.jpg"
+      "/images/389_Mucuna_urens-001.jpg"
     ],
     "nomCommun": {
       "fr": "Je bourik",
@@ -5873,10 +5874,10 @@ const plantesData = [
     "nomScientifique": "Phaseolus lunatus L.",
     "famille": "Fabacées",
     "familleId": "38",
-    "image": "/assets/images/especes/Phaseolus_lunatus/3810_Phaseolus_lunatus-001.jpg",
+    "image": "/images/3810_Phaseolus_lunatus-001.jpg",
     "images": [
-      "/assets/images/especes/Phaseolus_lunatus/3810_Phaseolus_lunatus-001.jpg",
-      "/assets/images/especes/Phaseolus_lunatus/3810_Phaseolus_lunatus-002.jpg"
+      "/images/3810_Phaseolus_lunatus-001.jpg",
+      "/images/3810_Phaseolus_lunatus-002.jpg"
     ],
     "nomCommun": {
       "fr": "Pwa souch",
@@ -5920,12 +5921,12 @@ const plantesData = [
     "nomScientifique": "Prosopis juliflora",
     "famille": "Fabacées",
     "familleId": "38",
-    "image": "/assets/images/especes/Prosopis_juliflora/3811_Prosopis_juliflora-001.jpg",
+    "image": "/images/3811_Prosopis_juliflora-001.jpg",
     "images": [
-      "/assets/images/especes/Prosopis_juliflora/3811_Prosopis_juliflora-001.jpg",
-      "/assets/images/especes/Prosopis_juliflora/3811_Prosopis_juliflora-002.jpg",
-      "/assets/images/especes/Prosopis_juliflora/3811_Prosopis_juliflora-003.jpg",
-      "/assets/images/especes/Prosopis_juliflora/3811_Prosopis_juliflora-004.jpg"
+      "/images/3811_Prosopis_juliflora-001.jpg",
+      "/images/3811_Prosopis_juliflora-002.jpg",
+      "/images/3811_Prosopis_juliflora-003.jpg",
+      "/images/3811_Prosopis_juliflora-004.jpg"
     ],
     "nomCommun": {
       "fr": "Bayawonn",
@@ -5969,10 +5970,10 @@ const plantesData = [
     "nomScientifique": "Senna alata (L.)",
     "famille": "Fabacées",
     "familleId": "38",
-    "image": "/assets/images/especes/Senna_alata/3812_Senna_alata-001.jpg",
+    "image": "/images/3812_Senna_alata-001.jpg",
     "images": [
-      "/assets/images/especes/Senna_alata/3812_Senna_alata-001.jpg",
-      "/assets/images/especes/Senna_alata/3812_Senna_alata-002.jpg"
+      "/images/3812_Senna_alata-001.jpg",
+      "/images/3812_Senna_alata-002.jpg"
     ],
     "nomCommun": {
       "fr": "Flè dat",
@@ -6016,10 +6017,10 @@ const plantesData = [
     "nomScientifique": "Senna occidentalis (L.)",
     "famille": "Fabacées",
     "familleId": "38",
-    "image": "/assets/images/especes/Senna_occidentalis/3813_Senna_occidentalis-001.jpg",
+    "image": "/images/3813_Senna_occidentalis-001.jpg",
     "images": [
-      "/assets/images/especes/Senna_occidentalis/3813_Senna_occidentalis-001.jpg",
-      "/assets/images/especes/Senna_occidentalis/3813_Senna_occidentalis-002.jpg"
+      "/images/3813_Senna_occidentalis-001.jpg",
+      "/images/3813_Senna_occidentalis-002.jpg"
     ],
     "nomCommun": {
       "fr": "Pwa pyant",
@@ -6063,12 +6064,12 @@ const plantesData = [
     "nomScientifique": "Tamarindus indica L.",
     "famille": "Fabacées",
     "familleId": "38",
-    "image": "/assets/images/especes/Tamarindus_indica/3814_Tamarindus_indica-001.jpg",
+    "image": "/images/3814_Tamarindus_indica-001.jpg",
     "images": [
-      "/assets/images/especes/Tamarindus_indica/3814_Tamarindus_indica-001.jpg",
-      "/assets/images/especes/Tamarindus_indica/3814_Tamarindus_indica-002.jpg",
-      "/assets/images/especes/Tamarindus_indica/3814_Tamarindus_indica-003.jpg",
-      "/assets/images/especes/Tamarindus_indica/3814_Tamarindus_indica-004.jpg"
+      "/images/3814_Tamarindus_indica-001.jpg",
+      "/images/3814_Tamarindus_indica-002.jpg",
+      "/images/3814_Tamarindus_indica-003.jpg",
+      "/images/3814_Tamarindus_indica-004.jpg"
     ],
     "nomCommun": {
       "fr": "Tamaren",
@@ -6112,10 +6113,10 @@ const plantesData = [
     "nomScientifique": "Rhytidophyllum bicolor",
     "famille": "Gesneriacées",
     "familleId": "39",
-    "image": "/assets/images/especes/Rhytidophyllum_bicolor/391_Rhytidophyllum_bicolor-001.jpg",
+    "image": "/images/391_Rhytidophyllum_bicolor-001.jpg",
     "images": [
-      "/assets/images/especes/Rhytidophyllum_bicolor/391_Rhytidophyllum_bicolor-001.jpg",
-      "/assets/images/especes/Rhytidophyllum_bicolor/391_Rhytidophyllum_bicolor-002.jpg"
+      "/images/391_Rhytidophyllum_bicolor-001.jpg",
+      "/images/391_Rhytidophyllum_bicolor-002.jpg"
     ],
     "nomCommun": {
       "fr": "Fey aran/ kasenèt",
@@ -6159,10 +6160,10 @@ const plantesData = [
     "nomScientifique": "Heliconia bihai (L.) L.",
     "famille": "Heliconiacées",
     "familleId": "40",
-    "image": "/assets/images/especes/Heliconia_bihai/401_Heliconia_bihai-001.jpg",
+    "image": "/images/401_Heliconia_bihai-001.jpg",
     "images": [
-      "/assets/images/especes/Heliconia_bihai/401_Heliconia_bihai-001.jpg",
-      "/assets/images/especes/Heliconia_bihai/401_Heliconia_bihai-002.jpg"
+      "/images/401_Heliconia_bihai-001.jpg",
+      "/images/401_Heliconia_bihai-002.jpg"
     ],
     "nomCommun": {
       "fr": "Banann mawon",
@@ -6206,12 +6207,12 @@ const plantesData = [
     "nomScientifique": "Hernandia obovata",
     "famille": "Hernandiacées",
     "familleId": "41",
-    "image": "/assets/images/especes/Hernandia_obovata/411_Hernandia_obovata-001.jpg",
+    "image": "/images/411_Hernandia_obovata-001.jpg",
     "images": [
-      "/assets/images/especes/Hernandia_obovata/411_Hernandia_obovata-001.jpg",
-      "/assets/images/especes/Hernandia_obovata/411_Hernandia_obovata-002.jpg",
-      "/assets/images/especes/Hernandia_obovata/411_Hernandia_obovata-003.jpg",
-      "/assets/images/especes/Hernandia_obovata/411_Hernandia_obovata-004.jpg"
+      "/images/411_Hernandia_obovata-001.jpg",
+      "/images/411_Hernandia_obovata-002.jpg",
+      "/images/411_Hernandia_obovata-003.jpg",
+      "/images/411_Hernandia_obovata-004.jpg"
     ],
     "nomCommun": {
       "fr": "Mabilo",
@@ -6255,10 +6256,10 @@ const plantesData = [
     "nomScientifique": "Clerodendrum spinosum",
     "famille": "Lamiacées",
     "familleId": "42",
-    "image": "/assets/images/especes/Clerodendrum_spinosum/421_Clerodendrum_spinosum-001.jpg",
+    "image": "/images/421_Clerodendrum_spinosum-001.jpg",
     "images": [
-      "/assets/images/especes/Clerodendrum_spinosum/421_Clerodendrum_spinosum-001.jpg",
-      "/assets/images/especes/Clerodendrum_spinosum/421_Clerodendrum_spinosum-002.jpg"
+      "/images/421_Clerodendrum_spinosum-001.jpg",
+      "/images/421_Clerodendrum_spinosum-002.jpg"
     ],
     "nomCommun": {
       "fr": "Je mouton",
@@ -6302,12 +6303,12 @@ const plantesData = [
     "nomScientifique": "Coleus barbatus (Andr.) Benth.",
     "famille": "Lamiacées",
     "familleId": "42",
-    "image": "/assets/images/especes/Coleus_barbatus/422_Coleus_barbatus-001.jpg",
+    "image": "/images/422_Coleus_barbatus-001.jpg",
     "images": [
-      "/assets/images/especes/Coleus_barbatus/422_Coleus_barbatus-001.jpg",
-      "/assets/images/especes/Coleus_barbatus/422_Coleus_barbatus-002.jpg",
-      "/assets/images/especes/Coleus_barbatus/422_Coleus_barbatus-003.jpg",
-      "/assets/images/especes/Coleus_barbatus/422_Coleus_barbatus-004.jpg"
+      "/images/422_Coleus_barbatus-001.jpg",
+      "/images/422_Coleus_barbatus-002.jpg",
+      "/images/422_Coleus_barbatus-003.jpg",
+      "/images/422_Coleus_barbatus-004.jpg"
     ],
     "nomCommun": {
       "fr": "-",
@@ -6351,10 +6352,10 @@ const plantesData = [
     "nomScientifique": "Melissa officinalis L.",
     "famille": "Lamiacées",
     "familleId": "42",
-    "image": "/assets/images/especes/Melissa_officinalis/423_Melissa_officinalis-001.jpg",
+    "image": "/images/423_Melissa_officinalis-001.jpg",
     "images": [
-      "/assets/images/especes/Melissa_officinalis/423_Melissa_officinalis-001.jpg",
-      "/assets/images/especes/Melissa_officinalis/423_Melissa_officinalis-002.jpg"
+      "/images/423_Melissa_officinalis-001.jpg",
+      "/images/423_Melissa_officinalis-002.jpg"
     ],
     "nomCommun": {
       "fr": "Melis",
@@ -6398,9 +6399,9 @@ const plantesData = [
     "nomScientifique": "Mentha nemorosa Willd.",
     "famille": "Lamiacées",
     "familleId": "42",
-    "image": "/assets/images/especes/Mentha_nemorosa/424_Mentha_nemorosa-001.jpg",
+    "image": "/images/424_Mentha_nemorosa-001.jpg",
     "images": [
-      "/assets/images/especes/Mentha_nemorosa/424_Mentha_nemorosa-001.jpg"
+      "/images/424_Mentha_nemorosa-001.jpg"
     ],
     "nomCommun": {
       "fr": "Ti bonm",
@@ -6444,10 +6445,10 @@ const plantesData = [
     "nomScientifique": "Ocimum basilicum L.",
     "famille": "Lamiacées",
     "familleId": "42",
-    "image": "/assets/images/especes/Ocimum_basilicum/425_Ocimum_basilicum-001.jpg",
+    "image": "/images/425_Ocimum_basilicum-001.jpg",
     "images": [
-      "/assets/images/especes/Ocimum_basilicum/425_Ocimum_basilicum-001.jpg",
-      "/assets/images/especes/Ocimum_basilicum/425_Ocimum_basilicum-002.jpg"
+      "/images/425_Ocimum_basilicum-001.jpg",
+      "/images/425_Ocimum_basilicum-002.jpg"
     ],
     "nomCommun": {
       "fr": "Bazilik",
@@ -6491,10 +6492,10 @@ const plantesData = [
     "nomScientifique": "Ocimum gratissimum L.",
     "famille": "Lamiacées",
     "familleId": "42",
-    "image": "/assets/images/especes/Ocimum_gratissimum/426_Ocimum_gratissimum-001.jpg",
+    "image": "/images/426_Ocimum_gratissimum-001.jpg",
     "images": [
-      "/assets/images/especes/Ocimum_gratissimum/426_Ocimum_gratissimum-001.jpg",
-      "/assets/images/especes/Ocimum_gratissimum/426_Ocimum_gratissimum-002.jpg"
+      "/images/426_Ocimum_gratissimum-001.jpg",
+      "/images/426_Ocimum_gratissimum-002.jpg"
     ],
     "nomCommun": {
       "fr": "Fobazen",
@@ -6538,11 +6539,11 @@ const plantesData = [
     "nomScientifique": "Plectranthus amboinicus",
     "famille": "Lamiacées",
     "familleId": "42",
-    "image": "/assets/images/especes/Plectranthus_amboinicus/427_Plectranthus_amboinicus-001.jpg",
+    "image": "/images/427_Plectranthus_amboinicus-001.jpg",
     "images": [
-      "/assets/images/especes/Plectranthus_amboinicus/427_Plectranthus_amboinicus-001.jpg",
-      "/assets/images/especes/Plectranthus_amboinicus/427_Plectranthus_amboinicus-002.jpg",
-      "/assets/images/especes/Plectranthus_amboinicus/427_Plectranthus_amboinicus-003.jpg"
+      "/images/427_Plectranthus_amboinicus-001.jpg",
+      "/images/427_Plectranthus_amboinicus-002.jpg",
+      "/images/427_Plectranthus_amboinicus-003.jpg"
     ],
     "nomCommun": {
       "fr": "Gwo ten",
@@ -6586,9 +6587,9 @@ const plantesData = [
     "nomScientifique": "Salvia rosmarinus (L.)",
     "famille": "Lamiacées",
     "familleId": "42",
-    "image": "/assets/images/especes/Salvia_rosmarinus/428_Salvia_rosmarinus-001.jpg",
+    "image": "/images/428_Salvia_rosmarinus-001.jpg",
     "images": [
-      "/assets/images/especes/Salvia_rosmarinus/428_Salvia_rosmarinus-001.jpg"
+      "/images/428_Salvia_rosmarinus-001.jpg"
     ],
     "nomCommun": {
       "fr": "Womaren",
@@ -6632,9 +6633,9 @@ const plantesData = [
     "nomScientifique": "Thymus vulgaris L.",
     "famille": "Lamiacées",
     "familleId": "42",
-    "image": "/assets/images/especes/Thymus_vulgaris/429_Thymus_vulgaris-001.jpg",
+    "image": "/images/429_Thymus_vulgaris-001.jpg",
     "images": [
-      "/assets/images/especes/Thymus_vulgaris/429_Thymus_vulgaris-001.jpg"
+      "/images/429_Thymus_vulgaris-001.jpg"
     ],
     "nomCommun": {
       "fr": "Ten",
@@ -6678,9 +6679,9 @@ const plantesData = [
     "nomScientifique": "Cinnamomum verum",
     "famille": "Lauracées",
     "familleId": "43",
-    "image": "/assets/images/especes/Cinnamomum_verum/431_Cinnamomum_verum-001.jpg",
+    "image": "/images/431_Cinnamomum_verum-001.jpg",
     "images": [
-      "/assets/images/especes/Cinnamomum_verum/431_Cinnamomum_verum-001.jpg"
+      "/images/431_Cinnamomum_verum-001.jpg"
     ],
     "nomCommun": {
       "fr": "Kannèl",
@@ -6724,11 +6725,11 @@ const plantesData = [
     "nomScientifique": "Persea americana Mill.",
     "famille": "Lauracées",
     "familleId": "43",
-    "image": "/assets/images/especes/Persea_americana/432_Persea_americana-001.jpg",
+    "image": "/images/432_Persea_americana-001.jpg",
     "images": [
-      "/assets/images/especes/Persea_americana/432_Persea_americana-001.jpg",
-      "/assets/images/especes/Persea_americana/432_Persea_americana-002.jpg",
-      "/assets/images/especes/Persea_americana/432_Persea_americana-003.jpg"
+      "/images/432_Persea_americana-001.jpg",
+      "/images/432_Persea_americana-002.jpg",
+      "/images/432_Persea_americana-003.jpg"
     ],
     "nomCommun": {
       "fr": "Zaboka",
@@ -6772,9 +6773,9 @@ const plantesData = [
     "nomScientifique": "Spigelia anthelmia L.",
     "famille": "Loganiacées",
     "familleId": "44",
-    "image": "/assets/images/especes/Spigelia_anthelmia/441_Spigelia_anthelmia-001.jpg",
+    "image": "/images/441_Spigelia_anthelmia-001.jpg",
     "images": [
-      "/assets/images/especes/Spigelia_anthelmia/441_Spigelia_anthelmia-001.jpg"
+      "/images/441_Spigelia_anthelmia-001.jpg"
     ],
     "nomCommun": {
       "fr": "Zèb vè",
@@ -6818,9 +6819,9 @@ const plantesData = [
     "nomScientifique": "Punica granatum L.",
     "famille": "Lythracées",
     "familleId": "45",
-    "image": "/assets/images/especes/Punica_granatum/451_Punica_granatum-001.jpg",
+    "image": "/images/451_Punica_granatum-001.jpg",
     "images": [
-      "/assets/images/especes/Punica_granatum/451_Punica_granatum-001.jpg"
+      "/images/451_Punica_granatum-001.jpg"
     ],
     "nomCommun": {
       "fr": "Grenad",
@@ -6864,7 +6865,7 @@ const plantesData = [
     "nomScientifique": "Bunchosia glandulosa",
     "famille": "Malpighiacées",
     "familleId": "46",
-    "image": "/assets/images/placeholder.jpg",
+    "image": "/images/placeholder.svg",
     "images": [],
     "nomCommun": {
       "fr": "Bwa kaka",
@@ -6908,11 +6909,11 @@ const plantesData = [
     "nomScientifique": "Malpighia emarginata",
     "famille": "Malpighiacées",
     "familleId": "46",
-    "image": "/assets/images/especes/Malpighia_emarginata/462_Malpighia_emarginata-001.jpg",
+    "image": "/images/462_Malpighia_emarginata-001.jpg",
     "images": [
-      "/assets/images/especes/Malpighia_emarginata/462_Malpighia_emarginata-001.jpg",
-      "/assets/images/especes/Malpighia_emarginata/462_Malpighia_emarginata-002.jpg",
-      "/assets/images/especes/Malpighia_emarginata/462_Malpighia_emarginata-003.jpg"
+      "/images/462_Malpighia_emarginata-001.jpg",
+      "/images/462_Malpighia_emarginata-002.jpg",
+      "/images/462_Malpighia_emarginata-003.jpg"
     ],
     "nomCommun": {
       "fr": "Seriz",
@@ -6956,9 +6957,9 @@ const plantesData = [
     "nomScientifique": "Abelmoschus esculentus",
     "famille": "Malvacées",
     "familleId": "47",
-    "image": "/assets/images/especes/Abelmoschus_esculentus/471_Abelmoschus_esculentus-001.jpg",
+    "image": "/images/471_Abelmoschus_esculentus-001.jpg",
     "images": [
-      "/assets/images/especes/Abelmoschus_esculentus/471_Abelmoschus_esculentus-001.jpg"
+      "/images/471_Abelmoschus_esculentus-001.jpg"
     ],
     "nomCommun": {
       "fr": "Kalalou",
@@ -7002,9 +7003,9 @@ const plantesData = [
     "nomScientifique": "Abutilon abutiloides",
     "famille": "Malvacées",
     "familleId": "47",
-    "image": "/assets/images/especes/Abutilon_abutiloides/472_Abutilon_abutiloides-001.jpg",
+    "image": "/images/472_Abutilon_abutiloides-001.jpg",
     "images": [
-      "/assets/images/especes/Abutilon_abutiloides/472_Abutilon_abutiloides-001.jpg"
+      "/images/472_Abutilon_abutiloides-001.jpg"
     ],
     "nomCommun": {
       "fr": "Pete vye granmoun",
@@ -7048,12 +7049,12 @@ const plantesData = [
     "nomScientifique": "Ceiba pentandra (L.) Gaertn.",
     "famille": "Malvacées",
     "familleId": "47",
-    "image": "/assets/images/especes/Ceiba_pentandra/473_Ceiba_pentandra-001.jpg",
+    "image": "/images/473_Ceiba_pentandra-001.jpg",
     "images": [
-      "/assets/images/especes/Ceiba_pentandra/473_Ceiba_pentandra-001.jpg",
-      "/assets/images/especes/Ceiba_pentandra/473_Ceiba_pentandra-002.jpg",
-      "/assets/images/especes/Ceiba_pentandra/473_Ceiba_pentandra-003.jpg",
-      "/assets/images/especes/Ceiba_pentandra/473_Ceiba_pentandra-004.jpg"
+      "/images/473_Ceiba_pentandra-001.jpg",
+      "/images/473_Ceiba_pentandra-002.jpg",
+      "/images/473_Ceiba_pentandra-003.jpg",
+      "/images/473_Ceiba_pentandra-004.jpg"
     ],
     "nomCommun": {
       "fr": "Mapou",
@@ -7097,9 +7098,9 @@ const plantesData = [
     "nomScientifique": "Corchorus siliquosus L.",
     "famille": "Malvacées",
     "familleId": "47",
-    "image": "/assets/images/especes/Corchorus_siliquosus/474_Corchorus_siliquosus-001.jpg",
+    "image": "/images/474_Corchorus_siliquosus-001.jpg",
     "images": [
-      "/assets/images/especes/Corchorus_siliquosus/474_Corchorus_siliquosus-001.jpg"
+      "/images/474_Corchorus_siliquosus-001.jpg"
     ],
     "nomCommun": {
       "fr": "Ti lalo",
@@ -7143,10 +7144,10 @@ const plantesData = [
     "nomScientifique": "Guazuma ulmifolia Lam.",
     "famille": "Malvacées",
     "familleId": "47",
-    "image": "/assets/images/especes/Guazuma_ulmifolia/475_Guazuma_ulmifolia-001.jpg",
+    "image": "/images/475_Guazuma_ulmifolia-001.jpg",
     "images": [
-      "/assets/images/especes/Guazuma_ulmifolia/475_Guazuma_ulmifolia-001.jpg",
-      "/assets/images/especes/Guazuma_ulmifolia/475_Guazuma_ulmifolia-002.jpg"
+      "/images/475_Guazuma_ulmifolia-001.jpg",
+      "/images/475_Guazuma_ulmifolia-002.jpg"
     ],
     "nomCommun": {
       "fr": "Bwa dòm",
@@ -7190,7 +7191,7 @@ const plantesData = [
     "nomScientifique": "Hibiscus rosa-sinensis",
     "famille": "Malvacées",
     "familleId": "47",
-    "image": "/assets/images/placeholder.jpg",
+    "image": "/images/placeholder.svg",
     "images": [],
     "nomCommun": {
       "fr": "Choublak",
@@ -7234,12 +7235,12 @@ const plantesData = [
     "nomScientifique": "Pavonia spinifex (L.)",
     "famille": "Malvacées",
     "familleId": "47",
-    "image": "/assets/images/especes/Pavonia_spinifex/477_Pavonia_spinifex-001.jpg",
+    "image": "/images/477_Pavonia_spinifex-001.jpg",
     "images": [
-      "/assets/images/especes/Pavonia_spinifex/477_Pavonia_spinifex-001.jpg",
-      "/assets/images/especes/Pavonia_spinifex/477_Pavonia_spinifex-002.jpg",
-      "/assets/images/especes/Pavonia_spinifex/477_Pavonia_spinifex-003.jpg",
-      "/assets/images/especes/Pavonia_spinifex/477_Pavonia_spinifex-004.jpg"
+      "/images/477_Pavonia_spinifex-001.jpg",
+      "/images/477_Pavonia_spinifex-002.jpg",
+      "/images/477_Pavonia_spinifex-003.jpg",
+      "/images/477_Pavonia_spinifex-004.jpg"
     ],
     "nomCommun": {
       "fr": "Gran kouzen",
@@ -7283,9 +7284,9 @@ const plantesData = [
     "nomScientifique": "Sida acuta Burm. f.",
     "famille": "Malvacées",
     "familleId": "47",
-    "image": "/assets/images/especes/Sida_acuta/478_Sida_acuta-001.jpg",
+    "image": "/images/478_Sida_acuta-001.jpg",
     "images": [
-      "/assets/images/especes/Sida_acuta/478_Sida_acuta-001.jpg"
+      "/images/478_Sida_acuta-001.jpg"
     ],
     "nomCommun": {
       "fr": "Ti lalo",
@@ -7329,10 +7330,10 @@ const plantesData = [
     "nomScientifique": "Theobroma cacao L.",
     "famille": "Malvacées",
     "familleId": "47",
-    "image": "/assets/images/especes/Theobroma_cacao/479_Theobroma_cacao-001.jpg",
+    "image": "/images/479_Theobroma_cacao-001.jpg",
     "images": [
-      "/assets/images/especes/Theobroma_cacao/479_Theobroma_cacao-001.jpg",
-      "/assets/images/especes/Theobroma_cacao/479_Theobroma_cacao-002.jpg"
+      "/images/479_Theobroma_cacao-001.jpg",
+      "/images/479_Theobroma_cacao-002.jpg"
     ],
     "nomCommun": {
       "fr": "Kakao",
@@ -7376,9 +7377,9 @@ const plantesData = [
     "nomScientifique": "Thespesia populnea (L.)",
     "famille": "Malvacées",
     "familleId": "47",
-    "image": "/assets/images/especes/Thespesia_populnea/4710_Thespesia_populnea-001.jpg",
+    "image": "/images/4710_Thespesia_populnea-001.jpg",
     "images": [
-      "/assets/images/especes/Thespesia_populnea/4710_Thespesia_populnea-001.jpg"
+      "/images/4710_Thespesia_populnea-001.jpg"
     ],
     "nomCommun": {
       "fr": "Fèy dayiti",
@@ -7422,9 +7423,9 @@ const plantesData = [
     "nomScientifique": "Urena lobata L.",
     "famille": "Malvacées",
     "familleId": "47",
-    "image": "/assets/images/especes/Urena_lobata/4711_Urena_lobata-001.jpg",
+    "image": "/images/4711_Urena_lobata-001.jpg",
     "images": [
-      "/assets/images/especes/Urena_lobata/4711_Urena_lobata-001.jpg"
+      "/images/4711_Urena_lobata-001.jpg"
     ],
     "nomCommun": {
       "fr": "Kouzen",
@@ -7468,10 +7469,10 @@ const plantesData = [
     "nomScientifique": "Wercklea hottensis",
     "famille": "Malvacées",
     "familleId": "47",
-    "image": "/assets/images/especes/Wercklea_hottensis/4712_Wercklea_hottensis-001.jpg",
+    "image": "/images/4712_Wercklea_hottensis-001.jpg",
     "images": [
-      "/assets/images/especes/Wercklea_hottensis/4712_Wercklea_hottensis-001.jpg",
-      "/assets/images/especes/Wercklea_hottensis/4712_Wercklea_hottensis-002.jpg"
+      "/images/4712_Wercklea_hottensis-001.jpg",
+      "/images/4712_Wercklea_hottensis-002.jpg"
     ],
     "nomCommun": {
       "fr": "Maho",
@@ -7515,11 +7516,11 @@ const plantesData = [
     "nomScientifique": "Meriana brevipenduculata",
     "famille": "Melastomatacées",
     "familleId": "48",
-    "image": "/assets/images/especes/Meriana_brevipenduculata/481_Meriana_Brevipenduculata-001.jpg",
+    "image": "/images/481_Meriana_Brevipenduculata-001.jpg",
     "images": [
-      "/assets/images/especes/Meriana_brevipenduculata/481_Meriana_Brevipenduculata-001.jpg",
-      "/assets/images/especes/Meriana_brevipenduculata/481_Meriana_Brevipenduculata-002.jpg",
-      "/assets/images/especes/Meriana_brevipenduculata/481_Meriana_Brevipenduculata-003.jpg"
+      "/images/481_Meriana_Brevipenduculata-001.jpg",
+      "/images/481_Meriana_Brevipenduculata-002.jpg",
+      "/images/481_Meriana_Brevipenduculata-003.jpg"
     ],
     "nomCommun": {
       "fr": "Flèmalarèz",
@@ -7563,11 +7564,11 @@ const plantesData = [
     "nomScientifique": "Cissampelos pareira L.",
     "famille": "Menispermacées",
     "familleId": "49",
-    "image": "/assets/images/especes/Cissampelos_pareira/491_Cissampelos_pareira-001.jpg",
+    "image": "/images/491_Cissampelos_pareira-001.jpg",
     "images": [
-      "/assets/images/especes/Cissampelos_pareira/491_Cissampelos_pareira-001.jpg",
-      "/assets/images/especes/Cissampelos_pareira/491_Cissampelos_pareira-002.jpg",
-      "/assets/images/especes/Cissampelos_pareira/491_Cissampelos_pareira-003.jpg"
+      "/images/491_Cissampelos_pareira-001.jpg",
+      "/images/491_Cissampelos_pareira-002.jpg",
+      "/images/491_Cissampelos_pareira-003.jpg"
     ],
     "nomCommun": {
       "fr": "Pat shwal",
@@ -7611,11 +7612,11 @@ const plantesData = [
     "nomScientifique": "Artocarpus altilis",
     "famille": "Moracées",
     "familleId": "50",
-    "image": "/assets/images/especes/Artocarpus_altilis/501_Artocarpus_altilis-001.jpg",
+    "image": "/images/501_Artocarpus_altilis-001.jpg",
     "images": [
-      "/assets/images/especes/Artocarpus_altilis/501_Artocarpus_altilis-001.jpg",
-      "/assets/images/especes/Artocarpus_altilis/501_Artocarpus_altilis-002.jpg",
-      "/assets/images/especes/Artocarpus_altilis/501_Artocarpus_altilis-003.jpg"
+      "/images/501_Artocarpus_altilis-001.jpg",
+      "/images/501_Artocarpus_altilis-002.jpg",
+      "/images/501_Artocarpus_altilis-003.jpg"
     ],
     "nomCommun": {
       "fr": "Lam veritab",
@@ -7659,10 +7660,10 @@ const plantesData = [
     "nomScientifique": "Artocarpus communis",
     "famille": "Moracées",
     "familleId": "50",
-    "image": "/assets/images/especes/Artocarpus_communis/502_Artocarpus_communis-001.jpg",
+    "image": "/images/502_Artocarpus_communis-001.jpg",
     "images": [
-      "/assets/images/especes/Artocarpus_communis/502_Artocarpus_communis-001.jpg",
-      "/assets/images/especes/Artocarpus_communis/502_Artocarpus_communis-002.jpg"
+      "/images/502_Artocarpus_communis-001.jpg",
+      "/images/502_Artocarpus_communis-002.jpg"
     ],
     "nomCommun": {
       "fr": "Lam veritab",
@@ -7706,9 +7707,9 @@ const plantesData = [
     "nomScientifique": "Artocarpus jaca",
     "famille": "Moracées",
     "familleId": "50",
-    "image": "/assets/images/especes/Artocarpus_jaca/503_Artocarpus_jaca-001.jpg",
+    "image": "/images/503_Artocarpus_jaca-001.jpg",
     "images": [
-      "/assets/images/especes/Artocarpus_jaca/503_Artocarpus_jaca-001.jpg"
+      "/images/503_Artocarpus_jaca-001.jpg"
     ],
     "nomCommun": {
       "fr": "Jak",
@@ -7752,11 +7753,11 @@ const plantesData = [
     "nomScientifique": "Moringa oleifera Lam.",
     "famille": "Moringacées",
     "familleId": "51",
-    "image": "/assets/images/especes/Moringa_oleifera/511_Moringa_oleifera-001.jpg",
+    "image": "/images/511_Moringa_oleifera-001.jpg",
     "images": [
-      "/assets/images/especes/Moringa_oleifera/511_Moringa_oleifera-001.jpg",
-      "/assets/images/especes/Moringa_oleifera/511_Moringa_oleifera-002.jpg",
-      "/assets/images/especes/Moringa_oleifera/511_Moringa_oleifera-003.jpg"
+      "/images/511_Moringa_oleifera-001.jpg",
+      "/images/511_Moringa_oleifera-002.jpg",
+      "/images/511_Moringa_oleifera-003.jpg"
     ],
     "nomCommun": {
       "fr": "Benzoliv",
@@ -7800,13 +7801,8 @@ const plantesData = [
     "nomScientifique": "Musa balbisiana",
     "famille": "Musacées",
     "familleId": "52",
-    "image": "/assets/images/especes/Musa_paradisiaca/521_Musa_paradisiaca-001.jpg",
-    "images": [
-      "/assets/images/especes/Musa_paradisiaca/521_Musa_paradisiaca-001.jpg",
-      "/assets/images/especes/Musa_paradisiaca/521_Musa_paradisiaca-002.jpg",
-      "/assets/images/especes/Musa_paradisiaca/521_Musa_paradisiaca-003.jpg",
-      "/assets/images/especes/Musa_paradisiaca/521_Musa_paradisiaca-004.jpg"
-    ],
+    "image": "/images/placeholder.svg",
+    "images": [],
     "nomCommun": {
       "fr": "Bannann",
       "en": "Banana / Plantain",
@@ -7849,7 +7845,7 @@ const plantesData = [
     "nomScientifique": "Calyptranthes nummularia",
     "famille": "Myrtacées",
     "familleId": "53",
-    "image": "/assets/images/placeholder.jpg",
+    "image": "/images/placeholder.svg",
     "images": [],
     "nomCommun": {
       "fr": "Gwo kanèl",
@@ -7893,9 +7889,9 @@ const plantesData = [
     "nomScientifique": "Eucalyptus globulus",
     "famille": "Myrtacées",
     "familleId": "53",
-    "image": "/assets/images/especes/Eucalyptus_globulus/532_Eucalyptus_globulus-001.jpg",
+    "image": "/images/532_Eucalyptus_globulus-001.jpg",
     "images": [
-      "/assets/images/especes/Eucalyptus_globulus/532_Eucalyptus_globulus-001.jpg"
+      "/images/532_Eucalyptus_globulus-001.jpg"
     ],
     "nomCommun": {
       "fr": "Ekaliptis",
@@ -7939,11 +7935,11 @@ const plantesData = [
     "nomScientifique": "Eugenia crenulata",
     "famille": "Myrtacées",
     "familleId": "53",
-    "image": "/assets/images/especes/Eugenia_crenulata/533_Eugenia_crenulata-001.jpg",
+    "image": "/images/533_Eugenia_crenulata-001.jpg",
     "images": [
-      "/assets/images/especes/Eugenia_crenulata/533_Eugenia_crenulata-001.jpg",
-      "/assets/images/especes/Eugenia_crenulata/533_Eugenia_crenulata-002.jpg",
-      "/assets/images/especes/Eugenia_crenulata/533_Eugenia_crenulata-003.jpg"
+      "/images/533_Eugenia_crenulata-001.jpg",
+      "/images/533_Eugenia_crenulata-002.jpg",
+      "/images/533_Eugenia_crenulata-003.jpg"
     ],
     "nomCommun": {
       "fr": "Zodevan",
@@ -7987,9 +7983,9 @@ const plantesData = [
     "nomScientifique": "Eugenia jambos L.",
     "famille": "Myrtacées",
     "familleId": "53",
-    "image": "/assets/images/especes/Eugenia_jambos/534_Eugenia_jambos-001.jpg",
+    "image": "/images/534_Eugenia_jambos-001.jpg",
     "images": [
-      "/assets/images/especes/Eugenia_jambos/534_Eugenia_jambos-001.jpg"
+      "/images/534_Eugenia_jambos-001.jpg"
     ],
     "nomCommun": {
       "fr": "Ponm woz",
@@ -8033,10 +8029,10 @@ const plantesData = [
     "nomScientifique": "Myrica picardae",
     "famille": "Myrtacées",
     "familleId": "53",
-    "image": "/assets/images/especes/Myrica_picardae/535_Myrica_picardae-001.jpg",
+    "image": "/images/535_Myrica_picardae-001.jpg",
     "images": [
-      "/assets/images/especes/Myrica_picardae/535_Myrica_picardae-001.jpg",
-      "/assets/images/especes/Myrica_picardae/535_Myrica_picardae-002.jpg"
+      "/images/535_Myrica_picardae-001.jpg",
+      "/images/535_Myrica_picardae-002.jpg"
     ],
     "nomCommun": {
       "fr": "Ti kanèl",
@@ -8080,12 +8076,12 @@ const plantesData = [
     "nomScientifique": "Pimenta racemosa",
     "famille": "Myrtacées",
     "familleId": "53",
-    "image": "/assets/images/especes/Pimenta_racemosa/536_Pimenta_racemosa-001.jpg",
+    "image": "/images/536_Pimenta_racemosa-001.jpg",
     "images": [
-      "/assets/images/especes/Pimenta_racemosa/536_Pimenta_racemosa-001.jpg",
-      "/assets/images/especes/Pimenta_racemosa/536_Pimenta_racemosa-002.jpg",
-      "/assets/images/especes/Pimenta_racemosa/536_Pimenta_racemosa-003.jpg",
-      "/assets/images/especes/Pimenta_racemosa/536_Pimenta_racemosa-004.jpg"
+      "/images/536_Pimenta_racemosa-001.jpg",
+      "/images/536_Pimenta_racemosa-002.jpg",
+      "/images/536_Pimenta_racemosa-003.jpg",
+      "/images/536_Pimenta_racemosa-004.jpg"
     ],
     "nomCommun": {
       "fr": "Bwadenn",
@@ -8129,10 +8125,10 @@ const plantesData = [
     "nomScientifique": "Psidium guajava",
     "famille": "Myrtacées",
     "familleId": "53",
-    "image": "/assets/images/especes/Psidium_guajava/537_Psidium_guajava-001.jpg",
+    "image": "/images/537_Psidium_guajava-001.jpg",
     "images": [
-      "/assets/images/especes/Psidium_guajava/537_Psidium_guajava-001.jpg",
-      "/assets/images/especes/Psidium_guajava/537_Psidium_guajava-002.jpg"
+      "/images/537_Psidium_guajava-001.jpg",
+      "/images/537_Psidium_guajava-002.jpg"
     ],
     "nomCommun": {
       "fr": "Gouyav",
@@ -8176,10 +8172,10 @@ const plantesData = [
     "nomScientifique": "Azadirachta indica",
     "famille": "Méliacées",
     "familleId": "54",
-    "image": "/assets/images/especes/Azadirachta_indica/541_Azadirachta_indica-001.jpg",
+    "image": "/images/541_Azadirachta_indica-001.jpg",
     "images": [
-      "/assets/images/especes/Azadirachta_indica/541_Azadirachta_indica-001.jpg",
-      "/assets/images/especes/Azadirachta_indica/541_Azadirachta_indica-002.jpg"
+      "/images/541_Azadirachta_indica-001.jpg",
+      "/images/541_Azadirachta_indica-002.jpg"
     ],
     "nomCommun": {
       "fr": "Nim / Bwa leta",
@@ -8223,10 +8219,10 @@ const plantesData = [
     "nomScientifique": "Cedrela odorata L.",
     "famille": "Méliacées",
     "familleId": "54",
-    "image": "/assets/images/especes/Cedrela_odorata/542_Cedrela_odorata-001.jpg",
+    "image": "/images/542_Cedrela_odorata-001.jpg",
     "images": [
-      "/assets/images/especes/Cedrela_odorata/542_Cedrela_odorata-001.jpg",
-      "/assets/images/especes/Cedrela_odorata/542_Cedrela_odorata-002.jpg"
+      "/images/542_Cedrela_odorata-001.jpg",
+      "/images/542_Cedrela_odorata-002.jpg"
     ],
     "nomCommun": {
       "fr": "Sèd",
@@ -8270,10 +8266,10 @@ const plantesData = [
     "nomScientifique": "Guarea guidonia",
     "famille": "Méliacées",
     "familleId": "54",
-    "image": "/assets/images/especes/Guarea_guidonia/543_Guarea_guidonia-001.jpg",
+    "image": "/images/543_Guarea_guidonia-001.jpg",
     "images": [
-      "/assets/images/especes/Guarea_guidonia/543_Guarea_guidonia-001.jpg",
-      "/assets/images/especes/Guarea_guidonia/543_Guarea_guidonia-002.jpg"
+      "/images/543_Guarea_guidonia-001.jpg",
+      "/images/543_Guarea_guidonia-002.jpg"
     ],
     "nomCommun": {
       "fr": "Bwa wouj",
@@ -8317,10 +8313,10 @@ const plantesData = [
     "nomScientifique": "Melia azedarach L.",
     "famille": "Méliacées",
     "familleId": "54",
-    "image": "/assets/images/especes/Melia_azedarach/544_Melia_azedarach-001.jpg",
+    "image": "/images/544_Melia_azedarach-001.jpg",
     "images": [
-      "/assets/images/especes/Melia_azedarach/544_Melia_azedarach-001.jpg",
-      "/assets/images/especes/Melia_azedarach/544_Melia_azedarach-002.jpg"
+      "/images/544_Melia_azedarach-001.jpg",
+      "/images/544_Melia_azedarach-002.jpg"
     ],
     "nomCommun": {
       "fr": "Lila peyi",
@@ -8364,10 +8360,10 @@ const plantesData = [
     "nomScientifique": "Swietenia mahagoni (L.)",
     "famille": "Méliacées",
     "familleId": "54",
-    "image": "/assets/images/especes/Swietenia_mahagoni/545_Swietenia_mahagoni-001.jpg",
+    "image": "/images/545_Swietenia_mahagoni-001.jpg",
     "images": [
-      "/assets/images/especes/Swietenia_mahagoni/545_Swietenia_mahagoni-001.jpg",
-      "/assets/images/especes/Swietenia_mahagoni/545_Swietenia_mahagoni-002.jpg"
+      "/images/545_Swietenia_mahagoni-001.jpg",
+      "/images/545_Swietenia_mahagoni-002.jpg"
     ],
     "nomCommun": {
       "fr": "Kajou",
@@ -8411,10 +8407,10 @@ const plantesData = [
     "nomScientifique": "Trichilia hirta",
     "famille": "Méliacées",
     "familleId": "54",
-    "image": "/assets/images/especes/Trichilia_hirta/546_Trichilia_hirta-001.jpg",
+    "image": "/images/546_Trichilia_hirta-001.jpg",
     "images": [
-      "/assets/images/especes/Trichilia_hirta/546_Trichilia_hirta-001.jpg",
-      "/assets/images/especes/Trichilia_hirta/546_Trichilia_hirta-002.jpg"
+      "/images/546_Trichilia_hirta-001.jpg",
+      "/images/546_Trichilia_hirta-002.jpg"
     ],
     "nomCommun": {
       "fr": "Monben bata",
@@ -8458,11 +8454,11 @@ const plantesData = [
     "nomScientifique": "Trichilia pallida Sw.",
     "famille": "Méliacées",
     "familleId": "54",
-    "image": "/assets/images/especes/Trichilia_pallida/547_Trichilia_pallida-001.jpg",
+    "image": "/images/547_Trichilia_pallida-001.jpg",
     "images": [
-      "/assets/images/especes/Trichilia_pallida/547_Trichilia_pallida-001.jpg",
-      "/assets/images/especes/Trichilia_pallida/547_Trichilia_pallida-002.jpg",
-      "/assets/images/especes/Trichilia_pallida/547_Trichilia_pallida-003.jpg"
+      "/images/547_Trichilia_pallida-001.jpg",
+      "/images/547_Trichilia_pallida-002.jpg",
+      "/images/547_Trichilia_pallida-003.jpg"
     ],
     "nomCommun": {
       "fr": "Bwa arada",
@@ -8506,12 +8502,12 @@ const plantesData = [
     "nomScientifique": "Mirabilis jalapa L.",
     "famille": "Nyctaginacées",
     "familleId": "56",
-    "image": "/assets/images/especes/Mirabilis_jalapa/551_Mirabilis_jalapa-001.jpg",
+    "image": "/images/551_Mirabilis_jalapa-001.jpg",
     "images": [
-      "/assets/images/especes/Mirabilis_jalapa/551_Mirabilis_jalapa-001.jpg",
-      "/assets/images/especes/Mirabilis_jalapa/551_Mirabilis_jalapa-002.jpg",
-      "/assets/images/especes/Mirabilis_jalapa/551_Mirabilis_jalapa-003.jpg",
-      "/assets/images/especes/Mirabilis_jalapa/551_Mirabilis_jalapa-004.jpg"
+      "/images/551_Mirabilis_jalapa-001.jpg",
+      "/images/551_Mirabilis_jalapa-002.jpg",
+      "/images/551_Mirabilis_jalapa-003.jpg",
+      "/images/551_Mirabilis_jalapa-004.jpg"
     ],
     "nomCommun": {
       "fr": "Bèl de nwi",
@@ -8555,10 +8551,10 @@ const plantesData = [
     "nomScientifique": "Ximenia americana L.",
     "famille": "Olacacées",
     "familleId": "57",
-    "image": "/assets/images/especes/Ximenia_americana/561_Ximenia_americana-001.jpg",
+    "image": "/images/561_Ximenia_americana-001.jpg",
     "images": [
-      "/assets/images/especes/Ximenia_americana/561_Ximenia_americana-001.jpg",
-      "/assets/images/especes/Ximenia_americana/561_Ximenia_americana-002.jpg"
+      "/images/561_Ximenia_americana-001.jpg",
+      "/images/561_Ximenia_americana-002.jpg"
     ],
     "nomCommun": {
       "fr": "Pwa savann",
@@ -8602,11 +8598,11 @@ const plantesData = [
     "nomScientifique": "Averrhoa bilimbi L.",
     "famille": "Oxalidacées",
     "familleId": "58",
-    "image": "/assets/images/especes/Averrhoa_bilimbi/571_Averrhoa_bilimbi-001.jpg",
+    "image": "/images/571_Averrhoa_bilimbi-001.jpg",
     "images": [
-      "/assets/images/especes/Averrhoa_bilimbi/571_Averrhoa_bilimbi-001.jpg",
-      "/assets/images/especes/Averrhoa_bilimbi/571_Averrhoa_bilimbi-002.jpg",
-      "/assets/images/especes/Averrhoa_bilimbi/571_Averrhoa_bilimbi-003.jpg"
+      "/images/571_Averrhoa_bilimbi-001.jpg",
+      "/images/571_Averrhoa_bilimbi-002.jpg",
+      "/images/571_Averrhoa_bilimbi-003.jpg"
     ],
     "nomCommun": {
       "fr": "Blinblin",
@@ -8650,9 +8646,9 @@ const plantesData = [
     "nomScientifique": "Averrhoa carambola L.",
     "famille": "Oxalidacées",
     "familleId": "58",
-    "image": "/assets/images/especes/Averrhoa_carambola/572_Averrhoa_carambola-001.jpg",
+    "image": "/images/572_Averrhoa_carambola-001.jpg",
     "images": [
-      "/assets/images/especes/Averrhoa_carambola/572_Averrhoa_carambola-001.jpg"
+      "/images/572_Averrhoa_carambola-001.jpg"
     ],
     "nomCommun": {
       "fr": "Karanbòl",
@@ -8696,11 +8692,11 @@ const plantesData = [
     "nomScientifique": "Argemone mexicana L.",
     "famille": "Papavéracées",
     "familleId": "59",
-    "image": "/assets/images/especes/Argemone_mexicana/581_Argemone_mexicana-001.jpg",
+    "image": "/images/581_Argemone_mexicana-001.jpg",
     "images": [
-      "/assets/images/especes/Argemone_mexicana/581_Argemone_mexicana-001.jpg",
-      "/assets/images/especes/Argemone_mexicana/581_Argemone_mexicana-002.jpg",
-      "/assets/images/especes/Argemone_mexicana/581_Argemone_mexicana-003.jpg"
+      "/images/581_Argemone_mexicana-001.jpg",
+      "/images/581_Argemone_mexicana-002.jpg",
+      "/images/581_Argemone_mexicana-003.jpg"
     ],
     "nomCommun": {
       "fr": "Chadwon",
@@ -8744,11 +8740,11 @@ const plantesData = [
     "nomScientifique": "Bocconia frutescens L.",
     "famille": "Papavéracées",
     "familleId": "59",
-    "image": "/assets/images/especes/Bocconia_frutescens/582_Bocconia_frutescens-001.jpg",
+    "image": "/images/582_Bocconia_frutescens-001.jpg",
     "images": [
-      "/assets/images/especes/Bocconia_frutescens/582_Bocconia_frutescens-001.jpg",
-      "/assets/images/especes/Bocconia_frutescens/582_Bocconia_frutescens-002.jpg",
-      "/assets/images/especes/Bocconia_frutescens/582_Bocconia_frutescens-003.jpg"
+      "/images/582_Bocconia_frutescens-001.jpg",
+      "/images/582_Bocconia_frutescens-002.jpg",
+      "/images/582_Bocconia_frutescens-003.jpg"
     ],
     "nomCommun": {
       "fr": "Bocconia frutecens",
@@ -8792,10 +8788,10 @@ const plantesData = [
     "nomScientifique": "Passiflora edulis Sims",
     "famille": "Passifloracées",
     "familleId": "60",
-    "image": "/assets/images/especes/Passiflora_edulis/591_Passiflora_edulis-001.jpg",
+    "image": "/images/591_Passiflora_edulis-001.jpg",
     "images": [
-      "/assets/images/especes/Passiflora_edulis/591_Passiflora_edulis-001.jpg",
-      "/assets/images/especes/Passiflora_edulis/591_Passiflora_edulis-002.jpg"
+      "/images/591_Passiflora_edulis-001.jpg",
+      "/images/591_Passiflora_edulis-002.jpg"
     ],
     "nomCommun": {
       "fr": "Grenadya",
@@ -8839,10 +8835,10 @@ const plantesData = [
     "nomScientifique": "Passiflora quadrangularis",
     "famille": "Passifloracées",
     "familleId": "60",
-    "image": "/assets/images/especes/Passiflora_quadrangularis/592_Passiflora_quadrangularis-001.jpg",
+    "image": "/images/592_Passiflora_quadrangularis-001.jpg",
     "images": [
-      "/assets/images/especes/Passiflora_quadrangularis/592_Passiflora_quadrangularis-001.jpg",
-      "/assets/images/especes/Passiflora_quadrangularis/592_Passiflora_quadrangularis-002.jpg"
+      "/images/592_Passiflora_quadrangularis-001.jpg",
+      "/images/592_Passiflora_quadrangularis-002.jpg"
     ],
     "nomCommun": {
       "fr": "Grenadin",
@@ -8886,10 +8882,10 @@ const plantesData = [
     "nomScientifique": "Turnera diffusa Willd.",
     "famille": "Passifloracées",
     "familleId": "60",
-    "image": "/assets/images/especes/Turnera_diffusa/593_Turnera_diffusa-001.jpg",
+    "image": "/images/593_Turnera_diffusa-001.jpg",
     "images": [
-      "/assets/images/especes/Turnera_diffusa/593_Turnera_diffusa-001.jpg",
-      "/assets/images/especes/Turnera_diffusa/593_Turnera_diffusa-002.jpg"
+      "/images/593_Turnera_diffusa-001.jpg",
+      "/images/593_Turnera_diffusa-002.jpg"
     ],
     "nomCommun": {
       "fr": "Ten savann",
@@ -8933,11 +8929,8 @@ const plantesData = [
     "nomScientifique": "Ternstroemia barker",
     "famille": "Pentaphyllacées",
     "familleId": "61",
-    "image": "/assets/images/especes/Ternstroemia_barkeri/601_Ternstroemia_barkeri-001.jpg",
-    "images": [
-      "/assets/images/especes/Ternstroemia_barkeri/601_Ternstroemia_barkeri-001.jpg",
-      "/assets/images/especes/Ternstroemia_barkeri/601_Ternstroemia_barkeri-002.jpg"
-    ],
+    "image": "/images/placeholder.svg",
+    "images": [],
     "nomCommun": {
       "fr": "Abriko mawon",
       "en": "",
@@ -8980,9 +8973,9 @@ const plantesData = [
     "nomScientifique": "Phyllanthus niruri",
     "famille": "Phyllanthacées",
     "familleId": "62",
-    "image": "/assets/images/especes/Phyllanthus_niruri/611_Phyllanthus_niruri-001.jpg",
+    "image": "/images/611_Phyllanthus_niruri-001.jpg",
     "images": [
-      "/assets/images/especes/Phyllanthus_niruri/611_Phyllanthus_niruri-001.jpg"
+      "/images/611_Phyllanthus_niruri-001.jpg"
     ],
     "nomCommun": {
       "fr": "Dèyè do",
@@ -9026,10 +9019,10 @@ const plantesData = [
     "nomScientifique": "Phytolacca rivinoides",
     "famille": "Phytolaccacées",
     "familleId": "63",
-    "image": "/assets/images/especes/Phytolacca_rivinoides/621_Phytolacca_rivinoides-001.jpg",
+    "image": "/images/621_Phytolacca_rivinoides-001.jpg",
     "images": [
-      "/assets/images/especes/Phytolacca_rivinoides/621_Phytolacca_rivinoides-001.jpg",
-      "/assets/images/especes/Phytolacca_rivinoides/621_Phytolacca_rivinoides-002.jpg"
+      "/images/621_Phytolacca_rivinoides-001.jpg",
+      "/images/621_Phytolacca_rivinoides-002.jpg"
     ],
     "nomCommun": {
       "fr": "Lyan klou",
@@ -9073,12 +9066,12 @@ const plantesData = [
     "nomScientifique": "Trichostigma octandrum",
     "famille": "Phytolaccacées",
     "familleId": "63",
-    "image": "/assets/images/especes/Trichostigma_octandrum/622_Trichostigma_octandrum-001.jpg",
+    "image": "/images/622_Trichostigma_octandrum-001.jpg",
     "images": [
-      "/assets/images/especes/Trichostigma_octandrum/622_Trichostigma_octandrum-001.jpg",
-      "/assets/images/especes/Trichostigma_octandrum/622_Trichostigma_octandrum-002.jpg",
-      "/assets/images/especes/Trichostigma_octandrum/622_Trichostigma_octandrum-003.jpg",
-      "/assets/images/especes/Trichostigma_octandrum/622_Trichostigma_octandrum-004.jpg"
+      "/images/622_Trichostigma_octandrum-001.jpg",
+      "/images/622_Trichostigma_octandrum-002.jpg",
+      "/images/622_Trichostigma_octandrum-003.jpg",
+      "/images/622_Trichostigma_octandrum-004.jpg"
     ],
     "nomCommun": {
       "fr": "Lyan panye",
@@ -9122,12 +9115,12 @@ const plantesData = [
     "nomScientifique": "Pinus occidentalis",
     "famille": "Pinacées",
     "familleId": "64",
-    "image": "/assets/images/especes/Pinus_occidentalis/631_Pinus_occidentalis-001.jpg",
+    "image": "/images/631_Pinus_occidentalis-001.jpg",
     "images": [
-      "/assets/images/especes/Pinus_occidentalis/631_Pinus_occidentalis-001.jpg",
-      "/assets/images/especes/Pinus_occidentalis/631_Pinus_occidentalis-002.jpg",
-      "/assets/images/especes/Pinus_occidentalis/631_Pinus_occidentalis-003.jpg",
-      "/assets/images/especes/Pinus_occidentalis/631_Pinus_occidentalis-004.jpg"
+      "/images/631_Pinus_occidentalis-001.jpg",
+      "/images/631_Pinus_occidentalis-002.jpg",
+      "/images/631_Pinus_occidentalis-003.jpg",
+      "/images/631_Pinus_occidentalis-004.jpg"
     ],
     "nomCommun": {
       "fr": "Bwa pen",
@@ -9171,12 +9164,12 @@ const plantesData = [
     "nomScientifique": "Manekia urbanii Trel.",
     "famille": "Piperacées",
     "familleId": "65",
-    "image": "/assets/images/especes/Manekia_urbanii/641_Manekia_urbanii-001.jpg",
+    "image": "/images/641_Manekia_urbanii-001.jpg",
     "images": [
-      "/assets/images/especes/Manekia_urbanii/641_Manekia_urbanii-001.jpg",
-      "/assets/images/especes/Manekia_urbanii/641_Manekia_urbanii-002.jpg",
-      "/assets/images/especes/Manekia_urbanii/641_Manekia_urbanii-003.jpg",
-      "/assets/images/especes/Manekia_urbanii/641_Manekia_urbanii-004.jpg"
+      "/images/641_Manekia_urbanii-001.jpg",
+      "/images/641_Manekia_urbanii-002.jpg",
+      "/images/641_Manekia_urbanii-003.jpg",
+      "/images/641_Manekia_urbanii-004.jpg"
     ],
     "nomCommun": {
       "fr": "-",
@@ -9220,9 +9213,9 @@ const plantesData = [
     "nomScientifique": "Piper aduncum L.",
     "famille": "Pipéracées",
     "familleId": "66",
-    "image": "/assets/images/especes/Piper_aduncum/651_Piper_aduncum-001.jpg",
+    "image": "/images/651_Piper_aduncum-001.jpg",
     "images": [
-      "/assets/images/especes/Piper_aduncum/651_Piper_aduncum-001.jpg"
+      "/images/651_Piper_aduncum-001.jpg"
     ],
     "nomCommun": {
       "fr": "Bwa majò",
@@ -9266,11 +9259,11 @@ const plantesData = [
     "nomScientifique": "Piper hispidum Sw.",
     "famille": "Pipéracées",
     "familleId": "66",
-    "image": "/assets/images/especes/Piper_hispidum/652_Piper_hispidum-001.jpg",
+    "image": "/images/652_Piper_hispidum-001.jpg",
     "images": [
-      "/assets/images/especes/Piper_hispidum/652_Piper_hispidum-001.jpg",
-      "/assets/images/especes/Piper_hispidum/652_Piper_hispidum-002.jpg",
-      "/assets/images/especes/Piper_hispidum/652_Piper_hispidum-003.jpg"
+      "/images/652_Piper_hispidum-001.jpg",
+      "/images/652_Piper_hispidum-002.jpg",
+      "/images/652_Piper_hispidum-003.jpg"
     ],
     "nomCommun": {
       "fr": "Ti siwo",
@@ -9314,10 +9307,10 @@ const plantesData = [
     "nomScientifique": "Piper umbellatum (L.)",
     "famille": "Pipéracées",
     "familleId": "66",
-    "image": "/assets/images/especes/Piper_umbellatum/653_Piper_umbellatum-001.jpg",
+    "image": "/images/653_Piper_umbellatum-001.jpg",
     "images": [
-      "/assets/images/especes/Piper_umbellatum/653_Piper_umbellatum-001.jpg",
-      "/assets/images/especes/Piper_umbellatum/653_Piper_umbellatum-002.jpg"
+      "/images/653_Piper_umbellatum-001.jpg",
+      "/images/653_Piper_umbellatum-002.jpg"
     ],
     "nomCommun": {
       "fr": "Kolèt adam",
@@ -9361,11 +9354,11 @@ const plantesData = [
     "nomScientifique": "Plantago major L.",
     "famille": "Plantaginacées",
     "familleId": "67",
-    "image": "/assets/images/especes/Plantago_major/661_Plantago_major-001.jpg",
+    "image": "/images/661_Plantago_major-001.jpg",
     "images": [
-      "/assets/images/especes/Plantago_major/661_Plantago_major-001.jpg",
-      "/assets/images/especes/Plantago_major/661_Plantago_major-002.jpg",
-      "/assets/images/especes/Plantago_major/661_Plantago_major-003.jpg"
+      "/images/661_Plantago_major-001.jpg",
+      "/images/661_Plantago_major-002.jpg",
+      "/images/661_Plantago_major-003.jpg"
     ],
     "nomCommun": {
       "fr": "Planten",
@@ -9409,9 +9402,9 @@ const plantesData = [
     "nomScientifique": "Chrysopogon zizanioides",
     "famille": "Poacées",
     "familleId": "68",
-    "image": "/assets/images/especes/Chrysopogon_zizanioides/671_Chrysopogon_zizanioides-001.jpg",
+    "image": "/images/671_Chrysopogon_zizanioides-001.jpg",
     "images": [
-      "/assets/images/especes/Chrysopogon_zizanioides/671_Chrysopogon_zizanioides-001.jpg"
+      "/images/671_Chrysopogon_zizanioides-001.jpg"
     ],
     "nomCommun": {
       "fr": "Vètivè",
@@ -9455,10 +9448,10 @@ const plantesData = [
     "nomScientifique": "Cymbopogon citratus",
     "famille": "Poacées",
     "familleId": "68",
-    "image": "/assets/images/especes/Cymbopogon_citratus/672_Cymbopogon_citratus-001.jpg",
+    "image": "/images/672_Cymbopogon_citratus-001.jpg",
     "images": [
-      "/assets/images/especes/Cymbopogon_citratus/672_Cymbopogon_citratus-001.jpg",
-      "/assets/images/especes/Cymbopogon_citratus/672_Cymbopogon_citratus-002.jpg"
+      "/images/672_Cymbopogon_citratus-001.jpg",
+      "/images/672_Cymbopogon_citratus-002.jpg"
     ],
     "nomCommun": {
       "fr": "Sitwonèl",
@@ -9502,12 +9495,12 @@ const plantesData = [
     "nomScientifique": "Oryza sativa L.",
     "famille": "Poacées",
     "familleId": "68",
-    "image": "/assets/images/especes/Oryza_sativa/673_Oryza_sativa-001.jpg",
+    "image": "/images/673_Oryza_sativa-001.jpg",
     "images": [
-      "/assets/images/especes/Oryza_sativa/673_Oryza_sativa-001.jpg",
-      "/assets/images/especes/Oryza_sativa/673_Oryza_sativa-002.jpg",
-      "/assets/images/especes/Oryza_sativa/673_Oryza_sativa-003.jpg",
-      "/assets/images/especes/Oryza_sativa/673_Oryza_sativa-004.jpg"
+      "/images/673_Oryza_sativa-001.jpg",
+      "/images/673_Oryza_sativa-002.jpg",
+      "/images/673_Oryza_sativa-003.jpg",
+      "/images/673_Oryza_sativa-004.jpg"
     ],
     "nomCommun": {
       "fr": "Diri",
@@ -9551,12 +9544,12 @@ const plantesData = [
     "nomScientifique": "Saccharum officinarum",
     "famille": "Poacées",
     "familleId": "68",
-    "image": "/assets/images/especes/Saccharum_officinarum/674_Saccharum_officinarum-003.jpg",
+    "image": "/images/674_Saccharum_officinarum-003.jpg",
     "images": [
-      "/assets/images/especes/Saccharum_officinarum/674_Saccharum_officinarum-003.jpg",
-      "/assets/images/especes/Saccharum_officinarum/674_Saccharum_officinarum-004.jpg",
-      "/assets/images/especes/Saccharum_officinarum/674_Saccharum_officinarum-005.jpg",
-      "/assets/images/especes/Saccharum_officinarum/674_Saccharum_officinarum-006.jpg"
+      "/images/674_Saccharum_officinarum-003.jpg",
+      "/images/674_Saccharum_officinarum-004.jpg",
+      "/images/674_Saccharum_officinarum-005.jpg",
+      "/images/674_Saccharum_officinarum-006.jpg"
     ],
     "nomCommun": {
       "fr": "Kann",
@@ -9600,9 +9593,9 @@ const plantesData = [
     "nomScientifique": "Sorghum bicolor (L.)",
     "famille": "Poacées",
     "familleId": "68",
-    "image": "/assets/images/especes/Sorghum_bicolor/675_Sorghum_bicolor-001.jpg",
+    "image": "/images/675_Sorghum_bicolor-001.jpg",
     "images": [
-      "/assets/images/especes/Sorghum_bicolor/675_Sorghum_bicolor-001.jpg"
+      "/images/675_Sorghum_bicolor-001.jpg"
     ],
     "nomCommun": {
       "fr": "Pitimi",
@@ -9646,10 +9639,10 @@ const plantesData = [
     "nomScientifique": "Zea mays L.",
     "famille": "Poacées",
     "familleId": "68",
-    "image": "/assets/images/especes/Zea_mays/676_Zea_mays-001.jpg",
+    "image": "/images/676_Zea_mays-001.jpg",
     "images": [
-      "/assets/images/especes/Zea_mays/676_Zea_mays-001.jpg",
-      "/assets/images/especes/Zea_mays/676_Zea_mays-002.jpg"
+      "/images/676_Zea_mays-001.jpg",
+      "/images/676_Zea_mays-002.jpg"
     ],
     "nomCommun": {
       "fr": "Mayi",
@@ -9693,9 +9686,9 @@ const plantesData = [
     "nomScientifique": "Securidaca virgata Sw.",
     "famille": "Polygalacées",
     "familleId": "69",
-    "image": "/assets/images/especes/Securidaca_virgata/681_Securidaca_virgata-001.jpg",
+    "image": "/images/681_Securidaca_virgata-001.jpg",
     "images": [
-      "/assets/images/especes/Securidaca_virgata/681_Securidaca_virgata-001.jpg"
+      "/images/681_Securidaca_virgata-001.jpg"
     ],
     "nomCommun": {
       "fr": "Bale koukouy",
@@ -9739,11 +9732,11 @@ const plantesData = [
     "nomScientifique": "Antigonon leptopus Hook",
     "famille": "Polygonacées",
     "familleId": "70",
-    "image": "/assets/images/especes/Antigonon_leptopus/691_Antigonon_leptopus-001.jpg",
+    "image": "/images/691_Antigonon_leptopus-001.jpg",
     "images": [
-      "/assets/images/especes/Antigonon_leptopus/691_Antigonon_leptopus-001.jpg",
-      "/assets/images/especes/Antigonon_leptopus/691_Antigonon_leptopus-002.jpg",
-      "/assets/images/especes/Antigonon_leptopus/691_Antigonon_leptopus-003.jpg"
+      "/images/691_Antigonon_leptopus-001.jpg",
+      "/images/691_Antigonon_leptopus-002.jpg",
+      "/images/691_Antigonon_leptopus-003.jpg"
     ],
     "nomCommun": {
       "fr": "Lyan koray",
@@ -9787,9 +9780,9 @@ const plantesData = [
     "nomScientifique": "Coccoloba uvifera (L.)",
     "famille": "Polygonacées",
     "familleId": "70",
-    "image": "/assets/images/especes/Coccoloba_uvifera/692_Coccoloba_uvifera-001.jpg",
+    "image": "/images/692_Coccoloba_uvifera-001.jpg",
     "images": [
-      "/assets/images/especes/Coccoloba_uvifera/692_Coccoloba_uvifera-001.jpg"
+      "/images/692_Coccoloba_uvifera-001.jpg"
     ],
     "nomCommun": {
       "fr": "Rezen lanmè",
@@ -9833,9 +9826,9 @@ const plantesData = [
     "nomScientifique": "Portulaca oleracea L.",
     "famille": "Portulacacées",
     "familleId": "71",
-    "image": "/assets/images/especes/Portulaca_oleracea/701_Portulaca_oleracea-001.jpg",
+    "image": "/images/701_Portulaca_oleracea-001.jpg",
     "images": [
-      "/assets/images/especes/Portulaca_oleracea/701_Portulaca_oleracea-001.jpg"
+      "/images/701_Portulaca_oleracea-001.jpg"
     ],
     "nomCommun": {
       "fr": "Koupye",
@@ -9879,10 +9872,10 @@ const plantesData = [
     "nomScientifique": "Clavija domingensis",
     "famille": "Primulacées",
     "familleId": "72",
-    "image": "/assets/images/especes/Clavija_domingensis/711_Clavija_domingensis-001.jpg",
+    "image": "/images/711_Clavija_domingensis-001.jpg",
     "images": [
-      "/assets/images/especes/Clavija_domingensis/711_Clavija_domingensis-001.jpg",
-      "/assets/images/especes/Clavija_domingensis/711_Clavija_domingensis-002.jpg"
+      "/images/711_Clavija_domingensis-001.jpg",
+      "/images/711_Clavija_domingensis-002.jpg"
     ],
     "nomCommun": {
       "fr": "Lang bèf",
@@ -9926,7 +9919,7 @@ const plantesData = [
     "nomScientifique": "Adiantum capillus-veneris",
     "famille": "Ptéridacées",
     "familleId": "73",
-    "image": "/assets/images/placeholder.jpg",
+    "image": "/images/placeholder.svg",
     "images": [],
     "nomCommun": {
       "fr": "Kapilè",
@@ -9970,10 +9963,10 @@ const plantesData = [
     "nomScientifique": "Petiveria alliacea L.",
     "famille": "Pétivériacées",
     "familleId": "74",
-    "image": "/assets/images/especes/Petiveria_alliacea/731_Petiveria_alliacea-001.jpg",
+    "image": "/images/731_Petiveria_alliacea-001.jpg",
     "images": [
-      "/assets/images/especes/Petiveria_alliacea/731_Petiveria_alliacea-001.jpg",
-      "/assets/images/especes/Petiveria_alliacea/731_Petiveria_alliacea-002.jpg"
+      "/images/731_Petiveria_alliacea-001.jpg",
+      "/images/731_Petiveria_alliacea-002.jpg"
     ],
     "nomCommun": {
       "fr": "Ave / Malpouri",
@@ -10017,10 +10010,10 @@ const plantesData = [
     "nomScientifique": "Rivinia humilis L.",
     "famille": "Pétivériacées",
     "familleId": "74",
-    "image": "/assets/images/especes/Rivinia_humilis/732_Rivinia_humilis-001.jpg",
+    "image": "/images/732_Rivinia_humilis-001.jpg",
     "images": [
-      "/assets/images/especes/Rivinia_humilis/732_Rivinia_humilis-001.jpg",
-      "/assets/images/especes/Rivinia_humilis/732_Rivinia_humilis-002.jpg"
+      "/images/732_Rivinia_humilis-001.jpg",
+      "/images/732_Rivinia_humilis-002.jpg"
     ],
     "nomCommun": {
       "fr": "Bobo kodèn / Panzou",
@@ -10064,10 +10057,10 @@ const plantesData = [
     "nomScientifique": "Colubrina arborescens",
     "famille": "Rhamnacées",
     "familleId": "75",
-    "image": "/assets/images/especes/Colubrina_arborescens/741_Colubrina_arborescens-001.jpg",
+    "image": "/images/741_Colubrina_arborescens-001.jpg",
     "images": [
-      "/assets/images/especes/Colubrina_arborescens/741_Colubrina_arborescens-001.jpg",
-      "/assets/images/especes/Colubrina_arborescens/741_Colubrina_arborescens-002.jpg"
+      "/images/741_Colubrina_arborescens-001.jpg",
+      "/images/741_Colubrina_arborescens-002.jpg"
     ],
     "nomCommun": {
       "fr": "Bwa ple",
@@ -10111,9 +10104,9 @@ const plantesData = [
     "nomScientifique": "Colubrina asiatica (L.)",
     "famille": "Rhamnacées",
     "familleId": "75",
-    "image": "/assets/images/especes/Colubrina_asiatica/742_Colubrina_asiatica-001.jpg",
+    "image": "/images/742_Colubrina_asiatica-001.jpg",
     "images": [
-      "/assets/images/especes/Colubrina_asiatica/742_Colubrina_asiatica-001.jpg"
+      "/images/742_Colubrina_asiatica-001.jpg"
     ],
     "nomCommun": {
       "fr": "Lyan",
@@ -10157,10 +10150,10 @@ const plantesData = [
     "nomScientifique": "Gouania lupuloides (L.)",
     "famille": "Rhamnacées",
     "familleId": "75",
-    "image": "/assets/images/especes/Gouania_lupuloides/743_Gouania_lupuloides-001.jpg",
+    "image": "/images/743_Gouania_lupuloides-001.jpg",
     "images": [
-      "/assets/images/especes/Gouania_lupuloides/743_Gouania_lupuloides-001.jpg",
-      "/assets/images/especes/Gouania_lupuloides/743_Gouania_lupuloides-002.jpg"
+      "/images/743_Gouania_lupuloides-001.jpg",
+      "/images/743_Gouania_lupuloides-002.jpg"
     ],
     "nomCommun": {
       "fr": "Lyan savon",
@@ -10204,11 +10197,11 @@ const plantesData = [
     "nomScientifique": "Rhizophora mangle L.",
     "famille": "Rhizophoracées",
     "familleId": "76",
-    "image": "/assets/images/especes/Rhizophora_mangle/751_Rhizophora_mangle-001.jpg",
+    "image": "/images/751_Rhizophora_mangle-001.jpg",
     "images": [
-      "/assets/images/especes/Rhizophora_mangle/751_Rhizophora_mangle-001.jpg",
-      "/assets/images/especes/Rhizophora_mangle/751_Rhizophora_mangle-002.jpg",
-      "/assets/images/especes/Rhizophora_mangle/751_Rhizophora_mangle-003.jpg"
+      "/images/751_Rhizophora_mangle-001.jpg",
+      "/images/751_Rhizophora_mangle-002.jpg",
+      "/images/751_Rhizophora_mangle-003.jpg"
     ],
     "nomCommun": {
       "fr": "Mangliye wouj",
@@ -10252,9 +10245,9 @@ const plantesData = [
     "nomScientifique": "Eriobotrya japonica",
     "famille": "Rosacées",
     "familleId": "77",
-    "image": "/assets/images/especes/Eriobotrya_japonica/761_Eriobotrya_japonica-001.jpg",
+    "image": "/images/761_Eriobotrya_japonica-001.jpg",
     "images": [
-      "/assets/images/especes/Eriobotrya_japonica/761_Eriobotrya_japonica-001.jpg"
+      "/images/761_Eriobotrya_japonica-001.jpg"
     ],
     "nomCommun": {
       "fr": "Lokwat",
@@ -10298,9 +10291,9 @@ const plantesData = [
     "nomScientifique": "Prunus myrtifolia (L.)",
     "famille": "Rosacées",
     "familleId": "77",
-    "image": "/assets/images/especes/Prunus_myrtifolia/762_Prunus_myrtifolia-001.jpg",
+    "image": "/images/762_Prunus_myrtifolia-001.jpg",
     "images": [
-      "/assets/images/especes/Prunus_myrtifolia/762_Prunus_myrtifolia-001.jpg"
+      "/images/762_Prunus_myrtifolia-001.jpg"
     ],
     "nomCommun": {
       "fr": "Amandye ti fèy",
@@ -10344,10 +10337,10 @@ const plantesData = [
     "nomScientifique": "Prunus occidentalis Sw.",
     "famille": "Rosacées",
     "familleId": "77",
-    "image": "/assets/images/especes/Prunus_occidentalis/763_Prunus_occidentalis-001.jpg",
+    "image": "/images/763_Prunus_occidentalis-001.jpg",
     "images": [
-      "/assets/images/especes/Prunus_occidentalis/763_Prunus_occidentalis-001.jpg",
-      "/assets/images/especes/Prunus_occidentalis/763_Prunus_occidentalis-002.jpg"
+      "/images/763_Prunus_occidentalis-001.jpg",
+      "/images/763_Prunus_occidentalis-002.jpg"
     ],
     "nomCommun": {
       "fr": "Amandye gwo fèy",
@@ -10391,12 +10384,12 @@ const plantesData = [
     "nomScientifique": "Rubus selleanus Helwig",
     "famille": "Rosacées",
     "familleId": "77",
-    "image": "/assets/images/especes/Rubus_selleanus/764_Rubus_selleanus-002.jpg",
+    "image": "/images/764_Rubus_selleanus-002.jpg",
     "images": [
-      "/assets/images/especes/Rubus_selleanus/764_Rubus_selleanus-002.jpg",
-      "/assets/images/especes/Rubus_selleanus/764_Rubus_selleanus-003.jpg",
-      "/assets/images/especes/Rubus_selleanus/764_Rubus_selleanus-004.jpg",
-      "/assets/images/especes/Rubus_selleanus/764_Rubus_selleanus-005.jpg"
+      "/images/764_Rubus_selleanus-002.jpg",
+      "/images/764_Rubus_selleanus-003.jpg",
+      "/images/764_Rubus_selleanus-004.jpg",
+      "/images/764_Rubus_selleanus-005.jpg"
     ],
     "nomCommun": {
       "fr": "-",
@@ -10440,11 +10433,11 @@ const plantesData = [
     "nomScientifique": "Coffea arabica L.",
     "famille": "Rubiacées",
     "familleId": "78",
-    "image": "/assets/images/especes/Coffea_arabica/771_Coffea_arabica-001.jpg",
+    "image": "/images/771_Coffea_arabica-001.jpg",
     "images": [
-      "/assets/images/especes/Coffea_arabica/771_Coffea_arabica-001.jpg",
-      "/assets/images/especes/Coffea_arabica/771_Coffea_arabica-002.jpg",
-      "/assets/images/especes/Coffea_arabica/771_Coffea_arabica-003.jpg"
+      "/images/771_Coffea_arabica-001.jpg",
+      "/images/771_Coffea_arabica-002.jpg",
+      "/images/771_Coffea_arabica-003.jpg"
     ],
     "nomCommun": {
       "fr": "Kafe",
@@ -10488,9 +10481,9 @@ const plantesData = [
     "nomScientifique": "Genipa americana L.",
     "famille": "Rubiacées",
     "familleId": "78",
-    "image": "/assets/images/especes/Genipa_americana/772_Genipa_americana-001.jpg",
+    "image": "/images/772_Genipa_americana-001.jpg",
     "images": [
-      "/assets/images/especes/Genipa_americana/772_Genipa_americana-001.jpg"
+      "/images/772_Genipa_americana-001.jpg"
     ],
     "nomCommun": {
       "fr": "Jenipa",
@@ -10534,10 +10527,10 @@ const plantesData = [
     "nomScientifique": "Hamelia patens Jacq.",
     "famille": "Rubiacées",
     "familleId": "78",
-    "image": "/assets/images/especes/Hamelia_patens/773_Hamelia_patens-001.jpg",
+    "image": "/images/773_Hamelia_patens-001.jpg",
     "images": [
-      "/assets/images/especes/Hamelia_patens/773_Hamelia_patens-001.jpg",
-      "/assets/images/especes/Hamelia_patens/773_Hamelia_patens-002.jpg"
+      "/images/773_Hamelia_patens-001.jpg",
+      "/images/773_Hamelia_patens-002.jpg"
     ],
     "nomCommun": {
       "fr": "Koray",
@@ -10581,10 +10574,10 @@ const plantesData = [
     "nomScientifique": "Morinda citrifolia L.",
     "famille": "Rubiacées",
     "familleId": "78",
-    "image": "/assets/images/especes/Morinda_citrifolia/774_Morinda_citrifolia-001.jpg",
+    "image": "/images/774_Morinda_citrifolia-001.jpg",
     "images": [
-      "/assets/images/especes/Morinda_citrifolia/774_Morinda_citrifolia-001.jpg",
-      "/assets/images/especes/Morinda_citrifolia/774_Morinda_citrifolia-002.jpg"
+      "/images/774_Morinda_citrifolia-001.jpg",
+      "/images/774_Morinda_citrifolia-002.jpg"
     ],
     "nomCommun": {
       "fr": "Doulè",
@@ -10628,11 +10621,11 @@ const plantesData = [
     "nomScientifique": "Morinda royoc L.",
     "famille": "Rubiacées",
     "familleId": "78",
-    "image": "/assets/images/especes/Morinda_royoc/775_Morinda_royoc-001.jpg",
+    "image": "/images/775_Morinda_royoc-001.jpg",
     "images": [
-      "/assets/images/especes/Morinda_royoc/775_Morinda_royoc-001.jpg",
-      "/assets/images/especes/Morinda_royoc/775_Morinda_royoc-002.jpg",
-      "/assets/images/especes/Morinda_royoc/775_Morinda_royoc-003.jpg"
+      "/images/775_Morinda_royoc-001.jpg",
+      "/images/775_Morinda_royoc-002.jpg",
+      "/images/775_Morinda_royoc-003.jpg"
     ],
     "nomCommun": {
       "fr": "Safran",
@@ -10676,9 +10669,9 @@ const plantesData = [
     "nomScientifique": "Spermacoce assurgens",
     "famille": "Rubiacées",
     "familleId": "78",
-    "image": "/assets/images/especes/Spermacoce_assurgens/776_Spermacoce_assurgens-001.jpg",
+    "image": "/images/776_Spermacoce_assurgens-001.jpg",
     "images": [
-      "/assets/images/especes/Spermacoce_assurgens/776_Spermacoce_assurgens-001.jpg"
+      "/images/776_Spermacoce_assurgens-001.jpg"
     ],
     "nomCommun": {
       "fr": "Koupe kolonn",
@@ -10722,7 +10715,7 @@ const plantesData = [
     "nomScientifique": "Amyris apiculata",
     "famille": "Rutacées",
     "familleId": "79",
-    "image": "/assets/images/placeholder.jpg",
+    "image": "/images/placeholder.svg",
     "images": [],
     "nomCommun": {
       "fr": "Ti pwason",
@@ -10766,10 +10759,10 @@ const plantesData = [
     "nomScientifique": "Amyris balsamifera L.",
     "famille": "Rutacées",
     "familleId": "79",
-    "image": "/assets/images/especes/Amyris_balsamifera/782_Amyris_balsamifera-001.jpg",
+    "image": "/images/782_Amyris_balsamifera-001.jpg",
     "images": [
-      "/assets/images/especes/Amyris_balsamifera/782_Amyris_balsamifera-001.jpg",
-      "/assets/images/especes/Amyris_balsamifera/782_Amyris_balsamifera-002.jpg"
+      "/images/782_Amyris_balsamifera-001.jpg",
+      "/images/782_Amyris_balsamifera-002.jpg"
     ],
     "nomCommun": {
       "fr": "Bwa chandèl",
@@ -10813,9 +10806,9 @@ const plantesData = [
     "nomScientifique": "Citrus aurantiifolia",
     "famille": "Rutacées",
     "familleId": "79",
-    "image": "/assets/images/especes/Citrus_aurantiifolia/783_Citrus_aurantiifolia-001.jpg",
+    "image": "/images/783_Citrus_aurantiifolia-001.jpg",
     "images": [
-      "/assets/images/especes/Citrus_aurantiifolia/783_Citrus_aurantiifolia-001.jpg"
+      "/images/783_Citrus_aurantiifolia-001.jpg"
     ],
     "nomCommun": {
       "fr": "Sitwon",
@@ -10859,9 +10852,9 @@ const plantesData = [
     "nomScientifique": "Citrus aurantium L.",
     "famille": "Rutacées",
     "familleId": "79",
-    "image": "/assets/images/especes/Citrus_aurantium/784_Citrus_aurantium-001.jpg",
+    "image": "/images/784_Citrus_aurantium-001.jpg",
     "images": [
-      "/assets/images/especes/Citrus_aurantium/784_Citrus_aurantium-001.jpg"
+      "/images/784_Citrus_aurantium-001.jpg"
     ],
     "nomCommun": {
       "fr": "Zoranj si",
@@ -10905,11 +10898,11 @@ const plantesData = [
     "nomScientifique": "Citrus bergamia Risso",
     "famille": "Rutacées",
     "familleId": "79",
-    "image": "/assets/images/especes/Citrus_bergamia/785_Citrus_bergamia-001.jpg",
+    "image": "/images/785_Citrus_bergamia-001.jpg",
     "images": [
-      "/assets/images/especes/Citrus_bergamia/785_Citrus_bergamia-001.jpg",
-      "/assets/images/especes/Citrus_bergamia/785_Citrus_bergamia-002.jpg",
-      "/assets/images/especes/Citrus_bergamia/785_Citrus_bergamia-003.jpg"
+      "/images/785_Citrus_bergamia-001.jpg",
+      "/images/785_Citrus_bergamia-002.jpg",
+      "/images/785_Citrus_bergamia-003.jpg"
     ],
     "nomCommun": {
       "fr": "Bègamot",
@@ -10953,11 +10946,11 @@ const plantesData = [
     "nomScientifique": "Citrus maxima (Burm.)",
     "famille": "Rutacées",
     "familleId": "79",
-    "image": "/assets/images/especes/Citrus_maxima/786_Citrus_maxima-001.jpg",
+    "image": "/images/786_Citrus_maxima-001.jpg",
     "images": [
-      "/assets/images/especes/Citrus_maxima/786_Citrus_maxima-001.jpg",
-      "/assets/images/especes/Citrus_maxima/786_Citrus_maxima-002.jpg",
-      "/assets/images/especes/Citrus_maxima/786_Citrus_maxima-003.jpg"
+      "/images/786_Citrus_maxima-001.jpg",
+      "/images/786_Citrus_maxima-002.jpg",
+      "/images/786_Citrus_maxima-003.jpg"
     ],
     "nomCommun": {
       "fr": "Chadèk",
@@ -11001,9 +10994,9 @@ const plantesData = [
     "nomScientifique": "Citrus sinensis (L.)",
     "famille": "Rutacées",
     "familleId": "79",
-    "image": "/assets/images/especes/Citrus_sinensis/787_Citrus_sinensis-001.jpg",
+    "image": "/images/787_Citrus_sinensis-001.jpg",
     "images": [
-      "/assets/images/especes/Citrus_sinensis/787_Citrus_sinensis-001.jpg"
+      "/images/787_Citrus_sinensis-001.jpg"
     ],
     "nomCommun": {
       "fr": "Zoranj dous",
@@ -11047,10 +11040,10 @@ const plantesData = [
     "nomScientifique": "Glycosmis parviflora",
     "famille": "Rutacées",
     "familleId": "79",
-    "image": "/assets/images/especes/Glycosmis_parviflora/788_Glycosmis_parviflora-001.jpg",
+    "image": "/images/788_Glycosmis_parviflora-001.jpg",
     "images": [
-      "/assets/images/especes/Glycosmis_parviflora/788_Glycosmis_parviflora-001.jpg",
-      "/assets/images/especes/Glycosmis_parviflora/788_Glycosmis_parviflora-002.jpg"
+      "/images/788_Glycosmis_parviflora-001.jpg",
+      "/images/788_Glycosmis_parviflora-002.jpg"
     ],
     "nomCommun": {
       "fr": "Zoranje",
@@ -11094,10 +11087,10 @@ const plantesData = [
     "nomScientifique": "Samyda dodecandra Jacq.",
     "famille": "Salicacées",
     "familleId": "80",
-    "image": "/assets/images/especes/Samyda_dodecandra/791_Samyda_dodecandra-001.jpg",
+    "image": "/images/791_Samyda_dodecandra-001.jpg",
     "images": [
-      "/assets/images/especes/Samyda_dodecandra/791_Samyda_dodecandra-001.jpg",
-      "/assets/images/especes/Samyda_dodecandra/791_Samyda_dodecandra-002.jpg"
+      "/images/791_Samyda_dodecandra-001.jpg",
+      "/images/791_Samyda_dodecandra-002.jpg"
     ],
     "nomCommun": {
       "fr": "Kasèk",
@@ -11141,7 +11134,7 @@ const plantesData = [
     "nomScientifique": "Allophylus racemosus",
     "famille": "Sapindacées",
     "familleId": "81",
-    "image": "/assets/images/placeholder.jpg",
+    "image": "/images/placeholder.svg",
     "images": [],
     "nomCommun": {
       "fr": "Twa pawòl",
@@ -11185,11 +11178,11 @@ const plantesData = [
     "nomScientifique": "Blighia sapida",
     "famille": "Sapindacées",
     "familleId": "81",
-    "image": "/assets/images/especes/Blighia_sapida/802_Blighia_sapida-001.jpg",
+    "image": "/images/802_Blighia_sapida-001.jpg",
     "images": [
-      "/assets/images/especes/Blighia_sapida/802_Blighia_sapida-001.jpg",
-      "/assets/images/especes/Blighia_sapida/802_Blighia_sapida-002.jpg",
-      "/assets/images/especes/Blighia_sapida/802_Blighia_sapida-003.jpg"
+      "/images/802_Blighia_sapida-001.jpg",
+      "/images/802_Blighia_sapida-002.jpg",
+      "/images/802_Blighia_sapida-003.jpg"
     ],
     "nomCommun": {
       "fr": "Aki",
@@ -11233,11 +11226,11 @@ const plantesData = [
     "nomScientifique": "Cupania americana L.",
     "famille": "Sapindacées",
     "familleId": "81",
-    "image": "/assets/images/especes/Cupania_americana/803_Cupania_americana-001.jpg",
+    "image": "/images/803_Cupania_americana-001.jpg",
     "images": [
-      "/assets/images/especes/Cupania_americana/803_Cupania_americana-001.jpg",
-      "/assets/images/especes/Cupania_americana/803_Cupania_americana-002.jpg",
-      "/assets/images/especes/Cupania_americana/803_Cupania_americana-003.jpg"
+      "/images/803_Cupania_americana-001.jpg",
+      "/images/803_Cupania_americana-002.jpg",
+      "/images/803_Cupania_americana-003.jpg"
     ],
     "nomCommun": {
       "fr": "Santanyen",
@@ -11281,10 +11274,10 @@ const plantesData = [
     "nomScientifique": "Melicoccus bijugatus",
     "famille": "Sapindacées",
     "familleId": "81",
-    "image": "/assets/images/especes/Melicoccus_bijugatus/804_Melicoccus_bijugatus-001.jpg",
+    "image": "/images/804_Melicoccus_bijugatus-001.jpg",
     "images": [
-      "/assets/images/especes/Melicoccus_bijugatus/804_Melicoccus_bijugatus-001.jpg",
-      "/assets/images/especes/Melicoccus_bijugatus/804_Melicoccus_bijugatus-002.jpg"
+      "/images/804_Melicoccus_bijugatus-001.jpg",
+      "/images/804_Melicoccus_bijugatus-002.jpg"
     ],
     "nomCommun": {
       "fr": "Kenèp",
@@ -11328,9 +11321,9 @@ const plantesData = [
     "nomScientifique": "Sapindus saponaria L.",
     "famille": "Sapindacées",
     "familleId": "81",
-    "image": "/assets/images/especes/Sapindus_saponaria/805_Sapindus_saponaria-001.jpg",
+    "image": "/images/805_Sapindus_saponaria-001.jpg",
     "images": [
-      "/assets/images/especes/Sapindus_saponaria/805_Sapindus_saponaria-001.jpg"
+      "/images/805_Sapindus_saponaria-001.jpg"
     ],
     "nomCommun": {
       "fr": "Savonèt",
@@ -11374,12 +11367,12 @@ const plantesData = [
     "nomScientifique": "Chrysophyllum cainito L.",
     "famille": "Sapotacées",
     "familleId": "82",
-    "image": "/assets/images/especes/Chrysophyllum_cainito/811_Chrysophyllum_cainito-001.jpg",
+    "image": "/images/811_Chrysophyllum_cainito-001.jpg",
     "images": [
-      "/assets/images/especes/Chrysophyllum_cainito/811_Chrysophyllum_cainito-001.jpg",
-      "/assets/images/especes/Chrysophyllum_cainito/811_Chrysophyllum_cainito-002.jpg",
-      "/assets/images/especes/Chrysophyllum_cainito/811_Chrysophyllum_cainito-003.jpg",
-      "/assets/images/especes/Chrysophyllum_cainito/811_Chrysophyllum_cainito-004.jpg"
+      "/images/811_Chrysophyllum_cainito-001.jpg",
+      "/images/811_Chrysophyllum_cainito-002.jpg",
+      "/images/811_Chrysophyllum_cainito-003.jpg",
+      "/images/811_Chrysophyllum_cainito-004.jpg"
     ],
     "nomCommun": {
       "fr": "Kayimit",
@@ -11423,9 +11416,9 @@ const plantesData = [
     "nomScientifique": "Chrysophyllum oliviforme",
     "famille": "Sapotacées",
     "familleId": "82",
-    "image": "/assets/images/especes/Chrysophyllum_oliviforme/812_Chrysophyllum_oliviforme-001.jpg",
+    "image": "/images/812_Chrysophyllum_oliviforme-001.jpg",
     "images": [
-      "/assets/images/especes/Chrysophyllum_oliviforme/812_Chrysophyllum_oliviforme-001.jpg"
+      "/images/812_Chrysophyllum_oliviforme-001.jpg"
     ],
     "nomCommun": {
       "fr": "Ti kayimit",
@@ -11469,12 +11462,12 @@ const plantesData = [
     "nomScientifique": "Manilkara zapota (L.)",
     "famille": "Sapotacées",
     "familleId": "82",
-    "image": "/assets/images/especes/Manilkara_zapota/813_Manilkara_zapota-001.jpg",
+    "image": "/images/813_Manilkara_zapota-001.jpg",
     "images": [
-      "/assets/images/especes/Manilkara_zapota/813_Manilkara_zapota-001.jpg",
-      "/assets/images/especes/Manilkara_zapota/813_Manilkara_zapota-002.jpg",
-      "/assets/images/especes/Manilkara_zapota/813_Manilkara_zapota-003.jpg",
-      "/assets/images/especes/Manilkara_zapota/813_Manilkara_zapota-004.jpg"
+      "/images/813_Manilkara_zapota-001.jpg",
+      "/images/813_Manilkara_zapota-002.jpg",
+      "/images/813_Manilkara_zapota-003.jpg",
+      "/images/813_Manilkara_zapota-004.jpg"
     ],
     "nomCommun": {
       "fr": "Sapoti",
@@ -11518,9 +11511,9 @@ const plantesData = [
     "nomScientifique": "Pouteria dominigensis",
     "famille": "Sapotacées",
     "familleId": "82",
-    "image": "/assets/images/especes/Pouteria_dominigensis/814_Pouteria_dominigensis-001.jpg",
+    "image": "/images/814_Pouteria_dominigensis-001.jpg",
     "images": [
-      "/assets/images/especes/Pouteria_dominigensis/814_Pouteria_dominigensis-001.jpg"
+      "/images/814_Pouteria_dominigensis-001.jpg"
     ],
     "nomCommun": {
       "fr": "Jòndèf",
@@ -11564,9 +11557,9 @@ const plantesData = [
     "nomScientifique": "Pouteria hotteana (Urb.)",
     "famille": "Sapotacées",
     "familleId": "82",
-    "image": "/assets/images/especes/Pouteria_hotteana/815_Pouteria_hotteana-001.jpg",
+    "image": "/images/815_Pouteria_hotteana-001.jpg",
     "images": [
-      "/assets/images/especes/Pouteria_hotteana/815_Pouteria_hotteana-001.jpg"
+      "/images/815_Pouteria_hotteana-001.jpg"
     ],
     "nomCommun": {
       "fr": "Jòndèf",
@@ -11610,10 +11603,10 @@ const plantesData = [
     "nomScientifique": "Sideroxylon foetidissimum",
     "famille": "Sapotacées",
     "familleId": "82",
-    "image": "/assets/images/especes/Sideroxylon_foetidissimum/816_Sideroxylon_foetidissimum-001.jpg",
+    "image": "/images/816_Sideroxylon_foetidissimum-001.jpg",
     "images": [
-      "/assets/images/especes/Sideroxylon_foetidissimum/816_Sideroxylon_foetidissimum-001.jpg",
-      "/assets/images/especes/Sideroxylon_foetidissimum/816_Sideroxylon_foetidissimum-002.jpg"
+      "/images/816_Sideroxylon_foetidissimum-001.jpg",
+      "/images/816_Sideroxylon_foetidissimum-002.jpg"
     ],
     "nomCommun": {
       "fr": "Sip",
@@ -11657,10 +11650,10 @@ const plantesData = [
     "nomScientifique": "Sideroxylon salicifolium",
     "famille": "Sapotacées",
     "familleId": "82",
-    "image": "/assets/images/especes/Sideroxylon_salicifolium/817_Sideroxylon_salicifolium-001.jpg",
+    "image": "/images/817_Sideroxylon_salicifolium-001.jpg",
     "images": [
-      "/assets/images/especes/Sideroxylon_salicifolium/817_Sideroxylon_salicifolium-001.jpg",
-      "/assets/images/especes/Sideroxylon_salicifolium/817_Sideroxylon_salicifolium-002.jpg"
+      "/images/817_Sideroxylon_salicifolium-001.jpg",
+      "/images/817_Sideroxylon_salicifolium-002.jpg"
     ],
     "nomCommun": {
       "fr": "Kòma",
@@ -11704,9 +11697,9 @@ const plantesData = [
     "nomScientifique": "Illicium hottense",
     "famille": "Schisandracées",
     "familleId": "83",
-    "image": "/assets/images/especes/Illicium_hottense/821_Illicium_hottense-001.jpg",
+    "image": "/images/821_Illicium_hottense-001.jpg",
     "images": [
-      "/assets/images/especes/Illicium_hottense/821_Illicium_hottense-001.jpg"
+      "/images/821_Illicium_hottense-001.jpg"
     ],
     "nomCommun": {
       "fr": "Bwa aniz",
@@ -11750,10 +11743,10 @@ const plantesData = [
     "nomScientifique": "Picramnia pentandra Sw.",
     "famille": "Simaroubacées",
     "familleId": "84",
-    "image": "/assets/images/especes/Picramnia_pentandra/831_Picramnia_pentandra-001.jpg",
+    "image": "/images/831_Picramnia_pentandra-001.jpg",
     "images": [
-      "/assets/images/especes/Picramnia_pentandra/831_Picramnia_pentandra-001.jpg",
-      "/assets/images/especes/Picramnia_pentandra/831_Picramnia_pentandra-002.jpg"
+      "/images/831_Picramnia_pentandra-001.jpg",
+      "/images/831_Picramnia_pentandra-002.jpg"
     ],
     "nomCommun": {
       "fr": "Ti gason",
@@ -11797,12 +11790,12 @@ const plantesData = [
     "nomScientifique": "Simarouba glauca DC.",
     "famille": "Simaroubacées",
     "familleId": "84",
-    "image": "/assets/images/especes/Simarouba_glauca/832_Simarouba_glauca-001.jpg",
+    "image": "/images/832_Simarouba_glauca-001.jpg",
     "images": [
-      "/assets/images/especes/Simarouba_glauca/832_Simarouba_glauca-001.jpg",
-      "/assets/images/especes/Simarouba_glauca/832_Simarouba_glauca-002.jpg",
-      "/assets/images/especes/Simarouba_glauca/832_Simarouba_glauca-003.jpg",
-      "/assets/images/especes/Simarouba_glauca/832_Simarouba_glauca-004.jpg"
+      "/images/832_Simarouba_glauca-001.jpg",
+      "/images/832_Simarouba_glauca-002.jpg",
+      "/images/832_Simarouba_glauca-003.jpg",
+      "/images/832_Simarouba_glauca-004.jpg"
     ],
     "nomCommun": {
       "fr": "Frèn",
@@ -11846,10 +11839,10 @@ const plantesData = [
     "nomScientifique": "Brugmansia suaveolens",
     "famille": "Solanacées",
     "familleId": "85",
-    "image": "/assets/images/especes/Brugmansia_suaveolens/841_Brugmansia_suaveolens-001.jpg",
+    "image": "/images/841_Brugmansia_suaveolens-001.jpg",
     "images": [
-      "/assets/images/especes/Brugmansia_suaveolens/841_Brugmansia_suaveolens-001.jpg",
-      "/assets/images/especes/Brugmansia_suaveolens/841_Brugmansia_suaveolens-002.jpg"
+      "/images/841_Brugmansia_suaveolens-001.jpg",
+      "/images/841_Brugmansia_suaveolens-002.jpg"
     ],
     "nomCommun": {
       "fr": "Flè klòch",
@@ -11893,11 +11886,11 @@ const plantesData = [
     "nomScientifique": "Capsicum frutescens L.",
     "famille": "Solanacées",
     "familleId": "85",
-    "image": "/assets/images/especes/Capsicum_frutescens/842_Capsicum_frutescens-001.jpg",
+    "image": "/images/842_Capsicum_frutescens-001.jpg",
     "images": [
-      "/assets/images/especes/Capsicum_frutescens/842_Capsicum_frutescens-001.jpg",
-      "/assets/images/especes/Capsicum_frutescens/842_Capsicum_frutescens-002.jpg",
-      "/assets/images/especes/Capsicum_frutescens/842_Capsicum_frutescens-003.jpg"
+      "/images/842_Capsicum_frutescens-001.jpg",
+      "/images/842_Capsicum_frutescens-002.jpg",
+      "/images/842_Capsicum_frutescens-003.jpg"
     ],
     "nomCommun": {
       "fr": "Piman zwazo",
@@ -11941,11 +11934,11 @@ const plantesData = [
     "nomScientifique": "Cestrum bicolor Urban",
     "famille": "Solanacées",
     "familleId": "85",
-    "image": "/assets/images/especes/Cestrum_bicolor/843_Cestrum_bicolor-001.jpg",
+    "image": "/images/843_Cestrum_bicolor-001.jpg",
     "images": [
-      "/assets/images/especes/Cestrum_bicolor/843_Cestrum_bicolor-001.jpg",
-      "/assets/images/especes/Cestrum_bicolor/843_Cestrum_bicolor-002.jpg",
-      "/assets/images/especes/Cestrum_bicolor/843_Cestrum_bicolor-003.jpg"
+      "/images/843_Cestrum_bicolor-001.jpg",
+      "/images/843_Cestrum_bicolor-002.jpg",
+      "/images/843_Cestrum_bicolor-003.jpg"
     ],
     "nomCommun": {
       "fr": "Zozofine",
@@ -11989,10 +11982,10 @@ const plantesData = [
     "nomScientifique": "Nicotiana tabacum L.",
     "famille": "Solanacées",
     "familleId": "85",
-    "image": "/assets/images/especes/Nicotiana_tabacum/844_Nicotiana_tabacum-001.jpg",
+    "image": "/images/844_Nicotiana_tabacum-001.jpg",
     "images": [
-      "/assets/images/especes/Nicotiana_tabacum/844_Nicotiana_tabacum-001.jpg",
-      "/assets/images/especes/Nicotiana_tabacum/844_Nicotiana_tabacum-002.jpg"
+      "/images/844_Nicotiana_tabacum-001.jpg",
+      "/images/844_Nicotiana_tabacum-002.jpg"
     ],
     "nomCommun": {
       "fr": "Tabak",
@@ -12036,10 +12029,10 @@ const plantesData = [
     "nomScientifique": "Solanum americanum",
     "famille": "Solanacées",
     "familleId": "85",
-    "image": "/assets/images/especes/Solanum_americanum/845_Solanum_americanum-001.jpg",
+    "image": "/images/845_Solanum_americanum-001.jpg",
     "images": [
-      "/assets/images/especes/Solanum_americanum/845_Solanum_americanum-001.jpg",
-      "/assets/images/especes/Solanum_americanum/845_Solanum_americanum-002.jpg"
+      "/images/845_Solanum_americanum-001.jpg",
+      "/images/845_Solanum_americanum-002.jpg"
     ],
     "nomCommun": {
       "fr": "Lanman",
@@ -12083,9 +12076,9 @@ const plantesData = [
     "nomScientifique": "Solanum lycopersicum L.",
     "famille": "Solanacées",
     "familleId": "85",
-    "image": "/assets/images/especes/Solanum_lycopersicum/846_Solanum_lycopersicum-001.jpg",
+    "image": "/images/846_Solanum_lycopersicum-001.jpg",
     "images": [
-      "/assets/images/especes/Solanum_lycopersicum/846_Solanum_lycopersicum-001.jpg"
+      "/images/846_Solanum_lycopersicum-001.jpg"
     ],
     "nomCommun": {
       "fr": "Tomat",
@@ -12129,10 +12122,10 @@ const plantesData = [
     "nomScientifique": "Solanum melongena L.",
     "famille": "Solanacées",
     "familleId": "85",
-    "image": "/assets/images/especes/Solanum_melongena/847_Solanum_melongena-001.jpg",
+    "image": "/images/847_Solanum_melongena-001.jpg",
     "images": [
-      "/assets/images/especes/Solanum_melongena/847_Solanum_melongena-001.jpg",
-      "/assets/images/especes/Solanum_melongena/847_Solanum_melongena-002.jpg"
+      "/images/847_Solanum_melongena-001.jpg",
+      "/images/847_Solanum_melongena-002.jpg"
     ],
     "nomCommun": {
       "fr": "Berejèn",
@@ -12176,10 +12169,10 @@ const plantesData = [
     "nomScientifique": "Solanum torvum Sw.",
     "famille": "Solanacées",
     "familleId": "85",
-    "image": "/assets/images/especes/Solanum_torvum/848_Solanum_torvum-001.jpg",
+    "image": "/images/848_Solanum_torvum-001.jpg",
     "images": [
-      "/assets/images/especes/Solanum_torvum/848_Solanum_torvum-001.jpg",
-      "/assets/images/especes/Solanum_torvum/848_Solanum_torvum-002.jpg"
+      "/images/848_Solanum_torvum-001.jpg",
+      "/images/848_Solanum_torvum-002.jpg"
     ],
     "nomCommun": {
       "fr": "Zamorèt",
@@ -12223,12 +12216,12 @@ const plantesData = [
     "nomScientifique": "Cecropia peltata L.",
     "famille": "Urticacées",
     "familleId": "86",
-    "image": "/assets/images/especes/Cecropia_peltata/851_Cecropia_peltata-001.jpg",
+    "image": "/images/851_Cecropia_peltata-001.jpg",
     "images": [
-      "/assets/images/especes/Cecropia_peltata/851_Cecropia_peltata-001.jpg",
-      "/assets/images/especes/Cecropia_peltata/851_Cecropia_peltata-002.jpg",
-      "/assets/images/especes/Cecropia_peltata/851_Cecropia_peltata-003.jpg",
-      "/assets/images/especes/Cecropia_peltata/851_Cecropia_peltata-005.jpg"
+      "/images/851_Cecropia_peltata-001.jpg",
+      "/images/851_Cecropia_peltata-002.jpg",
+      "/images/851_Cecropia_peltata-003.jpg",
+      "/images/851_Cecropia_peltata-005.jpg"
     ],
     "nomCommun": {
       "fr": "Twonpèt",
@@ -12272,10 +12265,10 @@ const plantesData = [
     "nomScientifique": "Urera baccifera (L.)",
     "famille": "Urticacées",
     "familleId": "86",
-    "image": "/assets/images/especes/Urera_baccifera/852_Urera_baccifera-001.jpg",
+    "image": "/images/852_Urera_baccifera-001.jpg",
     "images": [
-      "/assets/images/especes/Urera_baccifera/852_Urera_baccifera-001.jpg",
-      "/assets/images/especes/Urera_baccifera/852_Urera_baccifera-002.jpg"
+      "/images/852_Urera_baccifera-001.jpg",
+      "/images/852_Urera_baccifera-002.jpg"
     ],
     "nomCommun": {
       "fr": "Manman gèp / Gratgrat",
@@ -12319,10 +12312,10 @@ const plantesData = [
     "nomScientifique": "Citharexylum spinosum",
     "famille": "Verbénacées",
     "familleId": "87",
-    "image": "/assets/images/especes/Citharexylum_spinosum/861_Citharexylum_spinosum-001.jpg",
+    "image": "/images/861_Citharexylum_spinosum-001.jpg",
     "images": [
-      "/assets/images/especes/Citharexylum_spinosum/861_Citharexylum_spinosum-001.jpg",
-      "/assets/images/especes/Citharexylum_spinosum/861_Citharexylum_spinosum-002.jpg"
+      "/images/861_Citharexylum_spinosum-001.jpg",
+      "/images/861_Citharexylum_spinosum-002.jpg"
     ],
     "nomCommun": {
       "fr": "Bwa kòt",
@@ -12366,10 +12359,10 @@ const plantesData = [
     "nomScientifique": "Lantana camara L.",
     "famille": "Verbénacées",
     "familleId": "87",
-    "image": "/assets/images/especes/Lantana_camara/862_Lantana_camara-001.jpg",
+    "image": "/images/862_Lantana_camara-001.jpg",
     "images": [
-      "/assets/images/especes/Lantana_camara/862_Lantana_camara-001.jpg",
-      "/assets/images/especes/Lantana_camara/862_Lantana_camara-002.jpg"
+      "/images/862_Lantana_camara-001.jpg",
+      "/images/862_Lantana_camara-002.jpg"
     ],
     "nomCommun": {
       "fr": "Bonbonyen",
@@ -12413,10 +12406,10 @@ const plantesData = [
     "nomScientifique": "Priva lappulacea (L.)",
     "famille": "Verbénacées",
     "familleId": "87",
-    "image": "/assets/images/especes/Priva_lappulacea/863_Priva_lappulacea-001.jpg",
+    "image": "/images/863_Priva_lappulacea-001.jpg",
     "images": [
-      "/assets/images/especes/Priva_lappulacea/863_Priva_lappulacea-001.jpg",
-      "/assets/images/especes/Priva_lappulacea/863_Priva_lappulacea-002.jpg"
+      "/images/863_Priva_lappulacea-001.jpg",
+      "/images/863_Priva_lappulacea-002.jpg"
     ],
     "nomCommun": {
       "fr": "Kouzen van",
@@ -12460,10 +12453,10 @@ const plantesData = [
     "nomScientifique": "Stachytarpheta jamaicensis",
     "famille": "Verbénacées",
     "familleId": "87",
-    "image": "/assets/images/especes/Stachytarpheta_jamaicensis/864_Stachytarpheta_jamaicensis-001.jpg",
+    "image": "/images/864_Stachytarpheta_jamaicensis-001.jpg",
     "images": [
-      "/assets/images/especes/Stachytarpheta_jamaicensis/864_Stachytarpheta_jamaicensis-001.jpg",
-      "/assets/images/especes/Stachytarpheta_jamaicensis/864_Stachytarpheta_jamaicensis-002.jpg"
+      "/images/864_Stachytarpheta_jamaicensis-001.jpg",
+      "/images/864_Stachytarpheta_jamaicensis-002.jpg"
     ],
     "nomCommun": {
       "fr": "Vèvèn",
@@ -12507,12 +12500,12 @@ const plantesData = [
     "nomScientifique": "Cissus verticillata (L.)",
     "famille": "Vitacées",
     "familleId": "88",
-    "image": "/assets/images/especes/Cissus_verticillata/871_Cissus_verticillata-001.jpg",
+    "image": "/images/871_Cissus_verticillata-001.jpg",
     "images": [
-      "/assets/images/especes/Cissus_verticillata/871_Cissus_verticillata-001.jpg",
-      "/assets/images/especes/Cissus_verticillata/871_Cissus_verticillata-002.jpg",
-      "/assets/images/especes/Cissus_verticillata/871_Cissus_verticillata-004.jpg",
-      "/assets/images/especes/Cissus_verticillata/871_Cissus_verticillata-005.jpg"
+      "/images/871_Cissus_verticillata-001.jpg",
+      "/images/871_Cissus_verticillata-002.jpg",
+      "/images/871_Cissus_verticillata-004.jpg",
+      "/images/871_Cissus_verticillata-005.jpg"
     ],
     "nomCommun": {
       "fr": "Lyan mòl",
@@ -12556,9 +12549,9 @@ const plantesData = [
     "nomScientifique": "Vitis vinifera",
     "famille": "Vitacées",
     "familleId": "88",
-    "image": "/assets/images/especes/Vitis_vinifera/872_Vitis_vinifera-001.jpg",
+    "image": "/images/872_Vitis_vinifera-001.jpg",
     "images": [
-      "/assets/images/especes/Vitis_vinifera/872_Vitis_vinifera-001.jpg"
+      "/images/872_Vitis_vinifera-001.jpg"
     ],
     "nomCommun": {
       "fr": "Rezen",
@@ -12602,9 +12595,9 @@ const plantesData = [
     "nomScientifique": "Curcuma longa L.",
     "famille": "Zingibéracées",
     "familleId": "89",
-    "image": "/assets/images/especes/Curcuma_longa/881_Curcuma_longa-001.jpg",
+    "image": "/images/881_Curcuma_longa-001.jpg",
     "images": [
-      "/assets/images/especes/Curcuma_longa/881_Curcuma_longa-001.jpg"
+      "/images/881_Curcuma_longa-001.jpg"
     ],
     "nomCommun": {
       "fr": "Safran",
@@ -12648,9 +12641,9 @@ const plantesData = [
     "nomScientifique": "Zingiber officinale",
     "famille": "Zingibéracées",
     "familleId": "89",
-    "image": "/assets/images/especes/Zingiber_officinale/882_Zingiber_officinale-001.jpg",
+    "image": "/images/882_Zingiber_officinale-001.jpg",
     "images": [
-      "/assets/images/especes/Zingiber_officinale/882_Zingiber_officinale-001.jpg"
+      "/images/882_Zingiber_officinale-001.jpg"
     ],
     "nomCommun": {
       "fr": "Jenjanm",
@@ -12694,10 +12687,10 @@ const plantesData = [
     "nomScientifique": "Guaiacum officinale L.",
     "famille": "Zygophyllacées",
     "familleId": "90",
-    "image": "/assets/images/especes/Guaiacum_officinale/891_Guaiacum_officinale-001.jpg",
+    "image": "/images/891_Guaiacum_officinale-001.jpg",
     "images": [
-      "/assets/images/especes/Guaiacum_officinale/891_Guaiacum_officinale-001.jpg",
-      "/assets/images/especes/Guaiacum_officinale/891_Guaiacum_officinale-002.jpg"
+      "/images/891_Guaiacum_officinale-001.jpg",
+      "/images/891_Guaiacum_officinale-002.jpg"
     ],
     "nomCommun": {
       "fr": "Gayak",

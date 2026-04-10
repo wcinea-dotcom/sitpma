@@ -11,6 +11,9 @@ function getCurrentLang() {
     return window.currentLang || 'fr';
 }
 
+// ---- Placeholder SVG (global, pas de requête réseau) -------
+const placeholderSVG = `data:image/svg+xml,${encodeURIComponent('<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300" viewBox="0 0 400 300"><rect width="400" height="300" fill="%23e8f5e9"/><g transform="translate(200,110)"><path d="M0,-45C30,-30 50,0 35,30C20,60 0,40 0,40C0,40-20,60-35,30C-50,0-30,-30 0,-45Z" fill="%234caf50" opacity=".6"/><line x1="0" y1="20" x2="0" y2="65" stroke="%232c5e3b" stroke-width="3"/></g><text x="200" y="210" text-anchor="middle" font-family="Arial" font-size="13" fill="%232c5e3b" font-weight="bold">Photo non disponible</text></svg>')}`;
+
 // ---- Rendu de la grille de plantes -------------------------
 
 function renderPlantes(plantesToRender) {
@@ -29,9 +32,6 @@ function renderPlantes(plantesToRender) {
     }
 
     const lang = getCurrentLang();
-
-    // Placeholder SVG inline (pas de requête réseau)
-    const placeholderSVG = `data:image/svg+xml,${encodeURIComponent('<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300" viewBox="0 0 400 300"><rect width="400" height="300" fill="%23e8f5e9"/><g transform="translate(200,110)"><path d="M0,-45C30,-30 50,0 35,30C20,60 0,40 0,40C0,40-20,60-35,30C-50,0-30,-30 0,-45Z" fill="%234caf50" opacity=".6"/><line x1="0" y1="20" x2="0" y2="65" stroke="%232c5e3b" stroke-width="3"/></g><text x="200" y="210" text-anchor="middle" font-family="Arial" font-size="13" fill="%232c5e3b" font-weight="bold">Photo non disponible</text></svg>')}`;
 
     grid.innerHTML = plantesToRender.map(p => {
         const toxBadge = p.toxicite
@@ -270,7 +270,7 @@ function showPlantDetails(id) {
 
     // Build hero image and gallery
     const images = p.images || (p.image ? [p.image] : []);
-    const heroImage = images[0] || '/assets/images/placeholder.jpg';
+    const heroImage = images[0] || placeholderSVG;
     const galleryThumbs = images.slice(0, 5).map((img, idx) =>
         `<img src="${img}" alt="Image ${idx + 1}" class="w-16 h-16 object-cover rounded cursor-pointer hover:opacity-80 transition-opacity" onclick="changeHeroImage('${img.replace(/'/g, "\\'")}')">`
     ).join('');
@@ -280,7 +280,7 @@ function showPlantDetails(id) {
         <div class="flex flex-col h-full max-h-[90vh] bg-white rounded-xl overflow-hidden">
             <!-- Header with hero image -->
             <div class="relative bg-gray-900">
-                <img id="heroImage" src="${heroImage}" alt="${p.nomScientifique}" class="w-full h-64 object-cover" onerror="this.src='/assets/images/placeholder.jpg'">
+                <img id="heroImage" src="${heroImage}" alt="${p.nomScientifique}" class="w-full h-64 object-cover" onerror="this.onerror=null;this.src='${placeholderSVG}'">
                 <button onclick="window.closeModal()" class="absolute top-4 right-4 bg-white/90 hover:bg-white text-gray-800 rounded-full w-10 h-10 flex items-center justify-center transition-all z-10">
                     <i class="fa-solid fa-xmark"></i>
                 </button>
