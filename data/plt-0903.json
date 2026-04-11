@@ -1,0 +1,58 @@
+{
+  "id_plante": "plt-0903",
+  "code": "plt-0903",
+  "no_espece": "",
+  "no_famille": "9",
+  "famille": "Apocynacées",
+  "description_famille": "",
+  "identite": {
+    "genre": "Catharanthus",
+    "espece": "roseus",
+    "nom_scientifique": "Catharanthus roseus",
+    "synonymes": "Vinca rosea L.",
+    "nom_francais": "Pervenche de Madagascar",
+    "nom_creole": "Kaka poul",
+    "nom_anglais": "Madagascar Periwinkle"
+  },
+  "morphologie": {
+    "description": "C. roseus est un arbuste pérenne à croissance rapide, atteignant généralement 30 à 60 cm de hauteur dans les jardins haïtiens, pouvant exceptionnellement dépasser 1 mètre en conditions favorables. Tiges et latex. Les tiges sont dressées, ramifiées, de couleur verte à légèrement rougeâtre. Comme toutes les Apocynacées, la plante sécrète un latex blanc abondant lors de toute blessure — sève défensive riche en alcaloïdes toxiques qui constitue un mécanisme de protection contre les herbivores. Feuilles. Les feuilles sont opposées, simples, entières, de forme ovale à elliptique, mesurant 3 à 9 cm de longueur. Elles présentent une surface lisse et brillante, de couleur vert foncé avec une nervure médiane bien marquée de couleur plus claire. Leur texture coriace et leur saveur très amère témoignent de leur richesse en composés secondaires défensifs. Fleurs. Les fleurs, particulièrement ornementales, sont constituées de 5 pétales soudés à la base formant un tube. Elles peuvent être blanches, roses, rouges ou violettes selon les variétés cultivées en Haïti. La floraison est continue toute l'année sous climat tropical, attirant diverses espèces de papillons pollinisateurs. Fruit et graines. Le fruit consiste en deux follicules allongés contenant de nombreuses graines noires, petites et rugueuses, dispersées par le vent à maturité. Les parties utilisées sont principalement les feuilles, et occasionnellement les racines et les tiges.",
+    "ecologie": "Originaire de Madagascar, C. roseus s'est naturalisé dans toute la zone pantropicale grâce à sa remarquable adaptation aux climats chauds et secs. Dans les Départements du Sud et de la Grand'Anse, l'espèce colonise spontanément les terrains vagues, bordures de routes et jardins abandonnés, témoignant de sa rusticité exceptionnelle. Elle tolère une large gamme de sols, depuis les substrats calcaires secs jusqu'aux terrains légèrement humides, et supporte bien la sécheresse saisonnière caractéristique de ces départements. Sa dispersion locale s'effectue principalement par les graines transportées par le vent et par multiplication végétative dans les jardins."
+  },
+  "usages": {
+    "usages_ethnobotaniques": "Dans les Départements du Sud et de la Grand'Anse, C. roseus est documenté principalement comme antidiabétique et antipyrétique traditionnel. Les feuilles constituent la partie la plus utilisée : elles sont préparées en infusion pour gérer le diabète et traiter les états fébriles. Les praticiens traditionnels préconisent généralement une infusion de 3 à 5 feuilles fraîches dans une tasse d'eau chaude, à boire le matin à jeun pour le contrôle glycémique. Les racines, moins couramment employées, sont parfois utilisées en décoction pour leurs propriétés hypotensives présumées. Dans la région TRAMIL, l'usage contre le diabète est documenté en Dominique, confirmant la cohérence régionale de cet usage thérapeutique. Au niveau international, Madagascar maintient un usage traditionnel similaire, tandis que l'extraction industrielle des alcaloïdes anticancéreux s'est développée mondialement depuis les années 1960.",
+    "systemes_concernes": ""
+  },
+  "pharmacologie": {
+    "molecules": "Catharanthus roseus produit une gamme remarquable de métabolites primaires et secondaires qui en font l'une des plantes médicinales les plus étudiées au monde. La saveur très amère caractéristique des feuilles résulte de la concentration élevée en alcaloïdes indoliques, principalement la catharanthine et la vindoline. Ces composés, synthétisés dans les cellules spécialisées des feuilles et de l'écorce, confèrent à la plante ses propriétés défensives exceptionnelles contre les herbivores. Le latex blanc, riche en alcaloïdes toxiques, constitue une barrière chimique redoutable activée dès la moindre blessure mécanique. Les principaux composés secondaires identifiés dans C. roseus comprennent plus de 130 alcaloïdes indoliques différents, dont les plus importants sont la vincristine, la vinblastine, la catharanthine, la vindoline, l'ajmalicine et la serpentine (Moudi et al., 2013 — PMID: 24516843). Cette diversité alcaloïdique exceptionnelle résulte d'une voie biosynthétique complexe impliquant plusieurs types cellulaires spécialisés et des enzymes hautement spécifiques. Ces molécules remplissent des fonctions de défense multiples pour la plante : les alcaloïdes du latex repoussent efficacement les insectes et mammifères herbivores par leur toxicité, tandis que les composés des feuilles protègent contre les pathogènes fongiques et bactériens. Ces mêmes composés, une fois extraits et purifiés, produisent les effets biologiques documentés en oncologie moderne : la vincristine et la vinblastine perturbent spécifiquement la formation du fuseau mitotique lors de la division cellulaire, bloquant ainsi la prolifération des cellules cancéreuses (Jordan & Wilson, 2004 — PMID: 15136239). Les études restent principalement issues d'essais précliniques et d'observations cliniques hospitalières.",
+    "posologie": "Les posologies anticancéreuses de vincristine et vinblastine sont strictement définies en protocoles hospitaliers, avec des doses calculées selon la surface corporelle et administrées par voie intraveineuse uniquement sous supervision oncologique spécialisée. Concernant l'usage traditionnel antidiabétique, aucune posologie cliniquement validée n'est disponible dans la littérature scientifique. Les pratiques locales mentionnent des infusions de 3 à 5 feuilles par tasse, mais cette approche empirique présente des risques significatifs compte tenu de la variabilité en alcaloïdes selon les conditions de culture et la partie de plante utilisée. L'automédication avec cette espèce est formellement déconseillée en raison de sa fenêtre thérapeutique étroite."
+  },
+  "nutrition": {
+    "introduction": "Catharanthus roseus (syn. Vinca rosea L.) est un arbuste exotique commun dans les Départements du Sud et de la Grand'Anse. Il appartient à la famille des Apocynacées, une vaste famille tropicale de plus de 5000 espèces comprenant des herbes, arbustes et arbres remarquables pour leurs propriétés médicinales exceptionnelles. Cette famille abrite des genres alimentaires comme Landolphia (fruits comestibles africains), des genres ornementaux majeurs tels que Nerium (laurier-rose), Plumeria (frangipanier) et Adenium (rose du désert), ainsi que des genres médicinaux d'importance mondiale comme Catharanthus lui-même, source de chimiothérapies anticancéreuses, et Rauvolfia, producteur d'alcaloïdes hypotenseurs. Sur le plan phytochimique, les Apocynacées se caractérisent par leur latex blanc caractéristique et leur richesse exceptionnelle en alcaloïdes complexes — notamment les glycosides cardiotoxiques (oléandrine, thévetine, digitaline), les alcaloïdes indoliques (vincristine, vinblastine) et les alcaloïdes isoquinoléiques — ciblant préférentiellement les systèmes cardiovasculaire, nerveux et sanguin. Attention : plusieurs genres de cette famille, notamment Nerium, Thevetia et Adenium, renferment des principes actifs mortels même à faible dose, exigeant une vigilance absolue lors de toute manipulation."
+  },
+  "toxicologie": {
+    "niveau": "toxic",
+    "details": "C. roseus présente une toxicité significative nécessitant des précautions strictes. L'usage interne en automédication est dangereux en raison de la fenêtre thérapeutique étroite des alcaloïdes présents. La plante est formellement contre-indiquée pendant la grossesse et l'allaitement, les alcaloïdes pouvant traverser la barrière placentaire et passer dans le lait maternel. Des interactions majeures sont documentées avec les traitements anticancéreux et cardiovasculaires. Le latex peut provoquer des irritations cutanées et oculaires au contact. Les symptômes de surdosage incluent nausées, vomissements, neuropathies périphériques et suppression médullaire."
+  },
+  "conservation": {
+    "menaces": "L'espèce présente un statut de conservation favorable (LC - Préoccupation mineure) grâce à sa large distribution pantropicale et à sa capacité d'adaptation remarquable. Dans les Départements du Sud et de la Grand'Anse, aucune menace particulière ne pèse sur les populations naturalisées. La demande industrielle croissante pour les alcaloïdes anticancéreux stimule le développement de cultures spécialisées, réduisant la pression sur les populations sauvages.",
+    "valeur": "C. roseus représente une valeur économique considérable au niveau international comme source industrielle d'anticancéreux. La vincristine et la vinblastine générèrent un marché mondial estimé à plusieurs centaines de millions de dollars annuellement. Localement, la plante présente une valeur médicinale traditionnelle pour la gestion du diabète et un potentiel ornemental modeste. Le développement de cultures spécialisées pourrait constituer une opportunité économique pour les Départements du Sud et de la Grand'Anse, compte tenu des conditions climatiques favorables."
+  },
+  "recherche": {
+    "nb_articles": "~10000 (estimation)",
+    "details": "C. roseus fait l'objet de plus de 10000 publications scientifiques, témoignant de l'intensité de la recherche mondiale sur cette espèce. Les perspectives actuelles incluent l'amélioration des rendements en alcaloïdes par sélection variétale et biotechnologie, le développement de dérivés semi-synthétiques moins toxiques, et l'exploration de nouveaux alcaloïdes mineurs aux propriétés thérapeutiques potentielles. L'ingénierie métabolique vise à optimiser la production industrielle des principes actifs anticancéreux.",
+    "lien_pubmed": "",
+    "lien_scholar": "",
+    "lien_tramil": "https://www.tramil.net/en/plant/catharanthus-roseus"
+  },
+  "references": "Jordan, M.A. & Wilson, L. (2004). Microtubules as a target for anticancer drugs. Nature Reviews Cancer 4, 253-265. PMID: 15057285. Moudi, M. et al. (2013). Vinca alkaloids. International Journal of Preventive Medicine 4, 1231-1235. PMID: 24516843. POWO (2024). Plants of the World Online. Kew Science. https://powo.science.kew.org/ TRAMIL (2024). Catharanthus roseus. https://www.tramil.net/en/plant/catharanthus-roseus",
+  "aRetenir": "🟠 À retenir — Kaka poul : est une plante a toxicite documentee. Tout usage interne non encadre est formellement deconseille. En cas d'ingestion accidentelle, consulter immediatement un service d'urgence. Ces informations sont destinees a l'enseignement et a la recherche uniquement. Les auteurs declinent toute responsabilite quant a un usage inapproprie.",
+  "images": {
+    "principale": "images/93_Catharanthus_roseus-001.jpg",
+    "galerie": [
+      "images/93_Catharanthus_roseus-001.jpg",
+      "images/93_Catharanthus_roseus-002.jpg",
+      "images/93_Catharanthus_roseus-003.jpg"
+    ]
+  },
+  "source": "plantes_full.json"
+}

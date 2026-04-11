@@ -1,0 +1,58 @@
+{
+  "id_plante": "plt-8102",
+  "code": "plt-8102",
+  "no_espece": "",
+  "no_famille": "81",
+  "famille": "Sapindacées",
+  "description_famille": "",
+  "identite": {
+    "genre": "Blighia",
+    "espece": "sapida",
+    "nom_scientifique": "Blighia sapida",
+    "synonymes": "Cupania sapida",
+    "nom_francais": "Ackée",
+    "nom_creole": "Aki",
+    "nom_anglais": "Ackee"
+  },
+  "morphologie": {
+    "description": "B. sapida est un arbre de taille moyenne pouvant atteindre 10 à 15 mètres de hauteur, largement cultivé dans les jardins créoles des deux départements pour ses qualités nutritionnelles exceptionnelles. Tronc et écorce. Le tronc est droit, recouvert d'une écorce lisse et grisâtre qui se fissure légèrement avec l'âge. Le bois est dur et résistant. Feuilles. Les feuilles sont composées paripennées, alternées, comportant 6 à 10 folioles oblongues-elliptiques de 8 à 12 cm de longueur. Les folioles présentent une texture coriace, une couleur vert foncé brillant sur la face supérieure et plus claire en dessous. Le pétiole commun mesure 15 à 20 cm. Fleurs. Les inflorescences sont des grappes terminales de 15 à 25 cm portant de nombreuses petites fleurs blanches à crème, légèrement parfumées. Les fleurs sont unisexuées (plante polygame), avec des fleurs mâles et hermaphrodites sur le même arbre. Fruit. Le fruit constitue l'organe d'intérêt majeur : il s'agit d'une capsule coriace de 6 à 10 cm, initialement verte puis rouge vif à maturité. À maturité complète, la capsule s'ouvre spontanément en 2-3 valves, révélant 2-3 arilles charnues jaune doré entourant des graines noires brillantes. Seuls ces arilles, une fois le fruit ouvert naturellement, sont comestibles. Les parties utilisées sont exclusivement les arilles mûres des fruits ouverts spontanément, après élimination complète des graines.",
+    "ecologie": "Originaire d'Afrique de l'Ouest (Guinée, Sierra Leone, Liberia), B. sapida fut introduit en Jamaïque au XVIIIe siècle puis s'est répandu dans toute la Caraïbe. Dans les Départements du Sud et de la Grand'Anse, l'espèce est commune dans les jardins créoles et les zones cultivées de basse altitude. Elle s'adapte bien aux sols variés mais préfère les terrains bien drainés et les expositions ensoleillées. L'arbre est robuste et résiste bien aux vents, ce qui explique sa popularité dans les systèmes agroforestiers locaux."
+  },
+  "usages": {
+    "usages_ethnobotaniques": "Dans le Sud et la Grand'Anse, l'aki est documenté exclusivement comme aliment, jamais comme plante médicinale en raison de sa toxicité. Les arilles mûrs sont récoltés uniquement lorsque les capsules s'ouvrent spontanément, signe de maturité parfaite. La préparation traditionnelle implique un nettoyage minutieux : élimination complète des graines noires, lavage répété des arilles, puis cuisson prolongée (minimum 30 minutes) avant consommation. Les arilles cuits accompagnent traditionnellement le poisson salé, les légumes-racines ou entrent dans la composition de ragoûts. Selon TRAMIL, cet usage alimentaire est également documenté en Jamaïque où l'ackée constitue le plat national associé à la morue salée.",
+    "systemes_concernes": "Hépatique"
+  },
+  "pharmacologie": {
+    "molecules": "Les arilles mûrs comestibles de B. sapida se caractérisent par une composition lipidique remarquable, avec 15 à 20% d'acides gras insaturés (acide linoléique, acide oléique) responsables de leur texture crémeuse et de leur valeur nutritionnelle élevée. Ces lipides s'accompagnent de protéines complètes (10-15%), de glucides complexes et de vitamine C, conférant aux arilles leur statut d'aliment de base en Jamaïque. Les pigments caroténoïdes donnent aux arilles leur couleur jaune dorée caractéristique (Omobuwajo et al., 2003 — PMID: 14720072). Les principaux composés secondaires identifiés dans B. sapida comprennent : l'hypoglycine A et B (acides aminés non protéiques toxiques concentrés dans les graines et fruits immatures), des saponines triterpéniques, des flavonoïdes (quercétine, kaempférol), des tanins condensés, des alcaloïdes mineurs et des terpénoïdes (Kean et al., 1994 — PMID: 7696545, Bovet et al., 2007 — PMID: 17627607). La concentration d'hypoglycine A peut atteindre 1000 ppm dans les fruits immatures et diminue drastiquement dans les arilles parfaitement mûrs. Ces molécules remplissent des rôles de défense précis pour la plante. L'hypoglycine A et B constituent un système de défense chimique redoutable contre la consommation prématurée des graines, garantissant leur dispersion uniquement lorsque les arilles sont nutritionnellement optimaux. Une fois ingérées par l'humain, ces toxines subissent une bioactivation hépatique en MCPA-CoA (methylenecyclopropylacetyl-CoA) qui inhibe plusieurs enzymes de la β-oxydation et bloque la néoglucogenèse, provoquant une hypoglycémie réfractaire potentiellement mortelle (Tanaka et al., 1976 — PMID: 135735).",
+    "posologie": "Aucune posologie médicinale n'est cliniquement validée pour B. sapida en raison de sa toxicité. Pour l'usage alimentaire, la seule recommandation documentée est la consommation exclusive d'arilles parfaitement mûrs (fruits ouverts spontanément), soigneusement dénoyautés et cuits pendant au minimum 30 minutes. Toute utilisation d'infusions de feuilles ou de préparations à base de graines est formellement contre-indiquée (Blake et al., 2006 — PMID: 16884552)."
+  },
+  "nutrition": {
+    "introduction": "Blighia sapida K.D. Koenig (syn. Cupania sapida) est un arbre exotique cultivé dans les Départements du Sud et de la Grand'Anse d'Haïti. Il appartient à la famille des Sapindacées, une famille tropicale d'environ 1 400 espèces dominée par des arbres et arbustes à haute valeur nutritionnelle et médicinale. Cette famille comprend des genres alimentaires majeurs comme Nephelium (ramboutan), Litchi (litchi), Dimocarpus (longane) et Blighia (ackée), ainsi que des espèces médicinales comme Paullinia (guarana). Sur le plan phytochimique, les Sapindacées se distinguent par leurs saponines triterpéniques (sapindosides), leurs flavonoïdes et leurs acides gras complexes, ciblant préférentiellement les systèmes digestif, hépatique et respiratoire. Une vigilance absolue s'impose avec cette famille : Blighia sapida présente une toxicité mortelle lorsque les fruits ne sont pas parfaitement mûrs, tandis que les fruits de Sapindus sont toxiques par voie orale. L'ackée occupe une place unique en tant qu'aliment de base en Jamaïque tout en étant l'une des plantes les plus dangereuses au monde si mal préparée."
+  },
+  "toxicologie": {
+    "niveau": "danger",
+    "details": "B. sapida présente une toxicité mortelle documentée par de nombreux cas cliniques. Les fruits immatures, partiellement ouverts ou les graines contiennent des concentrations élevées d'hypoglycine A (jusqu'à 1000 ppm) provoquant le « Jamaican vomiting sickness » : vomissements incoercibles, hypoglycémie réfractaire, convulsions et décès dans 80% des cas non traités (Kean et al., 1994 — PMID: 7696545). Contre-indications absolues : enfants de moins de 5 ans, femmes enceintes et allaitantes, diabétiques, insuffisants hépatiques. Seule la consommation d'arilles parfaitement mûrs, bien cuits et dénoyautés est considérée comme sûre."
+  },
+  "conservation": {
+    "menaces": "L'espèce ne présente pas de menace de conservation car elle est cultivée et naturalisée. Cependant, un contrôle strict de son utilisation s'impose pour prévenir les empoisonnements. La formation des populations locales aux techniques de préparation sécuritaire constitue un enjeu de santé publique majeur.",
+    "valeur": "Dans les Départements du Sud et de la Grand'Anse, l'aki possède une valeur alimentaire locale modérée. Internationalement, il représente une filière d'exportation importante depuis la Jamaïque vers les communautés caribéennes de la diaspora, générant plusieurs millions de dollars annuellement."
+  },
+  "recherche": {
+    "nb_articles": "~500 (estimation)",
+    "details": "Avec environ 500 publications indexées sur PubMed, B. sapida fait l'objet d'une recherche soutenue focalisée sur sa toxicologie, ses mécanismes d'empoisonnement et le développement de méthodes analytiques pour détecter l'hypoglycine A. Les perspectives incluent l'amélioration des techniques de détoxification post-récolte et le développement de variétés à teneur réduite en hypoglycine.",
+    "lien_pubmed": "",
+    "lien_scholar": "",
+    "lien_tramil": "https://www.tramil.net/en/plant/blighia-sapida"
+  },
+  "references": "Blake OA et al. (2006). Ackee fruit toxicity: a systematic review. West Indian Med J. PMID: 16884552. Bovet L et al. (2007). Hypoglycin A in ackee fruit: analytical method development and safety assessment. Food Chem Toxicol. PMID: 17627607. Kean EA et al. (1994). Hypoglycin A content in ackee fruit at various stages of ripeness and in processed ackee products. J Food Prot. PMID: 7696545. Omobuwajo TO et al. (2003). Nutritional composition and oil characteristics of ackee (Blighia sapida) fruit. Food Chem. PMID: 14720072. Tanaka K et al. (1976). The mechanism of pathogenesis of hypoglycin poisoning. J Biol Chem. PMID: 135735. POWO (2024). Blighia sapida. Plants of the World Online, Kew Science. https://powo.science.kew.org/ TRAMIL (2024). Blighia sapida. https://www.tramil.net/en/plant/blighia-sapida",
+  "aRetenir": "🔴 À retenir — Aki : est une plante hautement toxique. Toute manipulation sans protection est dangereuse. Toute ingestion peut etre mortelle. Ces informations sont destinees exclusivement a la documentation scientifique. Les auteurs declinent toute responsabilite quant a un usage inapproprie.",
+  "images": {
+    "principale": "images/802_Blighia_sapida-001.jpg",
+    "galerie": [
+      "images/802_Blighia_sapida-001.jpg",
+      "images/802_Blighia_sapida-002.jpg",
+      "images/802_Blighia_sapida-003.jpg"
+    ]
+  },
+  "source": "plantes_full.json"
+}

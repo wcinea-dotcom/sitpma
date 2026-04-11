@@ -1,0 +1,57 @@
+{
+  "id_plante": "plt-3812",
+  "code": "plt-3812",
+  "no_espece": "",
+  "no_famille": "38",
+  "famille": "Fabacées",
+  "description_famille": "",
+  "identite": {
+    "genre": "Senna",
+    "espece": "alata",
+    "nom_scientifique": "Senna alata (L.)",
+    "synonymes": "Cassia alata",
+    "nom_francais": "Dartrier",
+    "nom_creole": "Flè dat",
+    "nom_anglais": "Candle Bush"
+  },
+  "morphologie": {
+    "description": "S. alata est un arbuste de basse altitude, caractérisé par sa croissance rapide et sa floraison spectaculaire. Dans les conditions climatiques du Sud et de la Grand'Anse, il prospère particulièrement bien en zones semi-ombragées et tolère les sols pauvres. Tiges et port. L'arbuste présente un port dressé, pouvant atteindre 2 à 3 mètres de hauteur, avec des tiges robustes et lignifiées à la base. Les jeunes rameaux sont herbacés et contiennent la sève utilisée en application topique. Feuilles. Les feuilles sont composées, paripennées, de grande taille, disposées de façon alternée. Chaque feuille comprend 8 à 12 paires de folioles oblongues, glabres, d'un vert brillant sur la face supérieure. Une glande distinctive est présente à la base du pétiole, caractéristique taxonomique importante du genre Senna. Fleurs. L'inflorescence terminale en grappe dressée porte de nombreuses fleurs jaune d'or à cinq pétales, particulièrement voyantes et attractives pour les insectes pollinisateurs. Cette floraison abondante justifie en partie le nom vernaculaire « Flè dat ». Fruit. Le fruit est une gousse allongée, aplatie, contenant de nombreuses graines brunes disposées transversalement. Les parties utilisées sont principalement les feuilles fraîches pour l'usage externe, et occasionnellement les fleurs.",
+    "ecologie": "S. alata est une espèce pantropicale, native des Amériques tropicales et largement naturalisée dans les régions chaudes du monde entier. Dans les Départements du Sud et de la Grand'Anse, elle colonise préférentiellement les zones perturbées, les lisières forestières et les terrains vagues, témoignant de sa grande capacité d'adaptation. Comme toutes les Fabacées, elle possède des nodules racinaires lui permettant de fixer l'azote atmosphérique, ce qui lui confère un avantage concurrentiel sur les sols pauvres. Sa dispersion est favorisée par les oiseaux qui consomment les graines et par l'homme qui la cultive pour ses propriétés médicinales."
+  },
+  "usages": {
+    "usages_ethnobotaniques": "L'usage principal documenté dans le Sud et la Grand'Anse consiste à frotter directement la sève des feuilles fraîches de « Flè dat » sur les lésions cutanées, particulièrement contre les dartres et autres infections fongiques superficielles. Cette méthode d'application par friction permet une libération optimale des anthraquinones actives au contact de la peau. Dans d'autres régions des Caraïbes, notamment en Martinique selon les données TRAMIL, des préparations similaires sont utilisées contre les dartres. Les feuilles peuvent également être pilées pour former une pâte appliquée en cataplasme sur les mycoses persistantes. Un usage laxatif par décoction légère des feuilles est mentionné dans certaines traditions, mais reste moins fréquent en raison des précautions nécessaires. Les fleurs, au-delà de leur attrait ornemental, entrent parfois dans des préparations adoucissantes pour la peau.",
+    "systemes_concernes": "Digestif"
+  },
+  "pharmacologie": {
+    "molecules": "Senna alata révèle une sa production d'anthraquinones libres et glycosylées, responsables à la fois de l'activité laxative et de certaines propriétés antimicrobiennes. Les feuilles contiennent principalement la rhéine, l'émodine et l'aloe-émodine, des anthraquinones qui confèrent à la plante sa couleur jaunâtre caractéristique lorsqu'on écrase les tissus frais. Ces molécules sont accompagnées de flavonoïdes comme la quercétine et le kaempférol, qui contribuent à la stabilisation des anthraquinones et renforcent l'activité antioxydante globale de la plante. Sur le plan des microéléments, les feuilles présentent un profil typique de feuillage vert avec des concentrations notables en potassium, calcium et magnésium. Les principaux composés secondaires identifiés dans S. alata comprennent : des anthraquinones (rhéine, émodine, aloe-émodine, chrysophanol), des flavonoïdes (quercétine, kaempférol, rutine), des tanins hydrolysables, des saponines triterpéniques et des composés phénoliques divers (Hennebelle et al., 2009 — PMID: 19665054). Des études récentes ont également identifié des lectines spécifiques dans les graines, contribuant aux mécanismes de défense de la plante. Ces molécules remplissent des fonctions de protection multiples pour S. alata. Les anthraquinones agissent comme des agents antimicrobiens puissants contre les pathogènes du sol et les champignons phytopathogènes, expliquant la résistance naturelle de la plante aux maladies fongiques. Les flavonoïdes protègent les tissus contre les dommages oxydatifs et les rayonnements UV intenses des régions tropicales. Ces mêmes composés, une fois appliqués sur la peau humaine ou ingérés, produisent les effets biologiques documentés : action antifongique des anthraquinones contre les dermatophytes, stimulation du péristaltisme intestinal et effet anti-inflammatoire des flavonoïdes.",
+    "posologie": "Pour l'usage externe antifongique, l'application directe de la sève des feuilles fraîches par friction sur les lésions, 2 à 3 fois par jour jusqu'à amélioration, constitue la méthode traditionnelle documentée. Des études cliniques ont validé l'efficacité d'onguents contenant 10-15% d'extrait de feuilles de S. alata dans le traitement du pied d'athlète (Damodaran & Venkataraman, 1994 — PMID: 7900471). Pour l'usage interne laxatif, aucune posologie standardisée n'est recommandée en raison des risques de surdosage et des effets secondaires potentiels. Les préparations commerciales d'anthraquinones de Senna utilisent généralement des dosages stricts sous supervision pharmaceutique."
+  },
+  "nutrition": {
+    "introduction": "Senna alata (L.) (syn. Cassia alata) est un arbuste natif commun des Départements du Sud et de la Grand'Anse, appartenant à la famille des Fabacées. Au sein de cette famille, il fait partie du genre Senna, un groupe d'arbustes et petits arbres reconnus mondialement pour leurs propriétés laxatives puissantes, dues à leur richesse en anthraquinones. Le nom créole « Flè dat » fait référence à son usage traditionnel dominant contre les dartres et autres affections cutanées fongiques, par friction directe de la sève des feuilles sur les lésions. Cette plante illustre parfaitement la double vocation thérapeutique des Senna : usage externe antifongique et usage interne laxatif, bien que ce dernier nécessite des précautions strictes."
+  },
+  "toxicologie": {
+    "niveau": "",
+    "details": "L'usage externe de S. alata présente une toxicité faible, avec de rares cas de dermite de contact chez les personnes sensibles. L'usage interne nécessite davantage de précautions : les anthraquinones à forte dose peuvent provoquer des diarrhées sévères, des crampes abdominales et une perte d'électrolytes dangereuse. L'utilisation prolongée peut entraîner une dépendance laxative et une coloration brunâtre des urines. Les anthraquinones sont contre-indiquées pendant la grossesse en raison d'un possible effet utérotonique, et chez les enfants sans supervision médicale. Les personnes souffrant d'ulcères gastro-duodénaux, de colites ou de déshydratation doivent éviter l'usage interne."
+  },
+  "conservation": {
+    "menaces": "S. alata ne présente aucun risque de conservation, étant une espèce commune et largement distribuée. Sa capacité d'adaptation et sa croissance rapide lui permettent de coloniser facilement de nouveaux habitats. Dans certaines régions, elle peut même devenir envahissante. Sa culture est facile et ne nécessite aucune mesure de protection particulière.",
+    "valeur": "La valeur économique de S. alata repose principalement sur ses usages médicinaux traditionnels et sa facilité de culture. Dans les Départements du Sud et de la Grand'Anse, elle constitue un remède accessible et gratuit pour les populations rurales. Sur le marché international, les extraits de S. alata entrent dans la composition de produits cosmétiques antifongiques et de compléments laxatifs. Son potentiel ornemental, grâce à sa floraison spectaculaire, pourrait également être valorisé en horticulture tropicale."
+  },
+  "recherche": {
+    "nb_articles": "~1000 (estimation)",
+    "details": "Avec environ 1000 publications scientifiques disponibles sur PubMed, S. alata figure parmi les espèces végétales les mieux étudiées de la pharmacopée tropicale. Les recherches actuelles s'orientent vers l'optimisation des formes galéniques pour l'usage topique, le développement de nouveaux antifongiques à base d'anthraquinones, et l'évaluation de l'activité antivirale des extraits. Des études de formulation visent à améliorer la stabilité et la biodisponibilité des principes actifs. L'isolement et la caractérisation de nouvelles anthraquinones mineures pourraient révéler des propriétés thérapeutiques inédites.",
+    "lien_pubmed": "",
+    "lien_scholar": "",
+    "lien_tramil": ""
+  },
+  "references": "- Hennebelle, T. et al. (2009). Senna alata. Fitoterapia. PMID: 19665054. - Somchit, M.N. et al. (2003). In vitro antimicrobial activity of ethanol and water extracts of Cassia alata. Journal of Ethnopharmacology. PMID: 12807582. - Damodaran, S. & Venkataraman, S. (1994). A study on the therapeutic efficacy of Cassia alata, Linn. leaf extract against Pityriasis versicolor. Journal of Ethnopharmacology. PMID: 7900471. - POWO (2024). Plants of the World Online. Kew Science. - World Flora Online (2024). WFO Plant List.",
+  "aRetenir": "🟢 À retenir — Flè dat : est utilisee en medecine traditionnelle avec un bon profil de securite aux doses courantes. Les usages presentes reposent sur des donnees ethnobotaniques et scientifiques publiees, mais ne constituent pas une prescription. Consulter un professionnel de sante avant tout usage therapeutique. Les auteurs declinent toute responsabilite quant a un usage inapproprie.",
+  "images": {
+    "principale": "images/3812_Senna_alata-001.jpg",
+    "galerie": [
+      "images/3812_Senna_alata-001.jpg",
+      "images/3812_Senna_alata-002.jpg"
+    ]
+  },
+  "source": "plantes_full.json"
+}

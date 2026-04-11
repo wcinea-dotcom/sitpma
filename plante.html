@@ -1,0 +1,406 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Fiche — Atlas PMAA</title>
+  <link rel="stylesheet" href="pmaa-styles.css"/>
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,700;1,400&family=Source+Serif+4:ital,wght@0,300;0,400;0,600;1,300&display=swap" rel="stylesheet"/>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css"/>
+  <style>
+    :root {
+      --vert:  #1A3D2C; --vert2: #2D6A4F; --vert3: #4A9270;
+      --or:    #C8923A; --or2:   #E8B86D;
+      --fond:  #F5F2EC; --blanc: #FDFCF8;
+      --texte: #2A2520; --muted: #6B6560;
+      --bleu:  #003F8A; --bleu2: #1A5CA8;
+      --rouge: #8B2020;
+    }
+    .fiche-body { font-family:'Source Serif 4',Georgia,serif; background:var(--fond); color:var(--texte); }
+    /* HERO */
+    .fiche-hero { background:var(--vert); padding:28px 20px 24px; text-align:center; }
+    .hero-badge { display:inline-block; background:rgba(200,146,58,.18); border:1px solid rgba(200,146,58,.35); color:var(--or2); font-size:10px; letter-spacing:2px; text-transform:uppercase; padding:3px 10px; border-radius:2px; margin-bottom:12px; }
+    .fiche-hero h1 { font-family:'Playfair Display',serif; font-style:italic; font-size:clamp(1.5rem,4vw,2.2rem); color:white; line-height:1.2; margin-bottom:6px; }
+    .hero-names { color:rgba(255,255,255,.6); font-size:13px; }
+    .hero-names strong { color:var(--or2); }
+    /* PHOTO */
+    .photo-hero { position:relative; }
+    .photo-hero img.main-img { width:100%; height:340px; object-fit:cover; display:block; }
+    .galerie { display:flex; gap:4px; padding:4px; background:var(--vert); overflow-x:auto; }
+    .galerie img { height:60px; width:auto; min-width:60px; object-fit:cover; border-radius:3px; cursor:pointer; opacity:.7; transition:opacity .15s; }
+    .galerie img:hover, .galerie img.active { opacity:1; }
+    /* PAGE */
+    .fiche-page { max-width:840px; margin:0 auto; padding:20px 16px 60px; }
+    /* SECTION */
+    .section { background:white; border-radius:10px; margin-bottom:16px; overflow:hidden; border:1px solid rgba(0,0,0,.07); }
+    .section-head {
+      display:flex; align-items:center; gap:10px;
+      padding:12px 18px; font-size:12px; font-weight:700;
+      letter-spacing:.8px; text-transform:uppercase; color:white;
+      cursor:pointer; user-select:none;
+    }
+    .section-head .icon { font-size:16px; }
+    .section-head .toggle { margin-left:auto; font-size:14px; transition:transform .2s; }
+    .section-head.collapsed .toggle { transform:rotate(-90deg); }
+    .section-body { padding:16px 18px; }
+    .section-body.collapsed { display:none; }
+    .s-identite   .section-head { background:var(--vert2); }
+    .s-ecologie   .section-head { background:#2E6B5E; }
+    .s-usages     .section-head { background:#B5541A; }
+    .s-pharma     .section-head { background:var(--bleu2); }
+    .s-nutrition  .section-head { background:#5A7A2A; }
+    .s-toxicologie .section-head { background:#8B2020; }
+    .s-conservation .section-head { background:#5A4E2A; }
+    .s-recherche  .section-head { background:#2A4A5A; }
+    .s-resume     .section-head { background:var(--or); }
+    /* GRID ROWS */
+    .info-row { display:grid; grid-template-columns:160px 1fr; gap:6px; padding:6px 0; border-bottom:1px solid rgba(0,0,0,.05); font-size:14px; }
+    .info-row:last-child { border-bottom:none; }
+    .info-label { color:var(--muted); font-size:12px; text-transform:uppercase; letter-spacing:.4px; padding-top:1px; }
+    .info-value { color:var(--texte); line-height:1.5; }
+    /* TEXT SECTION */
+    .section-text { font-size:14px; line-height:1.7; color:#333; }
+    .section-text p { margin-bottom:12px; }
+    /* TOX BADGE */
+    .tox-badge { display:inline-flex; align-items:center; gap:5px; padding:3px 12px; border-radius:20px; font-size:12px; font-weight:700; }
+    .tox-vert   { background:#DCF0E4; color:#0D5229; }
+    .tox-jaune  { background:#FEF3CD; color:#7A5500; }
+    .tox-orange { background:#FEE5CC; color:#7A3000; }
+    .tox-rouge  { background:#FDDCDC; color:#7A0000; }
+    /* FAMILLE BOX */
+    .famille-box { background:var(--fond); border-left:3px solid var(--vert2); border-radius:0 6px 6px 0; padding:12px 16px; margin-bottom:16px; }
+    .famille-box strong { display:block; font-size:13px; color:var(--vert); margin-bottom:5px; }
+    .famille-box p { font-size:13px; color:#444; line-height:1.6; }
+    /* LIENS */
+    .liens { display:flex; gap:8px; flex-wrap:wrap; margin-top:12px; }
+    .liens a { padding:5px 14px; border-radius:4px; font-size:12px; font-weight:700; border:1px solid rgba(0,0,0,.12); color:var(--vert); text-decoration:none; background:var(--fond); transition:all .2s; }
+    .liens a:hover { background:var(--vert); color:white; }
+    /* À RETENIR BOX */
+    .retenir-box { background:#e8f5e9; border:1px solid rgba(44,94,59,.2); border-radius:8px; padding:14px 18px; }
+    .retenir-box p { font-size:13px; color:#2c5e3b; line-height:1.6; margin:0; }
+    /* NAV */
+    .nav-bas { display:flex; gap:10px; flex-wrap:wrap; padding-top:20px; border-top:1px solid rgba(0,0,0,.08); margin-top:8px; }
+    .btn-retour { background:var(--vert2); color:white; padding:9px 20px; border-radius:5px; font-size:13px; font-weight:700; text-decoration:none; transition:background .2s; }
+    .btn-retour:hover { background:var(--vert); }
+    .btn-print { background:white; color:var(--vert); padding:9px 20px; border-radius:5px; font-size:13px; font-weight:700; text-decoration:none; border:1px solid rgba(0,0,0,.12); cursor:pointer; }
+    .btn-print:hover { background:var(--fond); }
+    .status-msg { text-align:center; padding:60px 20px; color:var(--muted); font-style:italic; }
+    @media(max-width:560px){ .info-row { grid-template-columns:1fr; } .info-label { margin-bottom:2px; } }
+    @media print {
+      .topbar-placeholder, #footer-placeholder, .nav-bas, .galerie { display:none !important; }
+      .photo-hero img.main-img { height:200px; }
+      .section { break-inside:avoid; }
+    }
+  </style>
+</head>
+<body class="fiche-body">
+
+<!-- PMAA Navigation -->
+<div id="topbar-placeholder"></div>
+
+<div id="main" style="display:none;">
+  <div class="fiche-hero">
+    <div class="hero-badge"><i class="fa-solid fa-leaf"></i> Fiche technique</div>
+    <h1 id="title"></h1>
+    <div class="hero-names" id="subtitle"></div>
+  </div>
+
+  <div class="photo-hero" id="photo-hero" style="display:none;">
+    <img class="main-img" id="main-img" alt=""/>
+    <div class="galerie" id="galerie"></div>
+  </div>
+
+  <div class="fiche-page">
+    <div id="famille-box-wrap"></div>
+
+    <!-- 1. IDENTITÉ -->
+    <div class="section s-identite">
+      <div class="section-head" onclick="toggleSection(this)">
+        <span class="icon"><i class="fa-solid fa-seedling"></i></span> Identité & nomenclature
+        <span class="toggle"><i class="fa-solid fa-chevron-down"></i></span>
+      </div>
+      <div class="section-body" id="s-identite"></div>
+    </div>
+
+    <!-- 2. DESCRIPTION & MORPHOLOGIE -->
+    <div class="section s-ecologie">
+      <div class="section-head" onclick="toggleSection(this)">
+        <span class="icon"><i class="fa-solid fa-microscope"></i></span> Description & morphologie
+        <span class="toggle"><i class="fa-solid fa-chevron-down"></i></span>
+      </div>
+      <div class="section-body" id="s-description"></div>
+    </div>
+
+    <!-- 3. ÉCOLOGIE & DISTRIBUTION -->
+    <div class="section s-ecologie">
+      <div class="section-head" onclick="toggleSection(this)">
+        <span class="icon"><i class="fa-solid fa-earth-americas"></i></span> Écologie & distribution
+        <span class="toggle"><i class="fa-solid fa-chevron-down"></i></span>
+      </div>
+      <div class="section-body" id="s-ecologie"></div>
+    </div>
+
+    <!-- 4. USAGES ETHNOBOTANIQUES -->
+    <div class="section s-usages">
+      <div class="section-head" onclick="toggleSection(this)">
+        <span class="icon"><i class="fa-solid fa-mortar-pestle"></i></span> Usages ethnobotaniques
+        <span class="toggle"><i class="fa-solid fa-chevron-down"></i></span>
+      </div>
+      <div class="section-body" id="s-usages"></div>
+    </div>
+
+    <!-- 5. MOLÉCULES & PHARMACOLOGIE -->
+    <div class="section s-pharma">
+      <div class="section-head" onclick="toggleSection(this)">
+        <span class="icon"><i class="fa-solid fa-flask-vial"></i></span> Molécules & pharmacologie
+        <span class="toggle"><i class="fa-solid fa-chevron-down"></i></span>
+      </div>
+      <div class="section-body" id="s-pharma"></div>
+    </div>
+
+    <!-- 6. POSOLOGIE -->
+    <div class="section s-nutrition">
+      <div class="section-head" onclick="toggleSection(this)">
+        <span class="icon"><i class="fa-solid fa-prescription-bottle-medical"></i></span> Posologie
+        <span class="toggle"><i class="fa-solid fa-chevron-down"></i></span>
+      </div>
+      <div class="section-body" id="s-posologie"></div>
+    </div>
+
+    <!-- 7. SÉCURITÉ & TOXICOLOGIE -->
+    <div class="section s-toxicologie">
+      <div class="section-head" onclick="toggleSection(this)">
+        <span class="icon"><i class="fa-solid fa-triangle-exclamation"></i></span> Sécurité & toxicologie
+        <span class="toggle"><i class="fa-solid fa-chevron-down"></i></span>
+      </div>
+      <div class="section-body" id="s-toxicologie"></div>
+    </div>
+
+    <!-- 8. CONSERVATION & MENACES -->
+    <div class="section s-conservation">
+      <div class="section-head" onclick="toggleSection(this)">
+        <span class="icon"><i class="fa-solid fa-shield-halved"></i></span> Conservation & menaces
+        <span class="toggle"><i class="fa-solid fa-chevron-down"></i></span>
+      </div>
+      <div class="section-body" id="s-conservation"></div>
+    </div>
+
+    <!-- 9. VALORISATION -->
+    <div class="section s-conservation">
+      <div class="section-head" onclick="toggleSection(this)" style="background:#6B5B3A;">
+        <span class="icon"><i class="fa-solid fa-gem"></i></span> Valorisation
+        <span class="toggle"><i class="fa-solid fa-chevron-down"></i></span>
+      </div>
+      <div class="section-body" id="s-valeur"></div>
+    </div>
+
+    <!-- 10. RECHERCHE & RÉFÉRENCES -->
+    <div class="section s-recherche">
+      <div class="section-head" onclick="toggleSection(this)">
+        <span class="icon"><i class="fa-solid fa-book-open-reader"></i></span> Recherche & références
+        <span class="toggle"><i class="fa-solid fa-chevron-down"></i></span>
+      </div>
+      <div class="section-body" id="s-recherche"></div>
+    </div>
+
+    <!-- 11. À RETENIR -->
+    <div class="section s-resume" id="s-resume-wrap" style="display:none;">
+      <div class="section-head" onclick="toggleSection(this)">
+        <span class="icon"><i class="fa-solid fa-star"></i></span> À retenir
+        <span class="toggle"><i class="fa-solid fa-chevron-down"></i></span>
+      </div>
+      <div class="section-body" id="s-resume"></div>
+    </div>
+
+    <!-- NAVIGATION -->
+    <div class="nav-bas">
+      <a href="atlas.html" class="btn-retour"><i class="fa-solid fa-arrow-left"></i> Retour au catalogue</a>
+      <button onclick="window.print()" class="btn-print"><i class="fa-solid fa-print"></i> Imprimer la fiche</button>
+    </div>
+  </div>
+</div>
+
+<div id="status" class="status-msg"><i class="fa-solid fa-spinner fa-spin"></i> Chargement de la fiche...</div>
+
+<!-- PMAA Footer -->
+<div id="footer-placeholder"></div>
+
+<!-- Scripts -->
+<script src="pmaa-nav.js"></script>
+<script>
+  // Initialize PMAA navigation
+  PMAA.renderNav('atlas');
+  PMAA.renderFooter();
+  try {
+    const saved = sessionStorage.getItem('pmaa_lang');
+    if (saved && saved !== 'fr') PMAA.setLang(saved);
+  } catch(e) {}
+
+  // Helpers
+  const P    = n => new URL(location.href).searchParams.get(n);
+  const safe = v => (v ?? '').toString().trim();
+  const esc  = v => safe(v).replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;');
+
+  function toxClass(t) {
+    if (t.includes('🟢') || t.toLowerCase().includes('non toxique')) return 'tox-vert';
+    if (t.includes('🟡') || t.toLowerCase().includes('faible')) return 'tox-jaune';
+    if (t.includes('🟠') || t.toLowerCase().includes('modér')) return 'tox-orange';
+    if (t.includes('🔴') || t.toLowerCase().includes('toxique')) return 'tox-rouge';
+    return '';
+  }
+
+  function rows(fields) {
+    return fields.filter(([,v]) => safe(v))
+      .map(([l,v]) => `<div class="info-row"><div class="info-label">${esc(l)}</div><div class="info-value">${esc(safe(v))}</div></div>`)
+      .join('') || '<div class="info-row"><div class="info-value" style="color:#aaa;font-style:italic;">Données non disponibles</div></div>';
+  }
+
+  function textSection(text) {
+    if (!safe(text)) return '<p style="color:#aaa;font-style:italic;">Données non disponibles</p>';
+    return '<div class="section-text"><p>' + esc(text).replace(/\n\n/g, '</p><p>').replace(/\n/g, '<br>') + '</p></div>';
+  }
+
+  function toggleSection(head) {
+    head.classList.toggle('collapsed');
+    const body = head.nextElementSibling;
+    body.classList.toggle('collapsed');
+  }
+
+  // Main loader
+  (async () => {
+    const id = safe(P('id')).toLowerCase();
+    const statusEl = document.getElementById('status');
+
+    if (!id) { statusEl.textContent = 'Aucune plante sélectionnée.'; return; }
+
+    let fiche = null;
+    try {
+      const r = await fetch(`data/${id}.json`, { cache: 'no-store' });
+      if (r.ok) fiche = await r.json();
+    } catch(e) {}
+
+    if (!fiche) {
+      statusEl.innerHTML = `<i class="fa-solid fa-circle-exclamation"></i> Fiche "${esc(id)}" introuvable. <a href="atlas.html" style="color:var(--vert2);">← Retour au catalogue</a>`;
+      return;
+    }
+
+    const idt = fiche.identite || {};
+    const mor = fiche.morphologie || {};
+    const usa = fiche.usages || {};
+    const pha = fiche.pharmacologie || {};
+    const nut = fiche.nutrition || {};
+    const tox = fiche.toxicologie || {};
+    const con = fiche.conservation || {};
+    const rch = fiche.recherche || {};
+    const imgs = fiche.images || {};
+
+    // Title
+    document.title = safe(idt.nom_scientifique || id) + ' — Atlas PMAA';
+    document.getElementById('title').textContent = safe(idt.nom_scientifique || id);
+
+    const sub = [
+      idt.nom_creole   ? `« <strong>${esc(idt.nom_creole)}</strong> »` : '',
+      idt.nom_francais ? esc(idt.nom_francais) : '',
+      idt.nom_anglais  ? esc(idt.nom_anglais)  : '',
+    ].filter(Boolean);
+    document.getElementById('subtitle').innerHTML = sub.join(' &nbsp;·&nbsp; ');
+
+    // Photo
+    const imgSrc = safe(imgs.principale);
+    if (imgSrc) {
+      const mImg = document.getElementById('main-img');
+      mImg.src = imgSrc;
+      mImg.alt = safe(idt.nom_scientifique);
+      mImg.onerror = () => { document.getElementById('photo-hero').style.display = 'none'; };
+      document.getElementById('photo-hero').style.display = 'block';
+
+      const galEl = document.getElementById('galerie');
+      (imgs.galerie || []).forEach((s, idx) => {
+        if (!s) return;
+        const img = document.createElement('img');
+        img.src = s;
+        if (idx === 0) img.classList.add('active');
+        img.onclick = () => {
+          mImg.src = s;
+          galEl.querySelectorAll('img').forEach(i => i.classList.remove('active'));
+          img.classList.add('active');
+        };
+        img.onerror = () => img.remove();
+        galEl.appendChild(img);
+      });
+    }
+
+    // Famille box
+    const descFam = safe(fiche.description_famille);
+    if (descFam) {
+      document.getElementById('famille-box-wrap').innerHTML =
+        `<div class="famille-box"><strong><i class="fa-solid fa-layer-group"></i> Famille ${esc(safe(fiche.famille))}</strong><p>${esc(descFam)}</p></div>`;
+    }
+
+    // 1. Identité
+    document.getElementById('s-identite').innerHTML = rows([
+      ['Nom scientifique', idt.nom_scientifique],
+      ['Synonymes',        idt.synonymes],
+      ['Nom français',     idt.nom_francais],
+      ['Nom créole',       idt.nom_creole],
+      ['Nom anglais',      idt.nom_anglais],
+      ['Genre',            idt.genre],
+      ['Espèce',           idt.espece],
+      ['Famille',          fiche.famille],
+      ['Systèmes',         usa.systemes_concernes],
+    ]);
+
+    // 2. Description & morphologie
+    document.getElementById('s-description').innerHTML = textSection(mor.description);
+
+    // 3. Écologie
+    document.getElementById('s-ecologie').innerHTML = textSection(mor.ecologie);
+
+    // 4. Usages
+    document.getElementById('s-usages').innerHTML = textSection(usa.usages_ethnobotaniques);
+
+    // 5. Molécules & pharmacologie
+    document.getElementById('s-pharma').innerHTML = textSection(pha.molecules);
+
+    // 6. Posologie
+    document.getElementById('s-posologie').innerHTML = textSection(pha.posologie);
+
+    // 7. Toxicologie
+    const toxNiv = safe(tox.niveau);
+    const tCls = toxClass(toxNiv);
+    const toxBadge = toxNiv ? `<div style="margin-bottom:12px;"><span class="tox-badge ${tCls}">${esc(toxNiv)}</span></div>` : '';
+    document.getElementById('s-toxicologie').innerHTML = toxBadge + textSection(tox.details);
+
+    // 8. Conservation
+    document.getElementById('s-conservation').innerHTML = textSection(con.menaces);
+
+    // 9. Valorisation
+    document.getElementById('s-valeur').innerHTML = textSection(con.valeur);
+
+    // 10. Recherche & références
+    const liensH = [
+      rch.lien_pubmed  ? `<a href="${esc(rch.lien_pubmed)}" target="_blank"><i class="fa-solid fa-microscope"></i> PubMed</a>` : '',
+      rch.lien_scholar ? `<a href="${esc(rch.lien_scholar)}" target="_blank"><i class="fa-solid fa-graduation-cap"></i> Scholar</a>` : '',
+      rch.lien_tramil  ? `<a href="${esc(rch.lien_tramil)}" target="_blank"><i class="fa-solid fa-leaf"></i> TRAMIL</a>` : '',
+    ].filter(Boolean).join('');
+
+    let rechHTML = '';
+    if (rch.nb_articles) rechHTML += rows([['Articles (estimation)', rch.nb_articles]]);
+    rechHTML += textSection(rch.details);
+    if (safe(fiche.references)) rechHTML += '<div style="margin-top:8px;border-top:1px solid rgba(0,0,0,.05);padding-top:10px;"><div class="info-label" style="margin-bottom:6px;">Références</div><div class="section-text"><p>' + esc(fiche.references) + '</p></div></div>';
+    if (liensH) rechHTML += `<div class="liens">${liensH}</div>`;
+    document.getElementById('s-recherche').innerHTML = rechHTML;
+
+    // 11. À retenir
+    if (safe(fiche.aRetenir)) {
+      document.getElementById('s-resume-wrap').style.display = 'block';
+      document.getElementById('s-resume').innerHTML = `<div class="retenir-box"><p>${esc(fiche.aRetenir)}</p></div>`;
+    }
+
+    // Show page
+    statusEl.style.display = 'none';
+    document.getElementById('main').style.display = 'block';
+  })();
+</script>
+</body>
+</html>

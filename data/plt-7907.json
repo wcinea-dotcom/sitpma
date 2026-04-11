@@ -1,0 +1,56 @@
+{
+  "id_plante": "plt-7907",
+  "code": "plt-7907",
+  "no_espece": "",
+  "no_famille": "79",
+  "famille": "Rutacées",
+  "description_famille": "",
+  "identite": {
+    "genre": "Citrus",
+    "espece": "sinensis",
+    "nom_scientifique": "Citrus sinensis (L.)",
+    "synonymes": "Citrus aurantium var. sinensis",
+    "nom_francais": "Orange douce",
+    "nom_creole": "Zoranj dous",
+    "nom_anglais": "Sweet Orange"
+  },
+  "morphologie": {
+    "description": "C. sinensis est un arbre de taille moyenne, pouvant atteindre 8 à 12 mètres de hauteur dans de bonnes conditions de culture. Tiges et écorce. Le tronc présente une écorce lisse à légèrement rugueuse, de couleur gris-brun. Les jeunes rameaux sont souvent épineux et dégagent une odeur aromatique caractéristique lorsqu'on les froisse. Feuilles. Les feuilles sont persistantes, coriaces, de forme ovale à elliptique, avec un pétiole ailé distinctif. Elles sont vert foncé brillant sur la face supérieure et plus pâles en dessous. Parsemées de glandes à huiles essentielles, elles dégagent un parfum citronné au froissement. Fleurs. Les fleurs sont blanches, très parfumées, groupées en petites grappes. Elles possèdent cinq pétales épais et de nombreuses étamines. La floraison attire intensément les abeilles et autres pollinisateurs. Fruit. Le fruit, l'orange douce, est une baie particulière appelée hespéride. Il présente une écorce épaisse et rugueuse de couleur orange vif à maturité, renfermant une pulpe juteuse divisée en quartiers. Dans le contexte haïtien, les fruits produits localement sont souvent plus petits que les variétés commerciales importées mais présentent généralement une saveur plus concentrée. Les parties utilisées sont principalement les fruits pour leur pulpe et leur jus, le zeste pour ses huiles essentielles, et occasionnellement les feuilles.",
+    "ecologie": "Originaire d'Asie du Sud-Est, C. sinensis a été introduit en Haïti durant la période coloniale. L'espèce s'adapte aux altitudes moyennes et préfère les sols bien drainés et les climats tropicaux à subtropicaux. Dans les Départements du Sud et de la Grand'Anse, sa culture reste limitée et sa production est qualifiée de rare selon l'inventaire BRH. Les orangers locaux sont souvent cultivés dans les jardins familiaux ou en petites parcelles, contribuant à la sécurité alimentaire locale mais sans développement commercial significatif."
+  },
+  "usages": {
+    "usages_ethnobotaniques": "Dans les Départements du Sud et de la Grand'Anse, C. sinensis est documenté comme aliment et remède contre la grippe. Le fruit frais est principalement consommé tel quel ou transformé en jus, apprécié pour sa richesse en vitamine C. Les pratiques locales utilisent le jus d'orange comme boisson fortifiante, particulièrement recommandée aux personnes affaiblies ou convalescentes. Le mode de préparation documenté localement est simple : extraction du jus par pression manuelle des fruits mûrs, consommé frais. Le zeste peut être utilisé pour parfumer certaines préparations, tandis que les feuilles sont occasionnellement employées en tisane, bien que cet usage soit moins fréquent. Selon TRAMIL, l'usage contre la grippe est spécifiquement documenté en Haïti, confirmant l'importance locale de cette application thérapeutique.",
+    "systemes_concernes": "Digestif, Immunitaire"
+  },
+  "pharmacologie": {
+    "molecules": "Ce qui caractérise particulièrement C. sinensis, c'est la richesse exceptionnelle de ses fruits en vitamine C (acide ascorbique), pouvant atteindre 50-60 mg pour 100g de pulpe fraîche. Cette concentration élevée s'accompagne de caroténoïdes responsables de la couleur orange caractéristique du fruit — principalement la β-cryptoxanthine et la β-carotène. La saveur sucrée-acidulée provient de l'équilibre entre les sucres naturels (fructose, glucose, saccharose) et les acides organiques (acide citrique, acide malique). Le zeste concentre des huiles essentielles riches en limonène (85-95% de l'huile), responsable de l'arôme distinctif. Les fruits apportent également des minéraux essentiels, notamment le potassium (150-180 mg/100g), le calcium et le magnésium à doses modérées. Les principaux composés secondaires identifiés dans C. sinensis comprennent : des flavonoïdes (hespéridine, narirutine, naringénine), des caroténoïdes (β-carotène, β-cryptoxanthine, lutéine), des limonoïdes (limonine, nomiline), des coumarines, des monoterpènes (limonène, myrcène, linalol) et des acides phénoliques (Zou et al., 2016 — PMID: 27556711). L'hespéridine, flavonoïde majoritaire concentré dans l'albédo (partie blanche du zeste), peut représenter jusqu'à 90% des flavonoïdes totaux du fruit. Ces molécules remplissent des fonctions de défense précises pour la plante. La vitamine C protège les tissus végétaux contre l'oxydation et renforce la résistance aux pathogènes. Les caroténoïdes protègent contre les dommages photo-oxydatifs et attirent les animaux disperseurs par la couleur vive des fruits. Les limonoïdes dans les pépins découragent la prédation par leur amertume intense. Les huiles essentielles du zeste repoussent les insectes ravageurs. Ces mêmes composés, une fois ingérés par l'humain, produisent les effets biologiques documentés : la vitamine C soutient le système immunitaire, les flavonoïdes exercent des propriétés antioxydantes et anti-inflammatoires, tandis que les huiles essentielles présentent des effets anxiolytiques légers par inhalation. Il convient de noter que ces observations proviennent principalement d'études in vitro et sur modèles animaux.",
+    "posologie": "La posologie documentée pour C. sinensis varie selon l'usage. Pour l'alimentation et le soutien immunitaire, la consommation de jus frais est recommandée à raison de 100-200 mL par jour, apportant environ 50-100 mg de vitamine C (Zou et al., 2016 — PMID: 27556711). Pour l'usage anxiolytique par aromathérapie, l'huile essentielle d'orange douce est utilisée en diffusion ou inhalation à raison de quelques gouttes seulement. Les données concernant les tisanes de feuilles restent limitées et aucune posologie standardisée n'est établie pour cet usage. Il convient de noter que ces recommandations proviennent principalement d'études nutritionnelles et non d'essais cliniques thérapeutiques spécifiques."
+  },
+  "nutrition": {
+    "introduction": "Citrus sinensis (L.) (syn. Citrus aurantium var. sinensis) est un arbre fruitier exotique cultivé dans les Départements du Sud et de la Grand'Anse. Il appartient à la famille des Rutacées, une famille riche en usages alimentaires, médicinaux et aromatiques, particulièrement reconnue pour sa teneur en vitamine C, ses huiles essentielles d'agrumes et ses coumarines. Au sein de cette famille, il fait partie du genre Citrus, qui regroupe les principales espèces d'agrumes cultivées mondialement, toutes caractérisées par leurs fruits riches en vitamine C et leurs huiles essentielles aromatiques. Citrus sinensis est principalement utilisé comme aliment nutritif et remède contre la grippe dans les deux départements, où il constitue une source importante de vitamine C dans l'alimentation locale."
+  },
+  "toxicologie": {
+    "niveau": "",
+    "details": "C. sinensis présente un profil de sécurité excellent aux doses alimentaires normales. Les précautions concernent principalement les excès de consommation : une ingestion excessive de jus peut provoquer des reflux gastro-œsophagiens, des diarrhées ou un apport sucré trop élevé, particulièrement problématique chez les diabétiques non contrôlés. Les interactions médicamenteuses sont beaucoup plus faibles qu'avec le pamplemousse mais restent possibles avec des formes concentrées d'extraits. Les huiles essentielles pures peuvent être irritantes à forte concentration et nécessitent une dilution appropriée. Aucune toxicité majeure n'est documentée aux doses traditionnelles d'usage."
+  },
+  "conservation": {
+    "menaces": "L'espèce nécessite des mesures de conservation locale et de protection contre les maladies végétales. Dans les Départements du Sud et de la Grand'Anse, la production rare limite la disponibilité locale des fruits, créant une dépendance aux importations. Les orangers locaux sont menacés par diverses maladies fongiques et virales, ainsi que par les ravageurs. Le changement climatique et l'intensification des sécheresses représentent des défis croissants pour cette culture sensible aux stress hydriques.",
+    "valeur": "Localement, C. sinensis présente une valeur alimentaire importante mais limitée par la faible production. Internationalement, l'orange douce représente l'un des fruits les plus commercialisés mondialement, avec une industrie du jus très développée. Dans le contexte haïtien, le développement de cette culture pourrait contribuer à l'autosuffisance alimentaire et à la diversification agricole, tout en réduisant les importations coûteuses d'agrumes."
+  },
+  "recherche": {
+    "nb_articles": "~5000 (estimation)",
+    "details": "Avec environ 5000 publications indexées sur PubMed, C. sinensis fait l'objet d'une recherche scientifique intensive. Les études récentes explorent ses propriétés antioxydantes, ses effets cardiovasculaires protecteurs et son potentiel anticancer. Dans le contexte haïtien, des recherches sont nécessaires pour optimiser les techniques de culture locale, développer des variétés adaptées au climat et valoriser les co-produits (zestes, pulpes) pour des applications nutraceutiques ou cosmétiques.",
+    "lien_pubmed": "",
+    "lien_scholar": "",
+    "lien_tramil": "https://www.tramil.net/en/plant/citrus-sinensis"
+  },
+  "references": "Garg, A., et al. (2001). Chemistry and pharmacology of the citrus bioflavonoid hesperidin. Phytotherapy Research. PMID: 11352885. Lima, N.G., et al. (2013). Anxiolytic-like activity and GC-MS analysis of (R)-(+)-limonene fragrance, a natural compound found in foods and plants. Pharmacology Biochemistry and Behavior. PMID: 23211679. Zou, Z., et al. (2016). Orange (Citrus sinensis) essential oil: Chemistry and biological activities. In Essential Oils in Food Preservation. PMID: 27556711. POWO (2024). Plants of the World Online. Kew Science. Royal Botanic Gardens, Kew. http://www.plantsoftheworldonline.org/ TRAMIL (2024). Citrus sinensis. Programme TRAMIL. https://www.tramil.net/en/plant/citrus-sinensis",
+  "aRetenir": "🟢 À retenir — Zoranj dous : est avant tout un aliment — sa valeur nutritionnelle prime sur ses usages medicinaux. Consommee correctement preparee, elle est sans danger documente. Ses proprietes therapeutiques, reelles mais secondaires, ne remplacent pas un suivi medical. Les auteurs declinent toute responsabilite quant a un usage inapproprie.",
+  "images": {
+    "principale": "images/787_Citrus_sinensis-001.jpg",
+    "galerie": [
+      "images/787_Citrus_sinensis-001.jpg"
+    ]
+  },
+  "source": "plantes_full.json"
+}

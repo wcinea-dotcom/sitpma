@@ -1,0 +1,58 @@
+{
+  "id_plante": "plt-7801",
+  "code": "plt-7801",
+  "no_espece": "",
+  "no_famille": "78",
+  "famille": "Rubiacées",
+  "description_famille": "Les Rubiacées constituent l'une des plus importantes familles botaniques mondiales avec environ 13 000 espèces réparties principalement dans les régions tropicales et subtropicales. Cette vaste famille regroupe des formes biologiques très diversifiées — lianes, arbustes, herbes et arbres — qui dominent particulièrement la flore des Départements du Sud et de la Grand'Anse d'Haïti. Parmi les genres à vocation alimentaire, Coffea (caféier) représente l'une des boissons les plus consommées au monde, tandis que Morinda (noni) et Genipa (jenipa) offrent des fruits traditionnellement appréciés dans la Caraïbe. Sur le plan médicinal, cette famille se distingue par une richesse phytochimique exceptionnelle dominée par les alcaloïdes (caféine, quinine, iridoïdes), les flavonoïdes, les tanins, les anthraquinones et divers composés phénoliques. Ces molécules ciblent préférentiellement les systèmes nerveux, cardiovasculaire et tégumentaire. Une vigilance particulière s'impose car certains genres — notamment Hamelia — renferment des principes actifs puissants nécessitant une préparation adéquate.",
+  "identite": {
+    "genre": "Coffea",
+    "espece": "arabica",
+    "nom_scientifique": "Coffea arabica L.",
+    "synonymes": "Coffea vulgaris",
+    "nom_francais": "Caféier",
+    "nom_creole": "Kafe",
+    "nom_anglais": "Coffee"
+  },
+  "morphologie": {
+    "description": "C. arabica est un arbuste persistant d'altitude moyenne, pouvant atteindre 3 à 5 mètres de hauteur à l'état sauvage, généralement maintenu à 1,5-2 mètres en culture pour faciliter la récolte. Tiges et écorce. Les tiges sont ligneuses, à écorce lisse et grisâtre. Les jeunes rameaux présentent une croissance opposée caractéristique de la famille des Rubiacées. Feuilles. Les feuilles sont simples, opposées, ovales à elliptiques, de 10-15 cm de longueur, coriaces et d'un vert brillant. Elles présentent des nervures bien marquées et des stipules interpétiolaires triangulaires, caractère taxonomique important des Rubiacées. En altitude moyenne haïtienne, elles conservent leur aspect lustré toute l'année. Fleurs. Les fleurs blanches, parfumées, sont groupées en cymes axillaires. Chaque fleur présente une corolle tubulaire à 5 lobes et dégage un parfum de jasmin particulièrement intense dans le climat des montagnes du Sud. Fruit et graines. Le fruit, appelé « cerise de café », est une drupe rouge à maturité contenant généralement deux graines (les « grains de café ») entourées d'un parchemin. Dans les conditions climatiques du Sud et de la Grand'Anse, la maturation s'étend sur plusieurs mois. Les parties utilisées sont principalement les grains torréfiés pour la boisson, et occasionnellement les feuilles fraîches ou séchées pour des tisanes.",
+    "ecologie": "Originaire des hauts plateaux d'Éthiopie, C. arabica a été introduit en Haïti au 18ème siècle et s'est parfaitement adapté aux altitudes moyennes des Départements du Sud et de la Grand'Anse. L'espèce prospère dans les zones de transition entre 400 et 1200 mètres d'altitude, où les températures modérées et la pluviométrie régulière créent des conditions optimales. Dans ces départements, le caféier participe à des systèmes agroforestiers traditionnels associant arbres d'ombrage et cultures vivrières, contribuant ainsi au maintien de la biodiversité locale et à la protection des sols contre l'érosion."
+  },
+  "usages": {
+    "usages_ethnobotaniques": "Dans les Départements du Sud et de la Grand'Anse, C. arabica présente un double usage alimentaire et médicinal solidement ancré dans les pratiques locales. L'usage alimentaire dominant consiste en la préparation de café torréfié, consommé quotidiennement comme boisson énergisante. L'usage médicinal traditionnel, documenté localement, fait appel au « café noir et fort » pour traiter les migraines et les céphalées. Les modes de préparation incluent l'infusion des grains torréfiés et moulus pour la boisson quotidienne, et la décoction de feuilles fraîches pour des tisanes aux propriétés diurétiques et digestives. À Haïti, TRAMIL documente également l'usage traditionnel des feuilles contre l'asthme, préparées en infusion.",
+    "systemes_concernes": "Nerveux, Cardiovasculaire, Hépatique"
+  },
+  "pharmacologie": {
+    "molecules": "Le caféier arabica se caractérise avant tout par sa production de caféine, un alcaloïde puissant qui confère au café son effet stimulant distinctif. Cette molécule, concentrée à environ 1,2% dans les grains (contre 2,2% chez C. canephora), sert de pesticide naturel pour protéger les graines contre les insectes et les champignons. Les grains contiennent également des acides chlorogéniques responsables de l'acidité caractéristique du café arabica, ainsi que des diterpènes (cafestol et kahweol) qui influencent le profil lipidique. Sur le plan nutritionnel, les grains renferment des protéines (11-13%), des lipides (12-18%), des glucides et des microéléments essentiels comme le potassium, le magnésium et le fer. Les principaux composés secondaires identifiés dans C. arabica comprennent : la caféine (1,2-1,5% dans les grains), les acides chlorogéniques (acides 3-caffeoylquinique, 4-caffeoylquinique, 5-caffeoylquinique), la trigonelline, les diterpènes cafestol et kahweol, les flavonoïdes (quercétine, kaempférol), les melanoidines formées lors de la torréfaction, et divers composés volatils responsables de l'arôme (Farah, 2012 — PMID: 22432725). Ces molécules remplissent des fonctions de défense essentielles pour la plante. La caféine agit comme un insecticide naturel et inhibe la germination de graines concurrentes au pied de la plante. Les acides chlorogéniques protègent contre les pathogènes fongiques et les rayonnements UV en altitude. Une fois ingérés par l'humain, ces mêmes composés produisent les effets biologiques documentés : la caféine stimule le système nerveux central et améliore la vigilance, tandis que les acides chlorogéniques exercent une activité antioxydante et peuvent moduler le métabolisme glucidique et lipidique.",
+    "posologie": "Les études scientifiques indiquent qu'une consommation de 2 à 4 tasses par jour de café filtré (équivalent à 200-400 mg de caféine par jour) est associée à des bénéfices métaboliques et cardiovasculaires chez l'adulte en bonne santé. Au-delà de ces doses, les effets secondaires (insomnie, anxiété, tachycardie) deviennent plus fréquents (Poole et al., 2017 — PMID: 29167102). Pour l'usage médicinal traditionnel contre les migraines, aucune posologie cliniquement validée n'est établie, les pratiques locales variant selon les individus et l'intensité des symptômes."
+  },
+  "nutrition": {
+    "introduction": "Coffea arabica L. (syn. Coffea vulgaris) est un arbuste exotique d'altitude moyenne, largement cultivé dans les Départements du Sud et de la Grand'Anse d'Haïti. Il appartient à la famille des Rubiacées, une vaste famille tropicale de plus de 13 000 espèces reconnue pour ses usages alimentaires et médicinaux exceptionnels. Au sein de cette famille, le genre Coffea occupe une position particulière en tant que source de la boisson la plus consommée au monde après l'eau. Coffea arabica représente environ 70% de la production mondiale de café et se distingue par sa saveur acide caractéristique et sa teneur modérée en caféine comparée à Coffea canephora (robusta). Dans les deux départements étudiés, le café constitue à la fois une culture de rente importante et un remède domestique traditionnel, particulièrement reconnu pour traiter les migraines par sa consommation « noir et fort »."
+  },
+  "toxicologie": {
+    "niveau": "",
+    "details": "Coffea arabica présente un profil de sécurité excellent aux doses usuelles de consommation. Cependant, un excès peut provoquer insomnie, tachycardie, anxiété et reflux gastro-œsophagien. Une prudence particulière est recommandée chez les personnes souffrant d'hypertension sensible à la caféine, d'arythmies cardiaques, durant la grossesse (limitation à environ 200 mg de caféine par jour selon les recommandations internationales) et chez les enfants. Le café non filtré (méthode à la turque ou café bouilli) peut augmenter le cholestérol LDL en raison de la présence de cafestol et kahweol, diterpènes éliminés par la filtration papier."
+  },
+  "conservation": {
+    "menaces": "Bien que largement cultivé, C. arabica fait face à des défis climatiques croissants liés au réchauffement global qui pourrait réduire les zones de culture adaptées. Dans les Départements du Sud et de la Grand'Anse, la conservation des variétés locales adaptées et la promotion de pratiques agroforestières durables constituent des priorités pour maintenir cette culture économiquement et écologiquement importante.",
+    "valeur": "Le café représente une source de revenus significative pour les producteurs des deux départements, s'inscrivant dans les filières d'exportation nationales. La qualité du café haïtien, reconnu internationalement, offre des opportunités de valorisation sur les marchés de spécialité, contribuant au développement économique local tout en préservant les traditions agricoles."
+  },
+  "recherche": {
+    "nb_articles": "~10 000 (estimation)",
+    "details": "Avec environ 10 000 publications scientifiques référencées, C. arabica figure parmi les plantes les plus étudiées au monde. Les recherches actuelles se concentrent sur l'optimisation des variétés résistantes au changement climatique, la standardisation des extraits à visée nutraceutique, et l'élucidation des mécanismes moléculaires responsables des effets santé observés dans les études épidémiologiques. Des essais cliniques sont nécessaires pour valider scientifiquement les usages médicinaux traditionnels documentés en Haïti.",
+    "lien_pubmed": "",
+    "lien_scholar": "",
+    "lien_tramil": "https://www.tramil.net/en/plant/coffea-arabica"
+  },
+  "references": "Farah, A. (2012). Coffee constituents. In Y.F. Chu (Ed.), Coffee: Emerging Health Effects and Disease Prevention (pp. 21-58). Wiley-Blackwell. PMID: 22432725 Poole, R. et al. (2017). Coffee consumption and health: umbrella review of meta-analyses of multiple health outcomes. BMJ, 359, j5024. PMID: 29167102 POWO (2024). Coffea arabica L. Plants of the World Online. Kew Science. https://powo.science.kew.org/ TRAMIL (2024). Coffea arabica. https://www.tramil.net/en/plant/coffea-arabica",
+  "aRetenir": "🟢 À retenir — Kafe : est avant tout un aliment — sa valeur nutritionnelle prime sur ses usages medicinaux. Consommee correctement preparee, elle est sans danger documente. Ses proprietes therapeutiques, reelles mais secondaires, ne remplacent pas un suivi medical. Les auteurs declinent toute responsabilite quant a un usage inapproprie.",
+  "images": {
+    "principale": "images/771_Coffea_arabica-001.jpg",
+    "galerie": [
+      "images/771_Coffea_arabica-001.jpg",
+      "images/771_Coffea_arabica-002.jpg",
+      "images/771_Coffea_arabica-003.jpg"
+    ]
+  },
+  "source": "plantes_full.json"
+}

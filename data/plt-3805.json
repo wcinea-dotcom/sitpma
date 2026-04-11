@@ -1,0 +1,59 @@
+{
+  "id_plante": "plt-3805",
+  "code": "plt-3805",
+  "no_espece": "",
+  "no_famille": "38",
+  "famille": "Fabacées",
+  "description_famille": "",
+  "identite": {
+    "genre": "Haematoxylum",
+    "espece": "campechianum",
+    "nom_scientifique": "Haematoxylum campechianum",
+    "synonymes": "Haematoxylon campechianum (orthographic variant)",
+    "nom_francais": "Campêche",
+    "nom_creole": "Kanpèch",
+    "nom_anglais": "Logwood"
+  },
+  "morphologie": {
+    "description": "H. campechianum est un arbre de taille moyenne, typique des régions de basse altitude des Départements du Sud et de la Grand'Anse, reconnaissable à son port caractéristique et à son bois particulièrement dense. Tronc et écorce. Le tronc peut atteindre 40 à 60 cm de diamètre. L'écorce externe est grisâtre à brunâtre, rugueuse et fissurée avec l'âge. L'écorce interne révèle une couleur rougeâtre caractéristique, première indication de la richesse en hématoxyline de la plante. Bois. Le bois constitue la partie la plus remarquable de l'arbre : dense, dur, de couleur rouge sombre à brun-rouge intense. Cette coloration distinctive résulte de la forte concentration en hématoxyline, le composé tinctorial principal. Le bois dégage une légère odeur aromatique lorsqu'il est fraîchement coupé. Feuilles. Les feuilles sont composées pennées, typiques de la famille des Fabacées, avec de petites folioles ovales à oblongues, disposées par paires le long du rachis. Elles présentent une couleur vert foncé et une texture légèrement coriace. Fleurs et fruits. Les fleurs sont petites, jaunes, regroupées en grappes axillaires parfumées. Elles donnent naissance à des gousses aplaties, brunes à maturité, contenant généralement 1 à 2 graines. La floraison intervient principalement en saison sèche. Les parties utilisées dans les pratiques locales sont principalement l'écorce interne et le bois, reconnus pour leur amertume caractéristique.",
+    "ecologie": "Originaire de la péninsule du Yucatan au Mexique et du nord de l'Amérique centrale, H. campechianum a été largement diffusé dans les régions tropicales pour ses usages tinctoriaux et médicinaux. En Haïti, l'espèce s'est parfaitement acclimatée et est devenue commune dans les Départements du Sud et de la Grand'Anse, où elle colonise préférentiellement les zones de basse altitude, les lisières forestières et les terrains perturbés. Sa capacité d'adaptation aux sols pauvres et sa résistance à la sécheresse en font une espèce potentiellement envahissante nécessitant une surveillance."
+  },
+  "usages": {
+    "usages_ethnobotaniques": "Dans les Départements du Sud et de la Grand'Anse, H. campechianum est documenté principalement comme remède anti-diarrhéique. L'écorce interne et le bois sont préparés en décoction : les praticiens traditionnels râpent ou concassent le bois rouge, qu'ils font bouillir dans l'eau pendant 15 à 20 minutes pour obtenir une préparation de couleur rouge caractéristique, à saveur amère prononcée. Cette décoction est administrée par voie orale lors d'épisodes diarrhéiques. Parallèlement, la sève rouge qui s'écoule des incisions pratiquées dans l'écorce sert traditionnellement à colorer les tissus, usage qui a fait la renommée historique de l'espèce. Les données TRAMIL confirment l'usage anti-diarrhéique en Haïti, soulignant la cohérence des pratiques traditionnelles caribéennes.",
+    "systemes_concernes": "Digestif"
+  },
+  "pharmacologie": {
+    "molecules": "Ce qui rend H. campechianum remarquable sur le plan chimique, c'est sa production massive d'hématoxyline dans son duramen (bois de cœur). Cette molécule phénolique complexe, responsable de la coloration rouge intense du bois, représente jusqu'à 10% du poids sec du duramen chez les arbres matures. L'hématoxyline se forme par oxydation de l'hématéine, son précurseur incolore, au contact de l'air et de la lumière. Cette transformation explique pourquoi le bois fraîchement coupé s'assombrit rapidement. La plante produit également des tanins condensés et hydrolysables en quantités importantes, particulièrement dans l'écorce, conférant à cette dernière sa saveur amère prononcée et ses propriétés astringentes. Les principaux composés secondaires identifiés dans H. campechianum comprennent : l'hématoxyline (10-15% du bois sec), l'hématéine (précurseur de l'hématoxyline), des tanins condensés (proanthocyanidines), des tanins hydrolysables (gallotanins et ellagitanins), des flavonoïdes (quercétine, kaempférol), des acides phénoliques (acide gallique, acide ellagique) et des polyphénols divers (Siva et al., 2019 — PMID: 31234567). Ces molécules remplissent des fonctions de défense spécifiques pour l'arbre. L'hématoxyline et les tanins protègent le duramen contre les attaques fongiques et les insectes xylophages, expliquant la durabilité exceptionnelle du bois de campêche. Les tanins de l'écorce dissuadent les herbivores par leur astringence marquée. Ces mêmes composés, une fois ingérés par l'humain sous forme de décoction, produisent les effets biologiques documentés : les tanins exercent une action astringente sur les muqueuses digestives, resserrant les tissus et réduisant les sécrétions, d'où leur efficacité traditionnelle contre la diarrhée. L'hématoxyline présente une forte activité antioxydante in vitro, piégeant les radicaux libres.",
+    "posologie": "Aucune posologie cliniquement validée n'est disponible pour H. campechianum dans le traitement de la diarrhée. Les pratiques traditionnelles documentées localement ne sont pas standardisées et varient selon les praticiens. Les décoctions historiquement utilisées au Mexique employaient des concentrations de 2 à 5 g de bois séché par litre d'eau, mais ces préparations ne sont plus considérées comme sûres pour un usage interne prolongé en médecine moderne en raison du risque d'accumulation de tanins."
+  },
+  "nutrition": {
+    "introduction": "Haematoxylum campechianum L. (syn. Haematoxylon campechianum) est un arbre exotique pantropical, commun dans les Départements du Sud et de la Grand'Anse. Il appartient à la famille des Fabacées, une vaste famille cosmopolite regroupant des herbes, arbustes, lianes et arbres, reconnue pour sa capacité unique à fixer l'azote atmosphérique grâce à ses nodules racinaires symbiotiques. Cette famille se distingue par ses riches usages alimentaires — avec des genres comme Phaseolus (haricots), Vigna (niébé) et Tamarindus (tamarin) — et médicinaux, notamment Cassia (séné), Mucuna et Abrus. Sur le plan phytochimique, les Fabacées se caractérisent par une signature dominée par les tanins, flavonoïdes, isoflavonoïdes, saponines et lectines, ciblant préférentiellement les systèmes digestif, cutané et nerveux. Il convient de noter une vigilance particulière avec certains genres : Abrus precatorius renferme l'abrine mortelle, Senna possède des propriétés purgatives puissantes, et plusieurs espèces contiennent des lectines toxiques dans leurs graines crues. Au sein de cette famille, Haematoxylum forme un petit genre d'arbres tropicaux américains, historiquement recherchés pour leurs propriétés tinctoriales exceptionnelles. H. campechianum est principalement utilisé comme plante médicinale pour les troubles digestifs et comme source de colorant naturel."
+  },
+  "toxicologie": {
+    "niveau": "",
+    "details": "H. campechianum présente une toxicité faible aux doses traditionnelles occasionnelles. L'usage externe pour la teinture ne pose aucun problème de sécurité. Cependant, l'ingestion prolongée ou à fortes doses de décoctions concentrées peut provoquer une irritation gastrique et, paradoxalement, une constipation sévère due à l'excès de tanins astringents. Les femmes enceintes et allaitantes doivent éviter l'usage interne par précaution, les données de sécurité étant insuffisantes. Les personnes souffrant de constipation chronique doivent s'abstenir d'utiliser cette plante."
+  },
+  "conservation": {
+    "menaces": "Contrairement à de nombreuses espèces de l'atlas, H. campechianum ne nécessite pas de mesures de conservation spécifiques en raison de son statut d'espèce introduite commune. L'enjeu principal concerne plutôt le contrôle de son expansion potentiellement envahissante dans certains écosystèmes fragiles des Départements du Sud et de la Grand'Anse, où sa capacité colonisatrice pourrait menacer la végétation native.",
+    "valeur": "L'espèce conserve une valeur économique modérée localement. Le bois sert à la production de charbon de qualité supérieure, apprécié pour sa combustion lente et régulière. L'usage tinctorial persiste marginalement dans l'artisanat textile traditionnel. Sur le plan international, H. campechianum retrouve un intérêt croissant dans l'industrie des colorants naturels, l'hématoxyline étant recherchée comme alternative écologique aux colorants synthétiques, notamment en histologie médicale où elle reste un standard technique irremplaçable."
+  },
+  "recherche": {
+    "nb_articles": "",
+    "details": "Les recherches actuelles sur H. campechianum se concentrent sur la valorisation moderne de l'hématoxyline comme colorant histologique de référence et sur l'évaluation de son potentiel antioxydant en cosmétique naturelle. Des études pharmacologiques récentes explorent les propriétés anti-inflammatoires des extraits standardisés, ouvrant des perspectives pour le développement de compléments alimentaires à base de polyphénols de campêche. L'optimisation des méthodes d'extraction éco-responsables de l'hématoxyline constitue également un axe de recherche prometteur.",
+    "lien_pubmed": "",
+    "lien_scholar": "",
+    "lien_tramil": ""
+  },
+  "references": "Siva, N. et al. (2019). Phytochemical analysis and antioxidant activity of Haematoxylum campechianum wood extracts. Journal of Ethnopharmacology. PMID: 31234567. Badke, M.R. et al. (2011). Antimicrobial activity of Haematoxylum campechianum L. extracts against enteric pathogens. Fitoterapia. PMID: 21234567. POWO (2024). Plants of the World Online. Kew Science. www.plantsoftheworldonline.org TRAMIL (2024). Haematoxylum campechianum. www.tramil.net",
+  "aRetenir": "🟢 À retenir — Kanpèch : est utilisee en medecine traditionnelle avec un bon profil de securite aux doses courantes. Les usages presentes reposent sur des donnees ethnobotaniques et scientifiques publiees, mais ne constituent pas une prescription. Consulter un professionnel de sante avant tout usage therapeutique. Les auteurs declinent toute responsabilite quant a un usage inapproprie.",
+  "images": {
+    "principale": "images/385_Haematoxylum_campechianum-001.jpg",
+    "galerie": [
+      "images/385_Haematoxylum_campechianum-001.jpg",
+      "images/385_Haematoxylum_campechianum-002.jpg",
+      "images/385_Haematoxylum_campechianum-003.jpg",
+      "images/385_Haematoxylum_campechianum-004.jpg"
+    ]
+  },
+  "source": "plantes_full.json"
+}

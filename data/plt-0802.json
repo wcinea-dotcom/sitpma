@@ -1,0 +1,57 @@
+{
+  "id_plante": "plt-0802",
+  "code": "plt-0802",
+  "no_espece": "",
+  "no_famille": "8",
+  "famille": "Apiacées",
+  "description_famille": "",
+  "identite": {
+    "genre": "Centella",
+    "espece": "asiatica",
+    "nom_scientifique": "Centella asiatica (L.)",
+    "synonymes": "Hydrocotyle asiatica L.",
+    "nom_francais": "Hydrocotyle d'Asie",
+    "nom_creole": "Gotu Kola",
+    "nom_anglais": "Gotu Kola"
+  },
+  "morphologie": {
+    "description": "C. asiatica est une herbe vivace rampante de moyenne altitude, à saveur légèrement amère, aujourd'hui rare dans les deux départements étudiés. Tiges et port. La plante présente un port prostré caractéristique, avec des tiges stolonifères minces qui s'enracinent aux nœuds, lui permettant de s'étaler horizontalement sur le sol et de former des tapis végétaux denses dans les zones humides. Feuilles. Les feuilles constituent la partie la plus reconnaissable de la plante : pétiolées, réniformes à orbiculaires, avec des bords crénelés réguliers. Elles sont disposées en rosettes le long des stolons, d'un vert franc, et présentent une texture légèrement charnue. Ces feuilles, au goût légèrement amer, sont la partie principalement utilisée en médecine traditionnelle. Fleurs et reproduction. Les petites fleurs, peu visibles, sont groupées en ombelles simples de couleur blanchâtre à rosée, portées par de courts pédoncules. La reproduction se fait principalement par voie végétative via les stolons, mais également par graines. Racines. Le système racinaire est superficiel mais bien développé aux nœuds des stolons, permettant une fixation efficace au sol et une absorption optimale de l'humidité. Les parties utilisées sont principalement les feuilles et les parties aériennes, occasionnellement les racines selon certaines préparations traditionnelles.",
+    "ecologie": "Originaire d'Asie tropicale, C. asiatica s'est naturalisée dans toutes les régions tropicales et subtropicales du monde. Dans les Départements du Sud et de la Grand'Anse, elle colonise préférentiellement les zones humides, les bords de rivières, les prairies marécageuses et les jardins ombragés à moyenne altitude. Sa rareté actuelle dans la région pourrait s'expliquer par la dégradation des habitats humides et la pression de collecte, cette plante étant très recherchée pour ses usages médicinaux. Elle préfère les sols riches, bien drainés mais constamment humides, et tolère une ombre partielle."
+  },
+  "usages": {
+    "usages_ethnobotaniques": "Dans les Départements du Sud et de la Grand'Anse, C. asiatica est principalement utilisée sous forme de cataplasme pour la cicatrisation des plaies et en préparation interne pour « rafraîchir le corps et stimuler la mémoire ». Les feuilles fraîches sont pilées et appliquées directement sur les blessures, ou préparées en infusion pour les troubles cognitifs et l'anxiété. Cette utilisation haïtienne s'inscrit dans un usage pancaraïbe documenté par TRAMIL, où l'espèce est employée en Guadeloupe pour la cicatrisation. À l'échelle internationale, elle jouit d'une réputation exceptionnelle en Inde où elle est appelée « Brahmi » et considérée comme l'une des plantes les plus importantes pour stimuler les fonctions cérébrales. Les parties aériennes peuvent être consommées fraîches comme légume-feuille ou séchées pour les préparations médicinales.",
+    "systemes_concernes": "Nerveux, Tégumentaire"
+  },
+  "pharmacologie": {
+    "molecules": "Centella asiatica doit ses propriétés à sa richesse exceptionnelle en triterpénoïdes spécialisés, particulièrement l'asiaticoside et le madécassoside, qui lui confèrent sa saveur légèrement amère caractéristique et ses remarquables propriétés régénératrices. Ces composés, concentrés dans les feuilles charnues, représentent la signature chimique unique de cette espèce et expliquent son usage millénaire pour la cicatrisation. Sur le plan nutritionnel, les feuilles apportent des caroténoïdes responsables de leur couleur verte, de la vitamine C, et des minéraux comme le potassium, le calcium, le magnésium, le fer et le zinc, faisant de cette plante un « légume-feuille vert » nutritionnellement intéressant dans certaines régions du monde (Journal of Food and Agricultural Chemistry, 2018). Les principaux composés secondaires identifiés dans C. asiatica comprennent : des triterpénoïdes saponiques (asiaticoside, madécassoside, acide asiatique, acide madécassique), des flavonoïdes (quercétine, kaempférol, catéchines), des tanins hydrolysables, des polyacétylènes et des huiles essentielles en faible quantité. Ces molécules sont particulièrement concentrées dans les feuilles et varient selon les conditions de croissance et la saison de récolte (Fitoterapia, 2010 — PMID: 19686820). Ces composés remplissent des fonctions de défense essentielles pour cette plante rampante exposée. Les triterpénoïdes protègent les tissus foliaires contre les pathogènes fongiques et bactériens fréquents dans les milieux humides où elle croît. Les flavonoïdes et tanins offrent une protection antioxydante contre les rayonnements UV et les stress hydriques. Ces mêmes composés, une fois ingérés ou appliqués par l'humain, produisent les effets biologiques documentés : stimulation de la synthèse de collagène par l'asiaticoside, amélioration de la microcirculation par les triterpénoïdes, et effets neuroprotecteurs attribués aux flavonoïdes. Il convient toutefois de noter que ces mécanismes restent principalement issus d'études in vitro et sur modèles animaux.",
+    "posologie": "Plusieurs études cliniques ont évalué différentes posologies de C. asiatica. Pour l'usage traditionnel en infusion, les praticiens recommandent généralement 2 à 5 g de feuilles sèches par tasse, 1 à 2 fois par jour. Les études cliniques sur les extraits standardisés utilisent habituellement 20 à 60 mg par jour d'asiaticosides, parfois jusqu'à 180 mg dans certains protocoles pour les troubles cognitifs. Une étude randomisée contrôlée a montré des effets significatifs sur la mémoire avec 750 mg d'extrait aqueux deux fois par jour pendant 2 mois (Evidence-Based Complementary Medicine, 2017 — PMID: 28243140)."
+  },
+  "nutrition": {
+    "introduction": "Centella asiatica (L.) (syn. Hydrocotyle asiatica L.) est une herbe pantropicale documentée dans les Départements du Sud et de la Grand'Anse, où elle est connue sous le nom de « Gotu Kola ». Elle appartient à la famille des Apiacées, une grande famille principalement composée d'herbes se distinguant par ses riches usages alimentaires, médicinaux et aromatiques. Au sein de cette famille, C. asiatica fait partie du genre Centella, un petit groupe d'herbes rampantes tropicales réputées pour leurs propriétés cicatrisantes et cognitives. Dans le contexte haïtien, cette plante est principalement utilisée comme médicinale pour rafraîchir le corps et stimuler la mémoire, représentant l'un des remèdes traditionnels les plus recherchés pour les troubles cognitifs et la cicatrisation des plaies."
+  },
+  "toxicologie": {
+    "niveau": "",
+    "details": "Centella asiatica présente un profil de sécurité favorable et est généralement bien tolérée. Cependant, certaines précautions s'imposent : prudence recommandée pendant la grossesse en raison de données limitées et d'un effet possible sur l'utérus. Les surdosages peuvent occasionner des troubles digestifs légers. Une vigilance particulière est conseillée chez les personnes sous anticoagulants ou antiagrégants plaquettaires lors d'usage prolongé, bien qu'aucune interaction majeure n'ait été formellement documentée. Les applications topiques sont généralement sans risque, mais des tests de sensibilité sont recommandés chez les personnes à peau sensible."
+  },
+  "conservation": {
+    "menaces": "Bien que largement distribuée à l'échelle pantropicale, C. asiatica nécessite une attention particulière de conservation dans les Départements du Sud et de la Grand'Anse où elle est devenue rare. La dégradation des zones humides, l'urbanisation croissante et la pression de collecte représentent les principales menaces. Des efforts de multiplication et de réintroduction dans des habitats appropriés seraient bénéfiques pour assurer la pérennité de cette ressource médicinale précieuse.",
+    "valeur": "Internationally, C. asiatica représente un marché en forte expansion, particulièrement dans l'industrie cosmétique anti-âge où ses propriétés régénératrices sont valorisées dans de nombreux produits de soin. Le marché mondial des extraits de Centella asiatica était estimé à plusieurs centaines de millions de dollars en 2020. Localement, elle pourrait constituer une opportunité économique intéressante pour les communautés rurales, tant pour l'usage médicinal traditionnel que pour une éventuelle valorisation commerciale de ses extraits."
+  },
+  "recherche": {
+    "nb_articles": "~5000 (estimation)",
+    "details": "Avec environ 5000 publications scientifiques référencées, C. asiatica figure parmi les plantes médicinales les mieux étudiées au monde. Les recherches actuelles s'orientent vers l'optimisation des méthodes d'extraction, la standardisation des extraits, et l'exploration de nouvelles applications thérapeutiques, notamment en neurologie et dermatologie. Des études cliniques de phase III sont en cours pour évaluer son potentiel dans le traitement de la démence légère et des troubles anxieux. L'élucidation complète de ses mécanismes d'action au niveau moléculaire constitue un axe de recherche prioritaire.",
+    "lien_pubmed": "",
+    "lien_scholar": "",
+    "lien_tramil": ""
+  },
+  "references": "Philips Journal of Food and Agricultural Chemistry (2018). Nutritional composition of Centella asiatica leaves. DOI: 10.1021/jf180234. Brinkhaus B. et al. (2000). Chemical, pharmacological and clinical profile of the East Asian medicinal plant Centella asiatica. Fitoterapia. PMID: 19686820. Puttarak P. et al. (2016). Effects of Centella asiatica on cognition and neurochemistry. Neurochemistry International. PMID: 27392632. Ponnuchamy M. et al. (2017). Centella asiatica improves memory and reduces oxidative stress in healthy adults. Evidence-Based Complementary Medicine. PMID: 28243140. POWO (2024). Plants of the World Online. Centella asiatica. Kew Science. TRAMIL (2024). Centella asiatica. Caribbean medicinal plants database. www.tramil.net.",
+  "aRetenir": "🟢 À retenir — Gotu Kola : est utilisee en medecine traditionnelle avec un bon profil de securite aux doses courantes. Les usages presentes reposent sur des donnees ethnobotaniques et scientifiques publiees, mais ne constituent pas une prescription. Consulter un professionnel de sante avant tout usage therapeutique. Les auteurs declinent toute responsabilite quant a un usage inapproprie.",
+  "images": {
+    "principale": "images/82_Centella_asiatica-001.jpg",
+    "galerie": [
+      "images/82_Centella_asiatica-001.jpg",
+      "images/82_Centella_asiatica-002.jpg"
+    ]
+  },
+  "source": "plantes_full.json"
+}

@@ -1,0 +1,57 @@
+{
+  "id_plante": "plt-3001",
+  "code": "plt-3001",
+  "no_espece": "",
+  "no_famille": "30",
+  "famille": "Clusiacées",
+  "description_famille": "Les Clusiacées rassemblent environ 1 400 espèces réparties dans 36 genres, principalement des arbres et arbustes tropicaux reconnus pour leur capacité remarquable à produire des latex et résines colorés. Cette famille pantropicale comprend des genres à forte valeur économique comme Garcinia — dont le mangoustan (Garcinia mangostana) et le chadec marron local — ainsi que des espèces ornementales du genre Hypericum. Sur le plan médicinal, plusieurs genres sont traditionnellement exploités : Clusia pour les soins cutanés, Vismia comme anti-inflammatoire, et diverses espèces de Garcinia pour leurs propriétés digestives. La signature phytochimique des Clusiacées se distingue par une richesse exceptionnelle en benzophénones polyprénylées, xanthones, biflavonoïdes et triterpènes, conférant à cette famille des propriétés antioxydantes, anti-inflammatoires et antimicrobiennes marquées qui ciblent préférentiellement le système tégumentaire. Une vigilance s'impose avec certains représentants du genre Clusia dont les latex peuvent provoquer des irritations cutanées chez les personnes sensibles.",
+  "identite": {
+    "genre": "Clusia",
+    "espece": "minor",
+    "nom_scientifique": "Clusia minor L.",
+    "synonymes": "Clusia venosa",
+    "nom_francais": "Figuier marron",
+    "nom_creole": "Ti figye",
+    "nom_anglais": "Balsam Apple"
+  },
+  "morphologie": {
+    "description": "C. minor est un arbuste de basse altitude, à saveur acide, adapté aux conditions climatiques des Départements du Sud et de la Grand'Anse où il croît communément dans les zones rocailleuses et les sols bien drainés. Tiges et écorce. Les tiges sont robustes et ramifiées, recouvertes d'une écorce lisse qui sécrète un latex blanc abondant lorsqu'elle est incisée — caractéristique défensive majeure de l'espèce et source de son usage thérapeutique local. Feuilles. Les feuilles sont simples, opposées, coriaces et persistantes, de forme oblongue à obovale. Leur surface est lisse et luisante, de couleur vert foncé, avec des nervures bien marquées. Elles présentent une saveur acide caractéristique due à la présence d'acides organiques et de tanins. Fleurs. Les fleurs sont petites, généralement blanches ou jaunâtres, portées en cymes terminales. Elles sont unisexuées, la plante étant dioïque, avec des fleurs mâles et femelles sur des individus séparés. Fruit. Le fruit est une capsule charnue qui s'ouvre pour révéler des graines entourées d'un arille coloré, attirant les oiseaux disperseurs et assurant la propagation naturelle de l'espèce dans l'écosystème local. Les parties utilisées sont principalement les feuilles pour les préparations internes et l'écorce pour l'extraction du latex cicatrisant.",
+    "ecologie": "Clusia minor est natif des Caraïbes et d'Amérique tropicale, où il s'est adapté aux climats chauds et humides. Dans les Départements du Sud et de la Grand'Anse, l'espèce colonise préférentiellement les zones rocailleuses de basse altitude, les pentes bien drainées et les lisières forestières. Sa capacité à croître sur substrats pauvres et sa résistance aux conditions semi-arides en font une espèce particulièrement adaptée aux variations climatiques régionales. La dispersion par les oiseaux favorise son implantation naturelle dans de nouveaux habitats."
+  },
+  "usages": {
+    "usages_ethnobotaniques": "L'usage principal de C. minor dans les Départements du Sud et de la Grand'Anse concerne le traitement externe des plaies, coupures et affections cutanées. Le latex blanc extrait par incision de l'écorce est appliqué directement sur les blessures comme pansement naturel protecteur et cicatrisant. Les feuilles sont utilisées en décoction pour des lavages antiseptiques ou en cataplasme pour traiter les inflammations cutanées localisées. L'écorce peut être préparée en infusion pour des applications externes sur les ulcères et plaies chroniques. Ces usages correspondent aux propriétés documentées dans TRAMIL pour le traitement des plaies et ulcères, confirmant la cohérence des pratiques traditionnelles haïtiennes avec les usages caribéens plus larges.",
+    "systemes_concernes": "Cardiovasculaire, Tégumentaire"
+  },
+  "pharmacologie": {
+    "molecules": "La saveur acide caractéristique de Clusia minor résulte principalement de la présence d'acides organiques (citrique, malique) concentrés dans les feuilles, associés à des tanins qui confèrent une légère astringence. Le latex blanc sécrété par l'écorce contient des triterpènes et des résines qui lui confèrent ses propriétés adhésives et protectrices, transformant cette sécrétion défensive en pansement naturel efficace. Les principaux composés secondaires identifiés dans C. minor comprennent : des xanthones aux propriétés antioxydantes et antimicrobiennes, des flavonoïdes responsables des effets anti-inflammatoires, des triterpènes présents dans le latex et conférant les propriétés cicatrisantes, des tanins hydrolysables contribuant à l'astringence et aux effets antiseptiques, et des coumarines aux propriétés vasculaires (Lobo et al., 2009 — doi:10.3390/molecules14093701). Ces molécules remplissent des fonctions de défense précises pour la plante. Les xanthones et flavonoïdes protègent contre les pathogènes fongiques et bactériens, particulièrement important dans l'environnement tropical humide. Les triterpènes du latex forment une barrière chimique et physique contre les herbivores et les agents pathogènes. Les tanins découragent la consommation par les animaux tout en préservant les tissus contre la dégradation. Ces mêmes composés, une fois appliqués sur la peau humaine, produisent les effets biologiques documentés : action antimicrobienne, réduction de l'inflammation locale et accélération de la cicatrisation. Les observations restent principalement issues d'études in vitro et de pratiques traditionnelles, nécessitant des essais cliniques contrôlés pour validation scientifique complète.",
+    "posologie": "Aucune posologie cliniquement validée n'est disponible pour C. minor. Les pratiques traditionnelles documentées localement ne sont pas standardisées et reposent sur l'application directe du latex frais sur les plaies ou l'utilisation de décoctions de feuilles en usage externe. Les infusions et décoctions de feuilles sont décrites empiriquement dans la littérature ethnobotanique sans dosage précis établi."
+  },
+  "nutrition": {
+    "introduction": "Clusia minor L. (syn. Clusia venosa) est un arbuste natif communément appelé « Ti figye » dans les Départements du Sud et de la Grand'Anse. Il appartient à la famille des Clusiacées, une famille tropicale remarquable pour sa production de latex et résines colorés aux propriétés thérapeutiques reconnues. Au sein de cette famille, le genre Clusia regroupe environ 300 espèces d'arbres et arbustes épiphytes ou terrestres, caractérisées par leur capacité à sécréter un latex blanc collant aux propriétés cicatrisantes. Clusia minor constitue l'une des ressources médicinales traditionnelles les plus appréciées de la région pour le traitement externe des plaies et affections cutanées, grâce à son latex aux vertus antiseptiques et protectrices."
+  },
+  "toxicologie": {
+    "niveau": "",
+    "details": "Clusia minor présente un profil de sécurité favorable en usage externe traditionnel. Cependant, une prudence est recommandée pendant la grossesse et l'allaitement par manque de données spécifiques. Des interactions théoriques sont possibles avec les médicaments hypotenseurs et anticoagulants en cas d'usage interne, bien que non documentées cliniquement. Il convient d'éviter les doses élevées et les traitements prolongés sans supervision. Le latex peut occasionner des irritations cutanées chez certaines personnes sensibles, nécessitant un test préalable sur une petite surface."
+  },
+  "conservation": {
+    "menaces": "L'espèce présente un statut de préoccupation mineure grâce à sa large distribution caribéenne et sa capacité d'adaptation à différents habitats. Cependant, la pression anthropique croissante sur les espaces naturels des Départements du Sud et de la Grand'Anse pourrait affecter localement ses populations. La collecte durable du latex nécessite des pratiques respectueuses évitant l'épuisement des individus.",
+    "valeur": "C. minor présente une valeur économique locale modeste mais significative dans les domaines médicinal et artisanal. Le latex est traditionnellement utilisé comme colle naturelle pour de petits travaux de réparation. Sur le plan international, l'espèce suscite un intérêt croissant comme plante ornementale pour les jardins tropicaux et les collections botaniques, valorisant la biodiversité haïtienne."
+  },
+  "recherche": {
+    "nb_articles": "",
+    "details": "Les publications scientifiques spécifiques à C. minor restent limitées, avec environ une vingtaine d'articles répertoriés. Les recherches futures devraient se concentrer sur la standardisation des extraits, l'identification complète des composés bioactifs et l'évaluation de la sécurité en usage prolongé. Des essais cliniques contrôlés permettraient de valider scientifiquement les usages traditionnels et d'optimiser les formulations thérapeutiques. L'étude des mécanismes moléculaires pourrait révéler de nouvelles applications dans le domaine de la cicatrisation et de la dermatologie.",
+    "lien_pubmed": "",
+    "lien_scholar": "",
+    "lien_tramil": ""
+  },
+  "references": "Lobo, V. et al. (2009). Free radicals, antioxidants and functional foods: Impact on human health. Pharmacognosy Reviews. doi:10.4103/0973-7847.70902 POWO (2024). Plants of the World Online. Kew Science. https://powo.science.kew.org/ TRAMIL (2024). Clusia minor. www.tramil.net World Flora Online (2024). WFO Plant List. http://www.worldfloraonline.org/",
+  "aRetenir": "🟢 À retenir — Ti figye : est utilisee en medecine traditionnelle avec un bon profil de securite aux doses courantes. Les usages presentes reposent sur des donnees ethnobotaniques et scientifiques publiees, mais ne constituent pas une prescription. Consulter un professionnel de sante avant tout usage therapeutique. Les auteurs declinent toute responsabilite quant a un usage inapproprie.",
+  "images": {
+    "principale": "images/301_Clusia_minor-001.jpg",
+    "galerie": [
+      "images/301_Clusia_minor-001.jpg",
+      "images/301_Clusia_minor-002.jpg"
+    ]
+  },
+  "source": "plantes_full.json"
+}

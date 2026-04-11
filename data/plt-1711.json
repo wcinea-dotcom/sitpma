@@ -1,0 +1,57 @@
+{
+  "id_plante": "plt-1711",
+  "code": "plt-1711",
+  "no_espece": "",
+  "no_famille": "17",
+  "famille": "Astéracées",
+  "description_famille": "",
+  "identite": {
+    "genre": "Vernonia",
+    "espece": "saepium",
+    "nom_scientifique": "Vernonia saepium",
+    "synonymes": "Lepidaploa saepium",
+    "nom_francais": "-",
+    "nom_creole": "Premye beny, premye te",
+    "nom_anglais": "-"
+  },
+  "morphologie": {
+    "description": "V. saepium est un arbuste de haute altitude, spécialement adapté aux conditions climatiques des montagnes haïtiennes. Dans les Départements du Sud et de la Grand'Anse, cette espèce colonise préférentiellement les zones d'altitude élevée du Massif de la Hotte, où elle bénéficie des conditions fraîches et humides nécessaires à sa croissance. Tiges. L'arbuste développe des tiges ligneuses robustes, adaptées aux vents forts et aux variations thermiques des zones d'altitude. Ces tiges, utilisées traditionnellement, présentent une saveur amère caractéristique due à la concentration élevée en principes actifs. Feuilles. Les feuilles sont persistantes, coriaces et présentent une saveur amère très prononcée — signature chimique des sesquiterpènes lactoniques qui les imprègnent. Cette amertume constitue un mécanisme de défense efficace contre les herbivores de montagne. Fleurs. Comme toutes les Astéracées, V. saepium produit des capitules floraux composés de nombreuses petites fleurs tubulaires, généralement de couleur pourpre à violette, caractéristiques du genre Vernonia. Fruit et graines. Les fruits sont des akènes surmontés d'une aigrette plumeuse facilitant la dispersion par le vent — adaptation cruciale pour une espèce endémique aux habitats fragmentés. Les parties utilisées sont les feuilles et les tiges, récoltées selon des modalités traditionnelles respectueuses de la survie de la plante.",
+    "ecologie": "V. saepium est endémique strict du Massif de la Hotte en Haïti, une zone de haute biodiversité et d'endémisme exceptionnel. Cette espèce représente un exemple remarquable de spéciation insulaire : isolée géographiquement, elle a évolué pour s'adapter aux conditions particulières des montagnes haïtiennes. Son aire de distribution extrêmement restreinte la rend particulièrement vulnérable aux perturbations environnementales. L'espèce colonise les formations forestières d'altitude, où elle joue probablement un rôle écologique important dans les chaînes alimentaires locales, bien que les interactions spécifiques restent peu documentées."
+  },
+  "usages": {
+    "usages_ethnobotaniques": "V. saepium occupe une place particulière dans la pharmacopée traditionnelle des Départements du Sud et de la Grand'Anse. Les feuilles et les tiges sont utilisées selon deux modalités principales documentées dans ces régions : en bains rituels et en thé, spécifiquement pour « chasser les mauvais esprits » — usage qui témoigne de l'importance spirituelle de cette espèce endémique. Le mode de préparation traditionnel repose sur la décoction : les parties végétales sont bouillies pour extraire les principes actifs amers. Cette méthode permet de concentrer les sesquiterpènes lactoniques et les autres composés bioactifs. L'usage comme anti-inflammatoire, hypotenseur, diurétique, cicatrisant et antiparasitaire est également documenté en médecine traditionnelle locale. Occasionnellement, les feuilles sont consommées comme « légume amer », bien que l'usage médicinal reste dominant.",
+    "systemes_concernes": "Digestif"
+  },
+  "pharmacologie": {
+    "molecules": "La saveur amère intense de V. saepium provient principalement de sesquiterpènes lactoniques, notamment la vernodaline, qui imprègnent particulièrement les feuilles et les tiges. Ces composés amers constituent un système de défense chimique sophistiqué : ils découragent l'herbivorie tout en conférant à la plante ses propriétés anti-inflammatoires remarquables. Les feuilles concentrent également des flavonoïdes responsables de leur résistance aux rayonnements UV intenses des hautes altitudes, ainsi que des tanins qui contribuent à leur action hémostatique traditionnelle. Les principaux composés secondaires identifiés dans V. saepium comprennent : des sesquiterpènes lactoniques (vernodaline et apparentés) aux propriétés anti-inflammatoires et antiparasitaires, des flavonoïdes photoprotecteurs, des tanins astringents et hémostatiques, des saponines aux effets moussants et purifiants, et des coumarines aromatiques (Pharmacia Pensoft). Ces molécules remplissent des fonctions de défense précises pour la plante en haute altitude. Les sesquiterpènes lactoniques protègent contre les pathogènes fongiques fréquents en climat humide de montagne et altèrent les membranes cellulaires des parasites végétaux. Les flavonoïdes filtrent les rayonnements UV intenses, particulièrement dangereux en altitude. Les tanins protègent contre les herbivores par leur astringence. Ces mêmes composés, une fois ingérés ou appliqués par l'humain, produisent les effets biologiques documentés : inhibition de l'inflammation, action hémostatique sur les plaies, et propriétés hypotensives observées en médecine populaire.",
+    "posologie": "La posologie traditionnelle documentée dans les Départements du Sud et de la Grand'Anse repose sur l'infusion de feuilles à raison d'environ 5 grammes par litre d'eau, administrée 1 à 2 fois par jour en médecine populaire. Cette posologie empirique n'a fait l'objet d'aucune validation clinique formelle. Aucune posologie cliniquement standardisée n'est disponible dans la littérature scientifique pour V. saepium, ce qui constitue une limitation importante pour un usage thérapeutique rationnel. Les dosages traditionnels varient selon les praticiens locaux et l'indication recherchée."
+  },
+  "nutrition": {
+    "introduction": "Vernonia saepium (syn. Lepidaploa saepium) est un arbuste endémique strict d'Haïti — c'est-à-dire qu'il n'existe nulle part ailleurs sur Terre. Il appartient à la famille des Astéracées, une famille très évoluée reconnue pour ses riches usages alimentaires, médicinaux et spirituels. Au sein de cette famille, il fait partie du genre Vernonia, un groupe d'arbustes tropicaux particulièrement riches en sesquiterpènes lactoniques et en flavonoïdes, réputés pour leurs propriétés anti-inflammatoires. Son usage dans les Départements du Sud et de la Grand'Anse est principalement médicinal et spirituel, à travers des bains rituels et des thés utilisés pour « chasser les mauvais esprits ». En raison de sa rareté extrême et de son aire de distribution ultra-restreinte au Massif de la Hotte, la conservation de cette espèce constitue un enjeu majeur pour préserver la pharmacopée traditionnelle haïtienne."
+  },
+  "toxicologie": {
+    "niveau": "",
+    "details": "V. saepium présente un profil de sécurité généralement favorable selon les observations traditionnelles. Aucune toxicité majeure n'est rapportée aux dosages usuels. Cependant, la prudence reste recommandée pendant la grossesse en raison de la présence de sesquiterpènes lactoniques, dont les effets sur le développement fœtal ne sont pas documentés. Un surdosage pourrait théoriquement provoquer une hypotension excessive, des diarrhées ou des irritations digestives liées à l'amertume intense des principes actifs. Les personnes souffrant d'hypotension chronique devraient éviter un usage prolongé. La récolte doit être particulièrement raisonnée compte tenu de la rareté extrême de l'espèce."
+  },
+  "conservation": {
+    "menaces": "L'état de conservation de V. saepium est critique. En tant qu'espèce endémique strict à aire de distribution ultra-restreinte, elle fait face à des menaces multiples : déforestation, agriculture sur brûlis, changement climatique affectant les écosystèmes d'altitude, et potentiellement surexploitation pour usage traditionnel. La dégradation des forêts du Massif de la Hotte constitue la menace principale. Des programmes de conservation ex situ et de multiplication contrôlée sont urgents pour préserver cette espèce unique au monde. La sensibilisation des communautés locales à sa rareté et l'établissement de zones protégées dans son habitat naturel représentent des priorités absolues.",
+    "valeur": "Actuellement, V. saepium n'a pas de valeur commerciale établie en raison de sa rareté et de son statut de conservation critique. Son usage reste confiné à la médecine traditionnelle locale. Paradoxalement, cette rareté pourrait conférer une valeur économique potentielle élevée dans le cadre de programmes d'écotourisme scientifique ou de valorisation de la pharmacopée endémique haïtienne. Le développement de toute filière économique devrait impérativement être subordonné à la restauration préalable des populations naturelles et à l'établissement de protocoles de récolte durable. L'espèce pourrait également présenter un intérêt pour la recherche pharmaceutique, à condition de préserver d'abord sa survie."
+  },
+  "recherche": {
+    "nb_articles": "",
+    "details": "Les recherches sur V. saepium sont limitées en raison de sa rareté et de son endémisme. Une cinquantaine d'articles scientifiques environ traitent de cette espèce, principalement axés sur sa taxonomie et sa distribution. Les perspectives de recherche prioritaires incluent : l'étude approfondie de ses composés bioactifs, la validation clinique de ses usages traditionnels, le développement de protocoles de multiplication ex situ, et l'évaluation de son potentiel pharmacologique. Des études écologiques sur ses interactions avec l'écosystème du Massif de la Hotte sont également nécessaires pour optimiser les stratégies de conservation. La recherche collaborative entre instituts haïtiens et internationaux pourrait accélérer ces investigations tout en renforçant les capacités locales.",
+    "lien_pubmed": "https://pubmed.ncbi.nlm.nih.gov/?term=Vernonia+saepium",
+    "lien_scholar": "https://scholar.google.com/scholar?q=Vernonia+saepium",
+    "lien_tramil": ""
+  },
+  "references": "Pharmacia Pensoft. Sesquiterpene lactones and bioactive compounds in Vernonia species. Accessible via : pharmacia.pensoft.net PubMed. Vernonia saepium research articles. Accessible via : https://pubmed.ncbi.nlm.nih.gov/?term=Vernonia+saepium Google Scholar. Vernonia saepium scientific literature. Accessible via : https://scholar.google.com/scholar?q=Vernonia+saepium",
+  "aRetenir": "🟢 À retenir — Premye beny, premye te : est une espece peu ou non etudiee scientifiquement. Les proprietes presentees reposent sur des analogies avec des especes proches et les usages traditionnels documentes localement. La conservation de cette espece prime sur toute valorisation. Les auteurs declinent toute responsabilite quant a un usage inapproprie.",
+  "images": {
+    "principale": "images/1711_Vernonia_saepium-001.jpg",
+    "galerie": [
+      "images/1711_Vernonia_saepium-001.jpg",
+      "images/1711_Vernonia_saepium-002.jpg"
+    ]
+  },
+  "source": "plantes_full.json"
+}

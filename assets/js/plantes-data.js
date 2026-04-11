@@ -1,8 +1,7 @@
-// Auto-generated from plantes_full.json — enriched database
-// 271 plantes — Atlas JBC-BRH
-// Dernière mise à jour : 10 avril 2026
-// Chemins images corrigés : /images/
-
+// Auto-generated — enriched database
+// 271 plantes — Atlas PMAA
+// Dernière mise à jour : 2026-04-11
+// Chemins images : /images/
 const plantesData = [
   {
     "id": 1,
@@ -50,7 +49,11 @@ const plantesData = [
     "nomAnglais": "",
     "familleDescription": "Les Acanthacées constituent une famille tropicale et subtropicale de près de 4 000 espèces réparties en 250 genres, principalement représentée par des herbes, des arbustes et quelques lianes. Cette famille se distingue par d'importants usages médicinaux à travers le monde, particulièrement dans les pharmacopées traditionnelles d'Afrique, d'Asie et d'Amérique tropicale. Les genres alimentaires sont rares dans cette famille, à l'exception de quelques espèces de Justicia utilisées comme légumes-feuilles en Afrique. Les genres médicinaux principaux incluent Andrographis (chirette verte), Justicia, Ruellia et Barleria, largement employés contre les troubles digestifs, urinaires et inflammatoires. Sur le plan ornemental, de nombreuses espèces sont cultivées pour leurs fleurs colorées. La signature phytochimique commune comprend des flavonoïdes (apigénine, lutéoline), des iridoïdes, des acanthosides et des composés phénoliques, ciblant préférentiellement les systèmes digestif et urinaire. Certaines espèces renferment des principes actifs puissants exigeant une préparation adéquate, bien que la famille soit généralement non toxique aux doses usuelles.",
     "familleImage": "11_Ruellia_tuberosa-001.jpg",
-    "familleNum": "1"
+    "familleNum": "1",
+    "usageType": "Médicinale",
+    "maladieSummary": "Digestif, Urinaire",
+    "toxBadgeText": "Non toxique",
+    "toxBadgeColor": "green"
   },
   {
     "id": 2,
@@ -96,7 +99,11 @@ const plantesData = [
     "nomAnglais": "Florida Elder",
     "familleDescription": "La famille des Adoxacées est principalement composée d'arbustes et de petits arbres, comptant environ 200 espèces réparties dans les régions tempérées et subtropicales du globe. Cette famille se distingue par des genres d'importance économique notable, notamment Sambucus (sureaux) largement utilisé en pharmacie traditionnelle et industrielle, et Viburnum, apprécié en horticulture ornementale. Les Adoxacées présentent une signature phytochimique remarquable dominée par les anthocyanes — particulièrement la sambucine — les flavonoïdes comme la rutine, la vitamine C en concentrations élevées, et divers acides phénoliques. Cette composition leur confère des propriétés biologiques ciblant préférentiellement les systèmes respiratoire et immunitaire, avec des activités antivirales et anti-inflammatoires documentées. Il convient toutefois d'exercer une vigilance particulière avec cette famille : si les fruits mûrs sont généralement comestibles et médicinaux, les parties vertes — feuilles, écorces, graines et baies immatures — contiennent des glycosides cyanogéniques potentiellement toxiques, exigeant une préparation adéquate et un dosage strict pour éviter tout risque d'intoxication.",
     "familleImage": "21_Sambucus_simpsonii-001.jpg",
-    "familleNum": "2"
+    "familleNum": "2",
+    "usageType": "Alimentaire et Médicinale",
+    "maladieSummary": "Respiratoire, Immunitaire",
+    "toxBadgeText": "Conditionnel",
+    "toxBadgeColor": "yellow"
   },
   {
     "id": 3,
@@ -145,7 +152,11 @@ const plantesData = [
     "nomAnglais": "Sea Purslane",
     "familleDescription": "Les Aizoacées constituent une famille cosmopolite de plus de 2 000 espèces, principalement composée d'herbes succulentes adaptées aux environnements arides et salins. Cette famille présente une distribution remarquable dans les zones côtières tropicales et subtropicales, avec des concentrations importantes en Afrique du Sud et dans les régions méditerranéennes. Sur le plan alimentaire, plusieurs genres comme Sesuvium et Tetragonia fournissent des légumes-feuilles nutritifs, particulièrement appréciés dans les cuisines côtières. Les genres Mesembryanthemum et Carpobrotus sont valorisés pour leurs propriétés médicinales traditionnelles, notamment dans le traitement des affections cutanées et digestives. La signature phytochimique des Aizoacées se caractérise par une forte concentration en sodium et minéraux marins, des ecdystéroïdes uniques, des flavonoïdes, des caroténoïdes et des acides gras essentiels, ciblant préférentiellement les systèmes rénal et digestif. Cette accumulation de sel constitue une adaptation remarquable à la vie littorale mais impose des précautions d'usage chez les personnes souffrant d'hypertension ou d'insuffisance rénale.",
     "familleImage": "31_Sesuvium_portulacastrum-001.jpg",
-    "familleNum": "3"
+    "familleNum": "3",
+    "usageType": "Alimentaire et Médicinale",
+    "maladieSummary": "Digestif",
+    "toxBadgeText": "Non toxique",
+    "toxBadgeColor": "green"
   },
   {
     "id": 4,
@@ -194,7 +205,11 @@ const plantesData = [
     "nomAnglais": "Devil's Horsewhip",
     "familleDescription": "Les Amaranthacées constituent une famille cosmopolite de plus de 2000 espèces, majoritairement composée d'herbes annuelles et vivaces, largement distribuées dans les régions tropicales et tempérées du globe. Cette famille présente une remarquable diversité d'usages : elle inclut des genres alimentaires majeurs comme Amaranthus (amarante), Chenopodium (chénopode), Beta (betterave) et Spinacia (épinard), ainsi que des genres médicinaux importants tels qu'Achyranthes, Celosia et Gomphrena. Sur le plan phytochimique, les Amaranthacées se distinguent par une signature dominée par les saponines triterpéniques (notamment l'acide oléanolique), les bétalaïnes (pigments colorés remplaçant les anthocyanes), l'achyranthine, et des concentrations élevées en potassium et autres minéraux. Cette composition chimique cible préférentiellement les systèmes urinaire, cutané et sanguin. Il convient cependant de noter une vigilance particulière concernant certains membres de cette famille : le genre Dysphania renferme des huiles essentielles riches en ascaridol potentiellement toxique, et plusieurs espèces accumulent des oxalates de calcium en concentrations significatives, exigeant une préparation adéquate.",
     "familleImage": "41_Achyranthes_aspera-001.jpg, 42_Amaranthus_caudatus-001.jpg, 43_Beta_vulgaris-001.jpg, 44_Dysphania_ambrosioides-001.jpg",
-    "familleNum": "4"
+    "familleNum": "4",
+    "usageType": "Alimentaire et Médicinale",
+    "maladieSummary": "Urinaire",
+    "toxBadgeText": "Non toxique",
+    "toxBadgeColor": "green"
   },
   {
     "id": 5,
@@ -241,7 +256,11 @@ const plantesData = [
     "nomAnglais": "Love-lies-bleeding",
     "familleDescription": "",
     "familleImage": "",
-    "familleNum": "4"
+    "familleNum": "4",
+    "usageType": "Alimentaire et Médicinale",
+    "maladieSummary": "Immunitaire",
+    "toxBadgeText": "Non toxique",
+    "toxBadgeColor": "green"
   },
   {
     "id": 6,
@@ -289,7 +308,11 @@ const plantesData = [
     "nomAnglais": "Beetroot",
     "familleDescription": "",
     "familleImage": "",
-    "familleNum": "4"
+    "familleNum": "4",
+    "usageType": "Alimentaire et Médicinale",
+    "maladieSummary": "Cardiovasculaire",
+    "toxBadgeText": "Non toxique",
+    "toxBadgeColor": "green"
   },
   {
     "id": 7,
@@ -336,7 +359,11 @@ const plantesData = [
     "nomAnglais": "Mexican Tea",
     "familleDescription": "",
     "familleImage": "",
-    "familleNum": "4"
+    "familleNum": "4",
+    "usageType": "Alimentaire et Médicinale",
+    "maladieSummary": "Digestif, Respiratoire, Nerveux",
+    "toxBadgeText": "Conditionnel",
+    "toxBadgeColor": "yellow"
   },
   {
     "id": 8,
@@ -382,7 +409,11 @@ const plantesData = [
     "nomAnglais": "Onion",
     "familleDescription": "Les Amaryllidacées constituent une famille cosmopolite de près de 1 600 espèces réparties en 75 genres, principalement représentées par des herbes bulbeuses ou rhizomateuses. Cette famille regroupe des genres alimentaires majeurs comme Allium (ail, oignon, poireau, ciboulette) qui constituent des épices fondamentales de la gastronomie mondiale, ainsi que des genres médicinaux traditionnels utilisés pour leurs propriétés respiratoires et digestives. Plusieurs genres — notamment Galanthus, Narcissus et Hippeastrum — sont cultivés comme plantes ornementales pour leurs fleurs spectaculaires. Sur le plan phytochimique, la famille se distingue par une signature dominée par la quercétine, les composés organosoufrés, les fructanes et la vitamine C, ciblant préférentiellement les systèmes digestif, respiratoire et urinaire. Une vigilance particulière s'impose car certains genres ornementaux — notamment Hippeastrum — renferment des alcaloïdes puissants comme la lycorine, exigeant une attention stricte quant aux confusions possibles avec les espèces alimentaires.",
     "familleImage": "51_Allium_cepa-001.jpg, 52_Allium_porrum-001.png, 53_Allium_sativum-001.jpg, 54_Hippeastrum_puniceum-001.jpg",
-    "familleNum": "5"
+    "familleNum": "5",
+    "usageType": "Alimentaire et Médicinale",
+    "maladieSummary": "Digestif, Respiratoire, Cardiovasculaire",
+    "toxBadgeText": "Non toxique",
+    "toxBadgeColor": "green"
   },
   {
     "id": 9,
@@ -429,7 +460,11 @@ const plantesData = [
     "nomAnglais": "Leek",
     "familleDescription": "",
     "familleImage": "",
-    "familleNum": "5"
+    "familleNum": "5",
+    "usageType": "Alimentaire et Médicinale",
+    "maladieSummary": "Digestif, Urinaire",
+    "toxBadgeText": "Non toxique",
+    "toxBadgeColor": "green"
   },
   {
     "id": 10,
@@ -478,7 +513,11 @@ const plantesData = [
     "nomAnglais": "Garlic",
     "familleDescription": "",
     "familleImage": "",
-    "familleNum": "5"
+    "familleNum": "5",
+    "usageType": "Alimentaire et Médicinale",
+    "maladieSummary": "Cardiovasculaire, Immunitaire",
+    "toxBadgeText": "Non toxique",
+    "toxBadgeColor": "green"
   },
   {
     "id": 11,
@@ -526,7 +565,11 @@ const plantesData = [
     "nomAnglais": "Barbados lily",
     "familleDescription": "",
     "familleImage": "",
-    "familleNum": "5"
+    "familleNum": "5",
+    "usageType": "Alimentaire et Médicinale",
+    "maladieSummary": "Tégumentaire",
+    "toxBadgeText": "Conditionnel",
+    "toxBadgeColor": "yellow"
   },
   {
     "id": 12,
@@ -574,7 +617,11 @@ const plantesData = [
     "nomAnglais": "Cashew",
     "familleDescription": "La famille des Anacardiacées regroupe environ 800 espèces réparties en 70 genres, principalement composées d'arbres tropicaux et subtropicaux, avec quelques arbustes. Cette famille cosmopolite des régions chaudes est particulièrement bien représentée en Amérique tropicale, en Afrique et en Asie du Sud-Est. Elle comprend de nombreuses espèces à haute valeur économique et alimentaire mondiale, notamment le cajou (Anacardium occidentale), la mangue (Mangifera indica), la pistache (Pistacia vera) et le sumac (Rhus). Les genres médicinaux principaux incluent Anacardium, Mangifera, Spondias et Schinus, largement utilisés pour leurs propriétés anti-inflammatoires, antimicrobiennes et astringentes. Sur le plan phytochimique, cette famille se distingue par une signature dominée par les tanins condensés, les acides anacardiques, les cardanols, les flavonoïdes et les terpènes, ciblant préférentiellement les systèmes digestif, tégumentaire et cutané. Une vigilance particulière s'impose car certains genres — notamment Comocladia et Metopium — produisent des résines urushiol extrêmement irritantes, pouvant provoquer des dermatites sévères similaires à celles du sumac vénéneux.",
     "familleImage": "61_Anacardium_occidentale-001.jpg, 62_Comocladia_pinnatifolia-001.jpg, 63_Mangifera_indica-001.jpg, 64_Spondias_mombin-001.jpg, 65_Spondias_purpurea-001.jpg",
-    "familleNum": "6"
+    "familleNum": "6",
+    "usageType": "Alimentaire et Médicinale",
+    "maladieSummary": "Digestif, Cardiovasculaire, Immunitaire",
+    "toxBadgeText": "Conditionnel",
+    "toxBadgeColor": "yellow"
   },
   {
     "id": 13,
@@ -621,7 +668,11 @@ const plantesData = [
     "nomAnglais": "Maiden Plum",
     "familleDescription": "",
     "familleImage": "",
-    "familleNum": "6"
+    "familleNum": "6",
+    "usageType": "Alimentaire et Médicinale",
+    "maladieSummary": "Tégumentaire",
+    "toxBadgeText": "Conditionnel",
+    "toxBadgeColor": "yellow"
   },
   {
     "id": 14,
@@ -668,7 +719,11 @@ const plantesData = [
     "nomAnglais": "Mango",
     "familleDescription": "",
     "familleImage": "",
-    "familleNum": "6"
+    "familleNum": "6",
+    "usageType": "Alimentaire et Médicinale",
+    "maladieSummary": "Digestif, Immunitaire, Oculaire",
+    "toxBadgeText": "Non toxique",
+    "toxBadgeColor": "green"
   },
   {
     "id": 15,
@@ -716,7 +771,11 @@ const plantesData = [
     "nomAnglais": "Hog Plum",
     "familleDescription": "",
     "familleImage": "",
-    "familleNum": "6"
+    "familleNum": "6",
+    "usageType": "Alimentaire et Médicinale",
+    "maladieSummary": "Digestif, Tégumentaire",
+    "toxBadgeText": "Non toxique",
+    "toxBadgeColor": "green"
   },
   {
     "id": 16,
@@ -762,7 +821,11 @@ const plantesData = [
     "nomAnglais": "Purple Mombin",
     "familleDescription": "",
     "familleImage": "",
-    "familleNum": "6"
+    "familleNum": "6",
+    "usageType": "Alimentaire et Médicinale",
+    "maladieSummary": "Digestif, Immunitaire",
+    "toxBadgeText": "Non toxique",
+    "toxBadgeColor": "green"
   },
   {
     "id": 17,
@@ -806,7 +869,11 @@ const plantesData = [
     "nomAnglais": "Pond apple",
     "familleDescription": "Les Annonacées forment une famille tropicale de plus de 2 400 espèces réparties en 135 genres, principalement représentée par des arbres et arbustes des régions chaudes du globe. Cette famille revêt une importance économique majeure avec des genres alimentaires de premier plan comme Annona (corossol, pomme cannelle, cachimant), ainsi que des espèces aromatiques précieuses telles qu'Ylang-ylang (Cananga odorata). Sur le plan médicinal, elle se distingue par une signature phytochimique unique dominée par les acétogénines — des composés bioactifs puissants ciblant préférentiellement les systèmes digestif, nerveux et cellulaire. Ces molécules s'accompagnent d'alcaloïdes isoquinoléiques, de flavonoïdes et de composés terpéniques volatils responsables des arômes caractéristiques. Cependant, cette richesse chimique exige une vigilance particulière : toutes les graines de la famille contiennent des acétogénines neurotoxiques potentiellement dangereuses, et certaines espèces comme Annona glabra présentent des risques de toxicité neurologique en cas d'usage prolongé ou mal dosé.",
     "familleImage": "72_Annona_muricata-001.jpg, 73_Annona_reticulata-001.jpg, 74_Annona_squamosa-001.jpg, 75_Cananga_odorata-001.jpg",
-    "familleNum": "7"
+    "familleNum": "7",
+    "usageType": "Alimentaire et Médicinale",
+    "maladieSummary": "Digestif, Respiratoire",
+    "toxBadgeText": "Conditionnel",
+    "toxBadgeColor": "yellow"
   },
   {
     "id": 18,
@@ -855,7 +922,11 @@ const plantesData = [
     "nomAnglais": "Soursop",
     "familleDescription": "",
     "familleImage": "",
-    "familleNum": "7"
+    "familleNum": "7",
+    "usageType": "Alimentaire et Médicinale",
+    "maladieSummary": "Digestif, Nerveux, Immunitaire",
+    "toxBadgeText": "Conditionnel",
+    "toxBadgeColor": "yellow"
   },
   {
     "id": 19,
@@ -902,7 +973,11 @@ const plantesData = [
     "nomAnglais": "Custard Apple",
     "familleDescription": "",
     "familleImage": "",
-    "familleNum": "7"
+    "familleNum": "7",
+    "usageType": "Alimentaire et Médicinale",
+    "maladieSummary": "Digestif",
+    "toxBadgeText": "Conditionnel",
+    "toxBadgeColor": "yellow"
   },
   {
     "id": 20,
@@ -949,7 +1024,11 @@ const plantesData = [
     "nomAnglais": "Sugar Apple",
     "familleDescription": "",
     "familleImage": "",
-    "familleNum": "7"
+    "familleNum": "7",
+    "usageType": "Alimentaire et Médicinale",
+    "maladieSummary": "Cardiovasculaire, Immunitaire, Tégumentaire",
+    "toxBadgeText": "Conditionnel",
+    "toxBadgeColor": "yellow"
   },
   {
     "id": 21,
@@ -996,7 +1075,11 @@ const plantesData = [
     "nomAnglais": "Ylang-ylang",
     "familleDescription": "",
     "familleImage": "",
-    "familleNum": "7"
+    "familleNum": "7",
+    "usageType": "Alimentaire et Médicinale",
+    "maladieSummary": "Nerveux, Cardiovasculaire",
+    "toxBadgeText": "Non toxique",
+    "toxBadgeColor": "green"
   },
   {
     "id": 22,
@@ -1042,7 +1125,11 @@ const plantesData = [
     "nomAnglais": "Celery",
     "familleDescription": "Dominant les écosystèmes tempérés et méditerranéens avec plus de 3 700 espèces réparties en 434 genres, les Apiacées constituent l'une des familles les plus reconnaissables du règne végétal grâce à leurs inflorescences caractéristiques en ombelles. Cette vaste famille rassemble principalement des herbes annuelles et vivaces, incluant de nombreuses espèces d'importance culinaire majeure comme le persil (Petroselinum crispum), la carotte (Daucus carota), le fenouil (Foeniculum vulgare) et la coriandre (Coriandrum sativum). Sur le plan médicinal, elle offre des genres thérapeutiques de premier plan : Centella pour la cicatrisation et la circulation, Daucus pour les affections urinaires, et Foeniculum pour les troubles digestifs. Les Apiacées se distinguent par une richesse phytochimique exceptionnelle dominée par les huiles essentielles terpéniques, les flavonoïdes (particulièrement l'apigénine), les coumarines et les polyacétylènes, ciblant préférentiellement les systèmes urinaire, digestif et tégumentaire. Cependant, cette famille exige une vigilance absolue : certains genres comme Conium et Cicuta renferment des alcaloïdes mortels, rendant l'identification botanique rigoureuse indispensable avant tout usage.",
     "familleImage": "81_Apium_graveolens-001.jpg, 82_Centella_asiatica-001.jpg, 83_Daucus_carota-001.jpg, 84_Eryngium_foetidum-001.jpg, 85_Foeniculum_vulgare-001.jpg, 86_Petroselinum_crispum-001.jpg",
-    "familleNum": "8"
+    "familleNum": "8",
+    "usageType": "Alimentaire et Médicinale",
+    "maladieSummary": "Digestif, Urinaire, Cardiovasculaire",
+    "toxBadgeText": "Non toxique",
+    "toxBadgeColor": "green"
   },
   {
     "id": 23,
@@ -1089,7 +1176,11 @@ const plantesData = [
     "nomAnglais": "Gotu Kola",
     "familleDescription": "",
     "familleImage": "",
-    "familleNum": "8"
+    "familleNum": "8",
+    "usageType": "Alimentaire et Médicinale",
+    "maladieSummary": "Nerveux, Tégumentaire",
+    "toxBadgeText": "Non toxique",
+    "toxBadgeColor": "green"
   },
   {
     "id": 24,
@@ -1136,7 +1227,11 @@ const plantesData = [
     "nomAnglais": "Carrot",
     "familleDescription": "",
     "familleImage": "",
-    "familleNum": "8"
+    "familleNum": "8",
+    "usageType": "Alimentaire et Médicinale",
+    "maladieSummary": "Tégumentaire, Oculaire",
+    "toxBadgeText": "Non toxique",
+    "toxBadgeColor": "green"
   },
   {
     "id": 25,
@@ -1183,7 +1278,11 @@ const plantesData = [
     "nomAnglais": "Culantro",
     "familleDescription": "",
     "familleImage": "",
-    "familleNum": "8"
+    "familleNum": "8",
+    "usageType": "Alimentaire et Médicinale",
+    "maladieSummary": "Digestif, Respiratoire",
+    "toxBadgeText": "Non toxique",
+    "toxBadgeColor": "green"
   },
   {
     "id": 26,
@@ -1229,7 +1328,11 @@ const plantesData = [
     "nomAnglais": "Fennel",
     "familleDescription": "",
     "familleImage": "",
-    "familleNum": "8"
+    "familleNum": "8",
+    "usageType": "Alimentaire et Médicinale",
+    "maladieSummary": "Digestif, Reproducteur",
+    "toxBadgeText": "Non toxique",
+    "toxBadgeColor": "green"
   },
   {
     "id": 27,
@@ -1275,7 +1378,11 @@ const plantesData = [
     "nomAnglais": "Parsley",
     "familleDescription": "",
     "familleImage": "",
-    "familleNum": "8"
+    "familleNum": "8",
+    "usageType": "Alimentaire et Médicinale",
+    "maladieSummary": "Urinaire",
+    "toxBadgeText": "Non toxique",
+    "toxBadgeColor": "green"
   },
   {
     "id": 28,
@@ -1323,7 +1430,11 @@ const plantesData = [
     "nomAnglais": "Caribbean Milkweed",
     "familleDescription": "Les Apocynacées constituent une remarquable famille de plantes tropicales et subtropicales comprenant environ 5000 espèces réparties en 366 genres. Cette famille rassemble principalement des herbes, arbustes et arbres à latex, dont certains sont devenus emblématiques des jardins créoles comme le frangipanier (Plumeria) et le laurier-rose (Nerium). Au niveau alimentaire, peu d'espèces sont comestibles en raison de leur latex généralement toxique. En revanche, cette famille révèle une valeur médicinale exceptionnelle : Catharanthus roseus fournit la vincristine et vinblastine utilisées en chimiothérapie, tandis que diverses espèces d'Asclepias servent traditionnellement pour les affections cutanées. Sur le plan phytochimique, les Apocynacées se distinguent par leur signature moléculaire dominée par des glycosides cardiotoniques puissants (digitaline, oléandrine, thévetine), des alcaloïdes indoliques, des iridoïdes et un latex riche en triterpènes. Ces composés ciblent préférentiellement les systèmes cardiovasculaire, tégumentaire et nerveux. Attention cruciale : plusieurs genres comme Nerium, Thevetia et Adenium renferment des cardénolides mortels même à faible dose, exigeant une vigilance absolue lors de toute manipulation.",
     "familleImage": "91_Asclepias_nivea-001.jpg, 92_Calotropis_procera-001.jpg, 93_Catharanthus_roseus-001.jpg, 94_Nerium_oleander-001.jpg, 95_Plumeria_subsessilis-001.jpg, 96_Tabernaemontana_citrifolia-001.jpg, 97_Thevetia_peruviana-001.jpg",
-    "familleNum": "9"
+    "familleNum": "9",
+    "usageType": "Médicinale",
+    "maladieSummary": "Tégumentaire",
+    "toxBadgeText": "Non toxique",
+    "toxBadgeColor": "green"
   },
   {
     "id": 29,
@@ -1371,7 +1482,11 @@ const plantesData = [
     "nomAnglais": "Apple of Sodom",
     "familleDescription": "",
     "familleImage": "",
-    "familleNum": "9"
+    "familleNum": "9",
+    "usageType": "Médicinale",
+    "maladieSummary": "",
+    "toxBadgeText": "Non toxique",
+    "toxBadgeColor": "green"
   },
   {
     "id": 30,
@@ -1419,7 +1534,11 @@ const plantesData = [
     "nomAnglais": "Madagascar Periwinkle",
     "familleDescription": "",
     "familleImage": "",
-    "familleNum": "9"
+    "familleNum": "9",
+    "usageType": "Alimentaire et Médicinale",
+    "maladieSummary": "",
+    "toxBadgeText": "Non toxique",
+    "toxBadgeColor": "green"
   },
   {
     "id": 31,
@@ -1467,7 +1586,11 @@ const plantesData = [
     "nomAnglais": "Oleander",
     "familleDescription": "",
     "familleImage": "",
-    "familleNum": "9"
+    "familleNum": "9",
+    "usageType": "Médicinale",
+    "maladieSummary": "Digestif",
+    "toxBadgeText": "Toxique",
+    "toxBadgeColor": "red"
   },
   {
     "id": 32,
@@ -1514,7 +1637,11 @@ const plantesData = [
     "nomAnglais": "Frangipani",
     "familleDescription": "",
     "familleImage": "",
-    "familleNum": "9"
+    "familleNum": "9",
+    "usageType": "Médicinale",
+    "maladieSummary": "Digestif, Tégumentaire",
+    "toxBadgeText": "Non toxique",
+    "toxBadgeColor": "green"
   },
   {
     "id": 33,
@@ -1561,7 +1688,11 @@ const plantesData = [
     "nomAnglais": "Milkwood",
     "familleDescription": "",
     "familleImage": "",
-    "familleNum": "9"
+    "familleNum": "9",
+    "usageType": "Médicinale",
+    "maladieSummary": "",
+    "toxBadgeText": "Non toxique",
+    "toxBadgeColor": "green"
   },
   {
     "id": 34,
@@ -1608,7 +1739,11 @@ const plantesData = [
     "nomAnglais": "Yellow Oleander",
     "familleDescription": "",
     "familleImage": "",
-    "familleNum": "9"
+    "familleNum": "9",
+    "usageType": "Médicinale",
+    "maladieSummary": "Cardiovasculaire",
+    "toxBadgeText": "Toxique",
+    "toxBadgeColor": "red"
   },
   {
     "id": 35,
@@ -1652,7 +1787,11 @@ const plantesData = [
     "nomAnglais": "Giant Taro",
     "familleDescription": "Dominant les régions tropicales humides avec près de 4000 espèces réparties en 140 genres, les Aracées constituent l'une des familles botaniques les plus remarquables par la diversité de leurs formes biologiques — depuis les petites lentilles d'eau flottantes jusqu'aux imposantes lianes épiphytes des canopées forestières. Cette famille se distingue par ses inflorescences caractéristiques en spadice, souvent protégées par une spathe colorée. Sur le plan alimentaire, plusieurs genres fournissent des tubercules riches en amidon — notamment Colocasia (malanga), Xanthosoma (chou caraïbe) et Alocasia — constituant des ressources énergétiques importantes dans les régions tropicales. Médicinalement, la famille exprime une signature phytochimique dominée par les raphides d'oxalate de calcium, les lectines, les saponines et divers alcaloïdes, ciblant préférentiellement les systèmes tégumentaire et musculo-squelettique. ⚠️ Attention cruciale : toutes les espèces contiennent des cristaux d'oxalate de calcium causant des brûlures buccales intenses si consommées crues. Les genres Philodendron et Dieffenbachia présentent une toxicité particulièrement marquée, exigeant une vigilance absolue.",
     "familleImage": "102_Colocasia_esculenta-001.jpg, 103_Philodendron_consanguineum-001.jpg, 104_Pistia_stratiotes-001.jpg",
-    "familleNum": "10"
+    "familleNum": "10",
+    "usageType": "Alimentaire et Médicinale",
+    "maladieSummary": "Tégumentaire",
+    "toxBadgeText": "Conditionnel",
+    "toxBadgeColor": "yellow"
   },
   {
     "id": 36,
@@ -1699,7 +1838,11 @@ const plantesData = [
     "nomAnglais": "Taro",
     "familleDescription": "",
     "familleImage": "",
-    "familleNum": "10"
+    "familleNum": "10",
+    "usageType": "Alimentaire et Médicinale",
+    "maladieSummary": "",
+    "toxBadgeText": "Conditionnel",
+    "toxBadgeColor": "yellow"
   },
   {
     "id": 37,
@@ -1745,7 +1888,11 @@ const plantesData = [
     "nomAnglais": "Philodendron",
     "familleDescription": "",
     "familleImage": "",
-    "familleNum": "10"
+    "familleNum": "10",
+    "usageType": "Alimentaire et Médicinale",
+    "maladieSummary": "",
+    "toxBadgeText": "Non toxique",
+    "toxBadgeColor": "green"
   },
   {
     "id": 38,
@@ -1793,7 +1940,11 @@ const plantesData = [
     "nomAnglais": "Water Lettuce",
     "familleDescription": "",
     "familleImage": "",
-    "familleNum": "10"
+    "familleNum": "10",
+    "usageType": "Alimentaire et Médicinale",
+    "maladieSummary": "Tégumentaire",
+    "toxBadgeText": "Non toxique",
+    "toxBadgeColor": "green"
   },
   {
     "id": 39,
@@ -1842,7 +1993,11 @@ const plantesData = [
     "nomAnglais": "Angelica tree",
     "familleDescription": "Dominant les forêts tropicales d'altitude moyenne à élevée, les Araliacées constituent une famille de près de 1 500 espèces réparties en une cinquantaine de genres, principalement composée d'arbustes et d'arbres aromatiques. Cette famille tropicale et subtropicale se distingue par ses riches usages médicinaux et spirituels, particulièrement développés dans les traditions caribéennes et centre-américaines. Les genres à vocation médicinale incluent Dendropanax — utilisé pour ses propriétés anti-inflammatoires et hypotenseurs —, Schefflera — reconnu en médecine traditionnelle asiatique — et Polyscias — employé contre les troubles digestifs. Le genre Panax, célèbre pour le ginseng, représente l'usage le plus documenté de cette famille. Sur le plan phytochimique, les Araliacées expriment une signature dominée par les saponines triterpéniques, les polyacétylènes comme le falcarinol, les flavonoïdes et les huiles essentielles terpéniques. Ces composés ciblent préférentiellement les systèmes nerveux et tégumentaire, expliquant l'usage traditionnel de nombreuses espèces dans les bains rituels et les applications cutanées. Une vigilance s'impose car certaines espèces renferment des principes actifs puissants pouvant causer des troubles digestifs ou des réactions cutanées en cas de surdosage.",
     "familleImage": "111_Dendropanax_arboreus-001.jpg, 112_Polyscias_pinnata-001.png, 113_Schefflera_tremula-001.jpg",
-    "familleNum": "11"
+    "familleNum": "11",
+    "usageType": "Médicinale",
+    "maladieSummary": "Tégumentaire",
+    "toxBadgeText": "Non toxique",
+    "toxBadgeColor": "green"
   },
   {
     "id": 40,
@@ -1889,7 +2044,11 @@ const plantesData = [
     "nomAnglais": "Geranium Aralia",
     "familleDescription": "",
     "familleImage": "",
-    "familleNum": "11"
+    "familleNum": "11",
+    "usageType": "Alimentaire et Médicinale",
+    "maladieSummary": "Nerveux",
+    "toxBadgeText": "Non toxique",
+    "toxBadgeColor": "green"
   },
   {
     "id": 41,
@@ -1936,7 +2095,11 @@ const plantesData = [
     "nomAnglais": "-",
     "familleDescription": "",
     "familleImage": "",
-    "familleNum": "11"
+    "familleNum": "11",
+    "usageType": "Médicinale",
+    "maladieSummary": "Nerveux",
+    "toxBadgeText": "Non toxique",
+    "toxBadgeColor": "green"
   },
   {
     "id": 42,
@@ -1985,7 +2148,11 @@ const plantesData = [
     "nomAnglais": "Dutchman's Pipe",
     "familleDescription": "Reconnues pour leurs propriétés médicinales puissantes mais dangereuses, les Aristolochiacées constituent une famille botanique de distribution tropicale comprenant environ 500 espèces réparties en 7 genres principaux. Ces plantes, majoritairement des lianes grimpantes comme Aristolochia, possèdent une signature phytochimique dominée par les acides aristolochiques, des molécules aux effets thérapeutiques traditionnels mais désormais classées cancérigènes de groupe 1 par le Centre International de Recherche sur le Cancer. Les lignanes, terpènes et alcaloïdes complètent ce profil chimique complexe, ciblant historiquement les systèmes reproducteur et urinaire dans les pharmacopées traditionnelles. Le genre Aristolochia, présent dans les Départements du Sud et de la Grand'Anse, illustre parfaitement cette dualité entre potentiel thérapeutique et toxicité majeure. La famille renferme également des genres comme Asarum, utilisés en médecine traditionnelle asiatique, et Thottea, exploités en Asie du Sud-Est. L'usage interne de ces plantes est formellement déconseillé par les autorités sanitaires internationales en raison des néphropathies irréversibles et des cancers urothéliaux documentés chez l'humain.",
     "familleImage": "121_Aristolochia_bilobata-001.jpg",
-    "familleNum": "12"
+    "familleNum": "12",
+    "usageType": "Médicinale",
+    "maladieSummary": "Urinaire, Reproducteur",
+    "toxBadgeText": "Non toxique",
+    "toxBadgeColor": "green"
   },
   {
     "id": 43,
@@ -2029,7 +2196,11 @@ const plantesData = [
     "nomAnglais": "Fishtail Palm",
     "familleDescription": "Dominant les paysages tropicaux avec leurs silhouettes emblématiques, les Arécacées rassemblent environ 2600 espèces de palmiers réparties dans 181 genres mondiaux. Cette famille revêt une importance capitale dans les Départements du Sud et de la Grand'Anse, tant par ses usages alimentaires — notamment le cocotier (Cocos nucifera) et ses multiples dérivés — que par ses applications ornementales avec des espèces comme Caryota mitis et diverses autres variétés de palmiers décoratifs. Sur le plan médicinal, plusieurs genres sont valorisés : Cocos pour ses propriétés digestives et cutanées, Phoenix pour ses dattes nutritives, et Caryota pour ses usages diurétiques traditionnels. La signature phytochimique de cette famille se caractérise par une dominance d'acides gras saturés (acide laurique, palmitique), d'amidon, de fibres, ainsi que des flavonoïdes et composés phénoliques, ciblant préférentiellement les systèmes cutané, digestif et tégumentaire. Il convient de noter que certaines espèces du genre Caryota contiennent des oxalates de calcium irritants dans leurs tissus, exigeant des précautions particulières lors de leur manipulation et utilisation.",
     "familleImage": "132_Cocos_nucifera-002.jpg, 133_Roystonea_regia-001.jpg",
-    "familleNum": "13"
+    "familleNum": "13",
+    "usageType": "Alimentaire et Médicinale",
+    "maladieSummary": "Urinaire",
+    "toxBadgeText": "Conditionnel",
+    "toxBadgeColor": "yellow"
   },
   {
     "id": 44,
@@ -2078,7 +2249,11 @@ const plantesData = [
     "nomAnglais": "Coconut Palm",
     "familleDescription": "",
     "familleImage": "",
-    "familleNum": "13"
+    "familleNum": "13",
+    "usageType": "Alimentaire et Médicinale",
+    "maladieSummary": "Digestif, Tégumentaire",
+    "toxBadgeText": "Non toxique",
+    "toxBadgeColor": "green"
   },
   {
     "id": 45,
@@ -2124,7 +2299,11 @@ const plantesData = [
     "nomAnglais": "Royal Palm",
     "familleDescription": "",
     "familleImage": "",
-    "familleNum": "13"
+    "familleNum": "13",
+    "usageType": "Alimentaire et Médicinale",
+    "maladieSummary": "Urinaire, Cardiovasculaire",
+    "toxBadgeText": "Non toxique",
+    "toxBadgeColor": "green"
   },
   {
     "id": 46,
@@ -2168,7 +2347,11 @@ const plantesData = [
     "nomAnglais": "Agave",
     "familleDescription": "Les Asparagacées rassemblent près de 3 000 espèces réparties en 114 genres, constituant une famille cosmopolite principalement composée d'herbes succulentes, de lianes et d'arbustes. Cette famille renferme plusieurs genres d'importance économique majeure, notamment Asparagus (asperge commune), cultivé pour ses jeunes pousses comestibles riches en fibres et en vitamines. Les genres à vocation médicinale incluent Aloe — dont l'aloès (Aloe vera) est mondialement réputé pour ses propriétés cicatrisantes —, Sansevieria utilisé traditionnellement pour les affections respiratoires, et Agave exploité pour ses fibres et ses propriétés antiseptiques. Sur le plan ornemental, Dracaena et Cordyline dominent le marché des plantes d'intérieur. Cette famille se caractérise phytochimiquement par une richesse exceptionnelle en saponines stéroïdiennes, en fructanes de type inuline et en flavonoïdes, ciblant préférentiellement les systèmes tégumentaire et digestif. Une vigilance particulière s'impose cependant : plusieurs genres comme Agave produisent des sèves irritantes, tandis qu'Aloe contient un latex purgatif puissant contre-indiqué durant la grossesse.",
     "familleImage": "142_Agave_sisalana-001.jpg, 143_Sansevieria_hyacinthoides-001.jpg",
-    "familleNum": "14"
+    "familleNum": "14",
+    "usageType": "Médicinale",
+    "maladieSummary": "Tégumentaire",
+    "toxBadgeText": "Non toxique",
+    "toxBadgeColor": "green"
   },
   {
     "id": 47,
@@ -2214,7 +2397,11 @@ const plantesData = [
     "nomAnglais": "Sisal",
     "familleDescription": "",
     "familleImage": "",
-    "familleNum": "14"
+    "familleNum": "14",
+    "usageType": "Médicinale",
+    "maladieSummary": "Tégumentaire",
+    "toxBadgeText": "Non toxique",
+    "toxBadgeColor": "green"
   },
   {
     "id": 48,
@@ -2263,7 +2450,11 @@ const plantesData = [
     "nomAnglais": "Snake Plant",
     "familleDescription": "",
     "familleImage": "",
-    "familleNum": "14"
+    "familleNum": "14",
+    "usageType": "Médicinale",
+    "maladieSummary": "Cardiovasculaire",
+    "toxBadgeText": "Non toxique",
+    "toxBadgeColor": "green"
   },
   {
     "id": 49,
@@ -2307,7 +2498,11 @@ const plantesData = [
     "nomAnglais": "Aloe Vera",
     "familleDescription": "Reconnues pour leur succulence et leurs propriétés médicinales exceptionnelles, les Asphodeélacées rassemblent environ 900 espèces réparties en 40 genres, principalement des herbes charnues adaptées aux climats arides. Cette famille cosmopolite comprend des genres alimentaires comme Asphodelus, cultivé pour ses racines féculentes en Méditerranée, et surtout le célèbre genre Aloe, pilier de la pharmacopée traditionnelle mondiale. Les genres à vocation médicinale dominent cette famille : Aloe pour la dermatologie et la gastro-entérologie, Haworthia et Gasteria pour leurs usages topiques, Kniphofia pour ses propriétés anti-inflammatoires. Sur le plan phytochimique, les Asphodeélacées se distinguent par une signature unique combinant des anthraquinones purgatives (aloïne, barboïne), des polysaccharides mucilagineux (acémannane) aux propriétés cicatrisantes, ainsi que des vitamines et minéraux concentrés. Ces composés ciblent préférentiellement les systèmes tégumentaire et digestif. Une vigilance particulière s'impose car le latex de nombreuses espèces renferme des anthraquinones à effet purgatif puissant, contre-indiquées chez la femme enceinte et en cas de pathologies intestinales.",
     "familleImage": "",
-    "familleNum": "15"
+    "familleNum": "15",
+    "usageType": "Médicinale",
+    "maladieSummary": "Digestif, Tégumentaire",
+    "toxBadgeText": "Conditionnel",
+    "toxBadgeColor": "yellow"
   },
   {
     "id": 50,
@@ -2356,7 +2551,11 @@ const plantesData = [
     "nomAnglais": "-",
     "familleDescription": "Les Astéracées représentent l'une des plus vastes familles botaniques au monde, rassemblant plus de 23 000 espèces réparties dans près de 1 600 genres. Cette famille cosmopolite se distingue par sa remarquable diversité morphologique — allant des herbes annuelles aux arbres — et par son architecture florale caractéristique : les fleurs individuelles sont regroupées en capitules denses qui simulent une fleur unique. En Haïti, cette famille comprend de nombreuses espèces alimentaires comme la laitue sauvage et les épinards-pays, ainsi que des plantes médicinales traditionnelles utilisées pour traiter les affections respiratoires et ORL. Sur le plan phytochimique, les Astéracées se caractérisent par une signature dominée par l'acide chlorogénique, la quercétine, la lutéoline et de nombreux autres flavonoïdes, ciblant préférentiellement les systèmes respiratoire, musculo-squelettique et ORL. Il convient cependant de signaler que certains genres — notamment Senecio et ses proches parents — renferment des alcaloïdes pyrrolizidiniques potentiellement hépatotoxiques, exigeant une vigilance particulière dans leur identification et leur usage.",
     "familleImage": "161_Elekmania_stenodon-001.jpg, 163_Gnaphalium_domingense-001.jpg, 164_Pluchea_carolinensis-001.jpg",
-    "familleNum": "16"
+    "familleNum": "16",
+    "usageType": "Médicinale",
+    "maladieSummary": "Respiratoire, Immunitaire",
+    "toxBadgeText": "Toxique",
+    "toxBadgeColor": "red"
   },
   {
     "id": 51,
@@ -2400,7 +2599,11 @@ const plantesData = [
     "nomAnglais": "Spoonleaf purple everlasting",
     "familleDescription": "",
     "familleImage": "",
-    "familleNum": "16"
+    "familleNum": "16",
+    "usageType": "Médicinale",
+    "maladieSummary": "Respiratoire",
+    "toxBadgeText": "Non toxique",
+    "toxBadgeColor": "green"
   },
   {
     "id": 52,
@@ -2447,7 +2650,11 @@ const plantesData = [
     "nomAnglais": "-",
     "familleDescription": "",
     "familleImage": "",
-    "familleNum": "16"
+    "familleNum": "16",
+    "usageType": "Alimentaire et Médicinale",
+    "maladieSummary": "Respiratoire",
+    "toxBadgeText": "Non toxique",
+    "toxBadgeColor": "green"
   },
   {
     "id": 53,
@@ -2496,7 +2703,11 @@ const plantesData = [
     "nomAnglais": "Cure-for-all",
     "familleDescription": "",
     "familleImage": "",
-    "familleNum": "16"
+    "familleNum": "16",
+    "usageType": "Alimentaire et Médicinale",
+    "maladieSummary": "",
+    "toxBadgeText": "Non toxique",
+    "toxBadgeColor": "green"
   },
   {
     "id": 54,
@@ -2542,7 +2753,11 @@ const plantesData = [
     "nomAnglais": "Wormwood",
     "familleDescription": "Dominant la flore mondiale avec plus de 25 000 espèces réparties en 1 600 genres, les Astéracées constituent la plus vaste famille de plantes à fleurs de la planète. Cette famille hautement évoluée regroupe principalement des herbes, des arbustes et quelques lianes, facilement reconnaissables par leurs inflorescences caractéristiques en capitules — comme celles du tournesol ou de la marguerite. En Haïti, cette famille offre des genres alimentaires remarquables tels que la laitue sauvage (Lactuca) et le pissenlit (Taraxacum), aux côtés de genres médicinaux majeurs comme l'armoise (Artemisia), l'ageratum (Ageratum) et la vernonie (Vernonia). Sur le plan aromatique, les genres Chromolaena et Ageratum parfument les préparations rituelles traditionnelles. Phytochimiquement, cette famille se distingue par sa richesse en lactones sesquiterpéniques anti-inflammatoires, en flavonoïdes antioxydants et en inuline prébiotique, ciblant préférentiellement les systèmes digestif, respiratoire et nerveux. Une vigilance particulière s'impose cependant : certains genres comme Heliotropium renferment des alcaloïdes pyrrolizidiniques hépatotoxiques, tandis que Parthenium et Chromolaena peuvent provoquer des dermites de contact sévères.",
     "familleImage": "171_Artemisia_annua-001.jpg, 172_Bidens_pilosa-001.jpg, 173_Chromolaena_odorata-001.jpg, 174_Lactuca_sativa-001.jpg, 175_Mikania_micrantha-001.jpg, 176_Neurolaena_lobata-001.jpg, 177_Parthenium_hysterophorus-001.jpg, 178_Porophyllum_ruderale-001.jpg, 179_Sphagneticola_trilobata-001.jpg, 1710_Tagetes_patula-001.jpg, 1711_Vernonia_saepium-001.jpg",
-    "familleNum": "17"
+    "familleNum": "17",
+    "usageType": "Médicinale",
+    "maladieSummary": "Digestif",
+    "toxBadgeText": "Non toxique",
+    "toxBadgeColor": "green"
   },
   {
     "id": 55,
@@ -2589,7 +2804,11 @@ const plantesData = [
     "nomAnglais": "Beggar's Ticks",
     "familleDescription": "",
     "familleImage": "",
-    "familleNum": "17"
+    "familleNum": "17",
+    "usageType": "Alimentaire et Médicinale",
+    "maladieSummary": "Respiratoire, Immunitaire",
+    "toxBadgeText": "Non toxique",
+    "toxBadgeColor": "green"
   },
   {
     "id": 56,
@@ -2636,7 +2855,11 @@ const plantesData = [
     "nomAnglais": "Siam Weed",
     "familleDescription": "",
     "familleImage": "",
-    "familleNum": "17"
+    "familleNum": "17",
+    "usageType": "Alimentaire et Médicinale",
+    "maladieSummary": "Respiratoire, Tégumentaire",
+    "toxBadgeText": "Non toxique",
+    "toxBadgeColor": "green"
   },
   {
     "id": 57,
@@ -2682,7 +2905,11 @@ const plantesData = [
     "nomAnglais": "Lettuce",
     "familleDescription": "",
     "familleImage": "",
-    "familleNum": "17"
+    "familleNum": "17",
+    "usageType": "Alimentaire et Médicinale",
+    "maladieSummary": "Digestif, Nerveux",
+    "toxBadgeText": "Non toxique",
+    "toxBadgeColor": "green"
   },
   {
     "id": 58,
@@ -2728,7 +2955,11 @@ const plantesData = [
     "nomAnglais": "Bitter Vine",
     "familleDescription": "",
     "familleImage": "",
-    "familleNum": "17"
+    "familleNum": "17",
+    "usageType": "Médicinale",
+    "maladieSummary": "Respiratoire",
+    "toxBadgeText": "Non toxique",
+    "toxBadgeColor": "green"
   },
   {
     "id": 59,
@@ -2777,7 +3008,11 @@ const plantesData = [
     "nomAnglais": "Jackass Bitters",
     "familleDescription": "",
     "familleImage": "",
-    "familleNum": "17"
+    "familleNum": "17",
+    "usageType": "Alimentaire et Médicinale",
+    "maladieSummary": "Immunitaire, Hépatique",
+    "toxBadgeText": "Non toxique",
+    "toxBadgeColor": "green"
   },
   {
     "id": 60,
@@ -2826,7 +3061,11 @@ const plantesData = [
     "nomAnglais": "Whitetop Weed",
     "familleDescription": "",
     "familleImage": "",
-    "familleNum": "17"
+    "familleNum": "17",
+    "usageType": "Alimentaire et Médicinale",
+    "maladieSummary": "",
+    "toxBadgeText": "Non toxique",
+    "toxBadgeColor": "green"
   },
   {
     "id": 61,
@@ -2873,7 +3112,11 @@ const plantesData = [
     "nomAnglais": "Bolivian Coriander",
     "familleDescription": "",
     "familleImage": "",
-    "familleNum": "17"
+    "familleNum": "17",
+    "usageType": "Alimentaire et Médicinale",
+    "maladieSummary": "Digestif, Nerveux",
+    "toxBadgeText": "Non toxique",
+    "toxBadgeColor": "green"
   },
   {
     "id": 62,
@@ -2920,7 +3163,11 @@ const plantesData = [
     "nomAnglais": "Wedelia",
     "familleDescription": "",
     "familleImage": "",
-    "familleNum": "17"
+    "familleNum": "17",
+    "usageType": "Alimentaire et Médicinale",
+    "maladieSummary": "Tégumentaire, Reproducteur",
+    "toxBadgeText": "Non toxique",
+    "toxBadgeColor": "green"
   },
   {
     "id": 63,
@@ -2966,7 +3213,11 @@ const plantesData = [
     "nomAnglais": "French Marigold",
     "familleDescription": "",
     "familleImage": "",
-    "familleNum": "17"
+    "familleNum": "17",
+    "usageType": "Alimentaire et Médicinale",
+    "maladieSummary": "Respiratoire, Oculaire",
+    "toxBadgeText": "Non toxique",
+    "toxBadgeColor": "green"
   },
   {
     "id": 64,
@@ -3013,7 +3264,11 @@ const plantesData = [
     "nomAnglais": "-",
     "familleDescription": "",
     "familleImage": "",
-    "familleNum": "17"
+    "familleNum": "17",
+    "usageType": "Alimentaire et Médicinale",
+    "maladieSummary": "Digestif",
+    "toxBadgeText": "Non toxique",
+    "toxBadgeColor": "green"
   },
   {
     "id": 65,
@@ -3057,7 +3312,11 @@ const plantesData = [
     "nomAnglais": "Haitian Oak",
     "familleDescription": "Reconnues pour leur remarquable diversité morphologique, les Bignoniacées rassemblent près de 800 espèces réparties principalement dans les régions tropicales et subtropicales. Cette famille se compose essentiellement d'arbres et d'arbustes, mais inclut également des lianes spectaculaires aux fleurs tubulaires colorées. Parmi les genres à vocation médicinale figure Catalpa, utilisé pour ses propriétés anti-inflammatoires et cicatrisantes, ainsi que Tecoma dont les fleurs jaunes ornent les jardins haïtiens tout en servant de remède traditionnel contre le diabète. Le genre ornemental Spathodea, connu sous le nom de « tulipier du Gabon », décore les paysages urbains de ses fleurs rouge-orange. Sur le plan phytochimique, les Bignoniacées se distinguent par leur richesse en iridoïdes, quinones, flavonoïdes et tanins, conférant à ces plantes leurs propriétés thérapeutiques ciblant préférentiellement les systèmes tégumentaire, respiratoire et cutané. Une vigilance s'impose avec certaines espèces comme Tecoma stans, dont l'effet hypoglycémiant puissant exige une surveillance médicale chez les personnes diabétiques.",
     "familleImage": "182_Crescentia_cujete-001.jpg, 183_Ekmanianthe_longiflora-001.jpg, 184_Tabebuia_calcicola-001.jpg, 185_Tabebuia_conferta-001.jpg, 186_Tecoma_stans-001.jpg",
-    "familleNum": "18"
+    "familleNum": "18",
+    "usageType": "Médicinale",
+    "maladieSummary": "Tégumentaire",
+    "toxBadgeText": "Non toxique",
+    "toxBadgeColor": "green"
   },
   {
     "id": 66,
@@ -3104,7 +3363,11 @@ const plantesData = [
     "nomAnglais": "Calabash Tree",
     "familleDescription": "",
     "familleImage": "",
-    "familleNum": "18"
+    "familleNum": "18",
+    "usageType": "Alimentaire et Médicinale",
+    "maladieSummary": "Respiratoire",
+    "toxBadgeText": "Non toxique",
+    "toxBadgeColor": "green"
   },
   {
     "id": 67,
@@ -3153,7 +3416,11 @@ const plantesData = [
     "nomAnglais": "-",
     "familleDescription": "",
     "familleImage": "",
-    "familleNum": "18"
+    "familleNum": "18",
+    "usageType": "Médicinale",
+    "maladieSummary": "Cardiovasculaire, Tégumentaire",
+    "toxBadgeText": "Non toxique",
+    "toxBadgeColor": "green"
   },
   {
     "id": 68,
@@ -3201,7 +3468,11 @@ const plantesData = [
     "nomAnglais": "-",
     "familleDescription": "",
     "familleImage": "",
-    "familleNum": "18"
+    "familleNum": "18",
+    "usageType": "Médicinale",
+    "maladieSummary": "",
+    "toxBadgeText": "Conditionnel",
+    "toxBadgeColor": "yellow"
   },
   {
     "id": 69,
@@ -3249,7 +3520,11 @@ const plantesData = [
     "nomAnglais": "-",
     "familleDescription": "",
     "familleImage": "",
-    "familleNum": "18"
+    "familleNum": "18",
+    "usageType": "Médicinale",
+    "maladieSummary": "Respiratoire, Tégumentaire",
+    "toxBadgeText": "Non toxique",
+    "toxBadgeColor": "green"
   },
   {
     "id": 70,
@@ -3295,7 +3570,11 @@ const plantesData = [
     "nomAnglais": "Yellow Elder",
     "familleDescription": "",
     "familleImage": "",
-    "familleNum": "18"
+    "familleNum": "18",
+    "usageType": "Médicinale",
+    "maladieSummary": "Endocrinien",
+    "toxBadgeText": "Non toxique",
+    "toxBadgeColor": "green"
   },
   {
     "id": 71,
@@ -3342,7 +3621,11 @@ const plantesData = [
     "nomAnglais": "Annatto",
     "familleDescription": "Dominant les régions tropicales et subtropicales, les Bixacées constituent une petite famille d'arbustes et d'arbres de taille modeste, comptant environ 25 espèces réparties dans quatre genres principaux. Cette famille se distingue particulièrement par Bixa orellana, le rocouyer, devenu l'une des sources de colorants naturels les plus importantes au monde. Les genres à vocation alimentaire incluent principalement Bixa, dont les graines produisent l'annatto (E160b), un colorant rouge-orangé largement utilisé dans l'industrie agroalimentaire pour teinter fromages, beurres et plats préparés. Sur le plan médicinal, les Bixacées ciblent préférentiellement les systèmes cutané et digestif grâce à leur signature phytochimique dominée par des caroténoïdes puissants — notamment la bixine et la norbixine — accompagnés de tocotriénols aux propriétés antioxydantes remarquables. Ces composés, associés à des flavonoïdes et des tanins, confèrent à la famille ses propriétés cicatrisantes, anti-inflammatoires et protectrices contre les dommages oxydatifs. Bien que généralement sûre, la famille exige une vigilance particulière concernant les dosages élevés, certaines préparations concentrées pouvant occasionner des troubles digestifs.",
     "familleImage": "191_Bixa_orellana-001.jpg",
-    "familleNum": "19"
+    "familleNum": "19",
+    "usageType": "Alimentaire et Médicinale",
+    "maladieSummary": "Hépatique",
+    "toxBadgeText": "Non toxique",
+    "toxBadgeColor": "green"
   },
   {
     "id": 72,
@@ -3389,7 +3672,11 @@ const plantesData = [
     "nomAnglais": "",
     "familleDescription": "Reconnues pour leurs propriétés thérapeutiques remarquables, les Boraginacées rassemblent environ 2700 espèces réparties en quelque 150 genres d'herbes, d'arbustes et de lianes cosmopolites. Cette famille se distingue par une diversité morphologique exceptionnelle, depuis les petites herbes annuelles jusqu'aux arbustes ligneux tropicaux. Plusieurs genres présentent un intérêt alimentaire notable, notamment Borago (bourrache) dont les jeunes feuilles sont consommées en salade dans diverses cultures méditerranéennes. Sur le plan médicinal, les genres Symphytum (consoude), Echium et Lithospermum constituent des références traditionnelles pour le traitement des affections cutanées et respiratoires. Le profil phytochimique de cette famille révèle une signature dominée par les mucilages apaisants, les flavonoïdes anti-inflammatoires, les acides phénoliques et les tanins astringents, ciblant préférentiellement les systèmes tégumentaire, respiratoire et digestif. Une vigilance particulière s'impose cependant avec certains genres — notamment Heliotropium et Symphytum — qui renferment des alcaloïdes pyrrolizidiniques hépatotoxiques, exigeant des précautions strictes lors de tout usage interne prolongé.",
     "familleImage": "204_Wigandia_Pruritiva-001.jpg, 201_Heliotropium_indicum-001.jpg, 202_Tournefortia_hirsutissima-001.jpg, 203_Varronia_serrata-001.jpg",
-    "familleNum": "20"
+    "familleNum": "20",
+    "usageType": "Médicinale",
+    "maladieSummary": "Digestif",
+    "toxBadgeText": "Non toxique",
+    "toxBadgeColor": "green"
   },
   {
     "id": 73,
@@ -3436,7 +3723,11 @@ const plantesData = [
     "nomAnglais": "Indian Heliotrope",
     "familleDescription": "",
     "familleImage": "",
-    "familleNum": "20"
+    "familleNum": "20",
+    "usageType": "Médicinale",
+    "maladieSummary": "Tégumentaire",
+    "toxBadgeText": "Non toxique",
+    "toxBadgeColor": "green"
   },
   {
     "id": 74,
@@ -3483,7 +3774,11 @@ const plantesData = [
     "nomAnglais": "Chiggery grape",
     "familleDescription": "",
     "familleImage": "",
-    "familleNum": "20"
+    "familleNum": "20",
+    "usageType": "Alimentaire et Médicinale",
+    "maladieSummary": "Urinaire",
+    "toxBadgeText": "Non toxique",
+    "toxBadgeColor": "green"
   },
   {
     "id": 75,
@@ -3529,7 +3824,11 @@ const plantesData = [
     "nomAnglais": "Sawtooth Varronia",
     "familleDescription": "",
     "familleImage": "",
-    "familleNum": "20"
+    "familleNum": "20",
+    "usageType": "Médicinale",
+    "maladieSummary": "",
+    "toxBadgeText": "Conditionnel",
+    "toxBadgeColor": "yellow"
   },
   {
     "id": 76,
@@ -3577,7 +3876,11 @@ const plantesData = [
     "nomAnglais": "Cabbage",
     "familleDescription": "Reconnues pour leurs remarquables propriétés nutritionnelles et thérapeutiques, les Brassicacées rassemblent environ 3700 espèces réparties en 338 genres, dominées par les herbes annuelles et bisannuelles. Cette famille cosmopolite comprend des légumes fondamentaux de l'alimentation mondiale : choux (Brassica oleracea), radis (Raphanus sativus), moutarde (Brassica nigra), cresson (Nasturtium officinale) et roquette (Eruca sativa). Les genres à vocation médicinale incluent Lepidium pour ses propriétés diurétiques, Cardamine comme antiscorbutique, et Capsella reconnu pour ses vertus hémostatiques. Sur le plan phytochimique, cette famille se distingue par une signature unique dominée par les glucosinolates — des composés soufrés qui se transforment en isothiocyanates bioactifs lors du broyage des tissus — associés à des concentrations exceptionnelles en vitamine C, vitamine K, sulforaphane et indole-3-carbinol. Ces molécules ciblent préférentiellement les systèmes digestif, tégumentaire et sanguin, avec des propriétés détoxifiantes et antioxydantes remarquables. Attention : les glucosinolates peuvent présenter des effets goitrogènes à très forte consommation chronique, nécessitant une vigilance chez les personnes souffrant de dysfonctionnements thyroïdiens.",
     "familleImage": "211_Brassica_oleracea-001.jpg, 212_Nasturtium_officinale-001.jpg, 213_Raphanus_sativus-001.jpg",
-    "familleNum": "21"
+    "familleNum": "21",
+    "usageType": "Alimentaire et Médicinale",
+    "maladieSummary": "Digestif, Tégumentaire",
+    "toxBadgeText": "Non toxique",
+    "toxBadgeColor": "green"
   },
   {
     "id": 77,
@@ -3624,7 +3927,11 @@ const plantesData = [
     "nomAnglais": "Watercress",
     "familleDescription": "",
     "familleImage": "",
-    "familleNum": "21"
+    "familleNum": "21",
+    "usageType": "Alimentaire et Médicinale",
+    "maladieSummary": "Respiratoire",
+    "toxBadgeText": "Non toxique",
+    "toxBadgeColor": "green"
   },
   {
     "id": 78,
@@ -3671,7 +3978,11 @@ const plantesData = [
     "nomAnglais": "Radish",
     "familleDescription": "",
     "familleImage": "",
-    "familleNum": "21"
+    "familleNum": "21",
+    "usageType": "Alimentaire et Médicinale",
+    "maladieSummary": "Digestif, Cardiovasculaire, Hépatique",
+    "toxBadgeText": "Non toxique",
+    "toxBadgeColor": "green"
   },
   {
     "id": 79,
@@ -3715,7 +4026,11 @@ const plantesData = [
     "nomAnglais": "Pineapple",
     "familleDescription": "Dominant les régions tropicales et subtropicales du monde avec plus de 3 700 espèces réparties en 58 genres, les Broméliacées constituent une famille remarquable d'herbes épiphytes, terrestres ou rupicoles. Cette famille tropicale américaine — dont l'ananas demeure le représentant alimentaire le plus célèbre — se distingue par ses rosettes foliaires caractéristiques souvent organisées en réservoirs d'eau. Les genres à vocation alimentaire incluent principalement Ananas, cultivé mondialement pour ses fruits sucrés et sa richesse en bromélaïne. Sur le plan médicinal, plusieurs genres comme Tillandsia et Aechmea sont traditionnellement employés dans les pharmacopées amérindiennes pour leurs propriétés digestives et anti-inflammatoires. La famille produit des composés bioactifs remarquables, notamment la bromélaïne — une enzyme protéolytique unique dans le règne végétal —, des flavonoïdes, de l'acide ascorbique et des caroténoïdes. Ces molécules ciblent préférentiellement les systèmes digestif et inflammatoire, facilitant la digestion des protéines et modulant les réponses immunitaires. Bien que généralement sûre, la bromélaïne peut interagir avec les anticoagulants à forte dose, nécessitant une vigilance thérapeutique appropriée.",
     "familleImage": "",
-    "familleNum": "22"
+    "familleNum": "22",
+    "usageType": "Alimentaire et Médicinale",
+    "maladieSummary": "Digestif",
+    "toxBadgeText": "Non toxique",
+    "toxBadgeColor": "green"
   },
   {
     "id": 80,
@@ -3759,7 +4074,11 @@ const plantesData = [
     "nomAnglais": "Gumbo-limbo",
     "familleDescription": "Avec ses 17 genres et près de 700 espèces distribuées principalement dans les régions tropicales arides, les Burséracées constituent une famille d'arbres et arbustes remarquables par leur production abondante de résines aromatiques. Cette famille se distingue par des genres à fort potentiel économique comme Boswellia (encens), Commiphora (myrrhe) et Canarium (noix de canarium), ainsi que par des espèces alimentaires comme Dacryodes edulis (safoutier d'Afrique). Sur le plan médicinal, les genres Bursera et Protium sont particulièrement valorisés en Amérique tropicale pour leurs propriétés anti-inflammatoires et cicatrisantes. La signature phytochimique de cette famille est dominée par les résines terpéniques riches en alpha et bêta-pinène, les huiles essentielles à limonène, les triterpènes comme le picropolygamain, ainsi que les lignanes et coumarines. Ces composés ciblent préférentiellement les systèmes tégumentaire et immunitaire, conférant aux Burséracées leurs propriétés cicatrisantes et anti-inflammatoires reconnues. Il convient de noter que certaines espèces renferment des principes actifs puissants nécessitant une préparation adéquate.",
     "familleImage": "",
-    "familleNum": "23"
+    "familleNum": "23",
+    "usageType": "Médicinale",
+    "maladieSummary": "Immunitaire, Tégumentaire",
+    "toxBadgeText": "Non toxique",
+    "toxBadgeColor": "green"
   },
   {
     "id": 81,
@@ -3803,7 +4122,11 @@ const plantesData = [
     "nomAnglais": "Prickly Pear",
     "familleDescription": "Les Cactacées représentent l'une des familles botaniques les plus reconnaissables de la flore mondiale, regroupant environ 1750 espèces réparties en 130 genres, principalement adaptées aux environnements arides et semi-arides. Cette famille remarquable domine les paysages secs des Départements du Sud et de la Grand'Anse, où elle joue un rôle écologique et économique majeur. Sur le plan alimentaire, le genre Opuntia fournit des fruits savoureux et des cladodes comestibles, constituant une ressource nutritionnelle importante dans les zones arides. Les genres Hylocereus et Selenicereus produisent les célèbres fruits du dragon, appréciés pour leur valeur ornementale et gustative. Du point de vue médicinal, les Cactacées se distinguent par leur richesse en mucilages, polysaccharides, flavonoïdes et bétalaïnes, ciblant préférentiellement les systèmes cutané et endocrinien. Ces composés confèrent à la famille des propriétés antidiabétiques, cicatrisantes et antioxydantes remarquables. Bien que généralement non toxiques, certaines espèces exigent une préparation adéquate pour éliminer les épines et éviter les irritations mécaniques.",
     "familleImage": "",
-    "familleNum": "24"
+    "familleNum": "24",
+    "usageType": "Alimentaire et Médicinale",
+    "maladieSummary": "Endocrinien",
+    "toxBadgeText": "Non toxique",
+    "toxBadgeColor": "green"
   },
   {
     "id": 82,
@@ -3847,7 +4170,11 @@ const plantesData = [
     "nomAnglais": "Santa Maria",
     "familleDescription": "Avec ses représentants essentiellement arboricoles, les Calophyllacées constituent une famille tropicale de taille modeste mais d'importance considérable pour les communautés locales. Cette famille se distingue par ses multiples vocations : alimentaire à travers les fruits de certaines espèces, mais surtout médicinale et technique grâce aux propriétés remarquables de leurs huiles de graines. Les genres Calophyllum et Mammea dominent cette famille, offrant respectivement des huiles cicatrisantes réputées et des fruits comestibles appréciés. Sur le plan phytochimique, les Calophyllacées présentent une signature unique dominée par des xanthones bioactives, des coumarines (notamment le calophyllolide), des flavonoïdes et des triterpènes, conférant à cette famille une activité thérapeutique ciblant préférentiellement le système tégumentaire. L'huile de tamanu, extraite des graines de Calophyllum, illustre parfaitement cette spécialisation dermatologique. Il convient toutefois de souligner que certaines espèces — particulièrement au niveau des graines et de l'écorce — renferment des principes actifs puissants exigeant une préparation adéquate et un dosage strict pour éviter tout risque toxicologique.",
     "familleImage": "252_Mammea_americana-001.jpg",
-    "familleNum": "25"
+    "familleNum": "25",
+    "usageType": "Médicinale",
+    "maladieSummary": "Tégumentaire",
+    "toxBadgeText": "Conditionnel",
+    "toxBadgeColor": "yellow"
   },
   {
     "id": 83,
@@ -3894,7 +4221,11 @@ const plantesData = [
     "nomAnglais": "Mammee Apple",
     "familleDescription": "",
     "familleImage": "",
-    "familleNum": "25"
+    "familleNum": "25",
+    "usageType": "Alimentaire et Médicinale",
+    "maladieSummary": "Nerveux, Tégumentaire",
+    "toxBadgeText": "Conditionnel",
+    "toxBadgeColor": "yellow"
   },
   {
     "id": 84,
@@ -3941,7 +4272,11 @@ const plantesData = [
     "nomAnglais": "Star of Bethlehem",
     "familleDescription": "Dominant les régions tropicales et tempérées avec près de 2 400 espèces réparties en 84 genres, les Campanulacées rassemblent principalement des herbes vivaces et des arbustes à fleurs en forme de cloche ou d'étoile. Cette famille se distingue par une remarquable diversité d'usages, allant de l'ornement — avec les campanules des jardins tempérés — aux applications médicinales traditionnelles dans les régions tropicales. Sur le plan alimentaire, quelques espèces produisent des tubercules comestibles, tandis que certains genres comme Lobelia sont cultivés pour leurs propriétés ornementales spectaculaires. Phytochimiquement, les Campanulacées présentent une signature complexe dominée par les alcaloïdes pipéridiques — notamment la lobéline —, l'inuline, les flavonoïdes et les mucilages, conférant à cette famille des propriétés ciblant préférentiellement le système nerveux central et respiratoire. Cette composition chimique particulière exige une vigilance absolue, car plusieurs genres — notamment Lobelia et Hippobroma — renferment des alcaloïdes cardioactifs puissants pouvant provoquer des intoxications graves, voire mortelles, rendant leur usage thérapeutique strictement réservé aux praticiens expérimentés.",
     "familleImage": "261_Hippobroma_longiflora-001.jpg, 262_Lobelia_assurgens-001.jpg",
-    "familleNum": "26"
+    "familleNum": "26",
+    "usageType": "Alimentaire et Médicinale",
+    "maladieSummary": "Nerveux, Cardiovasculaire",
+    "toxBadgeText": "Toxique",
+    "toxBadgeColor": "red"
   },
   {
     "id": 85,
@@ -3990,7 +4325,11 @@ const plantesData = [
     "nomAnglais": "-",
     "familleDescription": "",
     "familleImage": "",
-    "familleNum": "26"
+    "familleNum": "26",
+    "usageType": "Médicinale",
+    "maladieSummary": "Respiratoire, Nerveux",
+    "toxBadgeText": "Non toxique",
+    "toxBadgeColor": "green"
   },
   {
     "id": 86,
@@ -4034,7 +4373,11 @@ const plantesData = [
     "nomAnglais": "Bwa kaka",
     "familleDescription": "Dominant les régions tropicales et arides, les Capparacées constituent une famille de près de 700 espèces réparties en 45 genres, allant des herbacées annuelles aux arbres de canopée. Cette famille se distingue par une remarquable diversité morphologique et écologique, colonisant des habitats aussi variés que les forêts humides, les zones côtières et les milieux semi-arides. Plusieurs genres possèdent une importance alimentaire notable : Capparis (câprier) fournit les câpres commerciales, tandis que Cleome et Gynandropsis sont cultivés comme légumes-feuilles en Afrique et en Asie. Sur le plan médicinal, la famille exprime une signature phytochimique dominée par les glucosinolates — composés soufrés responsables de saveurs piquantes —, les flavonoïdes, les saponines triterpéniques et les alcaloïdes isoquinoléiques. Ces métabolites ciblent préférentiellement les systèmes digestif, hépatique et inflammatoire, conférant à de nombreuses espèces des propriétés cholagogues, anti-inflammatoires et antimicrobiennes. Certains genres nécessitent une vigilance particulière en raison de leur teneur en alcaloïdes potentiellement toxiques à fortes doses.",
     "familleImage": "",
-    "familleNum": "27"
+    "familleNum": "27",
+    "usageType": "Médicinale",
+    "maladieSummary": "Digestif, Hépatique",
+    "toxBadgeText": "Non toxique",
+    "toxBadgeColor": "green"
   },
   {
     "id": 87,
@@ -4078,7 +4421,11 @@ const plantesData = [
     "nomAnglais": "Papaya",
     "familleDescription": "A completer — Famille 28",
     "familleImage": "",
-    "familleNum": "28"
+    "familleNum": "28",
+    "usageType": "Alimentaire et Médicinale",
+    "maladieSummary": "",
+    "toxBadgeText": "Conditionnel",
+    "toxBadgeColor": "yellow"
   },
   {
     "id": 88,
@@ -4126,7 +4473,11 @@ const plantesData = [
     "nomAnglais": "Cocoplum",
     "familleDescription": "Les Chrysobalanacées regroupent environ 530 espèces réparties en 27 genres, principalement des arbustes et arbres tropicaux et subtropicaux. Cette famille pantropicale se distingue par ses remarquables adaptations aux environnements côtiers et ses importantes contributions alimentaires dans les régions tropicales. Sur le plan alimentaire, plusieurs genres produisent des fruits comestibles appréciés : Chrysobalanus (icaque), Licania et Couepia dans les Amériques, ainsi que Parinari en Afrique. Ces fruits, souvent riches en pulpe sucrée, constituent des ressources nutritionnelles locales importantes. Sur le plan écologique, de nombreuses espèces jouent un rôle crucial dans la stabilisation des sols côtiers et la protection contre l'érosion. Phytochimiquement, les Chrysobalanacées se caractérisent par une signature dominée par les flavonoïdes — notamment la myricétine et la quercétine — ainsi que par l'acide pomolique et des tanins condensés, conférant à ces plantes des propriétés antioxydantes et astringentes marquées. Ces composés ciblent préférentiellement le système digestif, avec des applications traditionnelles dans le traitement des troubles gastro-intestinaux.",
     "familleImage": "291_Chrysobalanus_icaco-001.jpg",
-    "familleNum": "29"
+    "familleNum": "29",
+    "usageType": "Alimentaire et Médicinale",
+    "maladieSummary": "Digestif",
+    "toxBadgeText": "Non toxique",
+    "toxBadgeColor": "green"
   },
   {
     "id": 89,
@@ -4173,7 +4524,11 @@ const plantesData = [
     "nomAnglais": "Balsam Apple",
     "familleDescription": "Les Clusiacées rassemblent environ 1 400 espèces réparties dans 36 genres, principalement des arbres et arbustes tropicaux reconnus pour leur capacité remarquable à produire des latex et résines colorés. Cette famille pantropicale comprend des genres à forte valeur économique comme Garcinia — dont le mangoustan (Garcinia mangostana) et le chadec marron local — ainsi que des espèces ornementales du genre Hypericum. Sur le plan médicinal, plusieurs genres sont traditionnellement exploités : Clusia pour les soins cutanés, Vismia comme anti-inflammatoire, et diverses espèces de Garcinia pour leurs propriétés digestives. La signature phytochimique des Clusiacées se distingue par une richesse exceptionnelle en benzophénones polyprénylées, xanthones, biflavonoïdes et triterpènes, conférant à cette famille des propriétés antioxydantes, anti-inflammatoires et antimicrobiennes marquées qui ciblent préférentiellement le système tégumentaire. Une vigilance s'impose avec certains représentants du genre Clusia dont les latex peuvent provoquer des irritations cutanées chez les personnes sensibles.",
     "familleImage": "301_Clusia_minor-001.jpg, 302_Clusia_rosea-001.jpg, 303_Garcinia_barkeriana-001.jpg",
-    "familleNum": "30"
+    "familleNum": "30",
+    "usageType": "Médicinale",
+    "maladieSummary": "Cardiovasculaire, Tégumentaire",
+    "toxBadgeText": "Non toxique",
+    "toxBadgeColor": "green"
   },
   {
     "id": 90,
@@ -4220,7 +4575,11 @@ const plantesData = [
     "nomAnglais": "Autograph Tree",
     "familleDescription": "",
     "familleImage": "",
-    "familleNum": "30"
+    "familleNum": "30",
+    "usageType": "Alimentaire et Médicinale",
+    "maladieSummary": "Tégumentaire",
+    "toxBadgeText": "Conditionnel",
+    "toxBadgeColor": "yellow"
   },
   {
     "id": 91,
@@ -4267,7 +4626,11 @@ const plantesData = [
     "nomAnglais": "-",
     "familleDescription": "",
     "familleImage": "",
-    "familleNum": "30"
+    "familleNum": "30",
+    "usageType": "Alimentaire et Médicinale",
+    "maladieSummary": "Digestif",
+    "toxBadgeText": "Non toxique",
+    "toxBadgeColor": "green"
   },
   {
     "id": 92,
@@ -4316,7 +4679,11 @@ const plantesData = [
     "nomAnglais": "Buttonwood",
     "familleDescription": "Dominant les zones côtières tropicales, les Combrétacées rassemblent environ 600 espèces réparties dans une vingtaine de genres, principalement composées d'arbres et d'arbustes. Cette famille se distingue par sa remarquable adaptation aux environnements littoraux et par ses riches usages alimentaires et médicinaux. Plusieurs genres présentent un intérêt alimentaire notable : Terminalia produit des fruits comestibles comme l'amande tropicale (T. catappa), tandis que certaines espèces de Combretum offrent des fruits consommés localement. Sur le plan médicinal, la famille excelle particulièrement dans le traitement des troubles digestifs et cardiovasculaires, grâce à une signature phytochimique dominée par les tanins condensés, l'acide gallique, l'acide ellagique et les flavonoïdes. Ces composés confèrent aux Combrétacées leurs propriétés astringentes, anti-inflammatoires et antioxydantes remarquables, ciblant préférentiellement les systèmes digestif et cardiovasculaire. Une vigilance s'impose cependant avec certaines espèces du genre Combretum qui renferment des principes actifs puissants nécessitant une préparation adéquate et un dosage strict.",
     "familleImage": "311_Conocarpus_erectus-001.jpg, 312_Terminalia_catappa-001.jpg",
-    "familleNum": "31"
+    "familleNum": "31",
+    "usageType": "Médicinale",
+    "maladieSummary": "Digestif, Cardiovasculaire",
+    "toxBadgeText": "Non toxique",
+    "toxBadgeColor": "green"
   },
   {
     "id": 93,
@@ -4363,7 +4730,11 @@ const plantesData = [
     "nomAnglais": "Tropical Almond",
     "familleDescription": "",
     "familleImage": "",
-    "familleNum": "31"
+    "familleNum": "31",
+    "usageType": "Alimentaire et Médicinale",
+    "maladieSummary": "Cardiovasculaire",
+    "toxBadgeText": "Non toxique",
+    "toxBadgeColor": "green"
   },
   {
     "id": 94,
@@ -4409,7 +4780,11 @@ const plantesData = [
     "nomAnglais": "Moses-in-the-Cradle",
     "familleDescription": "Regroupant près de 650 espèces réparties en une quarantaine de genres, les Commélinacées constituent une famille tropicale d'herbes vivaces ou annuelles, caractérisées par leurs feuilles engainantes et leurs inflorescences protégées par des spathes membraneuses. Cette famille se distingue dans la flore haïtienne par sa double vocation ornementale et médicinale, avec des genres comme Tradescantia et Commelina largement cultivés pour leurs qualités décoratives et thérapeutiques. Sur le plan phytochimique, les Commélinacées développent une signature remarquable dominée par les anthocyanes responsables des colorations violettes à pourpres de nombreuses espèces, les flavonoïdes antioxydants, les mucilages aux propriétés émollientes et les composés phénoliques comme l'acide chlorogénique. Ces métabolites ciblent préférentiellement les systèmes respiratoire et tégumentaire, expliquant l'usage traditionnel contre les affections pulmonaires et cutanées. Il convient de noter que certaines espèces peuvent provoquer des dermatites de contact chez les personnes sensibles, particulièrement par contact avec la sève fraîche, nécessitant des précautions lors de la manipulation.",
     "familleImage": "321_Tradescantia_spathacea-001.jpg, 322_Tradescantia_zebrina-001.jpg",
-    "familleNum": "32"
+    "familleNum": "32",
+    "usageType": "Alimentaire et Médicinale",
+    "maladieSummary": "Respiratoire",
+    "toxBadgeText": "Non toxique",
+    "toxBadgeColor": "green"
   },
   {
     "id": 95,
@@ -4455,7 +4830,11 @@ const plantesData = [
     "nomAnglais": "Inchplant",
     "familleDescription": "",
     "familleImage": "",
-    "familleNum": "32"
+    "familleNum": "32",
+    "usageType": "Alimentaire et Médicinale",
+    "maladieSummary": "Cardiovasculaire, Tégumentaire",
+    "toxBadgeText": "Conditionnel",
+    "toxBadgeColor": "yellow"
   },
   {
     "id": 96,
@@ -4502,7 +4881,11 @@ const plantesData = [
     "nomAnglais": "Dodder",
     "familleDescription": "Les Convolvulacées constituent une famille tropicale et subtropicale de plus de 1650 espèces réparties en 58 genres, dominée par les lianes volubiles et les herbes rampantes. Cette famille présente une remarquable diversité d'usages : alimentaires avec la patate douce (Ipomoea batatas), l'un des tubercules les plus consommés au monde, ornementaux avec les ipomées aux fleurs colorées (Ipomoea purpurea, I. tricolor), et médicinaux avec les cuscutes parasites (Cuscuta spp.). Sur le plan phytochimique, la famille se caractérise par des résines glycosidiques complexes, des alcaloïdes ergoliques chez certains Ipomoea, des anthocyanes responsables des couleurs vives des fleurs, et du bêta-carotène concentré dans les tubercules orangés de la patate douce. Ces composés ciblent préférentiellement les systèmes hépatique et tégumentaire. Une vigilance particulière s'impose car certaines espèces renferment des principes actifs puissants : les graines d'Ipomoea purpurea contiennent des alcaloïdes hallucinogènes apparentés au LSD, et les cuscutes peuvent présenter des effets hormonaux, exigeant une identification précise et un dosage strict en usage thérapeutique.",
     "familleImage": "331_Cuscuta_americana-001.jpg, 332_Ipomoea_batatas-001.jpg, 333_Ipomoea_pes-caprae-002.jpg",
-    "familleNum": "33"
+    "familleNum": "33",
+    "usageType": "Alimentaire et Médicinale",
+    "maladieSummary": "Hépatique",
+    "toxBadgeText": "Non toxique",
+    "toxBadgeColor": "green"
   },
   {
     "id": 97,
@@ -4549,7 +4932,11 @@ const plantesData = [
     "nomAnglais": "Sweet Potato",
     "familleDescription": "",
     "familleImage": "",
-    "familleNum": "33"
+    "familleNum": "33",
+    "usageType": "Alimentaire et Médicinale",
+    "maladieSummary": "Immunitaire, Oculaire",
+    "toxBadgeText": "Non toxique",
+    "toxBadgeColor": "green"
   },
   {
     "id": 98,
@@ -4595,7 +4982,11 @@ const plantesData = [
     "nomAnglais": "Railroad Vine",
     "familleDescription": "",
     "familleImage": "",
-    "familleNum": "33"
+    "familleNum": "33",
+    "usageType": "Alimentaire et Médicinale",
+    "maladieSummary": "Tégumentaire",
+    "toxBadgeText": "Non toxique",
+    "toxBadgeColor": "green"
   },
   {
     "id": 99,
@@ -4643,7 +5034,11 @@ const plantesData = [
     "nomAnglais": "Life Plant",
     "familleDescription": "Avec ses 1 400 espèces réparties en 35 genres, les Crassulacées constituent une famille remarquable d'herbes succulentes adaptées aux milieux arides et semi-arides. Cette famille tropicale et subtropicale se distingue par ses feuilles charnues capables de stocker l'eau et ses propriétés médicinales exceptionnelles. Parmi les genres alimentaires, Sedum fournit des légumes-feuilles dans certaines régions tempérées, tandis que plusieurs espèces de Crassula sont cultivées comme plantes ornementales. Sur le plan thérapeutique, le genre Kalanchoe domine avec ses puissantes propriétés anti-inflammatoires et cicatrisantes, largement exploitées dans les médecines traditionnelles pantropicales. La signature phytochimique de cette famille repose sur des bufadiénolides cardiotoniques, des flavonoïdes comme la quercétine, l'acide malique et des concentrations élevées de calcium — des composés ciblant préférentiellement les systèmes cardiovasculaire et nerveux. Une vigilance particulière s'impose avec certaines espèces du genre Kalanchoe, dont les bufadiénolides peuvent provoquer des troubles cardiaques graves en cas de surdosage, nécessitant un dosage rigoureux et une préparation appropriée.",
     "familleImage": "341_Kalanchoe_pinnata-001.jpg",
-    "familleNum": "34"
+    "familleNum": "34",
+    "usageType": "Médicinale",
+    "maladieSummary": "Nerveux, Cardiovasculaire",
+    "toxBadgeText": "Conditionnel",
+    "toxBadgeColor": "yellow"
   },
   {
     "id": 100,
@@ -4689,7 +5084,11 @@ const plantesData = [
     "nomAnglais": "Melon",
     "familleDescription": "Dominant les zones tropicales avec plus de 900 espèces réparties en 130 genres, les Cucurbitacées constituent l'une des familles les plus productives sur le plan alimentaire mondial. Ces lianes herbacées annuelles ou vivaces, facilement reconnaissables à leurs vrilles spiralées et leurs fruits charnus, regroupent des genres alimentaires majeurs comme Cucumis (melon, concombre), Cucurbita (courges, citrouilles), Citrullus (pastèque) et Lagenaria (calebasse). Les genres médicinaux incluent notamment Momordica (margose amère), réputé pour ses propriétés antidiabétiques, et Ecballium (concombre d'âne), aux effets purgatifs puissants. Sur le plan phytochimique, cette famille se caractérise par une signature dominée par l'eau, les caroténoïdes, la vitamine C, le potassium et les cucurbitacines — ces dernières étant des triterpènes amers aux propriétés biologiques intenses. Ces composés ciblent préférentiellement les systèmes rénal, digestif et parasitaire. Une vigilance particulière s'impose avec certaines espèces sauvages : les cucurbitacines, présentes en concentrations élevées dans les variétés non cultivées, peuvent provoquer des intoxications graves par leur effet drastiquement purgatif.",
     "familleImage": "351_Cucumis_melo-001.jpg, 352_Cucurbita_moschata-001.jpg, 353_Luffa_acutangula-001.jpg, 354_Momordica_charantia-001.jpg, 355_Sechium_edule-001.jpg",
-    "familleNum": "35"
+    "familleNum": "35",
+    "usageType": "Alimentaire et Médicinale",
+    "maladieSummary": "Digestif, Urinaire",
+    "toxBadgeText": "Non toxique",
+    "toxBadgeColor": "green"
   },
   {
     "id": 101,
@@ -4736,7 +5135,11 @@ const plantesData = [
     "nomAnglais": "Pumpkin / Squash",
     "familleDescription": "",
     "familleImage": "",
-    "familleNum": "35"
+    "familleNum": "35",
+    "usageType": "Alimentaire et Médicinale",
+    "maladieSummary": "Digestif, Nerveux, Hépatique",
+    "toxBadgeText": "Non toxique",
+    "toxBadgeColor": "green"
   },
   {
     "id": 102,
@@ -4783,7 +5186,11 @@ const plantesData = [
     "nomAnglais": "Angled Luffa",
     "familleDescription": "",
     "familleImage": "",
-    "familleNum": "35"
+    "familleNum": "35",
+    "usageType": "Alimentaire et Médicinale",
+    "maladieSummary": "Digestif, Urinaire",
+    "toxBadgeText": "Conditionnel",
+    "toxBadgeColor": "yellow"
   },
   {
     "id": 103,
@@ -4832,7 +5239,11 @@ const plantesData = [
     "nomAnglais": "Bitter Melon",
     "familleDescription": "",
     "familleImage": "",
-    "familleNum": "35"
+    "familleNum": "35",
+    "usageType": "Alimentaire et Médicinale",
+    "maladieSummary": "Endocrinien",
+    "toxBadgeText": "Non toxique",
+    "toxBadgeColor": "green"
   },
   {
     "id": 104,
@@ -4878,7 +5289,11 @@ const plantesData = [
     "nomAnglais": "Chayote",
     "familleDescription": "",
     "familleImage": "",
-    "familleNum": "35"
+    "familleNum": "35",
+    "usageType": "Alimentaire et Médicinale",
+    "maladieSummary": "Cardiovasculaire",
+    "toxBadgeText": "Non toxique",
+    "toxBadgeColor": "green"
   },
   {
     "id": 105,
@@ -4925,7 +5340,11 @@ const plantesData = [
     "nomAnglais": "-",
     "familleDescription": "Les Dichapetalacées constituent une petite famille tropicale comprenant environ 165 espèces réparties en trois genres principaux : Dichapetalum, Tapura et Stephanopodium. Dominée par des arbustes et arbres à feuilles simples et alternes, cette famille se distingue par ses fleurs petites et ses fruits drupacés souvent colorés. Sur le plan ethnobotanique, plusieurs espèces du genre Dichapetalum sont traditionnellement utilisées en médecine africaine pour traiter diverses affections, tandis que certaines espèces américaines du genre Tapura restent largement sous-étudiées. La composition phytochimique de cette famille demeure variable et incomplètement caractérisée, avec des composés phénoliques, des triterpènes et des saponines documentés chez certaines espèces. Les systèmes physiologiques ciblés varient selon les espèces et les régions d'usage. Il convient de noter une vigilance particulière concernant certaines espèces du genre Dichapetalum qui renferment des composés cyanogéniques potentiellement toxiques, nécessitant une identification botanique rigoureuse avant tout usage.",
     "familleImage": "361_Tapura_haitiensis-001.jpg",
-    "familleNum": "36"
+    "familleNum": "36",
+    "usageType": "Médicinale",
+    "maladieSummary": "",
+    "toxBadgeText": "Non toxique",
+    "toxBadgeColor": "green"
   },
   {
     "id": 106,
@@ -4971,7 +5390,11 @@ const plantesData = [
     "nomAnglais": "Foxtail Acalypha",
     "familleDescription": "Dominant les écosystèmes tropicaux avec plus de 7 000 espèces réparties en 300 genres, les Euphorbiacées constituent l'une des familles les plus diversifiées et économiquement importantes de la flore haïtienne. Cette famille rassemble principalement des herbes, arbustes et arbres caractérisés par leur latex blanc souvent abondant et leurs inflorescences en cyathes. Les genres à vocation alimentaire comprennent Manihot (manioc), base nutritionnelle fondamentale en Haïti, et Cnidoscolus (chaya). Les genres médicinaux incluent Acalypha, Croton, Euphorbia et Phyllanthus, largement utilisés dans la pharmacopée traditionnelle des Départements du Sud et de la Grand'Anse. Sur le plan phytochimique, cette famille se distingue par sa richesse en diterpènes irritants (phorbols, ingols), latex caustique, tanins, flavonoïdes et triterpènes, ciblant préférentiellement les systèmes digestif, tégumentaire et cutané. Une vigilance extrême s'impose car plusieurs genres — Jatropha, Ricinus, Hura et particulièrement Hippomane — renferment des principes actifs mortels, faisant des Euphorbiacées une famille à très haut risque toxicologique.",
     "familleImage": "371_Acalypha_alopecuroides-001.jpg, 372_Croton_ciliatoglandulifer-001.jpg, 373_Croton_linearis-001.jpg, 374_Euphorbia_hirta-001.jpg, 375_Euphorbia_lactea-001.jpg, 376_Hippomane_mancinella-001.jpg, 377_Hura_crepitans-001.jpg, 378_Jatropha_curcas-001.jpg, 379_Jatropha_gossypiifolia-001.jpg, 3710_Manihot_esculenta-001.jpg, 3711_Ricinus_communis-001.jpg",
-    "familleNum": "37"
+    "familleNum": "37",
+    "usageType": "Alimentaire et Médicinale",
+    "maladieSummary": "Digestif",
+    "toxBadgeText": "Non toxique",
+    "toxBadgeColor": "green"
   },
   {
     "id": 107,
@@ -5020,7 +5443,11 @@ const plantesData = [
     "nomAnglais": "-",
     "familleDescription": "",
     "familleImage": "",
-    "familleNum": "37"
+    "familleNum": "37",
+    "usageType": "Alimentaire et Médicinale",
+    "maladieSummary": "",
+    "toxBadgeText": "Conditionnel",
+    "toxBadgeColor": "yellow"
   },
   {
     "id": 108,
@@ -5066,7 +5493,11 @@ const plantesData = [
     "nomAnglais": "Rosemary Croton",
     "familleDescription": "",
     "familleImage": "",
-    "familleNum": "37"
+    "familleNum": "37",
+    "usageType": "Alimentaire et Médicinale",
+    "maladieSummary": "Respiratoire, Immunitaire, Reproducteur",
+    "toxBadgeText": "Non toxique",
+    "toxBadgeColor": "green"
   },
   {
     "id": 109,
@@ -5112,7 +5543,11 @@ const plantesData = [
     "nomAnglais": "Asthma Weed",
     "familleDescription": "",
     "familleImage": "",
-    "familleNum": "37"
+    "familleNum": "37",
+    "usageType": "Médicinale",
+    "maladieSummary": "Digestif, Respiratoire",
+    "toxBadgeText": "Non toxique",
+    "toxBadgeColor": "green"
   },
   {
     "id": 110,
@@ -5158,7 +5593,11 @@ const plantesData = [
     "nomAnglais": "Candelabra Cactus",
     "familleDescription": "",
     "familleImage": "",
-    "familleNum": "37"
+    "familleNum": "37",
+    "usageType": "Alimentaire et Médicinale",
+    "maladieSummary": "Tégumentaire",
+    "toxBadgeText": "Non toxique",
+    "toxBadgeColor": "green"
   },
   {
     "id": 111,
@@ -5204,7 +5643,11 @@ const plantesData = [
     "nomAnglais": "Manchineel",
     "familleDescription": "",
     "familleImage": "",
-    "familleNum": "37"
+    "familleNum": "37",
+    "usageType": "Alimentaire et Médicinale",
+    "maladieSummary": "Digestif, Respiratoire, Oculaire",
+    "toxBadgeText": "Toxique",
+    "toxBadgeColor": "red"
   },
   {
     "id": 112,
@@ -5253,7 +5696,11 @@ const plantesData = [
     "nomAnglais": "Sandbox Tree",
     "familleDescription": "",
     "familleImage": "",
-    "familleNum": "37"
+    "familleNum": "37",
+    "usageType": "Alimentaire et Médicinale",
+    "maladieSummary": "Digestif, Tégumentaire",
+    "toxBadgeText": "Toxique",
+    "toxBadgeColor": "red"
   },
   {
     "id": 113,
@@ -5301,7 +5748,11 @@ const plantesData = [
     "nomAnglais": "Physic Nut",
     "familleDescription": "",
     "familleImage": "",
-    "familleNum": "37"
+    "familleNum": "37",
+    "usageType": "Médicinale",
+    "maladieSummary": "Tégumentaire",
+    "toxBadgeText": "Non toxique",
+    "toxBadgeColor": "green"
   },
   {
     "id": 114,
@@ -5348,7 +5799,11 @@ const plantesData = [
     "nomAnglais": "Bellyache Bush",
     "familleDescription": "",
     "familleImage": "",
-    "familleNum": "37"
+    "familleNum": "37",
+    "usageType": "Alimentaire et Médicinale",
+    "maladieSummary": "Tégumentaire",
+    "toxBadgeText": "Non toxique",
+    "toxBadgeColor": "green"
   },
   {
     "id": 115,
@@ -5394,7 +5849,11 @@ const plantesData = [
     "nomAnglais": "Cassava",
     "familleDescription": "",
     "familleImage": "",
-    "familleNum": "37"
+    "familleNum": "37",
+    "usageType": "Alimentaire et Médicinale",
+    "maladieSummary": "Immunitaire",
+    "toxBadgeText": "Conditionnel",
+    "toxBadgeColor": "yellow"
   },
   {
     "id": 116,
@@ -5441,7 +5900,11 @@ const plantesData = [
     "nomAnglais": "Castor Oil Plant",
     "familleDescription": "",
     "familleImage": "",
-    "familleNum": "37"
+    "familleNum": "37",
+    "usageType": "Alimentaire et Médicinale",
+    "maladieSummary": "Digestif, Tégumentaire",
+    "toxBadgeText": "Toxique",
+    "toxBadgeColor": "red"
   },
   {
     "id": 117,
@@ -5488,7 +5951,11 @@ const plantesData = [
     "nomAnglais": "Rosary Pea",
     "familleDescription": "La famille des Fabacées constitue l'une des plus importantes familles végétales au monde, regroupant environ 20 000 espèces de lianes, arbres, arbustes et herbes distribuées sur tous les continents. Cette famille se distingue par une caractéristique écologique fondamentale : la capacité de nombreuses espèces à fixer l'azote atmosphérique grâce à une symbiose avec des bactéries du genre Rhizobium, enrichissant ainsi les sols en azote assimilable. Sur le plan alimentaire, les Fabacées fournissent des légumineuses essentielles comme les haricots (Phaseolus), les pois (Pisum), les lentilles (Lens) et l'arachide (Arachis hypogaea), toutes riches en protéines végétales de haute qualité. Médicinalement, cette famille offre des espèces d'intérêt thérapeutique comme le tamarin (Tamarindus indica) et diverses espèces de Senna aux propriétés laxatives. Phytochimiquement, les Fabacées se caractérisent par une signature dominée par les isoflavonoïdes, les tanins condensés, les saponines triterpéniques et les lectines, ciblant préférentiellement les systèmes digestif, cardiovasculaire et cutané. Toutefois, cette famille exige une vigilance particulière : certains genres comme Abrus renferment des toxalbulines mortelles, nécessitant des précautions absolues.",
     "familleImage": "381_Abrus_precatorius-001.jpg, 382_Arachis_hypogaea-001.jpg, 383_Bauhinia_divaricata-001.jpg, 384_Cajanus_cajan-001.jpg, 385_Haematoxylum_campechianum-001.jpg, 386_Inga_vera-001.jpg, 387_Mimosa_pudica-001.jpg, 388_Mucuna_pruriens-001.jpg, 389_Mucuna_urens-001.jpg, 3810_Phaseolus_lunatus-001.jpg, 3811_Prosopis_juliflora-001.jpg, 3812_Senna_alata-001.jpg, 3813_Senna_occidentalis-001.jpg, 3814_Tamarindus_indica-001.jpg",
-    "familleNum": "38"
+    "familleNum": "38",
+    "usageType": "Médicinale",
+    "maladieSummary": "Cardiovasculaire",
+    "toxBadgeText": "Toxique",
+    "toxBadgeColor": "red"
   },
   {
     "id": 118,
@@ -5534,7 +6001,11 @@ const plantesData = [
     "nomAnglais": "Peanut",
     "familleDescription": "",
     "familleImage": "",
-    "familleNum": "38"
+    "familleNum": "38",
+    "usageType": "Alimentaire et Médicinale",
+    "maladieSummary": "Cardiovasculaire",
+    "toxBadgeText": "Non toxique",
+    "toxBadgeColor": "green"
   },
   {
     "id": 119,
@@ -5581,7 +6052,11 @@ const plantesData = [
     "nomAnglais": "Butterfly Tree",
     "familleDescription": "",
     "familleImage": "",
-    "familleNum": "38"
+    "familleNum": "38",
+    "usageType": "Alimentaire et Médicinale",
+    "maladieSummary": "Urinaire, Hépatique",
+    "toxBadgeText": "Non toxique",
+    "toxBadgeColor": "green"
   },
   {
     "id": 120,
@@ -5630,7 +6105,11 @@ const plantesData = [
     "nomAnglais": "Pigeon Pea",
     "familleDescription": "",
     "familleImage": "",
-    "familleNum": "38"
+    "familleNum": "38",
+    "usageType": "Alimentaire",
+    "maladieSummary": "",
+    "toxBadgeText": "Non toxique",
+    "toxBadgeColor": "green"
   },
   {
     "id": 121,
@@ -5679,7 +6158,11 @@ const plantesData = [
     "nomAnglais": "Logwood",
     "familleDescription": "",
     "familleImage": "",
-    "familleNum": "38"
+    "familleNum": "38",
+    "usageType": "Alimentaire et Médicinale",
+    "maladieSummary": "Digestif",
+    "toxBadgeText": "Non toxique",
+    "toxBadgeColor": "green"
   },
   {
     "id": 122,
@@ -5726,7 +6209,11 @@ const plantesData = [
     "nomAnglais": "Inga",
     "familleDescription": "",
     "familleImage": "",
-    "familleNum": "38"
+    "familleNum": "38",
+    "usageType": "Alimentaire et Médicinale",
+    "maladieSummary": "Nerveux",
+    "toxBadgeText": "Non toxique",
+    "toxBadgeColor": "green"
   },
   {
     "id": 123,
@@ -5773,7 +6260,11 @@ const plantesData = [
     "nomAnglais": "Sensitive Plant",
     "familleDescription": "",
     "familleImage": "",
-    "familleNum": "38"
+    "familleNum": "38",
+    "usageType": "Alimentaire et Médicinale",
+    "maladieSummary": "Nerveux",
+    "toxBadgeText": "Non toxique",
+    "toxBadgeColor": "green"
   },
   {
     "id": 124,
@@ -5820,7 +6311,11 @@ const plantesData = [
     "nomAnglais": "Velvet Bean",
     "familleDescription": "",
     "familleImage": "",
-    "familleNum": "38"
+    "familleNum": "38",
+    "usageType": "Alimentaire et Médicinale",
+    "maladieSummary": "Nerveux",
+    "toxBadgeText": "Conditionnel",
+    "toxBadgeColor": "yellow"
   },
   {
     "id": 125,
@@ -5866,7 +6361,11 @@ const plantesData = [
     "nomAnglais": "Ox-eye Bean",
     "familleDescription": "",
     "familleImage": "",
-    "familleNum": "38"
+    "familleNum": "38",
+    "usageType": "Médicinale",
+    "maladieSummary": "Nerveux",
+    "toxBadgeText": "Non toxique",
+    "toxBadgeColor": "green"
   },
   {
     "id": 126,
@@ -5913,7 +6412,11 @@ const plantesData = [
     "nomAnglais": "Lima Bean",
     "familleDescription": "",
     "familleImage": "",
-    "familleNum": "38"
+    "familleNum": "38",
+    "usageType": "Alimentaire et Médicinale",
+    "maladieSummary": "",
+    "toxBadgeText": "Conditionnel",
+    "toxBadgeColor": "yellow"
   },
   {
     "id": 127,
@@ -5962,7 +6465,11 @@ const plantesData = [
     "nomAnglais": "Mesquite",
     "familleDescription": "",
     "familleImage": "",
-    "familleNum": "38"
+    "familleNum": "38",
+    "usageType": "Alimentaire et Médicinale",
+    "maladieSummary": "Respiratoire, Tégumentaire",
+    "toxBadgeText": "Non toxique",
+    "toxBadgeColor": "green"
   },
   {
     "id": 128,
@@ -6009,7 +6516,11 @@ const plantesData = [
     "nomAnglais": "Candle Bush",
     "familleDescription": "",
     "familleImage": "",
-    "familleNum": "38"
+    "familleNum": "38",
+    "usageType": "Médicinale",
+    "maladieSummary": "Digestif",
+    "toxBadgeText": "Non toxique",
+    "toxBadgeColor": "green"
   },
   {
     "id": 129,
@@ -6056,7 +6567,11 @@ const plantesData = [
     "nomAnglais": "Coffee Senna",
     "familleDescription": "",
     "familleImage": "",
-    "familleNum": "38"
+    "familleNum": "38",
+    "usageType": "Médicinale",
+    "maladieSummary": "Digestif, Hépatique",
+    "toxBadgeText": "Non toxique",
+    "toxBadgeColor": "green"
   },
   {
     "id": 130,
@@ -6105,7 +6620,11 @@ const plantesData = [
     "nomAnglais": "Tamarind",
     "familleDescription": "",
     "familleImage": "",
-    "familleNum": "38"
+    "familleNum": "38",
+    "usageType": "Alimentaire et Médicinale",
+    "maladieSummary": "Digestif",
+    "toxBadgeText": "Non toxique",
+    "toxBadgeColor": "green"
   },
   {
     "id": 131,
@@ -6152,7 +6671,11 @@ const plantesData = [
     "nomAnglais": "-",
     "familleDescription": "Dominant les régions tropicales avec plus de 3000 espèces réparties en 150 genres, les Gesnériacées constituent une famille remarquable d'herbes, d'arbustes et d'épiphytes, particulièrement diversifiée dans les Amériques et reconnaissable par ses fleurs tubulaires colorées. Cette famille comprend des genres ornementaux mondialement cultivés comme Saintpaulia (violette africaine), Begonia et Gloxinia, ainsi que des espèces à fort potentiel médicinal traditionnel dans les Caraïbes. Les Gesnériacées se distinguent par leur capacité d'adaptation aux milieux humides et ombragés, développant souvent des stratégies épiphytes sophistiquées. Sur le plan phytochimique, la famille présente une composition variable selon les genres : flavonoïdes, tanins, alcaloïdes et composés phénoliques dominent généralement, ciblant préférentiellement les systèmes digestif, respiratoire et dermatologique. Certains genres comme Columnea et Besleria sont utilisés traditionnellement contre les troubles gastro-intestinaux, tandis que d'autres présentent des propriétés anti-inflammatoires. La famille nécessite une attention particulière en Haïti car elle renferme plusieurs espèces endémiques menacées, notamment dans le genre Rhytidophyllum.",
     "familleImage": "391_Rhytidophyllum_bicolor-001.jpg",
-    "familleNum": "39"
+    "familleNum": "39",
+    "usageType": "Médicinale",
+    "maladieSummary": "Digestif",
+    "toxBadgeText": "Non toxique",
+    "toxBadgeColor": "green"
   },
   {
     "id": 132,
@@ -6199,7 +6722,11 @@ const plantesData = [
     "nomAnglais": "Macaw flower",
     "familleDescription": "Dominantes des sous-bois tropicaux humides, les Héliconiacées constituent une famille monogénérique remarquable par ses imposantes inflorescences colorées et sa relation étroite avec les colibris pollinisateurs. Cette famille regroupe environ 200 espèces du seul genre Heliconia, distribuées principalement en Amérique tropicale, avec quelques représentants en Asie du Sud-Est. Architecturalement proches des bananiers, les Héliconiacées se distinguent par leurs grandes feuilles engainantes et leurs spectaculaires bractées florales rouge vif, orange ou jaune qui abritent de discrètes fleurs tubulaires. Sur le plan ethnobotanique, plusieurs espèces sont exploitées localement pour l'artisanat (fibres des tiges), l'alimentation (jeunes pousses) et la médecine traditionnelle, particulièrement pour les soins cutanés. Phytochimiquement, la famille se caractérise par une signature dominée par les dérivés de l'acide cinnamique, les tanins et divers composés phénoliques, ciblant préférentiellement le système cutané. Il convient de noter que certaines espèces peuvent présenter des propriétés irritantes nécessitant des précautions lors de la manipulation des tiges et bractées.",
     "familleImage": "401_Heliconia_bihai-001.jpg",
-    "familleNum": "40"
+    "familleNum": "40",
+    "usageType": "Médicinale",
+    "maladieSummary": "",
+    "toxBadgeText": "Non toxique",
+    "toxBadgeColor": "green"
   },
   {
     "id": 133,
@@ -6248,7 +6775,11 @@ const plantesData = [
     "nomAnglais": "-",
     "familleDescription": "Dominante dans la flore côtière des Grandes Antilles, la famille des Hernandiacées rassemble environ 60 espèces d'arbres et d'arbustes tropicaux réparties en quatre genres principaux. Ces plantes ligneuses se distinguent par leur adaptation remarquable aux environnements littoraux et leur capacité à coloniser les zones de transition entre mangroves et forêts sèches. Le genre Hernandia constitue le cœur de cette famille, avec des espèces à bois léger traditionnellement utilisées pour la construction nautique dans tout le Pacifique et les Caraïbes. Sur le plan phytochimique, les Hernandiacées développent une signature moléculaire complexe dominée par les lignanes — notamment la podophyllotoxine —, les alcaloïdes benzylisoquinoléiques comme l'hernandine, et une gamme étendue de flavonoïdes et de saponines triterpéniques. Cette composition confère à la famille des propriétés biologiques ciblant préférentiellement les systèmes tégumentaire et cardiovasculaire, avec des activités anti-inflammatoires, antimicrobiennes et cicatrisantes documentées. La rareté croissante des représentants caribéens de cette famille, notamment les espèces endémiques d'Haïti, souligne l'urgence de leur étude et conservation.",
     "familleImage": "411_Hernandia_obovata-001.jpg",
-    "familleNum": "41"
+    "familleNum": "41",
+    "usageType": "Médicinale",
+    "maladieSummary": "Urinaire, Tégumentaire",
+    "toxBadgeText": "Non toxique",
+    "toxBadgeColor": "green"
   },
   {
     "id": 134,
@@ -6295,7 +6826,11 @@ const plantesData = [
     "nomAnglais": "-",
     "familleDescription": "Dominante dans la flore tropicale mondiale, la famille des Lamiacées rassemble près de 7 000 espèces réparties en 236 genres, principalement des herbes et arbustes aromatiques. Cette famille se distingue par sa richesse exceptionnelle en huiles essentielles volatiles, faisant d'elle l'une des sources végétales les plus importantes d'aromates culinaires et de plantes médicinales. Parmi les genres alimentaires, on retrouve les basilics (Ocimum), les menthes (Mentha) et les thyms (Thymus), largement cultivés en Haïti. Les genres à vocation thérapeutique incluent Coleus, Clerodendrum et Plectranthus, utilisés dans la médecine traditionnelle caribéenne. Sur le plan phytochimique, les Lamiacées présentent une signature dominée par les huiles essentielles riches en monoterpènes (menthol, thymol, carvacrol, linalol), les flavonoïdes, l'acide rosmarinique et les diterpènes, ciblant préférentiellement les systèmes respiratoire, digestif et nerveux. Une vigilance particulière s'impose avec certains genres comme Teucrium, dont plusieurs espèces contiennent des diterpènes hépatotoxiques néo-clérodaniques.",
     "familleImage": "421_Clerodendrum_spinosum-001.jpg, 422_Coleus_barbatus-001.jpg, 423_Melissa_officinalis-001.jpg, 424_Mentha_nemorosa-001.jpg, 425_Ocimum_basilicum-001.jpg, 426_Ocimum_gratissimum-001.jpg, 427_Plectranthus_amboinicus-001.jpg, 428_Salvia_rosmarinus-001.jpg, 429_Thymus_vulgaris-001.jpg",
-    "familleNum": "42"
+    "familleNum": "42",
+    "usageType": "Médicinale",
+    "maladieSummary": "Digestif, Cardiovasculaire",
+    "toxBadgeText": "Conditionnel",
+    "toxBadgeColor": "yellow"
   },
   {
     "id": 135,
@@ -6344,7 +6879,11 @@ const plantesData = [
     "nomAnglais": "Indian Coleus",
     "familleDescription": "",
     "familleImage": "",
-    "familleNum": "42"
+    "familleNum": "42",
+    "usageType": "Médicinale",
+    "maladieSummary": "Respiratoire, Cardiovasculaire",
+    "toxBadgeText": "Conditionnel",
+    "toxBadgeColor": "yellow"
   },
   {
     "id": 136,
@@ -6391,7 +6930,11 @@ const plantesData = [
     "nomAnglais": "Lemon Balm",
     "familleDescription": "",
     "familleImage": "",
-    "familleNum": "42"
+    "familleNum": "42",
+    "usageType": "Alimentaire et Médicinale",
+    "maladieSummary": "Digestif, Nerveux",
+    "toxBadgeText": "Non toxique",
+    "toxBadgeColor": "green"
   },
   {
     "id": 137,
@@ -6437,7 +6980,11 @@ const plantesData = [
     "nomAnglais": "Mint",
     "familleDescription": "",
     "familleImage": "",
-    "familleNum": "42"
+    "familleNum": "42",
+    "usageType": "Alimentaire et Médicinale",
+    "maladieSummary": "Digestif, Nerveux",
+    "toxBadgeText": "Non toxique",
+    "toxBadgeColor": "green"
   },
   {
     "id": 138,
@@ -6484,7 +7031,11 @@ const plantesData = [
     "nomAnglais": "Basil",
     "familleDescription": "",
     "familleImage": "",
-    "familleNum": "42"
+    "familleNum": "42",
+    "usageType": "Alimentaire et Médicinale",
+    "maladieSummary": "Digestif, Nerveux, Cardiovasculaire, Immunitaire",
+    "toxBadgeText": "Non toxique",
+    "toxBadgeColor": "green"
   },
   {
     "id": 139,
@@ -6531,7 +7082,11 @@ const plantesData = [
     "nomAnglais": "African Basil",
     "familleDescription": "",
     "familleImage": "",
-    "familleNum": "42"
+    "familleNum": "42",
+    "usageType": "Alimentaire et Médicinale",
+    "maladieSummary": "Respiratoire, Immunitaire, Hépatique",
+    "toxBadgeText": "Non toxique",
+    "toxBadgeColor": "green"
   },
   {
     "id": 140,
@@ -6579,7 +7134,11 @@ const plantesData = [
     "nomAnglais": "Mexican Mint",
     "familleDescription": "",
     "familleImage": "",
-    "familleNum": "42"
+    "familleNum": "42",
+    "usageType": "Alimentaire et Médicinale",
+    "maladieSummary": "Digestif, Respiratoire",
+    "toxBadgeText": "Non toxique",
+    "toxBadgeColor": "green"
   },
   {
     "id": 141,
@@ -6625,7 +7184,11 @@ const plantesData = [
     "nomAnglais": "Rosemary",
     "familleDescription": "",
     "familleImage": "",
-    "familleNum": "42"
+    "familleNum": "42",
+    "usageType": "Médicinale",
+    "maladieSummary": "Digestif, Nerveux",
+    "toxBadgeText": "Non toxique",
+    "toxBadgeColor": "green"
   },
   {
     "id": 142,
@@ -6671,7 +7234,11 @@ const plantesData = [
     "nomAnglais": "Thyme",
     "familleDescription": "",
     "familleImage": "",
-    "familleNum": "42"
+    "familleNum": "42",
+    "usageType": "Alimentaire et Médicinale",
+    "maladieSummary": "Respiratoire, Immunitaire",
+    "toxBadgeText": "Non toxique",
+    "toxBadgeColor": "green"
   },
   {
     "id": 143,
@@ -6717,7 +7284,11 @@ const plantesData = [
     "nomAnglais": "Cinnamon",
     "familleDescription": "Dominant les forêts tropicales humides, les Lauracées regroupent environ 2500 espèces réparties en 50 genres, principalement des arbres et arbustes aromatiques. Cette famille tropicale et subtropicale se distingue par sa remarquable diversité d'usages : alimentaires avec l'avocat (Persea americana), aromatiques avec la cannelle (Cinnamomum verum) et le laurier (Laurus nobilis), et médicinaux avec de nombreuses espèces amazoniennes. Les genres Persea, Cinnamomum et Ocotea constituent les piliers de cette famille en Haïti. Sur le plan phytochimique, les Lauracées se caractérisent par une signature dominée par des huiles essentielles riches en cinnamaldéhyde, eugénol et linalol, des flavonoïdes, des tanins et des acides gras spécifiques comme l'acide laurique. Ces composés ciblent préférentiellement les systèmes digestif, métabolique et cardiovasculaire. Une vigilance particulière s'impose avec certaines espèces du genre Cinnamomum, dont les huiles concentrées peuvent être irritantes pour les muqueuses, et les feuilles d'avocat, toxiques pour les animaux domestiques.",
     "familleImage": "431_Cinnamomum_verum-001.jpg, 432_Persea_americana-001.jpg",
-    "familleNum": "43"
+    "familleNum": "43",
+    "usageType": "Alimentaire et Médicinale",
+    "maladieSummary": "Digestif, Cardiovasculaire",
+    "toxBadgeText": "Non toxique",
+    "toxBadgeColor": "green"
   },
   {
     "id": 144,
@@ -6765,7 +7336,11 @@ const plantesData = [
     "nomAnglais": "Avocado",
     "familleDescription": "",
     "familleImage": "",
-    "familleNum": "43"
+    "familleNum": "43",
+    "usageType": "Alimentaire et Médicinale",
+    "maladieSummary": "Cardiovasculaire",
+    "toxBadgeText": "Non toxique",
+    "toxBadgeColor": "green"
   },
   {
     "id": 145,
@@ -6811,7 +7386,11 @@ const plantesData = [
     "nomAnglais": "Wormgrass",
     "familleDescription": "Réunissant environ 15 genres et 200 espèces principalement tropicales, les Loganiacées constituent une famille de plantes herbacées et ligneuses aux propriétés pharmacologiques remarquables. Cette famille se distingue par sa richesse en alcaloïdes indoliques puissants — notamment la spigéline, la strychnine et la brucine — qui confèrent à plusieurs de ses représentants des activités thérapeutiques ciblées mais également une toxicité significative. Les genres Spigelia et Strychnos dominent les usages médicinaux traditionnels, le premier étant reconnu pour ses propriétés anthelminthiques dans les Caraïbes et l'Amérique tropicale, tandis que le second produit des alcaloïdes d'une puissance exceptionnelle utilisés en pharmacologie moderne. Sur le plan phytochimique, la famille présente une signature caractérisée par des alcaloïdes indoliques, des iridoïdes et des flavonoïdes, ciblant préférentiellement les systèmes nerveux et parasitaire. Cette combinaison moléculaire exige une vigilance absolue : la marge thérapeutique est particulièrement étroite, et les surdosages peuvent provoquer convulsions, troubles cardiaques et intoxications graves.",
     "familleImage": "441_Spigelia_anthelmia-001.jpg",
-    "familleNum": "44"
+    "familleNum": "44",
+    "usageType": "Alimentaire et Médicinale",
+    "maladieSummary": "Nerveux",
+    "toxBadgeText": "Non toxique",
+    "toxBadgeColor": "green"
   },
   {
     "id": 146,
@@ -6857,7 +7436,11 @@ const plantesData = [
     "nomAnglais": "Pomegranate",
     "familleDescription": "Les Lythracées constituent une famille principalement arbustive de régions tropicales et subtropicales, rassemblant environ 600 espèces réparties en 30 genres. Cette famille se distingue par ses représentants à forte valeur nutritionnelle et thérapeutique, dont le grenadier (Punica granatum) représente l'espèce la plus emblématique pour ses propriétés antioxydantes exceptionnelles. D'autres genres d'intérêt incluent Lawsonia (henné) utilisé en cosmétique traditionnelle, et Lagerstroemia (lilas des Indes) prisé comme ornemental. Sur le plan phytochimique, les Lythracées présentent une signature remarquable dominée par les tanins hydrolysables — notamment les punicalagines et l'acide ellagique — les anthocyanes responsables des colorations rouge-pourpre des fruits, et divers flavonoïdes. Ces composés confèrent à la famille des propriétés antioxydantes, anti-inflammatoires et antimicrobiennes ciblant préférentiellement le système digestif. Une vigilance s'impose cependant : l'écorce de certaines espèces, notamment du grenadier, renferme des alcaloïdes comme la pelletierine, potentiellement toxiques à doses élevées et nécessitant une préparation appropriée.",
     "familleImage": "451_Punica_granatum-001.jpg",
-    "familleNum": "45"
+    "familleNum": "45",
+    "usageType": "Alimentaire et Médicinale",
+    "maladieSummary": "Digestif, Cardiovasculaire",
+    "toxBadgeText": "Conditionnel",
+    "toxBadgeColor": "yellow"
   },
   {
     "id": 147,
@@ -6901,7 +7484,11 @@ const plantesData = [
     "nomAnglais": "-",
     "familleDescription": "Dominante dans la flore tropicale américaine, la famille des Malpighiacées rassemble environ 1 300 espèces réparties en 75 genres, principalement des arbustes et lianes grimpantes. Cette famille se distingue par sa remarquable diversité d'usages : alimentaires avec des fruits riches en vitamine C comme l'acérola (Malpighia emarginata), médicinaux avec des propriétés digestives et antioxydantes marquées, et ornementaux grâce aux fleurs colorées de nombreuses espèces. Sur le plan phytochimique, les Malpighiacées développent une signature caractéristique dominée par des flavonoïdes complexes, des tanins condensés, des acides phénoliques et une concentration exceptionnelle en vitamine C chez certains genres. Ces composés ciblent préférentiellement les systèmes digestif et immunitaire, conférant des propriétés astringentes, antioxydantes et anti-inflammatoires. Une vigilance s'impose cependant : certaines espèces renferment des principes actifs puissants nécessitant un dosage approprié et une préparation adéquate pour éviter tout effet indésirable.",
     "familleImage": "462_Malpighia_emarginata-001.jpg",
-    "familleNum": "46"
+    "familleNum": "46",
+    "usageType": "Alimentaire et Médicinale",
+    "maladieSummary": "Digestif",
+    "toxBadgeText": "Non toxique",
+    "toxBadgeColor": "green"
   },
   {
     "id": 148,
@@ -6949,7 +7536,11 @@ const plantesData = [
     "nomAnglais": "Acerola / Cherry",
     "familleDescription": "",
     "familleImage": "",
-    "familleNum": "46"
+    "familleNum": "46",
+    "usageType": "Alimentaire et Médicinale",
+    "maladieSummary": "Digestif, Immunitaire",
+    "toxBadgeText": "Non toxique",
+    "toxBadgeColor": "green"
   },
   {
     "id": 149,
@@ -6995,7 +7586,11 @@ const plantesData = [
     "nomAnglais": "Okra",
     "familleDescription": "Les Malvacées regroupent environ 4000 espèces d'herbes, d'arbustes et d'arbres largement distribués dans les régions tropicales et subtropicales du globe. Cette famille cosmopolite compte plusieurs genres d'importance majeure : les hibiscus ornementaux (Hibiscus), le cotonnier (Gossypium), les fromagers tropicaux (Ceiba), et de nombreuses espèces alimentaires comme le gombo (Abelmoschus) et le cacao (Theobroma). Les genres Sida et Malva sont particulièrement valorisés en médecine traditionnelle pour leurs propriétés émollientes et anti-inflammatoires. Sur le plan phytochimique, cette famille se caractérise par une signature dominée par les mucilages polysaccharidiques, les flavonoïdes, les tanins et divers pigments anthocyaniques comme la malvidine. Ces composés ciblent préférentiellement les systèmes respiratoire, digestif et tégumentaire. Une vigilance s'impose concernant certains genres : le cotonnier (Gossypium) contient du gossypol potentiellement toxique, et le cacao (Theobroma) renferme de la théobromine qui peut provoquer des palpitations à forte dose et s'avère toxique pour les carnivores domestiques.",
     "familleImage": "471_Abelmoschus_esculentus-001.jpg, 472_Abutilon_abutiloides-001.jpg, 473_Ceiba_pentandra-001.jpg, 474_Corchorus_siliquosus-001.jpg, 475_Guazuma_ulmifolia-001.jpg, 477_Pavonia_spinifex-001.jpg, 478_Sida_acuta-001.jpg, 479_Theobroma_cacao-001.jpg, 4710_Thespesia_populnea-001.jpg, 4711_Urena_lobata-001.jpg, 4712_Wercklea_hottensis-001.jpg",
-    "familleNum": "47"
+    "familleNum": "47",
+    "usageType": "Alimentaire et Médicinale",
+    "maladieSummary": "Digestif, Endocrinien",
+    "toxBadgeText": "Non toxique",
+    "toxBadgeColor": "green"
   },
   {
     "id": 150,
@@ -7041,7 +7636,11 @@ const plantesData = [
     "nomAnglais": "Indian Mallow",
     "familleDescription": "",
     "familleImage": "",
-    "familleNum": "47"
+    "familleNum": "47",
+    "usageType": "Alimentaire et Médicinale",
+    "maladieSummary": "Respiratoire",
+    "toxBadgeText": "Non toxique",
+    "toxBadgeColor": "green"
   },
   {
     "id": 151,
@@ -7090,7 +7689,11 @@ const plantesData = [
     "nomAnglais": "Kapok tree",
     "familleDescription": "",
     "familleImage": "",
-    "familleNum": "47"
+    "familleNum": "47",
+    "usageType": "Alimentaire et Médicinale",
+    "maladieSummary": "Respiratoire, Endocrinien",
+    "toxBadgeText": "Non toxique",
+    "toxBadgeColor": "green"
   },
   {
     "id": 152,
@@ -7136,7 +7739,11 @@ const plantesData = [
     "nomAnglais": "Jute",
     "familleDescription": "",
     "familleImage": "",
-    "familleNum": "47"
+    "familleNum": "47",
+    "usageType": "Alimentaire et Médicinale",
+    "maladieSummary": "Digestif, Urinaire",
+    "toxBadgeText": "Non toxique",
+    "toxBadgeColor": "green"
   },
   {
     "id": 153,
@@ -7183,7 +7790,11 @@ const plantesData = [
     "nomAnglais": "West Indian Elm",
     "familleDescription": "",
     "familleImage": "",
-    "familleNum": "47"
+    "familleNum": "47",
+    "usageType": "Alimentaire et Médicinale",
+    "maladieSummary": "Digestif, Tégumentaire",
+    "toxBadgeText": "Non toxique",
+    "toxBadgeColor": "green"
   },
   {
     "id": 154,
@@ -7227,7 +7838,11 @@ const plantesData = [
     "nomAnglais": "Hibiscus",
     "familleDescription": "",
     "familleImage": "",
-    "familleNum": "47"
+    "familleNum": "47",
+    "usageType": "Alimentaire et Médicinale",
+    "maladieSummary": "Respiratoire, Cardiovasculaire, Tégumentaire",
+    "toxBadgeText": "Non toxique",
+    "toxBadgeColor": "green"
   },
   {
     "id": 155,
@@ -7276,7 +7891,11 @@ const plantesData = [
     "nomAnglais": "Gingerbush",
     "familleDescription": "",
     "familleImage": "",
-    "familleNum": "47"
+    "familleNum": "47",
+    "usageType": "Alimentaire et Médicinale",
+    "maladieSummary": "",
+    "toxBadgeText": "Non toxique",
+    "toxBadgeColor": "green"
   },
   {
     "id": 156,
@@ -7322,7 +7941,11 @@ const plantesData = [
     "nomAnglais": "Wireweed",
     "familleDescription": "",
     "familleImage": "",
-    "familleNum": "47"
+    "familleNum": "47",
+    "usageType": "Alimentaire et Médicinale",
+    "maladieSummary": "Digestif, Immunitaire",
+    "toxBadgeText": "Non toxique",
+    "toxBadgeColor": "green"
   },
   {
     "id": 157,
@@ -7369,7 +7992,11 @@ const plantesData = [
     "nomAnglais": "Cocoa",
     "familleDescription": "",
     "familleImage": "",
-    "familleNum": "47"
+    "familleNum": "47",
+    "usageType": "Alimentaire et Médicinale",
+    "maladieSummary": "Nerveux, Cardiovasculaire",
+    "toxBadgeText": "Conditionnel",
+    "toxBadgeColor": "yellow"
   },
   {
     "id": 158,
@@ -7415,7 +8042,11 @@ const plantesData = [
     "nomAnglais": "Portia Tree",
     "familleDescription": "",
     "familleImage": "",
-    "familleNum": "47"
+    "familleNum": "47",
+    "usageType": "Alimentaire et Médicinale",
+    "maladieSummary": "Respiratoire",
+    "toxBadgeText": "Conditionnel",
+    "toxBadgeColor": "yellow"
   },
   {
     "id": 159,
@@ -7461,7 +8092,11 @@ const plantesData = [
     "nomAnglais": "Caesarweed",
     "familleDescription": "",
     "familleImage": "",
-    "familleNum": "47"
+    "familleNum": "47",
+    "usageType": "Alimentaire et Médicinale",
+    "maladieSummary": "Digestif, Respiratoire, Tégumentaire",
+    "toxBadgeText": "Non toxique",
+    "toxBadgeColor": "green"
   },
   {
     "id": 160,
@@ -7508,7 +8143,11 @@ const plantesData = [
     "nomAnglais": "-",
     "familleDescription": "",
     "familleImage": "",
-    "familleNum": "47"
+    "familleNum": "47",
+    "usageType": "Médicinale",
+    "maladieSummary": "Respiratoire, Tégumentaire",
+    "toxBadgeText": "Non toxique",
+    "toxBadgeColor": "green"
   },
   {
     "id": 161,
@@ -7556,7 +8195,11 @@ const plantesData = [
     "nomAnglais": "-",
     "familleDescription": "Les Mélastomatacées représentent une fascinante famille pantropicale regroupant environ 5000 espèces réparties en 185 genres, dominée par des arbustes et des arbres aux feuilles caractéristiques à nervation parallèle. Cette famille se distingue par une remarquable diversité écologique, colonisant aussi bien les sous-bois humides que les canopées de forêts nuageuses d'altitude. Sur le plan alimentaire, plusieurs genres produisent des fruits comestibles appréciés localement, notamment Miconia et Bellucia. L'intérêt médicinal de cette famille est considérable dans les pharmacopées tropicales, avec des usages traditionnels documentés pour les affections digestives, respiratoires et cutanées. La signature phytochimique reste variable selon les genres, mais révèle généralement une richesse en tanins, flavonoïdes et triterpènes. Les anthocyanes et caroténoïdes confèrent aux fruits leurs couleurs vives, de pourpre à orange. Cette famille présente un profil toxicologique généralement favorable, nécessitant toutefois une évaluation espèce par espèce en raison de la diversité chimique observée.",
     "familleImage": "481_Meriana_Brevipenduculata-001.jpg",
-    "familleNum": "48"
+    "familleNum": "48",
+    "usageType": "Médicinale",
+    "maladieSummary": "",
+    "toxBadgeText": "Non toxique",
+    "toxBadgeColor": "green"
   },
   {
     "id": 162,
@@ -7604,7 +8247,11 @@ const plantesData = [
     "nomAnglais": "Velvetleaf",
     "familleDescription": "Les Menispermacées constituent une famille tropicale remarquable de lianes grimpantes, comptant environ 550 espèces réparties dans plus de 70 genres à travers les régions chaudes du globe. Reconnaissables par leur port lianescent caractéristique, ces plantes colonisent efficacement les lisières forestières, les haies et les bosquets des régions tropicales. La famille se distingue par une riche tradition médicinale, particulièrement développée dans les systèmes de médecine traditionnelle asiatique et américaine. Sur le plan phytochimique, les Menispermacées expriment une signature chimique dominée par des alcaloïdes isoquinoléiques puissants — notamment l'hayatine (curine), la berbérine et la cissampeline — qui confèrent à ces plantes leurs propriétés myorelaxantes et antispasmodiques remarquables. Ces composés ciblent préférentiellement les systèmes reproducteur féminin et musculaire, expliquant leur usage traditionnel contre les dysménorrhées et les spasmes. La famille nécessite une vigilance particulière car plusieurs genres contiennent des alcaloïdes aux effets neuromusculaires puissants, exigeant une utilisation experte et des précautions strictes, notamment chez les femmes enceintes.",
     "familleImage": "491_Cissampelos_pareira-001.jpg",
-    "familleNum": "49"
+    "familleNum": "49",
+    "usageType": "Médicinale",
+    "maladieSummary": "Reproducteur",
+    "toxBadgeText": "Non toxique",
+    "toxBadgeColor": "green"
   },
   {
     "id": 163,
@@ -7652,7 +8299,11 @@ const plantesData = [
     "nomAnglais": "Breadfruit",
     "familleDescription": "Dominant les écosystèmes tropicaux humides, les Moracées constituent une famille d'environ 1100 espèces principalement arborescentes, réparties en 37 genres. Cette famille se distingue par une remarquable diversité d'usages alimentaires — incluant le figuier (Ficus carica), l'arbre à pain (Artocarpus altilis) et le jacquier (Artocarpus heterophyllus) — et par ses propriétés médicinales ancestrales. Les genres Morus (mûriers) et Ficus (figuiers) sont particulièrement valorisés en phytothérapie cardiovasculaire. Sur le plan aromatique, certains Ficus produisent des latex utilisés traditionnellement. Phytochimiquement, la famille exprime une signature dominée par les flavonoïdes, les stilbènes — notamment le resvératrol présent chez Morus — l'amidon dans les fruits, l'artocarpine spécifique au genre Artocarpus, et des concentrations élevées en potassium et vitamine C. Ces composés ciblent préférentiellement le système cardiovasculaire, avec des effets hypotenseurs et hypoglycémiants documentés. Une vigilance s'impose néanmoins : certaines espèces produisent des latex contenant des enzymes protéolytiques puissantes pouvant provoquer des irritations cutanées sévères, exigeant une manipulation prudente lors de la récolte et de la préparation.",
     "familleImage": "501_Artocarpus_altilis-001.jpg, 502_Artocarpus_communis-001.jpg, 503_Artocarpus_jaca-001.jpg",
-    "familleNum": "50"
+    "familleNum": "50",
+    "usageType": "Alimentaire et Médicinale",
+    "maladieSummary": "Digestif, Cardiovasculaire",
+    "toxBadgeText": "Non toxique",
+    "toxBadgeColor": "green"
   },
   {
     "id": 164,
@@ -7699,7 +8350,11 @@ const plantesData = [
     "nomAnglais": "Breadfruit",
     "familleDescription": "",
     "familleImage": "",
-    "familleNum": "50"
+    "familleNum": "50",
+    "usageType": "Alimentaire et Médicinale",
+    "maladieSummary": "Digestif, Endocrinien",
+    "toxBadgeText": "Non toxique",
+    "toxBadgeColor": "green"
   },
   {
     "id": 165,
@@ -7745,7 +8400,11 @@ const plantesData = [
     "nomAnglais": "Jackfruit",
     "familleDescription": "",
     "familleImage": "",
-    "familleNum": "50"
+    "familleNum": "50",
+    "usageType": "Alimentaire et Médicinale",
+    "maladieSummary": "Cardiovasculaire",
+    "toxBadgeText": "Non toxique",
+    "toxBadgeColor": "green"
   },
   {
     "id": 166,
@@ -7793,7 +8452,11 @@ const plantesData = [
     "nomAnglais": "Drumstick Tree",
     "familleDescription": "Les Moringacées forment une famille botanique remarquable de petits arbres tropicaux, comptant seulement 13 espèces réparties en un seul genre, Moringa. Cette famille se distingue par son exceptionnelle valeur nutritionnelle et thérapeutique, particulièrement représentée par Moringa oleifera, surnommé « l'arbre miracle ». Sur le plan alimentaire, les Moringacées constituent une source protéique végétale complète rare, avec des teneurs record en vitamine A, calcium et fer, rivalisant avec les meilleures sources animales. Médicinalement, ces arbres trouvent leur place dans la prise en charge du diabète de type 2, de l'hypertension et des carences nutritionnelles. Le profil phytochimique de la famille se caractérise par une signature dominée par les isothiocyanates — notamment la moringine —, les flavonoïdes comme la quercétine et le kaempférol, ainsi qu'une densité minérale exceptionnelle en calcium, potassium et fer. Ces composés ciblent préférentiellement les systèmes nutritionnel, immunitaire et métabolique. Une vigilance s'impose concernant les racines et l'écorce, qui concentrent des principes actifs puissants déconseillés chez la femme enceinte.",
     "familleImage": "511_Moringa_oleifera-001.jpg",
-    "familleNum": "51"
+    "familleNum": "51",
+    "usageType": "Alimentaire et Médicinale",
+    "maladieSummary": "Immunitaire",
+    "toxBadgeText": "Non toxique",
+    "toxBadgeColor": "green"
   },
   {
     "id": 167,
@@ -7837,7 +8500,11 @@ const plantesData = [
     "nomAnglais": "Banana / Plantain",
     "familleDescription": "Dominant les régions tropicales et subtropicales du globe, les Musacées constituent une famille de grande importance économique et nutritionnelle, regroupant environ 70 espèces réparties en trois genres principaux : Musa (bananiers), Ensete et Musella. Cette famille se compose principalement d'herbes géantes à pseudo-tronc, atteignant parfois plusieurs mètres de hauteur. Le genre Musa représente l'un des aliments de base les plus consommés au monde, avec des variétés dessert (bananes douces) et des variétés légumes (bananes plantains), toutes deux largement cultivées en Haïti. Sur le plan phytochimique, les Musacées se caractérisent par une richesse exceptionnelle en amidon résistant, en potassium, en vitamine B6 et en composés bioactifs comme la dopamine et la leucocyanidine. Ces molécules ciblent préférentiellement les systèmes digestif, cardiovasculaire et nerveux, expliquant les usages traditionnels contre les troubles gastro-intestinaux et l'hypertension. La famille présente un profil toxicologique remarquablement sûr, faisant des bananiers un aliment de base fiable pour les populations tropicales.",
     "familleImage": "521_Musa_paradisiaca-001.jpg",
-    "familleNum": "52"
+    "familleNum": "52",
+    "usageType": "Alimentaire et Médicinale",
+    "maladieSummary": "Digestif, Cardiovasculaire",
+    "toxBadgeText": "Non toxique",
+    "toxBadgeColor": "green"
   },
   {
     "id": 168,
@@ -7881,7 +8548,11 @@ const plantesData = [
     "nomAnglais": "-",
     "familleDescription": "Dominant les paysages tropicaux avec plus de 5000 espèces mondiales, les Myrtacées rassemblent principalement des arbustes et des arbres aux feuilles persistantes et aromatiques. Cette famille remarquable compte de nombreux genres d'importance économique majeure : les goyaviers (Psidium guajava), les eucalyptus (Eucalyptus), les girofliers (Syzygium aromaticum) et les myrtes ornementaux. En Haïti, plusieurs genres endémiques comme Calyptranthes enrichissent la biodiversité du Sud et de la Grand'Anse. Sur le plan phytochimique, cette famille se caractérise par une signature dominée par les huiles essentielles riches en monoterpènes (limonène, eucalyptol), les tanins hydrolysables et condensés, les flavonoïdes (quercétine, myricétine) et une teneur élevée en vitamine C, conférant des propriétés antimicrobiennes, anti-inflammatoires et antioxydantes. Ces composés ciblent préférentiellement les systèmes digestif, respiratoire et immunitaire. Attention cependant : certains genres comme Melaleuca contiennent des principes actifs très concentrés dans leurs huiles essentielles, exigeant des précautions d'usage strictes pour éviter toute toxicité cutanée ou systémique.",
     "familleImage": "532_Eucalyptus_globulus-001.jpg, 533_Eugenia_crenulata-001.jpg, 534_Eugenia_jambos-001.jpg, 535_Myrica_picardae-001.jpg, 536_Pimenta_racemosa-001.jpg, 537_Psidium_guajava-001.jpg",
-    "familleNum": "53"
+    "familleNum": "53",
+    "usageType": "Alimentaire et Médicinale",
+    "maladieSummary": "Respiratoire, Immunitaire",
+    "toxBadgeText": "Non toxique",
+    "toxBadgeColor": "green"
   },
   {
     "id": 169,
@@ -7927,7 +8598,11 @@ const plantesData = [
     "nomAnglais": "Blue Gum",
     "familleDescription": "",
     "familleImage": "",
-    "familleNum": "53"
+    "familleNum": "53",
+    "usageType": "Alimentaire et Médicinale",
+    "maladieSummary": "Respiratoire",
+    "toxBadgeText": "Conditionnel",
+    "toxBadgeColor": "yellow"
   },
   {
     "id": 170,
@@ -7975,7 +8650,11 @@ const plantesData = [
     "nomAnglais": "-",
     "familleDescription": "",
     "familleImage": "",
-    "familleNum": "53"
+    "familleNum": "53",
+    "usageType": "Alimentaire et Médicinale",
+    "maladieSummary": "Digestif, Cardiovasculaire",
+    "toxBadgeText": "Non toxique",
+    "toxBadgeColor": "green"
   },
   {
     "id": 171,
@@ -8021,7 +8700,11 @@ const plantesData = [
     "nomAnglais": "Rose Apple",
     "familleDescription": "",
     "familleImage": "",
-    "familleNum": "53"
+    "familleNum": "53",
+    "usageType": "Alimentaire et Médicinale",
+    "maladieSummary": "Digestif, Immunitaire",
+    "toxBadgeText": "Conditionnel",
+    "toxBadgeColor": "yellow"
   },
   {
     "id": 172,
@@ -8068,7 +8751,11 @@ const plantesData = [
     "nomAnglais": "-",
     "familleDescription": "",
     "familleImage": "",
-    "familleNum": "53"
+    "familleNum": "53",
+    "usageType": "Alimentaire et Médicinale",
+    "maladieSummary": "Cardiovasculaire",
+    "toxBadgeText": "Non toxique",
+    "toxBadgeColor": "green"
   },
   {
     "id": 173,
@@ -8117,7 +8804,11 @@ const plantesData = [
     "nomAnglais": "Bay Rum Tree",
     "familleDescription": "",
     "familleImage": "",
-    "familleNum": "53"
+    "familleNum": "53",
+    "usageType": "Alimentaire et Médicinale",
+    "maladieSummary": "",
+    "toxBadgeText": "Non toxique",
+    "toxBadgeColor": "green"
   },
   {
     "id": 174,
@@ -8164,7 +8855,11 @@ const plantesData = [
     "nomAnglais": "Guava",
     "familleDescription": "",
     "familleImage": "",
-    "familleNum": "53"
+    "familleNum": "53",
+    "usageType": "Alimentaire et Médicinale",
+    "maladieSummary": "Digestif, Respiratoire, Immunitaire",
+    "toxBadgeText": "Non toxique",
+    "toxBadgeColor": "green"
   },
   {
     "id": 175,
@@ -8211,7 +8906,11 @@ const plantesData = [
     "nomAnglais": "Neem",
     "familleDescription": "Avec ses nombreuses espèces tropicales, les Méliacées constituent une famille d'arbres et d'arbustes particulièrement remarquable dans les Départements du Sud et de la Grand'Anse. Cette famille rassemble des genres aux usages multiples : alimentaires comme l'acajou à miel (Cedrela), médicinaux comme le neem (Azadirachta) et le lilas du pays (Melia), ainsi que des essences forestières précieuses comme les cèdres et acajous. Sur le plan phytochimique, les Méliacées se distinguent par leur richesse en limonoïdes — des composés triterpéniques amers aux propriétés insecticides et antimicrobiennes remarquables —, en tanins astringents, en saponines et en flavonoïdes. Ces molécules ciblent préférentiellement les systèmes tégumentaire, digestif et immunitaire, conférant à cette famille des propriétés cicatrisantes, antiparasitaires et anti-inflammatoires reconnues. Il convient cependant d'exercer une vigilance particulière car certaines espèces — notamment Melia azedarach — renferment des principes actifs puissants dans leurs graines et fruits, pouvant provoquer des troubles neurologiques à forte dose.",
     "familleImage": "541_Azadirachta_indica-001.jpg, 542_Cedrela_odorata-001.jpg, 543_Guarea_guidonia-001.jpg, 544_Melia_azedarach-001.jpg, 545_Swietenia_mahagoni-001.jpg, 546_Trichilia_hirta-001.jpg, 547_Trichilia_pallida-001.jpg",
-    "familleNum": "54"
+    "familleNum": "54",
+    "usageType": "Médicinale",
+    "maladieSummary": "Tégumentaire, Endocrinien",
+    "toxBadgeText": "Non toxique",
+    "toxBadgeColor": "green"
   },
   {
     "id": 176,
@@ -8258,7 +8957,11 @@ const plantesData = [
     "nomAnglais": "Spanish Cedar",
     "familleDescription": "",
     "familleImage": "",
-    "familleNum": "54"
+    "familleNum": "54",
+    "usageType": "Alimentaire et Médicinale",
+    "maladieSummary": "Immunitaire",
+    "toxBadgeText": "Non toxique",
+    "toxBadgeColor": "green"
   },
   {
     "id": 177,
@@ -8305,7 +9008,11 @@ const plantesData = [
     "nomAnglais": "Muskwood",
     "familleDescription": "",
     "familleImage": "",
-    "familleNum": "54"
+    "familleNum": "54",
+    "usageType": "Médicinale",
+    "maladieSummary": "Digestif",
+    "toxBadgeText": "Conditionnel",
+    "toxBadgeColor": "yellow"
   },
   {
     "id": 178,
@@ -8352,7 +9059,11 @@ const plantesData = [
     "nomAnglais": "Chinaberry",
     "familleDescription": "",
     "familleImage": "",
-    "familleNum": "54"
+    "familleNum": "54",
+    "usageType": "Alimentaire et Médicinale",
+    "maladieSummary": "Nerveux, Tégumentaire",
+    "toxBadgeText": "Non toxique",
+    "toxBadgeColor": "green"
   },
   {
     "id": 179,
@@ -8399,7 +9110,11 @@ const plantesData = [
     "nomAnglais": "Mahogany",
     "familleDescription": "",
     "familleImage": "",
-    "familleNum": "54"
+    "familleNum": "54",
+    "usageType": "Médicinale",
+    "maladieSummary": "Digestif, Cardiovasculaire",
+    "toxBadgeText": "Non toxique",
+    "toxBadgeColor": "green"
   },
   {
     "id": 180,
@@ -8446,7 +9161,11 @@ const plantesData = [
     "nomAnglais": "Broomstick",
     "familleDescription": "",
     "familleImage": "",
-    "familleNum": "54"
+    "familleNum": "54",
+    "usageType": "Alimentaire et Médicinale",
+    "maladieSummary": "Tégumentaire",
+    "toxBadgeText": "Non toxique",
+    "toxBadgeColor": "green"
   },
   {
     "id": 181,
@@ -8494,7 +9213,11 @@ const plantesData = [
     "nomAnglais": "-",
     "familleDescription": "",
     "familleImage": "",
-    "familleNum": "54"
+    "familleNum": "54",
+    "usageType": "Médicinale",
+    "maladieSummary": "Digestif",
+    "toxBadgeText": "Non toxique",
+    "toxBadgeColor": "green"
   },
   {
     "id": 182,
@@ -8543,7 +9266,11 @@ const plantesData = [
     "nomAnglais": "Four O'Clock",
     "familleDescription": "Dominantes dans les régions tropicales et subtropicales, les Nyctaginacées rassemblent environ 400 espèces réparties en 30 genres, principalement des herbes et des arbustes à distribution pantropicale. Cette famille se distingue par une remarquable diversité d'usages : des genres à vocation ornementale comme Bougainvillea, aux fleurs colorées qui parent les jardins tropicaux, des genres à potentiel médicinal comme Mirabilis, utilisé traditionnellement pour ses propriétés digestives et anti-inflammatoires, et des genres alimentaires occasionnels dans certaines régions du monde. Sur le plan phytochimique, les Nyctaginacées présentent une signature chimique particulière dominée par les bétalaïnes — pigments colorés responsables des teintes vives des fleurs et des bractées —, les flavonoïdes, la trigonelline, les triterpènes et diverses résines. Ces composés ciblent préférentiellement le système tégumentaire et digestif. Il convient cependant de souligner que certains genres, notamment Mirabilis, renferment des principes actifs puissants dans leurs racines et graines, exigeant une préparation adéquate et un dosage strict pour éviter tout risque de toxicité, particulièrement chez l'enfant.",
     "familleImage": "551_Mirabilis_jalapa-001.jpg",
-    "familleNum": "56"
+    "familleNum": "56",
+    "usageType": "Médicinale",
+    "maladieSummary": "Digestif, Tégumentaire",
+    "toxBadgeText": "Conditionnel",
+    "toxBadgeColor": "yellow"
   },
   {
     "id": 183,
@@ -8590,7 +9317,11 @@ const plantesData = [
     "nomAnglais": "Tallow wood",
     "familleDescription": "Dominant les écosystèmes secs des régions tropicales, les Olacacées rassemblent environ 200 espèces réparties en une trentaine de genres, principalement composées d'arbustes et d'arbres adaptés aux savanes et forêts sèches. Cette famille méconnue révèle pourtant une richesse remarquable tant sur le plan alimentaire que thérapeutique. Les genres à vocation alimentaire incluent Ximenia, dont les fruits acidulés et les graines oléagineuses nourrissent les populations locales, et Olax, aux fruits également comestibles. Sur le plan médicinal, plusieurs genres se distinguent par leurs propriétés cicatrisantes et antimicrobiennes, notamment Ximenia pour les affections cutanées et Olax pour les troubles digestifs. La signature phytochimique de cette famille se caractérise par des acides gras spécialisés comme l'acide ximénynique, des glycosides cyanogéniques tel que la sambunigrine, des saponines et des tanins condensés. Ces composés ciblent préférentiellement les systèmes digestif et cutané, offrant des propriétés anti-inflammatoires et antimicrobiennes. Une vigilance s'impose cependant : certaines espèces renferment des glycosides cyanogéniques dans leurs graines, exigeant une préparation adéquate pour éviter tout risque d'intoxication.",
     "familleImage": "561_Ximenia_americana-001.jpg",
-    "familleNum": "57"
+    "familleNum": "57",
+    "usageType": "Alimentaire et Médicinale",
+    "maladieSummary": "Digestif",
+    "toxBadgeText": "Non toxique",
+    "toxBadgeColor": "green"
   },
   {
     "id": 184,
@@ -8638,7 +9369,11 @@ const plantesData = [
     "nomAnglais": "Bilimbi",
     "familleDescription": "Les Oxalidacées constituent une famille botanique remarquable dominée par des arbres tropicaux, comptant environ 570 espèces réparties dans le monde entier. Cette famille se distingue par sa double vocation alimentaire et médicinale, avec des genres particulièrement prisés pour leurs fruits comestibles comme Averrhoa (carambole et bilimbi) et Oxalis (oseille sauvage). D'autres genres comme Biophytum trouvent leur place dans les pharmacopées traditionnelles pour leurs propriétés anti-inflammatoires et cicatrisantes. Sur le plan phytochimique, les Oxalidacées présentent une signature caractéristique dominée par l'acide oxalique, la vitamine C, l'acide citrique et des flavonoïdes spécifiques, conférant à leurs fruits cette acidité distinctive recherchée en cuisine tropicale. Ces composés ciblent préférentiellement les systèmes cardiovasculaire, rénal et nerveux. Cependant, une vigilance particulière s'impose avec cette famille : plusieurs espèces accumulent des concentrations élevées d'oxalates, particulièrement néphrotoxiques chez les personnes souffrant d'insuffisance rénale, de diabète ou d'hypertension, nécessitant des précautions strictes d'usage.",
     "familleImage": "571_Averrhoa_bilimbi-001.jpg, 572_Averrhoa_carambola-001.jpg",
-    "familleNum": "58"
+    "familleNum": "58",
+    "usageType": "Alimentaire et Médicinale",
+    "maladieSummary": "Digestif, Cardiovasculaire",
+    "toxBadgeText": "Conditionnel",
+    "toxBadgeColor": "yellow"
   },
   {
     "id": 185,
@@ -8684,7 +9419,11 @@ const plantesData = [
     "nomAnglais": "Starfruit",
     "familleDescription": "",
     "familleImage": "",
-    "familleNum": "58"
+    "familleNum": "58",
+    "usageType": "Alimentaire et Médicinale",
+    "maladieSummary": "Nerveux",
+    "toxBadgeText": "Conditionnel",
+    "toxBadgeColor": "yellow"
   },
   {
     "id": 186,
@@ -8732,7 +9471,11 @@ const plantesData = [
     "nomAnglais": "Mexican Poppy",
     "familleDescription": "Dominant les régions arides et semi-arides du globe, les Papavéracées rassemblent environ 760 espèces réparties en 42 genres, principalement sous forme d'herbes annuelles ou vivaces, plus rarement d'arbustes comme Bocconia. Cette famille se distingue par la production de latex coloré — blanc, jaune ou rouge — riche en alcaloïdes isoquinoliniques aux propriétés pharmacologiques marquées. Parmi les genres alimentaires, citons Papaver (pavot) dont les graines sont consommées en pâtisserie. Les genres à vocation médicinale incluent Chelidonium (chélidoine) pour les affections cutanées, Sanguinaria pour ses propriétés antimicrobiennes, et Argemone largement utilisé en médecine traditionnelle caribéenne malgré sa toxicité. Sur le plan phytochimique, la famille exprime une signature dominée par la berbérine, la sanguinarine, la protopine et autres alcaloïdes benzylisoquinoliniques, ciblant préférentiellement les systèmes oculaire, cutané et digestif. Une vigilance absolue s'impose avec le genre Argemone : ses graines contiennent des alcaloïdes cardiotoxiques responsables d'épidémies d'œdèmes massifs lors de contaminations alimentaires documentées.",
     "familleImage": "581_Argemone_mexicana-001.jpg, 582_Bocconia_frutescens-001.jpg",
-    "familleNum": "59"
+    "familleNum": "59",
+    "usageType": "Médicinale",
+    "maladieSummary": "Digestif, Oculaire",
+    "toxBadgeText": "Non toxique",
+    "toxBadgeColor": "green"
   },
   {
     "id": 187,
@@ -8780,7 +9523,11 @@ const plantesData = [
     "nomAnglais": "Parrot Weed",
     "familleDescription": "",
     "familleImage": "",
-    "familleNum": "59"
+    "familleNum": "59",
+    "usageType": "Alimentaire et Médicinale",
+    "maladieSummary": "Tégumentaire",
+    "toxBadgeText": "Non toxique",
+    "toxBadgeColor": "green"
   },
   {
     "id": 188,
@@ -8827,7 +9574,11 @@ const plantesData = [
     "nomAnglais": "Passion Fruit",
     "familleDescription": "Dominant les régions tropicales du monde, les Passifloracées rassemblent environ 900 espèces réparties en une vingtaine de genres, principalement sous forme de lianes grimpantes et d'arbustes. Cette famille se distingue par sa double vocation alimentaire et médicinale remarquable. Les genres à vocation alimentaire incluent Passiflora, dont plusieurs espèces produisent des fruits comestibles appréciés mondialement — notamment P. edulis (fruit de la passion) et P. quadrangularis (barbadine) cultivés en Haïti. Sur le plan médicinal, le genre Passiflora domine avec ses propriétés anxiolytiques et sédatives reconnues, particulièrement P. incarnata utilisée en phytothérapie moderne. La signature phytochimique de cette famille se caractérise par des flavonoïdes spécifiques (vitexine, isovitexine, chrysin), des alcaloïdes harmane et une richesse en vitamine C, ciblant préférentiellement les systèmes nerveux et reproducteur. Il convient toutefois d'être vigilant : les parties végétatives contiennent des composés cyanogènes potentiellement toxiques en grandes quantités, nécessitant une préparation appropriée et un dosage contrôlé pour les usages thérapeutiques.",
     "familleImage": "591_Passiflora_edulis-001.jpg, 592_Passiflora_quadrangularis-001.jpg, 593_Turnera_diffusa-001.jpg",
-    "familleNum": "60"
+    "familleNum": "60",
+    "usageType": "Alimentaire et Médicinale",
+    "maladieSummary": "Digestif, Nerveux",
+    "toxBadgeText": "Non toxique",
+    "toxBadgeColor": "green"
   },
   {
     "id": 189,
@@ -8874,7 +9625,11 @@ const plantesData = [
     "nomAnglais": "Giant Granadilla",
     "familleDescription": "",
     "familleImage": "",
-    "familleNum": "60"
+    "familleNum": "60",
+    "usageType": "Alimentaire et Médicinale",
+    "maladieSummary": "Nerveux, Cardiovasculaire",
+    "toxBadgeText": "Non toxique",
+    "toxBadgeColor": "green"
   },
   {
     "id": 190,
@@ -8921,7 +9676,11 @@ const plantesData = [
     "nomAnglais": "Damiana",
     "familleDescription": "",
     "familleImage": "",
-    "familleNum": "60"
+    "familleNum": "60",
+    "usageType": "Alimentaire et Médicinale",
+    "maladieSummary": "Nerveux, Reproducteur",
+    "toxBadgeText": "Non toxique",
+    "toxBadgeColor": "green"
   },
   {
     "id": 191,
@@ -8965,7 +9724,11 @@ const plantesData = [
     "nomAnglais": "",
     "familleDescription": "Les Pentaphyllacées constituent une famille botanique tropicale et subtropicale comprenant environ 350 espèces réparties en une dizaine de genres, principalement représentée par des arbres et arbustes persistants des forêts de montagne. Cette famille, autrefois incluse dans les Théacées, se distingue par sa prédilection pour les habitats d'altitude et les sols acides. Les genres Ternstroemia et Eurya dominent la famille avec leurs espèces arborescentes aux feuilles coriaces et aux fleurs discrètes. Sur le plan alimentaire, certaines espèces de Camellia (thé) appartiennent historiquement à ce groupe taxonomique élargi. Médicinalement, plusieurs genres comme Ternstroemia et Pentaphylax sont valorisés en médecine traditionnelle asiatique et caribéenne pour leurs propriétés anti-inflammatoires et astringentes. Le profil phytochimique de la famille reste partiellement élucidé mais semble dominé par les tanins condensés, les saponines triterpéniques et les flavonoïdes, ciblant préférentiellement les systèmes digestif et cutané. La conservation de cette famille revêt une importance particulière car plusieurs espèces présentent des aires de distribution très restreintes, notamment dans les massifs montagneux insulaires des Caraïbes.",
     "familleImage": "601_Ternstroemia_barkeri-001.jpg",
-    "familleNum": "61"
+    "familleNum": "61",
+    "usageType": "Médicinale",
+    "maladieSummary": "Digestif, Cardiovasculaire",
+    "toxBadgeText": "Non toxique",
+    "toxBadgeColor": "green"
   },
   {
     "id": 192,
@@ -9011,7 +9774,11 @@ const plantesData = [
     "nomAnglais": "Stonebreaker",
     "familleDescription": "Reconnues pour leur remarquable diversité thérapeutique, les Phyllanthacées constituent une famille tropicale de près de 2 000 espèces réparties en 60 genres, dominée par des herbes, arbustes et arbres de petite taille. Cette famille se distingue par ses usages médicinaux exceptionnels, particulièrement développés en médecine traditionnelle pan-tropicale. Les genres à vocation médicinale incluent Phyllanthus — dont plusieurs espèces sont reconnues pour leurs propriétés hépatoprotectrices et litholytiques —, Antidesma utilisé contre les troubles digestifs, et Glochidion aux propriétés anti-inflammatoires. Sur le plan phytochimique, les Phyllanthacées expriment une signature moléculaire dominée par les lignanes (phyllanthine, hypophyllanthine), les tanins hydrolysables, les flavonoïdes (quercétine, kaempférol) et l'acide ellagique, conférant à cette famille des propriétés antioxydantes et hépatoprotectrices marquées. Ces composés ciblent préférentiellement les systèmes urinaire et hépatique, faisant des Phyllanthacées des alliées thérapeutiques de première importance pour les affections rénales et hépatiques. La famille présente une excellente tolérance générale, bien que la prudence soit recommandée durant la grossesse en raison de données insuffisantes.",
     "familleImage": "611_Phyllanthus_niruri-001.jpg",
-    "familleNum": "62"
+    "familleNum": "62",
+    "usageType": "Médicinale",
+    "maladieSummary": "Urinaire, Cardiovasculaire, Immunitaire, Hépatique",
+    "toxBadgeText": "Non toxique",
+    "toxBadgeColor": "green"
   },
   {
     "id": 193,
@@ -9058,7 +9825,11 @@ const plantesData = [
     "nomAnglais": "Pokeberry",
     "familleDescription": "Les Phytolaccacées constituent une famille botanique tropicale regroupant environ 120 espèces réparties en une vingtaine de genres, principalement sous forme d'herbes vivaces, d'arbustes et de lianes. Cette famille présente une dualité remarquable entre potentiel alimentaire et risque toxicologique. Parmi les genres à vocation alimentaire, Phytolacca fournit des jeunes pousses consommées comme légumes verts en Amérique du Nord et dans les Caraïbes, tandis que les genres Rivina et Petiveria offrent des usages culinaires localisés. Sur le plan médicinal, Petiveria se distingue par ses propriétés antimicrobiennes et anti-inflammatoires, Phytolacca par ses effets sur le système lymphatique, et Rivina par ses applications dermatologiques. La signature phytochimique de cette famille repose sur des saponines triterpéniques (phytolaccosides), des lectines puissantes, des bétalaïnes pigmentaires et des alcaloïdes divers, ciblant préférentiellement les systèmes sanguin, lymphatique et tégumentaire. Une vigilance particulière s'impose car tous les genres — notamment Phytolacca — renferment des saponines potentiellement toxiques dans leurs racines et graines, pouvant provoquer des intoxications digestives et neurologiques graves.",
     "familleImage": "621_Phytolacca_rivinoides-001.jpg, 622_Trichostigma_octandrum-001.jpg",
-    "familleNum": "63"
+    "familleNum": "63",
+    "usageType": "Alimentaire et Médicinale",
+    "maladieSummary": "Digestif, Respiratoire, Tégumentaire",
+    "toxBadgeText": "Non toxique",
+    "toxBadgeColor": "green"
   },
   {
     "id": 194,
@@ -9107,7 +9878,11 @@ const plantesData = [
     "nomAnglais": "Hoop Vine",
     "familleDescription": "",
     "familleImage": "",
-    "familleNum": "63"
+    "familleNum": "63",
+    "usageType": "Alimentaire et Médicinale",
+    "maladieSummary": "Digestif, Cardiovasculaire, Tégumentaire",
+    "toxBadgeText": "Non toxique",
+    "toxBadgeColor": "green"
   },
   {
     "id": 195,
@@ -9156,7 +9931,11 @@ const plantesData = [
     "nomAnglais": "Hispaniolan Pine",
     "familleDescription": "Les Pinacées rassemblent environ 250 espèces d'arbres et arbustes résineux répartis dans une dizaine de genres, dominant les forêts tempérées et montagnardes du globe. Cette famille ne compte aucun genre à vocation alimentaire majeure en Haïti, mais plusieurs genres présentent un intérêt médicinal notable : Pinus pour les affections respiratoires, Abies pour ses propriétés balsamiques, et Picea pour ses vertus antiseptiques. Sur le plan aromatique, les Pinacées excellent par leurs essences résineuses utilisées en parfumerie et aromathérapie. La signature phytochimique de cette famille est dominée par les monoterpènes volatils (α-pinène, β-pinène), les acides résiniques, les tanins condensés et les flavonoïdes, ciblant préférentiellement le système respiratoire par leurs effets expectorants, antiseptiques et anti-inflammatoires. Il convient de noter que certaines espèces de cette famille — notamment les huiles essentielles concentrées de divers genres — peuvent présenter une neurotoxicité à doses élevées, exigeant une prudence particulière dans leur utilisation thérapeutique.",
     "familleImage": "631_Pinus_occidentalis-001.jpg",
-    "familleNum": "64"
+    "familleNum": "64",
+    "usageType": "Alimentaire et Médicinale",
+    "maladieSummary": "Respiratoire, Immunitaire",
+    "toxBadgeText": "Non toxique",
+    "toxBadgeColor": "green"
   },
   {
     "id": 196,
@@ -9205,7 +9984,11 @@ const plantesData = [
     "nomAnglais": "-",
     "familleDescription": "Dominantes dans les forêts tropicales humides, les Pipéracées rassemblent environ 3 600 espèces réparties dans 5 genres principaux, principalement sous forme de lianes, d'arbustes et d'herbes. Cette famille pantropicale est mondialement reconnue pour Piper nigrum, le poivrier noir, source de l'épice la plus commercialisée au monde. En Haïti, elle comprend plusieurs genres d'intérêt ethnobotanique : Piper (poivriers sauvages), Peperomia (plantes ornementales et médicinales) et Manekia (lianes forestières rares). Sur le plan phytochimique, les Pipéracées se distinguent par leur richesse en alcaloïdes amides — notamment la pipérine et ses dérivés — responsables de la saveur piquante caractéristique et des propriétés biologiques. Ces composés ciblent préférentiellement le système nerveux périphérique et la peau, expliquant les usages traditionnels en analgésie locale. La famille produit également des huiles essentielles à monoterpènes et des lignanes bioactifs. Attention : certaines espèces renferment des alcaloïdes puissants exigeant des précautions d'usage, particulièrement pour les préparations concentrées et l'usage prolongé.",
     "familleImage": "641_Manekia_urbanii-001.jpg",
-    "familleNum": "65"
+    "familleNum": "65",
+    "usageType": "Médicinale",
+    "maladieSummary": "",
+    "toxBadgeText": "Conditionnel",
+    "toxBadgeColor": "yellow"
   },
   {
     "id": 197,
@@ -9251,7 +10034,11 @@ const plantesData = [
     "nomAnglais": "Spiked Pepper",
     "familleDescription": "A completer — Famille 66",
     "familleImage": "651_Piper_aduncum-001.jpg, 652_Piper_hispidum-001.jpg, 653_Piper_umbellatum-001.jpg",
-    "familleNum": "66"
+    "familleNum": "66",
+    "usageType": "Alimentaire et Médicinale",
+    "maladieSummary": "Hépatique",
+    "toxBadgeText": "Non toxique",
+    "toxBadgeColor": "green"
   },
   {
     "id": 198,
@@ -9299,7 +10086,11 @@ const plantesData = [
     "nomAnglais": "Shrubby Pepper",
     "familleDescription": "",
     "familleImage": "",
-    "familleNum": "66"
+    "familleNum": "66",
+    "usageType": "Alimentaire et Médicinale",
+    "maladieSummary": "Respiratoire",
+    "toxBadgeText": "Non toxique",
+    "toxBadgeColor": "green"
   },
   {
     "id": 199,
@@ -9346,7 +10137,11 @@ const plantesData = [
     "nomAnglais": "Cow's Foot",
     "familleDescription": "",
     "familleImage": "",
-    "familleNum": "66"
+    "familleNum": "66",
+    "usageType": "Médicinale",
+    "maladieSummary": "Respiratoire, Tégumentaire, Endocrinien",
+    "toxBadgeText": "Non toxique",
+    "toxBadgeColor": "green"
   },
   {
     "id": 200,
@@ -9394,7 +10189,11 @@ const plantesData = [
     "nomAnglais": "Plantain",
     "familleDescription": "Dominant les environnements perturbés et les sols compactés, les Plantaginacées constituent une famille cosmopolite de plantes herbacées reconnaissable à ses feuilles en rosette basale et ses inflorescences en épis dressés. Cette famille de moyenne importance, comptant environ 1 900 espèces réparties dans le monde, se distingue par ses remarquables usages médicinaux traditionnels et sa richesse en mucilages thérapeutiques. Les genres principaux incluent Plantago, dont les espèces comme le plantain (Plantago major) sont utilisées depuis l'Antiquité pour leurs propriétés cicatrisantes et anti-inflammatoires, et Digitalis, comprenant les digitalines cardiotoniques puissantes. Sur le plan phytochimique, cette famille exprime une signature dominée par les mucilages arabinogalactanes, les iridoïdes comme l'aucubine et le catalpol, les flavonoïdes, les tanins et les acides phénoliques, ciblant préférentiellement les systèmes oculaire et digestif. ⚠️ Attention : certaines espèces de cette famille, notamment les genres Digitalis et Veronica, renferment des principes actifs très puissants ou potentiellement toxiques exigeant une préparation adéquate et un dosage strict pour éviter tout risque d'intoxication cardiaque.",
     "familleImage": "661_Plantago_major-001.jpg",
-    "familleNum": "67"
+    "familleNum": "67",
+    "usageType": "Médicinale",
+    "maladieSummary": "Digestif, Oculaire",
+    "toxBadgeText": "Non toxique",
+    "toxBadgeColor": "green"
   },
   {
     "id": 201,
@@ -9440,7 +10239,11 @@ const plantesData = [
     "nomAnglais": "Vetiver",
     "familleDescription": "Dominant les écosystèmes herbacés du globe avec plus de 12 000 espèces, les Poacées constituent la quatrième plus grande famille botanique et l'une des plus importantes économiquement. Cette famille d'herbes — anciennement nommée Graminées — rassemble les céréales fondamentales de l'alimentation mondiale comme le riz (Oryza sativa), le maïs (Zea mays) et le petit mil (Pennisetum glaucum), tous présents en Haïti. Au-delà de leur valeur nutritive, plusieurs genres offrent des propriétés aromatiques remarquables : Cymbopogon produit la citronnelle, source d'huiles essentielles répulsives, tandis que Chrysopogon fournit le vétiver, prisé en parfumerie mondiale. La canne à sucre (Saccharum officinarum) illustre leur potentiel industriel. Sur le plan phytochimique, cette famille se caractérise par une richesse en amidon et cellulose, complétée par des huiles essentielles sesquiterpéniques chez les espèces aromatiques, ciblant préférentiellement les systèmes nerveux, cutané et respiratoire. Une vigilance s'impose néanmoins avec le sorgho jeune qui peut synthétiser des cyanogènes toxiques avant maturité.",
     "familleImage": "671_Chrysopogon_zizanioides-001.jpg, 672_Cymbopogon_citratus-001.jpg, 673_Oryza_sativa-001.jpg, 674_Saccharum_officinarum-003.jpg, 675_Sorghum_bicolor-001.jpg, 676_Zea_mays-001.jpg",
-    "familleNum": "68"
+    "familleNum": "68",
+    "usageType": "Médicinale",
+    "maladieSummary": "Nerveux",
+    "toxBadgeText": "Non toxique",
+    "toxBadgeColor": "green"
   },
   {
     "id": 202,
@@ -9487,7 +10290,11 @@ const plantesData = [
     "nomAnglais": "Lemongrass",
     "familleDescription": "",
     "familleImage": "",
-    "familleNum": "68"
+    "familleNum": "68",
+    "usageType": "Alimentaire et Médicinale",
+    "maladieSummary": "Digestif, Respiratoire, Nerveux",
+    "toxBadgeText": "Non toxique",
+    "toxBadgeColor": "green"
   },
   {
     "id": 203,
@@ -9536,7 +10343,11 @@ const plantesData = [
     "nomAnglais": "Rice",
     "familleDescription": "",
     "familleImage": "",
-    "familleNum": "68"
+    "familleNum": "68",
+    "usageType": "Alimentaire et Médicinale",
+    "maladieSummary": "Digestif",
+    "toxBadgeText": "Non toxique",
+    "toxBadgeColor": "green"
   },
   {
     "id": 204,
@@ -9585,7 +10396,11 @@ const plantesData = [
     "nomAnglais": "Sugarcane",
     "familleDescription": "",
     "familleImage": "",
-    "familleNum": "68"
+    "familleNum": "68",
+    "usageType": "Alimentaire et Médicinale",
+    "maladieSummary": "",
+    "toxBadgeText": "Non toxique",
+    "toxBadgeColor": "green"
   },
   {
     "id": 205,
@@ -9631,7 +10446,11 @@ const plantesData = [
     "nomAnglais": "Sorghum",
     "familleDescription": "",
     "familleImage": "",
-    "familleNum": "68"
+    "familleNum": "68",
+    "usageType": "Alimentaire",
+    "maladieSummary": "Cardiovasculaire",
+    "toxBadgeText": "Conditionnel",
+    "toxBadgeColor": "yellow"
   },
   {
     "id": 206,
@@ -9678,7 +10497,11 @@ const plantesData = [
     "nomAnglais": "Corn / Maize",
     "familleDescription": "",
     "familleImage": "",
-    "familleNum": "68"
+    "familleNum": "68",
+    "usageType": "Alimentaire et Médicinale",
+    "maladieSummary": "Urinaire",
+    "toxBadgeText": "Non toxique",
+    "toxBadgeColor": "green"
   },
   {
     "id": 207,
@@ -9724,7 +10547,11 @@ const plantesData = [
     "nomAnglais": "-",
     "familleDescription": "Avec ses 17 genres et environ 1 000 espèces réparties principalement dans les régions tropicales et subtropicales, les Polygalacées constituent une famille botanique remarquable dominée par les lianes et les arbustes grimpants. Cette famille se distingue par une orientation thérapeutique marquée, ses membres étant traditionnellement recherchés pour leurs puissantes propriétés anti-inflammatoires et analgésiques. Les genres Polygala et Securidaca représentent les principaux représentants médicinaux, largement utilisés dans les pharmacopées traditionnelles des Caraïbes et d'Amérique tropicale pour traiter les affections musculo-squelettiques. Sur le plan phytochimique, les Polygalacées présentent une signature caractéristique dominée par le salicylate de méthyle — responsable de l'odeur caractéristique de wintergreen —, les saponines triterpéniques, les xanthones et divers flavonoïdes, conférant à cette famille un tropisme préférentiel pour les systèmes musculo-squelettique et cardiovasculaire. Il convient cependant de noter que certaines espèces renferment des saponines à concentration élevée, pouvant provoquer des irritations gastro-intestinales et des effets hémolytiques à doses excessives, exigeant une utilisation prudente et experte.",
     "familleImage": "681_Securidaca_virgata-001.jpg",
-    "familleNum": "69"
+    "familleNum": "69",
+    "usageType": "Médicinale",
+    "maladieSummary": "",
+    "toxBadgeText": "Conditionnel",
+    "toxBadgeColor": "yellow"
   },
   {
     "id": 208,
@@ -9772,7 +10599,11 @@ const plantesData = [
     "nomAnglais": "Coral Vine",
     "familleDescription": "Dominantes dans les régions tropicales et tempérées, les Polygonacées rassemblent environ 1200 espèces réparties en 50 genres, incluant principalement des lianes, des arbres et des herbes. Cette famille se distingue par ses remarquables usages alimentaires — notamment le sarrasin (Fagopyrum esculentum) et l'oseille (Rumex acetosa) — et ses propriétés médicinales reconnues depuis l'Antiquité. Parmi les genres à vocation thérapeutique, Rumex est réputé pour ses propriétés dépuratives, Polygonum pour ses effets anti-inflammatoires, et Reynoutria (anciennement Polygonum) pour ses composés antioxydants. Sur le plan ornemental, le genre Antigonon produit des lianes à floraison spectaculaire très prisées en horticulture tropicale. La signature phytochimique de cette famille est dominée par les tanins astringents, les anthraquinones laxatives, les flavonoïdes antioxydants et les anthocyanes colorantes, ciblant préférentiellement les systèmes tégumentaire et digestif. Une vigilance particulière s'impose avec certaines espèces du genre Rumex qui accumulent des oxalates potentiellement problématiques pour les insuffisants rénaux à doses élevées.",
     "familleImage": "691_Antigonon_leptopus-001.jpg, 692_Coccoloba_uvifera-001.jpg",
-    "familleNum": "70"
+    "familleNum": "70",
+    "usageType": "Alimentaire et Médicinale",
+    "maladieSummary": "Tégumentaire",
+    "toxBadgeText": "Non toxique",
+    "toxBadgeColor": "green"
   },
   {
     "id": 209,
@@ -9818,7 +10649,11 @@ const plantesData = [
     "nomAnglais": "Sea Grape",
     "familleDescription": "",
     "familleImage": "",
-    "familleNum": "70"
+    "familleNum": "70",
+    "usageType": "Alimentaire et Médicinale",
+    "maladieSummary": "Digestif",
+    "toxBadgeText": "Non toxique",
+    "toxBadgeColor": "green"
   },
   {
     "id": 210,
@@ -9864,7 +10699,11 @@ const plantesData = [
     "nomAnglais": "Purslane",
     "familleDescription": "Dominant les régions tropicales et subtropicales, les Portulacacées rassemblent environ 500 espèces réparties en 20 genres, principalement des herbes succulentes adaptées aux environnements arides. Cette famille se distingue par ses remarquables propriétés nutritionnelles et thérapeutiques, particulièrement représentées par le pourpier (Portulaca oleracea), légume-feuille exceptionnel par sa richesse en acides gras oméga-3 végétaux. Sur le plan alimentaire, plusieurs genres comme Portulaca et Talinum constituent des sources précieuses de légumes-feuilles dans les Caraïbes. Les usages médicinaux concernent principalement les systèmes cardiovasculaire et métabolique, grâce à une signature phytochimique dominée par les acides gras polyinsaturés, les bétalaïnes antioxydantes, les flavonoïdes et les minéraux essentiels (potassium, magnésium). Cette famille cible préférentiellement le système cardiovasculaire par ses effets hypotenseurs et cardioprotecteurs. Une vigilance s'impose néanmoins concernant la teneur élevée en oxalates de certaines espèces, pouvant favoriser la formation de calculs rénaux chez les sujets prédisposés.",
     "familleImage": "701_Portulaca_oleracea-001.jpg",
-    "familleNum": "71"
+    "familleNum": "71",
+    "usageType": "Alimentaire et Médicinale",
+    "maladieSummary": "Cardiovasculaire",
+    "toxBadgeText": "Non toxique",
+    "toxBadgeColor": "green"
   },
   {
     "id": 211,
@@ -9911,7 +10750,11 @@ const plantesData = [
     "nomAnglais": "-",
     "familleDescription": "Reconnues pour leur importance médicinale traditionnelle, les Primulacées rassemblent environ 2 800 espèces réparties dans 58 genres à travers le monde, dominées par les herbes vivaces et les arbustes. Cette famille présente une diversité remarquable d'adaptations écologiques, des primevères alpines aux cyclamens méditerranéens, en passant par les mourons des champs. En Haïti, elle est représentée par le genre endémique Clavija, dont l'unique espèce constitue un trésor botanique national. Sur le plan phytochimique, les Primulacées se caractérisent par une signature moléculaire dominée par les saponines triterpéniques, les benzoquinones et les flavonoïdes, conférant à cette famille ses propriétés dermatologiques et antimicrobiennes reconnues. Ces composés ciblent préférentiellement le système tégumentaire, expliquant l'usage traditionnel de nombreuses espèces pour les soins cutanés et capillaires. Il convient cependant de noter que certaines espèces — notamment du genre Anagallis — renferment des saponines hémolytiques puissantes, exigeant une vigilance particulière dans leur manipulation et leur usage.",
     "familleImage": "711_Clavija_domingensis-001.jpg",
-    "familleNum": "72"
+    "familleNum": "72",
+    "usageType": "Alimentaire et Médicinale",
+    "maladieSummary": "Tégumentaire",
+    "toxBadgeText": "Non toxique",
+    "toxBadgeColor": "green"
   },
   {
     "id": 212,
@@ -9955,7 +10798,11 @@ const plantesData = [
     "nomAnglais": "Maidenhair Fern",
     "familleDescription": "Les Ptéridacées rassemblent une diversité remarquable de fougères cosmopolites, particulièrement bien représentées dans les régions tropicales et subtropicales humides. Cette famille ancienne comprend plusieurs genres d'importance médicinale traditionnelle, notamment Adiantum (capillaires), Pteris et Pellaea, reconnus depuis l'Antiquité pour leurs propriétés pectorales et adoucissantes. Sur le plan phytochimique, les Ptéridacées se caractérisent par une signature dominée par les mucilages, les triterpènes, les flavonoïdes et les tanins, conférant à ces plantes leurs propriétés émollientes et anti-inflammatoires. Ces composés ciblent préférentiellement le système respiratoire, où ils exercent des effets expectorants, antitussifs et adoucissants des muqueuses bronchiques. La présence de saponines triterpéniques dans plusieurs genres explique leurs usages traditionnels comme diurétiques légers. Bien que généralement non toxiques aux doses médicinales usuelles, certaines espèces de cette famille peuvent présenter des principes actifs concentrés nécessitant une préparation adéquate, particulièrement lors d'usage prolongé chez les personnes présentant des troubles rénaux.",
     "familleImage": "",
-    "familleNum": "73"
+    "familleNum": "73",
+    "usageType": "Médicinale",
+    "maladieSummary": "Respiratoire",
+    "toxBadgeText": "Non toxique",
+    "toxBadgeColor": "green"
   },
   {
     "id": 213,
@@ -10002,7 +10849,11 @@ const plantesData = [
     "nomAnglais": "Guinea Hen Weed",
     "familleDescription": "Les Pétivériacées constituent une petite famille tropicale principalement composée d'herbes vivaces, remarquablement représentée dans la flore du grand Sud d'Haïti. Cette famille se distingue particulièrement par ses usages médicinaux traditionnels profondément ancrés dans les pratiques thérapeutiques locales, ainsi que par ses applications spirituelles dans diverses cultures caribéennes. D'un point de vue alimentaire, aucun genre de cette famille n'est couramment consommé, leur saveur généralement âcre les rendant peu appétentes. En revanche, plusieurs genres présentent un fort potentiel médicinal : Petiveria pour ses propriétés immunomodulatrices et respiratoires, Gallesia pour ses effets antimicrobiens, et Rivina pour ses applications dermatologiques. Sur le plan phytochimique, les Pétivériacées se caractérisent par une signature moléculaire dominée par les composés organosoufrés — similaires à ceux de l'ail — responsables de leur odeur caractéristique, ainsi que par des flavonoïdes, des saponines triterpéniques, des tanins et divers terpénoïdes. Ces composés ciblent préférentiellement les systèmes respiratoire et tégumentaire. Une vigilance s'impose cependant, car certaines espèces renferment des principes actifs puissants pouvant provoquer hypotension et troubles digestifs, exigeant un dosage approprié et des précautions d'usage.",
     "familleImage": "731_Petiveria_alliacea-001.jpg, 732_Rivinia_humilis-001.jpg",
-    "familleNum": "74"
+    "familleNum": "74",
+    "usageType": "Médicinale",
+    "maladieSummary": "Respiratoire, Immunitaire",
+    "toxBadgeText": "Conditionnel",
+    "toxBadgeColor": "yellow"
   },
   {
     "id": 214,
@@ -10049,7 +10900,11 @@ const plantesData = [
     "nomAnglais": "Pigeonberry",
     "familleDescription": "",
     "familleImage": "",
-    "familleNum": "74"
+    "familleNum": "74",
+    "usageType": "Alimentaire et Médicinale",
+    "maladieSummary": "Digestif, Tégumentaire",
+    "toxBadgeText": "Non toxique",
+    "toxBadgeColor": "green"
   },
   {
     "id": 215,
@@ -10096,7 +10951,11 @@ const plantesData = [
     "nomAnglais": "Coffee Colubrina",
     "familleDescription": "Avec près de 900 espèces réparties en 50 genres, les Rhamnacées constituent une famille cosmopolite dominée par des arbres, arbustes et lianes caractérisés par leurs remarquables propriétés détergentes naturelles. Cette famille occupe une place singulière dans l'ethnobotanique mondiale grâce à ses saponines triterpéniques, molécules amphiphiles qui confèrent aux écorces et feuilles de nombreuses espèces des propriétés moussantes exploitées comme savons végétaux. Parmi les genres alimentaires, Ziziphus produit les jujubes, fruits nutritifs consommés frais ou séchés dans de nombreuses régions tropicales. Les genres Rhamnus et Colubrina dominent les usages médicinaux, ciblant préférentiellement les systèmes cutané, digestif et urinaire grâce à leurs tanins astringents et leurs flavonoïdes anti-inflammatoires. Sur le plan phytochimique, la famille se distingue par une signature moléculaire riche en saponines triterpéniques, tanins condensés, flavonoïdes et acides phénoliques. Une vigilance s'impose cependant avec certains représentants du genre Rhamnus qui renferment des anthraquinones purgatives puissantes, exigeant des préparations et dosages stricts pour éviter les intoxications digestives.",
     "familleImage": "741_Colubrina_arborescens-001.jpg, 742_Colubrina_asiatica-001.jpg, 743_Gouania_lupuloides-001.jpg",
-    "familleNum": "75"
+    "familleNum": "75",
+    "usageType": "Médicinale",
+    "maladieSummary": "",
+    "toxBadgeText": "Non toxique",
+    "toxBadgeColor": "green"
   },
   {
     "id": 216,
@@ -10142,7 +11001,11 @@ const plantesData = [
     "nomAnglais": "Asian Snakewood",
     "familleDescription": "",
     "familleImage": "",
-    "familleNum": "75"
+    "familleNum": "75",
+    "usageType": "Médicinale",
+    "maladieSummary": "Cardiovasculaire",
+    "toxBadgeText": "Non toxique",
+    "toxBadgeColor": "green"
   },
   {
     "id": 217,
@@ -10189,7 +11052,11 @@ const plantesData = [
     "nomAnglais": "Chewstick",
     "familleDescription": "",
     "familleImage": "",
-    "familleNum": "75"
+    "familleNum": "75",
+    "usageType": "Médicinale",
+    "maladieSummary": "",
+    "toxBadgeText": "Non toxique",
+    "toxBadgeColor": "green"
   },
   {
     "id": 218,
@@ -10237,7 +11104,11 @@ const plantesData = [
     "nomAnglais": "Red Mangrove",
     "familleDescription": "Dominant les écosystèmes littoraux tropicaux, les Rhizophoracées constituent une famille botanique remarquable de 120 espèces réparties en 16 genres, principalement représentée par des arbres et arbustes adaptés aux environnements saumâtres. Cette famille se distingue par ses adaptations morphologiques uniques aux milieux côtiers — racines échasses, propagules flottantes, feuillage coriace — et par ses exceptionnelles propriétés médicinales. Les genres Rhizophora, Avicennia et Laguncularia forment l'épine dorsale des mangroves caribéennes, véritables nurseries marines d'une importance écologique capitale. Sur le plan phytochimique, les Rhizophoracées se caractérisent par une signature dominée par les tanins condensés, les catéchines, la lignine et les triterpènes pentacycliques — composés conférant à leurs écorces des propriétés astringentes et anti-inflammatoires remarquables. Ces métabolites ciblent préférentiellement le système tégumentaire, faisant de cette famille une ressource thérapeutique privilégiée pour le traitement des plaies, des inflammations cutanées et des troubles digestifs. Bien que généralement non toxiques, certains représentants exigent des précautions particulières en raison de leur forte concentration en tanins, susceptibles de provoquer des irritations gastriques en cas de surdosage.",
     "familleImage": "751_Rhizophora_mangle-001.jpg",
-    "familleNum": "76"
+    "familleNum": "76",
+    "usageType": "Médicinale",
+    "maladieSummary": "Digestif, Respiratoire, Tégumentaire",
+    "toxBadgeText": "Non toxique",
+    "toxBadgeColor": "green"
   },
   {
     "id": 219,
@@ -10283,7 +11154,11 @@ const plantesData = [
     "nomAnglais": "Loquat",
     "familleDescription": "Avec ses nombreux genres à vocation alimentaire mondiale, la famille des Rosacées rassemble principalement des arbustes et des arbres reconnus pour leurs riches usages culinaires, médicinaux et ornementaux. Cette famille tropicale et tempérée comprend des genres alimentaires majeurs comme Prunus (pêchers, pruniers, cerisiers), Malus (pommiers), Pyrus (poiriers) et Rosa (rosiers), largement cultivés en Haïti pour leurs fruits et leurs propriétés thérapeutiques. Les genres Eriobotrya (néfliers) et Fragaria (fraisiers) complètent cette diversité fruitière. Sur le plan phytochimique, les Rosacées se caractérisent par une signature dominée par les flavonoïdes, les tanins condensés, l'acide ursolique et les triterpènes, ciblant préférentiellement les systèmes digestif, respiratoire et ORL. Cette famille présente une particularité toxicologique importante : si les fruits mûrs sont généralement comestibles et nutritifs, les noyaux, graines et amandes contiennent de l'amygdaline — un glycoside cyanogène précurseur du cyanure d'hydrogène — exigeant une vigilance absolue lors de leur manipulation et interdisant formellement leur consommation en grande quantité.",
     "familleImage": "761_Eriobotrya_japonica-001.jpg, 762_Prunus_myrtifolia-001.jpg, 763_Prunus_occidentalis-001.jpg, 764_Rubus_selleanus-002.jpg",
-    "familleNum": "77"
+    "familleNum": "77",
+    "usageType": "Alimentaire et Médicinale",
+    "maladieSummary": "Respiratoire",
+    "toxBadgeText": "Conditionnel",
+    "toxBadgeColor": "yellow"
   },
   {
     "id": 220,
@@ -10329,7 +11204,11 @@ const plantesData = [
     "nomAnglais": "West Indian Laurel",
     "familleDescription": "",
     "familleImage": "",
-    "familleNum": "77"
+    "familleNum": "77",
+    "usageType": "Alimentaire et Médicinale",
+    "maladieSummary": "Digestif",
+    "toxBadgeText": "Non toxique",
+    "toxBadgeColor": "green"
   },
   {
     "id": 221,
@@ -10376,7 +11255,11 @@ const plantesData = [
     "nomAnglais": "West Indian Cherry",
     "familleDescription": "",
     "familleImage": "",
-    "familleNum": "77"
+    "familleNum": "77",
+    "usageType": "Alimentaire et Médicinale",
+    "maladieSummary": "Digestif",
+    "toxBadgeText": "Non toxique",
+    "toxBadgeColor": "green"
   },
   {
     "id": 222,
@@ -10425,7 +11308,11 @@ const plantesData = [
     "nomAnglais": "-",
     "familleDescription": "",
     "familleImage": "",
-    "familleNum": "77"
+    "familleNum": "77",
+    "usageType": "Alimentaire et Médicinale",
+    "maladieSummary": "Digestif",
+    "toxBadgeText": "Non toxique",
+    "toxBadgeColor": "green"
   },
   {
     "id": 223,
@@ -10473,7 +11360,11 @@ const plantesData = [
     "nomAnglais": "Coffee",
     "familleDescription": "Les Rubiacées constituent l'une des plus importantes familles botaniques mondiales avec environ 13 000 espèces réparties principalement dans les régions tropicales et subtropicales. Cette vaste famille regroupe des formes biologiques très diversifiées — lianes, arbustes, herbes et arbres — qui dominent particulièrement la flore des Départements du Sud et de la Grand'Anse d'Haïti. Parmi les genres à vocation alimentaire, Coffea (caféier) représente l'une des boissons les plus consommées au monde, tandis que Morinda (noni) et Genipa (jenipa) offrent des fruits traditionnellement appréciés dans la Caraïbe. Sur le plan médicinal, cette famille se distingue par une richesse phytochimique exceptionnelle dominée par les alcaloïdes (caféine, quinine, iridoïdes), les flavonoïdes, les tanins, les anthraquinones et divers composés phénoliques. Ces molécules ciblent préférentiellement les systèmes nerveux, cardiovasculaire et tégumentaire. Une vigilance particulière s'impose car certains genres — notamment Hamelia — renferment des principes actifs puissants nécessitant une préparation adéquate.",
     "familleImage": "771_Coffea_arabica-001.jpg, 772_Genipa_americana-001.jpg, 773_Hamelia_patens-001.jpg, 774_Morinda_citrifolia-001.jpg, 775_Morinda_royoc-001.jpg, 776_Spermacoce_assurgens-001.jpg",
-    "familleNum": "78"
+    "familleNum": "78",
+    "usageType": "Alimentaire et Médicinale",
+    "maladieSummary": "Nerveux, Cardiovasculaire, Hépatique",
+    "toxBadgeText": "Non toxique",
+    "toxBadgeColor": "green"
   },
   {
     "id": 224,
@@ -10519,7 +11410,11 @@ const plantesData = [
     "nomAnglais": "Genipap",
     "familleDescription": "",
     "familleImage": "",
-    "familleNum": "78"
+    "familleNum": "78",
+    "usageType": "Alimentaire et Médicinale",
+    "maladieSummary": "Digestif",
+    "toxBadgeText": "Non toxique",
+    "toxBadgeColor": "green"
   },
   {
     "id": 225,
@@ -10566,7 +11461,11 @@ const plantesData = [
     "nomAnglais": "Firebush",
     "familleDescription": "",
     "familleImage": "",
-    "familleNum": "78"
+    "familleNum": "78",
+    "usageType": "Médicinale",
+    "maladieSummary": "Tégumentaire, Endocrinien",
+    "toxBadgeText": "Non toxique",
+    "toxBadgeColor": "green"
   },
   {
     "id": 226,
@@ -10613,7 +11512,11 @@ const plantesData = [
     "nomAnglais": "Noni",
     "familleDescription": "",
     "familleImage": "",
-    "familleNum": "78"
+    "familleNum": "78",
+    "usageType": "Alimentaire et Médicinale",
+    "maladieSummary": "Immunitaire",
+    "toxBadgeText": "Non toxique",
+    "toxBadgeColor": "green"
   },
   {
     "id": 227,
@@ -10661,7 +11564,11 @@ const plantesData = [
     "nomAnglais": "Red Gal",
     "familleDescription": "",
     "familleImage": "",
-    "familleNum": "78"
+    "familleNum": "78",
+    "usageType": "Alimentaire et Médicinale",
+    "maladieSummary": "Reproducteur",
+    "toxBadgeText": "Non toxique",
+    "toxBadgeColor": "green"
   },
   {
     "id": 228,
@@ -10707,7 +11614,11 @@ const plantesData = [
     "nomAnglais": "Buttonweed",
     "familleDescription": "",
     "familleImage": "",
-    "familleNum": "78"
+    "familleNum": "78",
+    "usageType": "Alimentaire et Médicinale",
+    "maladieSummary": "Tégumentaire",
+    "toxBadgeText": "Non toxique",
+    "toxBadgeColor": "green"
   },
   {
     "id": 229,
@@ -10751,7 +11662,11 @@ const plantesData = [
     "nomAnglais": "-",
     "familleDescription": "Les Rutacées constituent une famille tropicale et subtropicale de près de 2000 espèces réparties en 160 genres, dominée par les arbustes et arbres aromatiques. Cette famille remarquable rassemble des genres à vocation alimentaire majeure comme Citrus (agrumes : oranges, citrons, pamplemousses), Fortunella (kumquats) et Clausena, largement cultivés en Haïti pour leurs fruits riches en vitamine C. Les genres médicinaux incluent Ruta (rue officinale), Zanthoxylum (clavalier) et Amyris, reconnus pour leurs propriétés anti-inflammatoires et antimicrobiennes. Sur le plan phytochimique, les Rutacées se distinguent par leur richesse en huiles essentielles à dominante terpénique (limonène, linalol), en coumarines, en flavonoïdes (hespéridine, naringénine) et en alcaloïdes quinoléiques, ciblant préférentiellement les systèmes digestif, nerveux et immunitaire. Une vigilance particulière s'impose avec certains genres comme Ruta et les espèces riches en furanocoumarines photosensibilisantes, pouvant provoquer des dermatites sévères lors d'exposition solaire.",
     "familleImage": "782_Amyris_balsamifera-001.jpg, 783_Citrus_aurantiifolia-001.jpg, 784_Citrus_aurantium-001.jpg, 785_Citrus_bergamia-001.jpg, 786_Citrus_maxima-001.jpg, 787_Citrus_sinensis-001.jpg, 788_Glycosmis_parviflora-001.jpg",
-    "familleNum": "79"
+    "familleNum": "79",
+    "usageType": "Médicinale",
+    "maladieSummary": "",
+    "toxBadgeText": "Non toxique",
+    "toxBadgeColor": "green"
   },
   {
     "id": 230,
@@ -10798,7 +11713,11 @@ const plantesData = [
     "nomAnglais": "Balsam Torchwood",
     "familleDescription": "",
     "familleImage": "",
-    "familleNum": "79"
+    "familleNum": "79",
+    "usageType": "Alimentaire et Médicinale",
+    "maladieSummary": "Nerveux, Tégumentaire",
+    "toxBadgeText": "Non toxique",
+    "toxBadgeColor": "green"
   },
   {
     "id": 231,
@@ -10844,7 +11763,11 @@ const plantesData = [
     "nomAnglais": "Key Lime",
     "familleDescription": "",
     "familleImage": "",
-    "familleNum": "79"
+    "familleNum": "79",
+    "usageType": "Alimentaire et Médicinale",
+    "maladieSummary": "Respiratoire, Immunitaire, Hépatique",
+    "toxBadgeText": "Non toxique",
+    "toxBadgeColor": "green"
   },
   {
     "id": 232,
@@ -10890,7 +11813,11 @@ const plantesData = [
     "nomAnglais": "Bitter Orange",
     "familleDescription": "",
     "familleImage": "",
-    "familleNum": "79"
+    "familleNum": "79",
+    "usageType": "Alimentaire et Médicinale",
+    "maladieSummary": "Digestif, Nerveux, Cardiovasculaire",
+    "toxBadgeText": "Non toxique",
+    "toxBadgeColor": "green"
   },
   {
     "id": 233,
@@ -10938,7 +11865,11 @@ const plantesData = [
     "nomAnglais": "Bergamot",
     "familleDescription": "",
     "familleImage": "",
-    "familleNum": "79"
+    "familleNum": "79",
+    "usageType": "Alimentaire et Médicinale",
+    "maladieSummary": "Nerveux",
+    "toxBadgeText": "Non toxique",
+    "toxBadgeColor": "green"
   },
   {
     "id": 234,
@@ -10986,7 +11917,11 @@ const plantesData = [
     "nomAnglais": "Pomelo",
     "familleDescription": "",
     "familleImage": "",
-    "familleNum": "79"
+    "familleNum": "79",
+    "usageType": "Alimentaire et Médicinale",
+    "maladieSummary": "Digestif, Respiratoire, Cardiovasculaire, Hépatique",
+    "toxBadgeText": "Non toxique",
+    "toxBadgeColor": "green"
   },
   {
     "id": 235,
@@ -11032,7 +11967,11 @@ const plantesData = [
     "nomAnglais": "Sweet Orange",
     "familleDescription": "",
     "familleImage": "",
-    "familleNum": "79"
+    "familleNum": "79",
+    "usageType": "Alimentaire et Médicinale",
+    "maladieSummary": "Digestif, Immunitaire",
+    "toxBadgeText": "Non toxique",
+    "toxBadgeColor": "green"
   },
   {
     "id": 236,
@@ -11079,7 +12018,11 @@ const plantesData = [
     "nomAnglais": "Chinese Glycosmis",
     "familleDescription": "",
     "familleImage": "",
-    "familleNum": "79"
+    "familleNum": "79",
+    "usageType": "Alimentaire et Médicinale",
+    "maladieSummary": "Digestif, Cardiovasculaire",
+    "toxBadgeText": "Conditionnel",
+    "toxBadgeColor": "yellow"
   },
   {
     "id": 237,
@@ -11126,7 +12069,11 @@ const plantesData = [
     "nomAnglais": "Wild Guava",
     "familleDescription": "Avec près de 1 200 espèces réparties en une cinquantaine de genres, les Salicacées constituent une famille d'arbres et d'arbustes largement distribuée dans les régions tempérées et tropicales du globe. Cette famille est mondialement reconnue pour avoir donné naissance à l'aspirine moderne, grâce aux propriétés de la salicine extraite des saules (Salix). Dans les Caraïbes, plusieurs genres présentent un intérêt médicinal notable, notamment Casearia pour ses usages anti-inflammatoires, Xylosma pour ses propriétés digestives, et Samyda pour son action diurétique et respiratoire. Sur le plan phytochimique, les Salicacées se distinguent par une signature dominée par la salicine et ses dérivés, des flavonoïdes anti-inflammatoires, des tanins astringents aux propriétés cicatrisantes, et des lignanes. Ces composés ciblent préférentiellement les systèmes respiratoire, urinaire et circulatoire. La famille présente globalement une toxicité faible aux doses médicinales, bien qu'une prudence soit recommandée chez les personnes sensibles aux salicylés, en raison des risques d'irritation gastrique et de déséquilibres électrolytiques à forte dose.",
     "familleImage": "791_Samyda_dodecandra-001.jpg",
-    "familleNum": "80"
+    "familleNum": "80",
+    "usageType": "Médicinale",
+    "maladieSummary": "Digestif, Respiratoire",
+    "toxBadgeText": "Non toxique",
+    "toxBadgeColor": "green"
   },
   {
     "id": 238,
@@ -11170,7 +12117,11 @@ const plantesData = [
     "nomAnglais": "-",
     "familleDescription": "Dominantes dans les régions tropicales et subtropicales, les Sapindacées rassemblent environ 1 900 espèces réparties en 140 genres, principalement des arbres et arbustes. Cette famille tropicale présente une remarquable diversité d'usages : alimentaire avec les fruits sucrés du kenèp (Melicoccus bijugatus) et l'aki nutritif (Blighia sapida), médicinale avec les propriétés digestives et respiratoires de nombreuses espèces, et utilitaire avec les saponines du savonnier (Sapindus saponaria) traditionnellement utilisées comme détergent naturel. Sur le plan phytochimique, les Sapindacées se caractérisent par une signature dominée par les saponines triterpéniques — à l'origine de leurs propriétés moussantes —, les flavonoïdes, les tanins et les acides aminés non protéiques. Ces composés ciblent préférentiellement les systèmes digestif, respiratoire et hépatique. Une vigilance particulière s'impose cependant : le genre Blighia contient de l'hypoglycine A et B dans les fruits non mûrs, provoquant des intoxications mortelles, tandis que les fruits de Sapindus sont toxiques par voie orale.",
     "familleImage": "802_Blighia_sapida-001.jpg, 803_Cupania_americana-001.jpg, 804_Melicoccus_bijugatus-001.jpg, 805_Sapindus_saponaria-001.jpg",
-    "familleNum": "81"
+    "familleNum": "81",
+    "usageType": "Alimentaire et Médicinale",
+    "maladieSummary": "Digestif, Urinaire",
+    "toxBadgeText": "Non toxique",
+    "toxBadgeColor": "green"
   },
   {
     "id": 239,
@@ -11218,7 +12169,11 @@ const plantesData = [
     "nomAnglais": "Ackee",
     "familleDescription": "",
     "familleImage": "",
-    "familleNum": "81"
+    "familleNum": "81",
+    "usageType": "Alimentaire et Médicinale",
+    "maladieSummary": "Hépatique",
+    "toxBadgeText": "Toxique",
+    "toxBadgeColor": "red"
   },
   {
     "id": 240,
@@ -11266,7 +12221,11 @@ const plantesData = [
     "nomAnglais": "Cupania",
     "familleDescription": "",
     "familleImage": "",
-    "familleNum": "81"
+    "familleNum": "81",
+    "usageType": "Alimentaire et Médicinale",
+    "maladieSummary": "Digestif",
+    "toxBadgeText": "Non toxique",
+    "toxBadgeColor": "green"
   },
   {
     "id": 241,
@@ -11313,7 +12272,11 @@ const plantesData = [
     "nomAnglais": "Spanish Lime",
     "familleDescription": "",
     "familleImage": "",
-    "familleNum": "81"
+    "familleNum": "81",
+    "usageType": "Alimentaire et Médicinale",
+    "maladieSummary": "Digestif, Cardiovasculaire",
+    "toxBadgeText": "Non toxique",
+    "toxBadgeColor": "green"
   },
   {
     "id": 242,
@@ -11359,7 +12322,11 @@ const plantesData = [
     "nomAnglais": "Soapberry",
     "familleDescription": "",
     "familleImage": "",
-    "familleNum": "81"
+    "familleNum": "81",
+    "usageType": "Alimentaire et Médicinale",
+    "maladieSummary": "",
+    "toxBadgeText": "Conditionnel",
+    "toxBadgeColor": "yellow"
   },
   {
     "id": 243,
@@ -11408,7 +12375,11 @@ const plantesData = [
     "nomAnglais": "Star Apple",
     "familleDescription": "Avec ses 800 espèces réparties en 65 genres, les Sapotacées constituent une famille tropicale d'arbres et d'arbustes largement valorisée pour ses fruits nutritifs et ses propriétés thérapeutiques. Cette famille prospère particulièrement dans les régions chaudes d'Amérique, d'Afrique et d'Asie, où elle occupe des niches écologiques diverses allant des forêts humides aux zones semi-arides. Les genres à vocation alimentaire incluent Chrysophyllum (caïmite, kayimit), Manilkara (sapotillier), Pouteria (mamey) et Madhuca, tous produisant des fruits riches en sucres, fibres et vitamines. Sur le plan médicinal, les genres Chrysophyllum, Sideroxylon et Mimusops sont particulièrement reconnus pour leurs propriétés antidiabétiques et anti-inflammatoires. La signature phytochimique de cette famille est dominée par les saponines triterpéniques, les tanins condensés, les flavonoïdes et un latex riche en polyterpènes — notamment la gutta-percha chez certaines espèces. Ces composés ciblent préférentiellement les systèmes endocrinien et digestif. Bien que généralement non toxique, certaines espèces nécessitent une vigilance quant au dosage de leurs principes actifs concentrés.",
     "familleImage": "811_Chrysophyllum_cainito-001.jpg, 812_Chrysophyllum_oliviforme-001.jpg, 813_Manilkara_zapota-001.jpg, 814_Pouteria_dominigensis-001.jpg, 815_Pouteria_hotteana-001.jpg, 816_Sideroxylon_foetidissimum-001.jpg, 817_Sideroxylon_salicifolium-001.jpg",
-    "familleNum": "82"
+    "familleNum": "82",
+    "usageType": "Alimentaire et Médicinale",
+    "maladieSummary": "Digestif, Endocrinien",
+    "toxBadgeText": "Non toxique",
+    "toxBadgeColor": "green"
   },
   {
     "id": 244,
@@ -11454,7 +12425,11 @@ const plantesData = [
     "nomAnglais": "Satinleaf",
     "familleDescription": "",
     "familleImage": "",
-    "familleNum": "82"
+    "familleNum": "82",
+    "usageType": "Alimentaire et Médicinale",
+    "maladieSummary": "Digestif",
+    "toxBadgeText": "Non toxique",
+    "toxBadgeColor": "green"
   },
   {
     "id": 245,
@@ -11503,7 +12478,11 @@ const plantesData = [
     "nomAnglais": "Sapodilla",
     "familleDescription": "",
     "familleImage": "",
-    "familleNum": "82"
+    "familleNum": "82",
+    "usageType": "Alimentaire et Médicinale",
+    "maladieSummary": "Digestif",
+    "toxBadgeText": "Non toxique",
+    "toxBadgeColor": "green"
   },
   {
     "id": 246,
@@ -11549,7 +12528,11 @@ const plantesData = [
     "nomAnglais": "-",
     "familleDescription": "",
     "familleImage": "",
-    "familleNum": "82"
+    "familleNum": "82",
+    "usageType": "Alimentaire et Médicinale",
+    "maladieSummary": "",
+    "toxBadgeText": "Non toxique",
+    "toxBadgeColor": "green"
   },
   {
     "id": 247,
@@ -11595,7 +12578,11 @@ const plantesData = [
     "nomAnglais": "-",
     "familleDescription": "",
     "familleImage": "",
-    "familleNum": "82"
+    "familleNum": "82",
+    "usageType": "Alimentaire et Médicinale",
+    "maladieSummary": "Digestif, Urinaire",
+    "toxBadgeText": "Non toxique",
+    "toxBadgeColor": "green"
   },
   {
     "id": 248,
@@ -11642,7 +12629,11 @@ const plantesData = [
     "nomAnglais": "Mastic",
     "familleDescription": "",
     "familleImage": "",
-    "familleNum": "82"
+    "familleNum": "82",
+    "usageType": "Alimentaire et Médicinale",
+    "maladieSummary": "Digestif",
+    "toxBadgeText": "Non toxique",
+    "toxBadgeColor": "green"
   },
   {
     "id": 249,
@@ -11689,7 +12680,11 @@ const plantesData = [
     "nomAnglais": "White Bully",
     "familleDescription": "",
     "familleImage": "",
-    "familleNum": "82"
+    "familleNum": "82",
+    "usageType": "Alimentaire et Médicinale",
+    "maladieSummary": "Digestif",
+    "toxBadgeText": "Non toxique",
+    "toxBadgeColor": "green"
   },
   {
     "id": 250,
@@ -11735,7 +12730,11 @@ const plantesData = [
     "nomAnglais": "-",
     "familleDescription": "Reconnue pour ses remarquables propriétés aromatiques, la famille des Schisandracées rassemble principalement des arbres et arbustes grimpants distribués en Asie et, de façon plus restreinte, dans les Caraïbes. Cette famille tropicale se distingue par une composition phytochimique riche en huiles essentielles à dominante phénolique — notamment l'anéthol et l'estragole — ainsi qu'en lignanes bioactifs et en sesquiterpènes volatils. Les genres à vocation aromatique incluent Illicium, dont plusieurs espèces asiatiques comme I. verum (anis étoilé) sont largement commercialisées pour leurs graines parfumées. Sur le plan médicinal, les Schisandracées ciblent préférentiellement le système digestif grâce à leurs composés carminatifs et antispasmodiques. Cependant, cette famille exige une vigilance particulière : certaines espèces d'Illicium — notamment I. anisatum du Japon — contiennent des neurotoxines puissantes responsables de convulsions et de troubles neurologiques graves, rendant cruciale l'identification précise des espèces utilisées.",
     "familleImage": "821_Illicium_hottense-001.jpg",
-    "familleNum": "83"
+    "familleNum": "83",
+    "usageType": "Médicinale",
+    "maladieSummary": "Digestif",
+    "toxBadgeText": "Toxique",
+    "toxBadgeColor": "red"
   },
   {
     "id": 251,
@@ -11782,7 +12781,11 @@ const plantesData = [
     "nomAnglais": "Bitter Bush",
     "familleDescription": "Dominant les écosystèmes forestiers tropicaux, les Simaroubacées rassemblent environ 170 espèces réparties en 32 genres, principalement sous forme d'arbustes et d'arbres à croissance lente. Cette famille se distingue par une signature chimique remarquable dominée par les quassinoïdes — des composés triterpénoïdes au goût intensément amer — accompagnés de limonoïdes, de triterpènes et d'anthraquinones. En Haïti, les genres Picramnia et Quassia constituent les représentants médicinaux les plus utilisés, particulièrement pour leurs propriétés fébrifuges et digestives. Sur le plan thérapeutique, cette famille cible préférentiellement les systèmes immunitaire et digestif, avec des applications traditionnelles contre la fièvre, le paludisme et les troubles gastro-intestinaux. L'amertume caractéristique de ces plantes, due aux quassinoïdes, stimule naturellement la sécrétion digestive tout en conférant des propriétés antimicrobiennes. Une vigilance particulière s'impose car certaines espèces — notamment du genre Simarouba — renferment des principes actifs très concentrés nécessitant un dosage strict et une préparation contrôlée.",
     "familleImage": "831_Picramnia_pentandra-001.jpg, 832_Simarouba_glauca-001.jpg",
-    "familleNum": "84"
+    "familleNum": "84",
+    "usageType": "Alimentaire et Médicinale",
+    "maladieSummary": "Immunitaire",
+    "toxBadgeText": "Conditionnel",
+    "toxBadgeColor": "yellow"
   },
   {
     "id": 252,
@@ -11831,7 +12834,11 @@ const plantesData = [
     "nomAnglais": "Paradise Tree",
     "familleDescription": "",
     "familleImage": "",
-    "familleNum": "84"
+    "familleNum": "84",
+    "usageType": "Médicinale",
+    "maladieSummary": "Digestif, Immunitaire",
+    "toxBadgeText": "Non toxique",
+    "toxBadgeColor": "green"
   },
   {
     "id": 253,
@@ -11878,7 +12885,11 @@ const plantesData = [
     "nomAnglais": "Angel's Trumpet",
     "familleDescription": "Les Solanacées constituent l'une des familles botaniques les plus contrastées, rassemblant environ 2 700 espèces mondiales d'herbes, d'arbustes et d'arbres répartis en 98 genres. Cette famille présente une dualité remarquable : d'un côté, elle offre des aliments de base essentiels comme la tomate (Solanum lycopersicum), l'aubergine (Solanum melongena) et la pomme de terre (Solanum tuberosum), ainsi que des condiments appréciés comme le piment (Capsicum) , de l'autre, elle abrite certaines des plantes les plus dangereuses au monde, notamment les genres Brugmansia et Datura. Sur le plan phytochimique, les Solanacées se distinguent par leur richesse en alcaloïdes tropaniques — atropine, scopolamine, hyoscyamine — ciblant spécifiquement le système nerveux central et périphérique. Cette famille concentre également des caroténoïdes (responsables des couleurs vives des fruits), de la capsaïcine (dans les piments), des glycoalcaloïdes comme la solanine, ainsi que des teneurs remarquables en potassium, vitamine C et flavonoïdes. L'alerte toxicologique majeure concerne principalement les genres Brugmansia et Datura, dont l'usage interne peut être mortel.",
     "familleImage": "841_Brugmansia_suaveolens-001.jpg, 842_Capsicum_frutescens-001.jpg, 843_Cestrum_bicolor-001.jpg, 844_Nicotiana_tabacum-001.jpg, 845_Solanum_americanum-001.jpg, 846_Solanum_lycopersicum-001.jpg, 847_Solanum_melongena-001.jpg, 848_Solanum_torvum-001.jpg",
-    "familleNum": "85"
+    "familleNum": "85",
+    "usageType": "Médicinale",
+    "maladieSummary": "Urinaire, Nerveux",
+    "toxBadgeText": "Toxique",
+    "toxBadgeColor": "red"
   },
   {
     "id": 254,
@@ -11926,7 +12937,11 @@ const plantesData = [
     "nomAnglais": "Bird Pepper",
     "familleDescription": "",
     "familleImage": "",
-    "familleNum": "85"
+    "familleNum": "85",
+    "usageType": "Alimentaire et Médicinale",
+    "maladieSummary": "Digestif",
+    "toxBadgeText": "Conditionnel",
+    "toxBadgeColor": "yellow"
   },
   {
     "id": 255,
@@ -11974,7 +12989,11 @@ const plantesData = [
     "nomAnglais": "",
     "familleDescription": "",
     "familleImage": "",
-    "familleNum": "85"
+    "familleNum": "85",
+    "usageType": "Alimentaire et Médicinale",
+    "maladieSummary": "Tégumentaire",
+    "toxBadgeText": "Non toxique",
+    "toxBadgeColor": "green"
   },
   {
     "id": 256,
@@ -12021,7 +13040,11 @@ const plantesData = [
     "nomAnglais": "Tobacco",
     "familleDescription": "",
     "familleImage": "",
-    "familleNum": "85"
+    "familleNum": "85",
+    "usageType": "Alimentaire et Médicinale",
+    "maladieSummary": "Respiratoire, Nerveux",
+    "toxBadgeText": "Non toxique",
+    "toxBadgeColor": "green"
   },
   {
     "id": 257,
@@ -12068,7 +13091,11 @@ const plantesData = [
     "nomAnglais": "Black Nightshade",
     "familleDescription": "",
     "familleImage": "",
-    "familleNum": "85"
+    "familleNum": "85",
+    "usageType": "Alimentaire et Médicinale",
+    "maladieSummary": "Digestif, Tégumentaire",
+    "toxBadgeText": "Conditionnel",
+    "toxBadgeColor": "yellow"
   },
   {
     "id": 258,
@@ -12114,7 +13141,11 @@ const plantesData = [
     "nomAnglais": "Tomato",
     "familleDescription": "",
     "familleImage": "",
-    "familleNum": "85"
+    "familleNum": "85",
+    "usageType": "Alimentaire et Médicinale",
+    "maladieSummary": "Cardiovasculaire",
+    "toxBadgeText": "Non toxique",
+    "toxBadgeColor": "green"
   },
   {
     "id": 259,
@@ -12161,7 +13192,11 @@ const plantesData = [
     "nomAnglais": "Eggplant",
     "familleDescription": "",
     "familleImage": "",
-    "familleNum": "85"
+    "familleNum": "85",
+    "usageType": "Alimentaire et Médicinale",
+    "maladieSummary": "Cardiovasculaire",
+    "toxBadgeText": "Non toxique",
+    "toxBadgeColor": "green"
   },
   {
     "id": 260,
@@ -12208,7 +13243,11 @@ const plantesData = [
     "nomAnglais": "Turkey Berry",
     "familleDescription": "",
     "familleImage": "",
-    "familleNum": "85"
+    "familleNum": "85",
+    "usageType": "Alimentaire et Médicinale",
+    "maladieSummary": "Immunitaire",
+    "toxBadgeText": "Non toxique",
+    "toxBadgeColor": "green"
   },
   {
     "id": 261,
@@ -12257,7 +13296,11 @@ const plantesData = [
     "nomAnglais": "Trumpet Tree",
     "familleDescription": "Les Urticacées rassemblent environ 2600 espèces réparties en 54 genres, dominées par les arbres et arbustes tropicaux, bien que certaines formes herbacées persistent dans les régions tempérées. Cette famille cosmopolite présente une diversité remarquable d'adaptations écologiques, des forêts pluviales aux zones arides. Sur le plan alimentaire, plusieurs genres offrent des ressources nutritives importantes : les figues sauvages (Ficus), les orties comestibles (Urtica) et certaines espèces de Pilea aux jeunes pousses consommées. Médicinalement, la famille excelle dans le traitement des affections cardiovasculaires et urinaires, grâce à ses genres phares comme Cecropia (hypotenseur), Urtica (diurétique) et Boehmeria (anti-inflammatoire). Sur le plan phytochimique, les Urticacées développent une signature distinctive dominée par les flavonoïdes, l'acide chlorogénique, les tanins et le potassium, ciblant préférentiellement les systèmes cardiovasculaire, urinaire et tégumentaire. Une vigilance particulière s'impose cependant avec le genre Urera, dont les poils urticants libèrent acide formique et histamine, provoquant des réactions cutanées sévères nécessitant des précautions de manipulation strictes.",
     "familleImage": "851_Cecropia_peltata-001.jpg, 852_Urera_baccifera-001.jpg",
-    "familleNum": "86"
+    "familleNum": "86",
+    "usageType": "Médicinale",
+    "maladieSummary": "Urinaire, Cardiovasculaire",
+    "toxBadgeText": "Non toxique",
+    "toxBadgeColor": "green"
   },
   {
     "id": 262,
@@ -12304,7 +13347,11 @@ const plantesData = [
     "nomAnglais": "Scratchbush",
     "familleDescription": "",
     "familleImage": "",
-    "familleNum": "86"
+    "familleNum": "86",
+    "usageType": "Médicinale",
+    "maladieSummary": "Digestif, Urinaire, Tégumentaire",
+    "toxBadgeText": "Non toxique",
+    "toxBadgeColor": "green"
   },
   {
     "id": 263,
@@ -12351,7 +13398,11 @@ const plantesData = [
     "nomAnglais": "Fiddlewood",
     "familleDescription": "Les Verbénacées constituent une famille tropicale diversifiée de près de 1000 espèces réparties entre herbes, arbustes et arbres, particulièrement bien représentée dans les régions chaudes des Amériques. Cette famille se distingue par ses remarquables propriétés médicinales, avec des genres comme Verbena (verveine), Lippia (lippia) et Aloysia (verveine citronnelle) largement utilisés en phytothérapie traditionnelle pour leurs effets apaisants et digestifs. D'autres genres comme Lantana offrent des espèces ornementales colorées, tandis que Citharexylum fournit des bois de construction appréciés. Sur le plan phytochimique, les Verbénacées se caractérisent par une signature dominée par les iridoïdes (notamment la verbénaline), les flavonoïdes, les huiles essentielles et les tanins, ciblant préférentiellement les systèmes tégumentaire, respiratoire et digestif. Une vigilance particulière s'impose avec Lantana camara, dont les baies immatures contiennent des lantadènes hépatotoxiques et photosensibilisants, particulièrement dangereux pour le bétail mais nécessitant également prudence chez l'humain.",
     "familleImage": "861_Citharexylum_spinosum-001.jpg, 862_Lantana_camara-001.jpg, 863_Priva_lappulacea-001.jpg, 864_Stachytarpheta_jamaicensis-001.jpg",
-    "familleNum": "87"
+    "familleNum": "87",
+    "usageType": "Médicinale",
+    "maladieSummary": "Tégumentaire",
+    "toxBadgeText": "Non toxique",
+    "toxBadgeColor": "green"
   },
   {
     "id": 264,
@@ -12398,7 +13449,11 @@ const plantesData = [
     "nomAnglais": "Lantana",
     "familleDescription": "",
     "familleImage": "",
-    "familleNum": "87"
+    "familleNum": "87",
+    "usageType": "Alimentaire et Médicinale",
+    "maladieSummary": "Respiratoire",
+    "toxBadgeText": "Conditionnel",
+    "toxBadgeColor": "yellow"
   },
   {
     "id": 265,
@@ -12445,7 +13500,11 @@ const plantesData = [
     "nomAnglais": "Velvet burr",
     "familleDescription": "",
     "familleImage": "",
-    "familleNum": "87"
+    "familleNum": "87",
+    "usageType": "Alimentaire et Médicinale",
+    "maladieSummary": "Tégumentaire",
+    "toxBadgeText": "Non toxique",
+    "toxBadgeColor": "green"
   },
   {
     "id": 266,
@@ -12492,7 +13551,11 @@ const plantesData = [
     "nomAnglais": "Blue Porterweed",
     "familleDescription": "",
     "familleImage": "",
-    "familleNum": "87"
+    "familleNum": "87",
+    "usageType": "Alimentaire et Médicinale",
+    "maladieSummary": "Digestif, Nerveux",
+    "toxBadgeText": "Non toxique",
+    "toxBadgeColor": "green"
   },
   {
     "id": 267,
@@ -12541,7 +13604,11 @@ const plantesData = [
     "nomAnglais": "Season Vine",
     "familleDescription": "Reconnues pour leurs riches usages alimentaires et médicinaux, les Vitacées rassemblent environ 950 espèces réparties en 14 genres, dominées par les lianes grimpantes des régions tropicales et tempérées chaudes. Cette famille comprend des genres à forte valeur économique comme Vitis (vignes productrices de raisin), source mondiale de vin, jus et raisins secs, ainsi que des genres médicinaux traditionnels comme Cissus, largement utilisé dans les pharmacopées caribéennes et sud-américaines pour ses propriétés antidiabétiques et anti-inflammatoires. Sur le plan phytochimique, les Vitacées se distinguent par leur signature moléculaire dominée par le resvératrol — composé cardioprotecteur célèbre du raisin —, les anthocyanes responsables de la pigmentation des fruits, les flavonoïdes antioxydants, les tanins astringents et les acides organiques comme l'acide tartrique. Ces composés ciblent préférentiellement les systèmes tégumentaire, respiratoire et cardiovasculaire. Une vigilance s'impose car certaines espèces renferment des principes actifs puissants exigeant une préparation adéquate et un dosage strict, particulièrement pour les usages médicinaux prolongés.",
     "familleImage": "871_Cissus_verticillata-001.jpg, 872_Vitis_vinifera-001.jpg",
-    "familleNum": "88"
+    "familleNum": "88",
+    "usageType": "Alimentaire et Médicinale",
+    "maladieSummary": "Respiratoire, Cardiovasculaire, Tégumentaire",
+    "toxBadgeText": "Non toxique",
+    "toxBadgeColor": "green"
   },
   {
     "id": 268,
@@ -12587,7 +13654,11 @@ const plantesData = [
     "nomAnglais": "Grapevine",
     "familleDescription": "",
     "familleImage": "",
-    "familleNum": "88"
+    "familleNum": "88",
+    "usageType": "Alimentaire et Médicinale",
+    "maladieSummary": "Digestif, Cardiovasculaire",
+    "toxBadgeText": "Non toxique",
+    "toxBadgeColor": "green"
   },
   {
     "id": 269,
@@ -12633,7 +13704,11 @@ const plantesData = [
     "nomAnglais": "Turmeric",
     "familleDescription": "Dominant les régions tropicales avec plus de 1400 espèces réparties en 50 genres, les Zingibéracées constituent l'une des familles végétales les plus précieuses sur le plan aromatique et thérapeutique. Ces herbes rhizomateuses se distinguent par leurs usages culinaires emblématiques — notamment le gingembre (Zingiber officinale), le curcuma (Curcuma longa) et la cardamome (Elettaria cardamomum) — qui enrichissent les cuisines tropicales depuis des millénaires. Sur le plan médicinal, cette famille cible préférentiellement les systèmes digestif et inflammatoire grâce à une signature phytochimique remarquable dominée par les curcuminoïdes, les gingérols, les sesquiterpènes et les huiles essentielles volatiles. Ces composés bioactifs confèrent aux Zingibéracées leurs propriétés anti-inflammatoires, digestives et antimicrobiennes documentées par de nombreuses études cliniques. Toutefois, certaines espèces requièrent une vigilance particulière : les doses thérapeutiques élevées peuvent interagir avec les anticoagulants et provoquer des troubles digestifs, exigeant un usage mesuré et encadré.",
     "familleImage": "881_Curcuma_longa-001.jpg, 882_Zingiber_officinale-001.jpg",
-    "familleNum": "89"
+    "familleNum": "89",
+    "usageType": "Alimentaire et Médicinale",
+    "maladieSummary": "Digestif, Hépatique",
+    "toxBadgeText": "Non toxique",
+    "toxBadgeColor": "green"
   },
   {
     "id": 270,
@@ -12679,7 +13754,11 @@ const plantesData = [
     "nomAnglais": "Ginger",
     "familleDescription": "",
     "familleImage": "",
-    "familleNum": "89"
+    "familleNum": "89",
+    "usageType": "Alimentaire et Médicinale",
+    "maladieSummary": "Digestif",
+    "toxBadgeText": "Non toxique",
+    "toxBadgeColor": "green"
   },
   {
     "id": 271,
@@ -12726,6 +13805,10 @@ const plantesData = [
     "nomAnglais": "Lignum Vitae",
     "familleDescription": "Dominant les formations xérophytes tropicales, les Zygophyllacées rassemblent environ 285 espèces réparties en 22 genres, principalement sous forme d'arbres et d'arbustes adaptés aux climats arides. Cette famille se distingue par ses bois extrêmement durs et durables, dont certains — comme le gaïac (Guaiacum) — comptent parmi les plus précieux au monde pour leurs propriétés mécaniques exceptionnelles. Sur le plan médicinal, les Zygophyllacées constituent une ressource thérapeutique majeure, particulièrement reconnue pour le traitement des affections musculo-squelettiques et inflammatoires. La signature phytochimique familiale se caractérise par une forte concentration en lignanes guaiacoliques, en saponines triterpéniques, en résines complexes et en flavonoïdes, conférant à ces plantes leurs propriétés anti-inflammatoires et diurétiques documentées. Ces composés ciblent préférentiellement le système musculo-squelettique, expliquant l'usage traditionnel étendu contre les rhumatismes et l'arthrite. Il convient de noter qu'une vigilance particulière s'impose avec certaines espèces de cette famille, dont les principes actifs puissants exigent un dosage strict et une préparation adéquate pour éviter les effets indésirables.",
     "familleImage": "891_Guaiacum_officinale-001.jpg",
-    "familleNum": "90"
+    "familleNum": "90",
+    "usageType": "Médicinale",
+    "maladieSummary": "",
+    "toxBadgeText": "Non toxique",
+    "toxBadgeColor": "green"
   }
 ];

@@ -1,0 +1,57 @@
+{
+  "id_plante": "plt-3502",
+  "code": "plt-3502",
+  "no_espece": "",
+  "no_famille": "35",
+  "famille": "Cucurbitacées",
+  "description_famille": "",
+  "identite": {
+    "genre": "Cucurbita",
+    "espece": "moschata",
+    "nom_scientifique": "Cucurbita moschata",
+    "synonymes": "Pepo moschata",
+    "nom_francais": "Giraumon",
+    "nom_creole": "Jiromon",
+    "nom_anglais": "Pumpkin / Squash"
+  },
+  "morphologie": {
+    "description": "C. moschata est une liane herbacée vigoureuse qui peut s'étendre sur plusieurs mètres, particulièrement adaptée aux conditions de basse altitude des départements du Sud et de la Grand'Anse. Tiges et racines. Les tiges sont rampantes ou grimpantes, munies de vrilles spiralées qui permettent à la plante de s'accrocher aux supports. La racine principale est pivotante et robuste, accompagnée d'un système racinaire superficiel étendu qui optimise la collecte d'eau et de nutriments. Feuilles. Les feuilles sont grandes, cordiformes à légèrement lobées, de couleur vert foncé, portées par de longs pétioles. Leur surface est légèrement rugueuse au toucher, caractéristique commune aux Cucurbitacées. Fleurs. La plante produit des fleurs unisexuées jaunes de grande taille sur le même pied (monoïque). Les fleurs mâles sont nombreuses et portées par de longs pédoncules, tandis que les fleurs femelles, moins nombreuses, développent un ovaire infère qui donnera le fruit. Fruit. Le fruit, botaniquement une baie modifiée appelée péponide, peut atteindre des dimensions considérables selon la variété. Sa chair orangée caractéristique doit sa couleur aux caroténoïdes, principalement le β-carotène. Les graines sont plates, ovales, de couleur crème, enchâssées dans une pulpe filandreuse au centre du fruit. Les parties utilisées sont les fruits, les graines et occasionnellement les jeunes feuilles.",
+    "ecologie": "Originaire d'Amérique centrale et du Nord de l'Amérique du Sud, C. moschata a été introduite en Haïti durant la période coloniale et s'est parfaitement adaptée aux conditions tropicales. L'espèce prospère en basse altitude dans des sols bien drainés et riches en matière organique. Sa reproduction est assurée par pollinisation entomophile, principalement par les abeilles et autres insectes visiteurs des grandes fleurs jaunes. Dans les départements du Sud et de la Grand'Anse, elle est cultivée dans les jardins familiaux et les exploitations maraîchères, bénéficiant du climat tropical favorable à sa croissance rapide."
+  },
+  "usages": {
+    "usages_ethnobotaniques": "Dans les départements du Sud et de la Grand'Anse, le jiromon occupe une position unique à la fois alimentaire et médicinale. Le fruit constitue l'ingrédient de base de la soupe joumou, plat emblématique de l'indépendance haïtienne préparé par cuisson prolongée avec d'autres légumes, de la viande et des épices. Les graines grillées sont traditionnellement utilisées comme vermifuge, particulièrement contre les vers intestinaux chez les enfants. Les jeunes feuilles, bien que moins couramment employées, peuvent être consommées cuites comme légume-feuille. Selon les données TRAMIL, l'usage antiparasitaire des graines est également documenté dans d'autres îles des Caraïbes, confirmant une tradition thérapeutique partagée dans la région.",
+    "systemes_concernes": "Digestif, Nerveux, Hépatique"
+  },
+  "pharmacologie": {
+    "molecules": "La couleur orange vif de la chair du jiromon révèle sa richesse exceptionnelle en caroténoïdes, principalement le β-carotène, précurseur de la vitamine A. Cette concentration élevée — pouvant dépasser 3000 µg pour 100g de chair fraîche — fait de C. moschata l'une des sources végétales les plus riches en provitamine A (Murkovic et al., 2002 — PMID: 12236701). Le fruit contient également des quantités notables de vitamine C (ascorbate), de fibres pectiques responsables de sa texture fondante à la cuisson, et de potassium qui représente le minéral dominant. Les graines se distinguent par leur profil lipidique remarquable : 35-50% de lipides riches en acides gras insaturés (acide oléique et linoléique), associés à des teneurs élevées en zinc, magnésium et vitamine E sous forme de tocophérols (Stevenson et al., 2007 — PMID: 17995461). Les principaux composés secondaires identifiés dans C. moschata comprennent : des caroténoïdes (β-carotène, lutéine, zéaxanthine), des flavonoïdes (quercétine, kaempférol), des saponines triterpéniques, des tocophérols (α et γ-tocophérol), et dans les graines, la cucurbitine, un acide aminé inhabituel aux propriétés anthelminthiques documentées (Patel et al., 2013 — doi:10.1016/j.foodchem.2012.12.057). Ces composés sont accompagnés de phytostérols (β-sitostérol, stigmastérol) concentrés dans l'huile des graines. Ces molécules remplissent des fonctions de protection essentielles pour la plante. Les caroténoïdes protègent l'appareil photosynthétique contre les dommages oxydatifs causés par l'excès de lumière tropicale. Les flavonoïdes renforcent la résistance aux pathogènes fongiques et bactériens. Les saponines dans les graines découragent la prédation par leur amertume et leurs propriétés détergentes. Ces mêmes composés, une fois ingérés par l'humain, produisent les effets biologiques documentés : le β-carotène se convertit en vitamine A essentielle à la vision et à l'immunité, les tocophérols exercent une activité antioxydante, tandis que la cucurbitine des graines manifeste une activité vermifuge contre certains parasites intestinaux (Marie-Magdeleine et al., 2009 — PMID: 19374768).",
+    "posologie": "L'usage alimentaire recommande 100 à 200 g par jour de courge cuite, quantité couramment consommée dans l'alimentation traditionnelle haïtienne. Pour les graines, plusieurs études diététiques ont évalué des doses de 10 à 30 g par jour de graines grillées, correspondant aux pratiques traditionnelles antiparasitaires (Stevenson et al., 2007 — PMID: 17995461). Ces dosages alimentaires se situent dans les fourchettes de sécurité établies pour une consommation régulière sans effets indésirables."
+  },
+  "nutrition": {
+    "introduction": "Cucurbita moschata (syn. Pepo moschata) est une liane exotique pantropicale, largement cultivée et abondante dans les Départements du Sud et de la Grand'Anse. Elle appartient à la famille des Cucurbitacées, une famille dominée par les lianes et reconnue pour ses usages alimentaires et médicinaux remarquables. Au sein de cette famille, elle fait partie du genre Cucurbita, qui comprend plusieurs espèces alimentaires majeures — dont la citrouille (Cucurbita pepo) et la courge musquée — toutes caractérisées par leurs fruits volumineux riches en caroténoïdes et leurs graines nutritives. Cucurbita moschata occupe une place centrale dans la culture haïtienne : ingrédient principal de la soupe joumou, plat symbolique de l'indépendance consommé le 1er janvier, elle constitue également un remède traditionnel antiparasitaire par ses graines."
+  },
+  "toxicologie": {
+    "niveau": "",
+    "details": "Cucurbita moschata présente un profil de sécurité excellent. Les variétés cultivées alimentaires sont totalement sûres pour la consommation humaine. L'excès de graines peut provoquer des ballonnements ou une diarrhée légère en raison de leur richesse en fibres et en lipides. Chez les sujets obèses, la densité calorique élevée des graines (environ 550 kcal/100g) doit être prise en compte dans l'équilibre nutritionnel global. Aucune interaction médicamenteuse significative n'est documentée."
+  },
+  "conservation": {
+    "menaces": "Bien que l'espèce soit abondante et largement cultivée, la conservation des variétés locales traditionnelles constitue un enjeu important. L'introduction de variétés commerciales standardisées pourrait menacer la diversité génétique des cultivars haïtiens adaptés aux conditions locales. Les pratiques de conservation in situ par les agriculteurs traditionnels et la préservation des semences locales dans les banques de gènes représentent des priorités pour maintenir cette biodiversité agricole.",
+    "valeur": "Le jiromon possède une valeur économique considérable tant au niveau local qu'international. Localement, il constitue une culture vivrière essentielle et une source de revenus pour les producteurs maraîchers. Au niveau international, l'industrie agroalimentaire valorise la courge musquée pour sa richesse nutritionnelle, notamment dans les produits pour enfants et les compléments alimentaires riches en β-carotène. L'huile extraite des graines trouve des débouchés en cosmétique et en nutraceutique."
+  },
+  "recherche": {
+    "nb_articles": "~1000 (estimation)",
+    "details": "Avec environ 1000 publications indexées, C. moschata fait l'objet d'un intérêt scientifique soutenu. Les recherches actuelles se concentrent sur l'optimisation de la teneur en caroténoïdes par sélection variétale, l'évaluation de l'activité antiparasitaire des graines dans des essais cliniques contrôlés, et le développement d'applications nutraceutiques de l'huile de graines. L'étude des mécanismes moléculaires de l'activité antioxydante et de ses implications en prévention des maladies chroniques constitue un axe de recherche prometteur.",
+    "lien_pubmed": "",
+    "lien_scholar": "",
+    "lien_tramil": ""
+  },
+  "references": "Murkovic, M. et al. (2002). Carotenoid content in different varieties of pumpkins. Journal of Food Composition and Analysis. PMID: 12236701. Stevenson, D.G. et al. (2007). Oil and tocopherol content and composition of pumpkin seed oil in 12 cultivars. Journal of Agricultural and Food Chemistry. PMID: 17995461. Patel, S. et al. (2013). Pumpkin (Cucurbita sp.) seeds as nutraceutical: A review on status quo and scopes. Food and Chemical Toxicology. doi:10.1016/j.foodchem.2012.12.057. Marie-Magdeleine, C. et al. (2009). In vitro effects of Cucurbita moschata seed extracts on Haemonchus contortus. Veterinary Parasitology. PMID: 19374768. Grzybek, M. et al. (2016). Cucurbitacin B and cucurbitacin E as potential natural compounds for control of Heligmosomoides bakeri infection in mice. Parasites & Vectors. PMID: 27133467. Choi, Y. et al. (2012). Pumpkin seed oil extracted from Cucurbita maxima improves urinary disorder in human overactive bladder. Journal of Traditional and Complementary Medicine. PMID: 22150796. TRAMIL. Cucurbita moschata. www.tramil.net POWO. Cucurbita moschata. Plants of the World Online, Kew Science.",
+  "aRetenir": "🟢 À retenir — Jiromon : est avant tout un aliment — sa valeur nutritionnelle prime sur ses usages medicinaux. Consommee correctement preparee, elle est sans danger documente. Ses proprietes therapeutiques, reelles mais secondaires, ne remplacent pas un suivi medical. Les auteurs declinent toute responsabilite quant a un usage inapproprie.",
+  "images": {
+    "principale": "images/352_Cucurbita_moschata-001.jpg",
+    "galerie": [
+      "images/352_Cucurbita_moschata-001.jpg",
+      "images/352_Cucurbita_moschata-002.jpg"
+    ]
+  },
+  "source": "plantes_full.json"
+}

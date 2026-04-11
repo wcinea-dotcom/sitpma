@@ -1,0 +1,58 @@
+{
+  "id_plante": "plt-0504",
+  "code": "plt-0504",
+  "no_espece": "",
+  "no_famille": "5",
+  "famille": "Amaryllidacées",
+  "description_famille": "",
+  "identite": {
+    "genre": "Hippeastrum",
+    "espece": "puniceum",
+    "nom_scientifique": "Hippeastrum puniceum (Lam.) Voss",
+    "synonymes": "Amaryllis punicea",
+    "nom_francais": "Lis rouge",
+    "nom_creole": "Lis, Bèl nwit",
+    "nom_anglais": "Barbados lily"
+  },
+  "morphologie": {
+    "description": "H. puniceum est une herbe bulbeuse pouvant atteindre 40 à 60 cm de hauteur lors de la floraison (POWO, Kew Science , World Flora Online, 2026). Bulbe. Le bulbe constitue l'organe de stockage principal : volumineux, ovoïde, pouvant dépasser 8 cm de diamètre, recouvert de tuniques brunes. C'est dans cet organe que se concentrent les alcaloïdes toxiques de la plante, particulièrement la lycorine. Feuilles. Les feuilles sont rubanées, charnues, vert foncé, disposées en rosette basale. Elles émergent du bulbe après la floraison et persistent plusieurs mois avant d'entrer en dormance. Fleurs. Les fleurs constituent l'attrait ornemental majeur de la plante : grandes, en forme de trompette, rouge écarlate à rouge orangé, groupées par 2 à 4 au sommet d'une hampe florale robuste et creuse. Chaque fleur mesure 10 à 15 cm de diamètre, avec six tépales étalés et des étamines proéminentes. Fruit et graines. Le fruit est une capsule à trois loges contenant des graines plates et noires, utilisées pour la multiplication de l'espèce. Les parties utilisées sont principalement le bulbe en usage externe strict.",
+    "ecologie": "Hippeastrum puniceum est originaire d'Amérique du Sud tropicale, probablement du bassin amazonien. L'espèce s'est largement répandue dans les régions tropicales et subtropicales du monde comme plante ornementale. Dans les Départements du Sud et de la Grand'Anse, elle est documentée comme très commune dans les jardins et les zones de basse altitude. La plante apprécie les sols bien drainés et supporte bien les périodes sèches grâce à son bulbe de réserve. Elle se trouve fréquemment sous les plantations de café, bénéficiant de l'ombre partielle et de l'humidité relative de ces milieux. Sa capacité d'adaptation et sa résistance expliquent sa large distribution dans les deux départements."
+  },
+  "usages": {
+    "usages_ethnobotaniques": "L'usage ornemental constitue l'utilisation principale de Hippeastrum puniceum dans le Sud et la Grand'Anse, où elle est très appréciée pour ses spectaculaires floraisons rouge écarlate qui illuminent les jardins. Sur le plan médicinal traditionnel, l'espèce est parfois documentée dans le Sud et la Grand'Anse pour un usage externe en cataplasme de bulbe pour traiter les plaies. Un usage historique contre l'asthme est également mentionné, bien que cette pratique semble moins répandue actuellement. La préparation traditionnelle consiste à écraser le bulbe frais pour en faire un cataplasme appliqué directement sur la zone à traiter. Il convient de souligner que ces usages médicinaux traditionnels restent marginaux comparés à l'usage ornemental dominant, et qu'ils requièrent une vigilance particulière en raison de la toxicité connue de la plante.",
+    "systemes_concernes": "Tégumentaire"
+  },
+  "pharmacologie": {
+    "molecules": "Hippeastrum puniceum incarne le côté obscur de la fleur séduisante : ses pétales cramoisies dissimulent un bulbe chargé d'alcaloïdes neurotoxiques si puissants qu'ils ont captivé la recherche pharmaceutique pour le traitement de maladies neurodégénératives. Ce qui rend Hippeastrum puniceum particulièrement remarquable — et dangereux — c'est la nature de ses molécules de défense : des alcaloïdes isoquinoléiques puissants concentrés dans le bulbe. Ces composés constituent un mécanisme de défense chimique très efficace contre les herbivores mais représentent un risque toxicologique majeur pour l'homme. Les principaux composés secondaires identifiés dans H. puniceum sont : la lycorine (alcaloïde majoritaire), la galanthamine, l'homolycorine, la tazettine, l'haemanthamine et la norbelladine (Berkov et al., 2011). Ces alcaloïdes phénanthréniques sont caractéristiques du genre Hippeastrum et confèrent à la plante ses propriétés biologiques spécifiques. La lycorine, composé dominant, présente une activité antivirale démontrée contre plusieurs virus à ARN et ADN, ainsi qu'une activité antitumorale in vitro (Li et al., 2007). La galanthamine, bien connue pour son usage thérapeutique dans la maladie d'Alzheimer, agit comme inhibiteur réversible de l'acétylcholinestérase (Heinrich & Lee Teoh, 2004). Ces molécules expliquent l'intérêt pharmacologique du genre mais aussi sa dangerosité.",
+    "posologie": "Aucune posologie scientifiquement validée n'est publiée pour Hippeastrum puniceum dans ses usages traditionnels haïtiens. Les préparations documentées dans le Sud et la Grand'Anse se limitent à l'application externe de cataplasmes de bulbe frais écrasé. Cette absence de standardisation posologique constitue un facteur de risque supplémentaire, d'autant que la concentration en alcaloïdes peut varier considérablement selon la taille du bulbe, la saison de récolte et les conditions de croissance. L'usage externe strict est impératif pour limiter les risques d'intoxication systémique. Toute préparation doit éviter le contact avec les muqueuses et faire l'objet d'un test cutané préalable sur une petite zone."
+  },
+  "nutrition": {
+    "introduction": "Hippeastrum puniceum (Lam.) Voss (syn. Amaryllis punicea) est une herbe bulbeuse exotique, très commune dans les jardins des Départements du Sud et de la Grand'Anse. Elle appartient à la famille des Amaryllidacées, reconnue pour ses riches usages alimentaires et médicinaux mais aussi pour abriter des genres ornementaux potentiellement dangereux. Au sein de cette famille, Hippeastrum puniceum fait partie du genre Hippeastrum, un groupe de bulbes ornementaux originaires d'Amérique du Sud, particulièrement appréciés pour leurs spectaculaires floraisons mais redoutés pour leur toxicité. Contrairement aux Allium alimentaires de la même famille, les Hippeastrum renferment des alcaloïdes puissants comme la lycorine, exigeant une vigilance absolue quant à toute confusion ou ingestion accidentelle. L'usage principal de cette espèce dans les deux départements est ornemental, bien qu'elle soit parfois utilisée traditionnellement en application externe pour les plaies."
+  },
+  "toxicologie": {
+    "niveau": "",
+    "details": "Hippeastrum puniceum présente un niveau de toxicité conditionnel nécessitant des précautions strictes. Le bulbe est toxique par ingestion, provoquant vomissements, diarrhées, hypotension et troubles neurologiques dus aux alcaloïdes (lycorine principalement). Des cas d'intoxications accidentelles ont été rapportés, particulièrement chez les enfants attirés par les bulbes colorés. L'usage doit être strictement externe et nécessite d'éviter tout contact avec les muqueuses. Un lavage soigneux des mains après manipulation est indispensable. Les personnes sensibles peuvent développer des dermatites de contact. La plante doit être tenue hors de portée des enfants et des animaux domestiques. En cas d'ingestion accidentelle, un avis médical urgent s'impose."
+  },
+  "conservation": {
+    "menaces": "Hippeastrum puniceum ne présente pas de préoccupations de conservation particulières. L'espèce est classée comme \"Préoccupation mineure\" (LC) et bénéficie d'une large distribution mondiale comme plante ornementale. Dans les Départements du Sud et de la Grand'Anse, elle est documentée comme commune et ne fait face à aucune menace significative. Sa rusticité et sa capacité d'adaptation lui permettent de prospérer dans divers environnements. La multiplication par division des bulbes ou par graines assure facilement sa pérennité dans les jardins.",
+    "valeur": "La valeur économique de Hippeastrum puniceum dans les Départements du Sud et de la Grand'Anse est principalement ornementale, avec très peu de valeur économique directe. Elle contribue modestement à l'horticulture locale par la vente occasionnelle de bulbes ou de fleurs coupées. Sur le marché international, les Hippeastrum représentent un secteur horticole important, particulièrement pour la production de bulbes et la fleuristerie. La galanthamine extraite du genre Hippeastrum a une valeur pharmaceutique significative pour le traitement de la maladie d'Alzheimer, bien qu'aucune exploitation commerciale ne soit documentée en Haïti."
+  },
+  "recherche": {
+    "nb_articles": "",
+    "details": "Les recherches sur Hippeastrum puniceum se concentrent principalement sur la caractérisation de ses alcaloïdes et leurs activités biologiques. Des études récentes ont confirmé la présence de galanthamine dans plusieurs espèces du genre, suscitant un intérêt pour leur valorisation pharmaceutique (Berkov et al., 2011). Aucune recherche spécifique n'est documentée sur l'espèce en Haïti, malgré son usage traditionnel marginal. Des études toxicologiques approfondies seraient nécessaires pour mieux encadrer les usages externes traditionnels. L'évaluation de l'activité antimicrobienne de la lycorine pourrait justifier scientifiquement l'usage traditionnel sur les plaies, sous réserve de développer des formulations sûres et standardisées.",
+    "lien_pubmed": "",
+    "lien_scholar": "",
+    "lien_tramil": ""
+  },
+  "references": "Berkov, S. et al. (2011). Alkaloid diversity in Galanthus and Leucojum species (Amaryllidaceae). Phytochemistry, 72(18), 2392-2404. DOI: 10.1016/j.phytochem.2011.08.023. Heinrich, M. & Lee Teoh, H. (2004). Galanthamine from snowdrop—the development of a modern drug against Alzheimer's disease from local Caucasian knowledge. Journal of Ethnopharmacology, 92(2-3), 147-162. DOI: 10.1016/j.jep.2004.02.012. Li, S.Y. et al. (2007). Antiviral activity of lycorine against Epstein-Barr virus in vitro. Antiviral Research, 74(3), 254-261. DOI: 10.1016/j.antiviral.2006.11.011. POWO (2026). Plants of the World Online. Facilitated by the Royal Botanic Gardens, Kew. http://www.plantsoftheworldonline.org/ World Flora Online (2026). An Online Flora of All Known Plants. http://www.worldfloraonline.org/",
+  "aRetenir": "🟡 À retenir — Lis, Bèl nwit : est une plante a toxicite conditionnelle documentee. Respecter imperativement les precautions indiquees. Ne jamais ingerer les parties toxiques sans encadrement medical. Ces informations sont destinees a l'enseignement et a la documentation. Les auteurs declinent toute responsabilite quant a un usage inapproprie.",
+  "images": {
+    "principale": "images/54_Hippeastrum_puniceum-001.jpg",
+    "galerie": [
+      "images/54_Hippeastrum_puniceum-001.jpg",
+      "images/54_Hippeastrum_puniceum-002.jpg",
+      "images/54_Hippeastrum_puniceum-003.jpg"
+    ]
+  },
+  "source": "plantes_full.json"
+}

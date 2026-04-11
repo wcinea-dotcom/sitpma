@@ -1,0 +1,57 @@
+{
+  "id_plante": "plt-3901",
+  "code": "plt-3901",
+  "no_espece": "",
+  "no_famille": "39",
+  "famille": "Gesneriacées",
+  "description_famille": "Dominant les régions tropicales avec plus de 3000 espèces réparties en 150 genres, les Gesnériacées constituent une famille remarquable d'herbes, d'arbustes et d'épiphytes, particulièrement diversifiée dans les Amériques et reconnaissable par ses fleurs tubulaires colorées. Cette famille comprend des genres ornementaux mondialement cultivés comme Saintpaulia (violette africaine), Begonia et Gloxinia, ainsi que des espèces à fort potentiel médicinal traditionnel dans les Caraïbes. Les Gesnériacées se distinguent par leur capacité d'adaptation aux milieux humides et ombragés, développant souvent des stratégies épiphytes sophistiquées. Sur le plan phytochimique, la famille présente une composition variable selon les genres : flavonoïdes, tanins, alcaloïdes et composés phénoliques dominent généralement, ciblant préférentiellement les systèmes digestif, respiratoire et dermatologique. Certains genres comme Columnea et Besleria sont utilisés traditionnellement contre les troubles gastro-intestinaux, tandis que d'autres présentent des propriétés anti-inflammatoires. La famille nécessite une attention particulière en Haïti car elle renferme plusieurs espèces endémiques menacées, notamment dans le genre Rhytidophyllum.",
+  "identite": {
+    "genre": "Rhytidophyllum",
+    "espece": "bicolor",
+    "nom_scientifique": "Rhytidophyllum bicolor",
+    "synonymes": "-",
+    "nom_francais": "-",
+    "nom_creole": "Fey aran/ kasenèt",
+    "nom_anglais": "-"
+  },
+  "morphologie": {
+    "description": "R. bicolor est un arbuste de taille modeste, spécifiquement adapté aux ravines humides et aux rochers calcaires ombragés des Départements du Sud et de la Grand'Anse. Tiges et port. L'arbuste développe un port buissonnant caractéristique, avec des tiges ligneuses ramifiées lui permettant de s'ancrer solidement dans les fissures rocheuses et les pentes instables des ravines calcaires. Feuilles. Les feuilles présentent une caractéristique bicolore — d'où le nom scientifique « bicolor » — avec une face supérieure et une face inférieure de teintes contrastées. Cette adaptation chromatique est fréquente chez les Gesnériacées d'ombre, optimisant la capture de la lumière diffuse en sous-bois. Fleurs. Comme toutes les Gesnériacées, R. bicolor produit des fleurs tubulaires colorées, adaptées à la pollinisation par des insectes spécialisés ou des colibris. La floraison constitue l'un des éléments les plus attractifs de cette espèce d'un point de vue ornemental. Fruit et reproduction. Les modalités précises de reproduction et de dispersion de R. bicolor restent peu documentées scientifiquement, constituant une lacune importante pour les stratégies de conservation ex situ. La partie utilisée traditionnellement est la plante entière.",
+    "ecologie": "R. bicolor est endémique strict d'Haïti, avec une distribution géographique extrêmement restreinte aux ravines humides et rochers calcaires ombragés. Cette spécialisation écologique étroite rend l'espèce particulièrement vulnérable aux perturbations environnementales. L'arbuste s'est adapté aux conditions particulières du karst tropical haïtien, caractérisé par des alternances saisonnières marquées entre période sèche et période humide. Sa survie dépend étroitement de la préservation de ces microhabitats spécialisés."
+  },
+  "usages": {
+    "usages_ethnobotaniques": "L'usage ethnobotanique documenté de R. bicolor dans les Départements du Sud et de la Grand'Anse concerne principalement le traitement de la diarrhée. La plante entière est utilisée, reflétant une approche traditionnelle holistique courante pour les espèces rares. Les modes de préparation spécifiques ne sont pas détaillés dans la documentation disponible, mais impliquent vraisemblablement des décoctions ou infusions, techniques classiques pour les troubles gastro-intestinaux en médecine traditionnelle haïtienne. Au-delà de l'usage médicinal, R. bicolor présente une valeur ornementale potentielle remarquable, caractéristique des Gesnériacées tropicales, bien que cette valorisation reste à développer dans le respect des impératifs de conservation.",
+    "systemes_concernes": "Digestif"
+  },
+  "pharmacologie": {
+    "molecules": "Rhytidophyllum bicolor développe probablement des composés primaires spécifiques à son adaptation aux milieux calcaires ombragés. Les pigments responsables de la coloration bicolore de ses feuilles incluent vraisemblablement des chlorophylles en concentration variable entre les faces foliaires, ainsi que des anthocyanes ou caroténoïdes contribuant aux teintes contrastées. Cette distribution pigmentaire optimise l'efficacité photosynthétique dans les conditions de faible luminosité des ravines ombragées. Les minéraux dominants reflètent probablement l'adaptation au substrat calcaire, avec des concentrations élevées de calcium (Ca) et de magnésium (Mg). Les principaux composés secondaires probablement présents dans R. bicolor, par analogie avec le genre Rhytidophyllum et la famille des Gesnériacées, comprennent : des flavonoïdes (quercétine, kaempférol), des tanins condensés, des composés phénoliques, des iridoïdes et possiblement des alcaloïdes. Aucune étude phytochimique spécifique à R. bicolor n'est disponible sur PubMed, nécessitant des recherches par analogie avec des espèces proches. Ces molécules remplissent des fonctions de défense essentielles pour un arbuste évoluant dans l'environnement particulier des ravines calcaires. Les flavonoïdes protègent contre les rayonnements UV réfléchis par les rochers calcaires. Les tanins défendent contre les herbivores et les pathogènes fongiques fréquents en milieu humide. Les composés phénoliques contribuent à la résistance aux stress hydriques variables des ravines. Ces mêmes composés, une fois ingérés par l'humain, pourraient produire les effets anti-diarrhéiques documentés localement, par analogie avec d'autres Gesnériacées riches en tanins astringents. Les observations restent cependant principalement issues d'usage traditionnel, sans validation clinique.",
+    "posologie": "Aucune posologie cliniquement validée n'est disponible pour R. bicolor. Les pratiques traditionnelles documentées localement ne sont pas standardisées, et l'absence d'études posologiques publiées empêche toute recommandation thérapeutique précise. Cette lacune constitue un obstacle majeur à la valorisation médicinale de l'espèce, tout en soulignant la nécessité de recherches approfondies préalables à tout usage thérapeutique."
+  },
+  "nutrition": {
+    "introduction": "Rhytidophyllum bicolor est un arbuste endémique strict d'Haïti, ce qui signifie qu'il n'existe nulle part ailleurs sur Terre. Il appartient à la famille des Gesnériacées, une famille tropicale remarquable pour ses adaptations aux milieux humides et ses fleurs tubulaires colorées. Au sein de cette famille, le genre Rhytidophyllum regroupe des arbustes endémiques des Grandes Antilles, particulièrement adaptés aux environnements rocheux calcaires et aux ravines ombragées. L'usage documenté de R. bicolor dans les Départements du Sud et de la Grand'Anse concerne principalement le traitement de la diarrhée, bien que son statut d'endémique strict en fasse avant tout une priorité de conservation. Cette espèce présente également un potentiel ornemental remarquable, caractéristique du genre Rhytidophyllum."
+  },
+  "toxicologie": {
+    "niveau": "",
+    "details": "Le profil toxicologique de R. bicolor n'est pas documenté dans la littérature scientifique. L'espèce n'a pas été étudiée pour la consommation humaine, rendant impossible l'évaluation de sa sécurité d'usage. En l'absence de données toxicologiques, la prudence s'impose, particulièrement compte tenu du statut d'endémique strict qui limite les connaissances empiriques. Toute utilisation à des fins thérapeutiques devrait être précédée d'études toxicologiques appropriées."
+  },
+  "conservation": {
+    "menaces": "R. bicolor est classé « En danger » (EN) selon les critères de conservation. En tant qu'endémique strict à distribution ultra-restreinte, l'espèce fait face à des menaces existentielles multiples : dégradation des ravines humides, érosion des sols calcaires, perturbations hydrologiques et pressions anthropiques sur ses habitats spécialisés. La restauration des ravines humides constitue une priorité absolue pour la survie de cette espèce. La conservation ex situ par multiplication contrôlée représente une stratégie complémentaire essentielle.",
+    "valeur": "La valeur économique actuelle de R. bicolor reste principalement potentielle. Sa rareté extrême exclut toute exploitation commerciale directe. Cependant, l'espèce présente un intérêt ornemental et botanique significatif, pouvant contribuer au développement d'un écotourisme scientifique spécialisé. La valorisation de cette endémique pourrait s'intégrer dans des programmes de conservation payante, générant des revenus locaux tout en finançant la protection des habitats. Cette approche nécessite un développement très contrôlé respectant les impératifs de conservation."
+  },
+  "recherche": {
+    "nb_articles": "",
+    "details": "Les recherches prioritaires concernant R. bicolor incluent : caractérisation phytochimique complète, études pharmacologiques des propriétés anti-diarrhéiques, évaluation toxicologique, protocoles de multiplication ex situ et cartographie précise des populations naturelles. L'absence quasi-totale de publications scientifiques spécifiques constitue une lacune majeure à combler. Le développement de collaborations entre institutions botaniques internationales et centres de recherche haïtiens pourrait accélérer l'acquisition de ces connaissances essentielles à la conservation de cette endémique remarquable.",
+    "lien_pubmed": "",
+    "lien_scholar": "",
+    "lien_tramil": ""
+  },
+  "references": "Aucune publication spécifique à Rhytidophyllum bicolor n'est indexée sur PubMed à ce jour. Les informations pharmacologiques reposent sur des analogies avec la famille des Gesnériacées.",
+  "aRetenir": "🟢 À retenir — Fey aran/ kasenèt : est une espece peu ou non etudiee scientifiquement. Les proprietes presentees reposent sur des analogies avec des especes proches et les usages traditionnels documentes localement. La conservation de cette espece prime sur toute valorisation. Les auteurs declinent toute responsabilite quant a un usage inapproprie.",
+  "images": {
+    "principale": "images/391_Rhytidophyllum_bicolor-001.jpg",
+    "galerie": [
+      "images/391_Rhytidophyllum_bicolor-001.jpg",
+      "images/391_Rhytidophyllum_bicolor-002.jpg"
+    ]
+  },
+  "source": "plantes_full.json"
+}

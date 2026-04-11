@@ -1,0 +1,56 @@
+{
+  "id_plante": "plt-7101",
+  "code": "plt-7101",
+  "no_espece": "",
+  "no_famille": "71",
+  "famille": "Portulacacées",
+  "description_famille": "Dominant les régions tropicales et subtropicales, les Portulacacées rassemblent environ 500 espèces réparties en 20 genres, principalement des herbes succulentes adaptées aux environnements arides. Cette famille se distingue par ses remarquables propriétés nutritionnelles et thérapeutiques, particulièrement représentées par le pourpier (Portulaca oleracea), légume-feuille exceptionnel par sa richesse en acides gras oméga-3 végétaux. Sur le plan alimentaire, plusieurs genres comme Portulaca et Talinum constituent des sources précieuses de légumes-feuilles dans les Caraïbes. Les usages médicinaux concernent principalement les systèmes cardiovasculaire et métabolique, grâce à une signature phytochimique dominée par les acides gras polyinsaturés, les bétalaïnes antioxydantes, les flavonoïdes et les minéraux essentiels (potassium, magnésium). Cette famille cible préférentiellement le système cardiovasculaire par ses effets hypotenseurs et cardioprotecteurs. Une vigilance s'impose néanmoins concernant la teneur élevée en oxalates de certaines espèces, pouvant favoriser la formation de calculs rénaux chez les sujets prédisposés.",
+  "identite": {
+    "genre": "Portulaca",
+    "espece": "oleracea",
+    "nom_scientifique": "Portulaca oleracea L.",
+    "synonymes": "Portulaca parvifolia / Portulaca sylvestris",
+    "nom_francais": "Pourpier",
+    "nom_creole": "Koupye",
+    "nom_anglais": "Purslane"
+  },
+  "morphologie": {
+    "description": "P. oleracea est une herbe succulente annuelle, rampante à semi-dressée, formant des tapis denses au sol dans les zones cultivées et les terrains perturbés des deux départements. Tiges. Les tiges sont charnues, cylindriques, lisses et brillantes, de couleur verte à rougeâtre selon l'exposition solaire. Elles s'étalent horizontalement depuis la base, pouvant atteindre 30 à 40 cm de longueur. Leur texture succulente leur permet de stocker l'eau, adaptation caractéristique aux périodes sèches fréquentes dans la région. Feuilles. Les feuilles constituent la partie la plus remarquable : charnues, spatulées à obovales, disposées de manière alterne ou parfois opposée vers la base des tiges. Leur couleur verte brillante et leur texture épaisse et juteuse les rendent facilement reconnaissables. Elles mesurent généralement 1 à 2 cm de longueur. Fleurs. Les fleurs sont petites, jaunes, à cinq pétales, regroupées en glomérules terminaux. Elles s'ouvrent uniquement en plein soleil et se referment l'après-midi, adaptation qui optimise la pollinisation tout en préservant les organes reproducteurs. Fruit et graines. Le fruit est une capsule qui s'ouvre en couvercle (pyxide), libérant de nombreuses petites graines noires, lisses et brillantes, assurant une reproduction efficace. Les parties utilisées sont principalement les feuilles et les tiges jeunes, et occasionnellement les graines.",
+    "ecologie": "P. oleracea présente une distribution cosmopolite dans les régions tropicales et tempérées chaudes. Aux Départements du Sud et de la Grand'Anse, elle colonise spontanément les jardins, les terrains cultivés, les bords de chemins et les zones perturbées de basse altitude. Son caractère pionnier et sa tolérance à la sécheresse en font une espèce particulièrement bien adaptée aux conditions climatiques locales. Elle préfère les sols bien drainés et ensoleillés, fructifiant et se reproduisant facilement par graines lors de la saison des pluies."
+  },
+  "usages": {
+    "usages_ethnobotaniques": "Dans les Départements du Sud et de la Grand'Anse, le « koupye » constitue un légume-feuille traditionnel consommé cru en salade ou cuit comme épinard. Les feuilles et tiges jeunes se récoltent de préférence le matin, quand la teneur en eau est maximale. La préparation la plus courante consiste à consommer les feuilles crues, accompagnées d'huile d'olive et de citron, préservant ainsi l'intégrité des oméga-3 thermosensibles. En usage médicinal, les feuilles fraîches sont employées comme antidiabétique adjuvant, hypotenseur léger et diurétique. L'usage TRAMIL documente son emploi traditionnel contre les vers intestinaux en Haïti. Les graines, moins utilisées localement, sont réputées pour leurs propriétés émollientes.",
+    "systemes_concernes": "Cardiovasculaire"
+  },
+  "pharmacologie": {
+    "molecules": "Portulaca oleracea se distingue par une composition nutritionnelle exceptionnelle dominée par les acides gras oméga-3 végétaux, particulièrement l'acide alpha-linolénique (ALA), présent à des concentrations remarquables pour une plante terrestre. Cette richesse en oméga-3, associée aux bétalaïnes responsables des reflets rougeâtres des tiges, confère au pourpier ses propriétés antioxydantes et anti-inflammatoires distinctives. Les feuilles concentrent également des vitamines A, C et E, des folates, du potassium, du magnésium et du calcium, expliquant sa valeur nutritionnelle exceptionnelle (Simopoulos et al., 1992 — PMID: 1354675). Les principaux composés secondaires identifiés dans P. oleracea comprennent : des flavonoïdes (kaempférol, quercétine, apigénine), des bétalaïnes (bétanine, isobétanine), des alcaloïdes (dopamine, norépinephrine), des saponines triterpéniques, des terpénoïdes et des acides phénoliques. Des études récentes ont également mis en évidence la présence de polysaccharides bioactifs et d'acides organiques (Zhou et al., 2015 — PMID: 25861954). Ces molécules remplissent des fonctions de protection essentielles pour la plante. Les bétalaïnes protègent les tissus photosynthétiques contre les stress oxydatifs induits par l'exposition solaire intense. Les flavonoïdes constituent un système de défense contre les pathogènes et les herbivores, tout en filtrant les rayonnements UV. Les saponines confèrent une protection contre les champignons du sol. Ces mêmes composés, une fois ingérés par l'humain, produisent les effets biologiques documentés : activité antioxydante, modulation glycémique et protection cardiovasculaire. Il convient de noter que la plupart des mécanismes restent issus d'études in vitro et sur modèles animaux.",
+    "posologie": "En usage alimentaire, 50 à 100 g par jour de feuilles fraîches crues ou cuites constituent une consommation courante et sécuritaire. Pour les applications thérapeutiques, des essais cliniques contrôlés ont utilisé 180 mg par jour d'extrait standardisé pendant 12 semaines chez des patients diabétiques de type 2, montrant une amélioration significative du contrôle glycémique (Bai et al., 2016 — PMID: 27269796). Cependant, aucune posologie standardisée n'est établie pour les préparations traditionnelles fraîches à visée thérapeutique."
+  },
+  "nutrition": {
+    "introduction": "Portulaca oleracea L. — « Koupye » / Pourpier Portulaca oleracea L. (syn. Portulaca parvifolia, P. sylvestris) est une herbe succulente native abondante dans les Départements du Sud et de la Grand'Anse d'Haïti. Elle appartient à la famille des Portulacacées, une famille tropicale remarquable par ses propriétés nutritionnelles exceptionnelles et ses applications cardiovasculaires. Au sein de cette famille, elle fait partie du genre Portulaca, qui regroupe plusieurs espèces à fort potentiel alimentaire et thérapeutique, toutes caractérisées par leurs feuilles charnues riches en nutriments et leur adaptation aux climats secs. Portulaca oleracea constitue l'un des légumes-feuilles les plus précieux de la flore haïtienne : véritable « superfood » local, elle combine usages culinaires quotidiens et propriétés médicinales documentées scientifiquement, particulièrement pour la santé cardiovasculaire et métabolique."
+  },
+  "toxicologie": {
+    "niveau": "",
+    "details": "P. oleracea présente un excellent profil de sécurité en usage alimentaire normal. La principale précaution concerne sa teneur élevée en oxalates, qui pourrait favoriser la formation de calculs rénaux chez les sujets prédisposés ou en cas de consommation excessive prolongée. Une prudence est recommandée chez les patients sous antidiabétiques en raison d'effets additifs possibles sur la glycémie. Les femmes enceintes devraient éviter les doses thérapeutiques concentrées, bien que la consommation alimentaire modérée reste sécuritaire."
+  },
+  "conservation": {
+    "menaces": "P. oleracea bénéficie d'un statut de conservation favorable (LC — Préoccupation mineure). Sa nature pionnière et sa capacité d'adaptation remarquable la protègent des menaces environnementales. Dans les Départements du Sud et de la Grand'Anse, elle maintient des populations stables et étendues. Aucune mesure de conservation spécifique n'est requise pour cette espèce resiliente.",
+    "valeur": "Localement, P. oleracea représente une ressource alimentaire accessible et gratuite pour les populations rurales. Internationalement, elle connaît un intérêt croissant comme « superfood » et ingrédient nutraceutique, particulièrement valorisée pour sa richesse exceptionnelle en oméga-3 végétaux. Le marché mondial des extraits de pourpier présente un potentiel de développement significatif, ouvrant des perspectives d'exploitation durable pour les communautés locales."
+  },
+  "recherche": {
+    "nb_articles": "~2000 (estimation)",
+    "details": "Avec environ 2000 publications scientifiques indexées, P. oleracea constitue l'une des plantes alimentaires sauvages les mieux documentées. Les recherches actuelles se concentrent sur l'optimisation de l'extraction des principes actifs, le développement de compléments alimentaires standardisés et l'évaluation de nouvelles activités biologiques. Les perspectives incluent son intégration dans des programmes de sécurité alimentaire et de médecine préventive, particulièrement pour les populations à risque cardiovasculaire.",
+    "lien_pubmed": "",
+    "lien_scholar": "",
+    "lien_tramil": ""
+  },
+  "references": "Bai, Y. et al. (2016). Antidiabetic activity of Portulaca oleracea L. polysaccharides in alloxan-induced diabetic mice. PMID: 27269796. Simopoulos, A.P. et al. (1992). Common purslane: a source of omega-3 fatty acids and antioxidants. PMID: 1354675. Zhou, Y.X. et al. (2015). Portulaca oleracea L.: a review of phytochemistry and pharmacological effects. PMID: 25861954. POWO (2024). Portulaca oleracea L. Plants of the World Online, Kew Science. TRAMIL (2024). Portulaca oleracea. www.tramil.net",
+  "aRetenir": "🟢 À retenir — Koupye : est avant tout un aliment — sa valeur nutritionnelle prime sur ses usages medicinaux. Consommee correctement preparee, elle est sans danger documente. Ses proprietes therapeutiques, reelles mais secondaires, ne remplacent pas un suivi medical. Les auteurs declinent toute responsabilite quant a un usage inapproprie.",
+  "images": {
+    "principale": "images/701_Portulaca_oleracea-001.jpg",
+    "galerie": [
+      "images/701_Portulaca_oleracea-001.jpg"
+    ]
+  },
+  "source": "plantes_full.json"
+}

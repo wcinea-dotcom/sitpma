@@ -1,0 +1,58 @@
+{
+  "id_plante": "plt-7805",
+  "code": "plt-7805",
+  "no_espece": "",
+  "no_famille": "78",
+  "famille": "Rubiacées",
+  "description_famille": "",
+  "identite": {
+    "genre": "Morinda",
+    "espece": "royoc",
+    "nom_scientifique": "Morinda royoc L.",
+    "synonymes": "Morinda yucatanensis",
+    "nom_francais": "-",
+    "nom_creole": "Safran",
+    "nom_anglais": "Red Gal"
+  },
+  "morphologie": {
+    "description": "M. royoc est une liane robuste du littoral, commune dans son aire de distribution, présentant une saveur aromatique caractéristique. Tiges et port. La plante développe de longues tiges volubiles lui permettant de s'étendre sur la végétation environnante. Cette stratégie de croissance optimise sa captation lumineuse tout en économisant l'énergie nécessaire à la construction d'un tronc rigide. Feuilles. Les feuilles sont opposées, simples et persistantes, typiques de la famille des Rubiacées. Elles présentent une nervation pennée bien marquée et une texture coriace adaptée aux conditions littorales. Fleurs. Les fleurs sont petites, blanches à jaunâtres, regroupées en inflorescences terminales. Elles attirent divers insectes pollinisateurs grâce à leur parfum délicat. Fruits. Les fruits sont des drupes charnues, généralement orangés à maturité, disposés en grappes. Ces fruits parfois consommés localement constituent un attrait pour l'avifaune qui assure la dispersion des graines. Les parties utilisées selon les pratiques documentées dans le Sud et la Grand'Anse sont les feuilles, les fruits et les racines.",
+    "ecologie": "M. royoc est une espèce native des Caraïbes et de l'Amérique tropicale, parfaitement adaptée aux conditions littorales. Dans les Départements du Sud et de la Grand'Anse, elle colonise préférentiellement les zones côtières où elle bénéficie des sols bien drainés et de l'exposition lumineuse optimale. Sa stratégie de liane lui permet d'exploiter efficacement les écotones entre végétation basse et formations arbustives. Son statut de préoccupation mineure reflète une population stable et une capacité d'adaptation remarquable aux perturbations anthropiques modérées des zones littorales."
+  },
+  "usages": {
+    "usages_ethnobotaniques": "Les pratiques documentées dans le Sud et la Grand'Anse révèlent un usage polyvalent de M. royoc. Les racines servent traditionnellement à colorer les chapeaux, valorisant les propriétés tinctoriales des anthraquinones. Cette même partie constitue un tonique et aphrodisiaque reconnu dans la pharmacopée locale. Les feuilles et fruits sont préparés en décoction pour leurs propriétés anti-inflammatoires, diuretiques, analgésiques et antimicrobiennes. À Cuba, la plante est également reconnue comme stimulant sexuel sous le nom vernaculaire \"Royoc\". L'usage comme tonique est documenté par TRAMIL pour Haïti, confirmant la cohérence régionale des applications thérapeutiques. Ces préparations s'inscrivent dans une tradition caribéenne partagée valorisant les propriétés adaptogènes de l'espèce.",
+    "systemes_concernes": "Reproducteur"
+  },
+  "pharmacologie": {
+    "molecules": "La couleur orangée caractéristique des fruits de M. royoc résulte de la présence de caroténoïdes, pigments responsables des teintes jaune-orange dans le règne végétal. Cette coloration vive constitue un signal visuel attractif pour les animaux disperseurs tout en protégeant les graines des rayonnements UV. La saveur aromatique des tissus végétatifs provient de composés volatils terpéniques qui jouent un rôle défensif contre les herbivores. Les fruits contiennent des sucres naturels, des fibres et des minéraux essentiels (K, Mg, Ca, Fe, Zn), conférant une valeur nutritionnelle modeste mais réelle aux populations qui les consomment occasionnellement. Les principaux composés secondaires identifiés dans M. royoc comprennent : des anthraquinones responsables des propriétés tinctoriales et laxatives, des flavonoïdes aux propriétés antioxydantes et anti-inflammatoires, des saponines triterpéniques conférant les effets diurétiques et analgésiques, des tanins contribuant aux propriétés astringentes et antimicrobiennes, et des caroténoïdes (Lorence et al., 2004 — doi:10.1016/j.phytochem.2004.01.015). Ces molécules remplissent des fonctions de protection spécifiques pour la plante littorale. Les anthraquinones protègent contre les pathogènes du sol humide et découragent la consommation excessive par les herbivores. Les flavonoïdes neutralisent les radicaux libres générés par l'exposition marine intense. Les saponines dans les racines créent une barrière chimique contre les nématodes telluriques. Ces mêmes composés, une fois ingérés par l'humain, produisent les effets biologiques documentés dans les usages traditionnels, bien que les mécanismes détaillés restent peu étudiés pour cette espèce spécifique.",
+    "posologie": "Selon les usages caribéens documentés, la posologie recommandée consiste en une infusion de feuilles à raison de 5 g/L, consommée 1 à 2 fois par jour. Cette posologie, issue de l'expérience traditionnelle régionale, ne fait pas l'objet d'une validation clinique formelle mais reflète un consensus d'usage établi dans les Caraïbes. L'absence d'études pharmacocinétiques spécifiques à M. royoc limite la précision des recommandations posologiques, nécessitant une approche prudente dans l'application thérapeutique."
+  },
+  "nutrition": {
+    "introduction": "Morinda royoc L. (syn. Morinda yucatanensis) est une liane native documentée dans les Départements du Sud et de la Grand'Anse. Elle appartient à la famille des Rubiacées, une vaste famille tropicale regroupant lianes, arbustes, herbes et arbres, reconnue pour ses usages alimentaires et médicinaux remarquables. Cette famille se distingue par sa richesse phytochimique — alcaloïdes (caféine, quinine, iridoïdes), flavonoïdes, tanins, anthraquinones et composés phénoliques — ciblant préférentiellement les systèmes tégumentaire, nerveux et cardiaque. Au sein de cette famille, le genre Morinda regroupe des espèces à fruits comestibles et propriétés médicinales, dont le célèbre noni (Morinda citrifolia). Comme plusieurs membres des Rubiacées, certaines espèces renferment des principes actifs puissants nécessitant une préparation adéquate. Morinda royoc est principalement utilisée comme plante médicinale et tinctoriale dans les pratiques locales."
+  },
+  "toxicologie": {
+    "niveau": "",
+    "details": "M. royoc présente un profil de sécurité favorable aux doses usuelles, classée comme non toxique dans les conditions normales d'utilisation. Le surdosage peut néanmoins provoquer une diarrhée et un déséquilibre hydro-électrolytique consécutif à l'effet diurétique prononcé des saponines. Une prudence particulière s'impose chez les personnes souffrant d'insuffisance rénale en raison de l'action diurétique. Les femmes enceintes et allaitantes doivent éviter l'usage thérapeutique par mesure de précaution, les données de sécurité étant insuffisantes pour ces populations vulnérables. L'utilisation tinctoriale des racines ne présente pas de risque particulier."
+  },
+  "conservation": {
+    "menaces": "L'espèce bénéficie d'un statut de préoccupation mineure, témoignant d'une population stable dans son aire de distribution. Sa nature de liane commune et son adaptation aux milieux littoraux perturbés lui confèrent une résilience appréciable face aux pressions anthropiques modérées. Les principales menaces potentielles concernent l'urbanisation littorale intensive et la pollution marine, pouvant affecter ses habitats côtiers préférentiels.",
+    "valeur": "Localement, M. royoc présente une valeur médicinale établie dans les systèmes de soins traditionnels du Sud et de la Grand'Anse. Son usage tinctorial pour la coloration des chapeaux constitue une application artisanale spécifique. À l'échelle internationale, l'espèce entre dans la composition de boissons traditionnelles, suggérant un potentiel commercial modeste mais réel dans le secteur des produits naturels."
+  },
+  "recherche": {
+    "nb_articles": "~50 (estimation)",
+    "details": "Avec environ 50 articles scientifiques référencés, M. royoc demeure relativement peu étudiée comparativement à son congénère M. citrifolia (noni). Les recherches futures devraient prioritairement élucider les mécanismes moléculaires sous-tendant les effets aphrodisiaques et toniques rapportés. L'évaluation pharmacocinétique des anthraquinones et saponines constitue un axe d'investigation prometteur. Le potentiel antioxydant des caroténoïdes du fruit mériterait une caractérisation approfondie dans le contexte des maladies liées au stress oxydatif.",
+    "lien_pubmed": "https://pubmed.ncbi.nlm.nih.gov/?term=Morinda+royoc",
+    "lien_scholar": "",
+    "lien_tramil": "https://www.tramil.net/en/plant/morinda-royoc"
+  },
+  "references": "Lorence, A., et al. (2004). Anthraquinone biosynthesis in cell cultures of Morinda citrifolia. Phytochemistry, 65(20), 2735-2744. doi:10.1016/j.phytochem.2004.01.015 TRAMIL. (2024). Morinda royoc L. Caribbean Database. https://www.tramil.net/en/plant/morinda-royoc PubMed Database. (2024). Morinda royoc — Scientific Publications. https://pubmed.ncbi.nlm.nih.gov/?term=Morinda+royoc POWO. (2024). Plants of the World Online. Facilitated by the Royal Botanic Gardens, Kew.",
+  "aRetenir": "🟢 À retenir — Safran : est utilisee en medecine traditionnelle avec un bon profil de securite aux doses courantes. Les usages presentes reposent sur des donnees ethnobotaniques et scientifiques publiees, mais ne constituent pas une prescription. Consulter un professionnel de sante avant tout usage therapeutique. Les auteurs declinent toute responsabilite quant a un usage inapproprie.",
+  "images": {
+    "principale": "images/775_Morinda_royoc-001.jpg",
+    "galerie": [
+      "images/775_Morinda_royoc-001.jpg",
+      "images/775_Morinda_royoc-002.jpg",
+      "images/775_Morinda_royoc-003.jpg"
+    ]
+  },
+  "source": "plantes_full.json"
+}

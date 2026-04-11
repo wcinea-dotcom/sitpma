@@ -1,0 +1,57 @@
+{
+  "id_plante": "plt-6003",
+  "code": "plt-6003",
+  "no_espece": "",
+  "no_famille": "60",
+  "famille": "Passifloracées",
+  "description_famille": "",
+  "identite": {
+    "genre": "Turnera",
+    "espece": "diffusa",
+    "nom_scientifique": "Turnera diffusa Willd.",
+    "synonymes": "Turnera aphrodisiaca",
+    "nom_francais": "Damiana",
+    "nom_creole": "Ten savann",
+    "nom_anglais": "Damiana"
+  },
+  "morphologie": {
+    "description": "T. diffusa est un arbuste de taille modeste, adapté aux environnements secs, à saveur amère caractéristique. Tiges et écorce. L'arbuste développe des tiges ligneuses ramifiées, formant un port buissonnant compact. Les jeunes rameaux sont pubescents et de couleur brunâtre, devenant plus lisses avec l'âge. Feuilles. Les feuilles sont alternes, simples, de forme oblongue à elliptique, mesurant généralement 1 à 2 cm de longueur. Elles présentent une texture légèrement coriace et une surface finement pubescente. Le limbe est denté en bordure et présente une nervation pennée bien marquée. Ces feuilles dégagent une odeur aromatique caractéristique lorsqu'elles sont froissées. Fleurs. Les fleurs sont solitaires, axillaires, de couleur jaune vif. Elles présentent cinq pétales libres et sont relativement petites mais voyantes. La floraison peut s'étaler sur une longue période selon les conditions climatiques. Fruit. Le fruit est une petite capsule qui s'ouvre à maturité pour libérer de nombreuses graines minuscules. Les parties utilisées sont les feuilles, les fleurs et les racines, avec une préférence pour les feuilles qui concentrent la majorité des principes actifs.",
+    "ecologie": "T. diffusa est une espèce native des Caraïbes et de l'Amérique tropicale, parfaitement adaptée aux climats chauds et aux sols bien drainés. Dans les Départements du Sud et de la Grand'Anse, l'espèce colonise préférentiellement les zones sèches et les terrains rocheux où elle forme des populations communes et stables. Sa tolérance à la sécheresse et sa capacité à prospérer sur des sols pauvres en font une espèce particulièrement résiliente face aux contraintes climatiques locales. Cette adaptabilité explique son abondance relative dans la région et sa facilité de récolte pour les usages traditionnels."
+  },
+  "usages": {
+    "usages_ethnobotaniques": "Dans les Départements du Sud et de la Grand'Anse, T. diffusa est exclusivement utilisée à des fins médicinales, principalement recommandée contre la fatigue chronique et pour soutenir la libido. Les feuilles constituent la partie la plus couramment employée, récoltées de préférence avant la floraison lorsque leur concentration en principes actifs est optimale. Le mode de préparation dominant est l'infusion : les feuilles séchées sont infusées dans l'eau chaude pour obtenir une tisane au goût amer caractéristique. Cette préparation permet d'extraire efficacement les composés hydrosolubles tout en préservant les molécules thermosensibles. Les fleurs et les racines peuvent également être utilisées, mais de manière moins systématique. Selon les données TRAMIL, l'usage traditionnel en Haïti concerne spécifiquement la faiblesse sexuelle, confirmant la réputation aphrodisiaque de la plante dans la pharmacopée caribéenne. Au Mexique, la plante est également reconnue sous le nom de Damiana pour des usages similaires.",
+    "systemes_concernes": "Nerveux, Reproducteur"
+  },
+  "pharmacologie": {
+    "molecules": "Turnera diffusa se caractérise par la production de composés amers spécifiques responsables de ses propriétés toniques. La saveur amère prononcée de la plante provient principalement de la damianine, un principe amer complexe, ainsi que de tanins condensés qui confèrent également une certaine astringence. Cette amertume constitue un mécanisme de défense naturel contre l'herbivorie tout en stimulant les fonctions digestives chez l'humain. La plante produit également des huiles essentielles volatiles responsables de son parfum caractéristique, composées principalement de monoterpènes et de sesquiterpènes qui jouent un rôle répulsif contre les insectes ravageurs. Les principaux composés secondaires identifiés dans T. diffusa comprennent : des flavonoïdes (apigénine, vitexine, lutéoline), des tanins condensés, des saponines triterpéniques, l'arbutine (hétéroside phénolique), des huiles essentielles riches en thymol et cinéole, et la damianine — un complexe de principes amers spécifiques au genre (Zhao et al., 2007 — PMID: 17562569, Estrada-Reyes et al., 2009 — PMID: 19289206). Ces molécules remplissent des fonctions de défense multiples pour la plante. Les flavonoïdes protègent contre les rayonnements UV et possèdent des propriétés antioxydantes. Les tanins découragent l'herbivorie par leur astringence. Les saponines perturbent les membranes cellulaires des pathogènes. Ces mêmes composés, une fois ingérés par l'humain, produisent les effets biologiques documentés : les flavonoïdes exercent une activité anxiolytique légère et antioxydante, tandis que les principes amers stimulent l'appétit et la digestion. Les recherches suggèrent une modulation possible des neurotransmetteurs comme la sérotonine et la dopamine, bien que les mécanismes précis restent à élucider par des essais cliniques contrôlés.",
+    "posologie": "Les infusions traditionnelles utilisent environ 5 grammes de feuilles par litre d'eau, consommées 1 à 2 fois par jour. Des extraits hydroalcooliques sont également utilisés dans des compléments alimentaires commerciaux, mais sans standard clinique établi. Aucune posologie cliniquement validée n'est disponible pour T. diffusa en raison du manque d'essais thérapeutiques contrôlés. Les pratiques traditionnelles documentées localement ne sont pas standardisées et varient selon les praticiens et les régions. La prudence s'impose donc dans l'usage, en particulier pour des durées prolongées ou à des doses élevées."
+  },
+  "nutrition": {
+    "introduction": "Turnera diffusa Willd. (syn. Turnera aphrodisiaca) est un arbuste natif documenté dans les Départements du Sud et de la Grand'Anse. Il appartient à la famille des Passifloracées, une famille tropicale principalement composée de lianes et d'arbustes, reconnue pour ses riches usages alimentaires et médicinaux. Sur le plan phytochimique, cette famille se distingue par une signature dominée par des flavonoïdes (vitexine, isovitexine), des composés cyanogènes dans les parties végétatives, des alcaloïdes comme l'harmine, et l'acide passiflorique, ciblant préférentiellement les systèmes nerveux et reproducteur. Il convient de noter que certaines espèces de cette famille renferment des principes actifs très puissants ou potentiellement toxiques exigeant une préparation adéquate ou un dosage strict, bien que les fruits mûrs soient généralement comestibles et sûrs. Au sein de cette famille, Turnera diffusa fait partie du genre Turnera, un groupe d'arbustes tropicaux dont plusieurs espèces partagent des propriétés stimulantes et toniques similaires. T. diffusa est une plante à usage strictement médicinal, particulièrement réputée pour ses effets sur la vitalité et le bien-être général."
+  },
+  "toxicologie": {
+    "niveau": "",
+    "details": "T. diffusa est considérée comme non toxique aux doses usuelles d'usage traditionnel. Cependant, l'excès de consommation peut provoquer insomnie, agitation et tachycardie en raison de la légère stimulation du système nerveux central. Une prudence particulière est recommandée chez les personnes souffrant de troubles psychiatriques ou cardiovasculaires. L'usage est déconseillé pendant la grossesse et l'allaitement en raison de données de toxicité insuffisantes pour ces populations sensibles. Les interactions médicamenteuses potentielles avec les psychotropes ou les stimulants cardiaques n'ont pas été suffisamment étudiées, justifiant une vigilance particulière en cas de traitement concomitant."
+  },
+  "conservation": {
+    "menaces": "T. diffusa présente un statut de préoccupation mineure sur le plan conservatoire. Son caractère commun dans les Départements du Sud et de la Grand'Anse, associé à sa rusticité et à sa capacité d'adaptation aux environnements perturbés, garantit actuellement la pérennité des populations naturelles. La pression de récolte reste modérée et compatible avec le renouvellement naturel de l'espèce. Aucune menace majeure n'a été identifiée à court terme.",
+    "valeur": "Sur le plan local, T. diffusa représente une valeur médicinale appréciée dans la pharmacopée traditionnelle des Départements du Sud et de la Grand'Anse. Au niveau international, la plante entre dans la composition de liqueurs traditionnelles et de compléments alimentaires commercialisés pour leurs propriétés supposées tonifiantes et aphrodisiaques. Le marché des extraits de damiana reste cependant un marché de niche, principalement orienté vers les produits de phytothérapie et les boissons alcoolisées artisanales. La valeur ajoutée pourrait être développée par une meilleure caractérisation des principes actifs et une standardisation des extraits."
+  },
+  "recherche": {
+    "nb_articles": "~500 (estimation)",
+    "details": "Environ 500 publications scientifiques (estimation) traitent de T. diffusa, reflétant un intérêt soutenu de la recherche pour cette espèce. Les perspectives de recherche incluent l'élucidation des mécanismes d'action neurotropes, l'évaluation clinique contrôlée des effets aphrodisiaques, et la caractérisation complète du profil phytochimique. Des études de biodisponibilité des principes actifs permettraient d'optimiser les modes de préparation et de standardiser les extraits. La recherche de nouvelles activités biologiques, notamment immunomodulatrices ou neuroprotectrices, ouvre des perspectives thérapeutiques prometteuses.",
+    "lien_pubmed": "",
+    "lien_scholar": "",
+    "lien_tramil": "https://www.tramil.net/en/plant/turnera-diffusa"
+  },
+  "references": "Zhao, J. et al. (2007). Chemical constituents of Turnera diffusa. Phytochemistry. PMID: 17562569. Estrada-Reyes, R. et al. (2009). Turnera diffusa Wild (Turneraceae) recovers sexual behavior in sexually exhausted males. Journal of Ethnopharmacology. PMID: 19289206. POWO (2024). Plants of the World Online. Kew Science. http://www.plantsoftheworldonline.org/ World Flora Online (2024). http://www.worldfloraonline.org/ TRAMIL (2024). Traditional Medicine in the Islands. https://www.tramil.net/en/plant/turnera-diffusa",
+  "aRetenir": "🟢 À retenir — Ten savann : est utilisee en medecine traditionnelle avec un bon profil de securite aux doses courantes. Les usages presentes reposent sur des donnees ethnobotaniques et scientifiques publiees, mais ne constituent pas une prescription. Consulter un professionnel de sante avant tout usage therapeutique. Les auteurs declinent toute responsabilite quant a un usage inapproprie.",
+  "images": {
+    "principale": "images/593_Turnera_diffusa-001.jpg",
+    "galerie": [
+      "images/593_Turnera_diffusa-001.jpg",
+      "images/593_Turnera_diffusa-002.jpg"
+    ]
+  },
+  "source": "plantes_full.json"
+}

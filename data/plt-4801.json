@@ -1,0 +1,58 @@
+{
+  "id_plante": "plt-4801",
+  "code": "plt-4801",
+  "no_espece": "",
+  "no_famille": "48",
+  "famille": "Melastomatacées",
+  "description_famille": "Les Mélastomatacées représentent une fascinante famille pantropicale regroupant environ 5000 espèces réparties en 185 genres, dominée par des arbustes et des arbres aux feuilles caractéristiques à nervation parallèle. Cette famille se distingue par une remarquable diversité écologique, colonisant aussi bien les sous-bois humides que les canopées de forêts nuageuses d'altitude. Sur le plan alimentaire, plusieurs genres produisent des fruits comestibles appréciés localement, notamment Miconia et Bellucia. L'intérêt médicinal de cette famille est considérable dans les pharmacopées tropicales, avec des usages traditionnels documentés pour les affections digestives, respiratoires et cutanées. La signature phytochimique reste variable selon les genres, mais révèle généralement une richesse en tanins, flavonoïdes et triterpènes. Les anthocyanes et caroténoïdes confèrent aux fruits leurs couleurs vives, de pourpre à orange. Cette famille présente un profil toxicologique généralement favorable, nécessitant toutefois une évaluation espèce par espèce en raison de la diversité chimique observée.",
+  "identite": {
+    "genre": "Meriana",
+    "espece": "Brevipenduculata",
+    "nom_scientifique": "Meriana brevipenduculata",
+    "synonymes": "Henriettella hotteana",
+    "nom_francais": "-",
+    "nom_creole": "Flèmalarèz",
+    "nom_anglais": "-"
+  },
+  "morphologie": {
+    "description": "M. brevipenduculata est un arbuste à petit arbre de forêts nuageuses, spécialement adapté aux conditions d'altitude élevée caractérisées par une humidité constante et des températures fraîches. Port et tiges. La plante présente un port arbustif à arborescent selon les conditions de croissance, s'adaptant aux contraintes du milieu montagnard. Les jeunes rameaux présentent souvent une pilosité caractéristique du genre. Feuilles. Comme tous les membres des Mélastomatacées, les feuilles présentent la nervation parallèle distinctive de cette famille : plusieurs nervures principales partent de la base du limbe et convergent vers l'apex. Les feuilles sont opposées, simples, de texture coriace pour résister aux conditions d'altitude. Cette nervation particulière constitue un caractère diagnostique immédiat pour reconnaître la famille sur le terrain. Fleurs. Les fleurs, typiques du genre Meriana, sont organisées en inflorescences terminales. La corolle présente généralement quatre à cinq pétales, caractéristique commune aux Mélastomatacées. Les étamines présentent des anthères aux formes particulières, souvent prolongées ou appendiculées. Fruit. Le fruit est une baie charnue, probablement consommée par l'avifaune endémique des forêts d'altitude haïtiennes, contribuant ainsi à la dispersion des graines dans ces écosystèmes fragiles. Les parties utilisées ne sont pas spécifiquement documentées, bien qu'un usage spirituel soit mentionné localement.",
+    "ecologie": "M. brevipenduculata est strictement endémique d'Haïti et se limite aux forêts de nuages des altitudes supérieures à 1000 mètres. Cette distribution ultra-restreinte en fait l'une des espèces végétales les plus vulnérables de la flore haïtienne. L'espèce s'épanouit dans les conditions particulières des forêts nuageuses : humidité atmosphérique constante, températures fraîches et sols riches en matière organique. Ces écosystèmes constituent des refuges climatiques uniques, abritant un nombre exceptionnellement élevé d'espèces endémiques."
+  },
+  "usages": {
+    "usages_ethnobotaniques": "Les usages ethnobotaniques spécifiques de M. brevipenduculata restent peu documentés dans la littérature. Les données disponibles mentionnent un usage spirituel sans précision des parties utilisées ni des modalités de préparation. Cette lacune documentaire, fréquente pour les espèces endémiques d'accès difficile, souligne l'urgence de mener des enquêtes ethnobotaniques approfondies auprès des communautés locales avant que ces savoirs traditionnels ne disparaissent. L'accessibilité limitée de l'espèce, restreinte aux forêts d'altitude, peut expliquer la rareté des usages documentés comparativement à d'autres espèces de la flore médicinale haïtienne.",
+    "systemes_concernes": ""
+  },
+  "pharmacologie": {
+    "molecules": "M. brevipenduculata, comme espèce de haute altitude, développe probablement des adaptations biochimiques spécifiques pour résister aux stress environnementaux montagnards : rayonnements UV intenses, variations thermiques et humidité constante. Les fruits, s'ils présentent une coloration vive, contiennent vraisemblablement des anthocyanes responsables de leur pigmentation, servant à la fois d'attractant pour les disperseurs et de protection antioxydante. Les principaux composés secondaires probables dans M. brevipenduculata, par analogie avec d'autres espèces du genre Meriana et de la famille des Mélastomatacées, comprennent : des flavonoïdes (particulièrement des flavonols et des anthocyanidines), des tanins hydrolysables et condensés, des triterpènes, des acides phénoliques et des composés iridoïdes. Cette composition reste hypothétique en l'absence d'études phytochimiques publiées spécifiquement pour cette espèce. Ces composés remplissent des fonctions écologiques précises pour la plante dans son environnement de forêt nuageuse. Les flavonoïdes et tanins protègent contre l'intense rayonnement UV d'altitude et les pathogènes fongiques favorisés par l'humidité constante. Les anthocyanes des fruits attirent les oiseaux frugivores, essentiels à la dispersion dans ces écosystèmes insulaires fragmentés. Aucune étude pharmacologique n'ayant été publiée pour M. brevipenduculata, les propriétés biologiques potentielles de ces composés chez l'humain restent purement théoriques.",
+    "posologie": "Aucune posologie cliniquement validée n'est disponible pour M. brevipenduculata. Les pratiques traditionnelles documentées localement ne sont pas standardisées et l'usage spirituel mentionné ne s'accompagne pas de protocoles posologiques précis. Cette absence de données quantitatives reflète le manque général d'études cliniques sur les espèces endémiques haïtiennes."
+  },
+  "nutrition": {
+    "introduction": "Meriana brevipenduculata (syn. Henriettella hotteana) est un arbuste endémique strict d'Haïti — c'est-à-dire qu'il n'existe nulle part ailleurs sur Terre — connu localement sous le nom de « Flèmalarèz ». Cette espèce appartient à la famille des Mélastomatacées et au genre Meriana, un groupe d'arbustes néotropicaux particulièrement adapté aux environnements montagnards humides. Dans les Départements du Sud et de la Grand'Anse, cette espèce joue un rôle écologique majeur dans les écosystèmes de forêts nuageuses d'altitude, bien que ses usages ethnobotaniques spécifiques demeurent peu documentés. En raison de son endémisme strict et de sa restriction aux forêts de haute altitude, particulièrement menacées en Haïti, la conservation de Meriana brevipenduculata constitue un enjeu prioritaire pour la préservation de la biodiversité unique de l'île."
+  },
+  "toxicologie": {
+    "niveau": "",
+    "details": "Le profil toxicologique de M. brevipenduculata n'a fait l'objet d'aucune évaluation scientifique publiée. Le symbole 🔵 indique cette absence totale de données toxicologiques. Par principe de précaution, et compte tenu de la variabilité chimique observée au sein de la famille des Mélastomatacées, toute utilisation de cette espèce devrait faire l'objet d'une évaluation toxicologique préalable. L'endémisme de l'espèce et sa rareté rendent par ailleurs tout prélèvement problématique d'un point de vue conservatoire."
+  },
+  "conservation": {
+    "menaces": "M. brevipenduculata figure parmi les espèces en danger critique d'extinction. Son aire de distribution ultra-restreinte aux forêts nuageuses d'altitude la rend particulièrement vulnérable à la déforestation, au changement climatique et à la fragmentation de l'habitat. Les forêts de haute altitude haïtiennes subissent une pression anthropique croissante, menaçant directement la survie de cette espèce. Des efforts de conservation ex situ et in situ sont urgents.",
+    "valeur": "La valeur économique directe de M. brevipenduculata est actuellement limitée, principalement écologique et ornementale potentielle. Cependant, en tant qu'espèce endémique des écosystèmes de forêts nuageuses, elle contribue à la valeur écosystémique globale de ces milieux : régulation hydrique, séquestration carbone et maintien de la biodiversité. Son potentiel économique futur pourrait résider dans l'écotourisme scientifique et la valorisation de la biodiversité endémique haïtienne."
+  },
+  "recherche": {
+    "nb_articles": "",
+    "details": "Les perspectives de recherche pour M. brevipenduculata sont multiples et urgentes. Une caractérisation phytochimique complète s'impose pour documenter sa composition en métabolites secondaires. Des études écologiques approfondies permettraient de mieux comprendre ses interactions avec l'écosystème de forêt nuageuse. Une évaluation de son potentiel pharmacologique, basée sur les usages spirituels documentés, pourrait révéler des propriétés biologiques intéressantes. Enfin, des programmes de multiplication ex situ sont indispensables pour assurer sa conservation.",
+    "lien_pubmed": "",
+    "lien_scholar": "",
+    "lien_tramil": ""
+  },
+  "references": "Rodrigues et al. (2012). Anti-inflammatory and antimicrobial activities of Miconia species. Journal of Ethnopharmacology. doi:10.1016/j.jep.2012.01.039 — cité par analogie avec la famille des Mélastomatacées. POWO (2024). Plants of the World Online. Royal Botanic Gardens, Kew. http://www.plantsoftheworldonline.org/ World Flora Online (2024). World Flora Online Consortium. http://worldfloraonline.org/",
+  "aRetenir": "🟢 À retenir — Flèmalarèz : est une espece peu ou non etudiee scientifiquement. Les proprietes presentees reposent sur des analogies avec des especes proches et les usages traditionnels documentes localement. La conservation de cette espece prime sur toute valorisation. Les auteurs declinent toute responsabilite quant a un usage inapproprie.",
+  "images": {
+    "principale": "images/481_Meriana_Brevipenduculata-001.jpg",
+    "galerie": [
+      "images/481_Meriana_Brevipenduculata-001.jpg",
+      "images/481_Meriana_Brevipenduculata-002.jpg",
+      "images/481_Meriana_Brevipenduculata-003.jpg"
+    ]
+  },
+  "source": "plantes_full.json"
+}

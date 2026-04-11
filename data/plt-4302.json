@@ -1,0 +1,58 @@
+{
+  "id_plante": "plt-4302",
+  "code": "plt-4302",
+  "no_espece": "",
+  "no_famille": "43",
+  "famille": "Lauracées",
+  "description_famille": "",
+  "identite": {
+    "genre": "Persea",
+    "espece": "americana",
+    "nom_scientifique": "Persea americana Mill.",
+    "synonymes": "Laurus persea L.",
+    "nom_francais": "Avocatier",
+    "nom_creole": "Zaboka",
+    "nom_anglais": "Avocado"
+  },
+  "morphologie": {
+    "description": "P. americana est un arbre de taille moyenne à grande, pouvant atteindre 10 à 20 mètres de hauteur dans les conditions favorables des départements du Sud et de la Grand'Anse. Tronc et écorce. Le tronc est droit et robuste, recouvert d'une écorce gris-brun, lisse chez les jeunes arbres puis devenant rugueuse et fissurée avec l'âge. Le bois est tendre et peu dense. Feuilles. Les feuilles sont simples, alternes, persistantes, de forme elliptique à ovale, mesurant 10 à 25 cm de longueur. Elles présentent une surface coriace, vert foncé brillant sur la face supérieure et plus pâle sur la face inférieure. Lorsqu'on les froisse, elles dégagent une odeur aromatique caractéristique due aux huiles essentielles. Leur saveur est astringente. Fleurs. Les fleurs sont petites, verdâtres à jaunâtres, regroupées en panicules terminales ou axillaires. Elles sont bisexuées mais présentent un mécanisme de protogynie qui favorise la pollinisation croisée. Fruit. Le fruit est une grande drupe piriforme ou ovoïde, de 7 à 20 cm de longueur, pesant généralement entre 150 g et 500 g selon les variétés cultivées localement. La peau (péricarpe) varie du vert au violet foncé selon la variété. La pulpe (mésocarpe) est crémeuse, de couleur jaune-vert à jaune, entourant une grosse graine centrale (endocarpe) de couleur brune. Les parties utilisées sont principalement le fruit (consommation) et les feuilles (usage thérapeutique).",
+    "ecologie": "Originaire des hauts plateaux du Mexique et d'Amérique centrale, P. americana a été introduit en Haïti à l'époque coloniale et s'est parfaitement adapté au climat tropical des Départements du Sud et de la Grand'Anse. L'espèce prospère dans les zones de basse et moyenne altitude, sur des sols bien drainés et fertiles. Elle s'est naturalisée dans de nombreuses localités et fait partie intégrante du paysage agricole local. L'arbre tolère une gamme variée de conditions édaphiques mais préfère les sols légèrement acides à neutres. Sa pollinisation est assurée par diverses espèces d'insectes, principalement des abeilles et des mouches."
+  },
+  "usages": {
+    "usages_ethnobotaniques": "Dans les Départements du Sud et de la Grand'Anse, le zaboka présente un double usage alimentaire et médicinal documenté par l'inventaire ethnobotanique régional. Le fruit constitue un aliment de base consommé quotidiennement, souvent accompagné de pain ou intégré dans diverses préparations culinaires locales. Il est également utilisé traditionnellement pour le soin des cheveux, en application externe comme après-shampooing naturel grâce à ses propriétés émollientes. Les feuilles font l'objet d'un usage thérapeutique établi : elles sont préparées en tisane ou décoction pour leurs propriétés hypotensives, antidiabétiques et cicatrisantes selon les praticiens traditionnels locaux. La base de données TRAMIL confirme l'usage des feuilles contre l'hypertension en Haïti, validant ainsi une partie des connaissances traditionnelles locales. Le mode de préparation le plus courant consiste à infuser 2 à 5 grammes de feuilles séchées par litre d'eau bouillante.",
+    "systemes_concernes": "Cardiovasculaire"
+  },
+  "pharmacologie": {
+    "molecules": "Le fruit de P. americana se distingue par sa composition lipidique exceptionnelle parmi les fruits tropicaux. Il contient 15 à 30% de matières grasses, principalement sous forme d'acide oléique (50-70% des lipides totaux), un acide gras mono-insaturé également présent dans l'huile d'olive. Cette richesse en acides gras mono-insaturés, associée à des concentrations élevées en vitamine E (tocophérols), en vitamine K, en folates et en potassium (jusqu'à 485 mg/100g), confère au fruit ses propriétés nutritionnelles remarquables. Les caroténoïdes responsables de la couleur jaune-verte de la pulpe comprennent la lutéine et la zéaxanthine, deux composés essentiels pour la santé oculaire (Dreher & Davenport, 2013 — PMID: 23638933). Les principaux composés secondaires identifiés dans P. americana comprennent : des flavonoïdes (quercétine, kaempférol, catéchines), des acides phénoliques (acide chlorogénique, acide caféique), des caroténoïdes (lutéine, zéaxanthine, β-carotène), des phytostérols (β-sitostérol, campestérol), des saponines triterpéniques, des tanins condensés et la persine — un dérivé d'acide gras particulier concentré dans les feuilles, l'écorce et la graine (Rodríguez-Carpena et al., 2011 — PMID: 21495900). Ces molécules remplissent des fonctions de protection essentielles pour la plante. Les flavonoïdes et les acides phénoliques des feuilles protègent contre les pathogènes fongiques et bactériens fréquents dans le climat tropical humide d'Haïti. Les caroténoïdes du fruit protègent contre l'oxydation des lipides lors de la maturation. La persine, concentrée dans les tissus non comestibles, agit comme un puissant antifongique naturel. Ces mêmes composés, une fois ingérés par l'humain, produisent les effets biologiques documentés : amélioration du profil lipidique sanguin, activité antioxydante systémique et potentiel cardioprotecteur. Il convient cependant de noter que la plupart des études pharmacologiques restent principalement issues d'essais in vitro et sur modèles animaux.",
+    "posologie": "Pour l'usage alimentaire du fruit, les études nutritionnelles recommandent une consommation de 50 à 100 grammes par jour dans le cadre d'une alimentation équilibrée pour bénéficier des effets cardioprotecteurs documentés (Dreher & Davenport, 2013 — PMID: 23638933). Concernant les préparations à base de feuilles, aucune posologie cliniquement validée n'est disponible dans la littérature scientifique. Les pratiques traditionnelles documentées localement utilisent des infusions de 2 à 5 grammes de feuilles sèches par litre d'eau, mais ces dosages ne sont pas standardisés et leur efficacité n'a pas été validée cliniquement chez l'humain."
+  },
+  "nutrition": {
+    "introduction": "Persea americana Mill. (syn. Laurus persea L.) est un arbre fruitier exotique largement cultivé et naturalisé dans les Départements du Sud et de la Grand'Anse. Appartenant à la famille des Lauracées, il fait partie du genre Persea qui comprend une cinquantaine d'espèces d'arbres tropicaux et subtropicaux. Le zaboka constitue l'une des cultures fruitières les plus importantes d'Haïti, tant pour son usage alimentaire quotidien que pour ses applications thérapeutiques traditionnelles documentées dans la région. Son fruit, riche en lipides mono-insaturés, occupe une place centrale dans l'alimentation locale, tandis que ses feuilles sont employées dans diverses préparations médicinales populaires."
+  },
+  "toxicologie": {
+    "niveau": "",
+    "details": "Le fruit mûr de P. americana présente un excellent profil de sécurité et ne présente aucune toxicité aux doses alimentaires normales. Cependant, des réactions allergiques peuvent survenir chez certaines personnes sensibles, particulièrement celles allergiques au latex en raison d'une réactivité croisée. Les feuilles, l'écorce et la graine contiennent de la persine, un composé potentiellement toxique pour certains animaux domestiques (chiens, chats, oiseaux) mais apparemment sans danger pour l'humain aux doses thérapeutiques usuelles. Par précaution, l'usage interne prolongé des feuilles est déconseillé chez les femmes enceintes et allaitantes en l'absence de données de sécurité spécifiques."
+  },
+  "conservation": {
+    "menaces": "Bien que l'espèce soit largement cultivée et ne présente pas de risque d'extinction, les variétés locales traditionnelles d'avocat haïtien méritent une attention particulière pour leur conservation génétique. Les maladies fongiques, notamment l'anthracnose et la pourriture des racines à Phytophthora, constituent les principales menaces phytosanitaires dans la région. Le maintien de la diversité variétale locale et l'amélioration des pratiques culturales représentent les enjeux principaux pour assurer la pérennité de cette culture importante.",
+    "valeur": "Le zaboka constitue l'une des cultures fruitières les plus importantes économiquement dans les Départements du Sud et de la Grand'Anse. Il génère des revenus significatifs pour de nombreuses familles rurales, tant pour la consommation locale que pour la commercialisation sur les marchés régionaux. L'espèce présente également un potentiel d'exportation vers les marchés internationaux, particulièrement vers la diaspora haïtienne, bien que ce potentiel reste sous-exploité en raison de contraintes logistiques et phytosanitaires."
+  },
+  "recherche": {
+    "nb_articles": "~5000 (estimation)",
+    "details": "Avec plus de 5000 publications scientifiques indexées, P. americana figure parmi les fruits les plus étudiés au monde. Les recherches actuelles se concentrent sur l'optimisation de la composition nutritionnelle des variétés, l'évaluation clinique des propriétés thérapeutiques des feuilles et le développement de produits dérivés à haute valeur ajoutée. Pour Haïti, les priorités de recherche incluent la sélection de variétés adaptées au contexte local, l'amélioration des techniques de conservation post-récolte et l'évaluation scientifique rigoureuse des usages thérapeutiques traditionnels documentés dans la région.",
+    "lien_pubmed": "",
+    "lien_scholar": "",
+    "lien_tramil": "https://www.tramil.net/en/plant/persea-americana"
+  },
+  "references": "Dreher ML, Davenport AJ. (2013). Hass avocado composition and potential health effects. Critical Reviews in Food Science and Nutrition. PMID: 23638933. Rodríguez-Carpena JG, Morcuende D, Estévez M. (2011). Avocado by-products as inhibitors of color deterioration and lipid and protein oxidation in raw porcine patties subjected to chilled storage. Meat Science. PMID: 21495900. Anaka ON, Ozolua RI, Okpo SO. (2009). Effect of the aqueous seed extract of Persea americana Mill. (Lauraceae) on the blood pressure of Sprague-Dawley rats. African Journal of Pharmacy and Pharmacology. PMID: 19735739. POWO. (2024). Plants of the World Online. Facilitated by the Royal Botanic Gardens, Kew. http://www.plantsoftheworldonline.org/ TRAMIL. (2024). Persea americana. Programme TRAMIL. https://www.tramil.net/en/plant/persea-americana",
+  "aRetenir": "🟢 À retenir — Zaboka : est avant tout un aliment — sa valeur nutritionnelle prime sur ses usages medicinaux. Consommee correctement preparee, elle est sans danger documente. Ses proprietes therapeutiques, reelles mais secondaires, ne remplacent pas un suivi medical. Les auteurs declinent toute responsabilite quant a un usage inapproprie.",
+  "images": {
+    "principale": "images/432_Persea_americana-001.jpg",
+    "galerie": [
+      "images/432_Persea_americana-001.jpg",
+      "images/432_Persea_americana-002.jpg",
+      "images/432_Persea_americana-003.jpg"
+    ]
+  },
+  "source": "plantes_full.json"
+}

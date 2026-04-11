@@ -1,0 +1,57 @@
+{
+  "id_plante": "plt-0705",
+  "code": "plt-0705",
+  "no_espece": "",
+  "no_famille": "7",
+  "famille": "Annonacées",
+  "description_famille": "",
+  "identite": {
+    "genre": "Cananga",
+    "espece": "odorata",
+    "nom_scientifique": "Cananga odorata",
+    "synonymes": "Uvaria odorata / Canangium odoratum",
+    "nom_francais": "Ylang-ylang",
+    "nom_creole": "Ilang-ilang",
+    "nom_anglais": "Ylang-ylang"
+  },
+  "morphologie": {
+    "description": "C. odorata est un arbre tropical à port élancé, pouvant atteindre 20 à 25 mètres de hauteur dans son habitat naturel, bien que les spécimens cultivés dans le Sud et la Grand'Anse restent généralement plus modestes. Tronc et écorce. Le tronc est droit, recouvert d'une écorce lisse à légèrement rugueuse, de couleur gris-brun. Le bois est léger et parfumé, particulièrement recherché localement pour certains usages artisanaux. Feuilles. Les feuilles sont simples, alternes, oblongues à elliptiques, mesurant 10 à 20 cm de longueur. Elles présentent une texture coriace et une couleur vert brillant sur la face supérieure, plus pâle sur la face inférieure. Lorsqu'on les froisse, elles dégagent une fragrance subtile mais distincte. Fleurs. Les fleurs constituent la partie la plus remarquable de la plante : grandes, pendantes, à six pétales charnus et allongés, elles évoluent du vert-jaune au jaune intense puis au brun-rouge à maturité. Leur parfum puissant et envoûtant, particulièrement intense le soir, attire les pollinisateurs nocturnes et constitue la source de l'huile essentielle d'ylang-ylang. Fruits. Les fruits sont des baies charnues, disposées en grappes, contenant plusieurs graines noires toxiques comme chez toutes les Annonacées. Les parties utilisées sont principalement les fleurs pour l'extraction d'huile essentielle, et accessoirement les feuilles et l'écorce dans certaines préparations traditionnelles.",
+    "ecologie": "Originaire d'Asie du Sud-Est (Indonésie, Philippines, Malaisie), C. odorata a été introduit dans de nombreuses régions tropicales pour la production d'huile essentielle. En Haïti, l'espèce reste rare et principalement limitée aux jardins botaniques, aux collections privées et à quelques plantations expérimentales dans les zones de basse altitude des Départements du Sud et de la Grand'Anse. Sa culture nécessite un climat tropical humide, des sols bien drainés et une protection contre les vents forts. L'arbre préfère les expositions semi-ombragées et supporte mal la sécheresse prolongée, ce qui explique sa distribution restreinte dans les zones les plus arides du territoire haïtien."
+  },
+  "usages": {
+    "usages_ethnobotaniques": "L'usage principal documenté dans le Sud et la Grand'Anse concerne l'aromathérapie et la parfumerie artisanale : les fleurs fraîches sont utilisées pour fabriquer du parfum local appelé « Ilang-Ilang » et intégrées dans les bains aromatiques traditionnels pour leurs propriétés relaxantes. Le mode de préparation traditionnel implique soit la distillation à la vapeur des fleurs fraîches pour obtenir une huile essentielle artisanale, soit la macération des fleurs dans l'alcool ou des huiles végétales. Dans certaines pratiques, les feuilles et l'écorce sont occasionnellement utilisées en décoction pour des usages médicinaux traditionnels, notamment contre l'anxiété et les troubles respiratoires mineurs. Au niveau caribéen, TRAMIL documente son usage comme relaxant dans plusieurs îles de la région (www.tramil.net).",
+    "systemes_concernes": "Nerveux, Cardiovasculaire"
+  },
+  "pharmacologie": {
+    "molecules": "Les fleurs de C. odorata sont particulièrement riches en composés volatils aromatiques qui leur confèrent leur parfum caractéristique et leurs propriétés relaxantes. Cette richesse en monoterpènes oxygénés — notamment le linalol (20-35% de l'huile essentielle) et le géraniol (10-15%) — explique à la fois l'intensité du parfum floral et les effets apaisants documentés. Ces molécules sont accompagnées d'esters aromatiques comme le benzoate de benzyle (5-10%) qui contribuent à la complexité olfactive, ainsi que de traces de vitamines (vitamine C dans les tissus jeunes) et de minéraux comme le potassium et le magnésium. Les principaux composés secondaires identifiés dans C. odorata comprennent : une huile essentielle complexe dominée par le linalol, le géraniol, l'acétate de benzyle, le benzoate de benzyle et le caryophyllène, des flavonoïdes (quercétine, kaempférol), des terpénoïdes sesquiterpéniques, des saponines triterpéniques et, dans une moindre mesure, des alcaloïdes benzylisoquinoléiques caractéristiques de la famille (Shaikh & Patil, 2020 — DOI: 10.5530/pj.2020.12.140). Ces composés remplissent des fonctions écologiques précises pour l'arbre. Les monoterpènes volatils des fleurs servent d'attractants puissants pour les pollinisateurs crépusculaires et nocturnes, assurant la reproduction de l'espèce. Les sesquiterpènes dans les tissus ligneux protègent contre les pathogènes fongiques et les insectes xylophages. Les flavonoïdes contribuent à la protection contre les rayonnements UV tropicaux. Ces mêmes composés, une fois inhalés ou appliqués sur la peau humaine sous forme d'huile essentielle diluée, produisent les effets biologiques documentés : sédation légère, réduction de l'anxiété et activité hypotensive modérée, bien que les mécanismes précis restent à élucider par des études cliniques contrôlées.",
+    "posologie": "Aucune posologie cliniquement validée n'est disponible dans la littérature scientifique pour C. odorata. Les recommandations d'usage courant mentionnent l'inhalation ou la diffusion de quelques gouttes d'huile essentielle dans un diffuseur d'aromathérapie, ou l'application en massage de 2-3 gouttes diluées dans 10 ml d'huile végétale. L'ingestion orale de l'huile essentielle pure n'est pas recommandée en l'absence d'études de sécurité appropriées. Les préparations traditionnelles haïtiennes utilisent généralement les fleurs fraîches en macération ou en bain aromatique selon des dosages empiriques transmis par voie orale."
+  },
+  "nutrition": {
+    "introduction": "Cananga odorata (syn. Uvaria odorata, Canangium odoratum) est un arbre exotique de basse altitude, rare dans les Départements du Sud et de la Grand'Anse. Il appartient à la famille des Annonacées, qui regroupe principalement des arbres et arbustes tropicaux reconnus pour leurs usages alimentaires diversifiés — notamment le corossol (Annona muricata) et la pomme-cannelle (Annona squamosa) largement consommés en Haïti — ainsi que leurs applications médicinales et aromatiques. Sur le plan phytochimique, cette famille se caractérise par une signature moléculaire dominée par les acétogénines, des composés uniques aux propriétés neurotoxiques puissantes, accompagnées d'alcaloïdes, de flavonoïdes et de terpènes aromatiques. Ces substances ciblent préférentiellement les systèmes digestif, nerveux et cellulaire. Il convient de souligner qu'une vigilance particulière s'impose avec cette famille : toutes les graines contiennent des acétogénines toxiques, et l'usage prolongé des feuilles à forte dose reste déconseillé. Au sein de cette famille, Cananga odorata se distingue par sa vocation exclusivement aromatique, constituant l'une des sources les plus précieuses d'huile essentielle au monde pour la parfumerie de luxe."
+  },
+  "toxicologie": {
+    "niveau": "",
+    "details": "C. odorata présente un profil de sécurité favorable lorsqu'utilisé de manière appropriée. L'huile essentielle concentrée ne doit jamais être ingérée directement en raison du risque de toxicité gastro-intestinale et neurologique. Une prudence particulière est recommandée pendant la grossesse et l'allaitement, ainsi que chez les personnes sous traitement antihypertenseur en raison de l'effet hypotenseur potentiel. Les applications cutanées d'huile essentielle concentrée peuvent provoquer des réactions allergiques chez les individus sensibles : un test préalable sur une petite surface de peau est conseillé. Les graines, comme celles de toutes les Annonacées, contiennent des acétogénines toxiques et ne doivent jamais être consommées."
+  },
+  "conservation": {
+    "menaces": "L'espèce nécessite des efforts de conservation en Haïti en raison de sa rareté et de son potentiel économique inexploité. Les principaux défis incluent l'adaptation aux conditions climatiques locales, la sensibilité à la sécheresse et le manque de programmes de multiplication. Des initiatives de culture contrôlée dans des jardins botaniques et des collections universitaires permettraient de préserver le matériel génétique et d'évaluer les possibilités de développement d'une filière locale d'huile essentielle.",
+    "valeur": "L'huile essentielle d'ylang-ylang figure parmi les plus prisées de la parfumerie de luxe internationale, avec des prix pouvant atteindre plusieurs centaines d'euros par kilogramme pour les qualités supérieures. Localement, l'espèce présente un potentiel ornemental pour les jardins tropicaux et pourrait constituer la base d'une activité artisanale de parfumerie naturelle. Le bois parfumé trouve également des applications en ébénisterie fine et en artisanat d'art, bien que cette utilisation reste marginale en raison de la rareté des arbres de taille suffisante."
+  },
+  "recherche": {
+    "nb_articles": "",
+    "details": "Les recherches sur C. odorata se concentrent principalement sur l'optimisation de l'extraction d'huile essentielle et l'évaluation de ses propriétés pharmacologiques. Des études récentes explorent ses effets anxiolytiques, antioxydants et antimicrobiens in vitro, ouvrant des perspectives pour des applications thérapeutiques validées. En Haïti, des recherches appliquées sur l'adaptation variétale, les techniques de culture et les méthodes de transformation artisanale pourraient contribuer au développement d'une filière économique durable tout en préservant les savoirs traditionnels locaux.",
+    "lien_pubmed": "",
+    "lien_scholar": "",
+    "lien_tramil": ""
+  },
+  "references": "POWO (2024). Plants of the World Online. Facilitated by the Royal Botanic Gardens, Kew. http://www.plantsoftheworldonline.org/ Shaikh, S. & Patil, S. (2020). Cananga odorata (Lam.) Hook. f. & Thomson: A review on its phytochemistry, traditional uses and pharmacological activities. Pharmacognosy Journal, 12(6), 1306-1315. DOI: 10.5530/pj.2020.12.140 TRAMIL (2024). Traditional Medicine in the Islands. www.tramil.net/en/plant/cananga-odorata World Flora Online (2024). WFO Plant List. http://www.worldfloraonline.org/",
+  "aRetenir": "🟢 À retenir — Ilang-ilang : est utilisee en medecine traditionnelle avec un bon profil de securite aux doses courantes. Les usages presentes reposent sur des donnees ethnobotaniques et scientifiques publiees, mais ne constituent pas une prescription. Consulter un professionnel de sante avant tout usage therapeutique. Les auteurs declinent toute responsabilite quant a un usage inapproprie.",
+  "images": {
+    "principale": "images/75_Cananga_odorata-001.jpg",
+    "galerie": [
+      "images/75_Cananga_odorata-001.jpg",
+      "images/75_Cananga_odorata-002.jpg"
+    ]
+  },
+  "source": "plantes_full.json"
+}

@@ -1,0 +1,54 @@
+{
+  "id_plante": "plt-1301",
+  "code": "plt-1301",
+  "no_espece": "",
+  "no_famille": "13",
+  "famille": "Arécacées",
+  "description_famille": "Dominant les paysages tropicaux avec leurs silhouettes emblématiques, les Arécacées rassemblent environ 2600 espèces de palmiers réparties dans 181 genres mondiaux. Cette famille revêt une importance capitale dans les Départements du Sud et de la Grand'Anse, tant par ses usages alimentaires — notamment le cocotier (Cocos nucifera) et ses multiples dérivés — que par ses applications ornementales avec des espèces comme Caryota mitis et diverses autres variétés de palmiers décoratifs. Sur le plan médicinal, plusieurs genres sont valorisés : Cocos pour ses propriétés digestives et cutanées, Phoenix pour ses dattes nutritives, et Caryota pour ses usages diurétiques traditionnels. La signature phytochimique de cette famille se caractérise par une dominance d'acides gras saturés (acide laurique, palmitique), d'amidon, de fibres, ainsi que des flavonoïdes et composés phénoliques, ciblant préférentiellement les systèmes cutané, digestif et tégumentaire. Il convient de noter que certaines espèces du genre Caryota contiennent des oxalates de calcium irritants dans leurs tissus, exigeant des précautions particulières lors de leur manipulation et utilisation.",
+  "identite": {
+    "genre": "Caryota",
+    "espece": "mitis",
+    "nom_scientifique": "Caryota mitis",
+    "synonymes": "Caryota furfuracea",
+    "nom_francais": "Palmier céleri",
+    "nom_creole": "Palmis seleri",
+    "nom_anglais": "Fishtail Palm"
+  },
+  "morphologie": {
+    "description": "C. mitis est un palmier multicaule de taille moyenne, formant des touffes denses par émission de rejets basaux. Tiges. Le palmier développe plusieurs stipes (troncs) élancés pouvant atteindre 8 à 12 mètres de hauteur, avec un diamètre de 15 à 20 cm. Les stipes sont lisses, de couleur gris-brun, marqués par les cicatrices annulaires des anciennes feuilles. Feuilles. Les feuilles constituent le caractère le plus distinctif de l'espèce : bipennées, elles présentent des folioles en forme de queue de poisson (d'où le nom anglais \"fishtail palm\"), à bords déchiquetés et apex effiloché. Cette morphologie unique les distingue nettement des autres palmiers à feuilles pennées classiques. Fleurs. Les inflorescences apparaissent de façon pendante, sous forme de régimes ramifiés portant de petites fleurs unisexuées. La floraison suit un processus particulier : chaque stipe ne fleurit qu'une seule fois avant de mourir, remplacé par de nouveaux rejets. Fruit. Les fruits sont de petites drupes sphériques, rouge-orange à maturité, contenant une pulpe âcre riche en oxalates de calcium cristallisés. Les parties utilisées sont principalement les feuilles, les fruits et les racines.",
+    "ecologie": "Originaire d'Asie du Sud-Est (Malaisie, Indonésie, Philippines), C. mitis a été introduit en Haïti comme palmier ornemental. Dans les Départements du Sud et de la Grand'Anse, il s'adapte aux conditions de basse altitude, appréciant les sols bien drainés et l'exposition partiellement ombragée. Sa rareté locale s'explique par sa croissance lente et ses exigences climatiques spécifiques. Le palmier montre une certaine tolérance à la sécheresse une fois établi, caractéristique appréciable dans le contexte climatique haïtien."
+  },
+  "usages": {
+    "usages_ethnobotaniques": "Dans les Départements du Sud et de la Grand'Anse, C. mitis est documenté principalement pour ses propriétés diurétiques, hypotenseuses et cicatrisantes. Les feuilles sont préparées en infusion pour leurs effets sur la fonction rénale, tandis que les fruits cuits sont parfois consommés en petites quantités malgré leur âcreté. Les racines entrent dans certaines préparations cicatrisantes externes, bien que cet usage reste marginal. L'usage ornemental domine largement, le palmier étant apprécié pour sa silhouette distinctive dans les jardins privés et espaces publics. En Asie, les fibres des feuilles sont traditionnellement utilisées pour la confection d'objets artisanaux.",
+    "systemes_concernes": "Urinaire"
+  },
+  "pharmacologie": {
+    "molecules": "Les fruits de C. mitis développent leur couleur rouge-orange caractéristique grâce à des caroténoïdes, principalement le β-carotène et la lutéine, qui protègent les graines contre les dommages photo-oxydatifs. Leur saveur âcre résulte de la présence massive d'oxalates de calcium sous forme de raphides — des cristaux aciculaires qui constituent un mécanisme de défense particulièrement efficace contre l'herbivorie. Les tissus accumulent également des quantités significatives d'amidon dans les parties de réserve, du potassium (K) et magnésium (Mg) dans la sève, ainsi que des fibres structurales riches en lignine et cellulose. Les principaux composés secondaires identifiés dans C. mitis comprennent : des flavonoïdes (quercétine, kaempférol), des saponines triterpéniques, des tanins condensés, des terpénoïdes volatils et des traces d'alcaloïdes. Ces molécules confèrent au palmier ses propriétés biologiques potentielles, bien qu'aucune étude phytochimique approfondie ne soit spécifiquement publiée pour cette espèce (estimation basée sur le profil général des palmiers selon Pharmacia Pensoft). Ces composés remplissent des rôles de protection multiples pour le palmier. Les oxalates de calcium dissuadent efficacement les herbivores par leur action irritante immédiate. Les flavonoïdes protègent contre les rayonnements UV intenses des régions tropicales. Les saponines dans les racines peuvent jouer un rôle antimicrobien dans le sol. Ces mêmes composés, une fois utilisés par l'humain, produiraient les effets diurétiques et hypotenseurs rapportés dans la médecine populaire, bien que ces observations restent principalement issues de pratiques empiriques non validées cliniquement.",
+    "posologie": "Aucune posologie cliniquement validée n'est disponible pour C. mitis. Les pratiques empiriques rapportent des infusions de feuilles à raison de 5-10 g/L et la consommation de fruits cuits en quantités limitées (100-200 g/jour), mais ces indications restent non standardisées et non validées scientifiquement. La variabilité dans la concentration des principes actifs et l'absence d'études de biodisponibilité rendent toute recommandation posologique prématurée."
+  },
+  "nutrition": {
+    "introduction": "Caryota mitis Lour. (syn. Caryota furfuracea) est un palmier exotique rare, documenté dans les Départements du Sud et de la Grand'Anse où il est principalement cultivé comme espèce ornementale. Il appartient à la famille des Arécacées, cette grande famille tropicale de palmiers aux riches usages alimentaires et décoratifs. Au sein de cette famille, il fait partie du genre Caryota, un groupe de palmiers asiatiques caractérisés par leurs feuilles bipennées distinctives et leurs fruits contenant des oxalates de calcium irritants. Son usage local combine fonction ornementale et applications médicinales traditionnelles, particulièrement comme diurétique, bien que sa rareté limite son emploi thérapeutique régulier."
+  },
+  "toxicologie": {
+    "niveau": "",
+    "details": "C. mitis présente une toxicité conditionnelle liée principalement aux oxalates de calcium contenus dans ses fruits et tissus végétatifs. L'ingestion de parties crues peut provoquer des irritations digestives, des douleurs buccales et pharyngées. Des précautions sont recommandées chez les personnes souffrant d'insuffisance rénale en raison de l'usage diurétique potentiel, ainsi que pendant la grossesse par manque de données de sécurité. La manipulation des feuilles peut occasionner des irritations cutanées chez certaines personnes sensibles."
+  },
+  "conservation": {
+    "menaces": "Bien qu'introduit, C. mitis nécessite un contrôle de sa reproduction pour éviter toute prolifération non maîtrisée. Sa rareté actuelle dans les départements étudiés ne constitue pas une menace immédiate, mais sa capacité d'adaptation aux conditions locales mérite surveillance. La conservation ex-situ dans les jardins botaniques pourrait préserver les variétés ornementales intéressantes.",
+    "valeur": "La valeur économique de C. mitis reste principalement ornementale en Haïti, avec un marché limité pour l'horticulture décorative. Son potentiel d'exportation vers les marchés horticoles internationaux demeure inexploré. Les fibres des feuilles pourraient représenter une ressource artisanale d'appoint, mais cette valorisation n'est pas développée localement."
+  },
+  "recherche": {
+    "nb_articles": "~50 (estimation)",
+    "details": "Environ 50 publications scientifiques traitent de C. mitis, principalement axées sur la taxonomie, l'horticulture et l'écologie. Les perspectives de recherche incluent l'évaluation phytochimique spécifique de l'espèce, l'étude de sa capacité d'adaptation aux conditions climatiques haïtiennes, et la validation des usages médicinaux traditionnels par des essais précliniques. L'investigation de son potentiel comme source de fibres naturelles pourrait également présenter un intérêt économique.",
+    "lien_pubmed": "",
+    "lien_scholar": "",
+    "lien_tramil": ""
+  },
+  "references": "Pharmacia Pensoft. Caryota mitis phytochemical profile and traditional uses. Estimation basée sur les données disponibles pour le genre Caryota. PFAF (Plants For A Future). Caryota mitis nutritional and usage database. World Flora Online. (2024). Caryota mitis Lour. http://www.worldfloraonline.org POWO (2024). Plants of the World Online. Caryota mitis. Royal Botanic Gardens, Kew.",
+  "aRetenir": "🟡 À retenir — Palmis seleri : est une plante a toxicite conditionnelle documentee. Respecter imperativement les precautions indiquees. Ne jamais ingerer les parties toxiques sans encadrement medical. Ces informations sont destinees a l'enseignement et a la documentation. Les auteurs declinent toute responsabilite quant a un usage inapproprie.",
+  "images": {
+    "principale": "",
+    "galerie": []
+  },
+  "source": "plantes_full.json"
+}

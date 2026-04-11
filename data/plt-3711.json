@@ -1,0 +1,57 @@
+{
+  "id_plante": "plt-3711",
+  "code": "plt-3711",
+  "no_espece": "",
+  "no_famille": "37",
+  "famille": "Euphorbiacées",
+  "description_famille": "",
+  "identite": {
+    "genre": "Ricinus",
+    "espece": "communis",
+    "nom_scientifique": "Ricinus communis L.",
+    "synonymes": "Ricinus africanus / Ricinus inermis",
+    "nom_francais": "Ricin",
+    "nom_creole": "Maskreti",
+    "nom_anglais": "Castor Oil Plant"
+  },
+  "morphologie": {
+    "description": "R. communis est un arbuste pouvant atteindre 2 à 4 mètres de hauteur dans les conditions climatiques des Départements du Sud et de la Grand'Anse, parfois davantage dans des conditions optimales. Tiges. Les tiges sont dressées, robustes, creuses et segmentées par des nœuds bien marqués. Elles présentent une croissance rapide et peuvent se lignifier avec l'âge, donnant un aspect semi-arborescent à la plante. Feuilles. Les feuilles sont grandes, palmatilobées, comptant généralement 5 à 9 lobes profonds aux bords dentés. Elles sont portées par de longs pétioles et présentent une surface lisse de couleur vert foncé. Leur nervation palmée est bien visible. Fleurs. Les inflorescences sont des grappes terminales denses, portant des fleurs unisexuées sur la même plante (monoïque). Les fleurs femelles, situées en partie supérieure de la grappe, sont dépourvues de pétales et présentent un ovaire surmonté de styles rougeâtres ramifiés. Les fleurs mâles, en partie inférieure, portent de nombreuses étamines jaunes. Fruit et graines. Le fruit est une capsule triloculaire épineuse ou lisse selon les variétés, contenant trois graines. Les graines sont ovales, lisses, de couleur variable (brunes, grises, tachetées), et constituent la partie la plus importante économiquement — mais aussi la plus dangereuse. Les parties utilisées sont principalement les graines (pour l'extraction d'huile), l'huile raffinée, et occasionnellement les feuilles pour des applications externes.",
+    "ecologie": "Originaire d'Afrique tropicale, R. communis s'est naturalisé dans toutes les régions tropicales et subtropicales du monde. En Haïti, l'espèce s'adapte bien aux conditions de basse altitude des Départements du Sud et de la Grand'Anse, où elle est cultivée occasionnellement ou subspontanée près des habitations. La plante tolère des sols pauvres et des conditions de sécheresse, mais produit mieux en sols fertiles et bien drainés. Sa propagation se fait uniquement par graines, et la plante peut présenter un comportement envahissant dans certaines conditions écologiques."
+  },
+  "usages": {
+    "usages_ethnobotaniques": "Dans les Départements du Sud et de la Grand'Anse, le ricin est principalement valorisé pour son huile, obtenue par extraction mécanique ou pression des graines préalablement décortiquées. Cette huile, appelée « maskreti », constitue un remède domestique polyvalent : elle est appliquée sur les cheveux pour les fortifier et leur donner de la brillance, utilisée en massages pour soulager les douleurs articulaires et musculaires, et administrée par voie orale comme purgatif puissant. Les feuilles fraîches sont parfois utilisées en cataplasmes externes pour leurs propriétés anti-inflammatoires supposées. L'extraction de l'huile nécessite une technique appropriée pour éliminer la ricine toxique : les graines doivent être chauffées suffisamment lors du processus pour dénaturer cette protéine dangereuse. Les préparations artisanales présentent un risque résiduel si cette détoxification n'est pas complète.",
+    "systemes_concernes": "Digestif, Tégumentaire"
+  },
+  "pharmacologie": {
+    "molecules": "Le ricin tire ses qualités de une composition lipidique exceptionnelle au niveau de ses graines, dominée par l'acide ricinoléique, un acide gras hydroxylé rare représentant 85-95% de l'huile totale. Cet acide gras confère à l'huile de ricin ses propriétés laxatives caractéristiques : une fois ingéré, il est hydrolysé par les lipases intestinales, libérant l'acide ricinoléique qui stimule le péristaltisme intestinal et réduit l'absorption d'eau et de sodium dans l'intestin grêle et le côlon. L'huile contient également de la vitamine E (tocophérols) et d'autres acides gras en plus faibles proportions (acides oléique, linoléique, stéarique). Sur le plan minéral, les graines sont riches en phosphore, magnésium et potassium. Les principaux composés secondaires identifiés dans R. communis comprennent : la ricine (lectine cytotoxique concentrée dans les graines), la ricinine (alcaloïde pyridinique), des flavonoïdes (rutine, quercétine), des saponines triterpéniques, des tanins condensés et des diterpènes de type phorbol dans certaines parties de la plante (Worbs et al., 2011 — PMID: 21320587, Patel et al., 2016 — doi: 10.1016/j.indcrop.2016.04.010). Ces molécules remplissent des rôles de protection spécialisés pour la plante. La ricine constitue un mécanisme de défense redoutable contre la prédation des graines : cette protéine de 60-65 kDa inhibe irréversiblement la synthèse protéique ribosomale chez les organismes qui consomment les graines, provoquant leur mort. La ricinine, alcaloïde amer, décourage également la consommation par les herbivores. Les diterpènes de type phorbol dans les feuilles et tiges protègent contre les insectes phytophages. Ces mêmes composés, une fois l'huile correctement raffinée et débarrassée de la ricine, produisent les effets laxatifs recherchés en thérapeutique humaine, principalement via l'action de l'acide ricinoléique sur la motilité intestinale.",
+    "posologie": "Pour l'huile de ricin pharmaceutique (débarrassée de ricine), la posologie laxative documentée chez l'adulte est de 15-60 mL par voie orale, généralement prise le matin à jeun (Sweetman, 2009 — Martindale: The Complete Drug Reference). Cependant, aucune posologie ne peut être recommandée pour les préparations artisanales locales en raison du risque de contamination résiduelle par la ricine. L'ingestion de seulement 4-8 graines brutes peut être mortelle chez l'adulte, et 1-3 graines chez l'enfant (Audi et al., 2005 — PMID: 16454776). Les applications externes ne présentent pas de posologie standardisée documentée."
+  },
+  "nutrition": {
+    "introduction": "Ricinus communis L. (syn. Ricinus africanus, Ricinus inermis) est un arbuste exotique introduit, cultivé dans les Départements du Sud et de la Grand'Anse d'Haïti. Il appartient à la famille des Euphorbiacées, une vaste famille tropicale reconnue pour ses usages alimentaires, médicinaux et spirituels multiples. Au sein de cette famille, il fait partie du genre monotypique Ricinus, unique représentant de ce groupe taxonomique. Ricinus communis est une plante à usage principalement médicinal et cosmétique : l'huile extraite de ses graines — connue localement sous le nom de « maskreti » — est largement utilisée pour les soins capillaires, les massages thérapeutiques et comme laxatif traditionnel. Cependant, cette espèce présente un paradoxe toxicologique majeur : ses graines non traitées contiennent la ricine, l'une des protéines les plus toxiques connues, rendant leur manipulation particulièrement dangereuse."
+  },
+  "toxicologie": {
+    "niveau": "danger",
+    "details": "Ricinus communis présente une toxicité extrême par ingestion de graines non traitées. La ricine est l'une des substances naturelles les plus toxiques connues : la dose létale estimée chez l'humain est de 1-20 mg/kg de poids corporel, soit l'équivalent de quelques graines (Audi et al., 2005 — PMID: 16454776). L'intoxication se manifeste par des vomissements, diarrhée sanglante, déshydratation sévère, convulsions et décès par choc hypovolémique dans les 3-5 jours. L'huile de ricin industrielle, correctement raffinée, est généralement sûre aux doses thérapeutiques mais reste contre-indiquée chez la femme enceinte (risque de contractions utérines), en cas d'occlusion intestinale, d'appendicite ou de douleurs abdominales non diagnostiquées. Les préparations artisanales présentent un risque imprévisible."
+  },
+  "conservation": {
+    "menaces": "Bien que non menacée à l'échelle mondiale, R. communis fait l'objet d'une attention particulière pour la conservation des variétés locales traditionnelles dans les Départements du Sud et de la Grand'Anse. La sélection de génotypes adaptés aux conditions pédoclimatiques locales et présentant des teneurs optimales en acide ricinoléique mérite d'être préservée. L'abandon progressif de sa culture traditionnelle au profit d'autres espèces pourrait entraîner une érosion génétique des populations locales.",
+    "valeur": "Internationnellement, R. communis représente une culture industrielle importante pour la production d'huile de ricin, utilisée dans l'industrie chimique (polymères, lubrifiants, cosmétiques) et pharmaceutique. En Haïti, sa valeur reste principalement locale : usage médicinal traditionnel, cosmétique capillaire et applications mystiques dans certaines pratiques vodou. Le potentiel de développement d'une filière castor organisée dans les départements du Sud et de la Grand'Anse mériterait d'être étudié, sous réserve de formation appropriée aux risques toxicologiques."
+  },
+  "recherche": {
+    "nb_articles": "~2000 (estimation)",
+    "details": "Avec environ 2000 publications indexées sur PubMed, R. communis fait l'objet d'une recherche scientifique active, particulièrement dans les domaines de la toxicologie (détoxification de la ricine), de la pharmacologie (mécanismes laxatifs) et des applications industrielles (biocarburants, bioplastiques). Les recherches futures pourraient porter sur le développement de variétés à faible teneur en ricine par sélection génétique, l'optimisation des procédés de détoxification artisanaux, et l'évaluation clinique contrôlée des propriétés anti-inflammatoires topiques de l'huile raffinée.",
+    "lien_pubmed": "",
+    "lien_scholar": "",
+    "lien_tramil": ""
+  },
+  "references": "Audi, J. et al. (2005). Ricin poisoning: a comprehensive review. JAMA. 294(18):2342-51. PMID: 16454776. Patel, V.R. et al. (2016). Castor oil: Properties, uses, and optimization of processing parameters in commercial production. Lipid Insights. 9:1-12. doi: 10.4137/LPI.S40233. Sweetman, S.C. (2009). Martindale: The Complete Drug Reference. 36th edition. Pharmaceutical Press. Vieira, C. et al. (2001). Effect of ricinoleic acid in acute and subchronic experimental models of inflammation. Mediators Inflamm. 10(4):223-8. PMID: 11368557. Worbs, S. et al. (2011). Ricinus communis intoxications in human and veterinary medicine-a summary of real cases. Toxins. 3(10):1332-72. PMID: 21320587. POWO (2024). Plants of the World Online. Kew Science. https://powo.science.kew.org/ World Flora Online (2024). http://www.worldfloraonline.org/",
+  "aRetenir": "🔴 À retenir — Maskreti : est une plante hautement toxique. Toute manipulation sans protection est dangereuse. Toute ingestion peut etre mortelle. Ces informations sont destinees exclusivement a la documentation scientifique. Les auteurs declinent toute responsabilite quant a un usage inapproprie.",
+  "images": {
+    "principale": "images/3711_Ricinus_communis-001.jpg",
+    "galerie": [
+      "images/3711_Ricinus_communis-001.jpg",
+      "images/3711_Ricinus_communis-002.jpg"
+    ]
+  },
+  "source": "plantes_full.json"
+}

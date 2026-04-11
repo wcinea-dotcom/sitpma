@@ -1,0 +1,56 @@
+{
+  "id_plante": "plt-2004",
+  "code": "plt-2004",
+  "no_espece": "",
+  "no_famille": "20",
+  "famille": "Boraginacées",
+  "description_famille": "",
+  "identite": {
+    "genre": "Varronia",
+    "espece": "serrata",
+    "nom_scientifique": "Varronia serrata",
+    "synonymes": "Cordia serrata / Cordia globosa var. serrata",
+    "nom_francais": "-",
+    "nom_creole": "-",
+    "nom_anglais": "Sawtooth Varronia"
+  },
+  "morphologie": {
+    "description": "V. serrata est un arbuste de basse altitude, caractérisé par sa saveur amère distinctive et sa relative rareté dans les écosystèmes haïtiens. Tiges et port. L'arbuste présente un port dressé avec des tiges ligneuses ramifiées. L'écorce est rugueuse et brunâtre, typique des membres ligneux de la famille des Boraginacées. Feuilles. Les feuilles sont alternes, ovales à elliptiques, avec des marges dentées (serrées) — caractéristique qui donne son nom à l'espèce \"serrata\". Elles présentent une texture rugueuse caractéristique de la famille, due à la présence de poils courts (trichomes) sur les surfaces foliaires. Leur saveur amère témoigne de la richesse en composés phénoliques. Fleurs. Les inflorescences sont terminales, composées de petites fleurs blanches à corolle tubulaire, typiques de la famille des Boraginacées. La floraison attire divers insectes pollinisateurs locaux. Fruit. Les fruits sont de petites drupes contenant des graines dures, permettant la dissémination par les oiseaux frugivores locaux. Les parties utilisées dans les pratiques traditionnelles haïtiennes sont principalement les feuilles et les racines.",
+    "ecologie": "V. serrata est une espèce native des Caraïbes et de l'Amérique tropicale, présente naturellement en Haïti dans les écosystèmes de basse altitude. Dans les Départements du Sud et de la Grand'Anse, l'espèce colonise préférentiellement les zones semi-arides et les formations arbustives ouvertes, où elle s'adapte aux conditions de sécheresse saisonnière. Sa distribution restreinte et sa rareté relative en font une espèce d'intérêt conservatoire pour la biodiversité haïtienne. L'arbuste tolère les sols pauvres et calcaires caractéristiques de ces régions, témoignant de sa capacité d'adaptation aux contraintes édaphiques locales."
+  },
+  "usages": {
+    "usages_ethnobotaniques": "Dans les Départements du Sud et de la Grand'Anse, V. serrata est documenté comme remède traditionnel contre les douleurs corporelles, d'où son appellation locale \"Ti bonm\" — une référence probable à ses effets apaisants. Les feuilles et les racines sont les parties privilégiées, préparées principalement sous forme de décoction. Les praticiens traditionnels utilisent généralement les feuilles fraîches ou séchées, bouillies dans l'eau pour obtenir une tisane amère administrée par voie orale. Les racines, plus concentrées en principes actifs, sont réservées aux cas de douleurs plus intenses. Dans le contexte caribéen élargi, l'espèce est également documentée par TRAMIL pour ses usages similaires contre les douleurs, confirmant la cohérence des savoirs traditionnels régionaux. Les modes de préparation restent empiriques, sans standardisation particulière.",
+    "systemes_concernes": ""
+  },
+  "pharmacologie": {
+    "molecules": "La saveur amère caractéristique de V. serrata provient principalement de ses composés phénoliques, notamment les tanins et les flavonoïdes, qui constituent les métabolites primaires responsables de l'activité biologique de la plante. Ces composés amers servent de mécanisme de défense naturel contre les herbivores, tout en conférant à la plante ses propriétés médicinales recherchées. Les saponines présentes contribuent également à cette amertume tout en participant aux effets biologiques observés. Les principaux composés secondaires identifiés dans V. serrata comprennent : des flavonoïdes (quercétine, rutine, catéchine), des saponines triterpéniques, des tanins condensés et hydrolysables, des terpénoïdes, et de faibles concentrations d'alcaloïdes (Pharmacia Pensoft publications). Ces molécules travaillent en synergie pour produire les effets thérapeutiques documentés. Ces mêmes composés, une fois administrés chez l'humain, pourraient expliquer les effets anti-inflammatoires et analgésiques observés dans l'usage traditionnel. Les flavonoïdes et les tanins exercent leurs effets par modulation des voies inflammatoires, tandis que les saponines contribuent aux propriétés cicatrisantes et possiblement hypotensives. Les terpénoïdes ajoutent une dimension antioxydante complémentaire. Cependant, ces mécanismes d'action restent principalement basés sur des études in vitro et nécessitent des validations cliniques spécifiques à cette espèce.",
+    "posologie": "Aucune posologie cliniquement validée n'est disponible pour V. serrata dans la littérature scientifique. Les références consultées mentionnent uniquement des tisanes empiriques de feuilles préparées selon les pratiques traditionnelles, sans standardisation particulière quant aux quantités, à la concentration ou à la fréquence d'administration. Cette absence de données posologiques précises constitue une limitation importante pour l'usage sécurisé de l'espèce et souligne la nécessité d'études pharmacocinétiques appropriées. Les praticiens traditionnels semblent ajuster les dosages selon l'intensité des symptômes et la réponse individuelle, approche empirique qui mériterait une validation scientifique."
+  },
+  "nutrition": {
+    "introduction": "Varronia serrata (syn. Cordia serrata, Cordia globosa var. serrata) est un arbuste natif rare des basses altitudes d'Haïti, documenté dans les Départements du Sud et de la Grand'Anse où il est connu localement sous l'appellation \"Ti bonm\". Il appartient à la famille des Boraginacées, une famille principalement composée d'herbes, d'arbustes et de lianes, reconnue pour ses importants usages médicinaux à travers les tropiques. Cette famille se caractérise phytochimiquement par la présence dominante de flavonoïdes, de tanins, de mucilages et de triterpènes, ciblant préférentiellement les systèmes tégumentaire, urinaire et musculo-squelettique. Il convient cependant de noter qu'au sein de cette famille, certains genres comme Heliotropium renferment des alcaloïdes pyrrolizidiniques hépatotoxiques, exigeant une vigilance particulière dans l'identification botanique. Au sein des Boraginacées, Varronia fait partie d'un groupe d'arbustes tropicaux traditionnellement utilisés pour leurs propriétés anti-inflammatoires et cicatrisantes. Dans les Départements du Sud et de la Grand'Anse, V. serrata est principalement valorisé pour ses propriétés analgésiques, particulièrement dans le traitement des douleurs corporelles."
+  },
+  "toxicologie": {
+    "niveau": "",
+    "details": "V. serrata présente un profil de sécurité généralement favorable, classé comme non toxique selon les données disponibles. Cependant, comme pour toutes les plantes médicinales contenant des saponines et des composés phénoliques concentrés, certaines précautions s'imposent. La prudence est recommandée pendant la grossesse et l'allaitement, périodes durant lesquelles l'usage de plantes médicinales doit être supervisé. En cas de surdosage ou de cures prolongées, des risques d'hypotension légère et de troubles digestifs (nausées, diarrhée) peuvent survenir, liés aux propriétés astringentes des tanins et aux effets des saponines. Les personnes sous traitement antihypertenseur devraient éviter l'usage concomitant sans supervision médicale, en raison des effets hypotenseurs potentiels mentionnés dans certaines sources."
+  },
+  "conservation": {
+    "menaces": "L'espèce présente un statut de conservation préoccupant en raison de sa rareté documentée dans les Départements du Sud et de la Grand'Anse. Les principales menaces incluent la destruction d'habitat liée à l'extension agricole, la collecte non durable pour les usages médicinaux traditionnels, et la fragmentation des écosystèmes arbustifs de basse altitude. La pression anthropique croissante sur les formations végétales naturelles de ces départements accentue la vulnérabilité de l'espèce. Des mesures de conservation in situ et ex situ seraient nécessaires pour préserver cette ressource génétique d'intérêt médicinal, incluant la multiplication végétative et la sensibilisation des communautés locales à une collecte durable.",
+    "valeur": "V. serrata présente actuellement une valeur économique limitée aux circuits traditionnels locaux de médecine populaire. Son usage reste principalement domestique, sans commercialisation significative identifiée dans les Départements du Sud et de la Grand'Anse. La rareté de l'espèce constitue un frein à tout développement économique à grande échelle. Cependant, ses propriétés analgésiques documentées pourraient présenter un potentiel pour le développement de phytomédicaments standardisés, sous réserve d'études cliniques validant l'efficacité et la sécurité. L'espèce pourrait également intéresser les programmes de conservation-développement associant préservation de la biodiversité et valorisation économique durable des ressources végétales locales."
+  },
+  "recherche": {
+    "nb_articles": "",
+    "details": "Avec environ vingt publications scientifiques disponibles, V. serrata demeure relativement peu étudiée comparativement à d'autres espèces médicinales caribéennes. Les recherches futures devraient prioritairement se concentrer sur la validation clinique des propriétés analgésiques et anti-inflammatoires observées dans l'usage traditionnel. Des études pharmacocinétiques sont nécessaires pour établir des posologies sécurisées et efficaces. L'investigation des mécanismes d'action au niveau moléculaire permettrait de mieux comprendre les interactions entre les différents composés bioactifs. Sur le plan conservatoire, des études écologiques approfondies s'imposent pour évaluer la dynamique des populations naturelles et développer des stratégies de conservation adaptées. La multiplication végétative et la culture contrôlée constituent des priorités pour réduire la pression sur les populations sauvages.",
+    "lien_pubmed": "https://pubmed.ncbi.nlm.nih.gov/?term=Varronia+serrata",
+    "lien_scholar": "",
+    "lien_tramil": "https://www.tramil.net/en/plant/varronia-serrata"
+  },
+  "references": "Pharmacia Pensoft publications — données phytochimiques et pharmacologiques. Disponible via pharmacia.pensoft.net TRAMIL — Varronia serrata, usages traditionnels caribéens. https://www.tramil.net/en/plant/varronia-serrata PubMed — recherches sur Varronia serrata. https://pubmed.ncbi.nlm.nih.gov/?term=Varronia+serrata",
+  "aRetenir": "🟡 À retenir — Varronia : est une plante a toxicite conditionnelle documentee. Respecter imperativement les precautions indiquees. Ne jamais ingerer les parties toxiques sans encadrement medical. Ces informations sont destinees a l'enseignement et a la documentation. Les auteurs declinent toute responsabilite quant a un usage inapproprie.",
+  "images": {
+    "principale": "images/203_Varronia_serrata-001.jpg",
+    "galerie": [
+      "images/203_Varronia_serrata-001.jpg"
+    ]
+  },
+  "source": "plantes_full.json"
+}

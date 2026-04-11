@@ -1,0 +1,57 @@
+{
+  "id_plante": "plt-3003",
+  "code": "plt-3003",
+  "no_espece": "",
+  "no_famille": "30",
+  "famille": "Clusiacées",
+  "description_famille": "",
+  "identite": {
+    "genre": "Garcinia",
+    "espece": "barkeriana",
+    "nom_scientifique": "Garcinia barkeriana",
+    "synonymes": "Rheedia barkeriana",
+    "nom_francais": "-",
+    "nom_creole": "-",
+    "nom_anglais": "-"
+  },
+  "morphologie": {
+    "description": "G. barkeriana est un arbre de haute altitude, adapté aux conditions fraîches et humides du Massif de la Hotte. Tiges et tronc. Le tronc est droit et élancé, avec une écorce lisse à légèrement rugueuse. Comme chez d'autres Garcinia, l'écorce sécrète un latex jaunâtre lors de blessures, caractéristique défensive de la famille des Clusiacées. Ce latex contient des résines et des benzophénones aux propriétés antimicrobiennes. Feuilles. Les feuilles sont simples, opposées, coriaces et persistantes — adaptation typique aux conditions de montagne. Elles présentent une nervation pennée bien marquée et une surface brillante qui reflète l'excès de lumière en altitude. Leur forme elliptique et leur texture épaisse permettent de résister aux vents froids du massif. Fleurs et reproduction. Les modalités de floraison et de pollinisation restent peu documentées pour cette espèce rare. Par analogie avec le genre Garcinia, la plante produit probablement des fleurs unisexuées, nécessitant la présence de pieds mâles and femelles pour la reproduction. Fruits. Les fruits sont l'élément le plus distinctif de l'espèce. Ils sont charnus, de saveur grasse rappelant l'amande, caractéristique unique parmi les Garcinia généralement acides. Cette particularité suggère une composition lipidique inhabituelle pour le genre. Les parties utilisées sont principalement l'écorce, les fruits et les feuilles.",
+    "ecologie": "G. barkeriana est endémique d'Haïti, strictement confiné au Massif de la Hotte dans le département de la Grand'Anse. Cette aire de distribution ultra-restreinte en fait l'une des espèces les plus menacées de la flore haïtienne. L'espèce évolue en haute altitude dans les forêts nuageuses, écosystème caractérisé par une humidité constante et des températures fraîches. Ces conditions particulières, combinées à l'isolement géographique du massif, ont probablement favorisé l'évolution des caractéristiques uniques de l'espèce, notamment la composition inhabituelle de ses fruits."
+  },
+  "usages": {
+    "usages_ethnobotaniques": "L'espèce est documentée dans le Sud et la Grand'Anse principalement pour ses usages médicinaux, bien que sa rareté limite considérablement son utilisation traditionnelle. Les parties employées comprennent l'écorce, les fruits et les feuilles, préparées principalement en décoction. L'écorce constitue la partie la plus utilisée en médecine traditionnelle, préparée en décoction pour ses propriétés digestives et antimicrobiennes présumées. Les fruits, malgré leur saveur grasse distinctive, sont occasionnellement consommés frais ou transformés, bien que leur usage alimentaire reste marginal en raison de la rareté de l'espèce. Les feuilles sont parfois intégrées aux préparations médicinales, généralement associées à d'autres plantes dans des mélanges complexes. L'usage traditionnel privilégie les préparations aqueuses (décoctions, infusions) plutôt que les applications externes.",
+    "systemes_concernes": "Digestif"
+  },
+  "pharmacologie": {
+    "molecules": "Ce qui distingue G. barkeriana des autres Garcinia est la composition particulière de ses fruits, qui présentent une saveur grasse rappelant l'amande plutôt que l'acidité habituelle du genre. Cette caractéristique unique suggère une teneur élevée en lipides spécialisés, probablement des acides gras à chaîne moyenne, ainsi qu'une concentration réduite en acides organiques comme l'acide citrique — composé dominant chez la plupart des Garcinia. Les fruits contiennent également des glucides complexes, des fibres et potentiellement de la vitamine C, bien qu'en quantités moindres que chez les espèces acides du genre. Les principaux composés secondaires identifiés dans G. barkeriana, par analogie avec le genre Garcinia, comprennent : des xanthones (α-mangostine, β-mangostine, garcinone), des benzophénones, des flavonoïdes (quercétine, catéchine), des tanins condensés, des saponines triterpéniques et des acides phénoliques. Le profil phytochimique spécifique de cette espèce endémique reste cependant peu documenté, nécessitant des études approfondies. Ces molécules remplissent des fonctions de défense essentielles pour l'arbre. Les xanthones et benzophénones du latex protègent efficacement contre les pathogènes fongiques et bactériens. Des études sur Garcinia mangostana ont montré que l'α-mangostine présente une remarquable activité antimicrobienne contre Staphylococcus aureus résistant à la méthicilline (PMID: 19735935). Les tanins de l'écorce offrent une protection contre les herbivores par leur astringence. Ces mêmes composés, une fois ingérés par l'humain, produisent les effets biologiques documentés en médecine traditionnelle : activité antioxydante, antimicrobienne et potentiellement anti-inflammatoire, bien que les observations restent principalement issues d'études sur d'autres espèces du genre.",
+    "posologie": "Aucune posologie cliniquement validée n'est disponible pour G. barkeriana. Les publications scientifiques spécifiques à cette espèce sont rares, et aucune étude clinique contrôlée n'a établi de dosages standardisés. Les pratiques traditionnelles documentées localement utilisent des infusions et décoctions empiriques d'écorce, mais ces préparations ne sont pas standardisées en termes de concentration ou de fréquence d'administration. Cette absence de données posologiques constitue un obstacle majeur à l'utilisation thérapeutique sécurisée de l'espèce."
+  },
+  "nutrition": {
+    "introduction": "Garcinia barkeriana (syn. Rheedia barkeriana) est un arbre endémique d'Haïti, confiné au Massif de la Hotte dans le département de la Grand'Anse. Il appartient à la famille des Clusiacées, une famille d'arbres et d'arbustes tropicaux reconnue pour ses riches usages alimentaires et médicinaux. Au sein de cette famille, il fait partie du genre Garcinia, un groupe d'arbres fruitiers tropicaux comprenant le mangoustan (Garcinia mangostana) et plusieurs autres espèces productrices de fruits comestibles. Son usage dans les Départements du Sud et de la Grand'Anse est principalement médicinal, bien que ses fruits soient occasionnellement consommés. En raison de sa rareté extrême et de son statut d'endémique strict, la conservation de cette espèce constitue une priorité absolue."
+  },
+  "toxicologie": {
+    "niveau": "",
+    "details": "Le profil toxicologique de G. barkeriana n'est pas documenté dans la littérature scientifique. En l'absence de données spécifiques, la prudence s'impose, particulièrement chez les femmes enceintes et allaitantes. Par analogie avec d'autres Garcinia, un surdosage pourrait théoriquement entraîner une acidité gastrique excessive et des troubles digestifs, bien que cette espèce présente une saveur grasse plutôt qu'acide. Des interactions théoriques avec des médicaments hypotenseurs sont possibles si l'espèce partage les propriétés cardiovasculaires d'autres membres du genre. L'usage traditionnel semble globalement sûr aux doses employées empiriquement, mais l'absence d'études toxicologiques formelles impose une vigilance particulière."
+  },
+  "conservation": {
+    "menaces": "G. barkeriana fait face à un risque d'extinction critique en raison de son aire de distribution ultra-restreinte et de la pression anthropique sur le Massif de la Hotte. La déforestation, l'agriculture sur brûlis et l'exploitation forestière menacent directement les dernières populations. Sa rareté naturelle est aggravée par la dégradation continue de son habitat spécialisé. Des mesures de conservation ex situ et in situ sont urgentes pour préserver cette espèce endémique unique.",
+    "valeur": "La valeur économique de G. barkeriana reste inconnue en raison de sa rareté extrême. Aucune filière commerciale n'exploite actuellement cette espèce, ce qui constitue paradoxalement un facteur de protection. Sa valeur réside principalement dans sa contribution à la biodiversité endémique haïtienne et son potentiel scientifique inexploré. Le développement d'une éventuelle valorisation économique devrait impérativement s'accompagner de mesures strictes de conservation et de multiplication de l'espèce."
+  },
+  "recherche": {
+    "nb_articles": "",
+    "details": "Les recherches sur G. barkeriana sont dramatiquement insuffisantes. Des études phytochimiques approfondies sont nécessaires pour caractériser ses composés uniques, notamment ceux responsables de la saveur grasse inhabituelle des fruits. Des investigations pharmacologiques pourraient révéler des propriétés thérapeutiques spécifiques à cette espèce endémique. La priorité absolue reste cependant la conservation : études populationnelles, techniques de multiplication, conservation des graines et établissement de collections ex situ sont indispensables pour éviter la disparition de cette espèce remarquable.",
+    "lien_pubmed": "",
+    "lien_scholar": "",
+    "lien_tramil": ""
+  },
+  "references": "Cette espèce endémique souffre d'un manque critique de documentation scientifique. Les quelques références disponibles concernent principalement des inventaires floristiques généraux du Massif de la Hotte. [RETENIR — 🟢_endemique] Garcinia barkeriana, arbre endémique du Massif de la Hotte, produit des fruits à saveur grasse unique parmi les Garcinia. Usage médicinal traditionnel contre la diarrhée via les tanins de l'écorce. Espèce en danger critique nécessitant conservation urgente. Potentiel phytochimique inexploré.",
+  "aRetenir": "🟢 À retenir — Garcinia : est une espece peu ou non etudiee scientifiquement. Les proprietes presentees reposent sur des analogies avec des especes proches et les usages traditionnels documentes localement. La conservation de cette espece prime sur toute valorisation. Les auteurs declinent toute responsabilite quant a un usage inapproprie.",
+  "images": {
+    "principale": "images/303_Garcinia_barkeriana-001.jpg",
+    "galerie": [
+      "images/303_Garcinia_barkeriana-001.jpg",
+      "images/303_Garcinia_barkeriana-002.jpg"
+    ]
+  },
+  "source": "plantes_full.json"
+}

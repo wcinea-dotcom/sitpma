@@ -1,0 +1,57 @@
+{
+  "id_plante": "plt-3503",
+  "code": "plt-3503",
+  "no_espece": "",
+  "no_famille": "35",
+  "famille": "Cucurbitacées",
+  "description_famille": "",
+  "identite": {
+    "genre": "Luffa",
+    "espece": "acutangula",
+    "nom_scientifique": "Luffa acutangula (L.)",
+    "synonymes": "Cucumis acutangulus",
+    "nom_francais": "Luffa / Torchon",
+    "nom_creole": "Tòchon",
+    "nom_anglais": "Angled Luffa"
+  },
+  "morphologie": {
+    "description": "L. acutangula est une liane grimpante annuelle pouvant s'étendre sur plusieurs mètres de longueur dans les conditions favorables des basses altitudes haïtiennes. Tiges et vrilles. Les tiges sont anguleuses — d'où l'épithète spécifique « acutangula » — striées et munies de vrilles ramifiées qui permettent à la plante de s'accrocher efficacement aux supports verticaux. Cette adaptation lui permet de coloniser rapidement les treillages et les clôtures dans les jardins du Sud et de la Grand'Anse. Feuilles. Les feuilles sont alternes, palmatilobées, à 5-7 lobes peu profonds, de texture rugueuse au toucher. Elles présentent une surface légèrement pubescente et des nervures bien marquées. Fleurs. La plante est monoïque, portant des fleurs mâles et femelles séparées sur le même individu. Les fleurs sont jaunes, à cinq pétales, les mâles groupées en grappes, les femelles solitaires et plus grandes. Fruits. Le fruit constitue la partie la plus remarquable de la plante : cylindrique, côtelé longitudinalement avec 8-10 arêtes saillantes, mesurant 15-30 cm de longueur. Jeune, il est vert, tendre et comestible. Mature, il devient fibreux, sec et brun, révélant un réseau de fibres de cellulose utilisé comme éponge naturelle. Graines. Les graines sont plates, ovales, noires à maturité, enchâsées dans la pulpe fibreuse du fruit mature. Les parties utilisées sont les fruits jeunes (alimentation), les fruits secs (éponge), les feuilles (usage médicinal traditionnel) et les graines.",
+    "ecologie": "Originaire d'Asie tropicale, L. acutangula s'est répandue dans toutes les régions tropicales et subtropicales du monde par introduction humaine. En Haïti, elle est cultivée sporadiquement dans les jardins des Départements du Sud et de la Grand'Anse, principalement en basse altitude où les conditions chaudes et humides lui conviennent. Sa rareté relative dans ces départements contraste avec son abondance dans d'autres régions tropicales. La plante préfère les sols riches, bien drainés et nécessite un support pour sa croissance optimale. Elle se reproduit exclusivement par graines et dépend des insectes pour sa pollinisation croisée."
+  },
+  "usages": {
+    "usages_ethnobotaniques": "Dans les Départements du Sud et de la Grand'Anse, L. acutangula présente un usage double documenté par l'inventaire ethnobotanique local. Le fruit jeune, récolté avant durcissement des fibres, est consommé comme légume après cuisson — bouilli, en sauce ou incorporé dans les plats traditionnels. Sa saveur fade et sa texture spongieuse en font un accompagnement apprécié, particulièrement pour ses propriétés digestives reconnues localement. Le fruit mature et séché révèle son usage utilitaire le plus emblématique : une fois vidé de sa pulpe, le réseau fibreux forme une éponge naturelle biodégradable, d'où le nom créole « Tòchon ». Cette éponge végétale est utilisée pour la toilette corporelle et le nettoyage domestique. Les feuilles font l'objet d'un usage médicinal traditionnel sous forme d'infusions, bien que cet usage reste limité et empirique. L'usage purgatif documenté par TRAMIL (www.tramil.net) témoigne d'applications thérapeutiques plus spécialisées, probablement liées à la teneur en saponines.",
+    "systemes_concernes": "Digestif, Urinaire"
+  },
+  "pharmacologie": {
+    "molecules": "Le fruit jeune de L. acutangula se caractérise par sa composition majoritairement aqueuse — plus de 90% d'eau — qui lui confère sa texture rafraîchissante et sa saveur fade caractéristique. Cette forte teneur en eau s'accompagne de fibres solubles et insolubles responsables de ses propriétés digestives documentées, ainsi que de potassium, calcium et magnésium qui contribuent à son activité diurétique traditionnelle. Le fruit contient également de la vitamine C et des traces de fer, lui conférant des propriétés nutritionnelles modestes mais appréciables dans le contexte alimentaire local. Les principaux composés secondaires identifiés dans L. acutangula comprennent : des flavonoïdes (quercétine, kaempférol), des saponines triterpéniques, des tanins, des coumarines, et de la luffanguline, un composé spécifique du genre Luffa. Des traces de cucurbitacines peuvent être présentes, particulièrement dans les parties végétatives (Patel et al., 2012 — doi:10.1016/j.foodchem.2011.12.004). Les graines renferment des protéines (20-30%) et des lipides avec un profil d'acides gras dominé par l'acide linoléique (Oboh et al., 2018 — doi:10.1016/j.jfca.2017.12.025). Ces composés remplissent des fonctions de défense précises pour la plante. Les cucurbitacines protègent contre les herbivores par leur amertume intense. Les saponines confèrent une protection antimicrobienne aux tissus vulnérables. Les tanins dans les feuilles découragent la consommation par les insectes. Ces mêmes composés, une fois ingérés par l'humain, produisent les effets biologiques documentés : les fibres stimulent le péristaltisme intestinal, les flavonoïdes exercent une activité antioxydante, et les saponines contribuent aux propriétés diurétiques observées. Les études restent principalement limitées aux modèles in vitro et animaux.",
+    "posologie": "L'usage alimentaire du fruit jeune suit les pratiques culinaires conventionnelles avec des quantités de 50 à 100 g par jour comme légume d'accompagnement, selon les observations locales. Pour les préparations médicinales, les infusions de feuilles sont rapportées empiriquement mais aucune posologie cliniquement validée n'est disponible pour L. acutangula. Les pratiques traditionnelles documentées localement ne sont pas standardisées et varient considérablement selon les préparateurs. L'usage purgatif mentionné par TRAMIL nécessiterait une supervision experte en raison des risques de surdosage."
+  },
+  "nutrition": {
+    "introduction": "Luffa acutangula (L.) (syn. Cucumis acutangulus) est une liane exotique pantropicale, rare dans les Départements du Sud et de la Grand'Anse, où elle est cultivée pour ses fruits comestibles et utilitaires. Elle appartient à la famille des Cucurbitacées, dominée par les lianes et remarquable pour ses riches usages alimentaires et médicinaux. Cette famille se caractérise phytochimiquement par ses fruits riches en eau, potassium, vitamine C et fer, ciblant préférentiellement les systèmes rénal, digestif et parasitaire. Il convient de noter que certaines espèces de cette famille — notamment les variétés sauvages ou amères — renferment des cucurbitacines, triterpènes amers fortement purgatifs et potentiellement toxiques, exigeant une préparation adéquate. Au sein de cette famille, Luffa acutangula fait partie du genre Luffa, groupe de lianes tropicales remarquables pour leurs fruits à structure fibreuse utilisés tant comme légumes que comme éponges naturelles. L. acutangula présente un double usage dans les deux départements : alimentaire lorsque le fruit est jeune et tendre, utilitaire une fois le fruit arrivé à maturité et séché."
+  },
+  "toxicologie": {
+    "niveau": "",
+    "details": "L. acutangula présente une toxicité conditionnelle liée principalement aux risques de surconsommation et aux variations individuelles de tolérance. La consommation excessive du fruit, même jeune, peut provoquer des troubles digestifs (diarrhée, flatulences) en raison de sa forte teneur en fibres et en saponines. Les préparations concentrées de feuilles nécessitent une prudence particulière chez les femmes enceintes, bien que les données toxicologiques spécifiques restent limitées pour cette espèce. La présence potentielle de traces de cucurbitacines, même en faibles quantités, impose une vigilance quant à l'origine et à la préparation des parties végétales utilisées. Les fruits amers doivent être évités car ils indiquent une concentration élevée en principes actifs potentiellement irritants."
+  },
+  "conservation": {
+    "menaces": "Bien que l'espèce ne soit pas menacée d'extinction à l'échelle mondiale, sa rareté dans les Départements du Sud et de la Grand'Anse justifie des mesures de conservation locale. La dépendance à la culture et l'abandon progressif des variétés traditionnelles au profit d'autres légumes constituent les principales menaces. La conservation des graines locales et la transmission des savoir-faire de culture représentent les priorités pour maintenir cette ressource dans le patrimoine végétal régional.",
+    "valeur": "L. acutangula présente une valeur économique modeste mais diversifiée. Localement, elle génère des revenus limités par la vente occasionnelle de fruits jeunes sur les marchés locaux et d'éponges naturelles séchées. À l'échelle internationale, l'espèce suscite un intérêt croissant pour les éponges végétales biodégradables dans le secteur cosmétique et écologique, offrant des perspectives d'exportation. Les sous-produits (graines) présentent un potentiel industriel pour l'extraction d'huiles riches en acides gras polyinsaturés."
+  },
+  "recherche": {
+    "nb_articles": "~500 (estimation)",
+    "details": "Avec environ 500 publications indexées, L. acutangula bénéficie d'un intérêt scientifique soutenu, principalement orienté vers ses propriétés antidiabétiques et hépatoprotectrices. Les recherches futures devraient se concentrer sur la standardisation des extraits actifs, l'élucidation des mécanismes d'action chez l'humain, et l'optimisation des procédés de transformation des fibres pour applications industrielles. Le développement de variétés adaptées au climat haïtien représente également une priorité pour valoriser ce potentiel local.",
+    "lien_pubmed": "",
+    "lien_scholar": "",
+    "lien_tramil": ""
+  },
+  "references": "Chandra, S. et al. (2008). Antidiabetic effect of Luffa acutangula in alloxan induced diabetic rats. PMID: 18683851. Kumar, A. et al. (2010). Hepatoprotective activity of Luffa acutangula fruits against carbon tetrachloride-induced hepatic damage in rats. PMID: 20645778. Oboh, I.O. et al. (2018). Chemical composition and fatty acid profile of Luffa acutangula seed oil. doi:10.1016/j.jfca.2017.12.025. Patel, S. et al. (2012). Phytochemical analysis and antioxidant activity of Luffa acutangula fruits. doi:10.1016/j.foodchem.2011.12.004. POWO (2024). Plants of the World Online. Kew Science. TRAMIL (2024). Luffa acutangula. www.tramil.net. World Flora Online (2024). WFO Plant List.",
+  "aRetenir": "🟡 À retenir — Tòchon : est une plante a toxicite conditionnelle documentee. Respecter imperativement les precautions indiquees. Ne jamais ingerer les parties toxiques sans encadrement medical. Ces informations sont destinees a l'enseignement et a la documentation. Les auteurs declinent toute responsabilite quant a un usage inapproprie.",
+  "images": {
+    "principale": "images/353_Luffa_acutangula-001.jpg",
+    "galerie": [
+      "images/353_Luffa_acutangula-001.jpg",
+      "images/353_Luffa_acutangula-002.jpg"
+    ]
+  },
+  "source": "plantes_full.json"
+}

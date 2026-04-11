@@ -1,0 +1,56 @@
+{
+  "id_plante": "plt-3704",
+  "code": "plt-3704",
+  "no_espece": "",
+  "no_famille": "37",
+  "famille": "Euphorbiacées",
+  "description_famille": "",
+  "identite": {
+    "genre": "Euphorbia",
+    "espece": "hirta",
+    "nom_scientifique": "Euphorbia hirta L.",
+    "synonymes": "Chamaesyce hirta",
+    "nom_francais": "Malnommée",
+    "nom_creole": "Malonmen",
+    "nom_anglais": "Asthma Weed"
+  },
+  "morphologie": {
+    "description": "E. hirta est une herbe annuelle dressée ou prostrée, de taille modeste, pouvant atteindre 30 à 40 cm de hauteur, très commune dans les zones rudérales et les terrains perturbés des Départements du Sud et de la Grand'Anse. Tiges et latex. Les tiges sont rougeâtres, poilues et ramifiées, contenant un latex blanc caractéristique qui s'écoule lors de toute blessure. Ce latex, moins caustique que celui d'autres Euphorbia, constitue néanmoins un système de défense efficace contre les herbivores. Feuilles. Les feuilles sont opposées, petites, ovales à oblongues, finement dentées sur les bords et couvertes de poils courts. Elles présentent souvent des taches pourpres caractéristiques et dégagent une odeur âcre lorsqu'on les froisse. Fleurs. Les fleurs sont minuscules, groupées en cyathes — structures florales complexes typiques des Euphorbiacées — disposées en glomérules axillaires. Chaque cyathe simule une fleur unique mais contient en réalité plusieurs fleurs mâles réduites à une étamine et une fleur femelle réduite à un pistil. Fruit et graines. Le fruit est une petite capsule trilobée qui expulse violemment ses graines à maturité, assurant ainsi la dispersion de l'espèce. Les graines sont petites, anguleuses et de couleur brune. Les parties utilisées sont les feuilles, les tiges et les racines, récoltées de préférence sur des plants jeunes et vigoureux.",
+    "ecologie": "E. hirta est une espèce pantropicale native d'Amérique tropicale, aujourd'hui largement distribuée dans toutes les régions chaudes du globe. En Haïti, elle colonise préférentiellement les zones rudérales, les bords de chemins, les terrains vagues et les jardins des Départements du Sud et de la Grand'Anse, depuis le niveau de la mer jusqu'en basse altitude. Son caractère adventice et sa grande capacité d'adaptation lui permettent de prospérer dans les sols pauvres et perturbés, où elle joue un rôle de plante pionnière dans la recolonisation végétale."
+  },
+  "usages": {
+    "usages_ethnobotaniques": "Dans les Départements du Sud et de la Grand'Anse, E. hirta est documentée comme plante médicinale polyvalente, particulièrement réputée pour traiter les troubles digestifs et respiratoires. Les feuilles et tiges fraîches sont principalement préparées en décoction légère pour les affections diarrhéiques et les infestations amibiennes. Les racines, récoltées sur des plants jeunes, sont utilisées en décoction plus concentrée pour les troubles respiratoires chroniques. La préparation traditionnelle implique généralement une cuisson brève pour éviter une concentration excessive des principes actifs irritants. Au niveau caribéen, TRAMIL documente son usage en Martinique contre les amibes, confirmant la convergence des pratiques régionales (www.tramil.net). Internationalement, la plante est utilisée aux Philippines dans le contexte du traitement de la dengue et en Inde pour l'asthme.",
+    "systemes_concernes": "Digestif, Respiratoire"
+  },
+  "pharmacologie": {
+    "molecules": "Euphorbia hirta se caractérise par sa saveur âcre et brûlante, résultant de la présence de diterpènes irritants dans son latex et de tanins astringents dans ses tissus. Cette âcreté constitue une défense chimique efficace contre les herbivores tout en conférant à la plante ses propriétés thérapeutiques. Le latex blanc, riche en esters diterpéniques, représente le principal système de défense mécanique et chimique de la plante contre les agressions externes. Les principaux composés secondaires identifiés dans E. hirta comprennent : des flavonoïdes (quercitrine, quercétol, rutine), des tanins hydrolysables (acide gallique), des triterpénoïdes (euphol, cycloarténol), des alcaloïdes (euphorbianine, choline), des saponines triterpéniques et des diterpènes du latex (ingols, phorbols) (Huang et al., 2012 — PMID: 22696006, Singh et al., 2010 — PMID: 21234313). La quercitrine, flavonoïde majeur, contribue aux propriétés anti-inflammatoires et antioxydantes, tandis que les tanins confèrent l'astringence et les propriétés antidiarrhéiques (Lanhers et al., 1991 — PMID: 1839431). Ces composés remplissent des fonctions de défense précises pour la plante. Les diterpènes du latex irritent les muqueuses des herbivores et possèdent une activité antimicrobienne protégeant les blessures. Les tanins astringents précipitent les protéines, créant une barrière défensive dans les tissus. Ces mêmes composés, une fois ingérés par l'humain, produisent les effets biologiques documentés : bronchodilatation par modulation des médiateurs inflammatoires, effet antidiarrhéique par astringence des tanins, et activité antimicrobienne contre diverses souches pathogènes. Il convient de noter que la plupart de ces mécanismes restent principalement documentés par des études in vitro et sur modèles animaux.",
+    "posologie": "Aucune posologie cliniquement validée n'est disponible pour E. hirta dans la littérature scientifique indexée. Les pratiques traditionnelles documentées localement utilisent généralement des infusions très diluées de feuilles fraîches (environ 5-10 g pour 250 ml d'eau) ou des décoctions légères de racines en faible quantité. La variabilité de concentration des principes actifs selon les conditions de récolte et de préparation rend impossible l'établissement d'un schéma posologique standardisé sans études pharmacocinétiques appropriées."
+  },
+  "nutrition": {
+    "introduction": "Euphorbia hirta L. (syn. Chamaesyce hirta) est une herbe native abondante des Départements du Sud et de la Grand'Anse, appartenant à la famille des Euphorbiacées. Au sein de cette famille, elle fait partie du vaste genre Euphorbia, qui regroupe plus de 2000 espèces d'herbes, d'arbustes et d'arbres caractérisés par leur latex blanc souvent irritant et leurs inflorescences particulières appelées cyathes. Contrairement à certaines espèces dangereuses du genre comme Euphorbia pulcherrima ou les espèces succulentes ornementales, E. hirta présente une toxicité modérée et constitue l'une des plantes médicinales les plus utilisées dans les médecines traditionnelles tropicales. Localement appelée « Malonmen », cette herbe adventice est documentée dans le Sud et la Grand'Anse principalement pour ses propriétés antidiarrhéiques, antiasthmatiques et antimicrobiennes, particulièrement contre les amibes."
+  },
+  "toxicologie": {
+    "niveau": "",
+    "details": "E. hirta présente une toxicité généralement faible mais nécessite certaines précautions d'usage. Le latex peut provoquer des irritations cutanées et oculaires par contact direct. Un surdosage peut entraîner des effets gastro-intestinaux indésirables (diarrhée paradoxale, vomissements) dus aux composés irritants. Une prudence particulière est recommandée chez la femme enceinte, l'enfant et en cas de pathologies rénales ou hépatiques préexistantes. La préparation doit éviter les concentrations excessives et privilégier les infusions légères aux décoctions prolongées."
+  },
+  "conservation": {
+    "menaces": "E. hirta ne présente aucune préoccupation de conservation, étant une espèce adventice abondante et largement distribuée. Sa nature opportuniste et sa forte capacité de reproduction lui permettent de maintenir des populations stables même dans les environnements perturbés. Son caractère de « mauvaise herbe » en fait au contraire une ressource médicinale facilement accessible.",
+    "valeur": "Localement, E. hirta représente une ressource médicinale de proximité sans valeur commerciale significative mais d'importance socio-sanitaire notable pour les communautés rurales. Internationalement, elle fait l'objet d'un intérêt pharmaceutique croissant, avec des recherches sur ses composés bioactifs pour le développement de phytomédicaments standardisés, particulièrement dans le domaine des troubles respiratoires et des infections gastro-intestinales."
+  },
+  "recherche": {
+    "nb_articles": "~1000 (estimation)",
+    "details": "Les recherches sur E. hirta se concentrent actuellement sur la caractérisation de ses mécanismes d'action anti-inflammatoires et antimicrobiens, avec près de 1000 publications référencées. Les perspectives incluent le développement de formulations standardisées pour les troubles respiratoires, l'évaluation de son potentiel contre les parasitoses intestinales, et l'optimisation des protocoles d'extraction de ses principes actifs. Des essais cliniques contrôlés restent nécessaires pour valider les usages traditionnels et établir des posologies sécurisées.",
+    "lien_pubmed": "",
+    "lien_scholar": "",
+    "lien_tramil": ""
+  },
+  "references": "Huang, L. et al. (2012). Anti-inflammatory activity of Euphorbia hirta extract. Journal of Ethnopharmacology. PMID: 22696006. Singh, G.D. et al. (2010). Pharmacological evaluation of Euphorbia hirta for antiasthmatic activity. Fitoterapia. PMID: 21234313. Lanhers, M.C. et al. (1991). Anti-inflammatory and analgesic effects of an aqueous extract of Euphorbia hirta. Planta Medica. PMID: 1839431. Kumar, S. et al. (2010). Antimicrobial activity and phytochemical analysis of Euphorbia hirta. Indian Journal of Pharmaceutical Sciences. PMID: 20041220. POWO (2024). Plants of the World Online. Kew Science. https://powo.science.kew.org/ TRAMIL (2024). Euphorbia hirta. www.tramil.net",
+  "aRetenir": "🟢 À retenir — Malonmen : est utilisee en medecine traditionnelle avec un bon profil de securite aux doses courantes. Les usages presentes reposent sur des donnees ethnobotaniques et scientifiques publiees, mais ne constituent pas une prescription. Consulter un professionnel de sante avant tout usage therapeutique. Les auteurs declinent toute responsabilite quant a un usage inapproprie.",
+  "images": {
+    "principale": "images/374_Euphorbia_hirta-001.jpg",
+    "galerie": [
+      "images/374_Euphorbia_hirta-001.jpg"
+    ]
+  },
+  "source": "plantes_full.json"
+}

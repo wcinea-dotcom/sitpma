@@ -1,0 +1,58 @@
+{
+  "id_plante": "plt-6602",
+  "code": "plt-6602",
+  "no_espece": "",
+  "no_famille": "66",
+  "famille": "Pipéracées",
+  "description_famille": "",
+  "identite": {
+    "genre": "Piper",
+    "espece": "hispidum",
+    "nom_scientifique": "Piper hispidum Sw.",
+    "synonymes": "Artanthe scabra",
+    "nom_francais": "Queue de rat",
+    "nom_creole": "Ti siwo",
+    "nom_anglais": "Shrubby Pepper"
+  },
+  "morphologie": {
+    "description": "P. hispidum est un arbuste de taille moyenne, typique des altitudes moyennes des Départements du Sud et de la Grand'Anse, reconnaissable à son port dressé et à son parfum aromatique caractéristique. Tiges. Les tiges sont dressées, ligneuses à la base et herbacées vers le sommet, présentant souvent des nœuds renflés typiques de la famille. L'écorce est rugueuse et brunâtre, dégageant une odeur aromatique au froissement. Les jeunes rameaux sont verts et pubescents. Feuilles. Les feuilles sont alternes, simples, ovales à elliptiques, mesurant 8-15 cm de longueur. Elles présentent une surface rugueuse (hispide, d'où le nom d'espèce), avec des nervures proéminentes et palmées. Le pétiole est court et la base foliaire est cordée. Leur texture coriace et leur parfum aromatique les rendent facilement reconnaissables. Fleurs. Les fleurs sont minuscules, disposées en épis cylindriques denses (chatons) de 5-10 cm de longueur, caractéristiques du genre Piper. Ces inflorescences pendantes apparaissent à l'aisselle des feuilles et ne présentent ni pétales ni sépales distincts. Fruit. Les fruits sont de petites drupes sessiles, serrées le long de l'épi, devenant rougeâtres à maturité. Chaque fruit contient une seule graine. Les parties utilisées sont principalement les feuilles et les tiges jeunes, récoltées de préférence le matin lorsque la concentration en huiles essentielles est maximale.",
+    "ecologie": "P. hispidum est une espèce native des Caraïbes et de l'Amérique tropicale, largement distribuée depuis le Mexique jusqu'au Brésil. En Haïti, elle croît naturellement dans les zones d'altitude moyenne des Départements du Sud et de la Grand'Anse, où elle colonise préférentiellement les lisières forestières, les clairières et les zones perturbées. Cette espèce héliophile tolère une gamme variée de sols tropicaux et présente une bonne capacité de régénération naturelle. Son statut d'espèce commune lui confère une relative sécurité écologique dans la région, bien que la déforestation continue puisse affecter certaines populations locales."
+  },
+  "usages": {
+    "usages_ethnobotaniques": "Dans les Départements du Sud et de la Grand'Anse, P. hispidum occupe une place importante dans la pharmacopée traditionnelle. Les feuilles fraîches sont principalement utilisées en infusion pour traiter les affections respiratoires, particulièrement le rhume et la grippe. La préparation traditionnelle consiste à faire infuser 5 à 10 grammes de feuilles fraîches dans un litre d'eau bouillante pendant 10 à 15 minutes. Cette tisane aromatique est consommée chaude, généralement 2 à 3 fois par jour lors des épisodes infectieux. Les bains de santé constituent un autre usage documenté : les feuilles et jeunes tiges sont bouillies dans une grande quantité d'eau, et la décoction refroidie est utilisée pour des bains thérapeutiques destinés à purifier l'organisme et traiter diverses affections cutanées. L'usage TRAMIL documente également son emploi traditionnel contre la grippe en Haïti, confirmant sa place dans la médecine populaire caribéenne. En Amérique du Sud, notamment au Brésil, des préparations similaires sont utilisées comme analgésiques pour diverses douleurs.",
+    "systemes_concernes": "Respiratoire"
+  },
+  "pharmacologie": {
+    "molecules": "P. hispidum se distingue par sa production remarquable de composés volatils aromatiques, principalement concentrés dans ses feuilles rugueuses. Cette plante synthétise des huiles essentielles riches en terpènes et en composés phénylpropanoïdes, responsables de son parfum caractéristique et de ses propriétés antimicrobiennes. Les feuilles contiennent également des fibres cellulosiques importantes et des traces de minéraux essentiels comme le potassium, le calcium et le magnésium, reflétant l'adaptation de la plante aux sols tropicaux variés des Caraïbes. Les principaux composés secondaires identifiés dans P. hispidum comprennent : des amides piquants (responsables de la sensation de picotement), du dillapiol et du safrol (composés aromatiques des huiles essentielles), des alcaloïdes pipéridiques, des flavonoïdes (quercétine, kaempférol), des saponines triterpéniques, des lignanes et des terpénoïdes volatils (Moreira et al., 2006 — doi:10.1016/j.phytochem.2006.07.006). Une étude brésilienne a démontré que l'huile essentielle de P. hispidum présente une activité antifongique significative contre Candida albicans et d'autres champignons pathogènes (Silva et al., 2014 — PMID: 25456327). Ces molécules remplissent des fonctions de défense multiples pour la plante. Les amides piquants et les composés aromatiques volatils découragent l'herbivorie et protègent contre les pathogènes fongiques et bactériens dans l'environnement tropical humide. Le dillapiol présent dans les tissus foliaires agit comme un puissant répulsif contre les insectes phytophages. Ces mêmes composés, une fois utilisés par l'humain, produisent les effets biologiques documentés : les amides exercent une action antispasmodique sur les muscles lisses, les huiles essentielles manifestent des propriétés antimicrobiennes et les flavonoïdes contribuent aux effets anti-inflammatoires observés en médecine traditionnelle.",
+    "posologie": "La médecine populaire haïtienne utilise traditionnellement des infusions de feuilles à raison de 5 grammes par litre d'eau, consommées 1 à 2 fois par jour selon les sources ethnobotaniques locales. Cependant, aucune posologie cliniquement validée n'est disponible pour P. hispidum dans la littérature scientifique internationale. Les pratiques traditionnelles documentées localement ne sont pas standardisées et varient selon les préparateurs et les régions. Les études pharmacologiques publiées se limitent aux extraits et huiles essentielles testés in vitro, sans établir de correspondance avec des dosages thérapeutiques humains validés cliniquement."
+  },
+  "nutrition": {
+    "introduction": "Piper hispidum Sw. (syn. Artanthe scabra) est un arbuste aromatique natif des Caraïbes et de l'Amérique tropicale, documenté dans les Départements du Sud et de la Grand'Anse. Il appartient à la famille des Pipéracées, une famille tropicale principalement constituée d'herbes et d'arbustes remarquable par ses propriétés médicinales. Cette famille se caractérise par une signature phytochimique dominée par les alcaloïdes pipéridiques (pipérine), les huiles essentielles aromatiques (safrol, eugénol, dillapiol), les lignanes et les amides, ciblant préférentiellement les systèmes respiratoire, digestif et gynécologique. Les genres Piper et Peperomia constituent les représentants majeurs de cette famille en Haïti, largement utilisés en médecine traditionnelle pour leurs propriétés antimicrobiennes, anti-inflammatoires et antispasmodiques. Il convient de noter que certaines espèces renferment du safrol, un composé cancérigène potentiel, exigeant des précautions dans l'usage prolongé. Au sein de cette famille, P. hispidum fait partie du vaste genre Piper, qui regroupe plus de 1000 espèces tropicales incluant le poivre noir (Piper nigrum), toutes caractérisées par leurs amides piquants et leurs huiles essentielles aux propriétés bioactives remarquables. Dans la tradition haïtienne, P. hispidum est principalement utilisé comme plante médicinale pour les affections respiratoires et dans les bains de santé."
+  },
+  "toxicologie": {
+    "niveau": "",
+    "details": "P. hispidum présente un profil de sécurité favorable aux doses médicinales usuelles. Les précautions concernent principalement l'usage prolongé ou à doses élevées, qui pourrait provoquer une hypotension excessive chez les personnes prédisposées ou celles prenant déjà des antihypertenseurs. La présence de safrol dans certains extraits impose une prudence particulière lors d'un usage chronique, ce composé étant classé comme cancérigène potentiel. Les femmes enceintes et allaitantes devraient éviter son usage par manque de données de sécurité spécifiques. L'huile essentielle concentrée peut s'avérer irritante pour les muqueuses à forte concentration, justifiant son usage dilué en préparations traditionnelles."
+  },
+  "conservation": {
+    "menaces": "P. hispidum bénéficie d'un statut de préoccupation mineure sur le plan conservatoire en raison de sa large distribution géographique et de sa capacité d'adaptation aux milieux perturbés. Sa nature commune dans les Départements du Sud et de la Grand'Anse lui confère une relative sécurité écologique. Néanmoins, la pression anthropique croissante sur les écosystèmes forestiers haïtiens pourrait affecter certaines populations locales à long terme. La préservation de ses habitats naturels reste importante pour maintenir la diversité génétique de l'espèce et assurer la pérennité de sa récolte traditionnelle.",
+    "valeur": "La valeur économique de P. hispidum reste principalement locale et liée à son usage médicinal traditionnel. Dans les Départements du Sud et de la Grand'Anse, elle constitue une ressource thérapeutique accessible et peu coûteuse pour les communautés rurales. Son potentiel commercial reste limité par l'absence de standardisation des préparations et le manque d'études cliniques rigoureuses. La recherche internationale croissante sur ses propriétés antifongiques pourrait ouvrir des perspectives de valorisation dans l'industrie pharmaceutique ou cosmétique, particulièrement pour le développement d'antifongiques naturels."
+  },
+  "recherche": {
+    "nb_articles": "~50 (estimation)",
+    "details": "Les recherches sur P. hispidum restent limitées avec environ 50 publications indexées sur PubMed. Les études récentes se concentrent principalement sur l'activité antifongique de son huile essentielle et l'identification de ses composés bioactifs. Les perspectives de recherche incluent l'évaluation clinique de ses propriétés respiratoires traditionnellement revendiquées, l'étude de ses mécanismes anti-inflammatoires et le développement de préparations standardisées. La caractérisation complète de son profil de sécurité toxicologique constitue également une priorité pour valider son usage thérapeutique à plus large échelle.",
+    "lien_pubmed": "",
+    "lien_scholar": "",
+    "lien_tramil": ""
+  },
+  "references": "Moreira, D.L. et al. (2006). Antileishmanial activity of benzofuranone derivatives from Piper species. Phytochemistry. doi:10.1016/j.phytochem.2006.07.006 Silva, W.C. et al. (2014). Antifungal activity of Piper hispidum essential oil against Candida species. PMID: 25456327 TRAMIL (2024). Piper hispidum. www.tramil.net/en/plant/piper-hispidum POWO (2024). Piper hispidum Sw. Plants of the World Online, Kew Science.",
+  "aRetenir": "🟢 À retenir — Ti siwo : est utilisee en medecine traditionnelle avec un bon profil de securite aux doses courantes. Les usages presentes reposent sur des donnees ethnobotaniques et scientifiques publiees, mais ne constituent pas une prescription. Consulter un professionnel de sante avant tout usage therapeutique. Les auteurs declinent toute responsabilite quant a un usage inapproprie.",
+  "images": {
+    "principale": "images/652_Piper_hispidum-001.jpg",
+    "galerie": [
+      "images/652_Piper_hispidum-001.jpg",
+      "images/652_Piper_hispidum-002.jpg",
+      "images/652_Piper_hispidum-003.jpg"
+    ]
+  },
+  "source": "plantes_full.json"
+}

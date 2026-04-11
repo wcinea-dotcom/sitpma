@@ -1,0 +1,57 @@
+{
+  "id_plante": "plt-3102",
+  "code": "plt-3102",
+  "no_espece": "",
+  "no_famille": "31",
+  "famille": "Combrétacées",
+  "description_famille": "",
+  "identite": {
+    "genre": "Terminalia",
+    "espece": "catappa",
+    "nom_scientifique": "Terminalia catappa L.",
+    "synonymes": "Terminalia badamia",
+    "nom_francais": "Badamier",
+    "nom_creole": "Zanman",
+    "nom_anglais": "Tropical Almond"
+  },
+  "morphologie": {
+    "description": "T. catappa est un grand arbre tropical pouvant atteindre 20 à 25 mètres de hauteur, facilement reconnaissable à son port étalé et à ses feuilles caractéristiques. Tronc et écorce. Le tronc est droit, pouvant atteindre un diamètre considérable avec l'âge. L'écorce est grisâtre, lisse chez les jeunes sujets, devenant rugueuse et fissurée avec la maturité. Dans les départements du Sud et de la Grand'Anse, l'écorce est parfois utilisée à des fins thérapeutiques. Feuilles. Les feuilles constituent l'élément le plus distinctif de l'espèce : grandes (15-25 cm de longueur), obovales, coriaces, disposées en rosettes aux extrémités des branches. Elles présentent des nervures parallèles bien marquées et prennent une coloration rouge-orangée spectaculaire avant de tomber, créant un tapis coloré au pied de l'arbre. Cette coloration automnale est due à l'accumulation d'anthocyanes lors de la dégradation de la chlorophylle. Fleurs et fruits. Les fleurs sont petites, verdâtres, disposées en épis axillaires. Les fruits sont des drupes aplaties, ovoïdes, de 4-7 cm de longueur, d'abord verts puis brunâtres à maturité. Chaque fruit renferme une amande comestible riche en huile, très appréciée localement et constituant l'usage alimentaire principal de l'espèce. Les parties utilisées comprennent principalement les feuilles pour les usages médicinaux, l'écorce occasionnellement, et les amandes des fruits pour l'alimentation.",
+    "ecologie": "Originaire d'Asie du Sud-Est et du Pacifique occidental, T. catappa s'est naturalisé dans toutes les régions tropicales du monde. En Haïti, particulièrement dans les départements du Sud et de la Grand'Anse, il s'est parfaitement adapté aux conditions de basse altitude, colonisant les zones côtières, les cours d'écoles et les espaces urbains. L'espèce présente une remarquable tolérance à la salinité, aux sols pauvres et aux périodes sèches. Sa capacité d'adaptation et sa croissance rapide en font parfois une espèce envahissante nécessitant un contrôle de son expansion dans certains écosystèmes sensibles."
+  },
+  "usages": {
+    "usages_ethnobotaniques": "Les usages de T. catappa sont documentés dans le Sud et la Grand'Anse principalement pour les troubles cardiovasculaires et l'alimentation. Les feuilles sont utilisées contre l'hypertension artérielle, préparées en infusion simple : 4-5 feuilles fraîches pour une tasse d'eau bouillante, consommée 2-3 fois par jour. Cette même préparation est employée pour ses propriétés antioxydantes et hépatoprotectrices. Les amandes des fruits, extraites par cassage manuel, sont consommées crues comme collation nutritive ou incorporées dans des préparations culinaires locales. L'écorce, moins fréquemment utilisée, est préparée en décoction pour ses propriétés anti-inflammatoires. L'usage dans la région TRAMIL confirme l'emploi en Guadeloupe pour l'hypertension, tandis qu'en Inde, les amandes constituent un aliment traditionnel et la plante est valorisée pour ses propriétés antidiabétiques.",
+    "systemes_concernes": "Cardiovasculaire"
+  },
+  "pharmacologie": {
+    "molecules": "Le badamier se caractérise par une composition chimique remarquablement riche en composés antioxydants. Les amandes des fruits contiennent 40-60% d'huile riche en acides gras insaturés, principalement l'acide oléique et l'acide linoléique, conférant leur valeur nutritionnelle élevée. Les feuilles accumulent des quantités importantes de vitamine C et de minéraux, particulièrement du potassium et du magnésium. Cette richesse en antioxydants naturels explique la coloration intense des feuilles automnales et leur résistance remarquable aux stress environnementaux tropicaux. Les principaux composés secondaires identifiés dans T. catappa comprennent : des tanins hydrolysables (punicalagine, punicine, terflavine), des flavonoïdes (quercétine, kaempférol, catéchine), des triterpènes (acide ursolique, acide oléanolique), des saponines et des polyphénols complexes (Lin et al., 2000 — PMID: 11062152, Anand et al., 2015 — doi:10.1016/j.jep.2015.02.057). La punicalagine, un tanin ellagique majeur, représente l'un des composés les plus concentrés et les plus bioactifs de la plante. Ces molécules remplissent des fonctions de protection essentielles pour l'arbre tropical. Les tanins protègent les tissus contre les pathogènes fongiques et bactériens particulièrement agressifs en climat humide, while les flavonoïdes absorbent les rayonnements UV intenses et neutralisent les radicaux libres générés par le stress photooxydatif. Les triterpènes dans l'écorce découragent les attaques d'insectes foreurs. Ces mêmes composés, une fois ingérés par l'humain, produisent les effets biologiques documentés : piégeage des radicaux libres, modulation des voies inflammatoires et protection cellulaire. Les études restent principalement conduites in vitro et sur modèles animaux, nécessitant des essais cliniques humains pour confirmer l'efficacité thérapeutique.",
+    "posologie": "Aucune posologie cliniquement validée n'est disponible pour T. catappa. Les pratiques traditionnelles documentées localement utilisent empiriquement des tisanes de feuilles sans standardisation précise. Les études publiées mentionnent des extraits standardisés à des concentrations variables selon les protocoles expérimentaux, mais ces données ne sont pas transposables à l'usage traditionnel. La consommation des amandes ne présente pas de limitation particulière dans le cadre d'une alimentation équilibrée."
+  },
+  "nutrition": {
+    "introduction": "Terminalia catappa L. (syn. Terminalia badamia) est un grand arbre exotique pantropical, abondant dans les Départements du Sud et de la Grand'Anse où il a été introduit. Il appartient à la famille des Combrétacées, une famille principalement arborescente reconnue pour ses riches usages alimentaires et médicinaux. Cette famille se distingue par sa signature phytochimique dominée par les flavonoïdes, les tanins condensés, l'acide gallique et l'acide ellagique, ciblant préférentiellement les systèmes digestif et cardiovasculaire. Il convient de noter qu'au sein de cette famille, certaines espèces renferment des principes actifs très puissants ou potentiellement toxiques exigeant une préparation adéquate ou un dosage strict, bien que le badamier lui-même présente un profil de sécurité favorable. Au sein des Combrétacées, le genre Terminalia compte plusieurs espèces d'intérêt thérapeutique, notamment Terminalia arjuna utilisé en médecine ayurvédique pour les troubles cardiovasculaires, et Terminalia chebula, l'un des composants du triphala. Terminalia catappa est largement valorisé pour ses propriétés antioxydantes, hépatoprotectrices et cardiovasculaires, ainsi que pour ses amandes comestibles."
+  },
+  "toxicologie": {
+    "niveau": "",
+    "details": "T. catappa présente un profil de sécurité favorable avec une toxicité très faible. Aucun effet indésirable majeur n'est rapporté dans la littérature pour les doses traditionnelles. Cependant, par prudence, l'usage intensif est déconseillé pendant la grossesse en l'absence d'études spécifiques. Des interactions théoriques sont possibles avec les médicaments antidiabétiques (effet additif de réduction glycémique) et les traitements métabolisés par le foie, bien qu'aucun cas clinique ne soit documenté. La richesse en tanins peut théoriquement réduire l'absorption de certains minéraux en cas d'usage prolongé à fortes doses."
+  },
+  "conservation": {
+    "menaces": "En raison de son caractère exotique et de sa capacité d'expansion, T. catappa nécessite un contrôle de son invasion plutôt que des mesures de conservation. Dans les départements du Sud et de la Grand'Anse, l'espèce peut concurrencer la végétation native dans certains milieux fragiles. Sa gestion passe par une surveillance de sa propagation et l'encouragement de la plantation d'espèces natives équivalentes pour l'ombrage et l'ornementation.",
+    "valeur": "Localement, T. catappa présente une valeur économique modeste principalement liée à la commercialisation occasionnelle des amandes et à son usage ornemental pour l'ombrage. Internationalement, l'espèce développe un intérêt croissant pour l'industrie nutraceutique en raison de sa richesse en antioxydants. Les extraits de feuilles font l'objet de recherches pour des applications en cosmétique et en phytothérapie moderne. Le bois, bien que de qualité moyenne, peut être valorisé localement pour des usages non structuraux."
+  },
+  "recherche": {
+    "nb_articles": "~500 (estimation)",
+    "details": "Avec environ 500 publications référencées, T. catappa fait l'objet d'un intérêt scientifique soutenu. Les recherches actuelles s'orientent vers la standardisation des extraits, l'optimisation des protocoles d'extraction et les essais cliniques humains pour valider les usages traditionnels. Des études récentes explorent le potentiel de la punicalagine comme agent thérapeutique dans les maladies neurodégénératives et certains cancers. Le développement de compléments alimentaires standardisés et l'amélioration des techniques de transformation des amandes constituent des axes de valorisation économique prometteurs.",
+    "lien_pubmed": "",
+    "lien_scholar": "",
+    "lien_tramil": ""
+  },
+  "references": "Anand, A.V. et al. (2015). Terminalia catappa leaf extract and its bioactive compounds: potential antidiabetic agents. Journal of Ethnopharmacology. doi:10.1016/j.jep.2015.02.057 Lin, C.C. et al. (2000). Hepatoprotective effects of Terminalia catappa on carbon tetrachloride-induced liver damage in rats. PMID: 11062152 POWO (2024). Plants of the World Online. Kew Science. www.plantsoftheworldonline.org TRAMIL (2024). Terminalia catappa. www.tramil.net/en/plant/terminalia-catappa",
+  "aRetenir": "🟢 À retenir — Zanman : est utilisee en medecine traditionnelle avec un bon profil de securite aux doses courantes. Les usages presentes reposent sur des donnees ethnobotaniques et scientifiques publiees, mais ne constituent pas une prescription. Consulter un professionnel de sante avant tout usage therapeutique. Les auteurs declinent toute responsabilite quant a un usage inapproprie.",
+  "images": {
+    "principale": "images/312_Terminalia_catappa-001.jpg",
+    "galerie": [
+      "images/312_Terminalia_catappa-001.jpg",
+      "images/312_Terminalia_catappa-002.jpg"
+    ]
+  },
+  "source": "plantes_full.json"
+}

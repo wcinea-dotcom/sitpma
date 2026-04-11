@@ -1,0 +1,58 @@
+{
+  "id_plante": "plt-5901",
+  "code": "plt-5901",
+  "no_espece": "",
+  "no_famille": "59",
+  "famille": "Papavéracées",
+  "description_famille": "Dominant les régions arides et semi-arides du globe, les Papavéracées rassemblent environ 760 espèces réparties en 42 genres, principalement sous forme d'herbes annuelles ou vivaces, plus rarement d'arbustes comme Bocconia. Cette famille se distingue par la production de latex coloré — blanc, jaune ou rouge — riche en alcaloïdes isoquinoliniques aux propriétés pharmacologiques marquées. Parmi les genres alimentaires, citons Papaver (pavot) dont les graines sont consommées en pâtisserie. Les genres à vocation médicinale incluent Chelidonium (chélidoine) pour les affections cutanées, Sanguinaria pour ses propriétés antimicrobiennes, et Argemone largement utilisé en médecine traditionnelle caribéenne malgré sa toxicité. Sur le plan phytochimique, la famille exprime une signature dominée par la berbérine, la sanguinarine, la protopine et autres alcaloïdes benzylisoquinoliniques, ciblant préférentiellement les systèmes oculaire, cutané et digestif. Une vigilance absolue s'impose avec le genre Argemone : ses graines contiennent des alcaloïdes cardiotoxiques responsables d'épidémies d'œdèmes massifs lors de contaminations alimentaires documentées.",
+  "identite": {
+    "genre": "Argemone",
+    "espece": "mexicana",
+    "nom_scientifique": "Argemone mexicana L.",
+    "synonymes": "Argemone spinosa",
+    "nom_francais": "Chardon béni",
+    "nom_creole": "Chadwon",
+    "nom_anglais": "Mexican Poppy"
+  },
+  "morphologie": {
+    "description": "A. mexicana est une herbe dressée pouvant atteindre 60 à 120 cm de hauteur, facilement reconnaissable à ses caractéristiques défensives. Tiges et latex. La tige est robuste, ramifiée, de couleur vert-bleuâtre et couverte d'épines acérées. Toute blessure de la plante libère un latex jaune-orange caractéristique, âcre et collant, qui constitue le principal réservoir d'alcaloïdes de la plante. Feuilles. Les feuilles sont alternes, sessiles, profondément lobées avec des marges épineuses et des nervures blanches saillantes. Leur surface glauque et leur texture coriace reflètent leur adaptation aux conditions xérophiles. Fleurs. Les fleurs sont solitaires, terminales, composées de 4 à 6 pétales jaune vif, froissés dans le bouton, et de nombreuses étamines jaunes. Elles s'épanouissent principalement pendant la saison sèche. Fruit et graines. Le fruit est une capsule ovoïde épineuse de 2 à 4 cm, s'ouvrant par des valves pour libérer de nombreuses petites graines noires réticulées, particulièrement riches en alcaloïdes toxiques. Les parties utilisées traditionnellement sont les racines, les feuilles et, malgré leur dangerosité, occasionnellement les graines.",
+    "ecologie": "Native des régions tropicales et subtropicales d'Amérique, A. mexicana s'est naturalisée dans les Caraïbes où elle colonise préférentiellement les sols perturbés, les friches et les zones rudérales. Dans les Départements du Sud et de la Grand'Anse, elle prospère dans les zones sèches d'altitude faible à moyenne, formant parfois des populations denses le long des routes et dans les terrains vagues. Sa capacité d'adaptation aux sols pauvres et sa résistance à la sécheresse en font une espèce particulièrement commune dans les écosystèmes dégradés."
+  },
+  "usages": {
+    "usages_ethnobotaniques": "Dans les Départements du Sud et de la Grand'Anse, A. mexicana est connue sous le nom de \"Chadwon\" et utilisée principalement par application externe. Les praticiens traditionnels préparent un thé amer des feuilles contre la grippe, bien que cet usage internal reste préoccupant au regard de la toxicité de la plante. L'usage le plus documenté concerne le traitement des verrues par application directe du latex frais sur la lésion. Les racines sont parfois utilisées en décoction très diluée pour leurs propriétés supposées hypotensives, mais cette pratique est déconseillée. Au niveau international, la plante est traditionnellement employée au Mexique pour diverses affections cutanées, confirmant son tropisme tégumentaire.",
+    "systemes_concernes": "Digestif, Oculaire"
+  },
+  "pharmacologie": {
+    "molecules": "Le latex jaune-orange d'A. mexicana concentre des alcaloïdes isoquinoliniques responsables à la fois de sa saveur amère caractéristique et de sa toxicité. Ces composés, principalement la sanguinarine et la berbérine, confèrent au latex ses propriétés antimicrobiennes défensives tout en créant une barrière chimique dissuasive contre les herbivores. Les graines accumulent également des concentrations élevées de ces alcaloïdes, ainsi qu'une huile grasse qui peut se contaminer lors du pressage industriel. Les principaux composés secondaires identifiés dans A. mexicana comprennent : des alcaloïdes isoquinoliniques (sanguinarine, dihydrosanguinarine, berbérine, protopine, allocryptopine), des flavonoïdes (quercétine, kaempférol), des saponines triterpéniques, des tanins condensés et des terpénoïdes volatils (Brahmachari et al., 2013 — PMID: 24199742). Ces molécules remplissent des fonctions de défense sophistiquées pour la plante. La sanguinarine, alcaloïde benzophénanthridinique majeur, perturbe l'intégrité des membranes cellulaires des pathogènes et exerce une activité fongicide et bactéricide protégeant la plante des infections. La berbérine contribue à l'activité antimicrobienne tout en conférant la coloration jaune du latex. Ces mêmes composés, une fois ingérés par l'humain, produisent les effets biologiques documentés : activité antimicrobienne, effets hypotenseurs et antispasmodiques, mais également une toxicité cardiovasculaire et hépatique préoccupante (Singh et al., 2010 — PMID: 20645778).",
+    "posologie": "Aucune posologie cliniquement validée n'est disponible pour A. mexicana en usage interne. Les décoctions traditionnelles faibles de feuilles ou racines existent dans la pharmacopée populaire, mais leur usage est fortement déconseillé en raison du risque d'intoxication. Pour l'usage externe (verrues), l'application ponctuelle de latex frais reste la seule modalité documentée, avec prudence et sur de petites surfaces uniquement."
+  },
+  "nutrition": {
+    "introduction": "Argemone mexicana L. (syn. Argemone spinosa) est une herbe annuelle native commune des régions sèches d'Haïti, largement répandue dans les Départements du Sud et de la Grand'Anse. Elle appartient à la famille des Papavéracées, reconnue pour ses latex colorés riches en alcaloïdes aux propriétés pharmacologiques puissantes. Au sein de cette famille, elle fait partie du genre Argemone, qui regroupe une trentaine d'espèces d'herbes épineuses des régions chaudes, toutes caractérisées par leur latex jaune-orange et leurs alcaloïdes isoquinoliniques. Malgré son usage médicinal traditionnel documenté contre la grippe et les affections cutanées, A. mexicana présente une toxicité significative qui limite considérablement ses applications thérapeutiques modernes."
+  },
+  "toxicologie": {
+    "niveau": "toxic",
+    "details": "A. mexicana présente une toxicité significative nécessitant des précautions strictes. Les graines et l'huile contaminée peuvent provoquer des œdèmes massifs, une insuffisance cardiaque et une hépatotoxicité sévère, comme documenté lors d'épidémies liées à la contamination d'huiles alimentaires par des graines d'Argemone. La plante est contre-indiquée en usage interne, particulièrement chez les enfants et femmes enceintes. L'usage externe doit se limiter à de petites surfaces et éviter les muqueuses. Cette espèce doit être classée \"haut risque\" et son usage thérapeutique nécessite une supervision médicale."
+  },
+  "conservation": {
+    "menaces": "A. mexicana ne présente aucune préoccupation de conservation — au contraire, son caractère envahissant dans certaines régions en fait parfois une espèce indésirable. Sa large distribution géographique et sa capacité d'adaptation aux milieux perturbés garantissent sa pérennité. Les populations des Départements du Sud et de la Grand'Anse sont stables et abondantes.",
+    "valeur": "La valeur économique d'A. mexicana reste limitée en raison de sa toxicité. Localement, elle ne génère aucun revenu significatif, son usage se limitant à la pharmacopée traditionnelle domestique. Au niveau international, certains composés isolés comme la berbérine font l'objet de recherches pharmaceutiques, mais l'espèce elle-même n'est pas cultivée commercialement pour cette fin."
+  },
+  "recherche": {
+    "nb_articles": "~1000 (estimation)",
+    "details": "A. mexicana fait l'objet de nombreuses publications scientifiques (environ 1000 références indexées) portant principalement sur sa composition chimique et sa toxicologie. Les recherches actuelles s'orientent vers l'isolement et la purification de ses alcaloïdes pour des applications pharmaceutiques contrôlées, ainsi que sur le développement de méthodes de détoxification pour prévenir les contaminations alimentaires. L'évaluation de son potentiel antimicrobien contre des souches multirésistantes constitue également un axe de recherche prometteur.",
+    "lien_pubmed": "",
+    "lien_scholar": "",
+    "lien_tramil": ""
+  },
+  "references": "Brahmachari, G. et al. (2013). Argemone mexicana: chemical and pharmacological aspects. Revista Brasileira de Farmacognosia 23(4): 559-567. PMID: 24199742. Kosina, P. et al. (2004). Interaction of isoquinoline alkaloids with human liver microsomal cytochromes P450. Mutation Research 567(2-3): 123-132. PMID: 15070169. Singh, B. et al. (2010). A review on Argemone mexicana Linn - An Indian medicinal plant. Oriental Pharmacy and Experimental Medicine 10(1): 1-15. PMID: 20645778.",
+  "aRetenir": "🟠 À retenir — Chadwon : est une plante a toxicite documentee. Tout usage interne non encadre est formellement deconseille. En cas d'ingestion accidentelle, consulter immediatement un service d'urgence. Ces informations sont destinees a l'enseignement et a la recherche uniquement. Les auteurs declinent toute responsabilite quant a un usage inapproprie.",
+  "images": {
+    "principale": "images/581_Argemone_mexicana-001.jpg",
+    "galerie": [
+      "images/581_Argemone_mexicana-001.jpg",
+      "images/581_Argemone_mexicana-002.jpg",
+      "images/581_Argemone_mexicana-003.jpg"
+    ]
+  },
+  "source": "plantes_full.json"
+}

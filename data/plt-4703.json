@@ -1,0 +1,59 @@
+{
+  "id_plante": "plt-4703",
+  "code": "plt-4703",
+  "no_espece": "",
+  "no_famille": "47",
+  "famille": "Malvacées",
+  "description_famille": "",
+  "identite": {
+    "genre": "Ceiba",
+    "espece": "pentandra",
+    "nom_scientifique": "Ceiba pentandra (L.) Gaertn.",
+    "synonymes": "Bombax pentandrum L.",
+    "nom_francais": "Fromager / Kapokier",
+    "nom_creole": "Mapou",
+    "nom_anglais": "Kapok tree"
+  },
+  "morphologie": {
+    "description": "C. pentandra est un arbre géant pouvant atteindre 60 à 70 mètres de hauteur, figurant parmi les plus imposants des forêts tropicales. Il développe un tronc massif pouvant dépasser 3 mètres de diamètre, souvent buttressé à la base par d'impressionnants contreforts triangulaires. Tronc et écorce. Le tronc est cylindrique, droit et souvent couvert d'épines coniques robustes chez les jeunes spécimens. L'écorce est grisâtre, lisse à légèrement rugueuse, et constitue la principale partie médicinale utilisée localement. Avec l'âge, les épines disparaissent progressivement. Feuilles. Les feuilles sont caduques, composées palmées à 5-7 folioles lancéolées. Elles tombent en saison sèche, donnant à l'arbre un aspect décharné caractéristique de novembre à mars dans le contexte climatique des départements du Sud et de la Grand'Anse. Fleurs. La floraison intervient avant la feuillaison, de janvier à mars. Les fleurs sont grandes, blanches à rosées, à 5 pétales soyeux, regroupées en cymes terminales. Elles s'ouvrent la nuit et dégagent un parfum intense attirant les chauves-souris pollinisatrices. Fruits. Les fruits sont des capsules oblongues de 10-15 cm, déhiscentes à maturité. Ils libèrent de nombreuses graines brunes enveloppées dans une bourre soyeuse imperméable : le kapok, fibre naturelle aux propriétés isolantes exceptionnelles. Les parties utilisées sont principalement l'écorce, les feuilles et les racines.",
+    "ecologie": "C. pentandra est originaire d'Amérique tropicale et s'est naturellement dispersé dans toute la zone intertropicale grâce à ses graines à kapok transportées par le vent sur de longues distances. En Haïti, il colonise les forêts sèches et humides de basse et moyenne altitude, tolérant des précipitations annuelles variables de 800 à 2000 mm. L'espèce s'adapte à divers sols mais préfère les terrains bien drainés. Sa croissance rapide et sa longévité exceptionnelle (plusieurs siècles) en font un élément structurant des écosystèmes forestiers. Cependant, les grands spécimens deviennent rares en Haïti en raison de la déforestation."
+  },
+  "usages": {
+    "usages_ethnobotaniques": "Le mapou occupe une position unique dans la pharmacopée des Départements du Sud et de la Grand'Anse, documenté principalement pour ses propriétés diurétiques, antidiabétiques et respiratoires. L'écorce, partie la plus utilisée, se prépare en décoction pour traiter le diabète, l'asthme et comme diurétique dans les œdèmes. Les feuilles s'emploient en macération contre la fièvre et les maux de tête. Les racines, d'usage plus confidentiel, s'utilisent en décoction dans certains troubles rénaux. Au-delà des usages médicinaux, l'arbre revêt une dimension spirituelle majeure dans la culture haïtienne : considéré comme demeure des esprits ancestraux, il fait l'objet de rituels respectueux et ne doit jamais être coupé sans autorisation traditionnelle. TRAMIL documente spécifiquement l'usage de la décoction d'écorce comme diurétique (www.tramil.net).",
+    "systemes_concernes": "Respiratoire, Endocrinien"
+  },
+  "pharmacologie": {
+    "molecules": "Ce qui caractérise Le mapou, c'est sa production de fibres de kapok, composées principalement de cellulose (64%) et de lignine (13%), conférant à ces fibres leur légèreté exceptionnelle et leur imperméabilité naturelle (Hassanin et al., 2016 — DOI: 10.1186/s40691-016-0063-0). L'écorce, partie principalement utilisée en médecine traditionnelle, concentre des acides gras comme l'acide linoléique, contribuant probablement aux propriétés anti-inflammatoires documentées. Les jeunes feuilles renferment des composés nutritifs : protéines (jusqu'à 20% de la matière sèche), calcium et fer, expliquant leur consommation occasionnelle comme légume-feuille d'appoint. Les principaux composés secondaires identifiés dans C. pentandra comprennent : la céibine (alcaloïde spécifique), la quercétine (flavonoïde antioxydant), le lupéol (triterpène anti-inflammatoire), diverses saponines à propriétés tensioactives et des tanins condensés astringents (Saleem et al., 2005 — PMID: 16008117). L'écorce concentre particulièrement ces métabolites bioactifs, ce qui justifie son usage thérapeutique prédominant. Ces molécules remplissent des fonctions de défense vitales pour cet arbre géant. La céibine et les saponines protègent contre les insectes foreurs s'attaquant au tronc massif. Les tanins de l'écorce repoussent les herbivores. Le lupéol contribue à la cicatrisation des blessures sur le tronc. Ces mêmes composés, une fois ingérés par l'humain, produisent les effets biologiques documentés : la quercétine exerce son activité antioxydante, le lupéol son effet anti-inflammatoire via l'inhibition de COX-2, et les saponines facilitent l'absorption des autres principes actifs. Ces observations restent principalement issues d'études in vitro et sur modèles animaux.",
+    "posologie": "Les études pharmacologiques rapportent une efficacité des extraits d'écorce de C. pentandra à des doses de 100-200 mg/kg de poids corporel chez le rat pour l'activité antidiabétique (Saleem et al., 2005 — PMID: 16008117). Cependant, aucune posologie cliniquement validée n'est établie pour l'humain. Les pratiques traditionnelles documentées dans le Sud et la Grand'Anse utilisent généralement des décoctions d'écorce à raison d'une poignée (environ 20-30g) pour un litre d'eau, mais ces préparations ne sont pas standardisées et leur concentration en principes actifs varie considérablement selon la provenance et l'âge de l'écorce."
+  },
+  "nutrition": {
+    "introduction": "Ceiba pentandra (L.) Gaertn. (syn. Bombax pentandrum L.) est un grand arbre natif des forêts sèches et humides de basse et moyenne altitude dans les Départements du Sud et de la Grand'Anse. Il appartient à la famille des Malvacées, vaste famille de plus de 4 000 espèces incluant des plantes aux usages multiples : alimentaires comme le cacao (Theobroma cacao), l'okra (Abelmoschus esculentus) et l'hibiscus à feuilles de manioc (Hibiscus manihot), médicinales comme les différentes espèces de Sida et d'Abutilon, et ornementales comme les hibiscus. Cette famille se caractérise phytochimiquement par la richesse en mucilages thérapeutiques, flavonoïdes antioxydants, tanins astringents et anthocyanes colorantes comme la malvidine. Elle cible préférentiellement les systèmes respiratoire, digestif et tégumentaire. Une vigilance s'impose avec certaines espèces de cette famille : le cacao renferme de la théobromine pouvant causer des palpitations à forte dose, et le coton contient du gossypol toxique pour certains animaux. Le mapou occupe une place exceptionnelle dans la culture haïtienne : arbre sacré aux dimensions spirituelles profondes, il sert aussi d'arbre d'ombrage et de source de fibres de kapok, tout en offrant des usages médicinaux documentés pour le diabète, l'asthme et la fièvre."
+  },
+  "toxicologie": {
+    "niveau": "🟢 non toxique",
+    "details": "C. pentandra présente un profil de sécurité favorable aux doses traditionnelles, justifiant son classement 🟢 non toxique. Aucun effet indésirable majeur n'est rapporté dans la littérature pour l'usage médicinal de l'écorce et des feuilles. La principale précaution concerne les fibres de kapok : leur inhalation peut provoquer une irritation pulmonaire chez les personnes sensibles, particulièrement lors de la manipulation industrielle. Les femmes enceintes et allaitantes doivent éviter l'usage médicinal par précaution, les données de sécurité étant insuffisantes pour ces populations. Aucune interaction médicamenteuse documentée."
+  },
+  "conservation": {
+    "menaces": "L'espèce fait face à une pression importante en Haïti. Les grands spécimens anciens, porteurs de la plus forte valeur écologique et culturelle, disparaissent rapidement sous la pression de l'urbanisation et de l'exploitation forestière non durable. La conservation des mapous centenaires constitue une priorité patrimoniale, ces arbres géants servant d'habitat à de nombreuses espèces épiphytes et d'animaux. Des initiatives de reboisement incluant C. pentandra sont nécessaires pour maintenir cette espèce emblématique dans les paysages du Sud et de la Grand'Anse.",
+    "valeur": "Le kapok de C. pentandra représentait historiquement une fibre commerciale importante pour le rembourrage de matelas et gilets de sauvetage, avant d'être supplanté par les fibres synthétiques. Le bois, très léger mais peu durable, s'utilise localement pour la fabrication de pirogues et d'objets artisanaux. L'écorce médicinale possède un potentiel économique sous-exploré pour l'industrie phytopharmaceutique. Le tourisme écologique et culturel autour des mapous sacrés pourrait constituer une source de revenus durables pour les communautés locales."
+  },
+  "recherche": {
+    "nb_articles": "",
+    "details": "Les recherches sur C. pentandra se concentrent principalement sur l'activité antidiabétique de l'écorce et les propriétés des fibres de kapok. Des études cliniques contrôlées sont nécessaires pour valider l'efficacité et la sécurité des préparations traditionnelles chez l'humain. Le potentiel des fibres de kapok dans les biomatériaux écologiques suscite un intérêt croissant. L'étude de la biodiversité associée aux mapous anciens pourrait révéler de nouvelles espèces endémiques et guider les stratégies de conservation. La documentation des pratiques spirituelles associées au mapou constitue également un enjeu ethnobotanique important.",
+    "lien_pubmed": "",
+    "lien_scholar": "",
+    "lien_tramil": "https://www.tramil.net/en/plant/ceiba-pentandra"
+  },
+  "references": "Saleem, R., et al. (2005). Hypotensive, hypoglycaemic and toxicological studies on the flavonol C-glycoside shamimin from Bombax ceiba. Planta Medica, 71(4), 331-334. PMID: 16008117. Hassanin, A.H., et al. (2016). Eco-friendly natural fiber reinforced composites: a review of processing and properties. Journal of Engineered Fibers and Fabrics, 11(2). DOI: 10.1186/s40691-016-0063-0. POWO (2024). Plants of the World Online. Kew Science. https://powo.science.kew.org/ TRAMIL (2024). Ceiba pentandra. https://www.tramil.net/en/plant/ceiba-pentandra",
+  "aRetenir": "🟢 À retenir — Mapou : est une espece peu ou non etudiee scientifiquement. Les proprietes presentees reposent sur des analogies avec des especes proches et les usages traditionnels documentes localement. La conservation de cette espece prime sur toute valorisation. Les auteurs declinent toute responsabilite quant a un usage inapproprie.",
+  "images": {
+    "principale": "images/473_Ceiba_pentandra-001.jpg",
+    "galerie": [
+      "images/473_Ceiba_pentandra-001.jpg",
+      "images/473_Ceiba_pentandra-002.jpg",
+      "images/473_Ceiba_pentandra-003.jpg",
+      "images/473_Ceiba_pentandra-004.jpg"
+    ]
+  },
+  "source": "plantes_full.json"
+}

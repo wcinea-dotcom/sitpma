@@ -1,0 +1,57 @@
+{
+  "id_plante": "plt-0905",
+  "code": "plt-0905",
+  "no_espece": "",
+  "no_famille": "9",
+  "famille": "Apocynacées",
+  "description_famille": "",
+  "identite": {
+    "genre": "Plumeria",
+    "espece": "subsessilis",
+    "nom_scientifique": "Plumeria subsessilis",
+    "synonymes": "Plumeria berteroi",
+    "nom_francais": "Frangipanier",
+    "nom_creole": "Franjipanye",
+    "nom_anglais": "Frangipani"
+  },
+  "morphologie": {
+    "description": "P. subsessilis est un arbre de basse altitude, de taille moyenne, particulièrement adapté aux conditions climatiques des départements méridionaux d'Haïti. Tronc et écorce. Le tronc présente une écorce grise à brune, lisse chez les jeunes sujets, devenant plus rugueuse avec l'âge. Toute blessure de l'écorce ou des branches libère immédiatement un latex blanc épais, caractéristique du genre Plumeria et responsable des propriétés défensives de l'arbre. Feuilles. Les feuilles sont simples, alternes, oblongues à elliptiques, coriaces et persistantes. Elles présentent une nervation pennée bien visible et dégagent une saveur âcre caractéristique lorsqu'on les mâche — signe de la présence de composés défensifs actifs. Cette âcreté constitue un mécanisme de protection contre l'herbivorie. Fleurs. Les fleurs constituent l'attrait principal de l'espèce : regroupées en cymes terminales, elles présentent cinq pétales blancs ou crème, souvent avec un cœur jaune, et dégagent un parfum intense et suave, particulièrement prononcé en fin de journée pour attirer les pollinisateurs nocturnes. Fruit. Le fruit est un double follicule allongé contenant des graines ailées facilitant la dispersion par le vent. Les parties utilisées en médecine traditionnelle sont principalement les feuilles et les fleurs, le latex étant généralement évité en raison de sa toxicité reconnue.",
+    "ecologie": "P. subsessilis est natif des Caraïbes et de l'Amérique tropicale, avec une distribution naturelle incluant Haïti. Dans les Départements du Sud et de la Grand'Anse, l'espèce se développe spontanément en basse altitude, particulièrement dans les zones côtières et les milieux semi-arides. Elle tolère bien la sécheresse et les sols pauvres, caractéristiques qui expliquent son adaptation aux conditions climatiques locales. L'arbre préfère les expositions ensoleillées et supporte mal l'altitude élevée."
+  },
+  "usages": {
+    "usages_ethnobotaniques": "Dans les Départements du Sud et de la Grand'Anse, P. subsessilis présente un usage ethnobotanique très limité et prudent, documenté principalement pour des applications externes. Les feuilles et les fleurs sont occasionnellement utilisées en cataplasme pour favoriser la cicatrisation de plaies mineures et réduire les inflammations cutanées localisées. Le latex, reconnu comme potentiellement toxique par les praticiens traditionnels, est généralement évité dans les préparations domestiques. Les modes de préparation privilégient l'application topique directe de feuilles fraîches écrasées ou de fleurs en cataplasme, évitant tout contact avec le latex et proscrivant l'usage interne. Cette prudence traditionnelle reflète une connaissance empirique des risques associés aux Apocynacées. À l'échelle caribéenne, TRAMIL documente un usage purgatif en République Dominicaine, mais cette application reste controversée en raison des risques toxicologiques.",
+    "systemes_concernes": "Digestif, Tégumentaire"
+  },
+  "pharmacologie": {
+    "molecules": "Le frangipanier recèle la production d'un latex blanc épais, véritable arsenal chimique de défense concentrant la majorité des composés actifs de la plante. Ce latex, sécrété immédiatement lors de toute blessure mécanique, contient des iridoïdes comme le plumieride et l'acide fulvoplumierique, responsables de son âcreté et de ses propriétés irritantes. La saveur âcre caractéristique des feuilles résulte également de ces iridoïdes, qui découragent efficacement les herbivores. Le parfum intense des fleurs provient d'un mélange complexe d'huiles essentielles à base de monoterpènes et d'esters aromatiques, stratégie d'attraction des pollinisateurs nocturnes typique du genre Plumeria. Les principaux composés secondaires identifiés dans P. subsessilis comprennent : des iridoïdes (plumieride, acide fulvoplumierique), des flavonoïdes (quercétine, kaempférol), des saponines triterpéniques, des tanins hydrolysables, et des huiles essentielles florales. Des études sur des espèces proches du genre Plumeria ont révélé la présence d'alcaloïdes indoliques mineurs, bien que leur profil soit moins marqué que chez d'autres Apocynacées (Sharma et al., 2018 — DOI: 10.1016/j.phymed.2018.03.021). Ces composés remplissent des rôles défensifs précis pour l'arbre. Les iridoïdes du latex agissent comme répulsifs contre les insectes foreurs et les mammifères herbivores, tandis que les saponines protègent contre les infections fongiques des blessures. Les tanins des feuilles découragent la consommation par les insectes défoliateurs. Ces mêmes composés, une fois appliqués par l'humain, pourraient théoriquement produire des effets anti-inflammatoires et cicatrisants sur la peau, bien que les mécanismes spécifiques restent largement hypothétiques et que les observations demeurent principalement empiriques.",
+    "posologie": "Aucune posologie cliniquement validée n'est disponible pour P. subsessilis dans la littérature scientifique. Les applications traditionnelles rapportent l'usage de cataplasmes préparés avec 10 à 20 grammes de feuilles ou de fleurs fraîches appliqués localement sur la zone affectée, mais ces dosages restent empiriques et non standardisés. L'absence de validation scientifique et les risques toxicologiques associés aux Apocynacées imposent une extrême prudence dans toute utilisation thérapeutique."
+  },
+  "nutrition": {
+    "introduction": "Plumeria subsessilis (syn. Plumeria berteroi) est un arbre natif des Départements du Sud et de la Grand'Anse, reconnu pour ses fleurs parfumées et son latex caractéristique. Il appartient à la famille des Apocynacées, une famille tropicale de première importance médicinale mais également dangereuse, célèbre pour ses puissants alcaloïdes cardiotoxiques comme l'oléandrine et la thévetine, et ses latex souvent irritants. Cette famille, qui comprend des espèces aussi diverses que le laurier-rose (Nerium oleander), la pervenche de Madagascar (Catharanthus roseus) — source des anticancéreux vincristine et vinblastine — et diverses lianes médicinales locales, se caractérise par une signature phytochimique dominée par les glycosides cardioactifs, les iridoïdes et les alcaloïdes indoliques. Sur le plan thérapeutique, ces composés ciblent préférentiellement les systèmes cardiovasculaire, tégumentaire et digestif, mais leur maniement exige une expertise absolue car plusieurs espèces de cette famille peuvent être mortelles même à faible dose. Au sein de cette famille, Plumeria subsessilis fait partie du genre Plumeria, regroupant une quinzaine d'arbres tropicaux prisés pour leur floraison ornementale et leurs usages traditionnels limités, principalement externes. Dans les Départements du Sud et de la Grand'Anse, le frangipanier occupe une position particulière : bien que très peu utilisé en médecine traditionnelle en raison de la toxicité reconnue de son latex, il demeure apprécié comme plante ornementale et parfois sollicité pour des applications topiques très ponctuelles."
+  },
+  "toxicologie": {
+    "niveau": "toxic",
+    "details": "Plumeria subsessilis présente un niveau de toxicité significatif nécessitant des précautions importantes. Le latex est particulièrement irritant pour la peau et les muqueuses, pouvant causer des dermatites de contact et des réactions allergiques. L'ingestion de toute partie de la plante, particulièrement du latex, présente des risques d'intoxication digestive avec nausées, vomissements et diarrhées sévères. L'usage interne est formellement déconseillé, notamment chez les femmes enceintes et allaitantes. Les personnes sensibles aux Apocynacées doivent éviter tout contact avec cette espèce. En cas d'application topique, effectuer un test préalable sur une petite surface cutanée."
+  },
+  "conservation": {
+    "menaces": "P. subsessilis présente un statut de conservation favorable dans les Départements du Sud et de la Grand'Anse, où l'espèce demeure commune et ne fait face à aucune menace majeure immédiate. Sa capacité d'adaptation aux conditions climatiques locales et sa résistance à la sécheresse lui confèrent une certaine résilience face aux changements environnementaux. L'espèce bénéficie indirectement de sa valeur ornementale qui encourage sa plantation et sa protection dans les jardins.",
+    "valeur": "La valeur économique de P. subsessilis repose principalement sur ses qualités ornementales plutôt que sur ses propriétés médicinales. L'arbre est couramment planté dans les jardins et espaces publics des Départements du Sud et de la Grand'Anse pour sa floraison parfumée et sa facilité d'entretien. À l'échelle internationale, les fleurs de Plumeria sont utilisées en parfumerie pour leurs essences florales, bien que P. subsessilis soit moins exploité que d'autres espèces du genre comme P. rubra."
+  },
+  "recherche": {
+    "nb_articles": "",
+    "details": "Les recherches sur P. subsessilis demeurent limitées comparativement à d'autres espèces du genre Plumeria. Une centaine d'articles scientifiques environ abordent cette espèce, principalement sous l'angle botanique et taxonomique. Les études phytochimiques spécifiques restent rares, la plupart des données étant extrapolées d'autres Plumeria. Des recherches approfondies sur le profil exact des iridoïdes et leur potentiel thérapeutique sécurisé mériteraient d'être développées, ainsi que des études toxicologiques précises pour mieux cerner les risques associés aux différentes parties de la plante.",
+    "lien_pubmed": "",
+    "lien_scholar": "",
+    "lien_tramil": "https://www.tramil.net/en/plant/plumeria-subsessilis"
+  },
+  "references": "Sharma P. et al. (2018). Phytochemical analysis and biological activities of Plumeria species: A comprehensive review. Phytomedicine. DOI: 10.1016/j.phymed.2018.03.021. POWO (2024). Plants of the World Online. Facilitated by the Royal Botanic Gardens, Kew. http://www.plantsoftheworldonline.org/ World Flora Online (2024). An Online Flora of All Known Plants. http://www.worldfloraonline.org/ TRAMIL (2024). Plumeria subsessilis. https://www.tramil.net/en/plant/plumeria-subsessilis",
+  "aRetenir": "🟠 À retenir — Franjipanye : est une plante a toxicite documentee. Tout usage interne non encadre est formellement deconseille. En cas d'ingestion accidentelle, consulter immediatement un service d'urgence. Ces informations sont destinees a l'enseignement et a la recherche uniquement. Les auteurs declinent toute responsabilite quant a un usage inapproprie.",
+  "images": {
+    "principale": "images/95_Plumeria_subsessilis-001.jpg",
+    "galerie": [
+      "images/95_Plumeria_subsessilis-001.jpg",
+      "images/95_Plumeria_subsessilis-002.jpg"
+    ]
+  },
+  "source": "plantes_full.json"
+}

@@ -1,0 +1,57 @@
+{
+  "id_plante": "plt-0602",
+  "code": "plt-0602",
+  "no_espece": "",
+  "no_famille": "6",
+  "famille": "Anacardiacées",
+  "description_famille": "",
+  "identite": {
+    "genre": "Comocladia",
+    "espece": "pinnatifolia",
+    "nom_scientifique": "Comocladia pinnatifolia L.",
+    "synonymes": "Comocladia integrifolia",
+    "nom_francais": "Brésillet",
+    "nom_creole": "Bwa panyòl",
+    "nom_anglais": "Maiden Plum"
+  },
+  "morphologie": {
+    "description": "C. pinnatifolia est un arbre de basse altitude, abondant dans son aire de distribution naturelle (POWO, Kew Science , World Flora Online, 2026). Tiges et écorce. Le tronc développe une écorce rugueuse et fissurée avec l'âge. Les branches produisent une sève laiteuse particulièrement caustique au contact de toute blessure mécanique — propriété défensive caractéristique du genre Comocladia et responsable de la réputation de toxicité de la plante. Cette sève constitue le principal danger lors de la manipulation. Feuilles. Les feuilles sont composées pennées, persistantes et coriaces, adaptées aux conditions climatiques tropicales. Leur surface peut sécréter des composés irritants par simple contact, particulièrement par temps chaud et humide. Fleurs. La plante produit de petites fleurs discrètes, organisées en inflorescences terminales, suivant le patron floral typique des Anacardiacées. Fruit. Le fruit est une petite drupe qui contient une graine unique, permettant la reproduction et la dissémination de l'espèce. Les parties utilisées dans les pratiques locales sont les feuilles et l'écorce, toujours avec d'extrêmes précautions.",
+    "ecologie": "C. pinnatifolia est une espèce native de la région caraïbe et de l'Amérique tropicale. Dans les Départements du Sud et de la Grand'Anse, elle colonise préférentiellement les zones de basse altitude où elle forme des populations abondantes. Son statut d'abondance locale suggère une bonne adaptation aux conditions écologiques régionales et une capacité de régénération naturelle satisfaisante. La plante se reproduit principalement par graines, disséminées par les oiseaux frugivores qui tolèrent apparemment mieux les composés toxiques du fruit que les mammifères. Cette stratégie de reproduction assure une dissémination efficace tout en maintenant les défenses chimiques de la plante."
+  },
+  "usages": {
+    "usages_ethnobotaniques": "Dans les Départements du Sud et de la Grand'Anse, C. pinnatifolia présente un usage principalement utilitaire : les branches servent de piquets pour clôtures, exploitant paradoxalement la toxicité de la sève comme répulsif naturel contre les insectes et certains animaux. L'usage médicinal traditionnel existe mais reste très limité et circonspect : des décoctions diluées de feuilles ou d'écorce sont parfois appliquées localement pour traiter des dermatoses, des infections cutanées ou des douleurs articulaires et musculaires. Ce mode de préparation par décoction diluée vise à réduire la concentration des principes actifs irritants tout en conservant d'éventuels effets thérapeutiques. Il convient de noter que TRAMIL, le réseau caribéen de recherche en médecine traditionnelle, ne recommande pas cette plante en usage médicinal, soulignant les risques qui dépassent les bénéfices potentiels. En République Dominicaine, l'espèce est d'ailleurs considérée comme une peste végétale, témoignant de sa capacité d'expansion et de ses effets négatifs sur l'écosystème et les activités humaines.",
+    "systemes_concernes": "Tégumentaire"
+  },
+  "pharmacologie": {
+    "molecules": "Bwa panyòl déploie une stratégie défensive parmi les plus extrêmes du règne végétal caribéen : sa sève laiteuse recèle de l'urushiol et d'autres composés phénoliques hautement réactifs qui constituent une barrière toxique quasi impénétrable, justifiant la prudence légendaire des praticiens traditionnels. Ce qui rend C. pinnatifolia particulièrement redoutable, c'est la nature de ses molécules de défense : des composés phénoliques hautement réactifs concentrés dans la sève laiteuse. Ces molécules constituent un mécanisme de défense chimique extrêmement efficace contre les herbivores et expliquent la réputation de toxicité de la plante. Les principaux composés secondaires documentés dans C. pinnatifolia comprennent : l'urushiol et composés phénoliques apparentés, des tanins condensés, des flavonoïdes, des saponines, des alcaloïdes, des gommes et des huiles volatiles. Une étude phytochimique préliminaire a confirmé la présence de flavonoïdes, tanins, alcaloïdes, saponines et autres composés phénoliques dans les extraits de la plante, mais sans caractérisation structurale détaillée des molécules spécifiques. L'urushiol, principal composé toxique de la sève, remplit une fonction de protection redoutable pour la plante : il provoque des dermatites de contact sévères chez les mammifères qui tentent de consommer les tissus végétaux, dissuadant efficacement l'herbivorie. Les tanins condensés renforcent cette protection en rendant les tissus astringents et difficiles à digérer. Les flavonoïdes contribuent à la protection contre les rayonnements UV et certains pathogènes fongiques.",
+    "posologie": "Aucune posologie interne sûre n'est documentée pour C. pinnatifolia, et l'ingestion est formellement déconseillée. Pour les rares applications topiques traditionnelles, des cataplasmes de feuilles ou d'écorce (10-20 g) sont parfois préparés en décoction très diluée, mais même cette utilisation externe reste risquée et ne bénéficie d'aucune validation scientifique rigoureuse. L'absence de données de sécurité fiables et la variabilité des concentrations en principes actifs selon les parties de la plante, la saison et les conditions de croissance rendent toute standardisation posologique impossible. Il est essentiel de rappeler que l'usage traditionnel ne garantit pas l'innocuité, particulièrement pour une espèce connue pour sa toxicité."
+  },
+  "nutrition": {
+    "introduction": "Comocladia pinnatifolia L. (syn. Comocladia integrifolia) est un arbre natif documenté dans les Départements du Sud et de la Grand'Anse. Il appartient à la famille des Anacardiacées, une famille tropicale majoritairement composée d'arbres, incontournable dans la flore du grand sud d'Haïti avec ses riches usages alimentaires et médicinaux. Cette famille se distingue par sa signature phytochimique dominée par les tanins condensés, les acides anacardiques, les cardanols, les flavonoïdes et les terpènes, ciblant préférentiellement les systèmes digestif, tégumentaire et cutané. Il convient de noter une vigilance particulière car certaines espèces de cette famille — notamment le genre Comocladia — renferment des principes actifs très puissants incluant l'urushiol, une résine hautement allergisante, exigeant une préparation adéquate et des précautions strictes lors de toute manipulation. Au sein de cette famille, C. pinnatifolia fait partie du genre Comocladia, reconnu dans toute la Caraïbe pour sa sève extrêmement irritante et ses propriétés défensives remarquables. Son usage local reste principalement utilitaire pour les clôtures et occasionnellement médicinal par voie externe, malgré les risques inhérents."
+  },
+  "toxicologie": {
+    "niveau": "",
+    "details": "C. pinnatifolia présente un profil de toxicité préoccupant qui limite considérablement ses applications thérapeutiques. La sève laiteuse contient de l'urushiol et des composés phénoliques apparentés qui provoquent des dermatites de contact sévères, des réactions allergiques cutanées et des brûlures chimiques. Même le simple contact avec les feuilles ou l'écorce peut déclencher des réactions cutanées chez les personnes sensibles. L'ingestion interne est formellement déconseillée faute de données de sécurité et en raison du risque d'irritation sévère des muqueuses digestives. Les femmes enceintes et allaitantes doivent éviter tout contact avec cette plante. Il est recommandé de porter des gants de protection lors de toute manipulation et de se laver soigneusement les mains après contact, même indirect."
+  },
+  "conservation": {
+    "menaces": "C. pinnatifolia présente un statut de conservation de « Préoccupation mineure » (LC) selon les critères internationaux, reflétant son abondance locale et sa large distribution géographique. L'espèce ne fait face à aucune menace majeure identifiée dans les Départements du Sud et de la Grand'Anse, où ses populations semblent stables et bien établies. Sa capacité d'adaptation et sa forte capacité de régénération naturelle contribuent à cette stabilité démographique.",
+    "valeur": "L'usage principal de C. pinnatifolia reste utilitaire local : les branches servent de piquets pour clôtures, exploitant la durabilité du bois et l'effet répulsif de la sève contre les insectes. Cette utilisation représente une valeur économique modeste mais réelle pour les communautés rurales. Sur le plan international, la plante n'a aucune valeur commerciale reconnue, principalement en raison de sa toxicité qui limite les applications industrielles ou pharmaceutiques."
+  },
+  "recherche": {
+    "nb_articles": "~50 (estimation)",
+    "details": "Environ 50 publications scientifiques mentionnent C. pinnatifolia selon les estimations basées sur les bases de données bibliographiques, mais la plupart concernent la taxonomie, la distribution géographique ou les signalements de toxicité plutôt que des études pharmacologiques approfondies. Les recherches futures pourraient se concentrer sur l'isolement et la caractérisation structurale précise des composés responsables de la toxicité, dans une perspective de meilleure prévention des intoxications. L'étude des mécanismes de détoxification naturelle chez les animaux qui tolèrent cette plante pourrait également apporter des éclairages intéressants sur la biodiversité fonctionnelle des écosystèmes tropicaux.",
+    "lien_pubmed": "",
+    "lien_scholar": "",
+    "lien_tramil": ""
+  },
+  "references": "Aucune donnée publiée spécifique disponible avec PMID ou DOI pour les aspects pharmacologiques de cette espèce. Les informations phytochimiques générales proviennent d'études préliminaires mentionnées dans la littérature ethnobotanique régionale sans référencement précis. Les bases de données taxonomiques POWO (Kew Science) et World Flora Online constituent les références botaniques principales pour la description morphologique.",
+  "aRetenir": "🟡 À retenir — Bwa panyòl : est une plante a toxicite conditionnelle documentee. Respecter imperativement les precautions indiquees. Ne jamais ingerer les parties toxiques sans encadrement medical. Ces informations sont destinees a l'enseignement et a la documentation. Les auteurs declinent toute responsabilite quant a un usage inapproprie.",
+  "images": {
+    "principale": "images/62_Comocladia_pinnatifolia-001.jpg",
+    "galerie": [
+      "images/62_Comocladia_pinnatifolia-001.jpg",
+      "images/62_Comocladia_pinnatifolia-002.jpg"
+    ]
+  },
+  "source": "plantes_full.json"
+}

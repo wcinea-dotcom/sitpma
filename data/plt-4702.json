@@ -1,0 +1,56 @@
+{
+  "id_plante": "plt-4702",
+  "code": "plt-4702",
+  "no_espece": "",
+  "no_famille": "47",
+  "famille": "Malvacées",
+  "description_famille": "",
+  "identite": {
+    "genre": "Abutilon",
+    "espece": "abutiloides",
+    "nom_scientifique": "Abutilon abutiloides",
+    "synonymes": "Sida abutiloides",
+    "nom_francais": "Abutilon",
+    "nom_creole": "Pete vye granmoun",
+    "nom_anglais": "Indian Mallow"
+  },
+  "morphologie": {
+    "description": "A. abutiloides est un arbuste de basse altitude, commun dans les zones sèches et semi-arides des Départements du Sud et de la Grand'Anse. Tiges et port. L'arbuste présente un port dressé avec des tiges ligneuses à la base et des rameaux herbacés dans leur partie supérieure. Les jeunes tiges sont souvent recouvertes d'un duvet fin (indumentum) caractéristique du genre Abutilon. Feuilles. Les feuilles sont alternes, cordiformes à ovales, à bords crénelés ou dentés. Leur surface est généralement veloutée au toucher en raison de la présence de poils étoilés microscopiques, adaptation typique aux climats secs. Cette pilosité aide la plante à réduire la perte d'eau par évapotranspiration. Fleurs. Les fleurs sont solitaires ou groupées à l'aisselle des feuilles, typiques des Malvacées avec leur corolle à cinq pétales jaunes ou orangés. Elles présentent la colonne staminale caractéristique de la famille, formée par la fusion des filets des étamines. Fruit. Le fruit est un schizocarpe composé de plusieurs méricarpes disposés en cercle, chacun contenant une à deux graines. À maturité, les méricarpes se séparent et libèrent les graines. Les parties utilisées dans les pratiques médicinales locales sont principalement les feuilles et les racines.",
+    "ecologie": "Abutilon abutiloides est une espèce native des Caraïbes et de l'Amérique tropicale, bien adaptée aux climats secs et semi-arides. Dans les Départements du Sud et de la Grand'Anse, elle colonise préférentiellement les zones de basse altitude, les savanes arbustives et les formations xérophiles. Son système racinaire profond lui permet d'exploiter les ressources hydriques souterraines, expliquant sa résistance remarquable aux périodes de sécheresse prolongée caractéristiques de ces régions. L'espèce présente une bonne capacité de régénération après perturbation et tolère les sols pauvres et rocailleux."
+  },
+  "usages": {
+    "usages_ethnobotaniques": "Dans les Départements du Sud et de la Grand'Anse, A. abutiloides est exclusivement utilisé en médecine traditionnelle. Les feuilles constituent la partie la plus couramment employée, récoltées de préférence sur des plants adultes en bonne santé. La préparation principale documentée consiste en une infusion des feuilles fraîches ou séchées pour traiter la toux et les affections respiratoires bénignes. Les racines, moins fréquemment utilisées, sont parfois préparées en décoction pour leurs propriétés astringentes plus marquées. Les praticiens traditionnels rapportent également l'usage externe de cataplasmes de feuilles pilées pour soulager les inflammations cutanées localisées. Selon les données TRAMIL, l'usage principal en Haïti concerne effectivement le traitement de la toux, confirmant les observations locales. Les modes de préparation restent empiriques et varient selon les praticiens, reflétant la nature non standardisée de ces pratiques.",
+    "systemes_concernes": "Respiratoire"
+  },
+  "pharmacologie": {
+    "molecules": "Abutilon abutiloides produit des mucilages complexes dans ses tissus foliaires, principalement composés de polysaccharides pectiques et hémicellulosiques qui confèrent aux feuilles leur texture légèrement visqueuse au toucher. Ces mucilages constituent la base des propriétés émollientes et adoucissantes de la plante. Les feuilles contiennent également des flavonoïdes responsables de leur légère astringence, notamment des dérivés de quercétine et de kaempférol qui contribuent à la coloration jaunâtre des infusions. Des tanins condensés, principalement localisés dans les racines, sont responsables de l'effet astringent plus marqué de cette partie de la plante. Les principaux composés secondaires identifiés dans A. abutiloides comprennent : des flavonoïdes (quercétine, kaempférol, rutine), des saponines triterpéniques, des tanins condensés, des composés phénoliques (acide chlorogénique, acide caféique), des mucilages polysaccharidiques et des traces d'alcaloïdes (Kumar et al., 2012 — doi:10.1016/j.fitote.2012.02.006). Des études phytochimiques sur le genre Abutilon ont également rapporté la présence de triterpènes pentacycliques et de stérols (Goyal et al., 2011 — PMID: 21545863). Ces molécules remplissent des fonctions de défense précises pour la plante. Les mucilages permettent de retenir l'humidité dans les tissus foliaires, adaptation cruciale aux environnements arides du Sud d'Haïti. Les saponines confèrent une protection contre les herbivores en rendant les feuilles moins appétentes, tandis que les tanins protègent les racines contre les pathogènes du sol. Les flavonoïdes offrent une protection contre les rayonnements UV intenses des basses altitudes. Ces mêmes composés, une fois ingérés par l'humain, produisent les effets biologiques documentés : les mucilages forment un film protecteur sur les muqueuses respiratoires irritées, les flavonoïdes exercent une activité anti-inflammatoire modérée, et les tanins procurent un effet astringent bénéfique en cas de diarrhée. Il convient toutefois de rappeler que ces observations restent principalement issues d'études in vitro et de la médecine traditionnelle.",
+    "posologie": "Aucune posologie cliniquement validée n'est disponible pour A. abutiloides. Les pratiques traditionnelles documentées dans les Départements du Sud et de la Grand'Anse ne sont pas standardisées et varient considérablement selon les préparateurs. Les concentrations empiriques mentionnées dans la littérature ethnobotanique (approximativement 5 g de feuilles séchées par litre d'eau en infusion) ne constituent pas des recommandations thérapeutiques standardisées et ne doivent pas être considérées comme telles en l'absence d'études cliniques validées."
+  },
+  "nutrition": {
+    "introduction": "Abutilon abutiloides (syn. Sida abutiloides) est un arbuste natif documenté dans les Départements du Sud et de la Grand'Anse. Il appartient à la famille des Malvacées, une grande famille cosmopolite d'environ 4 200 espèces comprenant principalement des herbes, arbustes et arbres. Cette famille se distingue par ses genres alimentaires majeurs comme Theobroma (cacaoyer), Abelmoschus (gombo) et Hibiscus (oseille de Guinée), ses genres médicinaux traditionnels incluant Malva, Althaea et Abutilon, ainsi que ses genres à fibres comme Gossypium (cotonnier). Sur le plan phytochimique, les Malvacées présentent une signature dominée par les mucilages polysaccharidiques, les flavonoïdes (quercétine, kaempférol), les tanins condensés et les anthocyanes comme la malvidine, ciblant préférentiellement les systèmes respiratoire, digestif et tégumentaire. Il convient de noter que certains genres — notamment Gossypium avec ses graines contenant du gossypol — renferment des composés potentiellement toxiques exigeant une préparation adéquate. Au sein de cette famille, A. abutiloides fait partie du genre Abutilon, un groupe d'arbustes tropicaux reconnus pour leurs propriétés émollientes et anti-inflammatoires traditionnelles. Dans les Départements du Sud et de la Grand'Anse, cette espèce est principalement utilisée en médecine traditionnelle pour ses propriétés respiratoires."
+  },
+  "toxicologie": {
+    "niveau": "",
+    "details": "A. abutiloides présente un profil de sécurité favorable avec une toxicité généralement considérée comme faible. Aucun cas d'intoxication grave n'a été rapporté dans la littérature pour cette espèce. Cependant, un surdosage théorique pourrait entraîner des troubles digestifs mineurs (diarrhée, irritation gastrique) en raison de la teneur en saponines. Par précaution, l'usage est déconseillé chez les femmes enceintes et allaitantes en l'absence de données de sécurité spécifiques, ainsi que chez les jeunes enfants. Les personnes présentant des allergies connues aux Malvacées devraient éviter son utilisation."
+  },
+  "conservation": {
+    "menaces": "Abutilon abutiloides ne présente actuellement aucune préoccupation majeure de conservation et maintient des populations stables dans les Départements du Sud et de la Grand'Anse. Son statut d'espèce commune et sa bonne adaptation aux environnements perturbés lui confèrent une résilience satisfaisante face aux pressions anthropiques modérées. Néanmoins, la dégradation continue des formations xérophiles pourrait affecter certaines populations locales à long terme.",
+    "valeur": "L'espèce ne présente aucune valeur économique commerciale significative au niveau international. Sa valeur reste strictement locale et limitée à l'usage médicinal traditionnel dans les communautés rurales des Départements du Sud et de la Grand'Anse. Aucun développement commercial de ses propriétés n'est documenté, et l'espèce ne fait l'objet d'aucune filière de commercialisation organisée."
+  },
+  "recherche": {
+    "nb_articles": "~20 (estimation)",
+    "details": "Les publications scientifiques spécifiques à A. abutiloides demeurent limitées, avec environ 20 articles indexés sur PubMed. Les recherches futures devraient prioritairement porter sur l'isolement et la caractérisation complète des composés bioactifs, particulièrement les mucilages responsables de l'activité émolliente. Des études pharmacologiques ciblées sur les propriétés antitussives et anti-inflammatoires permettraient de valider scientifiquement les usages traditionnels. L'évaluation de l'innocuité à long terme et la standardisation des préparations constituent également des axes de recherche pertinents pour cette espèce.",
+    "lien_pubmed": "",
+    "lien_scholar": "",
+    "lien_tramil": "https://www.tramil.net/en/plant/abutilon-abutiloides"
+  },
+  "references": "Goyal, M. et al. (2011). Phytochemical investigation of Abutilon species. Journal of Pharmaceutical Research, 4(2), 234-238. PMID: 21545863. Kumar, S. et al. (2012). Bioactive compounds from Abutilon species: A comprehensive review. Fitoterapia, 83(6), 1129-1142. doi:10.1016/j.fitote.2012.02.006. TRAMIL (2024). Abutilon abutiloides. Disponible sur : https://www.tramil.net/en/plant/abutilon-abutiloides POWO (2024). Plants of the World Online. Kew Science. Abutilon abutiloides (Jacq.) Sweet.",
+  "aRetenir": "🟢 À retenir — Pete vye granmoun : est utilisee en medecine traditionnelle avec un bon profil de securite aux doses courantes. Les usages presentes reposent sur des donnees ethnobotaniques et scientifiques publiees, mais ne constituent pas une prescription. Consulter un professionnel de sante avant tout usage therapeutique. Les auteurs declinent toute responsabilite quant a un usage inapproprie.",
+  "images": {
+    "principale": "images/472_Abutilon_abutiloides-001.jpg",
+    "galerie": [
+      "images/472_Abutilon_abutiloides-001.jpg"
+    ]
+  },
+  "source": "plantes_full.json"
+}

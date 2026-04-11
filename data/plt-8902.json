@@ -1,0 +1,56 @@
+{
+  "id_plante": "plt-8902",
+  "code": "plt-8902",
+  "no_espece": "",
+  "no_famille": "89",
+  "famille": "Zingibéracées",
+  "description_famille": "",
+  "identite": {
+    "genre": "Zingiber",
+    "espece": "officinale",
+    "nom_scientifique": "Zingiber officinale",
+    "synonymes": "Amomum zingiber L.",
+    "nom_francais": "Gingembre",
+    "nom_creole": "Jenjanm",
+    "nom_anglais": "Ginger"
+  },
+  "morphologie": {
+    "description": "Z. officinale est une herbe vivace tropicale de 60 à 100 cm de hauteur, cultivée principalement pour son rhizome aromatique charnu. Rhizome. Le rhizome constitue l'organe principal d'intérêt : horizontal, ramifié, noueux, de couleur beige à l'extérieur et jaune pâle à l'intérieur. Sa surface présente des cicatrices annulaires marquant les anciens points d'insertion des tiges aériennes. Ce rhizome dégage une odeur piquante caractéristique lorsqu'on le brise et développe une saveur brûlante distinctive. Tiges. Les tiges aériennes, appelées pseudotiges, sont formées par l'enroulement des gaines foliaires. Elles sont dressées, lisses et peuvent atteindre un mètre de hauteur dans les conditions climatiques favorables du Sud et de la Grand'Anse. Feuilles. Les feuilles sont alternes, lancéolées, de 15 à 30 cm de longueur, à nervures parallèles caractéristiques des monocotylédones. Elles dégagent un parfum épicé lorsqu'on les froisse. Fleurs. Dans les conditions haïtiennes, la floraison est rare. Lorsqu'elle survient, elle produit un épi terminal dense composé de fleurs jaune-vert à bractées colorées, typiques de la famille des Zingibéracées. La partie utilisée est exclusivement le rhizome, récolté après 8 à 10 mois de croissance.",
+    "ecologie": "Originaire d'Asie du Sud-Est, Z. officinale s'est répandu dans toutes les régions tropicales du monde grâce aux échanges commerciaux anciens. En Haïti, particulièrement dans le Sud et la Grand'Anse, cette espèce trouve des conditions climatiques favorables en basse altitude, avec des températures chaudes constantes et une pluviométrie régulière. La plante préfère les sols riches, bien drainés et légèrement acides. Sa reproduction se fait exclusivement par division des rhizomes, la floraison étant rare sous les tropiques et les graines généralement stériles en culture."
+  },
+  "usages": {
+    "usages_ethnobotaniques": "Documenté dans le Sud et la Grand'Anse, le jenjanm fait l'objet d'usages alimentaires et médicinaux diversifiés. Le rhizome frais ou séché est utilisé comme condiment dans la cuisine locale, apportant une note épicée caractéristique aux plats traditionnels. En usage thérapeutique, la décoction de rhizome constitue la préparation de référence : on boit le thé de gingembre contre la grippe et le froid, pratique largement documentée localement. Cette préparation s'inscrit dans une tradition caribéenne plus large, TRAMIL documentant son usage contre la grippe en Haïti. Le mode de préparation traditionnel consiste à faire bouillir des fragments de rhizome frais dans l'eau pendant 10 à 15 minutes, produisant une boisson au goût piquant et réchauffant. Les usages internationaux, notamment en Asie, privilégient également cette plante contre les nausées, usage qui a fait l'objet de validations scientifiques.",
+    "systemes_concernes": "Digestif"
+  },
+  "pharmacologie": {
+    "molecules": "Le rhizome de gingembre se distingue par sa richesse en composés piquants spécifiques qui lui confèrent son goût caractéristique et ses propriétés biologiques. Les gingérols, principaux responsables de la saveur brûlante du gingembre frais, se transforment en shogaols plus piquants encore lors du séchage ou de la cuisson. Ces composés phénoliques volatils constituent la signature chimique distinctive du jenjanm et expliquent son usage traditionnel contre les refroidissements. Le rhizome contient également des quantités appréciables de vitamine C, de potassium et de magnésium, ainsi que des fibres et de l'amidon comme réserves énergétiques. Les principaux composés secondaires identifiés dans Z. officinale comprennent : les gingérols (6-gingérol, 8-gingérol, 10-gingérol) responsables de la saveur piquante, les shogaols formés par déshydratation des gingérols, les huiles essentielles sesquiterpéniques (zingibérène, bisabolène, curcumène), les flavonoïdes antioxydants et les diarylheptanoïdes aux propriétés anti-inflammatoires (Mao et al., 2019 — PMID: 30909719). Ces molécules remplissent des fonctions de défense essentielles pour la plante. Les gingérols et shogaols protègent le rhizome souterrain contre les pathogènes fongiques et bactériens du sol, tandis que les sesquiterpènes volatils repoussent les insectes ravageurs et les herbivores. Ces mêmes composés, une fois ingérés par l'humain, produisent les effets biologiques documentés : inhibition des médiateurs inflammatoires COX et LOX, modulation des récepteurs 5-HT3 impliqués dans les nausées, et stimulation de la motilité gastrique. Les observations restent principalement issues d'études in vitro et sur modèles animaux, avec quelques essais cliniques prometteurs sur les nausées.",
+    "posologie": "Les essais cliniques antiémétiques ont utilisé des doses de 1 à 2 g de poudre de rhizome par jour. En usage courant, les préparations traditionnelles correspondent généralement à 2 à 5 g de rhizome frais par jour ou l'équivalent en infusion (Ernst & Pittler, 2000 — PMID: 10793599). Les pratiques documentées localement dans le Sud et la Grand'Anse ne suivent pas de standardisation précise, la préparation se basant sur l'expérience empirique des utilisateurs. La concentration de la décoction varie selon les préférences individuelles et l'intensité des symptômes traités."
+  },
+  "nutrition": {
+    "introduction": "Zingiber officinale (syn. Amomum zingiber L.) est une herbe rhizomateuse exotique cultivée dans les Départements du Sud et de la Grand'Anse, appartenant à la famille des Zingibéracées. Au sein de cette famille, le genre Zingiber regroupe les véritables gingembres, dont Z. officinale constitue l'espèce la plus largement cultivée et utilisée mondialement pour ses propriétés culinaires et thérapeutiques. Dans le Sud et la Grand'Anse, le jenjanm occupe une place privilégiée comme condiment alimentaire et remède domestique traditionnel, particulièrement apprécié pour ses vertus digestives et anti-inflammatoires. Bien que sa production locale reste rare, cette plante demeure un élément important du patrimoine ethnobotanique régional."
+  },
+  "toxicologie": {
+    "niveau": "",
+    "details": "Le gingembre présente un profil de sécurité favorable aux doses alimentaires et médicinales usuelles. Les excès peuvent provoquer des brûlures gastriques, du reflux gastro-œsophagien et des diarrhées chez les personnes sensibles. La plante exerce un effet antiagrégant plaquettaire modéré, imposant la prudence chez les patients sous anticoagulants. Pendant la grossesse, les doses alimentaires sont généralement bien tolérées, mais les doses pharmacologiques élevées nécessitent une vigilance particulière. Les interactions médicamenteuses restent limitées mais la surveillance s'impose en cas de traitement anticoagulant concomitant."
+  },
+  "conservation": {
+    "menaces": "La production locale de gingembre dans le Sud et la Grand'Anse demeure rare, créant une dépendance aux importations pour satisfaire les besoins locaux. Cette situation fragilise la disponibilité de cette ressource ethnobotanique importante et limite les possibilités de développement économique local. La conservation de l'espèce passe par l'encouragement de la culture locale et la préservation des connaissances traditionnelles associées à son usage. Le développement de filières de production adaptées aux conditions locales constitue un enjeu important pour l'autonomie alimentaire et thérapeutique régionale.",
+    "valeur": "Mondiale, la valeur économique du gingembre se chiffre en milliards de dollars, cette épice figurant parmi les plus échangées internationalement. Au niveau local, le potentiel économique reste largement sous-exploité malgré des conditions climatiques favorables. Le développement d'une production locale pourrait répondre à la demande intérieure croissante et créer des opportunités d'exportation vers les marchés caribéens. La valeur ajoutée des préparations traditionnelles et des produits dérivés représente également un potentiel économique significatif pour les communautés rurales."
+  },
+  "recherche": {
+    "nb_articles": "~5000 (estimation)",
+    "details": "Avec environ 5000 publications indexées sur PubMed, Z. officinale figure parmi les plantes médicinales les plus étudiées scientifiquement. Les recherches actuelles explorent particulièrement ses propriétés anti-inflammatoires, anticancéreuses et neuroprotectrices. Les perspectives incluent l'optimisation des extractions pour maximiser les teneurs en principes actifs, le développement de formulations pharmaceutiques standardisées et l'évaluation de nouvelles indications thérapeutiques. Dans le contexte haïtien, des études sur les cultivars locaux et l'adaptation aux conditions pédoclimatiques régionales pourraient contribuer au développement d'une production locale durable.",
+    "lien_pubmed": "https://pubmed.ncbi.nlm.nih.gov/10793599/",
+    "lien_scholar": "",
+    "lien_tramil": "https://www.tramil.net/en/plant/zingiber-officinale"
+  },
+  "references": "Mao, Q.Q., Xu, X.Y., Cao, S.Y., Gan, R.Y., Corke, H., Beta, T., & Li, H.B. (2019). Bioactive compounds and bioactivities of ginger (Zingiber officinale Roscoe). Foods, 8(6), 185. PMID: 30909719. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6616534/ Ernst, E., & Pittler, M.H. (2000). Efficacy of ginger for nausea and vomiting: a systematic review of randomized clinical trials. British Journal of Anaesthesia, 84(3), 367-371. PMID: 10793599. https://pubmed.ncbi.nlm.nih.gov/10793599/ TRAMIL. (2024). Zingiber officinale. https://www.tramil.net/en/plant/zingiber-officinale POWO. (2024). Plants of the World Online. Kew Science. https://powo.science.kew.org/",
+  "aRetenir": "🟢 À retenir — Jenjanm : est utilisee en medecine traditionnelle avec un bon profil de securite aux doses courantes. Les usages presentes reposent sur des donnees ethnobotaniques et scientifiques publiees, mais ne constituent pas une prescription. Consulter un professionnel de sante avant tout usage therapeutique. Les auteurs declinent toute responsabilite quant a un usage inapproprie.",
+  "images": {
+    "principale": "images/882_Zingiber_officinale-001.jpg",
+    "galerie": [
+      "images/882_Zingiber_officinale-001.jpg"
+    ]
+  },
+  "source": "plantes_full.json"
+}

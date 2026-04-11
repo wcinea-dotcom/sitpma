@@ -34,39 +34,55 @@ function renderPlantes(plantesToRender) {
     const lang = getCurrentLang();
 
     grid.innerHTML = plantesToRender.map(p => {
-        const toxBadge = p.toxicite
-            ? `<span class="absolute top-2 right-2 bg-red-100 text-red-700 text-xs font-bold px-2 py-0.5 rounded-full">
-                   <i class="fa-solid fa-triangle-exclamation mr-1"></i>${lang === 'fr' ? 'Toxique' : lang === 'en' ? 'Toxic' : 'Toksik'}
-               </span>`
-            : '';
-
-        const systemes = (p.systeme && p.systeme[lang])
-            ? p.systeme[lang].split(',').slice(0, 2).map(s =>
-                `<span class="inline-block bg-[#e8f5e9] text-[#2c5e3b] text-xs font-semibold px-2 py-0.5 rounded-full">${s.trim()}</span>`
-              ).join(' ')
-            : '';
-
-        // Utiliser le nom scientifique pour construire le chemin si pas d'image
         const imgSrc = p.image || placeholderSVG;
+        const nomCommun = (p.nomCommun && p.nomCommun[lang]) || p.nomCreole || '';
+        const nomFr = p.nomFrancais || '';
+        const usageType = p.usageType || 'Médicinale';
+        const systemes = p.maladieSummary || (p.systeme && p.systeme.fr) || '';
+
+        // Toxicity badge
+        let toxBadgeHTML = '';
+        const toxColor = p.toxBadgeColor || 'green';
+        const toxText = p.toxBadgeText || 'Non toxique';
+        if (toxColor === 'green') {
+            toxBadgeHTML = `<span style="display:inline-flex;align-items:center;gap:4px;background:#DCF0E4;color:#0D5229;padding:2px 10px;border-radius:12px;font-size:11px;font-weight:700;">🟢 ${toxText}</span>`;
+        } else if (toxColor === 'yellow') {
+            toxBadgeHTML = `<span style="display:inline-flex;align-items:center;gap:4px;background:#FEF3CD;color:#7A5500;padding:2px 10px;border-radius:12px;font-size:11px;font-weight:700;">🟡 ${toxText}</span>`;
+        } else if (toxColor === 'orange') {
+            toxBadgeHTML = `<span style="display:inline-flex;align-items:center;gap:4px;background:#FEE5CC;color:#7A3000;padding:2px 10px;border-radius:12px;font-size:11px;font-weight:700;">🟠 ${toxText}</span>`;
+        } else if (toxColor === 'red') {
+            toxBadgeHTML = `<span style="display:inline-flex;align-items:center;gap:4px;background:#FDDCDC;color:#7A0000;padding:2px 10px;border-radius:12px;font-size:11px;font-weight:700;">🔴 ${toxText}</span>`;
+        }
 
         return `
-        <div class="plant-card bg-white rounded-2xl shadow hover:shadow-xl transition-shadow duration-300 overflow-hidden border border-gray-100 flex flex-col cursor-pointer group"
-             onclick="showPlantDetails(${p.id})">
-            <div class="relative overflow-hidden h-44 bg-[#e8f5e9]">
+        <div class="plant-card bg-white rounded-2xl shadow hover:shadow-xl transition-shadow duration-300 overflow-hidden border border-gray-100 flex flex-col">
+            <div class="relative overflow-hidden h-48 bg-[#e8f5e9]">
                 <img src="${imgSrc}"
                      alt="${p.nomScientifique}"
-                     class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500"
+                     class="w-full h-full object-cover"
                      loading="lazy"
                      onerror="this.onerror=null;this.src='${placeholderSVG}';">
-                ${toxBadge}
-                <span class="absolute bottom-2 left-2 bg-[#2c5e3b]/80 text-white text-xs px-2 py-0.5 rounded-full font-medium">
-                    ${p.famille || ''}
-                </span>
             </div>
             <div class="p-4 flex flex-col flex-grow">
-                <h3 class="font-bold text-gray-800 italic text-sm leading-tight mb-1">${p.nomScientifique}</h3>
-                <p class="text-[#c5a059] font-semibold text-sm mb-2">${(p.nomCommun && p.nomCommun[lang]) || ''}</p>
-                <div class="flex flex-wrap gap-1 mt-auto">${systemes}</div>
+                <h3 class="font-bold text-gray-800 italic text-base leading-tight mb-1">${p.nomScientifique}</h3>
+                ${nomCommun ? `<p class="text-[#c5a059] font-semibold text-sm">« ${nomCommun} »</p>` : ''}
+                ${nomFr ? `<p class="text-gray-600 text-sm">${nomFr}</p>` : ''}
+                <p class="mt-2 mb-1"><a href="#" onclick="event.stopPropagation();document.getElementById('filterFamille').value='${p.famille}';applyFilters();" class="text-[#2c5e3b] text-sm font-semibold underline">${p.famille || ''}</a></p>
+                <div class="text-xs text-gray-700 mt-1 space-y-0.5">
+                    <p><strong>Usage :</strong> ${usageType}</p>
+                    ${systemes ? `<p><strong>Systèmes :</strong> ${systemes}</p>` : ''}
+                </div>
+                <div class="mt-2">${toxBadgeHTML}</div>
+                <div class="flex gap-2 mt-3 pt-3 border-t border-gray-100">
+                    <a href="plante.html?id=${p.plantId}" onclick="event.stopPropagation();"
+                       class="flex-1 text-center py-1.5 px-3 bg-[#2c5e3b] text-white text-xs font-bold rounded-md hover:bg-[#1e4028] transition-colors no-underline">
+                        <i class="fa-solid fa-file-lines mr-1"></i> Fiche
+                    </a>
+                    <a href="plante.html?id=${p.plantId}#s-description" onclick="event.stopPropagation();"
+                       class="flex-1 text-center py-1.5 px-3 bg-[#c5a059] text-white text-xs font-bold rounded-md hover:bg-[#a88540] transition-colors no-underline">
+                        <i class="fa-solid fa-book-open mr-1"></i> Description
+                    </a>
+                </div>
             </div>
         </div>`;
     }).join('');

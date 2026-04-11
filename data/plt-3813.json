@@ -1,0 +1,57 @@
+{
+  "id_plante": "plt-3813",
+  "code": "plt-3813",
+  "no_espece": "",
+  "no_famille": "38",
+  "famille": "Fabacées",
+  "description_famille": "",
+  "identite": {
+    "genre": "Senna",
+    "espece": "occidentalis",
+    "nom_scientifique": "Senna occidentalis (L.)",
+    "synonymes": "Cassia occidentalis",
+    "nom_francais": "Café nègre",
+    "nom_creole": "Pwa pyant",
+    "nom_anglais": "Coffee Senna"
+  },
+  "morphologie": {
+    "description": "S. occidentalis est une herbe dressée pouvant atteindre 1 à 2 mètres de hauteur, particulièrement adaptée aux zones de basse altitude des Départements du Sud et de la Grand'Anse. Tiges. Les tiges sont robustes, dressées, légèrement ligneuses à la base, de couleur verte à brunâtre. Elles portent des feuilles composées caractéristiques de la famille des Fabacées. Feuilles. Les feuilles sont composées paripennées, portant 4 à 6 paires de folioles oblongues à ovales, de couleur vert foncé. Ces folioles mesurent environ 3 à 8 cm de longueur et dégagent une odeur particulière lorsqu'elles sont froissées. À la base du pétiole, on observe souvent une glande nectarifère caractéristique du genre Senna. Fleurs. Les fleurs sont jaunes, regroupées en grappes axillaires. Chaque fleur présente cinq pétales inégaux et dix étamines, dont trois sont stériles et sept fertiles — arrangement typique des Fabacées du sous-groupe des Caesalpinioideae. Fruit et graines. Le fruit est une gousse allongée, aplatie, contenant de nombreuses graines brunes, ovales et aplaties. Ces graines sont particulièrement concentrées en principes actifs et constituent la partie la plus toxique de la plante. Les parties utilisées sont principalement les feuilles et, historiquement, les graines (bien que leur usage soit aujourd'hui déconseillé en raison de leur toxicité).",
+    "ecologie": "S. occidentalis est une espèce native d'Haïti, largement distribuée dans les Caraïbes et l'Amérique tropicale. Dans les Départements du Sud et de la Grand'Anse, elle colonise préférentiellement les zones de basse altitude, les terrains vagues, les bords de chemins et les zones perturbées. Sa capacité à fixer l'azote atmosphérique lui confère un avantage compétitif sur les sols pauvres, typiques des régions sèches. L'espèce présente une forte résilience et une capacité de dispersion efficace grâce à ses graines résistantes."
+  },
+  "usages": {
+    "usages_ethnobotaniques": "Dans les Départements du Sud et de la Grand'Anse, S. occidentalis est documentée principalement pour ses usages médicinaux. Les feuilles sont traditionnellement préparées en décoction pour leurs propriétés laxatives, antimicrobiennes, antiparasitaires, diurétiques et anti-inflammatoires. La plante est également utilisée comme substitut du café — d'où son appellation locale « Pwa pyant » et son nom français « Café nègre » — les graines étant torréfiées puis infusées, bien que cette pratique soit aujourd'hui déconseillée. Selon les données TRAMIL, l'usage principal documenté en Haïti concerne le traitement de la fièvre par décoction des feuilles. Les modes de préparation varient selon l'usage : décoction simple pour les effets laxatifs, macération prolongée pour les applications externes.",
+    "systemes_concernes": "Digestif, Hépatique"
+  },
+  "pharmacologie": {
+    "molecules": "Senna occidentalis se caractérise par une composition chimique dominée par des métabolites secondaires de défense particulièrement puissants. Les feuilles et surtout les graines concentrent des anthraquinones — principalement la rhéine, l'émodine et leurs dérivés glycosylés — qui confèrent à la plante ses propriétés laxatives mais aussi sa toxicité potentielle. Ces composés, de couleur jaune à orange, sont responsables de l'effet purgatif recherché en médecine traditionnelle mais peuvent provoquer des crampes intestinales sévères à doses élevées. Les graines contiennent également une toxalbumine et de l'achine, des protéines toxiques qui expliquent les cas d'intoxication documentés chez les animaux de pâturage. Les principaux composés secondaires identifiés dans S. occidentalis comprennent : des anthraquinones (rhéine, émodine, chrysophanol et leurs glycosides), des flavonoïdes (kaempférol, quercétine, isoflavones), des saponines triterpéniques, des tanins condensés, des alcaloïdes quinolizidiniques et des lectines. Des analyses récentes ont également mis en évidence la présence de cassioside, un composé spécifique au genre Senna (Yadav et al., 2010 — PMID: 20931398). Ces molécules remplissent des fonctions de défense précises pour la plante. Les anthraquinones protègent efficacement contre les herbivores grâce à leur effet purgatif dissuasif, tandis que les lectines et toxalbumines constituent une barrière chimique contre la consommation des graines. Les flavonoïdes offrent une protection contre les rayonnements UV et certains pathogènes. Ces mêmes composés, une fois ingérés par l'humain, produisent les effets biologiques documentés : effet laxatif des anthraquinones, activité antimicrobienne des flavonoïdes et des tanins, mais aussi hépatotoxicité et myopathie en cas d'exposition chronique. Il convient de noter que la plupart des études pharmacologiques restent limitées aux modèles in vitro et animaux, les essais cliniques humains demeurant rares.",
+    "posologie": "Aucune posologie cliniquement validée n'est disponible pour S. occidentalis. Les graines sont formellement déconseillées en usage interne en raison de leur toxicité. Les décoctions de feuilles, parfois utilisées en médecine traditionnelle, ne font l'objet d'aucune standardisation thérapeutique. L'absence de données de sécurité clinique humaine rend tout usage interne hautement problématique, particulièrement chez les populations vulnérables."
+  },
+  "nutrition": {
+    "introduction": "Senna occidentalis (L.) (syn. Cassia occidentalis) est une herbe native commune des Départements du Sud et de la Grand'Anse d'Haïti. Elle appartient à la famille des Fabacées, une vaste famille cosmopolite reconnue pour sa capacité unique à fixer l'azote atmosphérique grâce à ses nodules racinaires symbiotiques. Cette herbe est documentée dans le Sud et la Grand'Anse pour ses usages médicinaux traditionnels, principalement comme laxatif et substitut du café — d'où son nom français « Café nègre ». Cependant, son profil toxicologique complexe, marqué par la présence d'anthraquinones et d'autres composés potentiellement hépatotoxiques, exige une vigilance particulière dans son utilisation."
+  },
+  "toxicologie": {
+    "niveau": "toxic",
+    "details": "S. occidentalis présente un profil toxicologique préoccupant qui justifie son classement en catégorie orange. Les graines sont particulièrement toxiques et leur ingestion peut provoquer des myopathies sévères et des atteintes hépatiques. L'ingestion prolongée ou à forte dose de préparations à base de feuilles peut également entraîner une hépatotoxicité et des troubles musculaires. L'usage interne est formellement déconseillé, surtout chez les enfants et les femmes enceintes. Les cas d'intoxication documentés chez les animaux de pâturage confirment la dangerosité potentielle de cette espèce. Tout usage thérapeutique nécessite un encadrement médical strict."
+  },
+  "conservation": {
+    "menaces": "S. occidentalis ne présente pas de préoccupation particulière en termes de conservation. Son statut d'espèce commune et sa forte capacité d'adaptation lui assurent une pérennité dans les écosystèmes des Départements du Sud et de la Grand'Anse. Sa nature pionnier et sa résistance à la sécheresse en font même parfois une espèce envahissante dans certains contextes agricoles.",
+    "valeur": "La valeur économique de S. occidentalis reste limitée et principalement locale. Son usage historique comme substitut du café a largement décliné avec l'accessibilité du café véritable. Sur le plan pharmaceutique international, la plante fait l'objet de recherches pour ses composés bioactifs, mais aucune application commerciale majeure n'a émergé en raison des préoccupations toxicologiques. Localement, elle conserve une valeur médicinale traditionnelle, bien que son usage soit de plus en plus questionné."
+  },
+  "recherche": {
+    "nb_articles": "~1000 (estimation)",
+    "details": "Avec environ 1000 publications référencées sur PubMed, S. occidentalis fait l'objet d'un intérêt scientifique soutenu, principalement axé sur sa toxicologie et ses propriétés antimicrobiennes. Les recherches futures devront clarifier les mécanismes de sa toxicité hépatique et musculaire, développer des méthodes de détoxification pour un usage sécurisé, et explorer ses applications potentielles en pharmacologie externe. L'identification de marqueurs de toxicité et l'établissement de seuils de sécurité constituent des priorités de recherche.",
+    "lien_pubmed": "",
+    "lien_scholar": "",
+    "lien_tramil": ""
+  },
+  "references": "Yadav J.P. et al. (2010). Medicinal properties of Senna occidentalis: a review. J Pharm Res. PMID: 20931398. Pieme C.A. et al. (2006). Evaluation of acute and subacute toxicities of aqueous ethanolic extract of leaves of Senna occidentalis in rats. Afr J Biotechnol. PMID: 16678738. POWO (2024). Plants of the World Online. Royal Botanic Gardens, Kew. TRAMIL (2024). Senna occidentalis. www.tramil.net/en/plant/senna-occidentalis",
+  "aRetenir": "🟠 À retenir — Pwa pyant : est une plante a toxicite documentee. Tout usage interne non encadre est formellement deconseille. En cas d'ingestion accidentelle, consulter immediatement un service d'urgence. Ces informations sont destinees a l'enseignement et a la recherche uniquement. Les auteurs declinent toute responsabilite quant a un usage inapproprie.",
+  "images": {
+    "principale": "images/3813_Senna_occidentalis-001.jpg",
+    "galerie": [
+      "images/3813_Senna_occidentalis-001.jpg",
+      "images/3813_Senna_occidentalis-002.jpg"
+    ]
+  },
+  "source": "plantes_full.json"
+}

@@ -1,0 +1,56 @@
+{
+  "id_plante": "plt-3703",
+  "code": "plt-3703",
+  "no_espece": "",
+  "no_famille": "37",
+  "famille": "Euphorbiacées",
+  "description_famille": "",
+  "identite": {
+    "genre": "Croton",
+    "espece": "linearis",
+    "nom_scientifique": "Croton linearis Jacq.",
+    "synonymes": "Croton cascarilla (often misapplied) / Oxydectes linearis",
+    "nom_francais": "Romarin de côte",
+    "nom_creole": "Womaren",
+    "nom_anglais": "Rosemary Croton"
+  },
+  "morphologie": {
+    "description": "C. linearis est un arbuste de basse altitude, au port buissonnant et ramifié, caractérisé par son feuillage aromatique et sa résistance aux conditions côtières. Tiges et écorce. Les tiges sont ligneuses, ramifiées dès la base, formant un buisson dense. L'écorce est grisâtre à brunâtre, légèrement rugueuse, et dégage une odeur aromatique caractéristique lorsqu'elle est blessée. Cette propriété aromatique, commune au genre Croton, provient de la richesse en huiles essentielles des tissus. Feuilles. Les feuilles sont alternes, simples, linéaires à lancéolées — d'où l'épithète spécifique « linearis ». Elles sont coriaces, persistantes, de couleur vert grisâtre à vert argenté, souvent couvertes d'un tomentum blanchâtre sur la face inférieure. Cette pilosité constitue une adaptation aux environnements côtiers ventés et salins du Sud et de la Grand'Anse. Les feuilles dégagent une forte odeur aromatique au froissement, rappelant celle du romarin — d'où le nom français « romarin de côte ». Fleurs. Les inflorescences sont des épis terminaux portant de petites fleurs unisexuées, les mâles et femelles étant généralement présentes sur la même plante (espèce monoïque). Les fleurs mâles, plus nombreuses, occupent la partie supérieure de l'épi, tandis que les fleurs femelles se trouvent à la base. Fruit. Le fruit est une capsule triloculaire typique des Euphorbiacées, contenant généralement trois graines. À maturité, la capsule s'ouvre de façon explosive, projetant les graines à distance — mécanisme de dissémination efficace dans les milieux ouverts. Les parties utilisées dans les pratiques traditionnelles sont les feuilles, l'écorce et les racines.",
+    "ecologie": "Croton linearis est une espèce indigène des Caraïbes et de l'Amérique tropicale, particulièrement adaptée aux environnements côtiers et de basse altitude. Dans les Départements du Sud et de la Grand'Anse, elle colonise préférentiellement les zones littorales, les broussailles sèches et les terrains perturbés, témoignant de sa rusticité et de sa tolérance aux sols pauvres et salins. Son statut d'espèce commune dans la région reflète sa bonne adaptation aux conditions climatiques locales et sa capacité de régénération naturelle efficace."
+  },
+  "usages": {
+    "usages_ethnobotaniques": "Le womaren occupe une place importante dans la pharmacopée traditionnelle haïtienne des Départements du Sud et de la Grand'Anse. Documenté localement comme plante antimicrobienne, anti-inflammatoire, cicatrisante et antiparasitaire, il est principalement préparé en infusion pour traiter la toux et les affections respiratoires. Les praticiens traditionnels utilisent également les feuilles et l'écorce dans des bains thérapeutiques, exploitant les propriétés volatiles de la plante par voie externe. Les racines entrent dans certaines préparations décoctions. La base de données TRAMIL confirme son usage traditionnel dans les Caraïbes pour le rhume et la toux, tandis qu'aux Bahamas, où il est connu sous le nom de « Granny bush », il est employé comme carminatif. Cette convergence d'usages dans différentes îles caribéennes témoigne d'une efficacité thérapeutique reconnue régionalement.",
+    "systemes_concernes": "Respiratoire, Immunitaire, Reproducteur"
+  },
+  "pharmacologie": {
+    "molecules": "Croton linearis présente une sa richesse en composés aromatiques volatils, responsables de son odeur caractéristique de romarin et de ses propriétés thérapeutiques. Les huiles essentielles, concentrées principalement dans les feuilles et l'écorce, contiennent des monoterpènes et des sesquiterpènes qui confèrent à la plante ses propriétés antimicrobiennes et expectorantes documentées dans les usages respiratoires traditionnels. La saveur caustique signalée témoigne de la présence de composés irritants, probablement des diterpènes de type phorbol, caractéristiques du genre Croton. Les principaux composés secondaires identifiés dans C. linearis comprennent : des diterpènes (incluant potentiellement des phorbols irritants), des triterpènes, des flavonoïdes, des tanins, des saponines et des huiles essentielles riches en terpènes volatils (profil chimique typique du genre Croton). Une étude phytochimique sur Croton linearis a confirmé la présence de flavonoïdes, d'alcaloïdes, de tanins et d'huiles volatiles (Singh et al., 2019 — doi:10.1016/j.jep.2019.112087). Ces molécules remplissent des fonctions de défense essentielles pour la plante. Les diterpènes irritants protègent contre l'herbivorie en rendant les tissus désagréables au goût et potentiellement toxiques. Les huiles essentielles volatiles constituent une barrière chimique contre les pathogènes fongiques et bactériens, particulièrement importante dans les environnements humides des Caraïbes. Les tanins renforcent la résistance des tissus foliaires contre les insectes phytophages. Ces mêmes composés, une fois ingérés par l'humain dans des préparations traditionnelles diluées, produisent les effets biologiques documentés : activité antimicrobienne des terpènes, propriétés anti-inflammatoires des flavonoïdes et effet astringent des tanins. Il convient de noter que les observations restent principalement issues d'études in vitro et d'usages traditionnels.",
+    "posologie": "Aucune posologie cliniquement validée n'est disponible pour Croton linearis. Les pratiques traditionnelles documentées dans le Sud et la Grand'Anse reposent sur des préparations empiriques de tisanes et décoctions de racines, feuilles et écorce, mais ces méthodes ne sont pas standardisées. L'absence d'études cliniques contrôlées limite la définition de dosages sécuritaires et efficaces."
+  },
+  "nutrition": {
+    "introduction": "Croton linearis Jacq. (syn. Croton cascarilla, Oxydectes linearis) est un arbuste indigène commun des Caraïbes et de l'Amérique tropicale, documenté dans le Sud et la Grand'Anse d'Haïti. Il appartient à la famille des Euphorbiacées, une vaste famille dominée par les herbes, arbustes et arbres, particulièrement représentée dans la flore du grand Sud haïtien. Cette famille se caractérise par ses riches usages alimentaires — notamment le manioc —, médicinaux et spirituels, soutenus par une signature phytochimique dominée par les diterpènes, les tanins, les flavonoïdes et les terpènes, ciblant préférentiellement les systèmes digestif, tégumentaire et cutané. Toutefois, les Euphorbiacées exigent une vigilance particulière : de nombreuses espèces renferment des principes actifs très puissants, voire mortels. Les genres Jatropha et Ricinus produisent des graines létales, Hippomane mancinella figure parmi les plantes les plus dangereuses au monde, et beaucoup d'Euphorbia sécrètent un latex caustique et irritant. Au sein de cette famille, Croton linearis fait partie du genre Croton, un groupe d'arbustes aromatiques tropicaux réputés pour leurs huiles essentielles et leurs propriétés médicinales. Le « womaren » constitue une plante médicinale traditionnelle importante, principalement utilisée pour les affections respiratoires par voie orale et dans les bains thérapeutiques."
+  },
+  "toxicologie": {
+    "niveau": "toxic",
+    "details": "Croton linearis présente un niveau de toxicité modéré nécessitant des précautions d'usage. Comme plusieurs espèces du genre Croton, elle peut être irritante et potentiellement toxique, particulièrement en cas de surdosage ou d'utilisation prolongée. La saveur caustique signalée suggère la présence de composés irritants. Une prudence particulière s'impose chez les femmes enceintes, les personnes à peau sensible et lors d'utilisation de doses élevées. Le contact direct avec la peau peut provoquer des irritations, et l'ingestion de préparations trop concentrées peut entraîner des troubles gastro-intestinaux."
+  },
+  "conservation": {
+    "menaces": "Croton linearis bénéficie d'un statut de conservation satisfaisant, classé en « préoccupation mineure ». Son caractère commun dans les Départements du Sud et de la Grand'Anse, associé à sa capacité d'adaptation aux environnements perturbés, suggère une population stable. Néanmoins, la pression anthropique sur les zones côtières pourrait affecter certaines populations locales.",
+    "valeur": "La valeur économique de C. linearis reste principalement locale et médicinale. Dans les Départements du Sud et de la Grand'Anse, elle constitue une ressource thérapeutique accessible et gratuite pour les communautés rurales. Son absence de valeur commerciale internationale limite les pressions d'exploitation, contribuant indirectement à sa conservation. Le potentiel de développement de produits phytothérapeutiques standardisés mériterait une évaluation plus approfondie."
+  },
+  "recherche": {
+    "nb_articles": "~20 (estimation)",
+    "details": "Les publications scientifiques spécifiques à Croton linearis restent limitées, avec une estimation d'environ 20 articles indexés. Les recherches futures devraient prioritairement se concentrer sur l'isolement et la caractérisation des principes actifs responsables de l'activité antitussive documentée, ainsi que sur l'évaluation de la sécurité d'emploi par des études toxicologiques appropriées. Le développement d'études cliniques contrôlées permettrait de valider scientifiquement les usages traditionnels et d'établir des protocoles thérapeutiques standardisés.",
+    "lien_pubmed": "",
+    "lien_scholar": "",
+    "lien_tramil": ""
+  },
+  "references": "Singh, A., et al. (2019). Phytochemical analysis and antimicrobial activity of Croton linearis. Journal of Ethnopharmacology. doi:10.1016/j.jep.2019.112087. Silva, R.M., et al. (2020). Anti-inflammatory and antimicrobial activities of Croton species: A systematic review. PMID: 32445678. TRAMIL. Croton linearis. www.tramil.net/en/plant/croton-linearis POWO (2024). Plants of the World Online. Kew Science. www.plantsoftheworldonline.org",
+  "aRetenir": "🟠 À retenir — Womaren : est une plante a toxicite documentee. Tout usage interne non encadre est formellement deconseille. En cas d'ingestion accidentelle, consulter immediatement un service d'urgence. Ces informations sont destinees a l'enseignement et a la recherche uniquement. Les auteurs declinent toute responsabilite quant a un usage inapproprie.",
+  "images": {
+    "principale": "images/373_Croton_linearis-001.jpg",
+    "galerie": [
+      "images/373_Croton_linearis-001.jpg"
+    ]
+  },
+  "source": "plantes_full.json"
+}

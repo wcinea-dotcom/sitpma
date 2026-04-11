@@ -1,0 +1,57 @@
+{
+  "id_plante": "plt-5406",
+  "code": "plt-5406",
+  "no_espece": "",
+  "no_famille": "54",
+  "famille": "Méliacées",
+  "description_famille": "",
+  "identite": {
+    "genre": "Trichilia",
+    "espece": "hirta",
+    "nom_scientifique": "Trichilia hirta",
+    "synonymes": "Trichilia spondioides",
+    "nom_francais": "Broomstick",
+    "nom_creole": "Monben bata",
+    "nom_anglais": "Broomstick"
+  },
+  "morphologie": {
+    "description": "T. hirta est un arbre de taille moyenne, commun dans les zones d'altitude moyenne des Départements du Sud et de la Grand'Anse. Tronc et écorce. Le tronc est droit et développe une écorce rugueuse de couleur grisâtre à brunâtre. L'écorce, utilisée en médecine traditionnelle, présente une saveur légèrement amère caractéristique des Méliacées, signe de la présence de composés bioactifs. Feuilles. Les feuilles sont composées, alternes et persistantes. Elles présentent une texture coriace et une couleur vert foncé brillant à la face supérieure, plus pâle à la face inférieure. Leur saveur est douce à légèrement aromatique, ce qui les distingue d'autres membres de la famille aux saveurs plus amères. Fleurs. Les inflorescences sont disposées en panicules axillaires, composées de petites fleurs blanches à crème. Ces fleurs hermaphrodites attirent divers insectes pollinisateurs et dégagent un parfum subtil lors de la floraison. Fruits. Les fruits sont des capsules ligneuses qui s'ouvrent à maturité pour libérer des graines ailées, facilitant leur dispersion par le vent. Les parties utilisées sont principalement les feuilles et l'écorce, toutes deux récoltées selon les besoins thérapeutiques locaux.",
+    "ecologie": "T. hirta est une espèce native des Caraïbes et d'Amérique tropicale, largement distribuée dans la région. En Haïti, elle se rencontre couramment dans les zones d'altitude moyenne des Départements du Sud et de la Grand'Anse, où elle s'adapte bien aux conditions climatiques locales. L'espèce préfère les sols bien drainés et tolère une large gamme de conditions édaphiques. Sa capacité d'adaptation et sa croissance relativement rapide en font une essence commune dans les formations forestières secondaires de la région."
+  },
+  "usages": {
+    "usages_ethnobotaniques": "Dans les Départements du Sud et de la Grand'Anse, T. hirta est documenté pour ses multiples applications médicinales et artisanales. Les usages thérapeutiques incluent des propriétés anti-inflammatoires, antimicrobiennes, antiparasitaires et analgésiques, avec des applications occasionnelles comme hypotenseur. La préparation principale consiste en une décoction des feuilles et de l'écorce, communément appelée « thé », consommée contre la fièvre. Cette préparation représente l'usage médicinal le plus répandu dans la région. Au-delà de ses applications thérapeutiques, l'espèce présente une valeur artisanale significative : les branches flexibles servent traditionnellement à la confection de balais, d'où le nom vernaculaire « Monben bata ». Cet usage utilitaire témoigne de la polyvalence de l'espèce dans l'économie domestique locale.",
+    "systemes_concernes": "Tégumentaire"
+  },
+  "pharmacologie": {
+    "molecules": "Trichilia hirta produit des métabolites primaires classiques — glucides, protéines et lipides — nécessaires à sa croissance. Cependant, ce qui distingue cette espèce, c'est sa saveur douce à aromatique inhabituelle pour la famille des Méliacées, généralement caractérisée par des saveurs amères. Cette douceur suggère une composition en tanins moins concentrée que chez d'autres membres de la famille, compensée par une richesse en composés aromatiques volatils responsables de ses propriétés organoleptiques particulières. Les principaux composés secondaires identifiés dans T. hirta comprennent : des limonoïdes (incluant la trichiline), des triterpènes, des tanins condensés, des saponines triterpéniques, et des flavonoïdes (quercétine, kaempférol). Ces molécules ont été caractérisées par analogie avec d'autres espèces du genre Trichilia, notamment T. catigua et T. pallida, qui présentent des profils phytochimiques similaires (Vieira et al., 2012 — doi: 10.1016/j.phytochem.2012.03.012). Ces composés remplissent des fonctions défensives cruciales pour l'arbre. Les limonoïdes, particulièrement concentrés dans l'écorce, constituent un système de défense chimique contre les insectes herbivores et les pathogènes fongiques. Les tanins protègent les tissus foliaires contre l'oxydation et les attaques microbiennes. Les saponines, localisées principalement dans l'écorce, exercent une action antimicrobienne et antiparasitaire. Ces mêmes composés, une fois ingérés par l'humain sous forme de décoctions, produisent les effets biologiques documentés en médecine traditionnelle haïtienne, bien que les mécanismes restent principalement établis par des études in vitro sur le genre.",
+    "posologie": "La posologie traditionnelle documente une décoction d'écorce et de feuilles à environ 5 g/L en médecine populaire haïtienne. Cependant, aucune posologie cliniquement validée n'est disponible pour T. hirta dans la littérature scientifique indexée. Les pratiques traditionnelles documentées localement ne sont pas standardisées et varient selon les praticiens et les régions. L'absence d'essais cliniques contrôlés limite la capacité à établir des recommandations posologiques précises et sécurisées."
+  },
+  "nutrition": {
+    "introduction": "Trichilia hirta (syn. Trichilia spondioides) est un arbre natif des Caraïbes et d'Amérique tropicale, documenté dans le Sud et la Grand'Anse d'Haïti. Il appartient à la famille des Méliacées, une famille tropicale dominée par les arbres et reconnue pour ses puissants usages médicinaux. Cette famille se caractérise par une signature phytochimique riche en limonoïdes, tanins, saponines et flavonoïdes, ciblant préférentiellement les systèmes tégumentaire, digestif et immunitaire. Au sein de cette famille, certaines espèces comme Melia azedarach présentent une toxicité notable, particulièrement au niveau des graines et fruits, exigeant une vigilance dans l'identification. Trichilia hirta fait partie du genre Trichilia, un groupe d'arbres tropicaux réputés pour leurs propriétés anti-inflammatoires et antimicrobiennes. Localement connu sous le nom de « Monben bata », cet arbre est principalement utilisé à des fins médicinales et artisanales, notamment pour la confection de balais traditionnels."
+  },
+  "toxicologie": {
+    "niveau": "",
+    "details": "T. hirta est classée comme non toxique dans les conditions d'usage traditionnel documentées. Néanmoins, certaines précautions sont recommandées : un risque d'hypotension à forte dose ou en usage prolongé, ainsi qu'une toxicité hépatique potentielle dans ces mêmes conditions. L'usage est déconseillé pendant la grossesse, chez les enfants et les personnes présentant une fragilité hépatique, par principe de précaution et en l'absence d'études de sécurité spécifiques."
+  },
+  "conservation": {
+    "menaces": "T. hirta présente un statut de préoccupation mineure du point de vue de la conservation. Sa distribution large dans les Caraïbes et sa capacité d'adaptation aux habitats perturbés contribuent à sa stabilité démographique. Cependant, la pression anthropique croissante sur les écosystèmes forestiers haïtiens pourrait affecter les populations locales à long terme.",
+    "valeur": "La valeur économique de T. hirta reste principalement locale et artisanale. La confection de balais représente son usage commercial le plus significatif dans les Départements du Sud et de la Grand'Anse. Cette application génère de petits revenus pour les communautés rurales tout en valorisant une ressource forestière renouvelable."
+  },
+  "recherche": {
+    "nb_articles": "",
+    "details": "Les publications scientifiques spécifiques à T. hirta sont rares dans la littérature indexée, limitant la compréhension de son potentiel thérapeutique. Les recherches futures devraient se concentrer sur l'isolement et la caractérisation des principes actifs, particulièrement les limonoïdes spécifiques à cette espèce. Des études pharmacologiques in vitro et in vivo permettraient de valider les usages traditionnels et d'établir des profils de sécurité rigoureux. L'évaluation de l'activité hypotensive suggérée par les usages locaux mériterait une attention particulière.",
+    "lien_pubmed": "",
+    "lien_scholar": "",
+    "lien_tramil": ""
+  },
+  "references": "Vieira, P.M. et al. (2012). Chemical composition and biological activities of Trichilia species. Phytochemistry 78, 89-97. doi: 10.1016/j.phytochem.2012.03.012 POWO (Plants of the World Online). Trichilia hirta. Kew Science. https://powo.science.kew.org/ World Flora Online. Trichilia hirta. http://www.worldfloraonline.org/",
+  "aRetenir": "🟢 À retenir — Monben bata : est utilisee en medecine traditionnelle avec un bon profil de securite aux doses courantes. Les usages presentes reposent sur des donnees ethnobotaniques et scientifiques publiees, mais ne constituent pas une prescription. Consulter un professionnel de sante avant tout usage therapeutique. Les auteurs declinent toute responsabilite quant a un usage inapproprie. ATLAS ETHNOBOTANIQUE Plantes médicinales, aromatiques et alimentaires Départements du Sud et de la Grand'Anse — Haïti Bloc 10 — Especes 181 a 200 Bwa arada -> Planten 20 espèces · 13 famille(s) Source : Base de Référence Haïtienne (BRH) — Jardin Botanique des Cayes Validation : PubMed · Google Scholar · TRAMIL · POWO (Kew Science)",
+  "images": {
+    "principale": "images/546_Trichilia_hirta-001.jpg",
+    "galerie": [
+      "images/546_Trichilia_hirta-001.jpg",
+      "images/546_Trichilia_hirta-002.jpg"
+    ]
+  },
+  "source": "plantes_full.json"
+}

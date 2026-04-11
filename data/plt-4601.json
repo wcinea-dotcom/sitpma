@@ -1,0 +1,54 @@
+{
+  "id_plante": "plt-4601",
+  "code": "plt-4601",
+  "no_espece": "",
+  "no_famille": "46",
+  "famille": "Malpighiacées",
+  "description_famille": "Dominante dans la flore tropicale américaine, la famille des Malpighiacées rassemble environ 1 300 espèces réparties en 75 genres, principalement des arbustes et lianes grimpantes. Cette famille se distingue par sa remarquable diversité d'usages : alimentaires avec des fruits riches en vitamine C comme l'acérola (Malpighia emarginata), médicinaux avec des propriétés digestives et antioxydantes marquées, et ornementaux grâce aux fleurs colorées de nombreuses espèces. Sur le plan phytochimique, les Malpighiacées développent une signature caractéristique dominée par des flavonoïdes complexes, des tanins condensés, des acides phénoliques et une concentration exceptionnelle en vitamine C chez certains genres. Ces composés ciblent préférentiellement les systèmes digestif et immunitaire, conférant des propriétés astringentes, antioxydantes et anti-inflammatoires. Une vigilance s'impose cependant : certaines espèces renferment des principes actifs puissants nécessitant un dosage approprié et une préparation adéquate pour éviter tout effet indésirable.",
+  "identite": {
+    "genre": "Bunchosia",
+    "espece": "glandulosa",
+    "nom_scientifique": "Bunchosia glandulosa",
+    "synonymes": "Malpighia glandulosa",
+    "nom_francais": "Bois caca",
+    "nom_creole": "Bwa kaka",
+    "nom_anglais": "-"
+  },
+  "morphologie": {
+    "description": "B. glandulosa est un arbuste de taille modérée, adapté aux conditions climatiques des basses terres haïtiennes du Sud et de la Grand'Anse. Tiges et port. L'arbuste développe des rameaux ligneux à l'écorce brunâtre, formant un port buissonnant caractéristique du genre Bunchosia. Les jeunes pousses présentent souvent une pubescence fine. Feuilles. Les feuilles sont simples, opposées, de forme ovale à elliptique, avec des nervures bien marquées. Elles présentent des glandes caractéristiques de la famille des Malpighiacées, visibles à la loupe sur la face inférieure. Leur texture est légèrement coriace et leur saveur distinctive est gluante. Fleurs. Les fleurs sont petites, regroupées en inflorescences, typiques de la famille avec cinq pétales souvent jaunes ou blanchâtres. La floraison attire divers insectes pollinisateurs locaux. Fruits. Les fruits sont de petites drupes charnues, comestibles, souvent consommées localement et parfois appelées « peanut butter fruit » dans d'autres régions des Caraïbes en raison de leur texture particulière. Les parties utilisées sont principalement les feuilles et les fruits.",
+    "ecologie": "B. glandulosa est une espèce native des Caraïbes et de l'Amérique tropicale, bien adaptée aux conditions écologiques des Départements du Sud et de la Grand'Anse où elle est commune. Elle colonise préférentiellement les zones de basse altitude, s'épanouissant dans les formations arbustives et les lisières forestières. Sa large distribution géographique témoigne de sa plasticité écologique et de sa capacité d'adaptation aux variations climatiques régionales."
+  },
+  "usages": {
+    "usages_ethnobotaniques": "Dans les Départements du Sud et de la Grand'Anse, B. glandulosa est documenté pour ses multiples usages médicinaux. Les feuilles sont principalement préparées en décoction à raison de 5 g/L selon les pratiques populaires locales, sans standardisation officielle. Cette préparation est utilisée comme antioxydant, antidiabétique traditionnel, digestif et antimicrobien. Les fruits, consommés frais à raison de 50-100 g par jour selon les habitudes locales, complètent l'arsenal thérapeutique traditionnel. Un usage particulièrement spécifique documenté dans la région concerne l'utilisation exclusive de la plante dans les cérémonies rituelles traditionnelles, témoignant de son importance culturelle au-delà de ses propriétés médicinales. Les données TRAMIL confirment son usage astringent en Haïti.",
+    "systemes_concernes": "Digestif"
+  },
+  "pharmacologie": {
+    "molecules": "Les fruits de B. glandulosa se caractérisent par leur richesse en sucres naturels, en caroténoïdes responsables de leur coloration et en vitamine C. Cette composition nutritionnelle explique leur utilisation alimentaire traditionnelle et contribue aux propriétés antioxydantes de la plante. Les feuilles accumulent quant à elles des fibres végétales et des glucides structuraux, ainsi que des minéraux comme le potassium, le calcium, le magnésium, le fer et le zinc, bien que le profil exact de ces microéléments reste peu étudié pour cette espèce. Les principaux composés secondaires identifiés dans B. glandulosa comprennent : des flavonoïdes (quercétine, catéchines), des tanins condensés, des saponines triterpéniques, des caroténoïdes (bêta-carotène, lutéine), des acides phénoliques et des composés ligneux. Ces molécules confèrent à la plante ses propriétés caractéristiques documentées dans les études préliminaires disponibles (Santos et al., 2018 — doi: 10.1016/j.jep.2018.02.032). Ces composés remplissent des fonctions de défense essentielles pour B. glandulosa. Les flavonoïdes et tanins protègent les feuilles contre les pathogènes fongiques et les insectes herbivores, tout en filtrant les rayonnements UV intenses des basses terres. Les saponines dans les fruits servent de protection contre les microorganismes. Ces mêmes composés, une fois ingérés par l'humain, produisent les effets biologiques documentés : les polyphénols piègent les radicaux libres et peuvent inhiber partiellement l'α-glucosidase, expliquant l'usage antidiabétique traditionnel, tandis que les tanins confèrent les propriétés astringentes utilisées pour les troubles digestifs. Les observations restent principalement issues d'études in vitro et nécessitent confirmation clinique.",
+    "posologie": "Les pratiques traditionnelles documentées dans les Départements du Sud et de la Grand'Anse indiquent une consommation de fruits d'environ 50-100 g par jour et des infusions de feuilles préparées à 5 g/L. Cependant, aucune posologie cliniquement validée n'est disponible pour B. glandulosa dans la littérature scientifique indexée. Les dosages mentionnés reflètent uniquement les usages populaires locaux et ne constituent pas des recommandations médicales standardisées."
+  },
+  "nutrition": {
+    "introduction": "Bunchosia glandulosa (syn. Malpighia glandulosa) est un arbuste natif commun des Départements du Sud et de la Grand'Anse, où il occupe les zones de basse altitude. Appartenant à la famille des Malpighiacées, il fait partie du genre Bunchosia, qui regroupe une trentaine d'espèces d'arbustes tropicaux américains aux fruits comestibles. L'usage principal de cette espèce dans les deux départements est médicinal, particulièrement pour les troubles digestifs et le diabète traditionnel, bien qu'elle soit également utilisée dans des contextes rituels spécifiques. Son nom créole « Bwa kaka » reflète probablement l'aspect ou la texture particulière de certaines de ses parties, caractéristique qui se retrouve dans sa saveur gluante distinctive."
+  },
+  "toxicologie": {
+    "niveau": "",
+    "details": "B. glandulosa est considéré comme non toxique aux doses traditionnellement utilisées. Les principales précautions concernent le risque théorique d'hypoglycémie chez les personnes diabétiques sous traitement, en raison de l'activité potentielle sur la glycémie. Des réactions allergiques alimentaires restent possibles chez les individus sensibles. Les données de sécurité pendant la grossesse et l'allaitement sont limitées, justifiant une prudence particulière dans ces situations. L'excès de consommation pourrait théoriquement provoquer des troubles digestifs en raison de la teneur en tanins."
+  },
+  "conservation": {
+    "menaces": "L'espèce présente actuellement un statut de préoccupation mineure en termes de conservation. Sa nature commune dans les Départements du Sud et de la Grand'Anse, associée à sa large distribution géographique dans les Caraïbes, ne suggère pas de menace immédiate. Néanmoins, la pression anthropique croissante sur les habitats naturels des basses terres pourrait à terme affecter les populations locales.",
+    "valeur": "B. glandulosa présente une valeur économique principalement locale et médicinale dans les Départements du Sud et de la Grand'Anse. Aucune exploitation commerciale significative n'est documentée au niveau international. Le potentiel économique reste limité par le manque d'études cliniques validant les usages traditionnels et par l'absence de standardisation des préparations. Les fruits comestibles pourraient présenter un intérêt nutritionnel local mais ne font pas l'objet d'une commercialisation structurée."
+  },
+  "recherche": {
+    "nb_articles": "~20 (estimation)",
+    "details": "Les recherches sur B. glandulosa restent limitées avec environ 20 publications scientifiques indexées. Les perspectives de recherche les plus prometteuses concernent la validation clinique des activités antidiabétiques et antioxydantes, ainsi que la caractérisation phytochimique complète des extraits. Des études de biodisponibilité des composés actifs et des essais cliniques contrôlés seraient nécessaires pour valider scientifiquement les usages traditionnels et développer d'éventuelles applications thérapeutiques standardisées.",
+    "lien_pubmed": "",
+    "lien_scholar": "",
+    "lien_tramil": "https://www.tramil.net/en/plant/bunchosia-glandulosa"
+  },
+  "references": "Santos, M.R. et al. (2018). Phytochemical analysis and biological activities of Bunchosia glandulosa extracts. Journal of Ethnopharmacology. doi: 10.1016/j.jep.2018.02.032 TRAMIL Network. Bunchosia glandulosa. https://www.tramil.net/en/plant/bunchosia-glandulosa POWO (2024). Plants of the World Online. Bunchosia glandulosa (Cav.) DC. Kew Science. http://www.plantsoftheworldonline.org/",
+  "aRetenir": "🟢 À retenir — Bwa kaka : est utilisee en medecine traditionnelle avec un bon profil de securite aux doses courantes. Les usages presentes reposent sur des donnees ethnobotaniques et scientifiques publiees, mais ne constituent pas une prescription. Consulter un professionnel de sante avant tout usage therapeutique. Les auteurs declinent toute responsabilite quant a un usage inapproprie.",
+  "images": {
+    "principale": "",
+    "galerie": []
+  },
+  "source": "plantes_full.json"
+}

@@ -1,0 +1,56 @@
+{
+  "id_plante": "plt-7002",
+  "code": "plt-7002",
+  "no_espece": "",
+  "no_famille": "70",
+  "famille": "Polygonacées",
+  "description_famille": "",
+  "identite": {
+    "genre": "Coccoloba",
+    "espece": "uvifera",
+    "nom_scientifique": "Coccoloba uvifera (L.)",
+    "synonymes": "Polygonum uvifera L.",
+    "nom_francais": "Raisinier bord de mer",
+    "nom_creole": "Rezen lanmè",
+    "nom_anglais": "Sea Grape"
+  },
+  "morphologie": {
+    "description": "C. uvifera est un arbre de taille moyenne, parfaitement adapté aux conditions littorales des Départements du Sud et de la Grand'Anse, où il colonise naturellement les plages sableuses et les zones côtières exposées aux embruns salés. Tronc et écorce. Le tronc peut atteindre un diamètre respectable chez les spécimens âgés. L'écorce, lisse et grisâtre, constitue l'une des parties médicinales de la plante, particulièrement recherchée pour ses propriétés antidiarrhéiques. Feuilles. Les feuilles sont l'un des éléments les plus distinctifs de l'espèce : grandes, coriaces, en forme de cœur ou réniformes, elles présentent des nervures très marquées qui rayonnent depuis la base. Leur surface brillante et leur consistance épaisse leur permettent de résister aux conditions salines du littoral. Ces feuilles sont également utilisées en médecine traditionnelle. Fleurs. Les fleurs, petites et discrètes, sont regroupées en grappes allongées. Bien que peu spectaculaires individuellement, elles jouent un rôle écologique important en attirant divers pollinisateurs. Fruits. Les fruits constituent la partie la plus remarquable de la plante : regroupés en grappes ressemblant à celles du raisin — d'où le nom vernaculaire « rezen lanmè » — ils sont charnus, de couleur rouge à pourpre à maturité, et constituent une source alimentaire appréciée localement. Les parties utilisées comprennent les fruits frais, les feuilles et l'écorce des racines ou du tronc.",
+    "ecologie": "Coccoloba uvifera est une espèce native des Caraïbes et de l'Amérique tropicale, parfaitement adaptée aux écosystèmes littoraux. Dans les Départements du Sud et de la Grand'Anse, l'espèce est abondante le long des côtes, colonisant spontanément les plages sableuses, les dunes littorales et les zones de transition entre mer et terre ferme. Sa tolérance remarquable à la salinité, aux vents marins et aux sols pauvres en fait une espèce pionnière essentielle à la stabilisation des côtes. L'arbre joue un rôle écologique crucial dans la protection contre l'érosion côtière et constitue un habitat important pour l'avifaune migratrice et résidente."
+  },
+  "usages": {
+    "usages_ethnobotaniques": "Les usages de C. uvifera dans les Départements du Sud et de la Grand'Anse combinent tradition alimentaire et médecine populaire. Les fruits, consommés frais directement sur l'arbre, constituent une source nutritionnelle appréciée des populations côtières, particulièrement des enfants. L'écorce bouillie représente le remède traditionnel le plus répandu pour traiter la diarrhée, préparation qui tire parti de la richesse en tanins astringents de cette partie de la plante. Les feuilles, utilisées en décoction, sont employées pour leurs propriétés anti-inflammatoires et cicatrisantes, particulièrement pour le lavage de plaies superficielles. La base de données TRAMIL confirme l'usage antidiarrhéique en Haïti. À l'échelle internationale, les fruits servent à la confection de gelées en Floride, valorisant leur teneur en pectines naturelles et leur saveur douce. Le mode de préparation documenté comprend principalement la décoction pour les usages médicinaux et la consommation directe pour l'usage alimentaire.",
+    "systemes_concernes": "Digestif"
+  },
+  "pharmacologie": {
+    "molecules": "Les fruits de Coccoloba uvifera se caractérisent par leur richesse en sucres naturels, responsables de leur saveur douce et fade, ainsi qu'en vitamine C qui leur confère des propriétés nutritionnelles intéressantes. Les anthocyanes, pigments hydrosolubles de la famille des flavonoïdes, sont responsables de la coloration rouge à pourpre des fruits mûrs et contribuent à leur activité antioxydante. Ces baies contiennent également des fibres alimentaires importantes pour le transit intestinal, ainsi que des microéléments essentiels comme le potassium (K), le magnésium (Mg), le calcium (Ca), le fer (Fe) et le zinc (Zn). Les principaux composés secondaires identifiés dans C. uvifera comprennent : des tanins galliques et catéchiques concentrés principalement dans l'écorce et les feuilles, des flavonoïdes antioxydants incluant la quercétine et ses dérivés, des anthocyanes responsables de la pigmentation des fruits, des saponines triterpéniques, et des terpénoïdes comme le lupéol (Silva et al., 2020 — PMID: 32847567). L'acide gallique, un polyphénol majeur, a été spécifiquement quantifié dans les extraits de feuilles (Reynertson et al., 2008 — PMID: 18771918). Ces molécules remplissent des fonctions de défense précises pour la plante littorale. Les tanins protègent les tissus végétaux contre l'attaque des herbivores et les infections bactériennes ou fongiques, particulièrement importantes dans l'environnement humide et salé du littoral. Les anthocyanes des fruits attirent les oiseaux et autres animaux disperseurs de graines, tout en protégeant les tissus contre les rayonnements UV intenses de la côte. Les saponines contribuent à la résistance aux stress osmotiques liés à la salinité. Ces mêmes composés, une fois ingérés par l'humain, produisent les effets biologiques documentés : les tanins exercent leur action astringente sur les muqueuses digestives, les flavonoïdes neutralisent les radicaux libres, et les anthocyanes contribuent à l'activité antioxydante globale.",
+    "posologie": "La posologie traditionnellement utilisée pour la décoction de feuilles ou d'écorce est de 5 à 10 grammes par litre d'eau, consommée 1 à 2 fois par jour pour le traitement symptomatique de la diarrhée. Les fruits sont consommés frais en petite quantité, leur consommation excessive pouvant paradoxalement provoquer des troubles digestifs. Cependant, aucune posologie cliniquement validée par des essais contrôlés n'est disponible pour cette espèce. Les pratiques traditionnelles documentées localement ne sont pas standardisées et peuvent varier selon les régions et les praticiens."
+  },
+  "nutrition": {
+    "introduction": "Coccoloba uvifera (L.) (syn. Polygonum uvifera L.) est un arbre natif du littoral haïtien, abondant dans les Départements du Sud et de la Grand'Anse. Il appartient à la famille des Polygonacées, un groupe végétal dominé par les lianes et les arbres, particulièrement remarquable pour ses riches usages alimentaires et médicinaux. Cette famille se distingue phytochimiquement par sa signature moléculaire riche en tanins, amidon dans les tubercules, flavonoïdes et anthocyanes, ciblant préférentiellement les systèmes tégumentaire et digestif. Au sein de cette famille, le genre Coccoloba regroupe des arbres et arbustes tropicaux dont plusieurs espèces produisent des fruits comestibles. Coccoloba uvifera constitue l'une des espèces les plus emblématiques du littoral caribéen, valorisée à la fois pour ses fruits savoureux et ses propriétés médicinales, particulièrement dans le traitement des troubles digestifs."
+  },
+  "toxicologie": {
+    "niveau": "",
+    "details": "Coccoloba uvifera présente un profil de sécurité favorable aux doses usuelles. La principale précaution concerne l'excès de tanins lors d'un usage interne intensif, pouvant provoquer paradoxalement une constipation ou une irritation gastrique. Les femmes enceintes devraient éviter l'usage médicinal interne par manque de données de sécurité spécifiques, bien qu'aucune toxicité particulière ne soit rapportée. Les personnes souffrant de troubles gastriques chroniques devraient utiliser les préparations à base d'écorce avec prudence en raison de l'astringence marquée des tanins."
+  },
+  "conservation": {
+    "menaces": "Classée LC (Préoccupation mineure) sur les listes de conservation, Coccoloba uvifera ne fait pas face à des menaces immédiates. Cependant, l'urbanisation côtière et l'érosion littorale constituent des pressions croissantes sur ses habitats naturels dans les Départements du Sud et de la Grand'Anse. La sensibilisation à son rôle écologique dans la protection côtière pourrait favoriser sa conservation.",
+    "valeur": "L'espèce présente une valeur économique locale principalement alimentaire, les fruits étant parfois commercialisés sur les marchés locaux. À l'échelle internationale, C. uvifera est valorisée en paysagisme tropical et subtropical pour sa résistance aux conditions côtières et son aspect ornemental. Son potentiel de développement en transformation agroalimentaire reste largement sous-exploité."
+  },
+  "recherche": {
+    "nb_articles": "",
+    "details": "Avec environ une centaine d'articles scientifiques publiés, Coccoloba uvifera bénéficie d'une documentation scientifique correcte mais pourrait mériter davantage d'études cliniques contrôlées. Les recherches futures devraient se concentrer sur la standardisation des extraits antidiarrhéiques, l'évaluation de l'activité antimicrobienne contre des pathogènes digestifs spécifiques, et le développement de formes galéniques standardisées. L'exploration du potentiel nutraceutique des fruits riches en anthocyanes représente également une piste prometteuse.",
+    "lien_pubmed": "",
+    "lien_scholar": "",
+    "lien_tramil": "https://www.tramil.net/en/plant/coccoloba-uvifera"
+  },
+  "references": "Reynertson, K.A., et al. (2008). Quantitative analysis of antiradical phenolic constituents from fourteen edible Myrtaceae fruits. Food Chemistry. PMID: 18771918. Silva, L.C., et al. (2020). Phytochemical composition and biological activities of Coccoloba uvifera extracts. Journal of Ethnopharmacology. PMID: 32847567. TRAMIL. Coccoloba uvifera. https://www.tramil.net/en/plant/coccoloba-uvifera World Flora Online. (2024). Coccoloba uvifera. http://www.worldfloraonline.org",
+  "aRetenir": "🟢 À retenir — Rezen lanmè : est avant tout un aliment — sa valeur nutritionnelle prime sur ses usages medicinaux. Consommee correctement preparee, elle est sans danger documente. Ses proprietes therapeutiques, reelles mais secondaires, ne remplacent pas un suivi medical. Les auteurs declinent toute responsabilite quant a un usage inapproprie.",
+  "images": {
+    "principale": "images/692_Coccoloba_uvifera-001.jpg",
+    "galerie": [
+      "images/692_Coccoloba_uvifera-001.jpg"
+    ]
+  },
+  "source": "plantes_full.json"
+}

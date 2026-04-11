@@ -1,0 +1,56 @@
+{
+  "id_plante": "plt-5003",
+  "code": "plt-5003",
+  "no_espece": "",
+  "no_famille": "50",
+  "famille": "Moracées",
+  "description_famille": "",
+  "identite": {
+    "genre": "Artocarpus",
+    "espece": "jaca",
+    "nom_scientifique": "Artocarpus jaca",
+    "synonymes": "Artocarpus heterophyllus",
+    "nom_francais": "Jacquier",
+    "nom_creole": "Jak",
+    "nom_anglais": "Jackfruit"
+  },
+  "morphologie": {
+    "description": "A. jaca est un grand arbre tropical pouvant atteindre 15 à 20 mètres de hauteur, facilement reconnaissable par ses fruits exceptionnellement volumineux. Tronc et écorce. Le tronc est droit et robuste, recouvert d'une écorce rugueuse de couleur brun-grisâtre. Comme tous les membres des Moracées, l'arbre sécrète un latex blanc collant lors de blessures, mécanisme de défense contre les herbivores et les pathogènes. Feuilles. Les feuilles sont simples, alternes, coriaces et persistantes, de forme ovale à elliptique avec une surface brillante et vert foncé. Elles mesurent généralement 10 à 20 cm de longueur et présentent des nervures bien marquées. Fleurs. L'espèce est monoïque, portant des fleurs mâles et femelles séparées sur le même individu. Les fleurs mâles forment des chatons allongés, tandis que les fleurs femelles s'organisent en têtes sphériques qui donneront naissance aux fruits. Fruits. Le fruit du jacquier est un syncarpe — fruit multiple — pouvant peser de 5 à 35 kg, ce qui en fait l'un des plus gros fruits comestibles au monde. Sa surface externe est couverte de protubérances pyramidales caractéristiques. La chair est jaune orangé, de texture fibreuse et de saveur douce à farineux. Chaque fruit contient de nombreuses graines brunes comestibles après cuisson. Dans le contexte haïtien, la fructification s'étale généralement sur plusieurs mois, assurant une disponibilité alimentaire prolongée pour les communautés rurales. Les parties utilisées sont principalement les fruits mûrs, les graines, les feuilles et l'écorce.",
+    "ecologie": "Originaire d'Asie du Sud-Est, A. jaca a été introduit en Haïti durant la période coloniale et s'est parfaitement adapté au climat tropical des Départements du Sud et de la Grand'Anse. L'espèce prospère en basse altitude, dans des sols profonds et bien drainés, avec une pluviométrie régulière. Sa distribution actuelle est pantropicale, l'arbre étant cultivé dans toutes les régions tropicales du monde pour ses fruits. En Haïti, il s'intègre dans les systèmes agroforestiers traditionnels, associé souvent aux cultures vivrières et aux arbres d'ombrage."
+  },
+  "usages": {
+    "usages_ethnobotaniques": "Le jacquier occupe une place centrale dans l'alimentation haïtienne. Le fruit mûr se consomme frais, sa chair douce et parfumée constituant un en-cas nutritif très apprécié des enfants et des adultes. Les graines, riches en amidon et en protéines, se préparent bouillies et représentent un complément alimentaire important, particulièrement en période de soudure. Traditionnellement, les feuilles s'emploient en infusion pour leurs propriétés supposées antidiabétiques et anti-inflammatoires, bien que ces usages ne soient pas cliniquement validés. L'écorce peut également entrer dans la préparation de décoctions à visée thérapeutique. Le mode de préparation principal reste la consommation crue du fruit, mais la transformation en confitures, en jus ou en plats cuisinés se développe progressivement.",
+    "systemes_concernes": "Cardiovasculaire"
+  },
+  "pharmacologie": {
+    "molecules": "Le jacquier recèle la richesse nutritionnelle exceptionnelle de ses fruits. Les glucides constituent la fraction dominante, principalement sous forme de saccharose et de fructose responsables de la saveur douce caractéristique. Les caroténoïdes — notamment le β-carotène — confèrent la couleur jaune orangé intense de la pulpe et représentent une source importante de provitamine A. Le potassium, minéral majeur du fruit, joue un rôle crucial dans l'équilibre hydrique et la fonction cardiaque. Les fibres solubles et insolubles facilitent la digestion et régulent l'absorption des glucides. La vitamine C, présente en quantités appréciables, renforce les défenses antioxydantes. Les principaux composés secondaires identifiés dans A. jaca comprennent : des flavonoïdes (quercétine, kaempférol, rutine), des tanins condensés, des saponines triterpéniques, des alcaloïdes en faibles concentrations et la jacaline — une lectine spécifique ayant montré des propriétés immunomodulatrices in vitro (Swami et al., 2012 — PMID: 23181629). Les feuilles concentrent particulièrement les composés phénoliques responsables de l'activité antioxydante. Ces molécules remplissent des fonctions de défense précises pour l'arbre. Les tanins des feuilles et de l'écorce protègent contre les herbivores et les infections fongiques. Les flavonoïdes offrent une protection contre les rayonnements UV intenses des régions tropicales. Le latex contient des enzymes protéolytiques qui dissuadent les insectes foreurs. Ces mêmes composés, une fois ingérés par l'humain, produisent les effets biologiques documentés : amélioration de la tolérance au glucose, activité anti-inflammatoire et propriétés antioxydantes, bien que ces observations restent principalement issues d'études in vitro et sur modèles animaux.",
+    "posologie": "Pour l'usage alimentaire, la consommation de 100 à 200 g de fruit frais par jour s'inscrit dans une alimentation équilibrée sans risque particulier. Concernant les usages thérapeutiques traditionnels, les infusions de feuilles se préparent généralement à raison d'environ 5 g de matière sèche par litre d'eau, consommées 1 à 2 fois par jour. Cependant, aucune posologie cliniquement validée n'est disponible pour les applications médicinales, ces pratiques reposant sur la tradition orale sans standardisation scientifique rigoureuse."
+  },
+  "nutrition": {
+    "introduction": "Artocarpus jaca (syn. Artocarpus heterophyllus) est un grand arbre fruitier exotique, largement cultivé dans les Départements du Sud et de la Grand'Anse pour ses fruits volumineux et nutritifs. Il appartient à la famille des Moracées, un groupe dominé par les arbres et reconnu pour ses riches usages alimentaires et médicinaux. Cette famille se distingue phytochimiquement par sa richesse en flavonoïdes, stilbènes — comme le resvératrol dans le genre Morus —, latex enzymatique et polysaccharides, ciblant préférentiellement le système cardiovasculaire. Au sein de cette famille, le genre Artocarpus rassemble les espèces productrices des plus gros fruits au monde, toutes caractérisées par leur chair riche en amidon et leurs graines comestibles. Le jacquier constitue l'une des cultures fruitières les plus importantes d'Haïti, apprécié tant pour sa valeur nutritionnelle que pour ses usages médicinaux traditionnels."
+  },
+  "toxicologie": {
+    "niveau": "",
+    "details": "Le jacquier présente un excellent profil de sécurité. Les fruits et graines cuites sont non toxiques et généralement bien tolérés. Cependant, une consommation excessive peut provoquer des troubles digestifs légers (diarrhée) en raison de la richesse en fibres et en sucres. Les personnes sous traitement antidiabétique doivent faire preuve de prudence avec les préparations concentrées de feuilles, un risque théorique d'hypoglycémie additive existant. La prudence est recommandée chez les jeunes enfants pour les préparations concentrées non alimentaires."
+  },
+  "conservation": {
+    "menaces": "Bien qu'A. jaca ne soit pas menacé globalement, le maintien de la diversité génétique des variétés locales constitue un enjeu important en Haïti. L'érosion génétique due à la préférence pour quelques cultivars commerciaux pourrait réduire l'adaptation aux conditions climatiques locales. La conservation in situ dans les jardins créoles et la documentation des variétés traditionnelles représentent des priorités pour préserver ce patrimoine génétique.",
+    "valeur": "Le jacquier représente une importante source de revenus pour les producteurs haïtiens. Ses fruits se vendent sur les marchés locaux et régionaux, constituant une activité économique significative pour les zones rurales. Le potentiel d'exportation existe, le « jackfruit » connaissant une demande croissante sur les marchés internationaux comme alternative végétale à la viande. Le développement de filières de transformation pourrait valoriser davantage cette production locale."
+  },
+  "recherche": {
+    "nb_articles": "~500 (estimation)",
+    "details": "Avec environ 500 publications indexées, A. jaca fait l'objet d'un intérêt scientifique soutenu. Les recherches actuelles s'orientent vers la caractérisation des propriétés nutritionnelles, l'optimisation des techniques de transformation et l'évaluation des activités biologiques. Les perspectives incluent le développement de compléments alimentaires standardisés, l'amélioration variétale pour l'adaptation climatique et l'exploration des applications biomédicales des composés bioactifs isolés.",
+    "lien_pubmed": "",
+    "lien_scholar": "",
+    "lien_tramil": ""
+  },
+  "references": "Fernando, M.R. et al. (2019). Antidiabetic activity of Artocarpus heterophyllus leaf extract: In vitro and in vivo studies. Food Research International. doi:10.1016/j.foodres.2019.05.034 Swami, S.B. et al. (2012). Jackfruit and its many functional components as related to human health: a review. Comprehensive Reviews in Food Science and Food Safety. PMID: 23181629 POWO (2024). Plants of the World Online. Royal Botanic Gardens, Kew. http://www.plantsoftheworldonline.org/ World Flora Online (2024). http://www.worldfloraonline.org/",
+  "aRetenir": "🟢 À retenir — Jak : est avant tout un aliment — sa valeur nutritionnelle prime sur ses usages medicinaux. Consommee correctement preparee, elle est sans danger documente. Ses proprietes therapeutiques, reelles mais secondaires, ne remplacent pas un suivi medical. Les auteurs declinent toute responsabilite quant a un usage inapproprie.",
+  "images": {
+    "principale": "images/503_Artocarpus_jaca-001.jpg",
+    "galerie": [
+      "images/503_Artocarpus_jaca-001.jpg"
+    ]
+  },
+  "source": "plantes_full.json"
+}

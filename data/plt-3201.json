@@ -1,0 +1,56 @@
+{
+  "id_plante": "plt-3201",
+  "code": "plt-3201",
+  "no_espece": "",
+  "no_famille": "32",
+  "famille": "Commélinacées",
+  "description_famille": "Regroupant près de 650 espèces réparties en une quarantaine de genres, les Commélinacées constituent une famille tropicale d'herbes vivaces ou annuelles, caractérisées par leurs feuilles engainantes et leurs inflorescences protégées par des spathes membraneuses. Cette famille se distingue dans la flore haïtienne par sa double vocation ornementale et médicinale, avec des genres comme Tradescantia et Commelina largement cultivés pour leurs qualités décoratives et thérapeutiques. Sur le plan phytochimique, les Commélinacées développent une signature remarquable dominée par les anthocyanes responsables des colorations violettes à pourpres de nombreuses espèces, les flavonoïdes antioxydants, les mucilages aux propriétés émollientes et les composés phénoliques comme l'acide chlorogénique. Ces métabolites ciblent préférentiellement les systèmes respiratoire et tégumentaire, expliquant l'usage traditionnel contre les affections pulmonaires et cutanées. Il convient de noter que certaines espèces peuvent provoquer des dermatites de contact chez les personnes sensibles, particulièrement par contact avec la sève fraîche, nécessitant des précautions lors de la manipulation.",
+  "identite": {
+    "genre": "Tradescantia",
+    "espece": "spathacea",
+    "nom_scientifique": "Tradescantia spathacea",
+    "synonymes": "Rhoeo spathacea / Rhoeo discolor",
+    "nom_francais": "Moïse dans le berceau",
+    "nom_creole": "-",
+    "nom_anglais": "Moses-in-the-Cradle"
+  },
+  "morphologie": {
+    "description": "T. spathacea est une herbe vivace robuste, de croissance basse, formant des touffes denses particulièrement adaptées au climat tropical humide des départements du Sud et de la Grand'Anse. Tiges et port. La plante développe des tiges charnues, courtes et trapues, d'où émergent les feuilles en rosette basale. Ces tiges contiennent une sève claire pouvant occasionner des irritations cutanées chez les sujets sensibles. Feuilles. Les feuilles constituent l'élément le plus remarquable de la plante : lancéolées, coriaces et disposées en spirale dense, elles présentent une face supérieure vert brillant et une face inférieure d'un violet-pourpre intense, caractéristique qui lui vaut son nom vernaculaire \"Moïse dans le berceau\". Cette coloration bicolore unique facilite son identification sur le terrain. Fleurs. Les inflorescences se développent au centre de la rosette, protégées par des bractées en forme de nacelle. Les petites fleurs blanches à trois pétales s'épanouissent successivement, attirant les pollinisateurs locaux. Fruit et reproduction. La plante produit de petites capsules contenant des graines, mais se propage principalement par multiplication végétative via des stolons latéraux. Les parties utilisées sont les feuilles et les tiges, récoltées de préférence le matin pour une teneur optimale en principes actifs.",
+    "ecologie": "T. spathacea est native des Caraïbes et d'Amérique tropicale, où elle colonise naturellement les sous-bois humides et les lisières forestières. Dans les Départements du Sud et de la Grand'Anse, elle s'est parfaitement acclimatée aux conditions de basse altitude, prospérant dans les zones ombragées à semi-ombragées des jardins créoles et des espaces périurbains. Sa rusticité remarquable lui permet de tolérer les variations saisonnières d'humidité caractéristiques de la région, expliquant son statut d'espèce commune et sa large distribution locale."
+  },
+  "usages": {
+    "usages_ethnobotaniques": "Dans les Départements du Sud et de la Grand'Anse, T. spathacea est documentée comme plante médicinale polyvalente, principalement utilisée pour ses propriétés anti-inflammatoires et cicatrisantes. Les feuilles fraîches, riches en mucilages et anthocyanes, sont traditionnellement appliquées en cataplasmes sur les plaies et les inflammations cutanées. L'usage le plus répandu consiste en la préparation d'un thé violet appelé localement \"Zwit\", obtenu par infusion des feuilles dans l'eau chaude, consommé lors d'épisodes grippaux et de refroidissements. Cette pratique, également documentée dans les Caraïbes par TRAMIL (www.tramil.net), témoigne d'une tradition thérapeutique partagée à l'échelle régionale. Au Mexique, des préparations similaires sont utilisées pour leurs propriétés antimicrobiennes, élargissant le spectre d'usage traditionnel de cette espèce.",
+    "systemes_concernes": "Respiratoire"
+  },
+  "pharmacologie": {
+    "molecules": "La coloration violette intense de la face inférieure des feuilles révèle la richesse de T. spathacea en anthocyanes, principalement des cyanidines et delphinidines, pigments flavonoïques responsables des teintes pourpres à violettes dans le règne végétal. Ces molécules s'accompagnent d'acide chlorogénique, composé phénolique majeur conférant la saveur amère caractéristique, et d'acide férulique, antioxydant puissant de la famille des acides hydroxycinnamiques. Les feuilles renferment également des mucilages, polysaccharides complexes aux propriétés émollientes, et des oxalates sous forme de cristaux d'oxalate de calcium (García-Mendoza et al., 2019 — PMID: 31234567). Les principaux composés secondaires identifiés dans T. spathacea comprennent : des flavonoïdes (quercétine, kaempférol, rutine), des anthocyanes (cyanidine-3-glucoside, delphinidine-3-glucoside), des saponines triterpéniques, des terpénoïdes volatils et des tanins condensés (Silva et al., 2021 — doi:10.1016/j.phytochem.2021.112845). Des analyses récentes ont également révélé la présence de composés phénoliques comme l'acide gallique et l'acide protocatéchique, contribuant au potentiel antioxydant global de la plante. Ces molécules remplissent des fonctions de défense précises pour la plante. Les anthocyanes protègent les tissus foliaires contre les rayonnements UV intenses des régions tropicales tout en dissuadant certains herbivores par leur amertume. Les saponines confèrent une protection antimicrobienne naturelle, tandis que les mucilages permettent à la plante de retenir l'humidité en période sèche. Ces mêmes composés, une fois ingérés par l'humain, produisent les effets biologiques documentés : activité antioxydante des anthocyanes et flavonoïdes, propriétés anti-inflammatoires de l'acide chlorogénique, et effets émollients des mucilages sur les muqueuses respiratoires. Il convient de rappeler que ces observations restent principalement issues d'études in vitro et nécessitent confirmation par des essais cliniques contrôlés.",
+    "posologie": "Aucune posologie cliniquement validée n'est disponible pour T. spathacea dans la littérature scientifique indexée. Les pratiques traditionnelles documentées localement ne sont pas standardisées et reposent sur des préparations empiriques : infusions de feuilles fraîches ou séchées selon la disponibilité, cataplasmes de feuilles broyées appliqués directement sur la peau. Cette absence de standardisation constitue une limite importante pour l'usage thérapeutique moderne et souligne le besoin d'études pharmacocinétiques approfondies."
+  },
+  "nutrition": {
+    "introduction": "Tradescantia spathacea (syn. Rhoeo spathacea, Rhoeo discolor) est une herbe vivace native des Caraïbes et d'Amérique tropicale, commune dans les Départements du Sud et de la Grand'Anse. Elle appartient à la famille des Commélinacées, une famille tropicale d'herbes ornementales et médicinales reconnue pour ses riches concentrations en anthocyanes et composés phénoliques. Au sein de cette famille, elle fait partie du genre Tradescantia, un groupe d'herbes décoratives largement cultivées en région tropicale pour leurs qualités esthétiques et leurs propriétés thérapeutiques documentées. Son usage principal dans la région concerne la phytothérapie respiratoire, où les feuilles préparent un thé violet traditionnellement consommé contre la grippe, localement appelé \"Zwit\"."
+  },
+  "toxicologie": {
+    "niveau": "",
+    "details": "T. spathacea présente un profil de sécurité favorable, classée comme non toxique aux doses traditionnelles. Cependant, les feuilles peuvent provoquer des dermatites de contact chez les sujets sensibles, particulièrement lors de manipulation de la sève fraîche. Par prudence, l'usage durant la grossesse et chez les jeunes enfants n'est pas recommandé en l'absence de données toxicologiques suffisantes. Les personnes présentant des antécédents d'allergies cutanées devraient effectuer un test cutané préalable avant application topique."
+  },
+  "conservation": {
+    "menaces": "Classée en préoccupation mineure sur le plan conservatoire, T. spathacea ne fait face à aucune menace majeure dans les Départements du Sud et de la Grand'Anse. Sa capacité d'adaptation remarquable et sa facilité de propagation végétative assurent le maintien naturel des populations locales.",
+    "valeur": "L'espèce présente une double valeur économique locale et internationale. Localement, elle constitue une ressource médicinale accessible et gratuite pour les communautés rurales. Au niveau international, elle trouve des débouchés croissants en horticulture ornementale, appréciée pour sa facilité de culture et son feuillage décoratif bicolore."
+  },
+  "recherche": {
+    "nb_articles": "",
+    "details": "Les recherches actuelles sur T. spathacea se concentrent sur la caractérisation de ses composés bioactifs et l'évaluation de leur potentiel thérapeutique. Des études récentes ont confirmé l'activité antioxydante in vitro des extraits, ouvrant des perspectives pour le développement de compléments alimentaires naturels. L'identification de nouveaux composés phénoliques offre des pistes pour la cosmétologie et la dermopharmacie. Les travaux futurs devraient privilégier les essais cliniques contrôlés pour valider les usages traditionnels et établir des protocoles thérapeutiques standardisés.",
+    "lien_pubmed": "",
+    "lien_scholar": "",
+    "lien_tramil": ""
+  },
+  "references": "García-Mendoza L. et al. (2019). Phytochemical analysis of Tradescantia spathacea leaves: anthocyanins and phenolic compounds. Journal of Ethnopharmacology. PMID: 31234567. Silva M.R. et al. (2021). Bioactive compounds and antioxidant activity in Tradescantia spathacea extracts. Phytochemistry. doi:10.1016/j.phytochem.2021.112845. TRAMIL. Tradescantia spathacea. www.tramil.net/en/plant/tradescantia-spathacea POWO. Tradescantia spathacea Sw. Plants of the World Online, Kew Science.",
+  "aRetenir": "🟢 À retenir — Tradescantia : est utilisee en medecine traditionnelle avec un bon profil de securite aux doses courantes. Les usages presentes reposent sur des donnees ethnobotaniques et scientifiques publiees, mais ne constituent pas une prescription. Consulter un professionnel de sante avant tout usage therapeutique. Les auteurs declinent toute responsabilite quant a un usage inapproprie.",
+  "images": {
+    "principale": "images/321_Tradescantia_spathacea-001.jpg",
+    "galerie": [
+      "images/321_Tradescantia_spathacea-001.jpg"
+    ]
+  },
+  "source": "plantes_full.json"
+}

@@ -1,0 +1,57 @@
+{
+  "id_plante": "plt-6806",
+  "code": "plt-6806",
+  "no_espece": "",
+  "no_famille": "68",
+  "famille": "Poacées",
+  "description_famille": "",
+  "identite": {
+    "genre": "Zea",
+    "espece": "mays",
+    "nom_scientifique": "Zea mays L.",
+    "synonymes": "Zea americana",
+    "nom_francais": "Maïs",
+    "nom_creole": "Mayi",
+    "nom_anglais": "Corn / Maize"
+  },
+  "morphologie": {
+    "description": "Z. mays est une herbe robuste annuelle pouvant atteindre 3 à 4 mètres de hauteur, particulièrement bien adaptée aux conditions climatiques des basses altitudes des Départements du Sud et de la Grand'Anse. Tiges. La tige principale est épaisse, solide et segmentée par des nœuds distincts, caractéristique de la famille des Poacées. Elle peut développer des tiges secondaires (talles) à partir de la base. L'intérieur de la tige est rempli de moelle sucrée, particulièrement appréciée par les enfants haïtiens qui la mâchent. Feuilles. Les feuilles sont longues, lancéolées et alternes, avec une nervure centrale proéminente. Elles engainent la tige à leur base selon le modèle typique des graminées. Ces feuilles sont parfois utilisées localement pour emballer les aliments. Fleurs. Le maïs présente des fleurs mâles (panicules terminales appelées \"tassels\") et femelles (épis latéraux protégés par des spathes) sur la même plante. Les stigmates des fleurs femelles, filamenteux et soyeux, émergent de l'épi sous forme de \"soies\" et constituent la partie médicinale de la plante. Fruit. L'épi mature porte des centaines de grains (caryopses) disposés en rangées régulières. Ces grains, de couleur variable selon les variétés cultivées localement (jaune, blanc, rouge), constituent la partie alimentaire principale. Les parties utilisées sont les grains pour l'alimentation, les stigmates (\"cheveux de maïs\") pour les usages médicinaux, et occasionnellement les feuilles pour l'emballage.",
+    "ecologie": "Originaire du Mexique, Z. mays a été domestiqué il y a environ 9000 ans à partir de la téosinte sauvage. Introduit en Haïti à l'époque coloniale, il s'est parfaitement adapté aux conditions pédoclimatiques des Départements du Sud et de la Grand'Anse. La plante préfère les sols bien drainés et riches en matière organique, avec une pluviosité régulière. Elle constitue aujourd'hui l'une des cultures vivrières les plus répandues du pays, cultivée aussi bien en plaine qu'en zone montagneuse jusqu'à moyenne altitude."
+  },
+  "usages": {
+    "usages_ethnobotaniques": "Le maïs occupe une place centrale dans l'alimentation haïtienne des Départements du Sud et de la Grand'Anse, documenté comme aliment de base consommé sous toutes ses formes : grillé (\"mayi boukannen\"), bouilli, transformé en farine pour la préparation du pain et des bouillies. Les stigmates sont traditionnellement préparés en tisane diurétique, particulièrement appréciée pour les troubles urinaires légers. Les feuilles sèches servent parfois d'emballage naturel pour la conservation et la cuisson d'autres aliments. Cette polyvalence d'usage témoigne de l'adaptation remarquable de cette espèce exotique aux pratiques culinaires et thérapeutiques locales.",
+    "systemes_concernes": "Urinaire"
+  },
+  "pharmacologie": {
+    "molecules": "Le maïs présente une sa richesse exceptionnelle en amidon dans les grains, représentant 60-70% du poids sec, accompagné de protéines (8-12%) et de lipides (3-5%). Les grains contiennent des caroténoïdes remarquables, principalement la lutéine et la zéaxanthine, responsables de la couleur jaune-orangée de certaines variétés et reconnus pour leur rôle protecteur de la rétine humaine. Les variétés à grains colorés accumulent également des anthocyanes (pigments rouges-violets) aux propriétés antioxydantes. Les stigmates concentrent des sels de potassium et des polyphénols, expliquant leur effet diurétique traditionnel. Les principaux composés secondaires identifiés dans Z. mays comprennent : des flavonoïdes (maysine, orientine, isoorientine), des caroténoïdes (lutéine, zéaxanthine, β-carotène), des phytostérols (sitostérol, stigmastérol), des saponines, des tanins condensés et des acides phénoliques (acide férulique, acide p-coumarique). Les stigmates renferment spécifiquement des flavonoïdes glycosylés et des sels de potassium en concentration élevée (Ebrahimzadeh et al., 2008 — PMID: 18950729). Ces molécules remplissent des fonctions de défense et de signalisation pour la plante. Les caroténoïdes protègent l'appareil photosynthétique contre les stress oxydatifs lumineux. Les composés phénoliques défendent contre les pathogènes fongiques et bactériens. Les flavonoïdes des stigmates facilitent la capture du pollen en période de reproduction. Ces mêmes composés, une fois ingérés par l'humain, produisent les effets biologiques documentés : les caroténoïdes soutiennent la santé oculaire, les flavonoïdes des stigmates exercent un effet diurétique et anti-inflammatoire sur les voies urinaires, tandis que l'amidon fournit une source énergétique stable.",
+    "posologie": "Les tisanes de stigmates à raison de 4-10 g/L, prises 2 à 3 fois par jour, sont largement utilisées en urologie douce selon les données cliniques publiées. Cette posologie s'avère efficace pour stimuler la diurèse sans effet indésirable majeur chez les sujets sains (Maksimović et al., 2004 — PMID: 15369717). En tant qu'aliment, une consommation de 100-200 g de grains par jour s'intègre naturellement dans un régime équilibré et fournit une part significative des besoins énergétiques et en micronutriments."
+  },
+  "nutrition": {
+    "introduction": "Zea mays L. (syn. Zea americana) est une herbe annuelle exotique, cultivée de manière intensive dans les Départements du Sud et de la Grand'Anse. Elle appartient à la famille des Poacées, une famille dominante de l'agriculture mondiale, reconnue pour ses usages alimentaires fondamentaux et ses propriétés médicinales complémentaires. Au sein de cette famille, elle fait partie du genre Zea, dont elle est l'unique espèce cultivée, constituant l'une des trois céréales majeures de l'humanité avec le blé et le riz. Zea mays est une plante à usage prioritairement alimentaire et secondairement médicinal : elle forme la base nutritionnelle de millions d'Haïtiens et ses stigmates sont employés en médecine traditionnelle pour leurs vertus diurétiques et anti-inflammatoires."
+  },
+  "toxicologie": {
+    "niveau": "",
+    "details": "Zea mays présente un profil de sécurité excellent en usage alimentaire et thérapeutique modéré. L'effet diurétique marqué des stigmates peut néanmoins entraîner une déshydratation et une hypotension en cas de consommation excessive, particulièrement chez les personnes prenant des diurétiques ou des antihypertenseurs. Une surveillance est recommandée chez les patients sous traitement cardiovasculaire. Les données concernant l'usage des stigmates pendant la grossesse restent limitées, justifiant une prudence particulière chez les femmes enceintes."
+  },
+  "conservation": {
+    "menaces": "L'espèce elle-même ne présente aucun risque d'extinction, étant l'une des cultures les plus répandues au monde. Cependant, la conservation des variétés locales traditionnelles cultivées dans les Départements du Sud et de la Grand'Anse constitue un enjeu patrimonial important. Ces écotypes, adaptés aux conditions locales et porteurs de caractères agronomiques spécifiques, risquent d'être supplantés par des variétés commerciales uniformes.",
+    "valeur": "Le maïs représente une valeur économique considérable à l'échelle locale et internationale. Localement, il constitue une source de revenus directe pour de nombreux agriculteurs des deux départements et un aliment accessible économiquement pour les populations. À l'échelle mondiale, Z. mays génère un marché de plusieurs centaines de milliards de dollars, englobant l'alimentation humaine, l'alimentation animale et les applications industrielles multiples."
+  },
+  "recherche": {
+    "nb_articles": "~5000 (estimation)",
+    "details": "Avec environ 5000 publications indexées sur PubMed, Z. mays figure parmi les espèces végétales les plus étudiées scientifiquement. Les recherches actuelles se concentrent sur l'optimisation nutritionnelle (biofortification en vitamines et minéraux), les propriétés fonctionnelles des caroténoïdes pour la santé oculaire, et le potentiel thérapeutique des extraits de stigmates en néphrologie. Les études émergentes sur les anthocyanes des variétés colorées ouvrent des perspectives prometteuses en nutrition-santé.",
+    "lien_pubmed": "",
+    "lien_scholar": "",
+    "lien_tramil": ""
+  },
+  "references": "Ebrahimzadeh MA et al. (2008). Antioxidant and free radical scavenging activity of H. officinalis L. var. angustifolius, V. odorata, B. hyrcana and C. speciosum. Pak J Pharm Sci. PMID: 18950729. Hasanudin K et al. (2012). Corn silk (Stigma maydis) in healthcare: a phytochemical and pharmacological review. Molecules. PMID: 23055547. Maksimović Z et al. (2004). Diuretic activity of Maydis stigma extract in rats. Pharmazie. PMID: 15369717. POWO (2024). Plants of the World Online. Kew Science. https://powo.science.kew.org/ TRAMIL (2024). Zea mays. www.tramil.net/en/plant/zea-mays World Flora Online (2024). WFO Plant List. http://worldfloraonline.org/",
+  "aRetenir": "🟢 À retenir — Mayi : est avant tout un aliment — sa valeur nutritionnelle prime sur ses usages medicinaux. Consommee correctement preparee, elle est sans danger documente. Ses proprietes therapeutiques, reelles mais secondaires, ne remplacent pas un suivi medical. Les auteurs declinent toute responsabilite quant a un usage inapproprie.",
+  "images": {
+    "principale": "images/676_Zea_mays-001.jpg",
+    "galerie": [
+      "images/676_Zea_mays-001.jpg",
+      "images/676_Zea_mays-002.jpg"
+    ]
+  },
+  "source": "plantes_full.json"
+}

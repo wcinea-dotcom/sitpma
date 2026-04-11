@@ -1,0 +1,59 @@
+{
+  "id_plante": "plt-0503",
+  "code": "plt-0503",
+  "no_espece": "",
+  "no_famille": "5",
+  "famille": "Amaryllidacées",
+  "description_famille": "",
+  "identite": {
+    "genre": "Allium",
+    "espece": "sativum",
+    "nom_scientifique": "Allium sativum L.",
+    "synonymes": "Porrum sativum",
+    "nom_francais": "Ail",
+    "nom_creole": "Lay",
+    "nom_anglais": "Garlic"
+  },
+  "morphologie": {
+    "description": "A. sativum est une herbe bulbeuse vivace, généralement cultivée comme plante annuelle, pouvant atteindre 60 à 90 cm de hauteur (POWO, Kew Science , World Flora Online, 2026). Bulbe. Le bulbe constitue l'organe principal de stockage et de reproduction : il est formé de 6 à 20 gousses (caïeux) enveloppées dans une tunique papyracée blanche à rosée. Chaque gousse est elle-même protégée par une pellicule fine. C'est la partie principalement utilisée en alimentation et en médecine. Feuilles. Les feuilles sont linéaires, plates, de couleur vert glauque, émergent directement du bulbe et sont également comestibles à l'état jeune. Elles peuvent atteindre 30 à 60 cm de longueur. Fleurs. La hampe florale, lorsqu'elle se développe, porte une ombelle terminale sphérique composée de petites fleurs blanches à rosées, souvent accompagnée de bulbilles aériennes permettant la reproduction végétative. Les parties utilisées sont principalement les bulbes (gousses), et occasionnellement les feuilles jeunes.",
+    "ecologie": "A. sativum est originaire d'Asie centrale, probablement des régions montagneuses entre le Kazakhstan et le Tadjikistan. Introduite dans les régions tropicales, elle s'est adaptée aux conditions de moyenne altitude des Départements du Sud et de la Grand'Anse d'Haïti. La plante préfère les sols bien drainés et les climat tempérés à subtropical. Sa culture en Haïti reste limitée, d'où son statut de « rare production » selon l'inventaire BRH, ce qui contraste avec son importance médicinale locale."
+  },
+  "usages": {
+    "usages_ethnobotaniques": "L'ail est documenté dans le Sud et la Grand'Anse pour ses usages alimentaire et médicinal. Les parties utilisées sont principalement les bulbes (gousses), et occasionnellement les feuilles jeunes. Les modes de préparation incluent la consommation crue et la macération. Selon l'inventaire BRH, l'ail est consommé contre l'hypertension artérielle, la grippe et les parasites intestinaux. Les données TRAMIL confirment son usage traditionnel en Haïti pour l'hypertension. Ces usages s'inscrivent dans une tradition médicinale mondiale : en Chine, l'ail est considéré comme une panacée pour le cœur, tandis qu'au niveau international, il est reconnu comme hypotenseur selon les publications PubMed. La préparation traditionnelle privilégie souvent la consommation à cru pour préserver l'allicine, ou sous forme de macérations dans l'eau ou l'alcool pour extraire les composés hydrosolubles et liposolubles.",
+    "systemes_concernes": "Cardiovasculaire, Immunitaire"
+  },
+  "pharmacologie": {
+    "molecules": "L'ail possède une arme chimique redoutée depuis l'Antiquité : un système enzymatique qui génère à la demande l'allicine, la molécule antimicrobienne la plus puissante de son arsenal, créée au moment précis où les tissus sont endommagés pour frapper les pathogènes avant qu'ils ne prolifèrent. Lorsque le bulbe est endommagé — par exemple lors de la coupe ou du broyage — l'enzyme alliinase convertit l'alliine (inodore) en allicine, responsable de l'odeur piquante caractéristique et des propriétés antimicrobiennes. Cette réaction enzymatique constitue un mécanisme de défense immédiat contre les agents pathogènes. Les principaux métabolites secondaires identifiés comprennent : des thiosulfinates (allicine, principale molécule bioactive), des sulfures organiques (ajoène, S-allyl-cystéine), des flavonoïdes (quercétine), des saponines et d'autres polyphénols. Ces composés assurent une protection antimicrobienne large spectre et contribuent aux effets cardiovasculaires documentés. Sur le plan nutritionnel, le bulbe constitue une source de vitamine C, de composés sulfurés bioactifs, de fibres et de minéraux, avec des niveaux pertinents de potassium, calcium, magnésium, soufre et fer.",
+    "posologie": "Selon les études cliniques, la posologie efficace d'ail frais est de 2-5 g par jour de bulbe, équivalant à 1-2 gousses quotidiennes. Pour les extraits standardisés, les dosages étudiés varient généralement entre 300-600 mg par jour selon les préparations. Cette posologie correspond aux usages traditionnels haïtiens où l'ail est consommé quotidiennement en petites quantités, soit cru dans l'alimentation, soit sous forme de préparations macérées. Les effets optimaux nécessitent une consommation régulière sur plusieurs semaines."
+  },
+  "nutrition": {
+    "introduction": "Allium sativum L. (syn. Porrum sativum) est une herbe vivace exotique cultivée dans les Départements du Sud et de la Grand'Anse, bien qu'en production rare selon l'inventaire BRH. Elle appartient à la famille des Amaryllidacées, reconnue pour ses riches usages alimentaires et médicinaux, avec une signature phytochimique dominée par la quercétine, les composés soufrés, les fructanes et la vitamine C. Au sein de cette famille, A. sativum fait partie du genre Allium, qui regroupe plusieurs espèces à fort potentiel culinaire et thérapeutique caractérisées par leurs composés organosoufrés volatils. L'ail constitue l'une des plantes médicinales les plus étudiées scientifiquement au monde, avec environ 2000 publications référencées, et représente un pilier de la pharmacopée traditionnelle haïtienne pour le soutien cardiovasculaire et la lutte contre les infections."
+  },
+  "toxicologie": {
+    "niveau": "",
+    "details": "L'ail présente un profil de sécurité excellent aux doses alimentaires et thérapeutiques recommandées. Cependant, certaines précautions s'imposent : prudence en cas de troubles gastriques préexistants, avant intervention chirurgicale et en association avec des anticoagulants en raison du risque augmenté de saignement à fortes doses. Les surdosages peuvent provoquer des nausées, une hypotension excessive et une odeur corporelle persistante. Les personnes sensibles peuvent présenter des irritations digestives avec la consommation crue."
+  },
+  "conservation": {
+    "menaces": "La principale préoccupation concerne la conservation des variétés locales adaptées au climat haïtien. La production rare documentée dans l'inventaire BRH suggère une vulnérabilité de la filière locale face aux variétés commerciales importées. La préservation du matériel génétique traditionnel constitue un enjeu patrimonial et économique.",
+    "valeur": "L'ail présente une double valeur économique : alimentaire locale et pharmaceutique internationale. Malgré sa production limitée en Haïti, la demande thérapeutique et culinaire reste soutenue. Le marché mondial de l'ail représente plusieurs milliards de dollars, avec un secteur des compléments alimentaires en forte croissance."
+  },
+  "recherche": {
+    "nb_articles": "~2000 (estimation)",
+    "details": "Avec environ 2000 publications scientifiques, A. sativum figure parmi les plantes les plus étudiées. Les recherches actuelles se concentrent sur l'optimisation des extraits, les mécanismes cardiovasculaires précis et les applications anticancéreuses potentielles. En Haïti, des études sur l'adaptation variétale et l'optimisation des pratiques culturales pourraient stimuler la production locale.",
+    "lien_pubmed": "https://pubmed.ncbi.nlm.nih.gov/23331171/",
+    "lien_scholar": "",
+    "lien_tramil": "https://www.tramil.net/en/plant/allium-sativum"
+  },
+  "references": "Ried K et al. (2013). Effect of garlic on blood pressure: A systematic review and meta-analysis. BMC Cardiovasc Disord. PMID: 23331171. https://pubmed.ncbi.nlm.nih.gov/23331171/ Ankri S & Mirelman D (1999). Antimicrobial properties of allicin from garlic. Microbes Infect. PMID: 10603004. https://pubmed.ncbi.nlm.nih.gov/10603004/ TRAMIL (2026). Allium sativum. https://www.tramil.net/en/plant/allium-sativum",
+  "aRetenir": "🟢 À retenir — Lay : est avant tout un aliment — sa valeur nutritionnelle prime sur ses usages medicinaux. Consommee correctement preparee, elle est sans danger documente. Ses proprietes therapeutiques, reelles mais secondaires, ne remplacent pas un suivi medical. Les auteurs declinent toute responsabilite quant a un usage inapproprie.",
+  "images": {
+    "principale": "images/53_Allium_sativum-001.jpg",
+    "galerie": [
+      "images/53_Allium_sativum-001.jpg",
+      "images/53_Allium_sativum-002.jpg",
+      "images/53_Allium_sativum-003.jpg",
+      "images/53_Allium_sativum-004.jpg"
+    ]
+  },
+  "source": "plantes_full.json"
+}

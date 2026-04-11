@@ -1,0 +1,57 @@
+{
+  "id_plante": "plt-0603",
+  "code": "plt-0603",
+  "no_espece": "",
+  "no_famille": "6",
+  "famille": "Anacardiacées",
+  "description_famille": "",
+  "identite": {
+    "genre": "Mangifera",
+    "espece": "indica",
+    "nom_scientifique": "Mangifera indica L.",
+    "synonymes": "Mangifera domestica",
+    "nom_francais": "Manguier",
+    "nom_creole": "Pye mango",
+    "nom_anglais": "Mango"
+  },
+  "morphologie": {
+    "description": "M. indica est un arbre de grande taille, pouvant atteindre 15 à 30 mètres de hauteur, à croissance relativement rapide et à longévité remarquable — certains spécimens peuvent vivre plusieurs siècles (POWO, Kew Science , World Flora Online, 2026). Tiges et écorce. Le tronc est droit, pouvant atteindre un diamètre considérable avec l'âge. L'écorce est rugueuse, de couleur gris-brun, et se fissure longitudinalement. Elle sécrète une résine collante lorsqu'elle est blessée, caractéristique défensive de la famille des Anacardiacées. Feuilles. Les feuilles sont simples, alternes, persistantes, de forme oblongue-lancéolée, mesurant 15 à 30 cm de longueur. Elles sont coriaces, d'un vert foncé brillant sur la face supérieure et plus pâles en dessous. Les jeunes feuilles présentent souvent une teinte rougeâtre caractéristique. Fleurs. Les inflorescences sont des panicules terminales dressées, pouvant porter plusieurs centaines de petites fleurs blanches à jaunâtres, mellifères et légèrement parfumées. La floraison s'étale généralement sur plusieurs semaines. Fruit. Le fruit est une drupe charnue de forme variable selon les cultivars, pesant de 100 g à plus de 1 kg. La chair est juteuse, sucrée, de couleur jaune-orange, entourant un gros noyau fibreux aplati. Les parties utilisées sont les fruits (alimentation), les feuilles et l'écorce (usage médicinal traditionnel).",
+    "ecologie": "Originaire d'Asie du Sud-Est, M. indica a été introduit dans les Caraïbes au cours de la période coloniale et s'est parfaitement adapté au climat tropical d'Haïti. L'espèce prospère en basse altitude, dans les zones bien drainées avec une pluviométrie modérée à élevée. Elle tolère différents types de sols mais préfère les substrats profonds et fertiles. Dans les Départements du Sud et de la Grand'Anse, elle est documentée comme abondante et largement cultivée, constituant l'un des arbres fruitiers les plus répandus. La reproduction se fait principalement par greffage pour préserver les caractéristiques des cultivars, bien que la multiplication par graines reste possible."
+  },
+  "usages": {
+    "usages_ethnobotaniques": "Dans les Départements du Sud et de la Grand'Anse, M. indica présente une double vocation alimentaire et médicinale bien documentée. On mange le fruit à maturité, consommé frais comme aliment de base et source importante de vitamines. Les feuilles sont bouillies dans l'eau du bain pour calmer la fièvre, usage traditionnel largement répandu dans ces régions. Les modes de préparation documentés incluent l'infusion de feuilles fraîches ou séchées (2-5 g par tasse d'eau bouillante), les décoctions d'écorce pour les troubles digestifs, et le jus de fruit frais (100-200 mL par jour) comme complément nutritionnel. L'usage en bain thérapeutique consiste à faire bouillir les feuilles et ajouter cette décoction à l'eau du bain. Selon TRAMIL (www.tramil.net), l'usage contre la fièvre est également documenté en Dominique, confirmant la cohérence régionale de cet usage thérapeutique. En Inde, les feuilles sont traditionnellement utilisées contre le diabète, usage qui fait l'objet d'investigations scientifiques contemporaines.",
+    "systemes_concernes": "Digestif, Immunitaire, Oculaire"
+  },
+  "pharmacologie": {
+    "molecules": "Le manguier doit sa réputation thérapeutique ancienne à une molécule singulière : la mangiférine, une xanthone complexe concentrée dans ses feuilles et son écorce, qui constitue une ligne de défense sophistiquée contre les pathogènes tout en offrant des propriétés antioxydantes remarquables. Ce qui rend le manguier particulièrement remarquable, c'est la richesse de sa composition en xanthones, notamment la mangiférine — un composé phénolique complexe concentré principalement dans les feuilles et l'écorce. Cette molécule constitue un système de défense sophistiqué contre les pathogènes et les stress oxydatifs, tout en contribuant aux propriétés thérapeutiques traditionnellement attribuées à la plante. Les principaux composés secondaires identifiés dans M. indica comprennent : la mangiférine (xanthone majeure), des flavonoïdes (quercétine, kaempférol, rutine), des tanins condensés, des caroténoïdes (β-carotène, lycopène), des acides phénoliques et des terpènes volatils responsables de l'arôme caractéristique du fruit (Masibo & He, 2008 — Comprehensive Reviews in Food Science and Food Safety, Berardini et al., 2005 — Journal of Agricultural and Food Chemistry). Ces molécules remplissent des fonctions de défense précises. La mangiférine protège la plante contre les rayonnements UV, les pathogènes fongiques et le stress oxydatif. Les tanins dans l'écorce dissuadent les herbivores et les insectes foreurs. Les caroténoïdes du fruit attirent les animaux disperseurs tout en protégeant les graines des dommages photo-oxydatifs.",
+    "posologie": "Les posologies traditionnelles utilisées dans les Départements du Sud et de la Grand'Anse restent empiriques et non normalisées. Pour les infusions de feuilles, la pratique locale utilise approximativement 2 à 5 grammes de feuilles fraîches ou séchées par tasse d'eau bouillante, consommée 1 à 2 fois par jour selon les besoins. Les décoctions d'écorce suivent des proportions similaires. Pour l'usage alimentaire, le jus de fruit frais est consommé à raison de 100 à 200 mL par jour comme complément nutritionnel naturel. Il convient de noter que ces posologies relèvent de la tradition empirique et qu'aucune standardisation clinique n'existe pour ces préparations."
+  },
+  "nutrition": {
+    "introduction": "Mangifera indica L. (syn. Mangifera domestica) est un arbre fruitier exotique largement cultivé dans les Départements du Sud et de la Grand'Anse. Il appartient à la famille des Anacardiacées, une famille composée majoritairement d'arbres, incontournable dans la flore du grand sud d'Haïti. Cette famille se distingue par de riches usages alimentaires et médicinaux, avec une signature phytochimique dominée par les tanins condensés, les acides anacardiques, les cardanols, les flavonoïdes et les terpènes, ciblant préférentiellement les systèmes digestif, tégumentaire et cutané. Il convient de noter qu'il faut être vigilant avec certaines espèces de cette famille qui renferment des principes actifs très puissants — notamment les résines urushiol allergisantes du cajou ou la sève très irritante du Comocladia. Au sein de cette famille, Mangifera indica fait partie du genre Mangifera, qui regroupe plusieurs espèces d'arbres tropicaux réputés pour leurs fruits comestibles et leurs propriétés médicinales. Le manguier constitue l'un des arbres fruitiers les plus importants d'Haïti, combinant une valeur alimentaire majeure avec des usages thérapeutiques traditionnels bien documentés dans le Sud et la Grand'Anse."
+  },
+  "toxicologie": {
+    "niveau": "",
+    "details": "M. indica présente un profil de sécurité favorable et est classée comme non toxique aux doses traditionnelles d'usage. Le fruit mûr est consommé sans restriction par toutes les tranches d'âge. Cependant, une prudence est recommandée avec les préparations concentrées de feuilles ou d'écorce chez les personnes diabétiques sous traitement médical, en raison du risque théorique d'effet additif hypoglycémiant. Les données concernant l'innocuité pendant la grossesse et l'allaitement demeurent limitées, justifiant une approche prudente pour les préparations médicinales concentrées."
+  },
+  "conservation": {
+    "menaces": "L'espèce ne présente pas de menace de conservation particulière en Haïti, étant largement cultivée et bien adaptée au climat local. L'enjeu principal concerne la conservation des variétés locales traditionnelles face à l'introduction de cultivars commerciaux standardisés. La préservation de cette diversité génétique constitue un patrimoine agricole important pour maintenir l'adaptation locale et la résistance aux maladies.",
+    "valeur": "M. indica représente une valeur économique majeure tant au niveau local qu'international. Localement, le fruit constitue un aliment de base important et une source de revenus pour de nombreux producteurs dans les Départements du Sud et de la Grand'Anse. Au niveau international, la mangue fait l'objet d'un commerce d'exportation significatif, positionnant Haïti sur certains marchés de niche pour ses variétés particulièrement parfumées."
+  },
+  "recherche": {
+    "nb_articles": "~5000 (estimation)",
+    "details": "M. indica fait l'objet d'environ 5000 publications scientifiques indexées sur PubMed, témoignant de l'intérêt international pour cette espèce. Les axes de recherche actuels portent principalement sur l'activité antioxydante des extraits de feuilles, le potentiel hypoglycémiant de la mangiférine, et les propriétés anti-inflammatoires des composés phénoliques. Les perspectives d'avenir incluent le développement de nutraceutiques basés sur les extraits standardisés de feuilles, la valorisation des sous-produits de la transformation du fruit, et l'amélioration variétale pour optimiser à la fois les qualités gustatives et les propriétés nutritionnelles.",
+    "lien_pubmed": "",
+    "lien_scholar": "",
+    "lien_tramil": "https://www.tramil.net/en/plant/mangifera-indica"
+  },
+  "references": "Masibo M, He Q. (2008). Major mango polyphenols and their potential significance to human health. Comprehensive Reviews in Food Science and Food Safety. 7(4):309-319. DOI: 10.1111/j.1541-4337.2008.00047.x Berardini N, Fezer R, Conrad J, Beifuss U, Carle R, Schieber A. (2005). Screening of mango (Mangifera indica L.) cultivars for their contents of flavonol O- and xanthone C-glycosides, anthocyanins, and pectin. Journal of Agricultural and Food Chemistry. 53(5):1563-1570. PMID: 15740041 Ganogpichayagrai A, Palanuvej C, Ruangrungsi N. (2017). Antidiabetic and anticancer activities of Mangifera indica cv. Okrong leaves. Journal of Advanced Pharmaceutical Technology & Research. 8(1):19-24. PMID: 28482091 TRAMIL: Mangifera indica. Disponible sur: https://www.tramil.net/en/plant/mangifera-indica",
+  "aRetenir": "🟢 À retenir — Pye mango : est avant tout un aliment — sa valeur nutritionnelle prime sur ses usages medicinaux. Consommee correctement preparee, elle est sans danger documente. Ses proprietes therapeutiques, reelles mais secondaires, ne remplacent pas un suivi medical. Les auteurs declinent toute responsabilite quant a un usage inapproprie.",
+  "images": {
+    "principale": "images/63_Mangifera_indica-001.jpg",
+    "galerie": [
+      "images/63_Mangifera_indica-001.jpg",
+      "images/63_Mangifera_indica-002.jpg"
+    ]
+  },
+  "source": "plantes_full.json"
+}

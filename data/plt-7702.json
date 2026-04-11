@@ -1,0 +1,56 @@
+{
+  "id_plante": "plt-7702",
+  "code": "plt-7702",
+  "no_espece": "",
+  "no_famille": "77",
+  "famille": "Rosacées",
+  "description_famille": "",
+  "identite": {
+    "genre": "Prunus",
+    "espece": "myrtifolia",
+    "nom_scientifique": "Prunus myrtifolia (L.)",
+    "synonymes": "Celastrus myrtifolius L. / Prunus sphaerocarpa",
+    "nom_francais": "Bois noyau",
+    "nom_creole": "Amandye ti fèy",
+    "nom_anglais": "West Indian Laurel"
+  },
+  "morphologie": {
+    "description": "P. myrtifolia est un arbre de moyenne altitude, commun dans les deux départements étudiés, présentant une saveur astringente caractéristique. Tiges et écorce. Le tronc développe une écorce rugueuse, source de l'usage aromatique traditionnel. L'écorce contient des composés volatils qui se libèrent lors de la macération, conférant aux préparations leur parfum distinctif. Cette propriété aromatique résulte de la présence d'huiles essentielles dans les tissus corticaux. Feuilles. Les feuilles sont petites — d'où le nom créole « ti fèy » (petites feuilles) — persistantes, coriaces et de forme elliptique à obovale. Leur texture astringente révèle une teneur significative en tanins, molécules défensives caractéristiques du genre Prunus. Fleurs. Les fleurs sont typiques des Rosacées : petites, blanches, regroupées en grappes terminales, attirant divers insectes pollinisateurs. Elles possèdent cinq pétales et de nombreuses étamines, architecture florale caractéristique de cette famille. Fruits. Les fruits sont de petites baies sombres comestibles, riches en anthocyanes responsables de leur coloration pourpre-noirâtre. Ces pigments naturels confèrent aux fruits leurs propriétés antioxydantes documentées. Chaque fruit renferme un noyau dur contenant la graine. Les parties utilisées dans les pratiques locales sont l'écorce, les fruits et les feuilles.",
+    "ecologie": "P. myrtifolia est native des Caraïbes et d'Amérique tropicale. Dans les Départements du Sud et de la Grand'Anse d'Haïti, l'espèce colonise préférentiellement les zones de moyenne altitude où elle bénéficie de conditions climatiques tempérées. Son statut d'espèce commune dans ces régions suggère une bonne adaptation aux conditions pédoclimatiques locales. Elle joue un rôle écologique important en tant qu'espèce fruitière native, offrant des ressources alimentaires à la faune locale et participant à la dynamique des écosystèmes forestiers régionaux."
+  },
+  "usages": {
+    "usages_ethnobotaniques": "L'usage principal documenté dans les Départements du Sud et de la Grand'Anse consiste en la macération de l'écorce pour parfumer les « comparèt » — boissons traditionnelles locales. Cette pratique aromatique exploite les huiles volatiles contenues dans les tissus corticaux. Les fruits, comestibles à l'état frais, sont occasionnellement consommés comme aliment d'appoint. Les feuilles, riches en tanins, font l'objet d'usages traditionnels moins documentés. La préparation par macération permet l'extraction progressive des composés hydrosolubles et partiellement liposolubles, optimisant la libération des principes aromatiques sans extraction excessive des composés potentiellement irritants. Cette méthode traditionnelle révèle une connaissance empirique fine des propriétés d'extraction.",
+    "systemes_concernes": "Digestif"
+  },
+  "pharmacologie": {
+    "molecules": "Les fruits de P. myrtifolia doivent leur coloration sombre caractéristique aux anthocyanes, pigments polyphénoliques concentrés dans l'épiderme. Ces molécules, principalement la cyanidine et la delphinidine, protègent les graines contre les rayonnements UV tout en attirant les disperseurs animaux. Parallèlement, les fruits accumulent des sucres simples (fructose, glucose), des acides organiques (malique, citrique) responsables de leur équilibre gustatif, ainsi que des fibres pectiques favorisant la digestion. Sur le plan minéral, ils concentrent du potassium, du magnésium, du calcium et des traces de fer et zinc, éléments essentiels à leur maturation. Les principaux composés secondaires identifiés dans P. myrtifolia comprennent : des flavonoïdes (quercétine, rutine), des anthocyanes (cyanidine, delphinidine), des tanins condensés, des saponines triterpéniques et des caroténoïdes. L'écorce renferme également des huiles volatiles responsables de son usage aromatique, ainsi que de l'amygdaline — glycoside cyanogène caractéristique du genre Prunus (Kashiwada et al., 1992 — doi: 10.1021/jf00020a026). Ces molécules remplissent des fonctions de défense précises pour la plante. Les anthocyanes et flavonoïdes protègent contre le stress oxydatif et les pathogènes foliaires. Les tanins découragent l'herbivorie en créant une sensation d'astringence. L'amygdaline dans les graines constitue un système de défense chimique : elle se décompose en cyanure d'hydrogène lors de la mastication, dissuadant efficacement les prédateurs de graines. Ces mêmes composés, une fois ingérés par l'humain en quantités appropriées, produisent les effets biologiques documentés : activité antioxydante des anthocyanes, action astringente des tanins sur les muqueuses digestives, mais aussi toxicité potentielle de l'amygdaline en cas de consommation excessive des graines.",
+    "posologie": "La consommation alimentaire locale de fruits s'élève approximativement à 50-100 g par jour selon les observations ethnobotaniques. Pour les infusions de feuilles, aucune posologie standardisée n'est documentée dans la littérature scientifique. Les préparations d'écorce pour les « comparèt » suivent des protocoles empiriques transmis par la tradition orale, sans standardisation quantitative. Cette absence de données posologiques précises constitue une limite importante pour l'usage thérapeutique de l'espèce et souligne la nécessité d'études pharmacocinétiques appropriées."
+  },
+  "nutrition": {
+    "introduction": "Prunus myrtifolia (L.) (syn. Celastrus myrtifolius, Prunus sphaerocarpa) est un arbre native des Caraïbes et d'Amérique tropicale, documenté dans les Départements du Sud et de la Grand'Anse d'Haïti. Il appartient à la famille des Rosacées, une vaste famille principalement composée d'arbustes et d'arbres reconnue pour ses riches usages alimentaires, médicinaux, aromatiques et spirituels. Cette famille se distingue phytochimiquement par une signature dominée par l'amygdaline, la cellulose, la lignine et l'acide ursolique, ciblant préférentiellement les systèmes digestif, respiratoire et ORL. Une vigilance particulière s'impose avec cette famille car certaines espèces renferment des principes actifs très puissants dans leurs noyaux et graines, notamment des cyanogènes précurseurs de cyanure. Au sein de cette famille, P. myrtifolia fait partie du genre Prunus, qui rassemble de nombreuses espèces fruitières d'importance économique mondiale — cerisiers, pruniers, amandiers, pêchers — toutes caractérisées par leurs fruits à noyau et leur potentiel en composés antioxydants. L'usage documenté dans les Départements du Sud et de la Grand'Anse est principalement aromatique, l'écorce étant macérée pour parfumer les « comparèt » — boissons traditionnelles locales."
+  },
+  "toxicologie": {
+    "niveau": "toxic",
+    "details": "P. myrtifolia présente une toxicité modérée nécessitant des précautions d'usage. L'excès de fruits peut provoquer des troubles digestifs dus à leur teneur en fibres et acides organiques. Plus préoccupant, les noyaux contiennent de l'amygdaline, précurseur de cyanure, exigeant de ne jamais les broyer ni les avaler en grande quantité. La prudence est recommandée durant la grossesse pour les préparations concentrées en raison du manque de données de sécurité spécifiques. Les enfants doivent éviter de mâcher les noyaux. Cette classification 🟠 reflète la nécessité d'une utilisation informée, particulièrement concernant les parties de la plante riches en cyanogènes."
+  },
+  "conservation": {
+    "menaces": "Bien que commune actuellement dans les Départements du Sud et de la Grand'Anse, P. myrtifolia nécessite des mesures de conservation préventive. La pression anthropique croissante sur les écosystèmes forestiers haïtiens menace à terme les populations naturelles. La déforestation et la conversion des terres agricoles constituent les principales menaces identifiées. Des actions de protection in situ des zones de moyenne altitude et de sensibilisation aux usages durables s'imposent pour maintenir cette ressource ethnobotanique locale.",
+    "valeur": "La valeur économique de P. myrtifolia reste principalement locale et centrée sur son usage aromatique traditionnel. L'espèce ne présente aucune valeur commerciale internationale documentée, contrairement à d'autres Prunus cultivés mondialement. Son potentiel économique pourrait être développé autour de la valorisation des composés antioxydants des fruits ou des huiles essentielles de l'écorce, mais nécessiterait des études de marché préalables et une standardisation des procédés d'extraction."
+  },
+  "recherche": {
+    "nb_articles": "~20 (estimation)",
+    "details": "Les publications scientifiques spécifiques à P. myrtifolia restent limitées, avec une estimation d'environ 20 articles indexés. Les recherches futures devraient prioritairement caractériser la composition chimique précise des huiles volatiles de l'écorce, valider les propriétés antioxydantes des fruits par des essais cliniques contrôlés, et évaluer la sécurité d'usage à long terme. L'investigation des mécanismes moléculaires d'action des tanins sur la fonction digestive constituerait également un axe de recherche pertinent pour cette espèce à potentiel thérapeutique sous-exploré.",
+    "lien_pubmed": "",
+    "lien_scholar": "",
+    "lien_tramil": "https://www.tramil.net/en/plant/prunus-myrtifolia"
+  },
+  "references": "Kashiwada, Y. et al. (1992). Tannins and related compounds from Prunus species. Journal of Natural Products. doi: 10.1021/jf00020a026 POWO (2024). Plants of the World Online. Facilitated by the Royal Botanic Gardens, Kew. http://www.plantsoftheworldonline.org/ TRAMIL (2024). Programme de recherche appliquée à la médecine populaire de la Caraïbe. https://www.tramil.net/en/plant/prunus-myrtifolia",
+  "aRetenir": "🟠 À retenir — Amandye ti fèy : est une plante a toxicite documentee. Tout usage interne non encadre est formellement deconseille. En cas d'ingestion accidentelle, consulter immediatement un service d'urgence. Ces informations sont destinees a l'enseignement et a la recherche uniquement. Les auteurs declinent toute responsabilite quant a un usage inapproprie. ATLAS ETHNOBOTANIQUE Plantes médicinales, aromatiques et alimentaires Départements du Sud et de la Grand'Anse — Haïti Bloc 12 — Especes 221 a 240 Amandye gwo fèy -> Santanyen 20 espèces · 5 famille(s) Source : Base de Référence Haïtienne (BRH) — Jardin Botanique des Cayes Validation : PubMed · Google Scholar · TRAMIL · POWO (Kew Science)",
+  "images": {
+    "principale": "images/762_Prunus_myrtifolia-001.jpg",
+    "galerie": [
+      "images/762_Prunus_myrtifolia-001.jpg"
+    ]
+  },
+  "source": "plantes_full.json"
+}

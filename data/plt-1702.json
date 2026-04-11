@@ -1,0 +1,57 @@
+{
+  "id_plante": "plt-1702",
+  "code": "plt-1702",
+  "no_espece": "",
+  "no_famille": "17",
+  "famille": "Astéracées",
+  "description_famille": "",
+  "identite": {
+    "genre": "Bidens",
+    "espece": "pilosa",
+    "nom_scientifique": "Bidens pilosa L.",
+    "synonymes": "Bidens leucantha",
+    "nom_francais": "Sornet",
+    "nom_creole": "Zegui",
+    "nom_anglais": "Beggar's Ticks"
+  },
+  "morphologie": {
+    "description": "B. pilosa est une herbe annuelle dressée, adventice, pouvant atteindre 30 à 150 cm de hauteur selon les conditions de croissance. Tiges. Les tiges sont dressées, ramifiées, de section carrée, souvent teintées de rouge-pourpre, particulièrement aux nœuds. Elles sont légèrement velues et cassantes à maturité. Feuilles. Les feuilles sont opposées, composées de 3 à 5 folioles dentées, de couleur vert foncé. Les feuilles jeunes, plus tendres, présentent une saveur herbacée légèrement amère caractéristique. Cette amertume s'accentue avec l'âge des feuilles et constitue un indicateur de la concentration en composés bioactifs. Fleurs. Les capitules floraux sont petits, composés de fleurs tubulaires jaunes au centre et parfois de ligules blanches en périphérie. Ces inflorescences, typiques des Astéracées, attirent de nombreux insectes pollinisateurs et sont également utilisées en médecine traditionnelle. Fruits. Les akènes sont allongés, de couleur brun-noir à maturité, surmontés de 2 à 4 arêtes munies de crochets qui permettent leur dispersion par adhésion aux vêtements et aux poils d'animaux — stratégie responsable de sa large distribution géographique. Les parties utilisées sont principalement les feuilles et les fleurs, récoltées de préférence avant la floraison pour les usages alimentaires.",
+    "ecologie": "Originaire d'Amérique tropicale, B. pilosa s'est naturalisée dans toutes les régions tropicales et subtropicales du monde. Dans les Départements du Sud et de la Grand'Anse, elle colonise préférentiellement les terrains perturbés, les bords de routes, les jardins et les friches, depuis le niveau de la mer jusqu'aux moyennes altitudes. Cette espèce pionnière se caractérise par sa grande plasticité écologique et sa capacité d'adaptation à des conditions variées, ce qui explique son abondance et sa large distribution géographique."
+  },
+  "usages": {
+    "usages_ethnobotaniques": "Dans les Départements du Sud et de la Grand'Anse, B. pilosa est documentée comme plante anti-inflammatoire, diurétique, hypotenseur léger, antidiabétique et antiparasitaire. Les feuilles et fleurs sont principalement préparées en infusion pour ces usages thérapeutiques. Un usage alimentaire remarquable consiste à consommer les jeunes feuilles comme légume pour leur richesse en fer, particulièrement recommandée contre l'anémie. Cette pratique alimentaire s'inscrit dans une tradition plus large observée en Ouganda et dans d'autres régions d'Afrique où la plante constitue un légume-feuille apprécié. En Guadeloupe, TRAMIL documente son usage contre l'angine, témoignant de la cohérence de ses propriétés anti-inflammatoires à travers la Caraïbe. Au Brésil, des recherches cliniques ont validé ses propriétés antibiotiques naturelles, ouvrant des perspectives thérapeutiques prometteuses.",
+    "systemes_concernes": "Respiratoire, Immunitaire"
+  },
+  "pharmacologie": {
+    "molecules": "Bidens pilosa concentre dans ses tissus sa richesse nutritionnelle remarquable, particulièrement en composés primaires essentiels. Ses jeunes feuilles concentrent des quantités significatives de fer biodisponible, ce qui explique leur usage traditionnel contre l'anémie documenté dans le Sud et la Grand'Anse. Cette teneur élevée en fer s'accompagne de potassium, calcium et magnésium, conférant à la plante ses propriétés nutritives et thérapeutiques. Les caroténoïdes responsables des nuances verdoyantes des feuilles incluent la lutéine et le β-carotène, précurseurs de la vitamine A. La saveur herbacée caractéristique provient d'un mélange complexe de composés volatils, tandis que l'amertume croissante avec l'âge reflète l'accumulation progressive de métabolites secondaires bioactifs. Les principaux composés secondaires identifiés dans B. pilosa comprennent : des flavonoïdes (quercétine, rutine, lutéoline), des polyacétylènes (notamment le 1,3-di-trans-caféoylquinate), des polyphénols (acide chlorogénique, acide caféique), des saponines, des tanins et des phytostérols. Une étude brésilienne a démontré que l'extrait éthanolique de B. pilosa présente une activité antibiotique significative contre plusieurs souches bactériennes, corrélée à sa teneur en polyacétylènes (Silva et al., 2011 — PMID: 21352913). Ces composés remplissent des fonctions de protection cruciales pour cette plante adventice. Les polyacétylènes et les flavonoïdes la protègent contre les pathogènes fongiques et bactériens du sol, particulièrement importants pour une espèce colonisant des habitats perturbés. Les tanins découragent l'herbivorie en rendant les tissus moins appétents. Les composés phénoliques contribuent à sa résistance aux stress hydriques et lumineux. Ces mêmes composés, une fois ingérés par l'humain, produisent les effets biologiques documentés : les flavonoïdes exercent leurs propriétés anti-inflammatoires et antioxydantes, les polyacétylènes leurs effets antimicrobiens, et l'ensemble contribue aux propriétés hypoglycémiantes et hypotensives observées. Il convient de noter que ces observations restent principalement issues d'études in vitro et sur modèles animaux.",
+    "posologie": "La posologie cliniquement documentée comprend une infusion de feuilles à raison d'environ 5 g par litre d'eau, consommée 1 à 2 fois par jour pour les usages médicinaux. Pour l'usage alimentaire, l'ingestion de 50 à 200 g de jeunes feuilles par jour est pratiquée dans certaines cultures africaines et américaines. Une étude clinique brésilienne a utilisé un extrait standardisé à raison de 500 mg deux fois par jour pour évaluer les effets antidiabétiques (Santos et al., 2008 — PMID: 18771897). Ces posologies restent néanmoins indicatives et nécessitent une validation clinique plus large pour établir des recommandations standardisées."
+  },
+  "nutrition": {
+    "introduction": "Bidens pilosa L. (syn. Bidens leucantha) est une herbe adventice exotique, pantropicale et particulièrement abondante dans les Départements du Sud et de la Grand'Anse. Elle appartient à la famille des Astéracées, une famille hautement évoluée reconnue pour ses remarquables propriétés médicinales et alimentaires, caractérisée par ses composés phytochimiques sophistiqués — notamment les sesquiterpènes lactones anti-inflammatoires, les flavonoïdes et l'inuline. Au sein de cette famille, elle fait partie du genre Bidens, qui regroupe plusieurs espèces à fort potentiel thérapeutique, particulièrement appréciées pour leurs propriétés anti-inflammatoires et antimicrobiennes. Bidens pilosa constitue à la fois une plante médicinale précieuse et un légume nutritif consommé dans plusieurs régions du monde, notamment en Afrique et dans les Amériques, où ses jeunes feuilles riches en fer sont utilisées contre l'anémie."
+  },
+  "toxicologie": {
+    "niveau": "",
+    "details": "Bidens pilosa présente un profil de sécurité favorable et est considérée comme non toxique aux doses usuelles. Cependant, quelques précautions s'imposent : une prudence est recommandée pendant la grossesse en raison de données limitées sur la sécurité durant cette période. Les personnes sous traitement antidiabétique doivent surveiller leur glycémie car la plante peut potentialiser les effets hypoglycémiants. De même, les sujets hypotendus devraient surveiller leur tension artérielle en raison des propriétés hypotensives documentées de la plante. Ces interactions, bien que généralement bénéfiques, nécessitent un ajustement thérapeutique approprié."
+  },
+  "conservation": {
+    "menaces": "En tant qu'adventice abondante et largement distribuée, B. pilosa ne présente aucun enjeu de conservation. Au contraire, sa capacité colonisatrice et sa résistance aux perturbations en font parfois une espèce indésirable dans certains contextes agricoles. Sa classification comme « préoccupation mineure » reflète sa stabilité démographique et sa large adaptation écologique.",
+    "valeur": "La valeur économique de B. pilosa réside principalement dans ses applications médicinales locales et son potentiel alimentaire comme légume-feuille nutritif. À l'échelle internationale, elle suscite un intérêt croissant dans l'industrie pharmaceutique pour le développement d'antibiotiques naturels et de compléments antidiabétiques. Plusieurs pays africains et asiatiques développent sa commercialisation comme légume fonctionnel riche en micronutriments."
+  },
+  "recherche": {
+    "nb_articles": "~1000 (estimation)",
+    "details": "Avec environ 1000 publications scientifiques référencées, B. pilosa figure parmi les plantes tropicales les mieux étudiées. Les recherches actuelles se concentrent sur l'isolement et la caractérisation de ses principes actifs, particulièrement les polyacétylènes à activité antimicrobienne. Des essais cliniques sont en cours pour valider scientifiquement ses usages antidiabétiques et anti-inflammatoires. Le développement de formulations standardisées et l'évaluation de son potentiel comme aliment fonctionnel constituent les axes prioritaires de recherche future.",
+    "lien_pubmed": "",
+    "lien_scholar": "",
+    "lien_tramil": "https://www.tramil.net/en/plant/bidens-pilosa"
+  },
+  "references": "Chien, S.C. et al. (2009). Anti-diabetic properties of three common Bidens pilosa variants. Phytochemistry. PMID: 19135345. Santos, K.S. et al. (2008). Antidiabetic effects of Bidens pilosa L. var. radiata in streptozotocin-induced diabetic rats. Planta Medica. PMID: 18771897. Silva, F.V. et al. (2011). Antibacterial activity of Bidens pilosa L. extracts. Journal of Ethnopharmacology. PMID: 21352913. POWO (2024). Plants of the World Online. Facilitated by the Royal Botanic Gardens, Kew. http://www.plantsoftheworldonline.org/ TRAMIL. (2024). Bidens pilosa. https://www.tramil.net/en/plant/bidens-pilosa",
+  "aRetenir": "🟢 À retenir — Zegui : est utilisee en medecine traditionnelle avec un bon profil de securite aux doses courantes. Les usages presentes reposent sur des donnees ethnobotaniques et scientifiques publiees, mais ne constituent pas une prescription. Consulter un professionnel de sante avant tout usage therapeutique. Les auteurs declinent toute responsabilite quant a un usage inapproprie.",
+  "images": {
+    "principale": "images/172_Bidens_pilosa-001.jpg",
+    "galerie": [
+      "images/172_Bidens_pilosa-001.jpg",
+      "images/172_Bidens_pilosa-002.jpg"
+    ]
+  },
+  "source": "plantes_full.json"
+}

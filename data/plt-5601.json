@@ -1,0 +1,59 @@
+{
+  "id_plante": "plt-5601",
+  "code": "plt-5601",
+  "no_espece": "",
+  "no_famille": "56",
+  "famille": "Nyctaginacées",
+  "description_famille": "Dominantes dans les régions tropicales et subtropicales, les Nyctaginacées rassemblent environ 400 espèces réparties en 30 genres, principalement des herbes et des arbustes à distribution pantropicale. Cette famille se distingue par une remarquable diversité d'usages : des genres à vocation ornementale comme Bougainvillea, aux fleurs colorées qui parent les jardins tropicaux, des genres à potentiel médicinal comme Mirabilis, utilisé traditionnellement pour ses propriétés digestives et anti-inflammatoires, et des genres alimentaires occasionnels dans certaines régions du monde. Sur le plan phytochimique, les Nyctaginacées présentent une signature chimique particulière dominée par les bétalaïnes — pigments colorés responsables des teintes vives des fleurs et des bractées —, les flavonoïdes, la trigonelline, les triterpènes et diverses résines. Ces composés ciblent préférentiellement le système tégumentaire et digestif. Il convient cependant de souligner que certains genres, notamment Mirabilis, renferment des principes actifs puissants dans leurs racines et graines, exigeant une préparation adéquate et un dosage strict pour éviter tout risque de toxicité, particulièrement chez l'enfant.",
+  "identite": {
+    "genre": "Mirabilis",
+    "espece": "jalapa",
+    "nom_scientifique": "Mirabilis jalapa L.",
+    "synonymes": "Mirabilis dichotoma",
+    "nom_francais": "Belle de nuit",
+    "nom_creole": "Bèl de nwi",
+    "nom_anglais": "Four O'Clock"
+  },
+  "morphologie": {
+    "description": "M. jalapa est une herbe vivace robuste pouvant atteindre 60 à 120 cm de hauteur, remarquable par ses fleurs colorées qui s'épanouissent en soirée. Dans le contexte des Départements du Sud et de la Grand'Anse, elle croît préférentiellement en basse altitude et présente une saveur amère caractéristique. Racines. Le système racinaire est pivotant et charnu, formant des racines tubéreuses noirâtres à l'extérieur et blanchâtres à l'intérieur. Ces racines, particulièrement développées, constituent la partie la plus active sur le plan thérapeutique mais aussi la plus toxique de la plante. Tiges et feuilles. Les tiges sont dressées, ramifiées, souvent teintées de rouge aux nœuds. Les feuilles sont opposées, ovales à cordiformes, de couleur vert foncé, glabres et de texture légèrement charnue. Elles dégagent une odeur herbacée lorsqu'on les froisse. Fleurs. Les fleurs tubulaires, de couleurs variées (rouge, jaune, blanc, rose ou bicolores), s'ouvrent en fin d'après-midi et se referment au matin suivant. Elles sont regroupées en cymes terminales et attirent les papillons nocturnes pour la pollinisation. Fruit et graines. Le fruit est un akène ovale, ridé, de couleur noire à maturité, contenant une seule graine. Les graines sont également considérées comme toxiques. Les parties utilisées sont principalement les racines pour les usages purgatifs, et les feuilles pour les applications externes.",
+    "ecologie": "Originaire d'Amérique tropicale, M. jalapa s'est naturalisée dans la plupart des régions tropicales du monde. En Haïti, elle est présente dans les Départements du Sud et de la Grand'Anse selon l'inventaire BRH, où elle croît en basse altitude dans des sols bien drainés. Bien que considérée comme rare localement, elle s'adapte facilement aux conditions climatiques haïtiennes et peut former des populations durables autour des habitations et dans les zones perturbées."
+  },
+  "usages": {
+    "usages_ethnobotaniques": "Dans les Départements du Sud et de la Grand'Anse, M. jalapa est documentée pour ses usages antidiabétique, diurétique, laxatif, anti-inflammatoire et antimicrobien selon les traditions locales. Les racines servent principalement de « purge forte » — un usage qui nécessite une grande prudence en raison de leur toxicité potentielle. Les feuilles sont appliquées en cataplasme sur les blessures pour leurs propriétés cicatrisantes et anti-inflammatoires. Le réseau TRAMIL documente son usage en Haïti pour les entorses, tandis qu'au niveau international, la plante est utilisée au Pérou contre la dysenterie et au Brésil comme antispasmodique. Le mode de préparation principal reste le cataplasme pour les usages externes.",
+    "systemes_concernes": "Digestif, Tégumentaire"
+  },
+  "pharmacologie": {
+    "molecules": "Mirabilis jalapa se caractérise par la production de bétalaïnes, des pigments azotés responsables des couleurs vives de ses fleurs — miraxanthines pour les teintes jaunes et bétacyanines pour les teintes rouges et violettes. Ces pigments, uniques aux Nyctaginacées et à quelques autres familles, remplacent fonctionnellement les anthocyanes dans l'attraction des pollinisateurs. La plante produit également de l'amidon dans ses racines tubéreuses, source d'énergie de réserve, ainsi que diverses résines protectrices. Sa saveur amère provient de triterpènes et de composés phénoliques qui découragent l'herbivorie. Les principaux composés secondaires identifiés dans M. jalapa comprennent : des triterpènes (acide oléanolique, acide ursolique), des flavonoïdes (quercétine, kaempférol), des saponines, l'alcaloïde trigonelline, des tanins, et notamment des protéines inactivatrices de ribosomes (RIP) concentrées dans les racines et graines (Lin et al., 1994 — PMID: 8031572). Des études récentes ont aussi identifié des composés phénoliques et des glycosides dans les parties aériennes (Cao et al., 2015 — doi: 10.1016/j.jep.2015.02.053). Ces molécules remplissent des fonctions de défense spécifiques pour la plante. Les saponines dans les racines créent une barrière chimique contre les pathogènes du sol et les herbivores fouisseurs. Les protéines RIP constituent un mécanisme de défense sophistiqué contre les virus et les insectes ravageurs. Les triterpènes dans les parties aériennes protègent contre les pathogènes foliaires. Ces mêmes composés, une fois ingérés par l'humain, produisent les effets biologiques documentés : les saponines expliquent l'action purgative et diurétique, tandis que les composés phénoliques et triterpènes contribuent aux propriétés anti-inflammatoires observées. Cependant, les observations restent principalement issues d'études in vitro et d'usage traditionnel.",
+    "posologie": "Aucune posologie cliniquement validée n'est disponible pour M. jalapa en raison de l'absence d'essais cliniques standardisés. Les pratiques ethnobotaniques rapportent l'usage d'infusions ou décoctions de feuilles ou racines à des concentrations approximatives de 5 à 10 g/L, mais ces dosages traditionnels ne sont pas formalisés scientifiquement. L'absence de standardisation pose un problème majeur de sécurité, particulièrement pour les racines dont la toxicité varie selon la période de récolte, le mode de séchage et la partie utilisée."
+  },
+  "nutrition": {
+    "introduction": "Mirabilis jalapa L. (syn. Mirabilis dichotoma) est une herbe exotique naturalisée dans les Départements du Sud et de la Grand'Anse d'Haïti, où elle est connue sous le nom créole de « Bèl de nwi ». Elle appartient à la famille des Nyctaginacées, une famille tropicale remarquable par ses pigments colorés et ses usages médicinaux variés. Au sein de cette famille, elle fait partie du genre Mirabilis, qui regroupe des espèces herbacées à fleurs tubulaires s'ouvrant en fin de journée — d'où le nom vernaculaire « belle de nuit ». Son usage principal dans les deux départements est médicinal, documenté dans le Sud et la Grand'Anse pour ses propriétés purgatives puissantes au niveau des racines et anti-inflammatoires au niveau des feuilles."
+  },
+  "toxicologie": {
+    "niveau": "",
+    "details": "M. jalapa présente un profil toxicologique conditionnel nécessitant des précautions strictes. Le surdosage peut provoquer diarrhée, vomissements et hypotension. La toxicité est principalement concentrée dans les racines et les graines, particulièrement dangereuses chez l'enfant en raison de leur teneur en protéines inactivatrices de ribosomes. L'usage interne prolongé est à éviter, de même que toute utilisation pendant la grossesse. Les applications externes de feuilles semblent présenter moins de risques, mais une surveillance reste nécessaire."
+  },
+  "conservation": {
+    "menaces": "Bien que l'espèce ne soit pas menacée à l'échelle mondiale, sa rareté documentée dans les Départements du Sud et de la Grand'Anse justifie une attention particulière pour la conservation locale des populations. La pression de cueillette sur les racines, combinée à la dégradation des habitats, pourrait affecter sa disponibilité future pour les usages traditionnels.",
+    "valeur": "M. jalapa présente une valeur économique modeste au niveau local pour ses usages médicinaux traditionnels. À l'échelle internationale, elle est principalement valorisée en horticulture ornementale pour ses fleurs colorées et sa facilité de culture. Son potentiel pharmaceutique reste largement inexploité en raison des questions de toxicité."
+  },
+  "recherche": {
+    "nb_articles": "~500 (estimation)",
+    "details": "Avec environ 500 publications indexées, M. jalapa fait l'objet d'un intérêt scientifique soutenu, principalement axé sur sa composition chimique et ses activités biologiques in vitro. Les recherches futures devraient se concentrer sur la standardisation des extraits, l'évaluation de la toxicité et le développement de protocoles d'usage sécurisés. L'identification des composés responsables de la toxicité permettrait de développer des préparations purifiées pour un usage thérapeutique plus sûr.",
+    "lien_pubmed": "",
+    "lien_scholar": "",
+    "lien_tramil": "https://www.tramil.net/en/plant/mirabilis-jalapa"
+  },
+  "references": "Lin et al. (1994). Four-chain ribosome-inactivating proteins from Mirabilis jalapa. PMID: 8031572. Cao et al. (2015). Traditional uses, phytochemistry and biological activities of Mirabilis jalapa L. Journal of Ethnopharmacology. doi: 10.1016/j.jep.2015.02.053. POWO (2024). Plants of the World Online. Kew Science. https://powo.science.kew.org/ TRAMIL (2024). Traditional Medicine in the Caribbean. https://www.tramil.net/en/plant/mirabilis-jalapa",
+  "aRetenir": "🟡 À retenir — Bèl de nwi : est une plante a toxicite conditionnelle documentee. Respecter imperativement les precautions indiquees. Ne jamais ingerer les parties toxiques sans encadrement medical. Ces informations sont destinees a l'enseignement et a la documentation. Les auteurs declinent toute responsabilite quant a un usage inapproprie.",
+  "images": {
+    "principale": "images/551_Mirabilis_jalapa-001.jpg",
+    "galerie": [
+      "images/551_Mirabilis_jalapa-001.jpg",
+      "images/551_Mirabilis_jalapa-002.jpg",
+      "images/551_Mirabilis_jalapa-003.jpg",
+      "images/551_Mirabilis_jalapa-004.jpg"
+    ]
+  },
+  "source": "plantes_full.json"
+}

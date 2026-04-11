@@ -1,0 +1,58 @@
+{
+  "id_plante": "plt-1805",
+  "code": "plt-1805",
+  "no_espece": "",
+  "no_famille": "18",
+  "famille": "Bignoniacées",
+  "description_famille": "",
+  "identite": {
+    "genre": "Tabebuia",
+    "espece": "conferta",
+    "nom_scientifique": "Tabebuia conferta Urb.",
+    "synonymes": "-",
+    "nom_francais": "-",
+    "nom_creole": "Kalbasye",
+    "nom_anglais": "-"
+  },
+  "morphologie": {
+    "description": "T. conferta est un arbre de taille moyenne, caractéristique des forêts sèches d'altitude moyenne des massifs du Sud et de la Grand'Anse d'Haïti. Tronc et écorce. Le tronc présente une écorce rugueuse et fissurée à l'extérieur, mais c'est l'écorce interne — également appelée aubier — qui constitue la partie d'intérêt thérapeutique. Cette écorce interne révèle une coloration caractéristique et contient les principes actifs recherchés, particulièrement les naphtoquinones responsables des propriétés antimicrobiennes. Bois. Le bois est dense, résistant et apprécié localement pour ses qualités mécaniques. Sa structure présente les caractéristiques typiques des Bignoniacées : fibres ligneuses robustes et vaisseaux conducteurs bien organisés, lui conférant une bonne résistance aux intempéries. Feuilles. Les feuilles sont composées, typiques du genre Tabebuia, avec des folioles disposées en palmettes. Elles présentent une texture coriace et persistent selon les conditions hydriques locales. Fleurs. Comme les autres espèces du genre, T. conferta produit probablement des fleurs tubulaires colorées, caractéristiques de la famille des Bignoniacées, bien que les détails spécifiques de sa floraison restent peu documentés. Les parties utilisées sont principalement le bois pour l'usage artisanal et l'écorce interne pour les applications thérapeutiques traditionnelles.",
+    "ecologie": "Tabebuia conferta est endémique strict d'Haïti, avec une aire de distribution naturelle extrêmement restreinte aux régions montagneuses des Départements du Sud et de la Grand'Anse, notamment dans le massif de la Hotte et les zones adjacentes. Cette espèce s'épanouit dans les forêts sèches d'altitude moyenne, un écosystème particulièrement menacé en Haïti. Son habitat spécialisé et sa distribution ultra-limitée font de T. conferta l'une des espèces ligneuses les plus vulnérables de la flore haïtienne, nécessitant des mesures de protection urgentes."
+  },
+  "usages": {
+    "usages_ethnobotaniques": "Dans les Départements du Sud et de la Grand'Anse, Tabebuia conferta est documenté principalement pour deux usages distincts. D'une part, son bois dense et résistant est recherché comme bois d'œuvre local pour la construction et l'artisanat. D'autre part, l'écorce interne fait l'objet d'un usage thérapeutique traditionnel, préparée en décoction pour traiter les infections cutanées et favoriser la cicatrisation des plaies. Cette pratique s'inscrit dans une tradition caribéenne plus large d'utilisation des Tabebuia comme substituts du « Pau d'Arco » brésilien. La préparation traditionnelle consiste à faire bouillir l'écorce interne fraîche ou séchée dans de l'eau, produisant une décoction brunâtre utilisée en application externe ou, plus rarement, en usage interne limité.",
+    "systemes_concernes": "Respiratoire, Tégumentaire"
+  },
+  "pharmacologie": {
+    "molecules": "Tabebuia conferta se distingue par sa production de naphtoquinones, des pigments naturels qui confèrent à l'écorce interne sa coloration caractéristique et ses propriétés biologiques remarquables. Le lapachol et la bêta-lapachone constituent les composés majeurs de cette espèce, responsables de l'activité antimicrobienne et antifongique documentée. Ces molécules appartiennent à une classe de métabolites secondaires particulièrement efficaces contre les pathogènes, expliquant l'usage traditionnel de l'écorce en décoction pour traiter les infections cutanées. Les principaux composés secondaires identifiés dans le genre Tabebuia comprennent : des naphtoquinones (lapachol, bêta-lapachone, déhydro-alpha-lapachone), des iridoïdes, des flavonoïdes, des tanins et des composés phénoliques divers. Le lapachol, molécule signature du genre, présente un mécanisme d'action bien caractérisé : il interfère avec la chaîne respiratoire des champignons et des bactéries, perturbant leur métabolisme énergétique et provoquant leur mort cellulaire (Pinto et al., 2010 — PMID: 20804815). Ces composés remplissent des fonctions de défense essentielles pour l'arbre dans son environnement tropical. Les naphtoquinones protègent le bois contre les attaques fongiques et bactériennes, particulièrement importantes dans le climat humide des forêts tropicales. Ces mêmes composés, une fois utilisés par l'humain sous forme de décoction d'écorce, produiraient les effets antimicrobiens observés traditionnellement, bien que les données spécifiques à T. conferta restent limitées et nécessitent des études cliniques approfondies pour validation.",
+    "posologie": "Aucune posologie cliniquement validée n'est disponible pour Tabebuia conferta dans la littérature scientifique. Les modes de préparation traditionnels mentionnent l'usage de décoctions d'écorce interne, mais les concentrations, durées de traitement et fréquences d'administration restent empiriques et variables selon les praticiens locaux. Cette absence de standardisation constitue un obstacle majeur à l'évaluation rigoureuse de l'efficacité et de la sécurité de cette espèce en usage thérapeutique."
+  },
+  "nutrition": {
+    "introduction": "Tabebuia conferta Urb. est un arbre endémique strict d'Haïti appartenant à la famille des Bignoniacées. Il fait partie du genre Tabebuia, un groupe d'arbres tropicaux américains réputés pour leur bois précieux et leurs propriétés thérapeutiques liées aux naphtoquinones qu'ils contiennent. Dans les Départements du Sud et de la Grand'Anse, cette espèce est principalement valorisée comme bois d'œuvre local, mais elle présente également un potentiel médicinal traditionnel comme substitut du célèbre « Pau d'Arco » brésilien, notamment pour le traitement des infections cutanées et des plaies. Sa rareté extrême et son statut d'endémique strict en font une priorité absolue de conservation."
+  },
+  "toxicologie": {
+    "niveau": "",
+    "details": "Tabebuia conferta présente un profil de sécurité apparemment favorable selon les observations traditionnelles, sans rapports de toxicité aiguë documentés dans les Départements du Sud et de la Grand'Anse. Cependant, par analogie avec d'autres espèces du genre Tabebuia, une prudence particulière s'impose concernant l'usage de l'aubier concentré, qui pourrait présenter une hépatotoxicité potentielle à doses élevées ou lors d'usage prolongé. Les données cliniques spécifiques à cette espèce restant limitées, il convient d'éviter l'automédication et de privilégier l'accompagnement par des praticiens expérimentés."
+  },
+  "conservation": {
+    "menaces": "En tant qu'espèce endémique strict d'Haïti à distribution ultra-restreinte, T. conferta figure parmi les arbres les plus vulnérables de la flore haïtienne. La pression exercée par la demande de bois d'œuvre, combinée à la déforestation généralisée des forêts sèches d'altitude, menace directement sa survie. La régulation stricte de l'exploitation et la mise en place de programmes de multiplication ex situ constituent des priorités absolues pour éviter l'extinction de cette espèce unique au monde.",
+    "valeur": "La valeur économique de T. conferta repose principalement sur son bois d'œuvre apprécié localement pour ses qualités mécaniques et sa durabilité. Le potentiel thérapeutique de son écorce, bien que prometteur au regard des propriétés du genre Tabebuia, reste largement sous-exploité en raison de la rareté de l'espèce. Le développement d'une filière durable nécessiterait préalablement la sécurisation des populations sauvages et la maîtrise de sa multiplication contrôlée."
+  },
+  "recherche": {
+    "nb_articles": "",
+    "details": "Les recherches sur Tabebuia conferta demeurent exceptionnellement limitées, aucune publication spécifique à cette espèce n'étant disponible dans les bases de données scientifiques. Les investigations prioritaires devraient porter sur sa caractérisation phytochimique détaillée, l'évaluation de ses activités biologiques, l'optimisation de sa multiplication végétative et la définition de protocoles de conservation ex situ. Le potentiel de cette espèce comme source de naphtoquinones bioactives justifie des investissements de recherche significatifs, à condition de concilier valorisation scientifique et impératifs de conservation.",
+    "lien_pubmed": "",
+    "lien_scholar": "",
+    "lien_tramil": ""
+  },
+  "references": "Pinto, C.N. et al. (2010). Chemical constituents of Tabebuia impetiginosa inner bark and antioxidant activity. Natural Product Research. PMID: 20804815. POWO (2024). Plants of the World Online. Kew Science. https://powo.science.kew.org World Flora Online (2024). WFO Plant List. http://www.worldfloraonline.org",
+  "aRetenir": "🟢 À retenir — Kalbasye : est une espece peu ou non etudiee scientifiquement. Les proprietes presentees reposent sur des analogies avec des especes proches et les usages traditionnels documentes localement. La conservation de cette espece prime sur toute valorisation. Les auteurs declinent toute responsabilite quant a un usage inapproprie.",
+  "images": {
+    "principale": "images/185_Tabebuia_conferta-001.jpg",
+    "galerie": [
+      "images/185_Tabebuia_conferta-001.jpg",
+      "images/185_Tabebuia_conferta-002.jpg",
+      "images/185_Tabebuia_conferta-003.jpg"
+    ]
+  },
+  "source": "plantes_full.json"
+}

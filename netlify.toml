@@ -2,12 +2,6 @@
   command = "echo 'Static site - no build needed'"
   publish = "."
 
-# Gestion des erreurs 404
-[[redirects]]
-  from = "/*"
-  to = "/404.html"
-  status = 404
-
 # Headers de sécurité et performance
 [[headers]]
   for = "/*"
@@ -21,3 +15,14 @@
   for = "/assets/*"
   [headers.values]
     Cache-Control = "public, max-age=31536000"
+
+[[headers]]
+  for = "/images/*"
+  [headers.values]
+    Cache-Control = "public, max-age=31536000"
+
+[[headers]]
+  for = "/data/*"
+  [headers.values]
+    Cache-Control = "public, max-age=3600"
+    Access-Control-Allow-Origin = "*"

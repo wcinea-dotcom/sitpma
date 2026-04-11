@@ -1,0 +1,56 @@
+{
+  "id_plante": "plt-4711",
+  "code": "plt-4711",
+  "no_espece": "",
+  "no_famille": "47",
+  "famille": "Malvacées",
+  "description_famille": "",
+  "identite": {
+    "genre": "Urena",
+    "espece": "lobata",
+    "nom_scientifique": "Urena lobata L.",
+    "synonymes": "Urena americana",
+    "nom_francais": "Cousin",
+    "nom_creole": "Kouzen",
+    "nom_anglais": "Caesarweed"
+  },
+  "morphologie": {
+    "description": "U. lobata est une herbe vivace dressée, pouvant atteindre 1 à 2 mètres de hauteur, particulièrement commune dans les zones perturbées et les bordures de chemins des basses altitudes du Sud et de la Grand'Anse. Tiges. Les tiges sont robustes, ligneuses à la base, couvertes de poils étoilés caractéristiques de la famille des Malvacées. L'écorce fibreuse était traditionnellement utilisée pour confectionner des cordes rustiques. Feuilles. Les feuilles sont alternes, pétiolées, de forme variable — entières à palmatilobées avec 3 à 5 lobes peu profonds. Leur surface est rugueuse au toucher en raison de la pilosité étoilée, et elles dégagent une texture légèrement gluante lorsqu'on les froisse, caractéristique des mucilages abondants. Fleurs. Les fleurs sont petites, solitaires ou groupées à l'aisselle des feuilles, de couleur rose pâle à mauve. Elles présentent la structure typique des Malvacées avec cinq pétales libres et une colonne staminale centrale. Fruits. Le fruit est une capsule schizocarpe se divisant en plusieurs méricarpes couverts de crochets rigides, permettant la dispersion par les animaux et les vêtements — d'où probablement le nom créole « Kouzen » évoquant l'attachement. Les parties utilisées sont les feuilles, les racines et les fleurs, avec une préférence marquée pour les feuilles dans les pratiques locales.",
+    "ecologie": "Urena lobata est une espèce pantropicale native d'Amérique tropicale, naturalisée dans de nombreuses régions chaudes du globe. En Haïti, elle colonise préférentiellement les milieux perturbés, les friches, les bordures de routes et les zones de culture abandonnées des basses altitudes. Dans les Départements du Sud et de la Grand'Anse, elle est particulièrement abondante et constitue une ressource médicinale facilement accessible aux communautés rurales. Sa capacité d'adaptation aux sols pauvres et sa résistance à la sécheresse en font une espèce pionnière précieuse pour la stabilisation des terrains dégradés."
+  },
+  "usages": {
+    "usages_ethnobotaniques": "Les usages médicinaux d'Urena lobata sont bien documentés dans le Sud et la Grand'Anse, où la plante est principalement employée contre les affections respiratoires et digestives. Les feuilles constituent la partie la plus utilisée, préparées en infusion contre la grippe et les « gaz » (troubles digestifs avec flatulences), affection localement appelée « Dada chat ». Les racines sont occasionnellement utilisées en décoction pour leurs propriétés plus concentrées. Les fleurs, moins communes dans l'usage, sont parfois intégrées aux préparations pour renforcer l'effet anti-inflammatoire. Le mode de préparation standard consiste en une infusion de feuilles fraîches ou séchées, laissée à infuser 10 à 15 minutes avant filtration. Les données TRAMIL confirment l'usage contre la grippe en Haïti, tandis que d'autres régions tropicales valorisent la plante pour ses propriétés cicatrisantes et antidiarrhéiques.",
+    "systemes_concernes": "Digestif, Respiratoire, Tégumentaire"
+  },
+  "pharmacologie": {
+    "molecules": "La texture gluante caractéristique d'Urena lobata révèle sa richesse exceptionnelle en mucilages, des polysaccharides complexes principalement composés d'arabinose, de galactose et d'acide galacturonique. Ces mucilages, concentrés dans les feuilles et les tiges, confèrent à la plante ses propriétés émollientes et protectrices des muqueuses. La plante renferme également des minéraux essentiels, notamment du potassium et du calcium, ainsi que des fibres cellulosiques abondantes dans les tiges, historiquement exploitées pour la confection de cordages. Les principaux composés secondaires identifiés dans U. lobata comprennent : des flavonoïdes (quercétine, kaempférol, rutine), des tanins hydrolysables et condensés responsables de l'astringence, des saponines triterpéniques, des triterpènes (β-sitostérol, stigmastérol), des alcaloïdes en faibles concentrations, et de l'imperatorine, une coumarine aux propriétés photosensibilisantes (Zakaria et al., 2006 — PMID: 16678971, Kumar et al., 2013 — doi:10.1016/j.jep.2013.07.021). Ces molécules remplissent des rôles de défense essentiels pour la plante. Les mucilages forment une barrière protectrice contre la dessiccation et les pathogènes, particulièrement important dans les environnements tropicaux secs. Les tanins protègent contre les herbivores en rendant les tissus moins appétents et en précipitant les protéines digestives. Les saponines agissent comme détergents naturels antimicrobiens et antifongiques. Ces mêmes composés, une fois ingérés par l'humain, produisent les effets biologiques documentés : les mucilages exercent un effet protecteur sur les muqueuses digestives et respiratoires, les tanins apportent une activité astringente et antimicrobienne, tandis que les flavonoïdes contribuent aux propriétés anti-inflammatoires et antioxydantes observées in vitro.",
+    "posologie": "Aucune posologie cliniquement validée n'est disponible pour Urena lobata dans la littérature médicale. Les pratiques traditionnelles documentées localement mentionnent des infusions préparées avec environ 5 grammes de feuilles par litre d'eau, consommées à raison de 2 à 3 tasses par jour. Les décoctions de racines, plus concentrées, sont utilisées en quantités moindres mais sans standardisation précise. L'absence d'études pharmacocinétiques empêche toute recommandation posologique standardisée, et les dosages traditionnels peuvent varier considérablement selon les praticiens et les régions."
+  },
+  "nutrition": {
+    "introduction": "Urena lobata L. (syn. Urena americana) est une herbe native abondante des Départements du Sud et de la Grand'Anse, où elle constitue l'une des plantes médicinales les plus utilisées par les communautés rurales. Elle appartient à la famille des Malvacées, une vaste famille tropicale de plus de 4 000 espèces comprenant des genres alimentaires majeurs comme l'hibiscus (Hibiscus sabdariffa), le gombo (Abelmoschus esculentus) et le cacao (Theobroma cacao), ainsi que des espèces textiles comme le coton (Gossypium). Cette famille se distingue par sa richesse en mucilages, flavonoïdes, tanins et anthocyanes, conférant aux espèces des propriétés émollientes, anti-inflammatoires et antioxydantes particulièrement efficaces sur les systèmes respiratoire, digestif et tégumentaire. Il convient de noter que certains genres — notamment Gossypium — renferment des composés potentiellement toxiques comme le gossypol, nécessitant une vigilance dans l'identification botanique. Au sein de cette famille, Urena lobata fait partie du genre Urena, petit groupe de plantes herbacées tropicales reconnues pour leurs fibres textiles et leurs propriétés médicinales. Dans le contexte haïtien, « Kouzen » est principalement valorisé pour ses usages thérapeutiques, particulièrement contre les affections respiratoires et digestives."
+  },
+  "toxicologie": {
+    "niveau": "",
+    "details": "Urena lobata présente un profil de sécurité globalement favorable aux dosages traditionnels. Aucune toxicité majeure n'a été rapportée dans la littérature scientifique pour cette espèce. Cependant, le surdosage oral peut provoquer des diarrhées et des irritations digestives en raison de la forte teneur en saponines. La présence d'imperatorine impose une prudence en cas d'exposition solaire prolongée après ingestion, en raison du risque de photosensibilisation. Par précaution, l'usage est déconseillé pendant la grossesse et l'allaitement, les données toxicologiques spécifiques étant limitées pour ces populations sensibles."
+  },
+  "conservation": {
+    "menaces": "Urena lobata bénéficie d'un statut de conservation favorable (LC - Préoccupation mineure) en raison de sa large distribution et de sa capacité d'adaptation remarquable. L'espèce ne fait face à aucune menace significative et sa nature pionnière lui permet de coloniser rapidement les milieux perturbés. Dans les Départements du Sud et de la Grand'Anse, son abondance naturelle garantit un approvisionnement durable pour les usages médicinaux locaux.",
+    "valeur": "La valeur économique d'Urena lobata reste principalement locale et médicinale en Haïti. À l'échelle internationale, l'espèce présente un potentiel textile significatif grâce à ses fibres corticales résistantes, historiquement utilisées en Asie pour la confection de cordages et de tissus rustiques. Le marché des plantes médicinales tropicales pourrait valoriser ses propriétés thérapeutiques documentées, particulièrement dans le contexte de la recherche de nouveaux antimicrobiens naturels face aux résistances bactériennes croissantes."
+  },
+  "recherche": {
+    "nb_articles": "~500 (estimation)",
+    "details": "Avec environ 500 publications référencées sur PubMed, Urena lobata bénéficie d'un corpus scientifique substantiel couvrant ses aspects phytochimiques, pharmacologiques et écologiques. Les recherches futures prioritaires incluent des essais cliniques contrôlés pour valider l'efficacité contre les infections respiratoires, des études de standardisation posologique et l'évaluation du potentiel antidiabétique suggéré par les usages asiatiques. L'optimisation des protocoles d'extraction des principes actifs et l'évaluation de la biodisponibilité des mucilages représentent des axes de développement pharmaceutique prometteurs.",
+    "lien_pubmed": "",
+    "lien_scholar": "",
+    "lien_tramil": "https://www.tramil.net/en/plant/urena-lobata"
+  },
+  "references": "Kumar, S. et al. (2013). Comprehensive review of Urena lobata: Traditional uses, phytochemistry and pharmacological activities. Journal of Ethnopharmacology. doi:10.1016/j.jep.2013.07.021 Zakaria, Z.A. et al. (2006). Antinociceptive and anti-inflammatory activities of Urena lobata. Pharmaceutical Biology. PMID: 16678971 POWO (2024). Plants of the World Online. Facilitated by the Royal Botanic Gardens, Kew. http://www.plantsoftheworldonline.org/ TRAMIL (2024). Traditional Medicine in the Islands. https://www.tramil.net/en/plant/urena-lobata",
+  "aRetenir": "🟢 À retenir — Kouzen : est utilisee en medecine traditionnelle avec un bon profil de securite aux doses courantes. Les usages presentes reposent sur des donnees ethnobotaniques et scientifiques publiees, mais ne constituent pas une prescription. Consulter un professionnel de sante avant tout usage therapeutique. Les auteurs declinent toute responsabilite quant a un usage inapproprie.",
+  "images": {
+    "principale": "images/4711_Urena_lobata-001.jpg",
+    "galerie": [
+      "images/4711_Urena_lobata-001.jpg"
+    ]
+  },
+  "source": "plantes_full.json"
+}

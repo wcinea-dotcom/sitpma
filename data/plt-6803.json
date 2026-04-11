@@ -1,0 +1,59 @@
+{
+  "id_plante": "plt-6803",
+  "code": "plt-6803",
+  "no_espece": "",
+  "no_famille": "68",
+  "famille": "Poacées",
+  "description_famille": "",
+  "identite": {
+    "genre": "Oryza",
+    "espece": "sativa",
+    "nom_scientifique": "Oryza sativa L.",
+    "synonymes": "Oryza rufipogon (ancestral synonym)",
+    "nom_francais": "Riz",
+    "nom_creole": "Diri",
+    "nom_anglais": "Rice"
+  },
+  "morphologie": {
+    "description": "O. sativa est une herbe annuelle semi-aquatique de 50 cm à 1,5 m de hauteur, parfaitement adaptée aux conditions tropicales humides des plaines côtières du Sud et de la Grand'Anse. Racines. Le système racinaire est fasciculé et fibreux, particulièrement développé pour absorber les nutriments dans les sols temporairement inondés des rizières. Les racines adventives se forment aux nœuds inférieurs de la tige. Tiges. Les tiges (chaumes) sont creuses, dressées, cylindriques et noueuses, caractéristiques de la famille des Poacées. Elles portent plusieurs nœuds d'où émergent les feuilles et peuvent développer des talles (ramifications) à la base. Feuilles. Les feuilles sont longues, étroites, lancéolées, avec une nervure centrale proéminente et des bords rugueux. Elles sont engainantes à la base et présentent une ligule membraneuse typique des graminées. Fleurs. L'inflorescence est une panicule terminale composée d'épillets contenant chacun une fleur bisexuée. La pollinisation est principalement autogame (autofécondation). Fruit. Le fruit est un caryopse (grain) ovoïde, enveloppé dans des glumes protectrices (balle). Après décorticage, on obtient le grain de riz proprement dit, blanc nacré ou brun selon le degré de polissage. Les parties utilisées sont principalement les grains décortiqués, le son (enveloppe externe du grain), et occasionnellement l'eau de cuisson.",
+    "ecologie": "Originaire d'Asie (bassin du Yangtsé en Chine), O. sativa fut domestiquée il y a environ 9 000 ans avant d'être diffusée dans tout le monde tropical et subtropical. Introduite dans les Caraïbes par les colonisateurs européens, elle s'est parfaitement acclimatée aux conditions pédoclimatiques d'Haïti. Dans les Départements du Sud et de la Grand'Anse, le riz est cultivé principalement dans les plaines alluviales et les zones d'irrigation, nécessitant des sols riches en matière organique et un approvisionnement en eau régulier. La plante pousse de 0 à 800 m d'altitude sous climat tropical humide."
+  },
+  "usages": {
+    "usages_ethnobotaniques": "Le riz constitue l'aliment de base fondamental de l'alimentation haïtienne, consommé quotidiennement sous forme de « diri » accompagnant la plupart des repas traditionnels. Au-delà de son usage nutritionnel, les pratiques médicinales documentées dans le Sud et la Grand'Anse incluent l'utilisation de l'eau de cuisson du riz comme remède contre les troubles digestifs, particulièrement efficace contre les diarrhées et les « gaz » (meteorisme intestinal). Cette préparation, obtenue par décoction prolongée des grains dans l'eau, concentre les mucilages et les minéraux solubles aux propriétés apaisantes. Le son de riz, bien que moins utilisé traditionnellement en Haïti, commence à être reconnu pour ses bénéfices nutritionnels. Les feuilles sont occasionnellement employées en infusion dans certaines régions rurales, bien que cet usage reste marginal.",
+    "systemes_concernes": "Digestif"
+  },
+  "pharmacologie": {
+    "molecules": "Ce qui caractérise Le grain de riz, c'est sa richesse exceptionnelle en amidon (70-80% du poids sec), polysaccharide complexe responsable de sa valeur nutritionnelle et de sa facilité de digestion. Cette forte teneur en glucides complexes, associée à des protéines complètes (8-12%) et à une quasi-absence de lipides (1-2%), confère au riz son profil nutritionnel unique parmi les céréales. Le riz complet conserve son son, riche en fibres alimentaires, vitamines du groupe B (thiamine, riboflavine, niacine), vitamine E et minéraux essentiels — magnésium (44 mg/100g), fer (1,2 mg/100g), zinc et manganèse. Ces micronutriments jouent des rôles cruciaux dans le métabolisme énergétique et la fonction immunitaire. Les principaux composés secondaires identifiés dans O. sativa comprennent : le γ-oryzanol (ensemble de férulates de stérols et de triterpènes), les acides phénoliques (acide férulique, acide para-coumarique), les flavonoïdes (tricine, lutéoline), les lignanes, les saponines triterpéniques, les phytostérols (β-sitostérol, campestérol) et les tocophérols (vitamine E naturelle) (Goufo & Trindade, 2014 — doi: 10.1186/s12284-014-0022-z). Le γ-oryzanol, concentré dans le son à hauteur de 1-2%, représente le biomarqueur spécifique du riz complet. Ces molécules remplissent des fonctions de protection pour la plante. L'amidon constitue la réserve énergétique permettant la germination, tandis que les composés phénoliques du son protègent le grain contre l'oxydation, les champignons pathogènes et les insectes ravageurs. Chez l'humain, ces mêmes composés produisent les effets métaboliques documentés : le γ-oryzanol et les phytostérols réduisent l'absorption intestinale du cholestérol, les fibres solubles ralentissent l'absorption glucidique et modulent la réponse glycémique, tandis que les antioxydants phénoliques neutralisent le stress oxydatif associé aux pathologies cardiovasculaires et métaboliques.",
+    "posologie": "Pour l'usage traditionnel contre les diarrhées, la posologie documentée dans TRAMIL recommande la décoction de 30-50g de riz dans 500mL d'eau jusqu'à obtention d'un liquide visqueux, à boire par petites quantités répétées. Des essais cliniques contrôlés ont évalué l'effet hypocholestérolémiant du son de riz : une supplémentation de 20g/jour de son de riz pendant 30 jours chez des diabétiques de type 2 a significativement réduit les triglycérides (-15%) et amélioré le HDL-cholestérol (+8%) comparativement au placebo (PMID: 29087168). Une méta-analyse de 2019 confirme qu'une consommation quotidienne de riz complet à la place du riz blanc améliore les marqueurs glycémiques et lipidiques chez les adultes (PMID: 31025164)."
+  },
+  "nutrition": {
+    "introduction": "Oryza sativa L. (syn. Oryza rufipogon pour la forme ancestrale) est une herbe annuelle exotique, cultivée intensivement dans les Départements du Sud et de la Grand'Anse où elle constitue l'aliment de base de la population. Cette céréale tropicale appartient à la famille des Poacées, vaste famille de graminées regroupant plus de 12 000 espèces mondiales, incluant les principales céréales alimentaires de l'humanité — blé, maïs, avoine, orge — ainsi que des plantes aromatiques remarquables comme la citronnelle (Cymbopogon citratus) et le vétiver (Chrysopogon zizanioides). Au sein de cette famille, O. sativa fait partie du genre Oryza, qui comprend une vingtaine d'espèces dont seules deux sont cultivées : O. sativa (riz asiatique) et O. glaberrima (riz africain). Le riz représente à la fois la principale source calorique et un remède traditionnel reconnu pour les troubles digestifs, particulièrement efficace sous forme d'eau de cuisson contre les diarrhées."
+  },
+  "toxicologie": {
+    "niveau": "",
+    "details": "Le riz est considéré comme non toxique et constitue un aliment de sécurité reconnu mondialement. Contrairement à d'autres céréales, il ne contient pas de gluten et convient donc aux personnes cœliaques. Les principales précautions concernent la qualité nutritionnelle : une consommation exclusive de riz blanc très raffiné peut conduire à des carences en vitamines B (béribéri historique) et à une charge glycémique élevée problématique pour les diabétiques. Certaines variétés cultivées dans des sols contaminés peuvent accumuler l'arsenic, nécessitant une surveillance de la provenance. Le riz peut occasionnellement provoquer une constipation si la consommation d'eau est insuffisante."
+  },
+  "conservation": {
+    "menaces": "La riziculture haïtienne fait face à plusieurs défis : dégradation des systèmes d'irrigation, concurrence des importations, changements climatiques affectant les précipitations et élévation du niveau marin menaçant les rizières côtières. La conservation des variétés locales adaptées constitue un enjeu prioritaire pour maintenir la sécurité alimentaire. Des programmes de sélection participative visent à développer des cultivars résistants à la sécheresse et aux pathogènes.",
+    "valeur": "Le riz représente un secteur économique vital pour Haïti, employant plusieurs milliers d'agriculteurs dans les Départements du Sud et de la Grand'Anse. La production locale, estimée à environ 100 000 tonnes annuelles, ne couvre que 15-20% des besoins nationaux, le reste étant importé. Le développement de la filière riz constitue un enjeu majeur de souveraineté alimentaire et de développement rural."
+  },
+  "recherche": {
+    "nb_articles": "",
+    "details": "Les recherches actuelles sur O. sativa se concentrent sur la biofortification (enrichissement en micronutriments), le développement de variétés résistantes au stress hydrique et salin, et l'optimisation des composés bioactifs du son. Des études promettеuses explorent le potentiel prébiotique des fibres de riz et l'activité neuroprotectrice du γ-oryzanol. En Haïti, des programmes de recherche participative visent à identifier et multiplier les variétés locales les mieux adaptées aux conditions pédo-climatiques changeantes.",
+    "lien_pubmed": "",
+    "lien_scholar": "",
+    "lien_tramil": ""
+  },
+  "references": "Goufo, P. & Trindade, H. (2014). Rice antioxidants: phenolic acids, flavonoids, anthocyanins, proanthocyanidins, tocopherols, tocotrienols, γ-oryzanol, and phytic acid. Food Science & Nutrition, 2(2), 75-104. doi: 10.1186/s12284-014-0022-z Ravel, C. et al. (2020). Beneficial effects of γ-oryzanol on lipid metabolism: A review. Nutrients, 12(8), 2458. PMID: 32503190 TRAMIL. Oryza sativa. www.tramil.net/en/plant/oryza-sativa World Flora Online. (2023). Oryza sativa L. http://www.worldfloraonline.org",
+  "aRetenir": "🟢 À retenir — Diri : est avant tout un aliment — sa valeur nutritionnelle prime sur ses usages medicinaux. Consommee correctement preparee, elle est sans danger documente. Ses proprietes therapeutiques, reelles mais secondaires, ne remplacent pas un suivi medical. Les auteurs declinent toute responsabilite quant a un usage inapproprie.",
+  "images": {
+    "principale": "images/673_Oryza_sativa-001.jpg",
+    "galerie": [
+      "images/673_Oryza_sativa-001.jpg",
+      "images/673_Oryza_sativa-002.jpg",
+      "images/673_Oryza_sativa-003.jpg",
+      "images/673_Oryza_sativa-004.jpg"
+    ]
+  },
+  "source": "plantes_full.json"
+}

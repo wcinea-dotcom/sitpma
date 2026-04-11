@@ -1,0 +1,57 @@
+{
+  "id_plante": "plt-6603",
+  "code": "plt-6603",
+  "no_espece": "",
+  "no_famille": "66",
+  "famille": "Pipéracées",
+  "description_famille": "",
+  "identite": {
+    "genre": "Piper",
+    "espece": "umbellatum",
+    "nom_scientifique": "Piper umbellatum (L.)",
+    "synonymes": "Pothomorphe umbellata",
+    "nom_francais": "Bois d'anis",
+    "nom_creole": "Kolèt adam",
+    "nom_anglais": "Cow's Foot"
+  },
+  "morphologie": {
+    "description": "P. umbellatum est une herbe vivace d'altitude moyenne, caractéristique des zones tropicales humides des Départements du Sud et de la Grand'Anse. Tiges. Les tiges sont dressées, charnues et peuvent atteindre 1 à 2 mètres de hauteur. Elles sont généralement ramifiées et présentent des nœuds bien marqués, caractéristiques du genre Piper. Feuilles. Les feuilles constituent la partie la plus reconnaissable de la plante : larges, cordiformes à orbiculaires, elles peuvent atteindre 15 à 25 cm de diamètre. Elles sont alternes, pétiolées, avec une nervation palmée très visible. La surface est généralement glabre et d'un vert franc. Les feuilles dégagent une odeur caractéristique lorsqu'on les froisse, révélant la présence d'huiles essentielles. Racines. Le système racinaire est fasciculé et relativement superficiel, adapté aux sols humides et bien drainés des zones tropicales. Fleurs. Les fleurs sont très petites, disposées en épis terminaux dressés caractéristiques du genre Piper. Ces inflorescences, appelées spadices, portent de nombreuses fleurs minuscules sans pétales ni sépales distincts. Fruit. Le fruit est une petite drupe charnue qui devient noire à maturité. Les parties utilisées dans les pratiques traditionnelles sont principalement les feuilles, et occasionnellement les racines.",
+    "ecologie": "P. umbellatum est une espèce native des régions tropicales des Amériques, largement distribuée des Caraïbes jusqu'au Brésil. En Haïti, elle est documentée dans les Départements du Sud et de la Grand'Anse où elle est considérée comme commune. La plante affectionne les zones d'altitude moyenne, les sols humides et bien drainés, souvent en lisière de forêt ou dans les zones partiellement ombragées. Son adaptation aux climats tropicaux humides en fait une espèce relativement robuste dans son aire de distribution naturelle. Elle tolère une gamme variée de conditions édaphiques mais préfère les sols riches en matière organique."
+  },
+  "usages": {
+    "usages_ethnobotaniques": "Dans les Départements du Sud et de la Grand'Anse, P. umbellatum est documentée comme plante médicinale polyvalente. Les feuilles constituent la partie principalement utilisée, occasionnellement complétées par les racines. Le mode de préparation dominant consiste en des bains thérapeutiques utilisant les feuilles fraîches ou séchées, particulièrement efficaces pour réduire les inflammations cutanées. Cette application externe correspond à l'usage principal documenté localement. Les praticiens traditionnels préparent également des infusions de feuilles pour des applications internes, bien que cet usage soit moins systématiquement rapporté. La base de données TRAMIL confirme l'usage de cette espèce en Haïti pour traiter les douleurs, corroborant les applications anti-inflammatoires et analgésiques documentées localement. Au niveau international, des usages similaires sont rapportés en Afrique pour le traitement des brûlures, et au Brésil pour ses propriétés anti-inflammatoires, témoignant d'une convergence remarquable des savoirs traditionnels.",
+    "systemes_concernes": "Respiratoire, Tégumentaire, Endocrinien"
+  },
+  "pharmacologie": {
+    "molecules": "Les feuilles de P. umbellatum se distinguent par leur richesse en composés phénoliques, responsables de leurs propriétés anti-inflammatoires remarquables. Le 4-nérolidylcatéchol, composé phénolique majeur de cette espèce, constitue le principal marqueur chimique de la plante et explique une grande partie de ses activités biologiques. Les feuilles contiennent également des minéraux essentiels, notamment une concentration élevée en potassium (K), ainsi que des quantités appréciables de calcium (Ca), magnésium (Mg), fer (Fe) et zinc (Zn), contribuant à leur valeur nutritionnelle occasionnelle comme condiment local. Les principaux composés secondaires identifiés dans P. umbellatum comprennent : des alcaloïdes pipéridiques, des flavonoïdes (quercétine, rutine), des saponines triterpéniques, des tanins condensés, des terpénoïdes (alpha-pinène, limonène) et des huiles essentielles contenant du safrol (Almeida et al., 2009 — PMID: 19409522). Une étude brésilienne a particulièrement mis en évidence la présence du 4-nérolidylcatéchol comme composé bioactif majeur, responsable de l'activité anti-inflammatoire de la plante (Baldoqui et al., 1999 — PMID: 10815004). Ces molécules remplissent des fonctions de défense précises pour la plante. Les alcaloïdes pipéridiques protègent contre les herbivores par leur amertume et leur toxicité sélective. Les composés phénoliques comme le 4-nérolidylcatéchol agissent comme antioxydants naturels, protégeant les tissus végétaux contre les stress oxydatifs. Les huiles essentielles, notamment le safrol, constituent un système de défense chimique contre les pathogènes microbiens et fongiques. Ces mêmes composés, une fois utilisés par l'humain, produisent les effets biologiques documentés : activité anti-inflammatoire, antimicrobienne et analgésique. Cependant, ces observations restent principalement issues d'études in vitro et de modèles animaux, nécessitant des recherches cliniques humaines pour confirmation.",
+    "posologie": "La posologie traditionnelle documentée consiste en une infusion de feuilles à raison de 5 g par litre d'eau, administrée 2 à 3 fois par jour selon les pratiques traditionnelles locales. Cette posologie, bien que largement utilisée dans les médecines traditionnelles des Amériques, n'a pas fait l'objet de validation clinique rigoureuse chez l'humain. Les études pharmacologiques publiées portent principalement sur des extraits standardisés en laboratoire, ne correspondant pas nécessairement aux préparations traditionnelles. Des recherches cliniques contrôlées seraient nécessaires pour établir des posologies thérapeutiques sûres et efficaces."
+  },
+  "nutrition": {
+    "introduction": "Piper umbellatum L. (syn. Pothomorphe umbellata) est une herbe native des Caraïbes et d'Amérique tropicale, commune dans les Départements du Sud et de la Grand'Anse d'Haïti. Elle appartient à la famille des Pipéracées, un groupe végétal reconnu pour ses importantes applications médicinales et caractérisé par des alcaloïdes pipéridiques, des lignanes et des huiles essentielles riches en safrol et eugénol. Cette famille, qui cible préférentiellement les systèmes gynécologique, digestif et respiratoire, nécessite une attention particulière car certaines de ses espèces renferment des principes actifs très puissants exigeant un dosage strict. Au sein de cette famille, Piper umbellatum fait partie du genre Piper, l'un des plus vastes genres de plantes à fleurs avec plus de 1000 espèces, dont plusieurs sont d'importance économique majeure comme le poivrier noir (Piper nigrum). Cette espèce constitue un remède traditionnel important dans les Départements du Sud et de la Grand'Anse, principalement utilisée pour ses propriétés anti-inflammatoires par voie externe."
+  },
+  "toxicologie": {
+    "niveau": "",
+    "details": "P. umbellatum est généralement considérée comme non toxique aux doses médicinales usuelles. Cependant, des précautions s'imposent en cas de consommation excessive ou d'utilisation prolongée. Les effets indésirables potentiels incluent des troubles digestifs (diarrhée, irritation gastrique) et une possible hypotension en cas de surdosage. La présence de safrol dans les huiles essentielles, composé potentiellement hépatotoxique à fortes doses, justifie d'éviter les préparations concentrées. Les femmes enceintes et les personnes souffrant de pathologies rénales devraient éviter l'usage interne sans supervision médicale. L'application externe en bains reste généralement sûre, mais des tests de tolérance cutanée sont recommandés chez les personnes sensibles."
+  },
+  "conservation": {
+    "menaces": "P. umbellatum présente un statut de conservation de \"Préoccupation mineure\" en raison de sa distribution relativement large et de sa capacité d'adaptation. Dans les Départements du Sud et de la Grand'Anse, l'espèce reste commune et ne fait face à aucune menace immédiate. Sa rusticité naturelle et sa capacité de régénération lui permettent de maintenir des populations stables. Cependant, la déforestation et la conversion des habitats naturels en zones agricoles pourraient affecter localement certaines populations à long terme.",
+    "valeur": "La valeur économique de P. umbellatum reste principalement locale et médicinale dans les Départements du Sud et de la Grand'Anse. La plante ne fait pas l'objet d'une commercialisation organisée mais constitue une ressource thérapeutique accessible pour les communautés rurales. Au niveau international, elle suscite un intérêt croissant de la recherche pharmaceutique pour le développement de nouveaux anti-inflammatoires naturels, particulièrement en raison de la richesse de ses extraits en 4-nérolidylcatéchol."
+  },
+  "recherche": {
+    "nb_articles": "~100 (estimation)",
+    "details": "Les recherches sur P. umbellatum connaissent un développement significatif, avec environ 100 publications indexées sur PubMed. Les études récentes se concentrent sur la caractérisation du 4-nérolidylcatéchol et de ses propriétés pharmacologiques, ouvrant des perspectives pour le développement de nouveaux médicaments anti-inflammatoires. Des essais cliniques contrôlés chez l'humain seraient nécessaires pour valider scientifiquement les usages traditionnels et établir des protocoles thérapeutiques standardisés. La recherche s'oriente également vers l'optimisation des méthodes d'extraction et la standardisation des préparations pour une application thérapeutique moderne.",
+    "lien_pubmed": "",
+    "lien_scholar": "",
+    "lien_tramil": "https://www.tramil.net/en/plant/piper-umbellatum"
+  },
+  "references": "Almeida, R.N. et al. (2009). Anxiolytic and anticonvulsant effects of Piper umbellatum. Phytother Res. PMID: 19409522. Baldoqui, D.C. et al. (1999). Anti-inflammatory activity of 4-nerolidylcatechol isolated from Piper umbellatum. Phytomedicine. PMID: 10815004. Morandim-Giannetti, A.A. et al. (2010). Anti-inflammatory activity of aqueous extract from Piper umbellatum leaves. J Ethnopharmacol. PMID: 20833248. POWO (2024). Plants of the World Online. Kew Science. https://powo.science.kew.org/ TRAMIL (2024). Piper umbellatum. https://www.tramil.net/en/plant/piper-umbellatum World Flora Online (2024). http://www.worldfloraonline.org/",
+  "aRetenir": "🟢 À retenir — Kolèt adam : est utilisee en medecine traditionnelle avec un bon profil de securite aux doses courantes. Les usages presentes reposent sur des donnees ethnobotaniques et scientifiques publiees, mais ne constituent pas une prescription. Consulter un professionnel de sante avant tout usage therapeutique. Les auteurs declinent toute responsabilite quant a un usage inapproprie.",
+  "images": {
+    "principale": "images/653_Piper_umbellatum-001.jpg",
+    "galerie": [
+      "images/653_Piper_umbellatum-001.jpg",
+      "images/653_Piper_umbellatum-002.jpg"
+    ]
+  },
+  "source": "plantes_full.json"
+}

@@ -1,0 +1,57 @@
+{
+  "id_plante": "plt-4201",
+  "code": "plt-4201",
+  "no_espece": "",
+  "no_famille": "42",
+  "famille": "Lamiacées",
+  "description_famille": "Dominante dans la flore tropicale mondiale, la famille des Lamiacées rassemble près de 7 000 espèces réparties en 236 genres, principalement des herbes et arbustes aromatiques. Cette famille se distingue par sa richesse exceptionnelle en huiles essentielles volatiles, faisant d'elle l'une des sources végétales les plus importantes d'aromates culinaires et de plantes médicinales. Parmi les genres alimentaires, on retrouve les basilics (Ocimum), les menthes (Mentha) et les thyms (Thymus), largement cultivés en Haïti. Les genres à vocation thérapeutique incluent Coleus, Clerodendrum et Plectranthus, utilisés dans la médecine traditionnelle caribéenne. Sur le plan phytochimique, les Lamiacées présentent une signature dominée par les huiles essentielles riches en monoterpènes (menthol, thymol, carvacrol, linalol), les flavonoïdes, l'acide rosmarinique et les diterpènes, ciblant préférentiellement les systèmes respiratoire, digestif et nerveux. Une vigilance particulière s'impose avec certains genres comme Teucrium, dont plusieurs espèces contiennent des diterpènes hépatotoxiques néo-clérodaniques.",
+  "identite": {
+    "genre": "Clerodendrum",
+    "espece": "spinosum",
+    "nom_scientifique": "Clerodendrum spinosum",
+    "synonymes": "Ovieda spinosa",
+    "nom_francais": "-",
+    "nom_creole": "Je mouton",
+    "nom_anglais": "-"
+  },
+  "morphologie": {
+    "description": "C. spinosum est un arbuste de zone sèche, adapté aux conditions arides des régions côtières et des plateaux calcaires du Sud et de la Grand'Anse. Tiges et port. L'arbuste développe des tiges ligneuses dressées, souvent épineuses — d'où son épithète spécifique spinosum — qui constituent un mécanisme de défense contre l'herbivorie dans son habitat naturel sec. Ces épines sont particulièrement développées sur les jeunes rameaux. Feuilles. Les feuilles sont simples, opposées selon le plan caractéristique des Lamiacées, de forme ovale à elliptique. Elles présentent une texture légèrement coriace, adaptation aux conditions de sécheresse, et dégagent une odeur discrète lorsqu'elles sont froissées. Fleurs. Les fleurs sont disposées en inflorescences terminales, présentant la structure typique des Lamiacées avec une corolle tubulaire à symétrie bilatérale. Elles attirent les insectes pollinisateurs locaux. Fruit. Le fruit est une drupe charnue qui contribue à la dispersion par les oiseaux frugivores. Les parties utilisées dans les pratiques locales sont principalement les feuilles et les racines.",
+    "ecologie": "C. spinosum est natif des Caraïbes et d'Amérique tropicale, avec une distribution qui s'étend des Antilles au nord de l'Amérique du Sud. En Haïti, l'espèce colonise préférentiellement les zones sèches, les formations arbustives des plateaux calcaires et les lisières de forêts sèches. Son statut de rareté dans les Départements du Sud et de la Grand'Anse suggère une distribution fragmentée, possiblement liée à la dégradation de ses habitats naturels. L'arbuste s'adapte aux sols pauvres et calcaires, caractéristiques des formations xérophiles haïtiennes."
+  },
+  "usages": {
+    "usages_ethnobotaniques": "Dans les Départements du Sud et de la Grand'Anse, C. spinosum est documenté principalement pour faciliter la digestion des repas. Les feuilles et les racines sont les parties privilégiées pour les préparations médicinales. Le mode de préparation dominant consiste en infusions de feuilles fraîches ou séchées, préparées par décoction légère pour préserver les composés thermosensibles. Les praticiens traditionnels utilisent également les racines, généralement sous forme de décoctions plus concentrées pour traiter les troubles digestifs chroniques. Les usages documentés par TRAMIL confirment cet usage digestif en Haïti, témoignant de la cohérence des pratiques traditionnelles locales avec les connaissances caribéennes plus larges.",
+    "systemes_concernes": "Digestif, Cardiovasculaire"
+  },
+  "pharmacologie": {
+    "molecules": "Clerodendrum spinosum se caractérise par la production de métabolites secondaires spécifiques au genre Clerodendrum, notamment des clérodanditerpènes qui lui confèrent ses propriétés biologiques particulières. Ces composés, responsables de la légère amertume des feuilles, jouent un rôle défensif contre les herbivores et les agents pathogènes dans l'environnement sec où évolue la plante. Les principaux composés secondaires identifiés dans le genre Clerodendrum comprennent : des flavonoïdes (quercétine, lutéoline, apigénine), des saponines triterpéniques, des tanins condensés, des diterpènes de type clérodane, des alcaloïdes quinoléiques et des phénylpropanoïdes (Cock et al., 2018 — PMC6100792). Ces molécules présentent des activités antioxydantes, anti-inflammatoires et cardiovasculaires documentées pour plusieurs espèces du genre. Ces mêmes composés, une fois ingérés par l'humain, produisent les effets biologiques documentés dans les usages traditionnels. Les clérodanditerpènes exercent une action sur la musculature lisse vasculaire et digestive, expliquant les usages cardiovasculaires et digestifs du genre. Les flavonoïdes contribuent à l'activité antioxydante et anti-inflammatoire. Il convient de noter que la plupart des études restent conduites in vitro ou sur modèles animaux, nécessitant des validations cliniques humaines.",
+    "posologie": "Aucune posologie cliniquement validée n'est disponible pour C. spinosum. Les pratiques traditionnelles documentées localement ne sont pas standardisées. Les données empiriques mentionnent des infusions préparées avec environ 5 g de feuilles par litre d'eau, consommées 1 à 2 fois par jour, mais ces indications relèvent de l'usage traditionnel non validé scientifiquement."
+  },
+  "nutrition": {
+    "introduction": "Clerodendrum spinosum (syn. Ovieda spinosa) est un arbuste natif des Caraïbes et d'Amérique tropicale, documenté dans les Départements du Sud et de la Grand'Anse d'Haïti où il demeure rare. Il appartient à la famille des Lamiacées, cette vaste famille tropicale reconnue pour ses huiles essentielles et ses propriétés médicinales. Au sein de cette famille, il fait partie du genre Clerodendrum, un groupe d'environ 400 espèces d'arbustes et de petits arbres tropicaux, plusieurs étant utilisées en médecine traditionnelle pour leurs propriétés cardiovasculaires et anti-inflammatoires. L'usage de C. spinosum dans les deux départements est principalement médicinal, centré sur l'amélioration de la digestion et le traitement des troubles gastro-intestinaux."
+  },
+  "toxicologie": {
+    "niveau": "",
+    "details": "La toxicité de C. spinosum n'est pas documentée dans la littérature scientifique. Cependant, par analogie avec d'autres espèces du genre Clerodendrum contenant des diterpènes bioactifs, certaines précautions s'imposent. Un risque théorique d'hypotension existe en cas d'association avec des antihypertenseurs, compte tenu des propriétés vasodilatatrices potentielles. L'usage est déconseillé pendant la grossesse en l'absence de données de sécurité. Une surveillance des signes de vertiges ou de malaise est recommandée lors de la première utilisation."
+  },
+  "conservation": {
+    "menaces": "L'espèce présente un statut de rareté dans les Départements du Sud et de la Grand'Anse, nécessitant des mesures de conservation. La dégradation des formations sèches et l'urbanisation côtière constituent les principales menaces. La collecte excessive à des fins médicinales pourrait aggraver la vulnérabilité des populations locales.",
+    "valeur": "C. spinosum ne présente actuellement aucune valeur économique internationale documentée. Sa valeur reste locale, liée aux pratiques médicinales traditionnelles des Départements du Sud et de la Grand'Anse. Le potentiel de développement de préparations phytothérapeutiques standardisées demeure inexploré."
+  },
+  "recherche": {
+    "nb_articles": "~10 (estimation)",
+    "details": "Les publications scientifiques spécifiques à C. spinosum sont rares, avec une estimation d'environ 10 articles indexés. Les recherches futures devraient prioritairement porter sur l'identification et la quantification des métabolites secondaires spécifiques à cette espèce, l'évaluation de la toxicité aiguë et chronique, et la validation des mécanismes d'action digestifs documentés traditionnellement. Des études de conservation ex situ et de multiplication végétative seraient également nécessaires.",
+    "lien_pubmed": "",
+    "lien_scholar": "",
+    "lien_tramil": "https://www.tramil.net/en/plant/clerodendrum-spinosum"
+  },
+  "references": "Cock, I.E., et al. (2018). Clerodendrum species: Traditional uses, phytochemistry, and pharmacological properties. Phytochemistry Reviews. PMC6100792. Kumar, S., et al. (2010). Antihypertensive activity of Clerodendrum phlomidis Linn. leaf extract. Journal of Ethnopharmacology. PMID: 20645778. Rahman, M.A., et al. (2008). Antioxidant and anti-inflammatory activities of Clerodendrum infortunatum. Journal of Ethnopharmacology. PMID: 18501543. POWO (2024). Plants of the World Online. Kew Science. https://powo.science.kew.org/ TRAMIL (2024). Clerodendrum spinosum. https://www.tramil.net/en/plant/clerodendrum-spinosum",
+  "aRetenir": "🟡 À retenir — Je mouton : est une plante a toxicite conditionnelle documentee. Respecter imperativement les precautions indiquees. Ne jamais ingerer les parties toxiques sans encadrement medical. Ces informations sont destinees a l'enseignement et a la documentation. Les auteurs declinent toute responsabilite quant a un usage inapproprie.",
+  "images": {
+    "principale": "images/421_Clerodendrum_spinosum-001.jpg",
+    "galerie": [
+      "images/421_Clerodendrum_spinosum-001.jpg",
+      "images/421_Clerodendrum_spinosum-002.jpg"
+    ]
+  },
+  "source": "plantes_full.json"
+}

@@ -1,0 +1,56 @@
+{
+  "id_plante": "plt-6801",
+  "code": "plt-6801",
+  "no_espece": "",
+  "no_famille": "68",
+  "famille": "Poacées",
+  "description_famille": "Dominant les écosystèmes herbacés du globe avec plus de 12 000 espèces, les Poacées constituent la quatrième plus grande famille botanique et l'une des plus importantes économiquement. Cette famille d'herbes — anciennement nommée Graminées — rassemble les céréales fondamentales de l'alimentation mondiale comme le riz (Oryza sativa), le maïs (Zea mays) et le petit mil (Pennisetum glaucum), tous présents en Haïti. Au-delà de leur valeur nutritive, plusieurs genres offrent des propriétés aromatiques remarquables : Cymbopogon produit la citronnelle, source d'huiles essentielles répulsives, tandis que Chrysopogon fournit le vétiver, prisé en parfumerie mondiale. La canne à sucre (Saccharum officinarum) illustre leur potentiel industriel. Sur le plan phytochimique, cette famille se caractérise par une richesse en amidon et cellulose, complétée par des huiles essentielles sesquiterpéniques chez les espèces aromatiques, ciblant préférentiellement les systèmes nerveux, cutané et respiratoire. Une vigilance s'impose néanmoins avec le sorgho jeune qui peut synthétiser des cyanogènes toxiques avant maturité.",
+  "identite": {
+    "genre": "Chrysopogon",
+    "espece": "zizanioides",
+    "nom_scientifique": "Chrysopogon zizanioides",
+    "synonymes": "Vetiveria zizanioides (L.) Nash",
+    "nom_francais": "Vétiver",
+    "nom_creole": "Vètivè",
+    "nom_anglais": "Vetiver"
+  },
+  "morphologie": {
+    "description": "C. zizanioides est une herbe vivace cespiteuse pouvant atteindre 1,5 à 2 mètres de hauteur, remarquable par son système racinaire exceptionnel. Tiges. Les tiges (chaumes) sont dressées, rigides et groupées en touffes denses. Elles présentent la structure caractéristique des Poacées avec des nœuds et des entre-nœuds bien marqués. Racines. Le système racinaire constitue l'organe le plus remarquable de la plante : il s'enfonce verticalement dans le sol sur 2 à 4 mètres de profondeur, formant un réseau dense de racines fibreuses, aromatiques et résistantes. Ces racines, de couleur brun clair à l'extérieur et blanc crémeux à l'intérieur, dégagent l'odeur caractéristique du vétiver lorsqu'on les broie. Feuilles. Les feuilles sont longues, étroites et linéaires, typiques des graminées, disposées en touffes basales. Elles peuvent mesurer jusqu'à 75 cm de longueur et présentent une texture rugueuse. Fleurs. Les inflorescences sont des panicules lâches, brunâtres, composées d'épillets caractéristiques des Poacées. La floraison est rare en culture, la plante étant principalement multipliée par division des touffes. Les parties utilisées sont exclusivement les racines, soit fraîches pour les préparations traditionnelles, soit transformées en huile essentielle par distillation.",
+    "ecologie": "Originaire d'Inde, C. zizanioides s'est naturalisé dans toutes les régions tropicales et subtropicales du monde. En Haïti, la plante s'adapte parfaitement aux conditions du Sud et de la Grand'Anse, prospérant dans les sols bien drainés de basse altitude. Sa capacité à résister à la sécheresse et à stabiliser les sols en fait une espèce précieuse pour la lutte contre l'érosion. La plante préfère les terrains en pente et les sols pauvres, où son système racinaire profond lui confère un avantage concurrentiel."
+  },
+  "usages": {
+    "usages_ethnobotaniques": "Dans les Départements du Sud et de la Grand'Anse, le vétiver est documenté principalement pour ses usages aromatiques. Les racines fraîches sont traditionnellement utilisées pour parfumer le lait, lui conférant une saveur et une odeur caractéristiques très appréciées localement. La plante sert également de répulsif naturel contre les insectes : les racines séchées sont disposées dans les habitations ou brûlées comme encens. La distillation des racines pour produire l'huile essentielle représente une activité artisanale importante, cette huile étant utilisée en parfumerie locale et dans la préparation de produits cosmétiques traditionnels. Les modes de préparation incluent l'infusion de racines fraîches, la décoction légère et surtout la distillation à la vapeur d'eau pour l'extraction de l'huile essentielle.",
+    "systemes_concernes": "Nerveux"
+  },
+  "pharmacologie": {
+    "molecules": "La richesse chimique de Le vétiver tient à sa production remarquable d'huiles essentielles complexes concentrées dans ses racines. Ces huiles représentent 0,8 à 2,5% du poids sec des racines et se caractérisent par leur richesse exceptionnelle en sesquiterpènes — plus de 150 composés identifiés — dominés par la vétivérone, le khusimol, l'alpha-vétivone et l'acide zizanoïque (Champagnat et al., 2006 — PMID: 17067778). Cette composition sesquiterpénique unique confère à l'huile de vétiver ses propriétés olfactives distinctives : notes terreuses, boisées et fumées très appréciées en parfumerie. Les principaux composés secondaires identifiés dans C. zizanioides comprennent : des sesquiterpènes (vétivérone 4-8%, khusimol 3-8%, alpha-vétivone 2-5%, béta-vétivone), des sesquiterpénols (vétivérol, khusinol), des esters terpéniques (acétate de vétivéryle), des flavonoïdes (apigénine, lutéoline), des saponines triterpéniques et des tanins condensés (Danh et al., 2013 — DOI: 10.1016/j.indcrop.2012.07.009). Ces molécules remplissent des fonctions de défense précises pour la plante. Les sesquiterpènes volatils protègent les racines contre les pathogènes telluriques, les nématodes et les insectes fouisseurs, tout en conférant à la plante ses propriétés allélopathiques — capacité à inhiber la germination d'autres espèces végétales dans son voisinage. Ces mêmes composés, une fois extraits et utilisés par l'humain, produisent les effets biologiques documentés : activité anxiolytique légère via une probable modulation GABAergique, propriétés antimicrobiennes et répulsives contre les arthropodes, effet antioxydant protecteur (Singh et al., 2005 — PMID: 16176840). Les données restent principalement issues d'études in vitro et sur modèles animaux.",
+    "posologie": "Les pratiques traditionnelles documentées dans le Sud et la Grand'Anse utilisent des infusions de racines séchées à raison d'environ 5 grammes par litre d'eau, prises 1 à 2 fois par jour. Pour l'usage aromatique, l'huile essentielle est employée en diffusion atmosphérique ou en application topique diluée à 1-3% dans une huile porteuse. Aucune posologie cliniquement validée n'est disponible pour les usages thérapeutiques, les données publiées concernant principalement les applications aromathérapiques et cosmétiques."
+  },
+  "nutrition": {
+    "introduction": "Chrysopogon zizanioides (syn. Vetiveria zizanioides) est une herbe vivace exotique, largement cultivée dans les Départements du Sud et de la Grand'Anse pour ses propriétés aromatiques exceptionnelles. Elle appartient à la famille des Poacées, cette immense famille de graminées qui nourrit l'humanité et parfume le monde. Au sein de cette famille, elle fait partie du genre Chrysopogon, un petit groupe d'herbes tropicales réputées pour leurs systèmes racinaires profonds et leurs huiles essentielles précieuses. Le vétiver constitue l'une des plantes aromatiques les plus valorisées d'Haïti, ses racines produisant une huile essentielle de renommée internationale, utilisée localement comme parfum naturel et répulsif contre les insectes."
+  },
+  "toxicologie": {
+    "niveau": "",
+    "details": "C. zizanioides présente un profil de sécurité favorable. L'huile essentielle pure peut néanmoins provoquer des irritations cutanées ou muqueuses chez les personnes sensibles, ainsi que des réactions allergiques rares. L'ingestion d'huile essentielle pure n'est pas recommandée. Une prudence particulière s'impose chez la femme enceinte, les jeunes enfants et les personnes épileptiques en raison des propriétés neuroactives potentielles des sesquiterpènes. Les infusions de racines aux doses traditionnelles ne présentent pas de toxicité documentée."
+  },
+  "conservation": {
+    "menaces": "Bien que l'espèce soit abondante en Haïti, il convient de contrôler les niveaux de dégradation des populations sauvages dues à la surexploitation des racines. La culture contrôlée et la gestion durable des parcelles de vétiver constituent des priorités pour maintenir cette ressource économique importante tout en préservant la biodiversité locale.",
+    "valeur": "Le vétiver représente une filière économique significative pour Haïti. L'huile essentielle de vétiver haïtien jouit d'une réputation internationale en parfumerie fine, constituant une source de devises pour le pays. Les exportations, principalement vers l'Europe et l'Amérique du Nord, génèrent des revenus substantiels pour les producteurs locaux et contribuent au développement rural des régions du Sud et de la Grand'Anse."
+  },
+  "recherche": {
+    "nb_articles": "",
+    "details": "Avec environ un millier de publications scientifiques indexées, C. zizanioides fait l'objet d'un intérêt de recherche soutenu. Les perspectives incluent l'optimisation des techniques de distillation, l'amélioration génétique pour augmenter les rendements en huile essentielle, et l'exploration des applications thérapeutiques via des essais cliniques contrôlés. La valorisation des co-produits de la distillation et le développement de nouveaux débouchés cosmétiques constituent également des axes prometteurs.",
+    "lien_pubmed": "",
+    "lien_scholar": "",
+    "lien_tramil": ""
+  },
+  "references": "Champagnat, P. et al. (2006). Chemical composition of essential oil from roots of Vetiveria zizanioides. Phytochemistry. PMID: 17067778. Danh, L.T. et al. (2013). Comparison of chemical composition, antioxidant and antimicrobial activity of lavender essential oil. Industrial Crops and Products. DOI: 10.1016/j.indcrop.2012.07.009. Singh, B. et al. (2005). Essential oil composition and antimicrobial activity of Vetiveria zizanioides. Phytomedicine. PMID: 16176840. Cheaha, D. et al. (2016). Effects of vetiver essential oil on sleep-wake and anxiety behaviors. Behavioural Brain Research. PMID: 27473605. Tuan, D.Q. et al. (2010). Composition and antimicrobial activity of essential oil from Vietnamese vetiver. Food Chemistry. DOI: 10.1016/j.foodchem.2009.09.013. POWO (2026). Plants of the World Online. Kew Science. https://powo.science.kew.org/",
+  "aRetenir": "🟢 À retenir — Vètivè : est utilisee en medecine traditionnelle avec un bon profil de securite aux doses courantes. Les usages presentes reposent sur des donnees ethnobotaniques et scientifiques publiees, mais ne constituent pas une prescription. Consulter un professionnel de sante avant tout usage therapeutique. Les auteurs declinent toute responsabilite quant a un usage inapproprie.",
+  "images": {
+    "principale": "images/671_Chrysopogon_zizanioides-001.jpg",
+    "galerie": [
+      "images/671_Chrysopogon_zizanioides-001.jpg"
+    ]
+  },
+  "source": "plantes_full.json"
+}

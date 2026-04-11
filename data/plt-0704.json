@@ -1,0 +1,57 @@
+{
+  "id_plante": "plt-0704",
+  "code": "plt-0704",
+  "no_espece": "",
+  "no_famille": "7",
+  "famille": "Annonacées",
+  "description_famille": "",
+  "identite": {
+    "genre": "Annona",
+    "espece": "squamosa",
+    "nom_scientifique": "Annona squamosa L.",
+    "synonymes": "Annona asiatica",
+    "nom_francais": "Pomme cannelle",
+    "nom_creole": "Kachiman zonbi",
+    "nom_anglais": "Sugar Apple"
+  },
+  "morphologie": {
+    "description": "A. squamosa est un petit arbre pouvant atteindre 6 à 8 mètres de hauteur, adapté aux basses altitudes tropicales (POWO, Kew Science , World Flora Online, 2026). Tiges et écorce. Le tronc est droit avec une écorce grisâtre et lisse. Les jeunes rameaux sont pubescents et dégagent une odeur caractéristique lorsqu'ils sont brisés. Feuilles. Les feuilles sont alternes, simples, oblongues à elliptiques, mesurant 6 à 17 cm de longueur. Elles sont vert pâle à la face supérieure et plus claires à la face inférieure, avec une nervation pennée bien marquée. Elles dégagent une odeur particulière au froissement. Fleurs. Les fleurs sont solitaires ou groupées par 2-4, portées par un pédoncule court. Elles présentent trois pétales externes verdâtres et trois pétales internes plus petits, jaunâtres, caractéristiques de la famille des Annonacées. Fruit. Le fruit est l'organe le plus distinctif : de forme globuleuse à ovoïde, mesurant 6 à 10 cm de diamètre, avec une surface écailleuse caractéristique formée de tubercules arrondis. La pulpe est blanche, très sucrée et parfumée, entourant de nombreuses graines noires et toxiques. Les parties utilisées sont les fruits (pulpe uniquement), les feuilles et exceptionnellement les graines (usage externe seulement en raison de leur toxicité).",
+    "ecologie": "A. squamosa est une espèce native des régions tropicales d'Amérique, bien adaptée aux climats chauds et humides des basses altitudes. Dans les Départements du Sud et de la Grand'Anse, elle est commune et bien acclimatée, poussant facilement dans les jardins créoles et les systèmes agroforestiers traditionnels. L'arbre préfère les sols bien drainés et ensoleillés, et présente une bonne résistance à la sécheresse une fois établi. Sa floraison et sa fructification sont étalées sur une grande partie de l'année, ce qui en fait une ressource alimentaire fiable pour les communautés locales. L'espèce joue également un rôle écologique en fournissant nectar et pollen à divers insectes pollinisateurs."
+  },
+  "usages": {
+    "usages_ethnobotaniques": "Dans les Départements du Sud et de la Grand'Anse, A. squamosa présente un usage dual alimentaire et médicinal bien établi. L'usage alimentaire concerne exclusivement la consommation du fruit frais, dont la pulpe très sucrée et parfumée est appréciée comme dessert naturel. L'usage médicinal se concentre sur les feuilles, préparées principalement en infusion (thé). Selon les données ethnobotaniques locales, \"le thé des feuilles dégonfle les pieds enflés après un choc\", indiquant un usage traditionnel pour traiter l'œdème post-traumatique. Les modes de préparation incluent la poudre de feuilles séchées et l'extraction de jus, bien que l'infusion reste la méthode privilégiée. Les usages documentés dans la base TRAMIL mentionnent également un usage insecticide en Haïti, cohérent avec la présence d'acétogénines dans la plante. Cette diversité d'usages reflète la polyvalence thérapeutique traditionnelle de l'espèce, tout en soulignant l'importance des précautions d'usage, particulièrement concernant les graines toxiques.",
+    "systemes_concernes": "Cardiovasculaire, Immunitaire, Tégumentaire"
+  },
+  "pharmacologie": {
+    "molecules": "Le Kachiman zonbi révèle une double nature chimique : ses graines et feuilles produisent des acétogénines — squamocine, asimicine, bullatalicine — qui constituent une arme antiparasitaire redoutable mais potentiellement toxique à doses élevées, tandis que son fruit offre une combinaison équilibrée de glucides, vitamines et fibres. Ce qui rend A. squamosa particulièrement remarquable, c'est la présence d'acétogénines, des composés bioactifs uniques aux Annonacées. Ces molécules, concentrées principalement dans les graines et les feuilles, constituent un système de défense chimique puissant contre les insectes et autres ravageurs, mais présentent également une toxicité potentielle pour les mammifères à doses élevées ou en usage prolongé. Les principaux composés secondaires identifiés dans A. squamosa comprennent : des acétogénines (squamocine, asimicine, bullatalicine), des flavonoïdes (quercétine, kaempférol), des tanins, des saponines et des alcaloïdes benzylisoquinoléiques (réticuline). Les acétogénines sont des inhibiteurs puissants du complexe I de la chaîne respiratoire mitochondriale, expliquant à la fois leur effet insecticide et leur toxicité potentielle. Les flavonoïdes contribuent aux propriétés antioxydantes et anti-inflammatoires. Les tanins confèrent les propriétés astringentes utilisées traditionnellement. Sur le plan nutritionnel, le fruit est particulièrement riche en glucides (glucose et fructose), en vitamine C, en vitamine B6, et contient des quantités modérées de magnésium, potassium et fibres.",
+    "posologie": "Selon les données ethnobotaniques disponibles, la posologie traditionnelle pour les infusions de feuilles se situe autour de 2-5 g de feuilles sèches par litre d'eau, à raison de 1 à 2 prises par jour selon l'usage populaire. Pour la consommation alimentaire, le fruit peut être consommé à raison de 100-200 g par jour comme aliment, bien que sa richesse en sucres nécessite une modération chez les personnes diabétiques. Il convient de souligner qu'aucune posologie clinique standardisée n'a été établie par des essais contrôlés. L'usage traditionnel privilégie des cures courtes plutôt qu'un usage prolongé, particulièrement pour les préparations à base de feuilles contenant des acétogénines."
+  },
+  "nutrition": {
+    "introduction": "Annona squamosa L. (syn. Annona asiatica) est un arbre fruitier natif documenté dans les Départements du Sud et de la Grand'Anse. Il appartient à la famille des Annonacées, une famille tropicale principalement composée d'arbres, reconnue pour ses riches usages alimentaires, médicinaux et aromatiques. Sur le plan phytochimique, cette famille se distingue par une signature dominée par les acétogénines, l'annonacine, l'asimicine et la réticuline, ciblant préférentiellement les systèmes digestif, nerveux et cellulaire. Il convient de noter une alerte toxicologique majeure : toutes les graines des Annonacées contiennent des acétogénines neurotoxiques, et l'usage prolongé des feuilles à forte dose est déconseillé. Au sein de cette famille, A. squamosa fait partie du genre Annona, qui regroupe plusieurs espèces fruitières tropicales d'importance alimentaire — dont le corossol (Annona muricata) et l'attier (Annona cherimola). A. squamosa est une plante à double usage, principalement alimentaire pour ses fruits très sucrés et médicinale pour ses feuilles utilisées en infusion."
+  },
+  "toxicologie": {
+    "niveau": "",
+    "details": "Les graines d'A. squamosa sont toxiques en raison de leur concentration élevée en acétogénines neurotoxiques et ne doivent jamais être consommées. Une prudence particulière est recommandée pendant la grossesse et l'allaitement, en l'absence de données de sécurité spécifiques. Il faut éviter le surdosage et l'usage prolongé des feuilles et des graines, notamment chez les personnes diabétiques sous traitement médical en raison du risque d'effet additif sur la glycémie. L'usage des feuilles doit rester occasionnel et de courte durée. Le fruit, bien que généralement sûr, doit être consommé avec modération en raison de sa richesse en sucres. En cas de traitement antidiabétique, une surveillance médicale est recommandée lors de l'usage des feuilles."
+  },
+  "conservation": {
+    "menaces": "A. squamosa présente un statut de conservation de \"préoccupation mineure\" dans les Départements du Sud et de la Grand'Anse, où elle est commune et bien établie. L'espèce ne fait face à aucune menace particulière et s'adapte bien aux conditions locales. Sa culture dans les jardins créoles et les systèmes agroforestiers traditionnels contribue à maintenir des populations stables. La facilité de propagation par graines et la rusticité de l'espèce favorisent sa conservation naturelle.",
+    "valeur": "Localement, A. squamosa présente une valeur économique alimentaire significative à travers la commercialisation de ses fruits sur les marchés locaux. À l'échelle internationale, l'espèce possède un potentiel dans l'industrie agro-alimentaire, notamment pour la production de jus, de crèmes glacées et de produits dérivés. Le marché des fruits tropicaux exotiques offre des perspectives d'exportation intéressantes. Les extraits de feuilles pourraient également présenter un intérêt pour l'industrie des biopesticides naturels, en valorisant les propriétés insecticides des acétogénines."
+  },
+  "recherche": {
+    "nb_articles": "~1000 (estimation)",
+    "details": "Avec environ 1000 publications scientifiques référencées, A. squamosa fait l'objet d'un intérêt de recherche soutenu, particulièrement dans les domaines de la pharmacologie, de la nutrition et de l'agriculture biologique. Les perspectives de recherche incluent l'optimisation de l'extraction des acétogénines pour des applications biopesticides, l'évaluation clinique des effets antidiabétiques et antihypertenseurs, et le développement de produits alimentaires fonctionnels à base de pulpe de fruit. Des études de toxicologie à long terme seraient également nécessaires pour mieux définir les conditions d'usage sécuritaire des préparations à base de feuilles.",
+    "lien_pubmed": "https://pubmed.ncbi.nlm.nih.gov/?term=Annona+squamosa",
+    "lien_scholar": "https://scholar.google.com/scholar?q=Annona+squamosa",
+    "lien_tramil": "https://www.tramil.net/en/plant/annona-squamosa"
+  },
+  "references": "Pour les données pharmacologiques et nutritionnelles : consulter PubMed (https://pubmed.ncbi.nlm.nih.gov/?term=Annona+squamosa) et Google Scholar (https://scholar.google.com/scholar?q=Annona+squamosa). Pour les usages traditionnels caribéens : TRAMIL (https://www.tramil.net/en/plant/annona-squamosa). Pour la taxonomie et la distribution : POWO, Kew Science et World Flora Online (2026).",
+  "aRetenir": "🟡 À retenir — Kachiman zonbi : est une plante a toxicite conditionnelle documentee. Respecter imperativement les precautions indiquees. Ne jamais ingerer les parties toxiques sans encadrement medical. Ces informations sont destinees a l'enseignement et a la documentation. Les auteurs declinent toute responsabilite quant a un usage inapproprie. ATLAS ETHNOBOTANIQUE Plantes médicinales, aromatiques et alimentaires Départements du Sud et de la Grand'Anse — Haïti Bloc 02 — Especes 21 a 40 Ilang-ilang -> Parès 20 espèces · 5 famille(s) Source : Base de Référence Haïtienne (BRH) — Jardin Botanique des Cayes Validation : PubMed · Google Scholar · TRAMIL · POWO (Kew Science)",
+  "images": {
+    "principale": "images/74_Annona_squamosa-001.jpg",
+    "galerie": [
+      "images/74_Annona_squamosa-001.jpg",
+      "images/74_Annona_squamosa-002.jpg"
+    ]
+  },
+  "source": "plantes_full.json"
+}

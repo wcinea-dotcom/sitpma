@@ -1,0 +1,59 @@
+{
+  "id_plante": "plt-3707",
+  "code": "plt-3707",
+  "no_espece": "",
+  "no_famille": "37",
+  "famille": "Euphorbiacées",
+  "description_famille": "",
+  "identite": {
+    "genre": "Hura",
+    "espece": "crepitans",
+    "nom_scientifique": "Hura crepitans L.",
+    "synonymes": "Hura brasiliensis",
+    "nom_francais": "Sablier",
+    "nom_creole": "Sabliye",
+    "nom_anglais": "Sandbox Tree"
+  },
+  "morphologie": {
+    "description": "H. crepitans est un grand arbre tropical imposant, pouvant atteindre 30 à 60 mètres de hauteur dans son habitat naturel, caractérisé par sa silhouette majestueuse et ses adaptations défensives remarquables. Tronc et écorce. Le tronc est massif, pouvant dépasser 1 mètre de diamètre, recouvert d'une écorce gris-brun distinctive hérissée d'épines coniques robustes. Ces épines, longues de plusieurs centimètres, constituent un mécanisme de défense mécanique contre les herbivores. L'écorce sécrète un latex blanc abondant lorsqu'elle est blessée. Feuilles. Les feuilles sont simples, alternes, largement ovales à cordiformes, de 10 à 20 cm de longueur, avec un limbe vert brillant et des nervures bien marquées. Elles sont portées par de longs pétioles et tombent pendant la saison sèche. Fleurs. Les fleurs sont unisexuées, les mâles groupées en chatons cylindriques rougeâtres, les femelles solitaires et plus discrètes. La floraison intervient généralement en saison sèche. Fruit. Le fruit est une capsule ligneuse spectaculaire, sphérique, de 5 à 8 cm de diamètre, divisée en 12 à 18 compartiments radiés. À maturité, la capsule explose violemment avec un bruit sec audible à plusieurs centaines de mètres, projetant les graines plates et circulaires jusqu'à 40 mètres de distance — d'où le nom de « sablier » en référence à cette explosion caractéristique. Les parties utilisées traditionnellement sont l'écorce, les graines et le latex, bien que leur usage soit extrêmement dangereux.",
+    "ecologie": "Hura crepitans est originaire d'Amérique tropicale et naturellement présent dans les Caraïbes. Dans les Départements du Sud et de la Grand'Anse d'Haïti, l'espèce se rencontre principalement en basse altitude dans les zones forestières humides et semi-humides. L'arbre préfère les sols profonds et bien drainés, souvent près des cours d'eau. Sa croissance est relativement rapide et il peut vivre plusieurs siècles. La dispersion explosive de ses graines lui permet de coloniser efficacement de nouveaux territoires, contribuant à maintenir des populations stables dans son aire de répartition naturelle."
+  },
+  "usages": {
+    "usages_ethnobotaniques": "Dans les Départements du Sud et de la Grand'Anse, le Sabliye est reconnu comme un purgatif traditionnel extrêmement puissant, utilisé avec une prudence extrême par les praticiens expérimentés. L'écorce et parfois les graines sont employées en très petites quantités pour leurs propriétés purgatives et antiparasitaires drastiques. Le latex est également utilisé traditionnellement malgré sa causticité. Selon la base de données TRAMIL, l'espèce est répertoriée comme purgatif mais classée comme dangereuse. Les graines entrent parfois dans la composition de préparations rituelles (« lòks ») en raison de leur réputation de puissance. En Amazonie, la plante a historiquement servi à empoisonner les pointes de flèches, témoignant de sa toxicité extrême. Il convient de souligner qu'aucun mode de préparation ne peut garantir l'innocuité de cette plante.",
+    "systemes_concernes": "Digestif, Tégumentaire"
+  },
+  "pharmacologie": {
+    "molecules": "Hura crepitans produit un arsenal chimique défensif particulièrement redoutable, dominé par des diterpènes toxiques qui font de cet arbre l'une des espèces les plus dangereuses de la flore tropicale américaine. Les graines contiennent notamment la crepitine et la hura-toxine, deux composés diterpéniques extrêmement toxiques responsables des empoisonnements graves rapportés. Le latex blanc qui s'écoule de l'écorce blessée renferme ces mêmes diterpènes ainsi que des esters de phorbol, molécules hautement irritantes pour la peau et les muqueuses (Melo et al., 2010 — PMID: 20734124). Les principaux composés secondaires identifiés dans H. crepitans comprennent : des diterpènes toxiques majeurs (crepitine, hura-toxine), des esters de phorbol irritants, des triterpènes, des saponines, des flavonoïdes, des tanins et des alcaloïdes mineurs. Ces composés confèrent à la plante ses propriétés drastiques mais expliquent également sa toxicité redoutable (Silva et al., 2007 — PMID: 17562482). Ces molécules remplissent des fonctions de défense absolue pour l'arbre. Les diterpènes du latex et des graines constituent un système de protection chimique radical contre tous les types d'herbivores, des insectes aux mammifères. Les épines du tronc offrent une protection mécanique complémentaire. L'explosion violente des fruits assure une dispersion efficace des graines tout en décourageant leur consommation par les animaux. Ces mêmes composés, lorsqu'ils sont ingérés par l'humain même en quantités infimes, provoquent les effets toxiques dramatiques documentés : diarrhées sanglantes, convulsions et potentiel létal. Cette toxicité explique pourquoi aucun usage thérapeutique moderne ne peut être recommandé malgré les propriétés purgatives traditionnellement rapportées.",
+    "posologie": "Aucune posologie cliniquement validée n'est disponible pour Hura crepitans en raison de sa toxicité prohibitive. Les anciennes préparations traditionnelles mentionnaient l'usage de 1 à 2 graines ou de très petites quantités d'écorce, mais ces doses restent potentiellement dangereuses. La littérature scientifique moderne déconseille formellement tout usage interne de cette espèce. Les cas d'empoisonnement rapportés dans la littérature médicale brésilienne montrent que même de faibles quantités peuvent provoquer des intoxications graves (Santos et al., 2012 — PMID: 22847072). Aucune standardisation thérapeutique n'est envisageable pour cette espèce."
+  },
+  "nutrition": {
+    "introduction": "Hura crepitans L. (syn. Hura brasiliensis) est un grand arbre natif d'Amérique tropicale, présent dans les Caraïbes et documenté dans les Départements du Sud et de la Grand'Anse d'Haïti. Il appartient à la famille des Euphorbiacées, une famille majoritairement composée d'herbes, d'arbustes et d'arbres, particulièrement riche dans la flore du grand sud haïtien. Cette famille se distingue par ses riches usages alimentaires, médicinaux et spirituels, mais également par ses composés chimiques puissants : diterpènes, terpènes, tanins et flavonoïdes, ciblant préférentiellement les systèmes digestif et tégumentaire. Une vigilance extrême s'impose avec cette famille car de nombreuses espèces — notamment Jatropha, Ricin, et surtout Hippomane mancinella — renferment des principes actifs mortels dans leurs graines ou leur latex caustique. Au sein de cette famille, Hura crepitans fait partie du genre Hura et constitue l'une des espèces les plus redoutables par sa toxicité. Connu localement sous le nom de « Sabliye », cet arbre est utilisé en médecine traditionnelle comme purgatif et antiparasitaire, mais son usage représente un danger considérable en raison de la toxicité extrême de ses graines et de son latex."
+  },
+  "toxicologie": {
+    "niveau": "danger",
+    "details": "Hura crepitans présente une toxicité de niveau 🔴 (très toxique) nécessitant une vigilance absolue. Les graines et le latex peuvent être potentiellement mortels même en petites quantités. L'ingestion de graines provoque des symptômes graves : vomissements violents, diarrhées sanglantes, crampes abdominales sévères, déshydratation, convulsions et collapsus cardiovasculaire. Le latex est hautement caustique et provoque des brûlures chimiques de la peau et des muqueuses, avec risque de cécité en cas de projection oculaire. L'usage interne est formellement contre-indiqué chez la femme enceinte, l'enfant et toute personne. Même l'usage externe du latex doit être évité. En cas d'intoxication, un traitement médical d'urgence est impératif. Cette espèce figure parmi les plantes les plus dangereuses de la flore tropicale."
+  },
+  "conservation": {
+    "menaces": "Hura crepitans présente un statut de préoccupation mineure en termes de conservation. L'espèce maintient des populations stables dans son aire de répartition naturelle grâce à sa capacité de dispersion efficace et sa longévité. Dans les Départements du Sud et de la Grand'Anse, les populations semblent relativement bien préservées dans les zones forestières. La principale menace reste la déforestation pour l'agriculture et l'urbanisation, mais l'espèce n'est pas considérée comme en danger immédiat.",
+    "valeur": "Malgré sa toxicité, Hura crepitans présente certaines valeurs économiques locales et internationales. Le bois, de qualité correcte, est utilisé en menuiserie et construction après séchage approprié. L'arbre procure un ombrage apprécié en raison de sa taille imposante et de son port majestueux, ce qui lui vaut d'être parfois conservé dans les espaces publics et privés. Sur le marché international, le bois de sablier trouve des applications en ébénisterie et artisanat. Cependant, la manipulation de l'arbre vivant nécessite des précautions particulières en raison du latex caustique."
+  },
+  "recherche": {
+    "nb_articles": "~100 (estimation)",
+    "details": "Les recherches sur Hura crepitans se concentrent principalement sur l'étude de sa toxicité et l'identification de ses composés actifs. Environ 100 articles sont estimés disponibles sur PubMed, majoritairement des études toxicologiques brésiliennes. Les perspectives de recherche incluent la caractérisation fine des diterpènes toxiques pour mieux comprendre leurs mécanismes d'action, ainsi que le développement d'antidotes spécifiques en cas d'empoisonnement. Des études écologiques sur le rôle de l'espèce dans les écosystèmes forestiers tropicaux seraient également pertinentes. Aucune perspective thérapeutique n'est envisagée compte tenu de la toxicité prohibitive.",
+    "lien_pubmed": "",
+    "lien_scholar": "",
+    "lien_tramil": "https://www.tramil.net/en/plant/hura-crepitans"
+  },
+  "references": "Melo, M.M. et al. (2010). Toxic plants of Brazil: study of poisonous plants that affect livestock. Toxicon. PMID: 20734124. Silva, D.M. et al. (2007). Hura crepitans seed intoxication. Emergency Medicine Journal. PMID: 17562482. Santos, B.S. et al. (2012). Plant poisonings recorded by a Poison Control Center in Brazil. Revista de Saúde Pública. PMID: 22847072. POWO (2024). Plants of the World Online. Kew Science. https://powo.science.kew.org/ TRAMIL (2024). Hura crepitans. https://www.tramil.net/en/plant/hura-crepitans",
+  "aRetenir": "🔴 À retenir — Sabliye : est une plante hautement toxique. Toute manipulation sans protection est dangereuse. Toute ingestion peut etre mortelle. Ces informations sont destinees exclusivement a la documentation scientifique. Les auteurs declinent toute responsabilite quant a un usage inapproprie.",
+  "images": {
+    "principale": "images/377_Hura_crepitans-001.jpg",
+    "galerie": [
+      "images/377_Hura_crepitans-001.jpg",
+      "images/377_Hura_crepitans-002.jpg",
+      "images/377_Hura_crepitans-003.jpg",
+      "images/377_Hura_crepitans-004.jpg"
+    ]
+  },
+  "source": "plantes_full.json"
+}

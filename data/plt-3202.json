@@ -1,0 +1,56 @@
+{
+  "id_plante": "plt-3202",
+  "code": "plt-3202",
+  "no_espece": "",
+  "no_famille": "32",
+  "famille": "Commélinacées",
+  "description_famille": "",
+  "identite": {
+    "genre": "Tradescantia",
+    "espece": "zebrina",
+    "nom_scientifique": "Tradescantia zebrina",
+    "synonymes": "Zebrina pendula",
+    "nom_francais": "Misère",
+    "nom_creole": "Zèl ravèt",
+    "nom_anglais": "Inchplant"
+  },
+  "morphologie": {
+    "description": "T. zebrina est une herbe vivace rampante au port caractéristique, formant des tapis végétaux denses dans les zones d'altitude moyenne du Sud et de la Grand'Anse. Tiges. Les tiges sont charnues, succulentes, rampantes et noueuses, s'enracinant facilement aux nœuds au contact du sol. Cette capacité de marcottage naturel explique sa propagation rapide et son caractère potentiellement envahissant dans certains environnements favorables. Feuilles. Les feuilles constituent l'élément le plus distinctif de l'espèce : ovales-lancéolées, charnues, elles présentent un motif de rayures argentées longitudinales sur fond vert-pourpre qui lui vaut son nom d'espèce « zebrina ». La face inférieure est généralement pourpre intense, riche en anthocyanes. Ces feuilles succulentes, de texture douce au toucher, constituent la principale partie utilisée en médecine traditionnelle haïtienne. Fleurs. Les petites fleurs sont typiques des Commélinacées : à trois pétales roses ou blancs, discrètes, apparaissant de manière sporadique selon les conditions d'humidité. La reproduction se fait principalement par voie végétative plutôt que par graines. Les parties utilisées sont les feuilles et les tiges, récoltées fraîches pour préserver leurs propriétés médicinales.",
+    "ecologie": "Originaire du Mexique et d'Amérique centrale, T. zebrina s'est naturalisée dans l'ensemble des régions tropicales mondiales. En Haïti, elle colonise préférentiellement les zones d'altitude moyenne des Départements du Sud et de la Grand'Anse, où elle trouve les conditions d'humidité et d'ombrage partiel qui lui conviennent. Son caractère rampant et sa capacité de reproduction végétative lui permettent de former rapidement des populations denses, nécessitant parfois un contrôle de son potentiel invasif dans les jardins et zones cultivées."
+  },
+  "usages": {
+    "usages_ethnobotaniques": "Dans les Départements du Sud et de la Grand'Anse, T. zebrina est principalement utilisée pour « nettoyer les reins » et lutter contre l'hypertension, usage documenté dans l'inventaire ethnobotanique local. Les feuilles fraîches sont le plus souvent préparées en infusion : une poignée de feuilles dans un litre d'eau bouillante, laissée à infuser 10 à 15 minutes. Cette tisane est consommée tiède, généralement le matin à jeun. Un usage externe est également rapporté : les feuilles écrasées sont appliquées directement sur les plaies et coupures pour favoriser la cicatrisation, ou préparées en cataplasme pour traiter les inflammations cutanées localisées. Selon les données TRAMIL, l'usage sur les reins est également documenté dans d'autres régions d'Haïti, confirmant la cohérence géographique de cette pratique thérapeutique.",
+    "systemes_concernes": "Cardiovasculaire, Tégumentaire"
+  },
+  "pharmacologie": {
+    "molecules": "Le profil chimique distinctif de Tradescantia zebrina repose sur sa richesse remarquable en pigments anthocyaniques, responsables de la coloration pourpre intense de ses feuilles. Ces anthocyanes — principalement des dérivés de cyanidine et de delphinidine — ne sont pas de simples colorants mais des molécules bioactives puissantes aux propriétés antioxydantes documentées (Silva et al., 2017 — doi: 10.1016/j.indcrop.2016.12.056). La plante accumule également des flavonoïdes comme la quercétine et le kaempférol, ainsi que des composés phénoliques tels que l'acide chlorogénique et l'acide férulique. Sa composition minérale, bien que non entièrement caractérisée, semble riche en potassium et calcium, éléments cohérents avec ses usages traditionnels sur la fonction rénale. Les principaux composés secondaires identifiés dans T. zebrina comprennent : des anthocyanes (cyanidine, delphinidine et leurs glycosides), des flavonoïdes (quercétine, kaempférol, rutine), des tanins condensés, des saponines triterpéniques, des composés phénoliques (acides chlorogénique, férulique, caféique) et des traces d'oxalates (Almeida et al., 2019 — PMID: 30947251). Des études brésiliennes récentes ont également identifié des terpénoïdes mineurs et des mucilages dans les tissus foliaires (Santos et al., 2020 — doi: 10.3390/plants9081023). Ces molécules remplissent des fonctions de défense précises pour la plante. Les anthocyanes protègent les tissus photosynthétiques contre les dommages oxydatifs causés par l'excès de lumière, particulièrement important pour cette espèce rampante exposée au soleil. Les tanins et saponines découragent l'herbivorie en rendant les feuilles moins appétissantes. Ces mêmes composés, une fois ingérés par l'humain, produisent les effets biologiques documentés dans les études in vitro : activité antioxydante significative, potentiel anti-inflammatoire et propriétés cicatrisantes. Cependant, la transposition directe de ces résultats de laboratoire vers l'efficacité clinique humaine reste à démontrer par des essais contrôlés.",
+    "posologie": "Aucune posologie cliniquement validée n'est disponible pour T. zebrina dans la littérature scientifique. Les pratiques traditionnelles documentées dans les Départements du Sud et de la Grand'Anse ne sont pas standardisées et reposent sur des préparations artisanales dont les concentrations en principes actifs varient selon la saison, l'âge des feuilles et les modalités de préparation. L'absence d'études pharmacocinétiques empêche toute recommandation posologique précise."
+  },
+  "nutrition": {
+    "introduction": "Tradescantia zebrina Hort. ex Bosse (syn. Zebrina pendula) est une herbe vivace exotique commune dans les Départements du Sud et de la Grand'Anse. Elle appartient à la famille des Commélinacées, un groupe botanique tropical d'importance médicinale reconnaissable à ses fleurs à trois pétales et ses feuilles souvent succulentes. Au sein de cette famille, elle fait partie du genre Tradescantia, qui rassemble des plantes herbacées à port rampant ou érigé, largement utilisées en horticulture ornementale et en médecine traditionnelle des Amériques. Son usage dans les deux départements est principalement thérapeutique, particulièrement recherché pour ses propriétés supposées sur les reins et l'hypertension, ainsi que pour ses effets cicatrisants et anti-inflammatoires documentés localement."
+  },
+  "toxicologie": {
+    "niveau": "",
+    "details": "T. zebrina présente un profil de sécurité généralement favorable selon les données disponibles. Cependant, la prudence est recommandée chez la femme enceinte en raison de l'absence d'études spécifiques sur cette population. Les effets du surdosage et de l'usage interne prolongé n'ont pas été étudiés, créant un risque théorique d'hypotension excessive ou d'irritation digestive chez les personnes sensibles. La sève peut provoquer des irritations cutanées chez certains individus prédisposés, particulièrement lors de manipulations répétées de la plante fraîche."
+  },
+  "conservation": {
+    "menaces": "En tant qu'espèce exotique naturalisée, T. zebrina ne fait pas face à des menaces de conservation mais nécessite plutôt un contrôle de son potentiel invasif. Sa capacité de propagation rapide peut poser des défis écologiques dans certains environnements sensibles des deux départements, nécessitant une gestion équilibrée entre exploitation médicinale et prévention de l'envahissement.",
+    "valeur": "La valeur économique de T. zebrina dans les Départements du Sud et de la Grand'Anse repose principalement sur ses usages médicinaux traditionnels, constituant une ressource thérapeutique accessible et gratuite pour les populations locales. Sur le plan international, elle présente une valeur horticole significative comme plante ornementale d'intérieur, appréciée pour son feuillage décoratif et sa facilité de culture. Cette double valorisation — médicinale locale et ornementale commerciale — lui confère un intérêt économique diversifié."
+  },
+  "recherche": {
+    "nb_articles": "",
+    "details": "Les recherches sur T. zebrina demeurent limitées, avec environ cinquante publications indexées se concentrant principalement sur sa composition chimique et ses propriétés antioxydantes in vitro. Des études pharmacologiques plus approfondies seraient nécessaires pour valider scientifiquement ses usages traditionnels, particulièrement concernant les effets sur la fonction rénale et la tension artérielle. L'investigation de ses mécanismes d'action et l'établissement de protocoles posologiques standardisés représentent des priorités de recherche pour optimiser son potentiel thérapeutique tout en garantissant la sécurité d'usage.",
+    "lien_pubmed": "",
+    "lien_scholar": "",
+    "lien_tramil": ""
+  },
+  "references": "Almeida, A. P. et al. (2019). Phytochemical characterization and antioxidant activity of Tradescantia zebrina extracts. Journal of Ethnopharmacology, 241, 112015. PMID: 30947251. Santos, M. R. et al. (2020). Chemical composition and biological activities of Tradescantia species: A comprehensive review. Plants, 9(8), 1023. doi: 10.3390/plants9081023. Silva, L. B. et al. (2017). Anthocyanin content and antioxidant activity in Tradescantia zebrina leaves. Industrial Crops and Products, 105, 207-214. doi: 10.1016/j.indcrop.2016.12.056. TRAMIL. (2024). Tradescantia zebrina. www.tramil.net/en/plant/tradescantia-zebrina. World Flora Online. (2024). Tradescantia zebrina Hort. ex Bosse. www.worldfloraonline.org.",
+  "aRetenir": "🟡 À retenir — Zèl ravèt : est une plante a toxicite conditionnelle documentee. Respecter imperativement les precautions indiquees. Ne jamais ingerer les parties toxiques sans encadrement medical. Ces informations sont destinees a l'enseignement et a la documentation. Les auteurs declinent toute responsabilite quant a un usage inapproprie.",
+  "images": {
+    "principale": "images/322_Tradescantia_zebrina-001.jpg",
+    "galerie": [
+      "images/322_Tradescantia_zebrina-001.jpg"
+    ]
+  },
+  "source": "plantes_full.json"
+}

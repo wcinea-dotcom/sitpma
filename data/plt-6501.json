@@ -1,0 +1,59 @@
+{
+  "id_plante": "plt-6501",
+  "code": "plt-6501",
+  "no_espece": "",
+  "no_famille": "65",
+  "famille": "Piperacées",
+  "description_famille": "Dominantes dans les forêts tropicales humides, les Pipéracées rassemblent environ 3 600 espèces réparties dans 5 genres principaux, principalement sous forme de lianes, d'arbustes et d'herbes. Cette famille pantropicale est mondialement reconnue pour Piper nigrum, le poivrier noir, source de l'épice la plus commercialisée au monde. En Haïti, elle comprend plusieurs genres d'intérêt ethnobotanique : Piper (poivriers sauvages), Peperomia (plantes ornementales et médicinales) et Manekia (lianes forestières rares). Sur le plan phytochimique, les Pipéracées se distinguent par leur richesse en alcaloïdes amides — notamment la pipérine et ses dérivés — responsables de la saveur piquante caractéristique et des propriétés biologiques. Ces composés ciblent préférentiellement le système nerveux périphérique et la peau, expliquant les usages traditionnels en analgésie locale. La famille produit également des huiles essentielles à monoterpènes et des lignanes bioactifs. Attention : certaines espèces renferment des alcaloïdes puissants exigeant des précautions d'usage, particulièrement pour les préparations concentrées et l'usage prolongé.",
+  "identite": {
+    "genre": "Manekia",
+    "espece": "urbanii",
+    "nom_scientifique": "Manekia urbanii Trel.",
+    "synonymes": "Sarcorhachis urbanii",
+    "nom_francais": "-",
+    "nom_creole": "-",
+    "nom_anglais": "-"
+  },
+  "morphologie": {
+    "description": "M. urbanii est une liane forestière de moyenne et haute altitude, adaptée aux forêts matures humides des montagnes haïtiennes. *Tiges.* La liane présente des tiges volubiles, ligneuses à la base, permettant à la plante de grimper sur les arbres supports pour atteindre la canopée forestière. L'écorce est rugueuse et de couleur brunâtre. *Feuilles.* Les feuilles sont alternes, pétiolées et de forme généralement ovale. Lorsqu'on les froisse, elles dégagent une odeur épicée caractéristique, signature de la présence de composés aromatiques volatils typiques des Pipéracées. Cette propriété organoleptique constitue un critère d'identification important sur le terrain. *Reproduction.* Les modalités de reproduction de cette espèce restent peu documentées scientifiquement. Comme les autres membres du genre Manekia, elle produit probablement de petites fleurs discrètes arrangées en épis, suivies de fruits charnus contenant les graines. Les parties utilisées sont principalement les feuilles et les portions jeunes de lianes, récoltées selon les besoins thérapeutiques locaux.",
+    "ecologie": "M. urbanii est une espèce native des Caraïbes et d'Amérique tropicale, présente en Haïti dans les Départements du Sud et de la Grand'Anse. Elle colonise les forêts matures de moyenne et haute altitude, où elle trouve les conditions d'humidité et d'ombrage nécessaires à son développement. Son statut de liane forestière en fait une espèce particulièrement dépendante de la préservation des écosystèmes forestiers primaires. La fragmentation forestière constitue la principale menace pour ses populations."
+  },
+  "usages": {
+    "usages_ethnobotaniques": "Dans les Départements du Sud et de la Grand'Anse, M. urbanii est utilisée traditionnellement pour ses propriétés analgésiques locales, avec des usages similaires aux poivriers sauvages. Les feuilles constituent la partie principalement utilisée, reconnues pour leur odeur épicée caractéristique une fois froissées. Le mode de préparation documenté consiste en une macération alcoolique des feuilles, suivie d'applications externes sous forme de frictions sur les zones douloureuses. Cette méthode d'extraction permet de concentrer les principes actifs liposolubles, notamment les alcaloïdes amides et les composés aromatiques volatils. L'usage reste empirique et localisé aux communautés forestières ayant accès à cette ressource rare.",
+    "systemes_concernes": ""
+  },
+  "pharmacologie": {
+    "molecules": "Manekia urbanii produit des composés aromatiques volatils responsables de l'odeur épicée caractéristique de ses feuilles froissées. Cette signature olfactive indique la présence probable d'huiles essentielles à monoterpènes et sesquiterpènes, ainsi que de composés phénoliques volatils. Ces molécules servent à la plante de mécanisme de défense chimique contre les herbivores et les pathogènes, particulièrement important dans l'environnement forestier dense où la compétition biologique est intense. Les principaux composés secondaires probablement présents dans M. urbanii, par analogie avec le genre Piper et les autres Pipéracées, comprennent : des alcaloïdes amides (dérivés de la pipérine), des huiles essentielles (monoterpènes, sesquiterpènes), des lignanes, des flavonoïdes et des composés phénoliques (Parmar et al., 1997 — par analogie avec le genre Piper). Aucune étude phytochimique spécifique à M. urbanii n'est disponible dans la littérature scientifique. Ces composés remplissent des fonctions de défense précises pour la liane. Les alcaloïdes amides protègent contre les insectes herbivores par leur action sur les récepteurs nerveux. Les huiles essentielles exercent une activité antimicrobienne et antifongique, essentielle dans l'environnement forestier humide. Ces mêmes composés, une fois appliqués sur la peau humaine, produisent les effets analgésiques locaux documentés dans les usages traditionnels, probablement par interaction avec les récepteurs TRPV1 responsables de la sensation de chaleur et de douleur.",
+    "posologie": "Aucune posologie cliniquement validée n'est disponible pour M. urbanii. Les pratiques traditionnelles documentées localement ne sont pas standardisées et reposent sur l'expérience empirique des utilisateurs. L'application se fait selon les besoins, par frictions ponctuelles des extraits alcooliques sur les zones affectées. L'absence d'études pharmacocinétiques et toxicologiques limite la possibilité d'établir des recommandations posologiques précises."
+  },
+  "nutrition": {
+    "introduction": "Manekia urbanii (syn. Sarcorhachis urbanii) est une liane native des Caraïbes et d'Amérique tropicale, documentée dans les Départements du Sud et de la Grand'Anse d'Haïti. Elle appartient à la famille des Pipéracées, une famille tropicale dominée par les lianes et reconnue pour ses alcaloïdes amides bioactifs. Au sein de cette famille, le genre Manekia regroupe des lianes forestières peu étudiées, caractérisées par leurs feuilles aromatiques et leurs propriétés présumées similaires aux poivriers sauvages du genre Piper. Son usage local reste mineur mais spécialisé, principalement en application externe pour les douleurs, à travers des frictions à base de feuilles macérées. La rareté extrême de cette espèce dans les forêts haïtiennes en fait une priorité de conservation."
+  },
+  "toxicologie": {
+    "niveau": "",
+    "details": "Le profil toxicologique de M. urbanii n'est pas documenté scientifiquement. Par analogie avec les autres membres de la famille des Pipéracées, une prudence particulière s'impose concernant les alcaloïdes, particulièrement en cas d'usage prolongé ou de préparations concentrées. Les alcaloïdes amides peuvent exercer une toxicité hépatique à hautes doses. L'application cutanée limite théoriquement l'exposition systémique, mais des réactions locales d'hypersensibilité restent possibles chez les sujets sensibles."
+  },
+  "conservation": {
+    "menaces": "Comme liane forestière de moyenne et haute altitude, M. urbanii dépend étroitement du maintien des forêts matures. Sa rareté documentée dans les Départements du Sud et de la Grand'Anse en fait une espèce prioritaire pour la conservation. La déforestation et la fragmentation des habitats forestiers constituent les principales menaces. Des inventaires botaniques complémentaires sont nécessaires pour évaluer précisément l'état des populations.",
+    "valeur": "L'usage ethnobotanique de M. urbanii reste mineur et localisé, sans développement commercial notable. Sa rareté et la spécificité de son habitat limitent les perspectives d'exploitation économique. La valeur principale réside dans son potentiel de conservation de la biodiversité forestière et comme témoin des savoirs traditionnels associés aux lianes médicinales des forêts haïtiennes."
+  },
+  "recherche": {
+    "nb_articles": "",
+    "details": "Les publications scientifiques spécifiques à M. urbanii sont inexistantes. Les priorités de recherche incluent l'inventaire systématique des populations, l'étude phytochimique des feuilles et l'évaluation des propriétés analgésiques revendiquées. Une caractérisation botanique détaillée et des études de propagation seraient également précieuses pour d'éventuels programmes de conservation ex situ.",
+    "lien_pubmed": "",
+    "lien_scholar": "",
+    "lien_tramil": ""
+  },
+  "references": "Caterina, M.J. et al. (1997). The capsaicin receptor: a heat-activated ion channel in the pain pathway. Nature. PMID: 9349813 — cité par analogie pour les récepteurs TRPV1. Parmar, V.S. et al. (1997). Phytochemistry of the genus Piper. Phytochemistry 46(4): 597-673 — cité par analogie avec le genre Piper. POWO (2024). Plants of the World Online. Kew Science. https://powo.science.kew.org/",
+  "aRetenir": "🟡 À retenir — Manekia : est une plante a toxicite conditionnelle documentee. Respecter imperativement les precautions indiquees. Ne jamais ingerer les parties toxiques sans encadrement medical. Ces informations sont destinees a l'enseignement et a la documentation. Les auteurs declinent toute responsabilite quant a un usage inapproprie.",
+  "images": {
+    "principale": "images/641_Manekia_urbanii-001.jpg",
+    "galerie": [
+      "images/641_Manekia_urbanii-001.jpg",
+      "images/641_Manekia_urbanii-002.jpg",
+      "images/641_Manekia_urbanii-003.jpg",
+      "images/641_Manekia_urbanii-004.jpg"
+    ]
+  },
+  "source": "plantes_full.json"
+}

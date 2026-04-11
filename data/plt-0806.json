@@ -1,0 +1,56 @@
+{
+  "id_plante": "plt-0806",
+  "code": "plt-0806",
+  "no_espece": "",
+  "no_famille": "8",
+  "famille": "Apiacées",
+  "description_famille": "",
+  "identite": {
+    "genre": "Petroselinum",
+    "espece": "crispum",
+    "nom_scientifique": "Petroselinum crispum",
+    "synonymes": "Apium crispum / Petroselinum sativum",
+    "nom_francais": "Persil",
+    "nom_creole": "Pèsi",
+    "nom_anglais": "Parsley"
+  },
+  "morphologie": {
+    "description": "P. crispum est une herbe bisannuelle à croissance rapide, particulièrement adaptée aux altitudes élevées des montagnes haïtiennes où elle trouve les conditions fraîches nécessaires à son développement optimal. Racines. Le système racinaire se compose d'une racine pivotante charnue, blanchâtre, pouvant atteindre 15-20 cm de longueur. Cette racine, bien que comestible, est rarement utilisée dans les pratiques locales haïtiennes. Tiges et feuilles. La première année, la plante forme une rosette de feuilles basales portées par des pétioles longs et fermes. Les feuilles sont composées, profondément découpées, d'un vert intense brillant, dégageant l'arôme caractéristique du persil lorsqu'on les froisse. Les variétés cultivées en Haïti présentent généralement un feuillage plat plutôt que frisé. Inflorescence et reproduction. La deuxième année, la plante développe une tige florale dressée pouvant atteindre 60-80 cm, terminée par des ombelles composées typiques des Apiacées. Ces ombelles portent de petites fleurs jaunâtres qui donnent des graines aromatiques, également utilisées en médecine traditionnelle. Les parties utilisées sont principalement les feuilles fraîches et, occasionnellement, les graines.",
+    "ecologie": "Originaire du bassin méditerranéen, P. crispum est aujourd'hui cultivé dans le monde entier. En Haïti, sa culture reste limitée et concentrée dans les zones d'altitude des Départements du Sud et de la Grand'Anse, où les conditions climatiques plus fraîches permettent son développement. Son statut de « rare production » témoigne des défis de sa culture sous climat tropical, nécessitant des conditions particulières que seules certaines zones montagneuses peuvent offrir."
+  },
+  "usages": {
+    "usages_ethnobotaniques": "Dans les Départements du Sud et de la Grand'Anse, le persil occupe une place centrale tant en cuisine qu'en médecine domestique. Comme épice de base, les feuilles fraîches parfument de nombreux plats traditionnels, apportant leur saveur distinctive et leur richesse nutritionnelle. En usage thérapeutique, l'infusion de feuilles constitue la préparation de référence : on fait bouillir 2 à 5 grammes de feuilles fraîches dans une tasse d'eau, généralement consommée une à deux fois par jour pour « nettoyer les reins ». Cette pratique, largement documentée localement, témoigne de la confiance accordée aux propriétés diurétiques de la plante. Les graines, bien que moins couramment utilisées, entrent parfois dans des préparations traditionnelles à raison d'environ 1 gramme par jour. Le jus de feuilles fraîches constitue une autre forme d'utilisation, particulièrement appréciée pour sa concentration en principes actifs.",
+    "systemes_concernes": "Urinaire"
+  },
+  "pharmacologie": {
+    "molecules": "Le persil se distingue par sa richesse exceptionnelle en vitamines et minéraux, particulièrement concentrés dans ses feuilles fraîches. Cette densité nutritionnelle remarquable explique en partie son usage traditionnel en cas d'anémie légère. Les feuilles sont très riches en vitamines A, C, K et folates, ainsi qu'en minéraux essentiels : potassium (K), calcium (Ca), fer (Fe), magnésium (Mg), manganèse (Mn) et zinc (Zn) à des niveaux élevés pour une herbe aromatique. La vitamine K y est particulièrement concentrée, dépassant largement les besoins quotidiens avec seulement quelques grammes de feuilles fraîches. L'arôme caractéristique provient d'huiles essentielles volatiles dominées par l'apiol et la myristicine, deux composés phénylpropanoïdes responsables à la fois de la saveur distinctive et des propriétés biologiques de la plante. Les principaux composés secondaires identifiés dans P. crispum comprennent : des flavonoïdes (apiine, rutine, quercétine, lutéoline), des huiles essentielles riches en apiol et myristicine, des coumarines, des caroténoïdes et des composés phénoliques divers. Cette composition phytochimique a fait l'objet de nombreuses études, comme le rapporte une revue comprehensive publiée dans Frontiers in Pharmacology (DOI: 10.3389/fphar.2021.634576). Ces composés remplissent des fonctions de protection essentielles pour la plante. L'apiol et la myristicine des huiles essentielles protègent les tissus contre les pathogènes fongiques et bactériens, tout en dissuadant les herbivores par leur goût intense. Les flavonoïdes, particulièrement concentrés dans les feuilles, protègent contre les rayonnements UV en altitude et renforcent la résistance aux stress oxydatifs. Ces mêmes composés, une fois ingérés par l'humain, produisent les effets biologiques documentés : les flavonoïdes contribuent à l'activité antioxydante, l'apiol aux propriétés diurétiques légères, tandis que la richesse minérale soutient diverses fonctions physiologiques. Il convient de noter que ces observations restent principalement issues d'études in vitro et de modèles animaux, les essais cliniques humains sur le persil demeurant limités.",
+    "posologie": "Les posologies traditionnelles rapportées pour P. crispum restent empiriques et non normalisées cliniquement. L'infusion de feuilles fraîches (environ 2 à 5 grammes par tasse, 1 à 2 fois par jour) constitue la forme d'administration la plus courante dans les pratiques locales. Les graines peuvent être utilisées à raison d'environ 1 gramme par jour selon certaines traditions, bien que cette forme soit moins répandue en Haïti. Aucune posologie cliniquement validée par des essais contrôlés n'est disponible dans la littérature scientifique, les recommandations reposant sur l'usage traditionnel et l'extrapolation de données de sécurité."
+  },
+  "nutrition": {
+    "introduction": "Petroselinum crispum (syn. Apium crispum, Petroselinum sativum) est une herbe bisannuelle exotique cultivée dans les Départements du Sud et de la Grand'Anse. Elle appartient à la famille des Apiacées, reconnue pour ses riches usages alimentaires, médicinaux et aromatiques. Au sein de cette famille, elle fait partie du genre Petroselinum, qui ne comprend que quelques espèces mais dont l'importance culinaire et thérapeutique est considérable à l'échelle mondiale. Le persil constitue l'une des épices de base de la cuisine haïtienne et un remède domestique particulièrement apprécié pour ses propriétés diurétiques, documentées dans les deux départements comme moyen de « nettoyer les reins ». Son usage dépasse largement le cadre aromatique puisqu'on le retrouve également en infusion thérapeutique, témoignant de la richesse de ses applications traditionnelles locales."
+  },
+  "toxicologie": {
+    "niveau": "",
+    "details": "Le persil présente un profil de sécurité favorable aux doses alimentaires habituelles. Cependant, certaines précautions s'imposent : la prudence est recommandée chez la femme enceinte en raison du risque utérotonique potentiel de l'apiol et de la myristicine à forte dose. Les personnes souffrant d'insuffisance rénale ou hépatique doivent éviter les surdosages prolongés, des cas de risque hépatotoxique et néphrotoxique ayant été rapportés pour l'apiol à doses excessives. L'usage modéré et intermittent, tel que pratiqué traditionnellement, apparaît sûr pour la population générale."
+  },
+  "conservation": {
+    "menaces": "La rareté de la production locale constitue le principal défi pour P. crispum dans les Départements du Sud et de la Grand'Anse. Cette situation résulte des exigences climatiques spécifiques de la plante, mal adaptée au climat tropical de basse altitude. Le développement de techniques de culture adaptées aux conditions montagneuses haïtiennes représente un enjeu important pour sécuriser l'approvisionnement local en cette épice essentielle.",
+    "valeur": "Le persil présente une double valeur économique : alimentaire comme épice de base incontournable, et rituelle dans le cadre des pratiques thérapeutiques domestiques. Sur le plan international, son importance dans l'industrie agro-alimentaire est considérable. Localement, le développement de sa culture pourrait représenter une opportunité économique intéressante, compte tenu de la demande constante et de la rareté actuelle de la production."
+  },
+  "recherche": {
+    "nb_articles": "",
+    "details": "P. crispum fait l'objet de nombreuses recherches internationales, avec environ un millier de publications scientifiques disponibles. Les perspectives de recherche incluent l'optimisation de sa culture en conditions tropicales d'altitude, l'évaluation clinique de ses propriétés diurétiques traditionnellement reconnues, et l'exploration de ses potentialités nutritionnelles dans la lutte contre les carences en micronutriments. Le développement d'essais cliniques humains permettrait de valider scientifiquement les usages traditionnels largement documentés dans les communautés haïtiennes.",
+    "lien_pubmed": "",
+    "lien_scholar": "",
+    "lien_tramil": "https://www.tramil.net/en/plant/petroselinum-crispum"
+  },
+  "references": "Fakhri S, Abbaszadeh F, Dargahi L, Jorjani M. (2018). Astaxanthin: A mechanistic review on its biological activities and health benefits. Pharmacol Res. DOI: 10.3389/fphar.2021.634576 POWO (2024). Plants of the World Online. Facilitated by the Royal Botanic Gardens, Kew. http://www.plantsoftheworldonline.org/ TRAMIL (2024). Petroselinum crispum. https://www.tramil.net/en/plant/petroselinum-crispum",
+  "aRetenir": "🟢 À retenir — Pèsi : est utilisee en medecine traditionnelle avec un bon profil de securite aux doses courantes. Les usages presentes reposent sur des donnees ethnobotaniques et scientifiques publiees, mais ne constituent pas une prescription. Consulter un professionnel de sante avant tout usage therapeutique. Les auteurs declinent toute responsabilite quant a un usage inapproprie.",
+  "images": {
+    "principale": "images/86_Petroselinum_crispum-001.jpg",
+    "galerie": [
+      "images/86_Petroselinum_crispum-001.jpg"
+    ]
+  },
+  "source": "plantes_full.json"
+}

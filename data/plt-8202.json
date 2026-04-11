@@ -1,0 +1,56 @@
+{
+  "id_plante": "plt-8202",
+  "code": "plt-8202",
+  "no_espece": "",
+  "no_famille": "82",
+  "famille": "Sapotacées",
+  "description_famille": "",
+  "identite": {
+    "genre": "Chrysophyllum",
+    "espece": "oliviforme",
+    "nom_scientifique": "Chrysophyllum oliviforme",
+    "synonymes": "Chrysophyllum monopyrenum",
+    "nom_francais": "Caïmite marron",
+    "nom_creole": "Ti kayimit",
+    "nom_anglais": "Satinleaf"
+  },
+  "morphologie": {
+    "description": "C. oliviforme est un arbuste de basse altitude, commun dans les deux départements étudiés, pouvant atteindre 3 à 5 mètres de hauteur. Tiges et écorce. Le tronc est généralement droit avec une écorce lisse à légèrement rugueuse, de couleur gris-brun. Comme chez d'autres Sapotacées, l'écorce sécrète un latex blanc laiteux lorsqu'elle est entaillée, substance caractéristique de la famille. Feuilles. Les feuilles sont simples, alternes, coriaces et persistantes. Elles présentent une forme elliptique à oblongue avec un apex obtus à légèrement pointu. La face supérieure est vert foncé et luisante, tandis que la face inférieure montre souvent une teinte plus pâle avec une nervation bien marquée. Fleurs. Les fleurs sont petites, verdâtres à jaunâtres, regroupées en fascicules axillaires. Elles sont généralement bisexuées avec un calice à 5 sépales et une corolle tubulaire à 5 lobes. Fruit. Le fruit est une baie charnue, ovoïde à subglobuleuse, de 2 à 4 cm de diamètre. À maturité, il prend une couleur variant du jaune-orange au pourpre foncé. La pulpe est juteuse, de saveur douce et légèrement sucrée, entourant généralement une à deux graines brunes. Les parties utilisées sont les fruits pour l'alimentation et les feuilles pour les préparations médicinales.",
+    "ecologie": "C. oliviforme est originaire des Caraïbes et d'Amérique tropicale, où il pousse naturellement dans les formations forestières de basse altitude. Dans les Départements du Sud et de la Grand'Anse, l'espèce colonise préférentiellement les zones semi-arides et les formations arbustives dégradées, démontrant une bonne adaptabilité aux conditions climatiques locales. Son statut d'espèce native en fait un élément important de la flore indigène haïtienne. L'arbuste supporte bien la sécheresse saisonnière caractéristique de ces régions et peut prospérer sur des sols calcaires pauvres, ce qui explique son abondance commune dans la zone d'étude. Sa capacité de régénération naturelle et sa résistance aux perturbations anthropiques en font une espèce relativement stable dans l'écosystème local."
+  },
+  "usages": {
+    "usages_ethnobotaniques": "Dans les Départements du Sud et de la Grand'Anse, C. oliviforme est principalement valorisé pour ses fruits, consommés frais comme aliment traditionnel. Les fruits mûrs sont cueillis directement sur l'arbuste et consommés crus, appréciés pour leur saveur douce et leur texture juteuse. Cette consommation s'inscrit dans une pratique alimentaire ancestrale qui contribue à diversifier l'apport nutritionnel des communautés rurales, particulièrement en vitamines et minéraux. Les feuilles trouvent un usage médicinal en médecine populaire, principalement sous forme de décoctions ou d'infusions préparées à partir de feuilles fraîches ou séchées. Ces préparations sont traditionnellement utilisées pour leurs propriétés digestives, anti-inflammatoires et antioxydantes. La préparation implique généralement l'infusion de quelques feuilles dans de l'eau chaude, créant une tisane au goût légèrement amer et astringent. Bien que l'espèce ne soit pas listée dans la pharmacopée TRAMIL pour Haïti, ses usages s'inscrivent dans un savoir traditionnel local bien établi.",
+    "systemes_concernes": "Digestif"
+  },
+  "pharmacologie": {
+    "molecules": "Les fruits de C. oliviforme doivent leur couleur attractive aux caroténoïdes, principalement le bêta-carotène et la lutéine, qui leur confèrent leurs teintes jaune-orange caractéristiques. Ces pigments, précurseurs de la vitamine A, jouent un rôle crucial dans l'attraction des disperseurs de graines tout en protégeant les tissus contre les dommages oxydatifs. La saveur douce des fruits résulte de leur teneur élevée en sucres simples (fructose, glucose et saccharose), tandis que leur texture juteuse provient d'une forte teneur en eau et en mucilages. Les fruits contiennent également des quantités appréciables de potassium, magnésium et fer, éléments essentiels au métabolisme énergétique. Les principaux composés secondaires identifiés dans C. oliviforme comprennent : des flavonoïdes (quercétine, catéchine, épicatéchine), des tanins condensés, des saponines triterpéniques, des terpénoïdes et des composés phénoliques (Lorenzi et al., 2006). Le latex caractéristique de la famille contient des triterpènes et des stérols qui participent aux mécanismes de cicatrisation des blessures de la plante. Ces molécules remplissent des fonctions de défense précises pour l'arbuste. Les tanins condensés protègent les feuilles contre l'herbivorie en créant une astringence désagréable et en complexant les protéines digestives des herbivores. Les saponines agissent comme détergents naturels, perturbant les membranes cellulaires des pathogènes. Les flavonoïdes offrent une protection contre les rayonnements UV et possèdent des propriétés antimicrobiennes. Ces mêmes composés, une fois ingérés par l'humain, produisent les effets biologiques documentés dans les usages traditionnels : activité antioxydante des polyphénols, effet astringent antidiarrhéique des tanins, et potentiel anti-inflammatoire des flavonoïdes. Cependant, ces observations restent principalement issues d'études in vitro et d'analogies avec des espèces proches du genre.",
+    "posologie": "Aucune posologie cliniquement validée n'est disponible pour Chrysophyllum oliviforme dans la littérature scientifique indexée. Les pratiques traditionnelles documentées localement ne sont pas standardisées et varient selon les praticiens. Les données disponibles suggèrent l'utilisation de jus de fruits à raison de 50-100 mL par jour ou d'infusions de feuilles en faible dose, mais ces indications proviennent d'observations empiriques non validées cliniquement. L'absence d'études pharmacocinétiques et de dosages standardisés constitue une limitation importante pour une utilisation thérapeutique sécurisée de cette espèce."
+  },
+  "nutrition": {
+    "introduction": "Chrysophyllum oliviforme L. (syn. Chrysophyllum monopyrenum) est un arbuste natif des Caraïbes et d'Amérique tropicale, documenté dans les Départements du Sud et de la Grand'Anse. Il appartient à la famille des Sapotacées, une famille tropicale d'arbres et d'arbustes réputée pour ses fruits comestibles et ses usages médicinaux traditionnels. Cette famille se caractérise par la production de latex et une richesse en saponines, tanins et flavonoïdes, ciblant préférentiellement les systèmes endocrinien et digestif. Au sein de cette famille, le genre Chrysophyllum regroupe des espèces productrices de fruits charnus, dont plusieurs sont cultivées pour leurs qualités nutritionnelles comme la caïmite (Chrysophyllum cainito) et l'abiu (Chrysophyllum cainito var. jamaicense). Chrysophyllum oliviforme est une plante à double vocation : ses fruits constituent un aliment traditionnel apprécié dans la région, tandis que ses feuilles sont utilisées en médecine populaire pour leurs propriétés digestives et anti-inflammatoires."
+  },
+  "toxicologie": {
+    "niveau": "",
+    "details": "Chrysophyllum oliviforme est classé comme non toxique, avec des fruits généralement reconnus comme sûrs pour la consommation alimentaire. Cependant, comme pour tout aliment, la consommation excessive de fruits pourrait provoquer des troubles digestifs mineurs tels que diarrhée ou crampes abdominales en raison de leur teneur en fibres et en sucres. Une prudence particulière est recommandée chez les enfants et les femmes enceintes ou allaitantes concernant l'usage médicinal des feuilles, en l'absence de données de sécurité spécifiques. Les personnes sous traitement médicamenteux devraient consulter un professionnel de santé avant d'utiliser des préparations à base de feuilles, notamment en raison des interactions potentielles des tanins avec certains médicaments."
+  },
+  "conservation": {
+    "menaces": "Chrysophyllum oliviforme présente un statut de conservation de préoccupation mineure dans les Départements du Sud et de la Grand'Anse, où l'espèce demeure commune et bien distribuée. Sa capacité d'adaptation aux milieux perturbés et sa résistance à la sécheresse lui confèrent une certaine résilience face aux pressions anthropiques. Néanmoins, comme d'autres espèces natives, elle pourrait être menacée localement par la déforestation continue et l'expansion agricole intensive. La préservation de ses habitats naturels reste importante pour maintenir la diversité génétique de l'espèce et ses services écosystémiques.",
+    "valeur": "L'espèce possède une valeur économique modeste mais significative au niveau local. Ses fruits contribuent à la sécurité alimentaire des communautés rurales, particulièrement durant les périodes de soudure. À l'échelle internationale, C. oliviforme présente un potentiel ornemental pour l'aménagement paysager en régions tropicales et subtropicales, en raison de sa résistance à la sécheresse et de sa production de fruits colorés. Son adaptation aux sols pauvres et sa facilité d'entretien pourraient en faire une espèce intéressante pour la restauration écologique et l'agroforesterie en zone aride."
+  },
+  "recherche": {
+    "nb_articles": "~20 (estimation)",
+    "details": "Les recherches scientifiques spécifiques à Chrysophyllum oliviforme demeurent limitées, avec environ 20 publications indexées principalement axées sur la taxonomie et l'écologie de l'espèce. Des études phytochimiques approfondies seraient nécessaires pour confirmer la composition en métabolites secondaires et valider les usages médicinaux traditionnels. L'évaluation de l'activité antioxydante des fruits et de l'effet antidiarrhéique des feuilles constitueraient des pistes de recherche prioritaires. Le potentiel nutritionnel des fruits mériterait également d'être caractérisé précisément pour valoriser cette ressource alimentaire locale.",
+    "lien_pubmed": "",
+    "lien_scholar": "",
+    "lien_tramil": ""
+  },
+  "references": "Lorenzi, H., Bacher, L., Lacerda, M., & Sartori, S. (2006). Brazilian Fruits & Cultivated Exotics. Instituto Plantarum. World Flora Online. (2024). Chrysophyllum oliviforme L. http://www.worldfloraonline.org/ POWO. (2024). Plants of the World Online - Chrysophyllum oliviforme. Royal Botanic Gardens, Kew. https://powo.science.kew.org/",
+  "aRetenir": "🟢 À retenir — Ti kayimit : est avant tout un aliment — sa valeur nutritionnelle prime sur ses usages medicinaux. Consommee correctement preparee, elle est sans danger documente. Ses proprietes therapeutiques, reelles mais secondaires, ne remplacent pas un suivi medical. Les auteurs declinent toute responsabilite quant a un usage inapproprie.",
+  "images": {
+    "principale": "images/812_Chrysophyllum_oliviforme-001.jpg",
+    "galerie": [
+      "images/812_Chrysophyllum_oliviforme-001.jpg"
+    ]
+  },
+  "source": "plantes_full.json"
+}

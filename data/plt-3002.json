@@ -1,0 +1,57 @@
+{
+  "id_plante": "plt-3002",
+  "code": "plt-3002",
+  "no_espece": "",
+  "no_famille": "30",
+  "famille": "Clusiacées",
+  "description_famille": "",
+  "identite": {
+    "genre": "Clusia",
+    "espece": "rosea",
+    "nom_scientifique": "Clusia rosea Jacq.",
+    "synonymes": "Clusia major L. (often historically misapplied)",
+    "nom_francais": "Autographe / Copey",
+    "nom_creole": "Figye modi",
+    "nom_anglais": "Autograph Tree"
+  },
+  "morphologie": {
+    "description": "C. rosea est un arbre de basse altitude, pouvant atteindre 8 à 15 mètres de hauteur dans les conditions optimales des Départements du Sud et de la Grand'Anse. Sa croissance est relativement lente mais sa longévité remarquable. Tronc et écorce. Le tronc est droit et robuste, recouvert d'une écorce lisse à légèrement rugueuse, de couleur gris-brun. L'écorce sécrète un latex blanc-jaunâtre lorsqu'elle est incisée, caractéristique distinctive du genre Clusia. Feuilles. Les feuilles sont opposées, coriaces, épaisses et charnues, de forme obovale à elliptique, mesurant 8 à 20 cm de longueur. Leur surface supérieure est vert foncé brillant, tandis que la face inférieure est plus claire. La texture cireuse et la nervation peu visible sont caractéristiques. Ces feuilles persistent toute l'année et résistent bien à la sécheresse. Fleurs. Les fleurs sont unisexuées, portées sur des pieds séparés (espèce dioïque). Les fleurs femelles sont solitaires ou groupées par 2-3, de couleur blanc-rosé à rose, mesurant 4 à 6 cm de diamètre, avec des pétales charnus et cireux. Les fleurs mâles sont plus petites et groupées en cymes. Fruit. Le fruit est une capsule charnue, globuleuse, de 3 à 8 cm de diamètre, initialement verte puis brunâtre à maturité. À maturité, elle s'ouvre en segments étoilés révélant des graines rouge vif entourées d'un arille orange. Les parties utilisées sont les feuilles, le latex et l'écorce.",
+    "ecologie": "C. rosea est originaire des Caraïbes et d'Amérique tropicale, où il s'est adapté aux climats chauds et humides des zones côtières et de basse altitude. Dans les Départements du Sud et de la Grand'Anse, il prospère naturellement dans les zones semi-arides et les forêts sèches, démontrant une remarquable tolérance à la sécheresse. L'espèce colonise également les milieux perturbés et peut adopter un mode de croissance épiphyte sur d'autres arbres dans sa jeunesse avant de devenir terrestre. Cette plasticité écologique explique sa large distribution caribéenne et sa capacité à s'établir dans des environnements variés."
+  },
+  "usages": {
+    "usages_ethnobotaniques": "Dans les Départements du Sud et de la Grand'Anse, C. rosea occupe une place importante dans la pharmacopée traditionnelle et les pratiques rituelles. Le latex constitue le « pansement naturel » le plus utilisé : il est appliqué directement sur les plaies superficielles, les coupures et les éraflures où il forme rapidement une pellicule protectrice favorisant la cicatrisation. Les feuilles fraîches, écrasées ou chauffées, sont appliquées en cataplasme sur les inflammations cutanées et les contusions. L'écorce, réduite en poudre ou préparée en décoction, sert aux soins externes des affections dermatologiques. Les feuilles trouvent également un usage dans certains rituels culturels locaux, témoignant de la dimension spirituelle accordée à cette plante. Les modes de préparation privilégient l'application externe directe, évitant les préparations destinées à l'ingestion en raison des précautions toxicologiques.",
+    "systemes_concernes": "Tégumentaire"
+  },
+  "pharmacologie": {
+    "molecules": "C. rosea se distingue par la production d'un latex résineux riche en composés bioactifs. Ce latex blanc-jaunâtre, sécrété par des canaux laticifères présents dans toute la plante, constitue un système de défense chimique sophistiqué contre les herbivores et les pathogènes. Sa saveur astringente provient principalement des tanins condensés et des composés phénoliques qui précipitent les protéines et créent une sensation de sécheresse en bouche. Le latex contient également des gommes et des résines qui lui confèrent ses propriétés adhésives naturelles, exploitées traditionnellement comme « colle végétale » pour refermer les plaies. Les principaux composés secondaires identifiés dans C. rosea comprennent : des xanthones (notamment la némorosone, un pigment jaune aux propriétés antimicrobiennes), des flavonoïdes (quercétine, kaempférol), des triterpènes, des tanins condensés, des coumarines et diverses résines. Ces molécules ont été caractérisées dans plusieurs études phytochimiques du genre Clusia (Lokvam et al., 2007 — doi:10.1016/j.phytochem.2007.06.004). Ces composés remplissent des fonctions de défense multiples pour l'arbre. Les xanthones, concentrées dans le latex et l'écorce, protègent contre les infections fongiques et bactériennes grâce à leur activité antimicrobienne. Les tanins dans les feuilles dissuadent l'herbivorie en rendant les tissus végétaux indigestes. Les triterpènes contribuent à l'imperméabilisation des surfaces foliaires et à la résistance aux stress hydriques. Ces mêmes composés, une fois appliqués sur la peau humaine, produisent les effets biologiques documentés : activité antioxydante, propriétés anti-inflammatoires et cicatrisantes, principalement observées dans des études in vitro et sur modèles animaux.",
+    "posologie": "Aucune posologie cliniquement validée n'est disponible pour C. rosea. Les pratiques traditionnelles documentées dans les Départements du Sud et de la Grand'Anse privilégient l'usage externe avec application directe du latex frais sur les plaies ou cataplasmes de feuilles fraîches renouvelés 2 à 3 fois par jour. L'absence d'essais cliniques standardisés limite les recommandations posologiques précises, et l'usage reste basé sur les connaissances empiriques locales transmises traditionnellement."
+  },
+  "nutrition": {
+    "introduction": "Clusia rosea Jacq. (syn. Clusia major L. — souvent mal appliqué historiquement) est un arbre natif des Caraïbes et d'Amérique tropicale, commun dans les Départements du Sud et de la Grand'Anse d'Haïti. Il appartient à la famille des Clusiacées, un groupe principalement tropical d'arbustes et d'arbres reconnus pour leurs riches usages alimentaires et médicinaux, caractérisés phytochimiquement par des benzophénones, des résines, des latex et des triterpènes ciblant préférentiellement le système tégumentaire. Au sein de cette famille, le genre Clusia rassemble des espèces épiphytes ou terrestres aux propriétés cicatrisantes remarquables, notamment grâce à leur latex résineux. C. rosea est une plante à usage principalement médicinal et rituel dans les deux départements, particulièrement appréciée pour ses propriétés cicatrisantes et antimicrobiennes par application externe."
+  },
+  "toxicologie": {
+    "niveau": "",
+    "details": "C. rosea présente un profil toxicologique nécessitant des précautions d'usage. Le latex peut provoquer des irritations cutanées et des réactions allergiques chez les sujets sensibles, particulièrement lors d'applications prolongées ou répétées. Les fruits sont considérés comme toxiques et leur ingestion n'est pas recommandée. L'usage interne de toute partie de la plante doit être évité en raison du manque de données de sécurité. Les femmes enceintes et allaitantes doivent faire preuve de prudence. Il est recommandé de tester la tolérance cutanée sur une petite surface avant toute application étendue."
+  },
+  "conservation": {
+    "menaces": "C. rosea bénéficie d'un statut de conservation favorable, classée comme « préoccupation mineure ». Sa large distribution géographique, sa capacité d'adaptation écologique et sa facilité de reproduction limitent les menaces immédiates. Cependant, la déforestation et l'urbanisation dans les zones côtières d'Haïti peuvent affecter localement ses populations naturelles.",
+    "valeur": "La valeur économique de C. rosea dans les Départements du Sud et de la Grand'Anse repose sur ses usages médicinaux traditionnels et son potentiel ornemental. L'espèce est appréciée pour l'ombrage qu'elle procure et sa résistance aux conditions difficiles. À l'échelle internationale, elle trouve des applications ornementales dans l'aménagement paysager des régions tropicales et subtropicales."
+  },
+  "recherche": {
+    "nb_articles": "~50 (estimation)",
+    "details": "Les recherches sur C. rosea demeurent limitées avec environ 50 publications scientifiques indexées. Les études futures devraient se concentrer sur la validation clinique des usages traditionnels, particulièrement les propriétés cicatrisantes et antimicrobiennes du latex. L'évaluation toxicologique approfondie et le développement de formulations standardisées représentent des priorités pour une valorisation thérapeutique sécurisée. L'exploration du potentiel pharmacologique des xanthones isolées de cette espèce mérite également investigation.",
+    "lien_pubmed": "",
+    "lien_scholar": "",
+    "lien_tramil": ""
+  },
+  "references": "Lokvam J. et al. (2007). Anti-bacterial function in the sexually dimorphic pollinator rewards of Clusia grandiflora (Clusiaceae). Phytochemistry. doi:10.1016/j.phytochem.2007.06.004 Compagnone R.S. et al. (2010). Bioactive phenolic compounds from Clusia species. Planta Medica. doi:10.1055/s-0030-1249859 TRAMIL. Clusia rosea. www.tramil.net/en/plant/clusia-rosea POWO. Plants of the World Online. Clusia rosea Jacq. Kew Science.",
+  "aRetenir": "🟡 À retenir — Figye modi : est une plante a toxicite conditionnelle documentee. Respecter imperativement les precautions indiquees. Ne jamais ingerer les parties toxiques sans encadrement medical. Ces informations sont destinees a l'enseignement et a la documentation. Les auteurs declinent toute responsabilite quant a un usage inapproprie.",
+  "images": {
+    "principale": "images/302_Clusia_rosea-001.jpg",
+    "galerie": [
+      "images/302_Clusia_rosea-001.jpg",
+      "images/302_Clusia_rosea-002.jpg"
+    ]
+  },
+  "source": "plantes_full.json"
+}

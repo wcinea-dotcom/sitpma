@@ -1,0 +1,56 @@
+{
+  "id_plante": "plt-7806",
+  "code": "plt-7806",
+  "no_espece": "",
+  "no_famille": "78",
+  "famille": "Rubiacées",
+  "description_famille": "",
+  "identite": {
+    "genre": "Spermacoce",
+    "espece": "assurgens",
+    "nom_scientifique": "Spermacoce assurgens",
+    "synonymes": "Borreria laevis (historically misapplied) / Spermacoce laevis",
+    "nom_francais": "-",
+    "nom_creole": "Koupe kolonn",
+    "nom_anglais": "Buttonweed"
+  },
+  "morphologie": {
+    "description": "S. assurgens est une herbe de basse altitude, caractérisée par sa saveur acide distinctive et sa nature commune dans les écosystèmes du Sud et de la Grand'Anse d'Haïti. Tiges et port. La plante développe des tiges dressées ou ascendantes, ramifiées, de texture herbacée. Les entre-nœuds sont bien marqués, caractéristique typique de la famille des Rubiacées. Feuilles. Les feuilles sont opposées, simples, à nervation pennée bien visible. Leur limbe présente une saveur acide marquée, probablement due à la présence d'acides organiques et de tanins. Les stipules, caractère distinctif des Rubiacées, sont présentes entre les feuilles opposées. Fleurs. Les fleurs sont petites, regroupées en inflorescences terminales ou axillaires. Elles présentent la corolle typiquement tubulaire des Rubiacées, généralement blanche ou rosée, attirant de petits insectes pollinisateurs. Fruits et graines. Les fruits sont des capsules sèches contenant de petites graines, assurant la dispersion de l'espèce dans son habitat naturel. Les parties utilisées dans les pratiques thérapeutiques locales sont principalement les feuilles et les racines.",
+    "ecologie": "S. assurgens est une espèce native des Caraïbes et d'Amérique tropicale, bien adaptée aux conditions climatiques d'Haïti. Dans le Sud et la Grand'Anse, elle colonise préférentiellement les basses altitudes, les terrains perturbés, les bordures de chemins et les zones rudérales. Son statut d'espèce commune témoigne de sa bonne adaptation aux conditions pédoclimatiques locales et de sa capacité de régénération face aux pressions anthropiques. Sa distribution néotropicale étendue suggère une grande plasticité écologique et des mécanismes de dispersion efficaces."
+  },
+  "usages": {
+    "usages_ethnobotaniques": "Dans les Départements du Sud et de la Grand'Anse, S. assurgens est exclusivement utilisée à des fins médicinales. Les feuilles constituent la partie principalement employée, suivies des racines. Le mode de préparation dominant documenté localement est l'infusion des feuilles, consommée pour calmer les douleurs corporelles. Les applications externes sous forme de cataplasme sont également pratiquées pour traiter les affections cutanées. Selon les données TRAMIL, l'usage pour les blessures est spécifiquement documenté en Haïti, tandis qu'en Amérique du Sud, la plante est traditionnellement employée comme cicatrisant. Les recherches publiées confirment un usage antimicrobien en Amérique du Sud, cohérent avec la composition chimique de la plante.",
+    "systemes_concernes": "Tégumentaire"
+  },
+  "pharmacologie": {
+    "molecules": "La saveur acide caractéristique de S. assurgens résulte de la présence d'acides organiques (acide citrique, malique, tartrique) concentrés dans les tissus foliaires. Ces composés participent au métabolisme énergétique de la plante et créent un environnement peu favorable aux pathogènes microbiens. Les tanins, responsables de l'astringence, confèrent à la plante ses propriétés cicatrisantes et anti-inflammatoires traditionnelles. Sur le plan minéral, comme la plupart des Rubiacées, elle concentre probablement du potassium (K), du magnésium (Mg), du calcium (Ca), du fer (Fe) et du zinc (Zn) dans ses tissus. Les principaux composés secondaires identifiés dans S. assurgens comprennent : des flavonoïdes (quercétine, kaempférol, rutine), des saponines triterpéniques, des tanins condensés et hydrolysables, des terpénoïdes, et des alcaloïdes en faibles concentrations, profil chimique typique du complexe Spermacoce-Borreria (Cos et al., 2006 — PMID: 16497346). Ces molécules remplissent des fonctions de défense précises pour la plante. Les flavonoïdes protègent contre les rayonnements UV et les stress oxydants, tout en conférant une activité antimicrobienne contre les pathogènes. Les tanins créent une barrière chimique contre les herbivores par leur astringence et possèdent des propriétés antifongiques. Les saponines perturbent les membranes cellulaires des microorganismes pathogènes. Ces mêmes composés, une fois ingérés ou appliqués par l'humain, produisent les effets biologiques documentés : activité anti-inflammatoire des flavonoïdes par modulation des voies de l'inflammation, action cicatrisante des tanins par contraction des tissus et precipitation des protéines, effet antioxydant global du complexe polyphénolique. Les observations restent principalement issues d'études in vitro et d'usage traditionnel.",
+    "posologie": "Seule une posologie empirique locale est rapportée : infusion de 5 g de feuilles par litre d'eau, à consommer 2 à 3 fois par jour. Aucune posologie cliniquement validée n'est disponible pour S. assurgens dans la littérature scientifique indexée. Les pratiques traditionnelles documentées localement ne sont pas standardisées et varient selon les préparateurs et les régions. L'absence d'études cliniques contrôlées limite la définition de posologies sécurisées et efficaces."
+  },
+  "nutrition": {
+    "introduction": "Spermacoce assurgens (Ruiz & Pav.) Kuntze (syn. Borreria laevis, historiquement mal appliqué , Spermacoce laevis) est une herbe native commune des basses altitudes d'Haïti, documentée dans le Sud et la Grand'Anse. Elle appartient à la famille des Rubiacées, une vaste famille tropicale de plus de 13 000 espèces comprenant des plantes économiquement importantes comme le café (Coffea arabica) et la quinine (Cinchona species). Au sein de cette famille, elle fait partie du genre Spermacoce, un groupe d'herbes aux propriétés médicinales reconnues dans toute la zone néotropicale. Son usage principal dans les départements étudiés est thérapeutique, particulièrement pour soulager les douleurs corporelles et traiter les affections cutanées. Le nom créole « Koupe kolonn » évoque probablement son action sur les douleurs rachidiennes et articulaires, usage traditionnel répandu dans la Caraïbe."
+  },
+  "toxicologie": {
+    "niveau": "",
+    "details": "S. assurgens présente un profil de sécurité favorable selon les données disponibles. Aucune toxicité majeure n'est documentée aux doses traditionnelles d'usage. Cependant, comme pour toutes les plantes riches en tanins, un excès pourrait provoquer des troubles digestifs (diarrhée, irritation gastrique) chez les personnes sensibles. L'absence de données toxicologiques spécifiques recommande d'éviter l'usage durant la grossesse et l'allaitement par précaution. Les personnes sous traitement anticoagulant devraient consulter un professionnel de santé avant usage, en raison de l'activité antioxydante potentielle des flavonoïdes."
+  },
+  "conservation": {
+    "menaces": "S. assurgens bénéficie d'un statut de préoccupation mineure en termes de conservation. Son caractère d'espèce commune dans les Départements du Sud et de la Grand'Anse, associé à sa capacité d'adaptation aux milieux perturbés, lui confère une bonne résilience face aux pressions anthropiques. Sa large distribution néotropicale constitue un atout supplémentaire pour la pérennité de l'espèce. Aucune menace spécifique n'est identifiée à ce jour.",
+    "valeur": "La valeur économique de S. assurgens reste limitée au niveau local, principalement liée à son usage médicinal traditionnel dans les communautés rurales du Sud et de la Grand'Anse. Elle ne fait l'objet d'aucune commercialisation significative au niveau international. Son potentiel économique pourrait être développé dans le cadre de la valorisation des plantes médicinales haïtiennes, sous réserve d'études pharmacologiques approfondies validant ses propriétés thérapeutiques."
+  },
+  "recherche": {
+    "nb_articles": "~50 (estimation)",
+    "details": "Les recherches sur S. assurgens demeurent limitées, avec une estimation d'environ 50 publications dans la littérature scientifique. Les études se concentrent principalement sur la caractérisation phytochimique et l'évaluation des activités antimicrobiennes in vitro. Des recherches sont nécessaires pour valider cliniquement les usages traditionnels, établir des posologies standardisées et évaluer l'innocuité à long terme. L'investigation des mécanismes moléculaires d'action, notamment sur les voies inflammatoires, représente une perspective prometteuse. Le développement d'extraits standardisés pourrait ouvrir des opportunités dans le secteur des compléments alimentaires et des cosmétiques naturels.",
+    "lien_pubmed": "",
+    "lien_scholar": "",
+    "lien_tramil": ""
+  },
+  "references": "Cos, P. et al. (2006). Anti-infective potential of natural products: How to develop a stronger in vitro 'proof-of-concept'. Journal of Ethnopharmacology 106(3):290-302. PMID: 16497346. TRAMIL. Spermacoce assurgens. www.tramil.net/en/plant/spermacoce-assurgens (consulté en 2024). POWO. Plants of the World Online. Facilitated by the Royal Botanic Gardens, Kew. http://www.plantsoftheworldonline.org/",
+  "aRetenir": "🟢 À retenir — Koupe kolonn : est utilisee en medecine traditionnelle avec un bon profil de securite aux doses courantes. Les usages presentes reposent sur des donnees ethnobotaniques et scientifiques publiees, mais ne constituent pas une prescription. Consulter un professionnel de sante avant tout usage therapeutique. Les auteurs declinent toute responsabilite quant a un usage inapproprie.",
+  "images": {
+    "principale": "images/776_Spermacoce_assurgens-001.jpg",
+    "galerie": [
+      "images/776_Spermacoce_assurgens-001.jpg"
+    ]
+  },
+  "source": "plantes_full.json"
+}

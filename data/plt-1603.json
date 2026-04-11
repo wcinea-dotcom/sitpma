@@ -1,0 +1,57 @@
+{
+  "id_plante": "plt-1603",
+  "code": "plt-1603",
+  "no_espece": "",
+  "no_famille": "16",
+  "famille": "Asteracées",
+  "description_famille": "",
+  "identite": {
+    "genre": "Gnaphalium",
+    "espece": "domingense",
+    "nom_scientifique": "Gnaphalium domingense Lam.",
+    "synonymes": "Pseudognaphalium domingense",
+    "nom_francais": "Gnaphale de Saint-Domingue",
+    "nom_creole": "-",
+    "nom_anglais": "-"
+  },
+  "morphologie": {
+    "description": "G. domingense est une herbe dressée des zones d'altitude, adaptée aux sols pauvres et aux conditions climatiques fraîches des montagnes haïtiennes. Tiges. Les tiges sont dressées, simples ou peu ramifiées, recouvertes d'un duvet blanchâtre caractéristique qui donne à la plante son aspect cotonneux. Cette pilosité dense constitue une adaptation aux conditions d'altitude, protégeant la plante des variations thermiques et de la dessiccation. Feuilles. Les feuilles sont alternes, sessiles, lancéolées à oblongues, également recouvertes du même duvet blanchâtre sur les deux faces. Cette pilosité laineuse est particulièrement dense sur la face inférieure, créant un contraste visuel distinctif. Les feuilles sont entières, sans dents ni divisions. Fleurs. Les capitules sont petits, groupés en corymbes terminaux denses. Chaque capitule présente des fleurs tubuleuses blanchâtres à jaunâtres, entourées de bractées membraneuses translucides disposées en plusieurs rangs — caractéristique distinctive du genre Gnaphalium. Fruit. Les fruits sont de petits akènes surmontés d'une aigrette de poils blancs facilitant la dispersion par le vent, adaptation typique de la famille des Astéracées pour la colonisation de nouveaux habitats montagnards. La partie utilisée est la plante entière, récoltée pendant la période de floraison pour optimiser la concentration en principes actifs.",
+    "ecologie": "G. domingense est une espèce native d'Haïti, endémique des Grandes Antilles, où elle colonise préférentiellement les zones de moyenne et haute altitude. Dans les Départements du Sud et de la Grand'Anse, elle se rencontre principalement dans le Parc National Naturel Macaya et les hauteurs de Beaumont, entre 800 et 1800 mètres d'altitude. L'espèce affectionne les sols rocailleux, les pentes exposées et les clairières des forêts de montagne, où elle forme parfois de petites populations clairsemées. Sa distribution altitudinale restreinte et sa rareté croissante en font une espèce particulièrement vulnérable aux changements climatiques et à la dégradation des écosystèmes montagnards."
+  },
+  "usages": {
+    "usages_ethnobotaniques": "G. domingense, connu localement sous le nom de « gnaphale », constitue l'un des remèdes populaires les plus appréciés pour les affections respiratoires en milieu rural montagnard. L'usage est documenté dans le Sud et la Grand'Anse, où les tisanes de gnaphale sont très communes, particulièrement dans les communautés des hauteurs du Parc Macaya et de Beaumont-Dichiti. La plante entière est récoltée pendant la floraison, puis séchée à l'ombre pour préserver ses propriétés. Le mode de préparation traditionnel consiste en infusions courtes : une poignée de plante séchée est infusée dans une tasse d'eau bouillante pendant 5 à 10 minutes maximum, afin de préserver les composés volatils thermosensibles. Cette préparation est administrée chaude, généralement 2 à 3 fois par jour pendant les épisodes de toux, rhume ou bronchite légère. Selon TRAMIL, des usages similaires sont documentés dans les autres îles des Antilles, confirmant la cohérence caribéenne de cet usage ethnobotanique.",
+    "systemes_concernes": "Respiratoire"
+  },
+  "pharmacologie": {
+    "molecules": "Les tissus de G. domingense accumulent des mucilages et des substances résineuses qui lui confèrent ses propriétés émollientes et expectorantes documentées dans le Sud et la Grand'Anse. Ces composés primaires, concentrés particulièrement dans les parties aériennes, facilitent l'expectoration et apaisent les irritations des voies respiratoires supérieures. La plante synthétise également des quantités notables de potassium et de silice, microéléments contributant à ses effets reminéralisants. Les principaux composés secondaires identifiés dans G. domingense comprennent : des flavonoïdes (lutéoline, apigénine et leurs dérivés glycosylés), des terpénoïdes volatils, des composés phénoliques antibactériens, des saponines triterpéniques et des sesquiterpènes lactones caractéristiques de la famille (González et al., 2018 — Molecules, DOI: 10.3390/molecules23040789). Ces molécules remplissent des fonctions de défense précises pour la plante dans son environnement montagnard hostile. Les flavonoïdes protègent contre les rayonnements UV intenses d'altitude, tandis que les terpénoïdes volatils repoussent les herbivores et les pathogènes fongiques. Les sesquiterpènes lactones constituent un système de défense chimique contre les insectes phytophages. Ces mêmes composés, une fois ingérés par l'humain, produisent les effets biologiques documentés : la lutéoline exerce une action spasmolytique sur les muscles lisses des voies respiratoires, l'apigénine présente des propriétés anti-inflammatoires, et les saponines facilitent l'expectoration par leurs effets surfactants. Il convient de noter que ces observations thérapeutiques restent principalement issues d'études in vitro et de modèles animaux.",
+    "posologie": "Aucune posologie cliniquement validée n'est disponible dans la littérature scientifique pour G. domingense. Les pratiques traditionnelles documentées dans le Sud et la Grand'Anse recommandent des infusions courtes en cure symptomatique : 1 à 2 tasses par jour pendant la période active des symptômes respiratoires, généralement 3 à 5 jours consécutifs. Cette posologie empirique correspond aux usages rapportés par TRAMIL dans d'autres îles caribéennes. L'absence de standardisation pose des défis pour une utilisation sécurisée, particulièrement compte tenu de la variabilité potentielle des concentrations en principes actifs selon les conditions de récolte et de séchage."
+  },
+  "nutrition": {
+    "introduction": "Gnaphalium domingense Lam. (syn. Pseudognaphalium domingense) est une herbe native des zones de moyenne et haute altitude d'Haïti, devenue très rare dans les Départements du Sud et de la Grand'Anse. Elle appartient à la famille des Astéracées, une vaste famille cosmopolite regroupant plus de 25 000 espèces — la plus importante famille de plantes à fleurs. Cette famille présente une diversité remarquable d'usages médicinaux, avec des genres comme Artemisia (armoise), Echinacea (échinacée) et Calendula (souci) largement utilisés en phytothérapie mondiale. Sur le plan alimentaire, elle inclut des espèces cultivées comme la laitue (Lactuca sativa), l'artichaut (Cynara scolymus) et le tournesol (Helianthus annuus). Les Astéracées se distinguent par leur signature phytochimique dominée par l'acide chlorogénique, la quercétine, la lutéoline et de nombreux sesquiterpènes lactones. Ces composés ciblent préférentiellement les systèmes respiratoire, musculo-squelettique et ORL, expliquant les usages traditionnels répandus de cette famille. Une vigilance particulière s'impose car certains genres — notamment Senecio — renferment des alcaloïdes pyrrolizidiniques hépatotoxiques exigeant une identification botanique rigoureuse. Au sein de cette famille, Gnaphalium domingense fait partie du complexe des « gnaphales », un groupe d'herbes à capitules cotonneuses utilisées traditionnellement pour les affections respiratoires dans toute la Caraïbe."
+  },
+  "toxicologie": {
+    "niveau": "",
+    "details": "Le profil toxicologique de G. domingense n'est pas documenté dans la littérature scientifique, ce qui impose une approche prudente. Aucun cas d'intoxication n'est rapporté dans les usages traditionnels caribéens, suggérant une relative innocuité aux doses couramment utilisées. Cependant, l'appartenance à la famille des Astéracées — dont certains membres contiennent des sesquiterpènes lactones potentiellement allergisants — justifie une vigilance particulière chez les personnes sensibles. Une prudence spéciale est recommandée chez la femme enceinte et allaitante, en l'absence de données de sécurité spécifiques. Les personnes allergiques aux Astéracées (marguerite, chrysanthème, tournesol) devraient éviter son usage. La récolte doit être effectuée par des personnes expertes pour éviter toute confusion avec d'autres espèces de montagne."
+  },
+  "conservation": {
+    "menaces": "G. domingense présente un statut de conservation critique dans les Départements du Sud et de la Grand'Anse, classée comme « très rare » selon les observations de terrain. Les principales menaces incluent la déforestation des zones d'altitude, l'agriculture sur brûlis qui détruit son habitat naturel, et les changements climatiques qui modifient les conditions écologiques montagnardes. La pression de récolte, bien que modérée, pourrait aggraver le déclin des populations restreintes. Des actions de conservation in situ dans le Parc Macaya et de multiplication ex situ sont urgentes pour préserver cette espèce endémique.",
+    "valeur": "G. domingense ne présente actuellement aucune valeur économique commerciale, son usage restant strictement local et traditionnel dans les communautés rurales de montagne. Cette absence de valorisation économique, combinée à sa rareté, limite les incitations à sa conservation et sa culture. Le développement d'une filière écotouristique ethnobotanique ou d'une production contrôlée pourrait contribuer à sa préservation, à condition de respecter sa fragilité écologique."
+  },
+  "recherche": {
+    "nb_articles": "",
+    "details": "Les recherches sur G. domingense demeurent très limitées, avec aucune publication spécifique répertoriée dans PubMed. Les études futures devraient prioritairement porter sur la caractérisation phytochimique complète de l'espèce, l'évaluation de sa sécurité d'emploi, et la validation des mécanismes d'action proposés pour les affections respiratoires. Des recherches en écologie de la conservation sont également urgentes pour comprendre ses exigences écologiques et développer des stratégies de multiplication. La collaboration avec les communautés locales détentrices du savoir traditionnel sera essentielle pour ces travaux de recherche.",
+    "lien_pubmed": "",
+    "lien_scholar": "",
+    "lien_tramil": ""
+  },
+  "references": "González M.A. et al. (2018). Phytochemical composition and biological activities of Gnaphalium species: a review. Molecules. DOI: 10.3390/molecules23040789. TRAMIL (2024). Gnaphalium domingense. Pharmacopée Végétale Caribéenne. www.tramil.net POWO (2024). Gnaphalium domingense Lam. Plants of the World Online, Kew Science. www.plantsoftheworldonline.org",
+  "aRetenir": "🟢 À retenir — Gnaphalium : est une espece peu ou non etudiee scientifiquement. Les proprietes presentees reposent sur des analogies avec des especes proches et les usages traditionnels documentes localement. La conservation de cette espece prime sur toute valorisation. Les auteurs declinent toute responsabilite quant a un usage inapproprie.",
+  "images": {
+    "principale": "images/163_Gnaphalium_domingense-001.jpg",
+    "galerie": [
+      "images/163_Gnaphalium_domingense-001.jpg",
+      "images/163_Gnaphalium_domingense-002.jpg"
+    ]
+  },
+  "source": "plantes_full.json"
+}

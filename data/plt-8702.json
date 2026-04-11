@@ -1,0 +1,57 @@
+{
+  "id_plante": "plt-8702",
+  "code": "plt-8702",
+  "no_espece": "",
+  "no_famille": "87",
+  "famille": "Verbénacées",
+  "description_famille": "",
+  "identite": {
+    "genre": "Lantana",
+    "espece": "camara",
+    "nom_scientifique": "Lantana camara L.",
+    "synonymes": "Lantana aculeata",
+    "nom_francais": "Corbeille d'or",
+    "nom_creole": "Bonbonyen",
+    "nom_anglais": "Lantana"
+  },
+  "morphologie": {
+    "description": "L. camara est un arbuste de basse altitude, abondant dans les régions étudiées, pouvant atteindre 1 à 2 mètres de hauteur dans les conditions haïtiennes. Tiges et rameaux. Les tiges sont quadrangulaires, souvent épineuses, avec une écorce rugueuse. Les jeunes rameaux présentent une pubescence fine et portent des épines recourbées qui constituent un mécanisme de défense physique contre les herbivores. Feuilles. Les feuilles sont opposées, simples, ovales à elliptiques, de 2 à 8 cm de longueur. Elles présentent une surface rugueuse au toucher, avec des nervures prononcées et un bord denté. Leur texture caractéristique résulte de la présence de poils scabres et de glandes sécrétrices d'huiles essentielles. Fleurs. L'inflorescence est un capitule dense et arrondi, portant de nombreuses petites fleurs tubulaires. Les couleurs varient du jaune à l'orange, souvent avec des nuances rouges, créant un effet décoratif apprécié. Cette variation chromatique s'intensifie avec l'âge des fleurs. Fruits. Les fruits sont de petites drupes charnues, d'abord vertes puis noires à maturité, groupées en capitules globuleux. C'est précisément dans ces fruits immatures que se concentrent les composés toxiques lantadènes. Les parties utilisées dans les pratiques locales sont les feuilles, les fleurs et occasionnellement les racines.",
+    "ecologie": "Lantana camara est originaire des régions tropicales et subtropicales d'Amérique, naturellement présente dans les Caraïbes incluant Haïti. Dans les Départements du Sud et de la Grand'Anse, l'espèce colonise préférentiellement les zones perturbées, les lisières forestières et les terrains abandonnés de basse altitude. Son caractère pionnier et sa résistance aux conditions difficiles en font une espèce abondante dans les paysages anthropisés. Sa capacité d'adaptation remarquable lui a permis de devenir invasive dans de nombreuses régions tropicales du monde, notamment en Inde et en Australie où elle pose des problèmes écologiques majeurs."
+  },
+  "usages": {
+    "usages_ethnobotaniques": "Dans les Départements du Sud et de la Grand'Anse, Lantana camara est traditionnellement employé en médecine populaire pour ses propriétés antimicrobiennes, anti-inflammatoires, antioxydantes, digestives et diurétiques. Les feuilles constituent la partie la plus couramment utilisée, préparées principalement en infusion comme thé doux apaisant à raison de 5g/L, consommé 1 à 2 fois par jour selon les pratiques locales. Les fleurs sont occasionnellement incorporées aux préparations pour leurs propriétés adoucissantes. Les racines, moins fréquemment employées, sont parfois utilisées en décoction pour des applications externes. Le réseau TRAMIL documente l'usage de L. camara en Haïti spécifiquement contre la grippe, généralement sous forme de bain thérapeutique plutôt qu'en usage interne. Cette approche externe semble plus sûre compte tenu des risques toxicologiques de la plante.",
+    "systemes_concernes": "Respiratoire"
+  },
+  "pharmacologie": {
+    "molecules": "Le caractère remarquable de Lantana camara réside dans sa capacité à produire des composés terpénoïdes complexes responsables à la fois de ses propriétés thérapeutiques et de sa toxicité. Les fruits immatures accumulent des triterpènes pentacycliques appelés lantadènes (lantadène A et B principalement), qui confèrent au fruit vert sa saveur amère répulsive et constituent un mécanisme de défense chimique sophistiqué contre la consommation prématurée par les animaux disperseurs. Les fleurs colorées synthétisent des caroténoïdes et des anthocyanes responsables de leurs teintes vives, servant de signaux visuels pour attirer les pollinisateurs. Les feuilles produisent des huiles essentielles volatiles riches en monoterpènes qui dégagent un parfum caractéristique lorsqu'elles sont froissées. Les principaux composés secondaires identifiés dans L. camara comprennent : des triterpènes toxiques (lantadènes A et B), des flavonoïdes (quercétine, kaempférol), des huiles essentielles à dominante terpénique (caryophyllène, limonène), des saponines triterpéniques, des alcaloïdes en faible quantité, et des tanins condensés (Ghisalberti, 2000 — doi:10.1016/S0031-9422(99)00429-8). Les analyses récentes ont également révélé la présence d'acides phénoliques et de composés iridoïdes caractéristiques de la famille des Verbénacées (Verma et al., 2012 — PMID: 22421403). Ces molécules remplissent des fonctions écologiques précises pour la plante. Les lantadènes protègent les graines immatures contre la prédation précoce tout en rendant les feuilles moins appétentes pour les herbivores. Les huiles essentielles agissent comme répulsifs contre les insectes phytophages et les agents pathogènes. Une fois ingérées par l'humain, ces mêmes molécules produisent les effets biologiques documentés : les flavonoïdes exercent une activité antioxydante, les terpénoïdes présentent des propriétés anti-inflammatoires mais aussi une hépatotoxicité dose-dépendante, et les saponines génèrent des effets diurétiques et irritants. Les études restent principalement issues de travaux in vitro et d'observations cliniques vétérinaires.",
+    "posologie": "Bien que les pratiques traditionnelles locales mentionnent l'usage d'infusions de feuilles à raison de 5g/L consommées 1 à 2 fois par jour, aucune posologie cliniquement validée n'est disponible pour Lantana camara en raison des risques toxicologiques documentés. Les autorités sanitaires modernes ne recommandent pas l'usage interne de cette plante. Les applications externes (bains) semblent représenter une approche plus sûre, mais même dans ce cas, la durée et la fréquence d'utilisation devraient être limitées. La posologie traditionnelle mentionnée ne doit pas être considérée comme une recommandation thérapeutique standardisée."
+  },
+  "nutrition": {
+    "introduction": "Lantana camara L. (syn. Lantana aculeata) est un arbuste natif documenté dans les Départements du Sud et de la Grand'Anse d'Haïti, où il porte le nom créole de « bonbonyen ». Il appartient à la famille des Verbénacées, une famille botanique remarquable regroupant principalement des herbes, arbustes et arbres à forte valeur médicinale. Cette famille se caractérise par une signature phytochimique dominée par les iridoïdes (notamment la verbénaline), les flavonoïdes, les huiles essentielles et les tanins, ciblant préférentiellement les systèmes tégumentaire, respiratoire et cutané. Une vigilance particulière s'impose avec certaines espèces de cette famille qui renferment des principes actifs très puissants, notamment Lantana camara dont les baies non mûres contiennent des lantadènes hépatotoxiques. Au sein de cette famille, L. camara fait partie du genre Lantana, reconnu pour ses propriétés ornementales mais aussi pour sa toxicité documentée. Dans les Départements du Sud et de la Grand'Anse, cette plante est utilisée traditionnellement en médecine populaire, particulièrement pour les affections respiratoires, malgré les précautions nécessaires concernant son usage interne."
+  },
+  "toxicologie": {
+    "niveau": "",
+    "details": "Lantana camara présente une toxicité conditionnelle significative qui impose des précautions strictes. Les principaux risques incluent l'hépatotoxicité (atteinte du foie), la photosensibilisation cutanée, et les troubles digestifs. Les lantadènes, principaux composés responsables de la toxicité, s'accumulent particulièrement dans les fruits immatures mais sont également présents dans les feuilles. L'usage interne doit être évité chez les enfants, les femmes enceintes et allaitantes. L'usage interne prolongé est formellement déconseillé pour tous. Si un usage thérapeutique s'avère nécessaire, privilégier les applications externes très limitées dans le temps, sous supervision d'un praticien expérimenté. La documentation vétérinaire rapporte des cas d'empoisonnement sévère chez les animaux domestiques."
+  },
+  "conservation": {
+    "menaces": "Lantana camara ne présente aucun enjeu de conservation, étant classé LC (Préoccupation mineure) en raison de son abondance et de sa large distribution. L'espèce ne fait face à aucune menace particulière dans les Départements du Sud et de la Grand'Anse où elle maintient des populations stables et abondantes. Son caractère pionnier et sa résistance aux perturbations anthropiques garantissent sa pérennité dans la région. Paradoxalement, dans certaines parties du monde, c'est plutôt son caractère envahissant qui pose problème, nécessitant des mesures de contrôle pour préserver la biodiversité locale.",
+    "valeur": "La valeur économique de L. camara réside principalement dans ses usages ornementaux et médicinaux locaux. Bien que cultivé comme plante ornementale pour ses fleurs colorées et sa floraison prolongée, son potentiel commercial reste limité par sa toxicité. Les applications thérapeutiques traditionnelles génèrent une valeur économique locale modeste mais ne justifient pas d'investissements commerciaux importants compte tenu des risques sanitaires. Sur le plan international, la recherche s'intéresse davantage aux mécanismes de sa résistance et à ses propriétés allelopathiques qu'à ses applications thérapeutiques."
+  },
+  "recherche": {
+    "nb_articles": "~2000 (estimation)",
+    "details": "Avec environ 2000 publications indexées sur PubMed, Lantana camara figure parmi les espèces végétales les plus étudiées de la famille des Verbénacées. Les recherches actuelles se concentrent sur la caractérisation précise des lantadènes et leur mécanisme de toxicité hépatique, ainsi que sur l'évaluation des propriétés antimicrobiennes des extraits pour des applications externes sécurisées. Les études futures devraient privilégier le développement de protocoles d'extraction sélective permettant d'éliminer les composés toxiques tout en préservant les principes actifs bénéfiques. L'évaluation de formulations topiques standardisées pourrait ouvrir des perspectives thérapeutiques plus sûres.",
+    "lien_pubmed": "",
+    "lien_scholar": "",
+    "lien_tramil": ""
+  },
+  "references": "Ghisalberti, E.L. (2000). Lantana camara L. (Verbenaceae). Phytochemistry, 55(8), 885-905. doi:10.1016/S0031-9422(99)00429-8 Verma, R.K. et al. (2012). Lantadene A toxicity in Lantana camara poisoned goats. Toxicon, 59(1), 106-116. PMID: 22421403 TRAMIL. Lantana camara. www.tramil.net/en/plant/lantana-camara POWO. Plants of the World Online. Lantana camara L. Kew Science. https://powo.science.kew.org/",
+  "aRetenir": "🟡 À retenir — Bonbonyen : est une plante a toxicite conditionnelle documentee. Respecter imperativement les precautions indiquees. Ne jamais ingerer les parties toxiques sans encadrement medical. Ces informations sont destinees a l'enseignement et a la documentation. Les auteurs declinent toute responsabilite quant a un usage inapproprie.",
+  "images": {
+    "principale": "images/862_Lantana_camara-001.jpg",
+    "galerie": [
+      "images/862_Lantana_camara-001.jpg",
+      "images/862_Lantana_camara-002.jpg"
+    ]
+  },
+  "source": "plantes_full.json"
+}

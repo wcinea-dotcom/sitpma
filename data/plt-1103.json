@@ -1,0 +1,57 @@
+{
+  "id_plante": "plt-1103",
+  "code": "plt-1103",
+  "no_espece": "",
+  "no_famille": "11",
+  "famille": "Araliacées",
+  "description_famille": "",
+  "identite": {
+    "genre": "Schefflera",
+    "espece": "tremula",
+    "nom_scientifique": "Schefflera tremula",
+    "synonymes": "Didymopanax tremulus / Crepinella tremula",
+    "nom_francais": "Bois tremblé",
+    "nom_creole": "Bwa tranble",
+    "nom_anglais": "-"
+  },
+  "morphologie": {
+    "description": "S. tremula est un arbre de haute altitude, devenu extrêmement rare dans son aire de distribution naturelle restreinte aux montagnes du Sud et de la Grand'Anse d'Haïti. Tiges et écorce. Le tronc présente une écorce rugueuse de couleur brunâtre à grisâtre, caractéristique du genre Schefflera. L'écorce, utilisée en médecine traditionnelle, développe des crevasses longitudinales avec l'âge et sécrète parfois une résine aromatique lors de blessures. Feuilles. Les feuilles sont composées, palmées, typiques du genre Schefflera, disposées en couronne à l'extrémité des branches. Chaque feuille se compose de plusieurs folioles disposées en éventail, de texture coriace et persistante, adaptées aux conditions d'altitude. Leur saveur amère reflète la présence de composés défensifs concentrés. Fleurs et fruits. La plante produit des inflorescences terminales composées de petites fleurs verdâtres groupées en ombelles, suivies de fruits charnus de couleur sombre à maturité. Les modalités précises de sa floraison et de sa fructification dans les conditions haïtiennes restent peu documentées. Racines. Le système racinaire, également utilisé traditionnellement, développe des racines pivotantes et latérales adaptées aux sols de montagne. Les parties utilisées sont les feuilles, l'écorce et les racines, préparées principalement sous forme de bains rituels.",
+    "ecologie": "S. tremula est un arbre endémique des forêts de haute altitude d'Haïti, spécifiquement documenté dans les Départements du Sud et de la Grand'Anse. Son habitat naturel correspond aux forêts humides de montagne, où il s'épanouit dans des conditions de fraîcheur relative et d'humidité constante. L'espèce semble adaptée aux sols well-drainés des pentes montagneuses et aux variations thermiques d'altitude. Sa distribution extrêmement restreinte et sa rareté croissante témoignent de la pression exercée par la déforestation sur les écosystèmes montagnards haïtiens. Les modalités précises de sa reproduction et de sa régénération naturelle nécessitent des études écologiques approfondies pour orienter les stratégies de conservation."
+  },
+  "usages": {
+    "usages_ethnobotaniques": "Dans les Départements du Sud et de la Grand'Anse, S. tremula occupe une place singulière, étant \"réservée presque exclusivement aux usages rituels et mystiques\". Cette spécificité distingue l'espèce des autres plantes médicinales plus couramment utilisées pour des affections physiques. Les parties traditionnellement employées sont les feuilles, l'écorce et les racines, préparées principalement sous forme de bains thérapeutiques. Ces bains rituels s'inscrivent dans un système de soins complexe mêlant dimensions spirituelles et thérapeutiques. La base de données TRAMIL confirme l'usage en bains en Haïti, tandis que d'autres régions caribéennes documentent des applications pour les douleurs (Venezuela) et l'inflammation (Asie). Les modes de préparation spécifiques — décoctions, infusions ou macérations — varient selon les praticiens et les contextes d'usage, reflétant la richesse des savoirs traditionnels associés à cette espèce rare.",
+    "systemes_concernes": "Nerveux"
+  },
+  "pharmacologie": {
+    "molecules": "La saveur amère caractéristique de S. tremula résulte de la concentration élevée en saponines triterpéniques et en composés phénoliques dans ses tissus. Ces molécules, produites par la plante comme mécanisme de défense contre les herbivores et les pathogènes d'altitude, confèrent également les propriétés thérapeutiques documentées. L'acide bétulinique, identifié dans les tissus de l'espèce, contribue à cette amertume tout en participant aux défenses antimicrobiennes de la plante. Les principaux composés secondaires identifiés dans S. tremula, par analogie avec le genre Schefflera, comprennent : des saponines triterpéniques (responsables des propriétés anti-inflammatoires), des flavonoïdes (protection antioxydante), des tanins (action astringente), des terpénoïdes (défense contre les pathogènes), des coumarines (protection UV) et l'acide bétulinique (activité antimicrobienne) (pharmacia.pensoft). Ces molécules remplissent des fonctions défensives cruciales pour un arbre de haute altitude. Les saponines triterpéniques protègent contre les infections fongiques favorisées par l'humidité montagnarde. Les flavonoïdes et coumarines filtrent les rayonnements UV intensifiés par l'altitude. Les tanins rendent les feuilles moins appétentes pour les herbivores. Ces mêmes composés, une fois utilisés par l'humain sous forme de bains, produisent les effets anti-inflammatoires et analgésiques documentés dans les pratiques traditionnelles, bien que les mécanismes précis restent à élucider par des études cliniques spécifiques.",
+    "posologie": "Aucune posologie cliniquement validée n'est disponible pour S. tremula. Les références traditionnelles mentionnent des infusions ou décoctions de 5 à 10 g de matière végétale par litre d'eau, mais ces indications relèvent de l'usage empirique et non d'une standardisation thérapeutique (pharmacia.pensoft). L'absence de données pharmacocinétiques et de protocoles cliniques constitue une limitation majeure pour l'usage sécurisé de l'espèce. Les praticiens traditionnels adaptent généralement les concentrations selon l'âge du patient, la gravité des symptômes et la partie de plante utilisée, mais ces pratiques n'ont pas fait l'objet de validation scientifique rigoureuse."
+  },
+  "nutrition": {
+    "introduction": "Schefflera tremula (syn. Didymopanax tremulus, Crepinella tremula) est un arbre endémique strict d'Haïti — c'est-à-dire qu'il n'existe nulle part ailleurs sur Terre. Il appartient à la famille des Araliacées, une famille tropicale principalement composée d'arbustes et d'arbres, reconnue pour ses riches usages médicinaux et spirituels. Cette famille se distingue phytochimiquement par sa signature dominée par les saponines triterpéniques, les polyacétylènes, les flavonoïdes et les huiles essentielles, ciblant préférentiellement les systèmes nerveux et tégumentaire. Il convient de noter que certaines espèces de cette famille renferment des principes actifs très puissants exigeant une préparation adéquate ou un dosage strict, bien que la toxicité reste généralement faible. Au sein de cette famille, Schefflera tremula fait partie du genre Schefflera, un groupe d'arbres tropicaux dont plusieurs espèces sont valorisées pour leurs propriétés anti-inflammatoires et ornementales. En Haïti, S. tremula occupe une place particulière dans les pratiques rituelles et mystiques des Départements du Sud et de la Grand'Anse, où il est utilisé principalement sous forme de bains thérapeutiques."
+  },
+  "toxicologie": {
+    "niveau": "",
+    "details": "S. tremula présente un profil de sécurité favorable, classée comme non toxique selon les données disponibles. Cependant, par analogie avec le genre Schefflera, certaines précautions sont recommandées : prudence pendant la grossesse et chez les personnes hypotendues en raison des propriétés hypotensives rapportées. Un surdosage pourrait théoriquement provoquer des troubles digestifs et une baisse excessive de la tension artérielle, bien que ces effets ne soient pas spécifiquement documentés pour S. tremula (pharmacia.pensoft). L'usage externe en bains limite considérablement les risques systémiques. Néanmoins, la rareté de l'espèce et l'absence d'études toxicologiques approfondies plaident pour une utilisation modérée et encadrée."
+  },
+  "conservation": {
+    "menaces": "S. tremula fait face à des menaces critiques en raison de son endémisme strict et de sa rareté extrême. La déforestation des forêts de haute altitude, la pression anthropique sur les écosystèmes montagnards et la collecte traditionnelle exercent une pression considérable sur les populations sauvages. L'espèce nécessite des mesures de conservation urgentes incluant la protection in situ de son habitat, la multiplication ex situ et la sensibilisation des communautés locales. Sa valeur mystique particulière pourrait constituer un atout pour mobiliser les communautés autour de sa préservation, en développant des pratiques de récolte durable et de gestion communautaire des ressources.",
+    "valeur": "La valeur économique de S. tremula reste principalement locale et culturelle, centrée sur ses usages rituels et mystiques dans les Départements du Sud et de la Grand'Anse. Internationalement, l'espèce présente un potentiel ornemental pour les jardins botaniques et les collections spécialisées en espèces endémiques caribéennes. Cependant, sa rareté extrême limite drastiquement toute exploitation commerciale. Le développement d'une filière économique durable nécessiterait préalablement la maîtrise de sa propagation, la caractérisation de ses populations sauvages et la mise en place de protocoles de multiplication contrôlée. La valorisation de ses propriétés thérapeutiques potentielles pourrait s'envisager à long terme, sous réserve d'études pharmacologiques approfondies."
+  },
+  "recherche": {
+    "nb_articles": "~20 (estimation)",
+    "details": "Les recherches sur S. tremula restent limitées, avec environ 20 articles disponibles dans la littérature scientifique. Les priorités de recherche incluent : la caractérisation phytochimique complète de l'espèce, l'évaluation pharmacologique de ses extraits, l'étude de sa biologie reproductive et écologique, et le développement de protocoles de conservation ex situ. Des collaborations interdisciplinaires associant ethnobotanistes, phytochimistes, pharmacologues et écologues s'avèrent indispensables pour documenter scientifiquement cette espèce unique. La validation des usages traditionnels par des approches modernes pourrait révéler des applications thérapeutiques innovantes, tout en contribuant à la préservation des savoirs associés et à la conservation de l'espèce.",
+    "lien_pubmed": "https://pubmed.ncbi.nlm.nih.gov/?term=Schefflera+tremula",
+    "lien_scholar": "",
+    "lien_tramil": "https://www.tramil.net/en/plant/schefflera-tremula"
+  },
+  "references": "pharmacia.pensoft - Données phytochimiques et pharmacologiques du genre Schefflera. POWO, Kew Science - Plants of the World Online, données taxonomiques. World Flora Online - Base de données floristiques mondiales. TRAMIL - https://www.tramil.net/en/plant/schefflera-tremula PubMed - https://pubmed.ncbi.nlm.nih.gov/?term=Schefflera+tremula",
+  "aRetenir": "🟢 À retenir — Bwa tranble : est une espece peu ou non etudiee scientifiquement. Les proprietes presentees reposent sur des analogies avec des especes proches et les usages traditionnels documentes localement. La conservation de cette espece prime sur toute valorisation. Les auteurs declinent toute responsabilite quant a un usage inapproprie.",
+  "images": {
+    "principale": "images/113_Schefflera_tremula-001.jpg",
+    "galerie": [
+      "images/113_Schefflera_tremula-001.jpg",
+      "images/113_Schefflera_tremula-002.jpg"
+    ]
+  },
+  "source": "plantes_full.json"
+}

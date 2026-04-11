@@ -1,0 +1,57 @@
+{
+  "id_plante": "plt-1802",
+  "code": "plt-1802",
+  "no_espece": "",
+  "no_famille": "18",
+  "famille": "Bignoniacées",
+  "description_famille": "",
+  "identite": {
+    "genre": "Crescentia",
+    "espece": "cujete",
+    "nom_scientifique": "Crescentia cujete L.",
+    "synonymes": "Crescentia cuneifolia",
+    "nom_francais": "Calebassier",
+    "nom_creole": "Kalbas",
+    "nom_anglais": "Calabash Tree"
+  },
+  "morphologie": {
+    "description": "C. cujete est un arbre de taille moyenne, adapté aux climats tropicaux de basse altitude, particulièrement répandu dans les zones côtières et les plaines des Départements du Sud et de la Grand'Anse. Tronc et écorce. Le tronc est généralement droit, recouvert d'une écorce grisâtre et rugueuse. Cette écorce, au goût acide et âcre, constitue l'une des parties médicinales traditionnellement utilisées dans les préparations antitussives locales. Feuilles. Les feuilles sont simples, alternes, oblongues à obovales, coriaces et persistantes. Elles présentent une texture ferme et une saveur acide caractéristique. Leur surface brillante et leur nervation bien marquée facilitent leur identification. Fleurs. Les fleurs sont spectaculaires et inhabituelles : elles émergent directement du tronc et des branches principales (phénomène de cauliflorie), présentant une corolle tubulaire jaunâtre à rougeâtre. Cette stratégie de floraison favorise la pollinisation par les chauves-souris nocturnes. Fruit. Le fruit constitue l'organe le plus remarquable de l'espèce : il s'agit d'une calebasse sphérique à ovoïde, pouvant atteindre 20 à 30 cm de diamètre, avec une coque ligneuse extrêmement dure à maturité. La pulpe interne, de saveur acide, renferme de nombreuses graines plates. Une fois vidé et séché, le fruit devient imperméable et constitue un récipient naturel durable. Les parties utilisées sont les feuilles, l'écorce et les fruits, selon l'usage recherché.",
+    "ecologie": "Crescentia cujete est une espèce native d'Amérique tropicale, largement distribuée des Caraïbes jusqu'en Amérique du Sud. En Haïti, elle peuple les zones de basse altitude des Départements du Sud et de la Grand'Anse, où elle s'adapte particulièrement bien aux sols alluviaux et aux climats côtiers. L'arbre tolère diverses conditions pédoclimatiques mais préfère les terrains bien drainés et ensoleillés. Sa pollinisation nocturne par les chauves-souris en fait un élément important de l'écosystème tropical haïtien."
+  },
+  "usages": {
+    "usages_ethnobotaniques": "Le calebassier présente des usages multiples documentés dans le Sud et la Grand'Anse. L'usage médicinal principal concerne la préparation d'un sirop antitussif et antiasthmatique à partir des feuilles et de l'écorce, reconnu pour son efficacité contre la toux persistante. Ces parties végétales sont également employées comme antidiarrhéique et anti-inflammatoire, exploitant leurs propriétés astringentes et cicatrisantes. L'écorce est parfois utilisée pour ses effets hypotenseurs présumés. Le mode de préparation privilégié est le sirop, obtenu par décoction prolongée des parties végétales avec du sucre. L'usage artisanal du fruit constitue la valorisation la plus emblématique : une fois vidé et séché, il devient un récipient naturel (bol, gourde, instrument de musique) d'une durabilité exceptionnelle, perpétuant un savoir-faire ancestral caribéen.",
+    "systemes_concernes": "Respiratoire"
+  },
+  "pharmacologie": {
+    "molecules": "Sur le plan phytochimique, Le calebassier offre la richesse minérale de sa pulpe, source probable de potassium, calcium, magnésium, fer et zinc, conférant aux préparations traditionnelles leurs propriétés nutritives complémentaires. La saveur acide caractéristique de toutes les parties végétatives résulte de la présence d'acides organiques, notamment l'acide tartrique et l'acide cinnamique, qui jouent un rôle dans la conservation naturelle des tissus et contribuent aux effets astringents recherchés en médecine traditionnelle. La coque ligneuse du fruit doit sa remarquable résistance à une concentration élevée en cellulose et en lignine, polymères structuraux qui rendent le récipient naturel pratiquement indestructible. Les principaux composés secondaires identifiés dans C. cujete comprennent : des iridoïdes (molécules défensives amères), des flavonoïdes (principalement des dérivés de quercétine et de kaempférol), des triterpènes, des saponines, des tanins condensés et des coumarines (Pharmacognosy Research, via pharmacia.pensoft). Ces composés confèrent à la plante ses propriétés biologiques documentées : activité antimicrobienne, anti-inflammatoire et astringente. Ces molécules remplissent des fonctions de protection essentielles pour l'arbre. Les iridoïdes et les tanins protègent les tissus contre l'attaque des herbivores et des pathogènes fongiques. Les saponines dans l'écorce exercent un effet répulsif contre les insectes foreurs. Les coumarines contribuent à la protection contre les rayonnements UV intenses des zones tropicales. Ces mêmes composés, une fois ingérés par l'humain, produisent les effets biologiques documentés : les tanins exercent une action astringente bénéfique contre la diarrhée, tandis que les saponines contribuent aux effets expectorants recherchés dans les sirops antitussifs traditionnels.",
+    "posologie": "Aucune posologie cliniquement validée n'est disponible pour Crescentia cujete dans la littérature scientifique internationale. Les pratiques traditionnelles documentées dans le Sud et la Grand'Anse rapportent l'usage empirique de décoctions et d'infusions préparées à partir des feuilles et de l'écorce, généralement consommées sous forme de sirop contre la toux. L'absence de standardisation posologique constitue une limite importante pour la valorisation thérapeutique de cette espèce, d'autant que certains de ses composés actifs peuvent présenter des effets dose-dépendants."
+  },
+  "nutrition": {
+    "introduction": "Crescentia cujete L. (syn. Crescentia cuneifolia) est un arbre natif documenté dans les Départements du Sud et de la Grand'Anse d'Haïti. Il appartient à la famille des Bignoniacées, reconnue pour ses importantes propriétés médicinales et sa signature phytochimique dominée par les tanins, les flavonoïdes et les quinones. Au sein de cette famille, il fait partie du genre Crescentia, caractérisé par des arbres tropicaux produisant de gros fruits lignifiés traditionnellement transformés en récipients utilitaires. Le calebassier présente un double intérêt remarquable : d'une part, ses fruits transformés en bols et récipients constituent l'un des artisanats les plus emblématiques des Caraïbes , d'autre part, ses feuilles et son écorce fournissent des remèdes traditionnels contre la toux et les troubles respiratoires, documentés dans le Sud et la Grand'Anse."
+  },
+  "toxicologie": {
+    "niveau": "toxic",
+    "details": "Crescentia cujete présente un niveau de toxicité modéré exigeant des précautions d'usage. La prudence est recommandée pendant la grossesse en raison du manque de données de sécurité spécifiques. L'ingestion en grande quantité pourrait théoriquement provoquer une hypotension excessive et des troubles digestifs, en relation avec l'activité des saponines et des composés phénoliques. Les personnes sous traitement antihypertenseur devraient éviter l'usage thérapeutique de l'écorce sans supervision médicale, compte tenu des effets hypotenseurs rapportés. La saveur acide et âcre de toutes les parties utilisées constitue généralement un frein naturel au surdosage."
+  },
+  "conservation": {
+    "menaces": "Bien que l'espèce ne soit pas globalement menacée, sa raréfaction documentée dans les Départements du Sud et de la Grand'Anse justifie des mesures de conservation préventives. La déforestation, l'urbanisation côtière et la pression foncière constituent les principales menaces pesant sur les populations naturelles. La conservation in situ des spécimens restants et la multiplication horticole pour la replantation représentent des priorités importantes pour maintenir cette ressource ethnobotanique emblématique.",
+    "valeur": "Le calebassier présente une valeur économique notable à plusieurs niveaux. Localement, l'artisanat des calebasses constitue une source de revenus pour les communautés rurales des Départements du Sud et de la Grand'Anse. Internationalement, les instruments de musique fabriqués à partir des fruits (maracas, güiros) alimentent un marché d'exportation vers l'Amérique du Nord et l'Europe. La demande croissante pour les produits naturels et l'artisanat authentique offre des perspectives de développement économique durable pour les régions productrices."
+  },
+  "recherche": {
+    "nb_articles": "~200 (estimation)",
+    "details": "Environ 200 articles scientifiques sont référencés sur PubMed concernant Crescentia cujete, témoignant d'un intérêt de recherche soutenu. Les études récentes se concentrent sur la validation des usages traditionnels, notamment l'activité antimicrobienne et anti-inflammatoire des extraits. Les perspectives incluent la standardisation des extraits actifs, l'évaluation clinique des effets antitussifs et l'optimisation des procédés d'extraction pour une valorisation pharmaceutique. La caractérisation complète du profil nutritionnel de la pulpe pourrait également ouvrir des perspectives agroalimentaires.",
+    "lien_pubmed": "",
+    "lien_scholar": "",
+    "lien_tramil": ""
+  },
+  "references": "Pharmacognosy Research (via pharmacia.pensoft). Phytochemical and pharmacological properties of Crescentia cujete. POWO. Plants of the World Online. Crescentia cujete L. Kew Science. World Flora Online. Crescentia cujete L. WFO Plant List. TRAMIL. Crescentia cujete. www.tramil.net/en/plant/crescentia-cujete.",
+  "aRetenir": "🟠 À retenir — Kalbas : est une plante a toxicite documentee. Tout usage interne non encadre est formellement deconseille. En cas d'ingestion accidentelle, consulter immediatement un service d'urgence. Ces informations sont destinees a l'enseignement et a la recherche uniquement. Les auteurs declinent toute responsabilite quant a un usage inapproprie.",
+  "images": {
+    "principale": "images/182_Crescentia_cujete-001.jpg",
+    "galerie": [
+      "images/182_Crescentia_cujete-001.jpg",
+      "images/182_Crescentia_cujete-002.jpg"
+    ]
+  },
+  "source": "plantes_full.json"
+}

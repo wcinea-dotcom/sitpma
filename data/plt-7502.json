@@ -1,0 +1,56 @@
+{
+  "id_plante": "plt-7502",
+  "code": "plt-7502",
+  "no_espece": "",
+  "no_famille": "75",
+  "famille": "Rhamnacées",
+  "description_famille": "",
+  "identite": {
+    "genre": "Colubrina",
+    "espece": "asiatica",
+    "nom_scientifique": "Colubrina asiatica (L.)",
+    "synonymes": "Ceanothus asiaticus L.",
+    "nom_francais": "Colubrina asiatique",
+    "nom_creole": "Lyan",
+    "nom_anglais": "Asian Snakewood"
+  },
+  "morphologie": {
+    "description": "C. asiatica est une liane grimpante vigoureuse pouvant atteindre plusieurs mètres de longueur, caractérisée par sa saveur douce à légèrement acide. Tiges. Les tiges sont ligneuses, flexibles et résistantes, permettant à la plante de s'enrouler autour des supports disponibles. L'écorce des tiges plus âgées devient rugueuse et brunâtre, tandis que les jeunes pousses conservent une surface plus lisse. Feuilles. Les feuilles sont alternes, simples, ovales à elliptiques, avec des bords finement dentés. Elles présentent une nervation pennée bien marquée et une texture coriace qui résiste bien aux conditions tropicales. Leur couleur varie du vert clair au vert foncé selon l'exposition. Fleurs. Les inflorescences sont des cymes axillaires composées de petites fleurs verdâtres à jaunâtres, généralement pentamères, attirant principalement les petits insectes pollinisateurs. Fruits. Les fruits sont des drupes sphériques qui passent du vert au noir à maturité, contenant généralement trois graines. Dans le contexte des Départements du Sud et de la Grand'Anse, cette espèce s'adapte bien aux zones de basse altitude mais reste rare, probablement en raison de la pression de collecte et de la compétition avec la végétation native. Les parties utilisées sont les feuilles, les tiges et les racines.",
+    "ecologie": "C. asiatica est originaire d'Asie tropicale et s'est naturalisée dans de nombreuses régions pantropicales. En Haïti, cette espèce introduite s'est établie dans les zones de basse altitude des Départements du Sud et de la Grand'Anse, où elle colonise principalement les lisières forestières, les zones perturbées et les jardins. Sa capacité d'adaptation aux conditions tropicales humides lui permet de prospérer malgré un statut d'espèce rare dans la région. La plante préfère les sols bien drainés et supporte relativement bien la sécheresse temporaire."
+  },
+  "usages": {
+    "usages_ethnobotaniques": "Dans les Départements du Sud et de la Grand'Anse, Colubrina asiatica est utilisée principalement comme savon végétal pour nettoyer et soigner la peau. Les feuilles, les tiges et les racines sont employées selon les besoins thérapeutiques spécifiques. Le mode de préparation dominant consiste en une application par friction directe des parties végétales fraîches sur la peau, permettant de libérer les saponines responsables de l'effet moussant et des propriétés antimicrobiennes. Cette méthode d'utilisation correspond parfaitement aux usages traditionnels documentés dans d'autres régions tropicales où l'espèce est établie. Les propriétés cicatrisantes, anti-inflammatoires et analgésiques sont exploitées pour traiter diverses affections cutanées. En Asie, la plante est également utilisée comme poison de pêche, témoignant de la puissance de ses composés bioactifs, tandis que les recherches modernes s'intéressent à ses propriétés cytotoxiques.",
+    "systemes_concernes": "Cardiovasculaire"
+  },
+  "pharmacologie": {
+    "molecules": "La saveur douce à légèrement acide de Colubrina asiatica résulte de la présence d'acides organiques naturels, notamment l'acide malique et l'acide citrique, associés à des sucres simples comme le glucose et le fructose. Ces composés primaires, concentrés dans les tissus foliaires et les jeunes tiges, confèrent à la plante ses propriétés organoleptiques distinctives. Sur le plan nutritionnel, bien que non alimentaire, la plante renferme des glucides structuraux (cellulose, hémicellulose), des protéines végétales de base et des traces de lipides. Les microéléments supposés incluent le potassium (K), le magnésium (Mg), le calcium (Ca), le fer (Fe) et le zinc (Zn), bien que des données quantitatives précises fassent défaut pour cette espèce. Les principaux composés secondaires identifiés dans C. asiatica comprennent : des saponines triterpéniques responsables des propriétés moussantes et antimicrobiennes, des flavonoïdes (quercétine, kaempférol) aux propriétés antioxydantes et anti-inflammatoires, des tanins condensés et hydrolysables conférant l'astringence et l'activité antimicrobienne, des alcaloïdes dont la nature exacte reste à préciser, et des terpénoïdes volatils. Des études ont montré que les extraits de feuilles présentent une activité cytotoxique significative, attribuée principalement aux saponines et aux alcaloïdes (opensiuc.lib.siu). Ces composés remplissent des fonctions de défense essentielles pour la plante. Les saponines, concentrées dans l'écorce et les feuilles, découragent les herbivores par leur goût amer et leurs effets irritants sur les muqueuses. Les tanins protègent contre les pathogènes fongiques et bactériens en précipitant leurs protéines. Les flavonoïdes assurent une protection contre les rayonnements UV et le stress oxydatif. Ces mêmes composés, une fois appliqués sur la peau humaine par friction, produisent les effets biologiques documentés : activité antimicrobienne, anti-inflammatoire et cicatrisante, bien que les observations restent principalement issues d'études in vitro et d'enquêtes ethnobotaniques.",
+    "posologie": "Les enquêtes ethnobotaniques décrivent l'utilisation d'une infusion de feuilles à environ 5 g/L, administrée 1 à 2 fois par jour pour les applications internes. Cependant, aucune posologie cliniquement validée n'est disponible pour Colubrina asiatica. L'usage traditionnel privilégie l'application externe par friction, dont la fréquence et l'intensité ne sont pas standardisées. L'absence d'études cliniques contrôlées limite la définition de protocoles thérapeutiques précis. Les praticiens traditionnels adaptent généralement les modalités d'usage selon la gravité des symptômes et la réponse individuelle des patients."
+  },
+  "nutrition": {
+    "introduction": "Colubrina asiatica (L.) (syn. Ceanothus asiaticus L.) est une liane exotique pantropicale introduite, documentée dans les Départements du Sud et de la Grand'Anse où elle est devenue rare. Elle appartient à la famille des Rhamnacées, une famille principalement constituée de lianes et d'arbres reconnue pour ses importants usages médicinaux et sa signature phytochimique dominée par les saponines, tanins, acides triterpéniques et flavonoïdes, ciblant préférentiellement les systèmes cutané et buccal. Il convient de noter que certaines espèces de cette famille renferment des principes actifs très puissants ou potentiellement toxiques exigeant une préparation adéquate ou un dosage strict. Au sein de cette famille, Colubrina asiatica fait partie du genre Colubrina, qui regroupe une vingtaine d'espèces de lianes et d'arbrisseaux tropicaux, dont plusieurs sont utilisées traditionnellement comme savons végétaux en raison de leur richesse en saponines. Cette espèce est principalement utilisée à des fins médicinales dans les deux départements, particulièrement pour les soins de la peau par friction."
+  },
+  "toxicologie": {
+    "niveau": "",
+    "details": "Colubrina asiatica présente un niveau de toxicité généralement faible dans les conditions d'usage traditionnel externe. Cependant, un surdosage peut provoquer des diarrhées et des irritations gastriques en raison de la présence de saponines et de tanins. L'absence de données toxicologiques détaillées impose une prudence particulière chez les femmes enceintes et allaitantes, ainsi que chez les personnes souffrant de pathologies rénales ou hépatiques. L'usage en Asie comme poison de pêche rappelle que des concentrations élevées peuvent avoir des effets systémiques significatifs. Il convient d'éviter l'ingestion de grandes quantités et de surveiller les réactions cutanées lors des premières applications."
+  },
+  "conservation": {
+    "menaces": "Bien qu'exotique, C. asiatica nécessite un contrôle de son potentiel invasif plutôt que des mesures de conservation strictes. Sa rareté actuelle dans les Départements du Sud et de la Grand'Anse suggère que l'espèce ne pose pas de menace écologique immédiate aux écosystèmes locaux. Cependant, une surveillance de son expansion est recommandée pour prévenir d'éventuels impacts sur la biodiversité native. La gestion équilibrée de cette espèce doit concilier ses usages médicinaux locaux avec la protection des habitats naturels.",
+    "valeur": "La valeur économique de C. asiatica reste limitée au niveau local, principalement liée à ses usages médicinaux traditionnels. Contrairement à d'autres espèces de Rhamnacées exploitées commercialement, cette espèce ne fait l'objet d'aucun commerce international significatif. Son potentiel économique pourrait résider dans le développement de produits cosmétiques naturels exploitant ses propriétés nettoyantes et antimicrobiennes, mais cela nécessiterait des études de développement et une production contrôlée."
+  },
+  "recherche": {
+    "nb_articles": "~100 (estimation)",
+    "details": "Les recherches sur Colubrina asiatica, estimées à environ 100 publications, se concentrent principalement sur l'identification de ses composés bioactifs et l'évaluation de leurs propriétés cytotoxiques. Les perspectives de recherche incluent l'élucidation complète de ses mécanismes d'action, l'standardisation des extraits pour des applications thérapeutiques, et l'évaluation de son potentiel dans le développement de nouveaux antimicrobiens naturels. Des études cliniques contrôlées seraient nécessaires pour valider scientifiquement les usages traditionnels et établir des protocoles thérapeutiques sûrs et efficaces.",
+    "lien_pubmed": "https://pubmed.ncbi.nlm.nih.gov/?term=Colubrina+asiatica",
+    "lien_scholar": "https://scholar.google.com/scholar?q=Colubrina+asiatica",
+    "lien_tramil": "https://www.tramil.net/en/plant/colubrina-asiatica"
+  },
+  "references": "PubMed — https://pubmed.ncbi.nlm.nih.gov/?term=Colubrina+asiatica Google Scholar — https://scholar.google.com/scholar?q=Colubrina+asiatica TRAMIL — https://www.tramil.net/en/plant/colubrina-asiatica opensiuc.lib.siu — Étude des composés bioactifs et activité cytotoxique",
+  "aRetenir": "🟢 À retenir — Lyan : est utilisee en medecine traditionnelle avec un bon profil de securite aux doses courantes. Les usages presentes reposent sur des donnees ethnobotaniques et scientifiques publiees, mais ne constituent pas une prescription. Consulter un professionnel de sante avant tout usage therapeutique. Les auteurs declinent toute responsabilite quant a un usage inapproprie.",
+  "images": {
+    "principale": "images/742_Colubrina_asiatica-001.jpg",
+    "galerie": [
+      "images/742_Colubrina_asiatica-001.jpg"
+    ]
+  },
+  "source": "plantes_full.json"
+}

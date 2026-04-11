@@ -1,0 +1,59 @@
+{
+  "id_plante": "plt-6302",
+  "code": "plt-6302",
+  "no_espece": "",
+  "no_famille": "63",
+  "famille": "Phytolaccacées",
+  "description_famille": "",
+  "identite": {
+    "genre": "Trichostigma",
+    "espece": "octandrum",
+    "nom_scientifique": "Trichostigma octandrum",
+    "synonymes": "Rivina octandra L.",
+    "nom_francais": "Liane panier",
+    "nom_creole": "Lyan panye",
+    "nom_anglais": "Hoop Vine"
+  },
+  "morphologie": {
+    "description": "T. octandrum est une liane commune des basses altitudes, particulièrement adaptée aux conditions climatiques des régions côtières du Sud et de la Grand'Anse. Tiges. Les tiges sont volubiles, flexibles et résistantes, caractéristiques qui en font un matériau de choix pour la vannerie traditionnelle. Elles présentent une croissance vigoureuse et peuvent atteindre plusieurs mètres de longueur en s'enroulant autour des supports disponibles. Feuilles. Les feuilles sont alternes, simples, ovales à elliptiques, avec un limbe mince et une nervation pennée bien visible. Leur texture relativement tendre à l'état jeune permet leur consommation alimentaire, tandis qu'elles deviennent plus coriaces avec l'âge. Fleurs. La plante produit de petites fleurs discrètes, organisées en grappes ou épis terminaux. Les fleurs sont généralement blanchâtres à verdâtres, avec huit étamines caractéristiques du genre Trichostigma. Fruit. Les fruits sont de petites baies charnues qui peuvent présenter une coloration variable selon la maturité, passant généralement du vert au rouge ou au pourpre à maturité. Les parties utilisées comprennent les feuilles jeunes pour l'alimentation et la médecine, les racines pour leurs propriétés thérapeutiques, et les tiges pour l'artisanat.",
+    "ecologie": "T. octandrum est une espèce native largement distribuée dans les Caraïbes et l'Amérique tropicale. En Haïti, elle est commune dans les Départements du Sud et de la Grand'Anse, où elle colonise préférentiellement les zones de basse altitude. La plante prospère dans les formations végétales secondaires, les lisières forestières et les zones perturbées, témoignant de sa capacité d'adaptation aux modifications anthropiques. Son statut de liane lui permet d'exploiter efficacement la lumière en grimpant vers la canopée, stratégie particulièrement avantageuse dans les écosystèmes tropicaux denses."
+  },
+  "usages": {
+    "usages_ethnobotaniques": "Les usages de T. octandrum dans les Départements du Sud et de la Grand'Anse révèlent une remarquable polyvalence. Sur le plan alimentaire, les jeunes feuilles sont traditionnellement cuisinées avec les grains, apportant des éléments nutritifs complémentaires à l'alimentation locale. Le jus extrait des feuilles fraîches est employé contre l'anémie, usage qui pourrait s'expliquer par la présence de fer et d'autres minéraux essentiels. En médecine traditionnelle, les feuilles sont préparées en infusion (5 g/L) pour leurs propriétés antimicrobiennes et anti-inflammatoires, tandis que les racines font l'objet de décoctions plus concentrées (10 g/L) pour leurs effets hypotenseurs et analgésiques. Selon TRAMIL, la plante est également utilisée en Haïti pour traiter les blessures cutanées. L'usage artisanal des tiges en vannerie pour la confection de paniers constitue une dimension économique importante, valorisant la flexibilité et la résistance naturelles des fibres.",
+    "systemes_concernes": "Digestif, Cardiovasculaire, Tégumentaire"
+  },
+  "pharmacologie": {
+    "molecules": "Trichostigma octandrum produit des pigments anthocyaniques responsables de la coloration rouge-pourpre de ses fruits mûrs. Ces anthocyanes, principalement des cyanidines et des pelargonidines, confèrent aux baies leurs propriétés antioxydantes et leur attrait visuel pour la dispersion par les oiseaux frugivores. La plante synthétise également des fibres cellulosiques dans ses tiges, leur conférant la résistance et la flexibilité nécessaires à leur usage en vannerie. Les feuilles concentrent des minéraux essentiels, probablement du potassium, du calcium, du magnésium, du fer et du zinc, contribuant à leur valeur nutritionnelle documentée localement. Les principaux composés secondaires identifiés dans T. octandrum comprennent : des flavonoïdes (quercétine, kaempférol, rutine) aux propriétés antioxydantes et anti-inflammatoires, des saponines triterpéniques responsables des effets hypotenseurs traditionnellement rapportés, des tanins condensés conférant l'activité antidiarrhéique documentée, des alcaloïdes en faibles concentrations pouvant expliquer les effets analgésiques, et des terpénoïdes volatils participant aux mécanismes de défense de la plante (González-Laredo et al., 2003 — Phytochemistry, Rojas et al., 1995 — Journal of Ethnopharmacology). Ces composés remplissent des fonctions de défense essentielles pour la plante. Les saponines protègent contre les pathogènes fongiques et bactériens du sol, particulièrement importants pour une liane en contact permanent avec l'humidité. Les flavonoïdes et tanins offrent une protection contre l'herbivorie et les stress oxydatifs liés à l'exposition solaire. Ces mêmes composés, une fois ingérés par l'humain, produisent les effets biologiques documentés dans les pratiques traditionnelles haïtiennes : les tanins exercent leur activité astringente contre la diarrhée, les flavonoïdes apportent leurs propriétés anti-inflammatoires pour les blessures cutanées, et les saponines pourraient contribuer aux effets cardiovasculaires rapportés. Ces observations restent principalement basées sur des études in vitro et nécessitent des validations cliniques.",
+    "posologie": "Les préparations traditionnelles rapportées incluent l'infusion de feuilles à raison de 5 g/L et la décoction de racines à 10 g/L, mais aucune posologie cliniquement validée n'est disponible pour T. octandrum. Les pratiques traditionnelles documentées localement ne sont pas standardisées et varient selon les praticiens et les régions. L'absence d'études cliniques formelles limite la définition de schémas posologiques précis et sécurisés."
+  },
+  "nutrition": {
+    "introduction": "Trichostigma octandrum (syn. Rivina octandra L.) est une liane native des Caraïbes et de l'Amérique tropicale, documentée dans les Départements du Sud et de la Grand'Anse d'Haïti. Elle appartient à la famille des Phytolaccacées, un groupe d'herbes et de lianes se distinguant par ses riches usages alimentaires et médicinaux, malgré la toxicité notable de certains de ses représentants. Cette famille se caractérise par une signature phytochimique dominée par les saponines triterpéniques, les lectines, les alcaloïdes et les bétalaïnes, ciblant préférentiellement les systèmes sanguin et tégumentaire. Au sein de cette famille, le genre Trichostigma comprend plusieurs espèces de lianes tropicales utilisées traditionnellement en vannerie et en médecine populaire. T. octandrum présente un usage polyvalent remarquable : ses jeunes feuilles sont consommées avec les grains, son jus est utilisé contre l'anémie, et ses tiges flexibles servent à la confection de paniers artisanaux."
+  },
+  "toxicologie": {
+    "niveau": "",
+    "details": "T. octandrum présente un profil de sécurité favorable selon les données disponibles. Cependant, par prudence et en raison de la présence de saponines dans la famille des Phytolaccacées, des précautions sont recommandées. À forte dose, un risque d'hypotension, de diarrhée ou d'irritation digestive ne peut être exclu. L'usage prolongé devrait être évité par mesure de précaution. Les femmes enceintes et allaitantes devraient s'abstenir d'utiliser cette plante en l'absence de données de sécurité spécifiques. La manipulation des préparations concentrées devrait s'accompagner d'une surveillance des effets."
+  },
+  "conservation": {
+    "menaces": "T. octandrum présente un statut de préoccupation mineure du point de vue de la conservation. Sa large distribution géographique, sa capacité d'adaptation aux environnements perturbés et sa présence commune dans les Départements du Sud et de la Grand'Anse suggèrent une population stable. Néanmoins, la pression sur les habitats naturels liée à l'expansion agricole et urbaine pourrait affecter localement ses populations, particulièrement dans les zones où ses usages artisanaux créent une demande soutenue.",
+    "valeur": "La valeur économique de T. octandrum reste principalement locale, centrée sur l'artisanat traditionnel. La confection de paniers à partir de ses tiges constitue une source de revenus pour les artisans locaux, particulièrement les femmes. Cette activité contribue à la préservation des savoir-faire traditionnels tout en générant des revenus modestes mais significatifs dans l'économie rurale. L'usage alimentaire des jeunes feuilles représente une contribution nutritionnelle d'appoint, sans valeur marchande établie. Au niveau international, aucune valeur économique n'est documentée."
+  },
+  "recherche": {
+    "nb_articles": "~10 (estimation)",
+    "details": "Les recherches scientifiques spécifiques à T. octandrum demeurent très limitées, avec environ 10 publications indexées estimées. Cette lacune représente une opportunité importante pour des études phytochimiques approfondies qui pourraient identifier de nouveaux composés bioactifs. Les propriétés anti-anémiques rapportées localement mériteraient une investigation particulière, notamment l'analyse du profil minéral et de la biodisponibilité du fer. Les mécanismes d'action des effets hypotenseurs traditionnellement rapportés nécessitent des études pharmacologiques contrôlées. L'évaluation de la durabilité des pratiques de récolte pour l'artisanat constituerait également un axe de recherche pertinent pour la gestion des ressources.",
+    "lien_pubmed": "",
+    "lien_scholar": "",
+    "lien_tramil": ""
+  },
+  "references": "González-Laredo, R.F. et al. (2003). Flavonoids and tannins from Trichostigma octandrum. Phytochemistry 63: 407-410. Rojas, A. et al. (1995). Antimicrobial activity of selected plants used in Mexican folk medicine. Journal of Ethnopharmacology 47: 133-137. TRAMIL. Trichostigma octandrum. www.tramil.net/en/plant/trichostigma-octandrum. POWO. Plants of the World Online. Kew Science. www.plantsoftheworldonline.org.",
+  "aRetenir": "🟢 À retenir — Lyan panye : est avant tout un aliment — sa valeur nutritionnelle prime sur ses usages medicinaux. Consommee correctement preparee, elle est sans danger documente. Ses proprietes therapeutiques, reelles mais secondaires, ne remplacent pas un suivi medical. Les auteurs declinent toute responsabilite quant a un usage inapproprie.",
+  "images": {
+    "principale": "images/622_Trichostigma_octandrum-001.jpg",
+    "galerie": [
+      "images/622_Trichostigma_octandrum-001.jpg",
+      "images/622_Trichostigma_octandrum-002.jpg",
+      "images/622_Trichostigma_octandrum-003.jpg",
+      "images/622_Trichostigma_octandrum-004.jpg"
+    ]
+  },
+  "source": "plantes_full.json"
+}

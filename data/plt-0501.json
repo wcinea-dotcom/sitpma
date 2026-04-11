@@ -1,0 +1,56 @@
+{
+  "id_plante": "plt-0501",
+  "code": "plt-0501",
+  "no_espece": "",
+  "no_famille": "5",
+  "famille": "Amaryllidacées",
+  "description_famille": "Les Amaryllidacées constituent une famille cosmopolite de près de 1 600 espèces réparties en 75 genres, principalement représentées par des herbes bulbeuses ou rhizomateuses. Cette famille regroupe des genres alimentaires majeurs comme Allium (ail, oignon, poireau, ciboulette) qui constituent des épices fondamentales de la gastronomie mondiale, ainsi que des genres médicinaux traditionnels utilisés pour leurs propriétés respiratoires et digestives. Plusieurs genres — notamment Galanthus, Narcissus et Hippeastrum — sont cultivés comme plantes ornementales pour leurs fleurs spectaculaires. Sur le plan phytochimique, la famille se distingue par une signature dominée par la quercétine, les composés organosoufrés, les fructanes et la vitamine C, ciblant préférentiellement les systèmes digestif, respiratoire et urinaire. Une vigilance particulière s'impose car certains genres ornementaux — notamment Hippeastrum — renferment des alcaloïdes puissants comme la lycorine, exigeant une attention stricte quant aux confusions possibles avec les espèces alimentaires.",
+  "identite": {
+    "genre": "Allium",
+    "espece": "cepa",
+    "nom_scientifique": "Allium cepa L.",
+    "synonymes": "Cepa vulgaris",
+    "nom_francais": "Oignon",
+    "nom_creole": "Zonyon",
+    "nom_anglais": "Onion"
+  },
+  "morphologie": {
+    "description": "A. cepa est une herbe à bulbe, généralement cultivée comme plante annuelle bien que botaniquement bisannuelle, pouvant atteindre 75 à 100 cm de hauteur lors de la floraison (POWO, Kew Science). Le bulbe constitue l'organe central et distinctif : arrondi à ovoïde, formé de couches charnues concentriques et enveloppé d'une tunique sèche protectrice de couleur variable selon la variété. Les feuilles sont cylindriques, creuses (fistuleuses), dressées, de couleur vert glauque, émergeant directement du bulbe. La deuxième année, la plante produit une hampe florale terminée par une ombelle sphérique composée de nombreuses petites fleurs blanches à six tépales. Le fruit est une petite capsule contenant des graines noires anguleuses. Les parties utilisées sont principalement le bulbe et occasionnellement les feuilles jeunes.",
+    "ecologie": "Originaire d'Asie centrale, A. cepa est aujourd'hui cultivé dans toutes les régions tempérées et tropicales du monde. Dans les Départements du Sud et de la Grand'Anse, sa culture demeure limitée, expliquant son statut de \"rare production\" dans l'inventaire local. L'espèce s'adapte aux climats tropicaux d'altitude moyenne mais nécessite des conditions de culture spécifiques pour former des bulbes de qualité. Sa distribution pantropicale témoigne de son importance économique et alimentaire mondiale, bien que sa production locale reste confidentielle en Haïti."
+  },
+  "usages": {
+    "usages_ethnobotaniques": "Dans le Sud et la Grand'Anse, l'usage de l'oignon est documenté comme alimentaire et médicinal. Le bulbe constitue une épice de base de la cuisine haïtienne, utilisé cru ou cuit dans de nombreuses préparations culinaires. En médecine traditionnelle locale, on utilise le bulbe en sirop contre la toux, les rhumes et la fièvre. Les préparations incluent des sirops à base d'oignon et de miel, utilisés de manière empirique pour les affections respiratoires. L'usage comme soutien de la tension artérielle et hypocholestérolémiant léger est également documenté localement. Les feuilles jeunes peuvent être consommées comme légumes verts. Dans la région caribéenne, TRAMIL documente son usage en Dominique pour l'hypertension, confirmant une utilisation régionale cohérente.",
+    "systemes_concernes": "Digestif, Respiratoire, Cardiovasculaire"
+  },
+  "pharmacologie": {
+    "molecules": "L'oignon provoque une réaction chimique spectaculaire dès que le couteau le tranche : ses cellules libèrent une enzyme qui transforme en quelques secondes des molécules soufrées inodores en composés volatils lacrymogènes, un système de défense instantané contre les herbivores. Ce qui rend l'oignon remarquable, c'est la nature de ses molécules de défense : des composés organosoufrés volatils produits lors d'une rupture des tissus. Ces composés, issus de la dégradation enzymatique des S-alk(én)yl-L-cystéine sulfoxydes, constituent un mécanisme de défense chimique contre les ravageurs et la source de l'odeur caractéristique. Les principaux composés secondaires incluent des flavonoïdes (particulièrement la quercétine), des saponines, des thiosulfinates, des sulfures organiques et d'autres polyphénols. Sur le plan nutritionnel, l'oignon apporte vitamine C, fibres, fructanes et oligo-éléments comme le potassium, calcium, magnésium et fer.",
+    "posologie": "L'usage alimentaire représente environ 5 à 50 g de bulbe par jour dans l'alimentation normale. Pour les applications médicinales, les sirops oignon-miel sont utilisés de manière empirique sans posologie standardisée dans la tradition locale. Les études cliniques utilisent généralement des extraits standardisés ou des doses alimentaires normales. L'absence de posologie médicinale standardisée reflète l'usage principalement alimentaire et domestique de la plante."
+  },
+  "nutrition": {
+    "introduction": "Allium cepa L. (syn. Cepa vulgaris) est une herbe bisannuelle exotique, cultivée dans les Départements du Sud et de la Grand'Anse. Elle appartient à la famille des Amaryllidacées, reconnue pour ses riches usages alimentaires et médicinaux. Au sein de cette famille, Allium cepa fait partie du genre Allium, qui regroupe plusieurs espèces à fort potentiel culinaire et thérapeutique — dont l'ail (Allium sativum) et la ciboulette — toutes caractérisées par leurs composés organosoufrés volatils responsables de leur odeur et de leurs propriétés biologiques. L'oignon constitue l'une des épices de base de la cuisine haïtienne et un remède domestique très utilisé dans les deux départements, documenté dans le Sud et la Grand'Anse pour ses applications respiratoires et cardiovasculaires."
+  },
+  "toxicologie": {
+    "niveau": "",
+    "details": "L'oignon présente un excellent profil de sécurité aux doses alimentaires normales. Une prudence est recommandée en cas de troubles digestifs préexistants ou d'allergie connue aux Alliacées. Une interaction théorique avec les anticoagulants à très haute consommation est mentionnée dans la littérature, bien que peu documentée cliniquement. Les femmes enceintes et allaitantes peuvent consommer l'oignon aux doses alimentaires habituelles. Aucune toxicité significative n'est rapportée aux doses thérapeutiques traditionnelles."
+  },
+  "conservation": {
+    "menaces": "La production locale limitée dans les Départements du Sud et de la Grand'Anse représente un défi pour la sécurité alimentaire régionale. La conservation des variétés locales adaptées au climat tropical constitue une priorité, notamment face aux changements climatiques. Le développement de techniques de culture appropriées aux conditions locales pourrait améliorer l'autonomie alimentaire régionale.",
+    "valeur": "Mondialement, l'oignon représente l'un des légumes les plus importants économiquement, avec une production annuelle dépassant 100 millions de tonnes. Localement, sa valeur reste principalement alimentaire comme condiment, mais le potentiel de développement d'une production commerciale existe. L'importation représente actuellement la source principale d'approvisionnement, créant une dépendance économique évitable."
+  },
+  "recherche": {
+    "nb_articles": "~10 000 (estimation)",
+    "details": "Avec environ 10 000 publications scientifiques référencées sur PubMed, A. cepa figure parmi les plantes les plus étudiées. Les recherches actuelles se concentrent sur ses propriétés anticancéreuses, ses effets cardiovasculaires et ses applications en nutraceutiques. Des études récentes explorent ses propriétés prébiotiques liées aux fructanes. Le développement de variétés adaptées aux tropiques et l'optimisation des techniques de culture locale représentent des perspectives d'avenir pour Haïti.",
+    "lien_pubmed": "https://pubmed.ncbi.nlm.nih.gov/?term=Allium+cepa",
+    "lien_scholar": "",
+    "lien_tramil": "https://www.tramil.net/en/plant/allium-cepa"
+  },
+  "references": "Abdel-Raheem et al. (2023). Allium cepa L. therapeutic properties: A comprehensive review. Food Chemistry. DOI: 10.1016/j.foodchem.2023.135847. PubMed: https://pubmed.ncbi.nlm.nih.gov/?term=Allium+cepa TRAMIL. Allium cepa. https://www.tramil.net/en/plant/allium-cepa",
+  "aRetenir": "🟢 À retenir — Zonyon : est avant tout un aliment — sa valeur nutritionnelle prime sur ses usages medicinaux. Consommee correctement preparee, elle est sans danger documente. Ses proprietes therapeutiques, reelles mais secondaires, ne remplacent pas un suivi medical. Les auteurs declinent toute responsabilite quant a un usage inapproprie.",
+  "images": {
+    "principale": "images/51_Allium_cepa-001.jpg",
+    "galerie": [
+      "images/51_Allium_cepa-001.jpg"
+    ]
+  },
+  "source": "plantes_full.json"
+}

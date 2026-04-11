@@ -1,0 +1,57 @@
+{
+  "id_plante": "plt-2502",
+  "code": "plt-2502",
+  "no_espece": "",
+  "no_famille": "25",
+  "famille": "Calophyllacées",
+  "description_famille": "",
+  "identite": {
+    "genre": "Mammea",
+    "espece": "americana",
+    "nom_scientifique": "Mammea americana L.",
+    "synonymes": "Mammea asiatica",
+    "nom_francais": "Abricotier pays",
+    "nom_creole": "Abriko",
+    "nom_anglais": "Mammee Apple"
+  },
+  "morphologie": {
+    "description": "M. americana est un grand arbre tropical pouvant atteindre 15 à 20 mètres de hauteur, particulièrement adapté aux basses altitudes des Départements du Sud et de la Grand'Anse où il est abondant. Tronc et écorce. Le tronc est droit et robuste, recouvert d'une écorce brunâtre rugueuse qui sécrète une résine laiteuse blanchâtre lorsqu'elle est entaillée — caractéristique défensive typique des Calophyllacées. Feuilles. Les feuilles sont opposées, simples, coriaces et persistantes, de forme elliptique à obovale, mesurant 15 à 25 cm de longueur. Leur surface est vert foncé brillant au-dessus, plus pâle en dessous, avec des nervures parallèles bien marquées. Fleurs. Les fleurs sont petites, blanches à blanc-crème, regroupées en fascicules axillaires. Elles sont généralement unisexuées, les arbres étant dioïques (pieds mâles et femelles séparés). Fruits. Le fruit est une baie globuleuse de 10 à 20 cm de diamètre, à peau rugueuse brun-jaunâtre. La pulpe est orange vif, juteuse et parfumée, entourant une à quatre grosses graines toxiques. Le fruit mûr dégage un arôme caractéristique et sa saveur est âcre mais appréciée localement. Les parties utilisées sont principalement les fruits pour l'alimentation, et les graines broyées pour leurs propriétés antiparasitaires.",
+    "ecologie": "M. americana est originaire des Caraïbes et de l'Amérique tropicale, où il s'est naturellement établi dans les forêts humides de basse altitude. Dans les Départements du Sud et de la Grand'Anse, l'espèce est abondante et bien adaptée aux conditions climatiques locales. L'arbre préfère les sols profonds, bien drainés et riches en matière organique. Sa reproduction s'effectue principalement par graines, disséminées par les chauves-souris frugivores et autres mammifères attirés par la pulpe sucrée du fruit."
+  },
+  "usages": {
+    "usages_ethnobotaniques": "L'usage alimentaire domine : le fruit mûr est consommé frais après épluchage, en évitant soigneusement les graines toxiques. La pulpe peut être transformée en jus ou intégrée dans des préparations culinaires locales. L'usage antiparasitaire est également bien documenté dans le Sud et la Grand'Anse : les graines séchées et broyées sont appliquées directement sur le cuir chevelu pour éliminer les poux, pratique également rapportée par TRAMIL en Haïti. Les feuilles et l'écorce, préparées en infusions, sont utilisées traditionnellement pour leurs propriétés antimicrobiennes et anti-inflammatoires, bien que ces usages soient moins systématiques que la consommation du fruit et l'application antipoux.",
+    "systemes_concernes": "Nerveux, Tégumentaire"
+  },
+  "pharmacologie": {
+    "molecules": "Le fruit de M. americana se distingue par sa richesse en caroténoïdes — principalement le bêta-carotène responsable de sa couleur orange caractéristique — et en vitamine C, lui conférant des propriétés nutritionnelles remarquables. Les sucres naturels (glucose, fructose, saccharose) dominent sa composition énergétique, accompagnés de pectines qui donnent sa texture particulière à la pulpe. Le fruit contient également des quantités significatives de potassium, calcium et magnésium, avec des traces de fer et de zinc (Lim, 2012). Les principaux composés secondaires identifiés dans M. americana comprennent : des coumarines spécifiques (mammea A, mammea B, mammea C), des xanthones, des flavonoïdes, des tanins hydrolysables, des saponines triterpéniques et de la mamméine — un composé caractéristique du genre (Lemos et al., 2015 — DOI: 10.1016/j.foodchem.2014.12.069). Ces molécules se concentrent principalement dans l'écorce, les feuilles et les graines. Ces composés remplissent des fonctions de défense essentielles pour l'arbre. Les coumarines protègent contre les pathogènes fongiques et bactériens, particulièrement dans l'écorce vulnérable aux blessures. Les xanthones agissent comme répulsifs contre les insectes herbivores. Les tanins dans les feuilles découragent la consommation par les animaux. Ces mêmes composés, une fois utilisés par l'humain, produisent les effets biologiques documentés : activité antimicrobienne des coumarines, propriétés insecticides des xanthones dans les graines, et potentiel anti-inflammatoire des flavonoïdes. Cependant, les observations restent principalement issues d'études in vitro et nécessitent validation clinique.",
+    "posologie": "Aucune posologie cliniquement validée n'est disponible pour M. americana. Les pratiques traditionnelles documentées localement ne sont pas standardisées. Pour l'usage antipoux, l'application directe des graines broyées suit des protocoles empiriques variables selon les praticiens. Les infusions de feuilles et d'écorce rapportées en ethnomédecine ne disposent d'aucun référentiel posologique publié, limitant leur utilisation sécurisée à des fins thérapeutiques."
+  },
+  "nutrition": {
+    "introduction": "Mammea americana L. (syn. Mammea asiatica) est un arbre fruitier natif documenté dans les Départements du Sud et de la Grand'Anse. Il appartient à la famille des Calophyllacées, un groupe tropical principalement arboricole reconnu pour ses importantes ressources alimentaires et ses propriétés thérapeutiques. Au sein de cette famille, Mammea americana fait partie du genre Mammea, qui regroupe des arbres fruitiers tropicaux à forte valeur nutritive et médicinale. Son usage dominant dans la région est alimentaire — le fruit charnu étant largement consommé frais — complété par des applications antiparasitaires traditionnelles utilisant les graines broyées contre les poux."
+  },
+  "toxicologie": {
+    "niveau": "",
+    "details": "M. americana présente une toxicité conditionnelle principalement liée aux graines et à l'écorce. Les graines contiennent des concentrations élevées de coumarines et de saponines potentiellement toxiques à fortes doses, justifiant leur usage externe exclusivement. L'écorce peut également présenter une toxicité par accumulation de composés actifs. La prudence est recommandée pendant la grossesse et en cas de traitement hypoglycémiant, bien que les données soient limitées. Le fruit mûr, correctement consommé sans les graines, ne présente pas de toxicité documentée aux doses alimentaires habituelles."
+  },
+  "conservation": {
+    "menaces": "M. americana ne fait face à aucune menace particulière dans les Départements du Sud et de la Grand'Anse où l'espèce demeure abondante. Son potentiel de valorisation réside principalement dans le développement agroforestier, l'arbre pouvant contribuer à la diversification des systèmes agricoles locaux tout en fournissant des fruits nutritifs et des produits à usage thérapeutique. La préservation des populations naturelles reste importante pour maintenir la diversité génétique de l'espèce.",
+    "valeur": "La valeur économique de M. americana est double : locale par la consommation directe du fruit et l'usage antipoux des graines, et potentiellement internationale par le développement de marchés de fruits exotiques. Le fruit possède des qualités nutritionnelles intéressantes qui pourraient justifier une commercialisation élargie, tandis que les propriétés insecticides des graines offrent des perspectives dans le développement de biopesticides naturels. L'intégration agroforestière représente une opportunité économique durable pour les producteurs locaux."
+  },
+  "recherche": {
+    "nb_articles": "",
+    "details": "Les recherches sur M. americana, estimées à une centaine de publications, se concentrent principalement sur la caractérisation phytochimique et l'évaluation in vitro des activités biologiques. Les perspectives incluent la validation clinique des propriétés antimicrobiennes et anti-inflammatoires, l'optimisation des protocoles d'extraction des composés actifs, et le développement de formulations standardisées pour l'usage antiparasitaire. L'étude approfondie du potentiel nutritionnel du fruit et de sa conservation post-récolte constitue également un axe de recherche prioritaire.",
+    "lien_pubmed": "",
+    "lien_scholar": "",
+    "lien_tramil": ""
+  },
+  "references": "Lemos, T.L.G., et al. (2015). Chemical constituents and biological activities of Mammea americana L. Food Chemistry, 173, 1134-1140. DOI: 10.1016/j.foodchem.2014.12.069. Lim, T.K. (2012). Edible Medicinal and Non-Medicinal Plants: Volume 3, Fruits. Springer Science & Business Media. POWO (2024). Plants of the World Online. Facilitated by the Royal Botanic Gardens, Kew. http://www.plantsoftheworldonline.org/ TRAMIL (2024). Mammea americana. www.tramil.net/en/plant/mammea-americana",
+  "aRetenir": "🟡 À retenir — Abriko : est une plante a toxicite conditionnelle documentee. Respecter imperativement les precautions indiquees. Ne jamais ingerer les parties toxiques sans encadrement medical. Ces informations sont destinees a l'enseignement et a la documentation. Les auteurs declinent toute responsabilite quant a un usage inapproprie.",
+  "images": {
+    "principale": "images/252_Mammea_americana-001.jpg",
+    "galerie": [
+      "images/252_Mammea_americana-001.jpg",
+      "images/252_Mammea_americana-002.jpg"
+    ]
+  },
+  "source": "plantes_full.json"
+}

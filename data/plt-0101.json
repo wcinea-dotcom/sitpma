@@ -1,0 +1,58 @@
+{
+  "id_plante": "plt-0101",
+  "code": "plt-0101",
+  "no_espece": "",
+  "no_famille": "1",
+  "famille": "Acanthacées",
+  "description_famille": "Les Acanthacées constituent une famille tropicale et subtropicale de près de 4 000 espèces réparties en 250 genres, principalement représentée par des herbes, des arbustes et quelques lianes. Cette famille se distingue par d'importants usages médicinaux à travers le monde, particulièrement dans les pharmacopées traditionnelles d'Afrique, d'Asie et d'Amérique tropicale. Les genres alimentaires sont rares dans cette famille, à l'exception de quelques espèces de Justicia utilisées comme légumes-feuilles en Afrique. Les genres médicinaux principaux incluent Andrographis (chirette verte), Justicia, Ruellia et Barleria, largement employés contre les troubles digestifs, urinaires et inflammatoires. Sur le plan ornemental, de nombreuses espèces sont cultivées pour leurs fleurs colorées. La signature phytochimique commune comprend des flavonoïdes (apigénine, lutéoline), des iridoïdes, des acanthosides et des composés phénoliques, ciblant préférentiellement les systèmes digestif et urinaire. Certaines espèces renferment des principes actifs puissants exigeant une préparation adéquate, bien que la famille soit généralement non toxique aux doses usuelles.",
+  "identite": {
+    "genre": "Ruellia",
+    "espece": "tuberosa",
+    "nom_scientifique": "Ruellia tuberosa L.",
+    "synonymes": "Cryphiacanthus barbadensis",
+    "nom_francais": "Ruellie tubéreuse",
+    "nom_creole": "Pèpèt",
+    "nom_anglais": ""
+  },
+  "morphologie": {
+    "description": "R. tuberosa est une herbe vivace de basse altitude, facilement reconnaissable par ses caractéristiques morphologiques distinctives (POWO, Kew Science , World Flora Online, 2026). Racines. Le système racinaire comprend des racines tubérisées — d'où l'épithète spécifique « tuberosa » — qui constituent des organes de réserve permettant à la plante de survivre aux périodes de sécheresse. Ces racines charnues sont également la partie la plus utilisée en médecine traditionnelle. Tiges. Les tiges sont herbacées, dressées, pouvant atteindre 60 à 100 cm de hauteur, souvent ramifiées et légèrement poilues. Feuilles. Les feuilles sont opposées, simples, ovales à elliptiques, de couleur vert foncé, avec des nervures bien marquées. Elles dégagent une odeur légèrement herbacée au froissement. Fleurs. Les fleurs sont tubulaires, de couleur violette à bleue, disposées en épis terminaux ou axillaires. Elles présentent la structure caractéristique des Acanthacées avec une corolle bilabiée. Fruit. Le fruit est une capsule qui s'ouvre de manière explosive à maturité, propulsant les graines à distance — mécanisme de dispersion typique de la famille. Les parties utilisées sont principalement les racines, les feuilles et les tiges.",
+    "ecologie": "R. tuberosa est une espèce native d’Amérique tropicale, largement distribuée dans les Caraïbes. En Haïti, elle colonise préférentiellement les zones perturbées de basse altitude, les bords de chemins et les terrains vagues, démontrant une remarquable capacité d’adaptation aux conditions anthropisées. Sa résistance à la sécheresse, grâce à ses racines tubérisées, lui permet de prospérer dans des environnements où d’autres espèces peinent à survivre. Cette robustesse écologique explique son statut de « Préoccupation mineure » sur le plan conservatoire et sa large distribution géographique."
+  },
+  "usages": {
+    "usages_ethnobotaniques": "Dans les Départements du Sud et de la Grand’Anse, R. tuberosa est documentée comme plante médicinale sous le nom créole de « Pèpèt ». Les praticiens locaux préparent une infusion des feuilles pour soulager les gaz intestinaux et « nettoyer les reins ». Les racines, feuilles et tiges sont utilisées selon les cas, principalement sous forme d’infusion. Les usages traditionnels comprennent le traitement des troubles urinaires, l’effet diurétique, les propriétés antidiabétiques, les effets anti-inflammatoires, le soulagement de la fièvre et des douleurs musculaires. Dans la pharmacopée TRAMIL, l’espèce est documentée en Martinique pour les affections des reins et de la vessie (www.tramil.net). Au niveau international, elle est utilisée au Suriname et en Inde contre les calculs rénaux et le diabète.",
+    "systemes_concernes": "Digestif, Urinaire"
+  },
+  "pharmacologie": {
+    "molecules": "Dans les régions tropicales humides d'Amérique, R. tuberosa a développé un arsenal chimique sophistiqué pour prospérer dans des environnements hautement compétitifs. Les principaux composés secondaires identifiés dans R. tuberosa comprennent des flavonoïdes (notamment la cirsimariline), des triterpènes (lupéol), des stérols (sitostérol), des saponines, des tanins et des alcaloïdes. Ces molécules remplissent des fonctions de défense précises pour la plante. Les flavonoïdes protègent contre les rayonnements UV et les pathogènes, tout en conférant les propriétés antioxydantes documentées scientifiquement. Les saponines créent une mousse amère qui dissuade les herbivores tout en contribuant aux effets diurétiques observés. Les triterpènes et les stérols renforcent l'intégrité des membranes cellulaires et participent aux mécanismes de défense contre les stress abiotiques. Sur le plan des microéléments, la plante accumule du potassium, du calcium et du magnésium, éléments qui contribuent probablement à ses effets sur l'équilibre hydro-électrolytique.",
+    "posologie": "Les données de posologie clinique standardisée chez l’humain font défaut pour R. tuberosa. Les études expérimentales rapportent l’ utilisation de 250 à 500 mg/kg d’extrait hydro-éthanolique chez le rat, mais ces doses animales ne peuvent être directement extrapolées à l’ usage humain. Les préparations traditionnelles utilisent généralement des infusions de feuilles ou de racines, sans dosage précisément standardisé. Cette lacune constitue un obstacle important à la validation clinique des usages traditionnels et souligne la nécessité d’études de pharmacocinétique et de toxicologie chez l’humain."
+  },
+  "nutrition": {
+    "introduction": "Ruellia tuberosa L. (syn. Cryphiacanthus barbadensis) est une herbe vivace native, commune dans les Départements du Sud et de la Grand’Anse. Elle appartient à la famille des Acanthacées, une grande famille tropicale principalement composée d’herbes et d’arbustes, reconnue pour ses importants usages médicinaux. Cette famille se distingue par une signature phytochimique dominée par les flavonoïdes, les iridoïdes et les composés phénoliques, ciblant préférentiellement les systèmes digestif et urinaire. Au sein de cette famille, Ruellia tuberosa fait partie du genre Ruellia, qui regroupe plus de 250 espèces d’herbes tropicales, dont plusieurs sont utilisées en médecine traditionnelle pour leurs propriétés diurétiques et anti-inflammatoires. L’espèce est documentée dans le Sud et la Grand’Anse comme plante médicinale, particulièrement appréciée pour ses effets sur les reins et le système urinaire."
+  },
+  "toxicologie": {
+    "niveau": "",
+    "details": "Ruellia tuberosa présente un profil de sécurité favorable, sans toxicité documentée aux doses usuelles d’ utilisation traditionnelle. Cependant, la prudence reste recommandée chez les femmes enceintes et les personnes souffrant d’insuffisance rénale sévère, en raison des effets diurétiques et sur la glycémie démontrés principalement chez l’animal. L’absence de données toxicologiques complètes chez l’humain impose une vigilance particulière lors d’ utilisations prolongées ou à doses élevées. Les interactions médicamenteuses potentielles avec les traitements antidiabétiques ou diurétiques conventionnels n’ont pas été étudiées."
+  },
+  "conservation": {
+    "menaces": "R. tuberosa bénéficie d’ un statut de conservation favorable, classée en « Préoccupation mineure » en raison de sa large distribution et de sa remarquable résistance écologique. Sa capacité d’adaptation aux milieux perturbés et sa croissance rapide lui permettent de maintenir des populations stables. Aucune menace significative ne pèse actuellement sur l’espèce dans les Départements du Sud et de la Grand’Anse.",
+    "valeur": "Sur le plan local, R. tuberosa possède une valeur médicinale reconnue comme remède populaire dans les pharmacopées traditionnelles haïtiennes et caribéennes. Internationalement, elle présente un potentiel ornemental grâce à ses fleurs colorées et sa facilité de culture. Le développement d’extraits standardisés pour l’industrie nutraceutique pourrait représenter une opportunité économique, sous réserve de validation clinique des propriétés antidiabétiques et diurétiques."
+  },
+  "recherche": {
+    "nb_articles": "~500 (estimation)",
+    "details": "Environ 500 publications scientifiques référencent R. tuberosa dans la littérature internationale, témoignant d’ un intérêt scientifique soutenu. Les priorités de recherche incluent l’élucidation des mécanismes diurétiques, les études de toxicologie et pharmacocinétique chez l’humain, et les essais cliniques contrôlés pour valider les usages antidiabétiques. L’identification et la quantification des principes actifs responsables des effets biologiques restent également des axes d’investigation prioritaires.",
+    "lien_pubmed": "https://pubmed.ncbi.nlm.nih.gov/?term=Ruellia+tuberosa",
+    "lien_scholar": "",
+    "lien_tramil": "https://www.tramil.net/en/plant/ruellia-tuberosa"
+  },
+  "references": "PubMed : https://pubmed.ncbi.nlm.nih.gov/?term=Ruellia+tuberosa TRAMIL : https://www.tramil.net/en/plant/ruellia-tuberosa POWO, Kew Science : Plants of the World Online World Flora Online, 2026",
+  "aRetenir": "🟢 À retenir — Pèpèt : est utilisee en medecine traditionnelle avec un bon profil de securite aux doses courantes. Les usages presentes reposent sur des donnees ethnobotaniques et scientifiques publiees, mais ne constituent pas une prescription. Consulter un professionnel de sante avant tout usage therapeutique. Les auteurs declinent toute responsabilite quant a un usage inapproprie.",
+  "images": {
+    "principale": "images/11_Ruellia_tuberosa-001.jpg",
+    "galerie": [
+      "images/11_Ruellia_tuberosa-001.jpg",
+      "images/11_Ruellia_tuberosa-002.jpg",
+      "images/11_Ruellia_tuberosa-003.jpg"
+    ]
+  },
+  "source": "plantes_full.json"
+}

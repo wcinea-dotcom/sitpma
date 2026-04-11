@@ -1,0 +1,57 @@
+{
+  "id_plante": "plt-8505",
+  "code": "plt-8505",
+  "no_espece": "",
+  "no_famille": "85",
+  "famille": "Solanacées",
+  "description_famille": "",
+  "identite": {
+    "genre": "Solanum",
+    "espece": "americanum",
+    "nom_scientifique": "Solanum americanum",
+    "synonymes": "Solanum nodiflorum",
+    "nom_francais": "Morelle noire",
+    "nom_creole": "Lanman",
+    "nom_anglais": "Black Nightshade"
+  },
+  "morphologie": {
+    "description": "S. americanum est une herbe annuelle de basse altitude, caractérisée par sa saveur astringente et son statut d'espèce rare dans les inventaires régionaux. Tiges. La tige est herbacée, dressée, ramifiée, pouvant atteindre 50 à 80 cm de hauteur. Elle présente une surface légèrement anguleuse et peut porter de fines pubescences selon les conditions de croissance. Feuilles. Les feuilles sont alternes, simples, ovales à lancéolées, avec un limbe vert foncé et des marges entières à légèrement dentées. Leur texture est relativement tendre mais présente une astringence marquée qui persiste même après cuisson légère. Fleurs. Les inflorescences sont des cymes scorpioïdes portant de petites fleurs blanches typiques des Solanacées, avec cinq pétales soudés à la base et cinq étamines jaunes proéminentes. La floraison s'étale sur plusieurs mois selon les conditions climatiques. Fruits. Les fruits sont de petites baies globuleuses, vertes puis noires à maturité, contenant de nombreuses graines plates et brunâtres. Ces baies, bien que comestibles dans certaines traditions culinaires après traitement, concentrent particulièrement les glycoalcaloïdes. Les parties utilisées dans les pratiques documentées localement sont principalement les feuilles, et occasionnellement les fruits après préparation spécialisée.",
+    "ecologie": "S. americanum est une espèce native des Amériques tropicales, naturellement distribuée des Caraïbes jusqu'en Amérique du Sud. Dans les Départements du Sud et de la Grand'Anse, elle colonise préférentiellement les sols perturbés, les bordures de chemins et les zones de culture abandonnées en basse altitude. Son statut d'espèce rare selon les inventaires locaux suggère soit une régression de ses populations, soit une distribution très localisée liée à des exigences écologiques spécifiques. Cette rareté relative contraste avec l'abondance de l'espèce dans d'autres régions tropicales, soulevant des questions sur les facteurs limitants locaux."
+  },
+  "usages": {
+    "usages_ethnobotaniques": "Dans les Départements du Sud et de la Grand'Anse, S. americanum est documenté comme plante alimentaire et médicinale. Les feuilles se consomment comme légume vert après cuisson prolongée — une pratique qui permet la réduction significative des glycoalcaloïdes toxiques par hydrolyse thermique. Le mode de préparation traditionnel impose un bouillage avec rejet de l'eau de cuisson, technique empirique efficace pour éliminer les composés hydrosolubles indésirables. Sur le plan médicinal, les usages documentés incluent les propriétés antimicrobiennes, antioxydantes, digestives, anti-inflammatoires et diurétiques. Selon la base TRAMIL, l'espèce trouve également un emploi contre les éruptions cutanées en Haïti. Dans le contexte international, elle est largement utilisée comme « brède » — légume-feuille traditionnel — dans plusieurs pays d'Afrique, où des protocoles de détoxification similaires ont été développés.",
+    "systemes_concernes": "Digestif, Tégumentaire"
+  },
+  "pharmacologie": {
+    "molecules": "La composition chimique de S. americanum reflète son appartenance au genre Solanum, caractérisé par une riche diversité de composés bioactifs. Les fruits noirs doivent leur coloration à des anthocyanes, principalement la cyanidine-3-glucoside, tandis que les feuilles vertes contiennent de fortes concentrations de chlorophylle associée au magnésium. La saveur astringente caractéristique provient de la présence de tanins condensés et d'acides organiques. Sur le plan nutritionnel, la plante accumule des minéraux essentiels : potassium (K), magnésium (Mg), calcium (Ca), fer (Fe) et zinc (Zn), ainsi que des vitamines du groupe B et de la vitamine C dans les tissus foliaires frais. Les principaux composés secondaires identifiés dans S. americanum comprennent des glycoalcaloïdes (solasodine, solanine, solamargine), des flavonoïdes (quercétine, kaempférol, rutine), des saponines stéroïdiennes, des tanins condensés et des alcaloïdes tropaniques en faibles concentrations (Raju et al., 2003 — PMID: 14720922, Arthan et al., 2002 — PMID: 12182851). Ces glycoalcaloïdes, particulièrement concentrés dans les parties vertes et les fruits immatures, représentent le principal système de défense de la plante contre les herbivores et les pathogènes. Ces mêmes composés, une fois ingérés par l'humain, produisent les effets biologiques documentés mais exigent une vigilance extrême quant au dosage. Les glycoalcaloïdes perturbent les membranes cellulaires et peuvent induire une toxicité digestive et neurologique significative. Les flavonoïdes apportent les propriétés antioxydantes et anti-inflammatoires recherchées, tandis que les saponines contribuent aux effets antimicrobiens et digestifs observés traditionnellement. Il convient de noter que ces observations restent principalement issues d'études in vitro et de modèles animaux, les essais cliniques humains demeurant très limités pour cette espèce.",
+    "posologie": "Les données de posologie pour S. americanum présentent une complexité particulière en raison du profil toxicologique de l'espèce. Une infusion de feuilles à raison de 5-10 g/L, 1-2 fois par jour, a été décrite dans la littérature ethnopharmacologique, mais cette posologie n'est pas cliniquement sécurisée en raison des risques liés aux glycoalcaloïdes (Raju et al., 2003 — PMID: 14720922). Les usages alimentaires traditionnels imposent systématiquement un bouillage prolongé avec rejet de l'eau de cuisson, protocole qui réduit significativement mais n'élimine pas totalement les composés toxiques. Aucune posologie standardisée et cliniquement validée n'existe pour les applications médicinales de cette espèce, les variations inter-individuelles de sensibilité aux glycoalcaloïdes rendant impossible l'établissement de doses sûres universelles."
+  },
+  "nutrition": {
+    "introduction": "Solanum americanum (syn. Solanum nodiflorum) est une herbe native documentée dans les Départements du Sud et de la Grand'Anse. Elle appartient à la famille des Solanacées, vaste famille de plantes principalement herbacées et arbustives reconnue pour ses extraordinaires propriétés biologiques. Cette espèce fait partie du genre Solanum, l'un des plus vastes genres végétaux au monde avec plus de 1500 espèces incluant des aliments de base comme la pomme de terre, la tomate et l'aubergine, ainsi que de nombreuses plantes médicinales traditionnelles. Dans le contexte haïtien, S. americanum présente un profil d'usage mixte alimentaire et médicinal, mais nécessite une préparation très rigoureuse en raison de sa teneur en glycoalcaloïdes potentiellement toxiques à l'état cru. Son emploi traditionnel comme légume-feuille après cuisson prolongée témoigne d'un savoir empirique millénaire sur la détoxification des Solanacées sauvages."
+  },
+  "toxicologie": {
+    "niveau": "",
+    "details": "S. americanum présente un profil toxicologique conditionnel nécessitant une vigilance absolue. Les glycoalcaloïdes (solanine, solasodine) provoquent des intoxications caractérisées par vomissements, diarrhée, confusion mentale, et dans les cas sévères, convulsions et coma. La consommation de fruits ou feuilles crus présente un risque réel de toxicité, particulièrement chez les enfants qui sont plus sensibles aux alcaloïdes. L'espèce est contre-indiquée chez la femme enceinte et allaitante, ainsi que chez les personnes souffrant d'insuffisance rénale. La cuisson prolongée réduit mais n'élimine pas complètement les risques. Seuls les praticiens traditionnels expérimentés devraient envisager un usage interne, à doses très limitées et selon des protocoles de préparation rigoureux. En cas d'intoxication suspectée, une consultation médicale urgente s'impose."
+  },
+  "conservation": {
+    "menaces": "Le statut d'espèce rare de S. americanum dans les inventaires locaux soulève des préoccupations conservatoires. Les menaces potentielles incluent la pression foncière, l'urbanisation des zones de basse altitude et la modification des pratiques agricoles traditionnelles. La conservation de cette espèce revêt une importance particulière en raison de son potentiel alimentaire et médicinal, ainsi que de son rôle dans les systèmes de connaissances traditionnels. Des inventaires botaniques plus approfondis seraient nécessaires pour évaluer précisément l'état des populations locales et identifier les sites prioritaires pour la conservation in situ.",
+    "valeur": "La valeur économique de S. americanum demeure modeste mais non négligeable dans les contextes locaux. En tant que légume-feuille traditionnel, elle contribue à la sécurité alimentaire des communautés rurales, particulièrement durant les périodes de soudure. Sa richesse en fer et vitamines en fait un complément nutritionnel potentiel contre l'anémie ferriprive. Sur le plan international, l'espèce suscite un intérêt croissant pour ses propriétés antioxydantes et antimicrobiennes, ouvrant des perspectives pour la valorisation de ses extraits dans l'industrie nutraceutique, sous réserve de développer des protocoles d'extraction sécurisés éliminant les glycoalcaloïdes toxiques."
+  },
+  "recherche": {
+    "nb_articles": "",
+    "details": "Les recherches sur S. americanum se concentrent actuellement sur la caractérisation phytochimique et l'évaluation des activités biologiques in vitro. Des études récentes ont confirmé ses propriétés antioxydantes et antimicrobiennes, ainsi qu'un potentiel anticancéreux préliminaire en modèles cellulaires. Les perspectives de recherche incluent le développement de méthodes d'extraction sélective des composés bénéfiques, l'optimisation des protocoles de détoxification, et l'évaluation de la sécurité d'emploi par des études toxicologiques approfondies. Des essais cliniques contrôlés seraient nécessaires pour valider les usages traditionnels et établir des posologies sécurisées, particulièrement pour les applications anti-anémiques.",
+    "lien_pubmed": "",
+    "lien_scholar": "",
+    "lien_tramil": "https://www.tramil.net/en/plant/solanum-americanum"
+  },
+  "references": "Raju, G.S. et al. (2003). Evaluation of antioxidant potential of Solanum americanum berries. PMID: 14720922. Arthan, D. et al. (2002). Antioxidant activity of Solanum americanum. PMID: 12182851. POWO (2024). Plants of the World Online. Facilitated by the Royal Botanic Gardens, Kew. http://www.plantsoftheworldonline.org/ TRAMIL (2024). Traditional Medicine in the Islands. https://www.tramil.net/en/plant/solanum-americanum",
+  "aRetenir": "🟡 À retenir — Lanman : est une plante a toxicite conditionnelle documentee. Respecter imperativement les precautions indiquees. Ne jamais ingerer les parties toxiques sans encadrement medical. Ces informations sont destinees a l'enseignement et a la documentation. Les auteurs declinent toute responsabilite quant a un usage inapproprie.",
+  "images": {
+    "principale": "images/845_Solanum_americanum-001.jpg",
+    "galerie": [
+      "images/845_Solanum_americanum-001.jpg",
+      "images/845_Solanum_americanum-002.jpg"
+    ]
+  },
+  "source": "plantes_full.json"
+}

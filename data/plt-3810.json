@@ -1,0 +1,57 @@
+{
+  "id_plante": "plt-3810",
+  "code": "plt-3810",
+  "no_espece": "",
+  "no_famille": "38",
+  "famille": "Fabacées",
+  "description_famille": "",
+  "identite": {
+    "genre": "Phaseolus",
+    "espece": "lunatus",
+    "nom_scientifique": "Phaseolus lunatus L.",
+    "synonymes": "Phaseolus inamoenus",
+    "nom_francais": "Haricot de Lima",
+    "nom_creole": "Pwa souch",
+    "nom_anglais": "Lima Bean"
+  },
+  "morphologie": {
+    "description": "P. lunatus est une herbe à croissance déterminée ou indéterminée selon les variétés, pouvant atteindre 3 à 4 mètres de hauteur dans sa forme grimpante, ou rester naine (30-60 cm) dans les variétés buissonnantes cultivées dans les jardins des Départements du Sud et de la Grand'Anse. Tiges et racines. La tige principale est herbacée, souvent volubile, s'enroulant autour des tuteurs dans les variétés grimpantes. Le système racinaire pivotant porte des nodosités caractéristiques des Fabacées, où vivent les bactéries fixatrices d'azote qui permettent à la plante de prospérer même sur des sols pauvres. Feuilles. Les feuilles sont composées trifoliolées, avec trois folioles ovales à lancéolées, lisses et d'un vert intense. Chaque foliole mesure 5 à 12 cm de long, avec des nervures bien marquées. Le pétiole est allongé et porte parfois des stipules à la base. Fleurs. Les fleurs sont petites, blanches, verdâtres ou parfois violacées, regroupées en grappes axillaires. Elles présentent la structure papilionacée typique de la famille, avec un étendard, deux ailes et une carène protégeant les organes reproducteurs. Fruit et graines. Le fruit est une gousse aplatie, arquée, de 5 à 12 cm de long, contenant 2 à 4 graines. Les graines sont grandes (1-3 cm), aplaties, de forme réniforme caractéristique, et présentent une grande diversité de couleurs : blanches, crème, rouge, pourpre, noir, ou bigarrées selon les variétés locales cultivées en Haïti. Les parties utilisées sont principalement les graines mûres, et occasionnellement les jeunes feuilles.",
+    "ecologie": "Originaire des régions tropicales d'Amérique du Sud, particulièrement du bassin amazonien et des Andes, P. lunatus s'est répandu dans toutes les régions tropicales et subtropicales du monde suite aux échanges commerciaux historiques. En Haïti, cette espèce exotique s'est parfaitement acclimatée aux conditions des Départements du Sud et de la Grand'Anse, où elle pousse de préférence en basse altitude, dans des sols bien drainés et ensoleillés. Sa culture s'étend aujourd'hui à travers tout l'espace pantropical, de l'Afrique à l'Asie du Sud-Est."
+  },
+  "usages": {
+    "usages_ethnobotaniques": "Dans les Départements du Sud et de la Grand'Anse, le « pwa souch » est documenté comme aliment protéique de base et remède traditionnel aux propriétés antioxydantes. Les graines constituent l'usage principal : elles sont toujours soigneusement cuites — bouillies, mijotées avec les vivres (igname, patate douce, banane plantain) ou transformées en purée épaisse. Cette cuisson prolongée est essentielle pour neutraliser les lectines toxiques et la linamarine. Les jeunes feuilles sont parfois préparées en tisane, bien que cet usage soit moins documenté et requière des précautions. Selon TRAMIL, l'usage alimentaire du haricot de Lima est confirmé en Haïti, où il contribue significativement à l'apport protéique de la population rurale.",
+    "systemes_concernes": ""
+  },
+  "pharmacologie": {
+    "molecules": "Phaseolus lunatus concentre dans ses tissus sa richesse en protéines végétales de qualité, contenant tous les acides aminés essentiels bien qu'en proportions variables. Les graines accumulent des amidons complexes à libération lente, des fibres solubles et insolubles, ainsi que des minéraux essentiels comme le potassium (1200-1400 mg/100g), le magnésium (70-90 mg/100g) et le fer (6-8 mg/100g). Elles renferment également des folates (vitamine B9) et des caroténoïdes responsables des nuances colorées de certaines variétés. Cependant, les graines crues contiennent de la linamarine, un glycoside cyanogène qui libère de l'acide cyanhydrique toxique, et des lectines qui perturbent la digestion — molécules neutralisées par une cuisson prolongée. Les principaux composés secondaires identifiés dans P. lunatus comprennent : des flavonoïdes (quercétine, kaempférol, anthocyanes), des saponines, des tanins condensés, des lectines (phytohémagglutinines), des alcaloïdes en traces, et des composés phénoliques variés (Singh et al., 2017 — doi:10.1007/s13197-017-2668-4). Les graines contiennent également des inhibiteurs de trypsine et des phytates qui peuvent réduire la biodisponibilité de certains minéraux. Ces molécules remplissent des fonctions défensives précises pour la plante. Les lectines et inhibiteurs enzymatiques protègent les graines contre la prédation par les insectes et les mammifères, tandis que les composés phénoliques préviennent l'oxydation des réserves lipidiques et protéiques. Ces mêmes composés, une fois ingérés par l'humain après cuisson appropriée, produisent les effets biologiques documentés : les fibres ralentissent l'absorption du glucose, les flavonoïdes exercent une activité antioxydante, et les protéines contribuent à la satiété et au maintien de la masse musculaire.",
+    "posologie": "Aucune posologie thérapeutique cliniquement validée n'est disponible pour P. lunatus en usage médicinal. Les portions alimentaires typiques documentées varient de 50 à 100 g de graines cuites par jour dans le cadre d'une alimentation équilibrée. Pour les infusions de feuilles mentionnées localement, aucune standardisation n'existe dans la littérature scientifique, et cette pratique reste peu documentée comparativement à l'usage alimentaire des graines."
+  },
+  "nutrition": {
+    "introduction": "Phaseolus lunatus L. (syn. Phaseolus inamoenus) est une herbe annuelle ou bisannuelle exotique, largement cultivée dans les Départements du Sud et de la Grand'Anse pour ses graines nutritives. Elle appartient à la famille des Fabacées, reconnue pour sa capacité remarquable à fixer l'azote atmosphérique grâce à des bactéries symbiotiques du genre Rhizobium, ce qui enrichit les sols et fait de ces plantes des alliées précieuses de l'agriculture durable. Au sein de cette vaste famille, P. lunatus fait partie du genre Phaseolus, qui regroupe les haricots cultivés les plus répandus au monde, dont le haricot commun (Phaseolus vulgaris). Le « pwa souch » constitue une source alimentaire importante en Haïti, consommé traditionnellement avec les vivres ou transformé en purée, tout en présentant des propriétés nutritionnelles et potentiellement thérapeutiques documentées."
+  },
+  "toxicologie": {
+    "niveau": "",
+    "details": "Les graines crues ou insuffisamment cuites présentent une toxicité modérée due aux lectines et à la linamarine, pouvant provoquer nausées, vomissements et diarrhée dans les heures suivant l'ingestion (Liener, 1994 — PMID: 8409071). Une cuisson prolongée (minimum 15-20 minutes à ébullition) neutralise ces composés toxiques. Les personnes souffrant du syndrome de l'intestin irritable ou présentant un déficit en glucose-6-phosphate déshydrogénase (G6PD) doivent consommer les légumineuses avec prudence. La linamarine peut libérer de l'acide cyanhydrique si les graines sont consommées en grande quantité à l'état cru."
+  },
+  "conservation": {
+    "menaces": "L'enjeu principal concerne la conservation des variétés locales traditionnelles cultivées dans les jardins familiaux des Départements du Sud et de la Grand'Anse. L'érosion génétique due à l'introduction de variétés commerciales uniformes menace la diversité des écotypes adaptés aux conditions locales. Les changements climatiques et la pression foncière représentent des défis supplémentaires pour le maintien de cette diversité variétale.",
+    "valeur": "La valeur économique du pwa souch reste principalement locale et alimentaire dans les Départements du Sud et de la Grand'Anse, contribuant à la sécurité alimentaire des ménages ruraux. Sur le marché international, P. lunatus représente une culture agro-alimentaire significative, particulièrement valorisée pour ses qualités nutritionnelles et sa capacité d'adaptation aux sols pauvres. Son potentiel d'amélioration des sols par fixation d'azote lui confère une valeur écologique croissante."
+  },
+  "recherche": {
+    "nb_articles": "~500 (estimation)",
+    "details": "Avec environ 500 publications indexées, P. lunatus bénéficie d'un corpus scientifique solide, principalement orienté vers la nutrition et l'amélioration variétale. Les recherches actuelles se concentrent sur l'optimisation de la digestibilité des protéines, la réduction des facteurs anti-nutritionnels et le développement de variétés résistantes aux stress climatiques. L'investigation des propriétés antidiabétiques suggérées par les usages traditionnels haïtiens mériterait des études cliniques contrôlées.",
+    "lien_pubmed": "",
+    "lien_scholar": "",
+    "lien_tramil": "https://www.tramil.net/en/plant/phaseolus-lunatus"
+  },
+  "references": "Singh, B. et al. (2017). Phaseolus lunatus Linn: A complete review on its ethnobotany, phytochemistry and pharmacology. Journal of Food Science and Technology. doi:10.1007/s13197-017-2668-4 Monk, J.M. et al. (2013). Navy and black bean supplementation primes the colonic mucosal microenvironment to improve gut health. Journal of Nutritional Biochemistry. PMID: 23595206 Liener, I.E. (1994). Implications of antinutritional components in soybean foods. Critical Reviews in Food Science and Nutrition. PMID: 8409071 POWO (2024). Phaseolus lunatus L. Plants of the World Online, Kew Science. https://powo.science.kew.org/ TRAMIL (2024). Phaseolus lunatus. https://www.tramil.net/en/plant/phaseolus-lunatus",
+  "aRetenir": "🟡 À retenir — Pwa souch : est une plante a toxicite conditionnelle documentee. Respecter imperativement les precautions indiquees. Ne jamais ingerer les parties toxiques sans encadrement medical. Ces informations sont destinees a l'enseignement et a la documentation. Les auteurs declinent toute responsabilite quant a un usage inapproprie.",
+  "images": {
+    "principale": "images/3810_Phaseolus_lunatus-001.jpg",
+    "galerie": [
+      "images/3810_Phaseolus_lunatus-001.jpg",
+      "images/3810_Phaseolus_lunatus-002.jpg"
+    ]
+  },
+  "source": "plantes_full.json"
+}

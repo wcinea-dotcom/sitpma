@@ -1,0 +1,58 @@
+{
+  "id_plante": "plt-2901",
+  "code": "plt-2901",
+  "no_espece": "",
+  "no_famille": "29",
+  "famille": "Chrysobalanacées",
+  "description_famille": "Les Chrysobalanacées regroupent environ 530 espèces réparties en 27 genres, principalement des arbustes et arbres tropicaux et subtropicaux. Cette famille pantropicale se distingue par ses remarquables adaptations aux environnements côtiers et ses importantes contributions alimentaires dans les régions tropicales. Sur le plan alimentaire, plusieurs genres produisent des fruits comestibles appréciés : Chrysobalanus (icaque), Licania et Couepia dans les Amériques, ainsi que Parinari en Afrique. Ces fruits, souvent riches en pulpe sucrée, constituent des ressources nutritionnelles locales importantes. Sur le plan écologique, de nombreuses espèces jouent un rôle crucial dans la stabilisation des sols côtiers et la protection contre l'érosion. Phytochimiquement, les Chrysobalanacées se caractérisent par une signature dominée par les flavonoïdes — notamment la myricétine et la quercétine — ainsi que par l'acide pomolique et des tanins condensés, conférant à ces plantes des propriétés antioxydantes et astringentes marquées. Ces composés ciblent préférentiellement le système digestif, avec des applications traditionnelles dans le traitement des troubles gastro-intestinaux.",
+  "identite": {
+    "genre": "Chrysobalanus",
+    "espece": "icaco",
+    "nom_scientifique": "Chrysobalanus icaco L.",
+    "synonymes": "C. pellocarpus G.Mey.",
+    "nom_francais": "Icaquier",
+    "nom_creole": "Zikak",
+    "nom_anglais": "Cocoplum"
+  },
+  "morphologie": {
+    "description": "C. icaco est un arbuste ou petit arbre de basse altitude, parfaitement adapté aux conditions côtières des Départements du Sud et de la Grand'Anse. Tiges et port. L'arbuste présente un port buissonnant pouvant atteindre 2 à 4 mètres de hauteur, avec des rameaux étalés et une croissance adaptée aux vents marins. L'écorce est lisse à légèrement rugueuse, de couleur gris-brun. Feuilles. Les feuilles sont simples, alternes, coriaces et brillantes, de forme obovale à elliptique, mesurant 3 à 8 cm de longueur. Leur surface cireuse et leur texture épaisse constituent des adaptations aux embruns salés et à la sécheresse côtière caractéristique du littoral haïtien. Fleurs. Les petites fleurs blanches, regroupées en grappes terminales, apparaissent principalement pendant la saison sèche. Elles sont hermaphrodites et attirent divers insectes pollinisateurs locaux. Fruit. Le fruit, appelé localement « zikak », est une drupe charnue de 2 à 4 cm de diamètre, de forme arrondie à légèrement aplatie. Sa couleur varie du blanc-rosé au violet foncé selon le degré de maturité et la variété. La pulpe est sucrée avec une astringence caractéristique due à la présence de tanins. Les parties utilisées sont principalement les fruits pour l'alimentation, et les feuilles pour les préparations médicinales traditionnelles.",
+    "ecologie": "C. icaco est natif des régions côtières tropicales des Amériques. En Haïti, il se développe naturellement dans les formations sableuses littorales, les mangroves dégradées et les zones de transition terre-mer. Son système racinaire dense et superficiel lui permet de stabiliser efficacement les sols sableux, faisant de cette espèce un élément clé de la protection côtière naturelle des Départements du Sud et de la Grand'Anse."
+  },
+  "usages": {
+    "usages_ethnobotaniques": "Dans les Départements du Sud et de la Grand'Anse, le zikak est principalement consommé comme fruit frais, apprécié pour sa saveur sucrée-astringente particulière. Les fruits se récoltent à maturité, reconnaissable à leur coloration violet foncé et à leur légère mollesse au toucher. Pour les usages médicinaux documentés localement, les feuilles se préparent en infusion pour traiter les épisodes de diarrhée légère. Cette préparation exploite les propriétés astringentes des tanins concentrés dans le feuillage. Les racines, mentionnées dans les usages traditionnels, sont moins couramment employées et leur préparation demeure peu documentée. La consommation des fruits ne nécessite aucune préparation particulière et peut se faire sans restriction quantitative.",
+    "systemes_concernes": "Digestif"
+  },
+  "pharmacologie": {
+    "molecules": "Le fruit du zikak doit sa couleur violacée caractéristique aux anthocyanes, pigments antioxydants puissants qui protègent la plante contre les rayonnements UV intenses du littoral tropical. Sa saveur sucrée provient de sucres simples (fructose, glucose, saccharose) qui s'accumulent lors de la maturation, tandis que l'astringence résulte de la présence de tanins condensés qui protègent le fruit contre les pathogènes et les herbivores avant la dispersion des graines. Ces fruits constituent une source naturelle de vitamine C et de potassium, adaptations nutritionnelles aux stress salins côtiers. Les principaux composés secondaires identifiés dans C. icaco comprennent : des flavonoïdes (myricétine, quercétine, catéchine), des anthocyanes responsables de la pigmentation, des tanins condensés à l'origine de l'astringence, de l'acide pomolique et des dérivés d'acides phénoliques (Reynertson et al., 2008 — PMID: 18781079). Les feuilles concentrent particulièrement les flavonoïdes, avec des teneurs élevées en quercétine et myricétine qui leur confèrent des propriétés antioxydantes remarquables. Ces molécules remplissent des fonctions de défense essentielles pour la survie côtière de C. icaco. Les tanins protègent les tissus contre les pathogènes fongiques favorisés par l'humidité marine, tandis que les flavonoïdes neutralisent les radicaux libres générés par l'exposition intense aux UV et aux embruns salés. Ces mêmes composés, une fois ingérés par l'humain, produisent les effets antioxydants et astringents documentés dans les usages traditionnels digestifs.",
+    "posologie": "Aucune posologie cliniquement validée n'est disponible pour C. icaco. Les pratiques traditionnelles documentées localement ne sont pas standardisées. Pour l'infusion de feuilles utilisée contre la diarrhée légère, les préparations empiriques varient selon les praticiens. Les fruits peuvent être consommés sans restriction particulière dans le cadre d'une alimentation normale."
+  },
+  "nutrition": {
+    "introduction": "Chrysobalanus icaco L. (syn. C. pellocarpus) est un arbuste côtier natif d'Haïti, cultivé et naturalisé dans les formations sableuses littorales des Départements du Sud et de la Grand'Anse. Il appartient à la famille des Chrysobalanacées, une famille tropicale remarquable par ses adaptations aux milieux côtiers et ses contributions alimentaires. Le nom créole « zikak » désigne à la fois la plante et son fruit, consommé localement pour sa saveur sucrée et astringente. Dans les régions de Corail, Aquin et aux Cayes, cette espèce constitue une ressource alimentaire traditionnelle et joue un rôle écologique majeur dans la protection des côtes contre l'érosion. Son usage principal reste alimentaire, complété par des applications médicinales traditionnelles pour les troubles digestifs."
+  },
+  "toxicologie": {
+    "niveau": "",
+    "details": "C. icaco présente un profil toxicologique favorable. Aucune précaution majeure n'est signalée pour la consommation du fruit, qui fait partie de l'alimentation traditionnelle depuis des générations dans les Caraïbes. Les feuilles, utilisées en infusion, ne présentent pas de toxicité documentée aux dosages traditionnels. Cependant, comme pour toute plante astringente, un usage prolongé des feuilles pourrait théoriquement causer une irritation gastrique chez les personnes sensibles."
+  },
+  "conservation": {
+    "menaces": "C. icaco bénéficie d'un statut de conservation favorable (Préoccupation mineure - LC). Cependant, les populations côtières subissent une pression croissante due à l'érosion littorale, au développement urbain côtier et aux activités touristiques dans les Départements du Sud et de la Grand'Anse. La protection de cette espèce passe par la conservation des écosystèmes côtiers naturels.",
+    "valeur": "La valeur économique de C. icaco reste principalement locale, centrée sur la consommation familiale des fruits et les services écosystémiques de protection côtière. Son potentiel de développement en tant que fruit tropical commercial demeure inexploité. Sa capacité de stabilisation des sols côtiers représente une valeur économique indirecte considérable pour la protection des infrastructures littorales."
+  },
+  "recherche": {
+    "nb_articles": "",
+    "details": "Les recherches sur C. icaco se concentrent principalement sur ses propriétés antioxydantes et son potentiel de protection côtière. Les études phytochimiques restent limitées et mériteraient d'être approfondies, notamment concernant les variations de composition selon les conditions de croissance côtière. L'évaluation clinique de ses usages traditionnels digestifs constitue une perspective de recherche intéressante, de même que l'étude de son potentiel comme culture fruitière résistante aux changements climatiques côtiers.",
+    "lien_pubmed": "",
+    "lien_scholar": "",
+    "lien_tramil": ""
+  },
+  "references": "Reynertson, K.A. et al. (2008). Quantitative analysis of antiradical phenolic constituents from fourteen edible Myrtaceae fruits. Food Chemistry, 109(4), 883-890. PMID: 18781079. POWO (2024). Plants of the World Online. Chrysobalanus icaco L. Royal Botanic Gardens, Kew. https://powo.science.kew.org/ World Flora Online (2024). Chrysobalanus icaco L. http://www.worldfloraonline.org/",
+  "aRetenir": "🟢 À retenir — Zikak : est avant tout un aliment — sa valeur nutritionnelle prime sur ses usages medicinaux. Consommee correctement preparee, elle est sans danger documente. Ses proprietes therapeutiques, reelles mais secondaires, ne remplacent pas un suivi medical. Les auteurs declinent toute responsabilite quant a un usage inapproprie.",
+  "images": {
+    "principale": "images/291_Chrysobalanus_icaco-001.jpg",
+    "galerie": [
+      "images/291_Chrysobalanus_icaco-001.jpg",
+      "images/291_Chrysobalanus_icaco-002.jpg",
+      "images/291_Chrysobalanus_icaco-003.jpg"
+    ]
+  },
+  "source": "plantes_full.json"
+}

@@ -1,0 +1,56 @@
+{
+  "id_plante": "plt-3809",
+  "code": "plt-3809",
+  "no_espece": "",
+  "no_famille": "38",
+  "famille": "Fabacées",
+  "description_famille": "",
+  "identite": {
+    "genre": "Mucuna",
+    "espece": "urens",
+    "nom_scientifique": "Mucuna urens (L.)",
+    "synonymes": "Dolichos urens",
+    "nom_francais": "Yeux de bourrique",
+    "nom_creole": "Je bourik",
+    "nom_anglais": "Ox-eye Bean"
+  },
+  "morphologie": {
+    "description": "M. urens est une liane grimpante vigoureuse des zones de moyenne altitude, caractérisée par sa saveur citronnée distinctive et son statut de très rare dans les Départements du Sud et de la Grand'Anse. Tiges. Les tiges sont volubiles, lignifiées à la base, permettant à la plante de s'élever dans la canopée forestière en s'enroulant autour des supports disponibles. Elles présentent une écorce rugueuse et brunâtre à maturité. Feuilles. Les feuilles sont composées trifoliolées, caractéristique du genre Mucuna, avec des folioles ovales à elliptiques, coriaces, d'un vert foncé brillant sur la face supérieure. La saveur citronnée constitue un trait distinctif remarquable de cette espèce. Fleurs. Les fleurs sont papilionacées, typiques des Fabacées, regroupées en grappes pendantes. Elles présentent une corolle violacée à pourprée, particulièrement attractive pour les pollinisateurs spécialisés. Fruit et graines. Le fruit est une gousse allongée, couverte de poils urticants caractéristiques du genre — d'où l'épithète « urens » (brûlant). Les graines, appelées localement « Je bourik » (yeux de bourrique), sont arrondies, dures, de couleur brun-rouge à noir brillant, avec un hile distinctif rappelant effectivement un œil. Les parties utilisées sont principalement les graines pour l'artisanat, et les graines, feuilles et racines à des fins médicinales traditionnelles.",
+    "ecologie": "Mucuna urens est native des Caraïbes et d'Amérique tropicale, avec une distribution naturelle s'étendant des Antilles au nord de l'Amérique du Sud. Dans les Départements du Sud et de la Grand'Anse d'Haïti, l'espèce colonise préférentiellement les zones forestières de moyenne altitude, où elle trouve les conditions d'humidité et de support nécessaires à son développement lianescent. Son statut de très rare suggère une aire de répartition locale restreinte, possiblement liée à des exigences écologiques spécifiques ou à une pression anthropique croissante sur ses habitats naturels."
+  },
+  "usages": {
+    "usages_ethnobotaniques": "L'usage principal documenté dans le Sud et la Grand'Anse concerne l'artisanat traditionnel : les graines de M. urens, appelées « Je bourik », sont recherchées pour leur forme régulière, leur couleur attractive et leur résistance, permettant la confection de bijoux, colliers, bracelets et objets décoratifs durables. Cette pratique s'inscrit dans une tradition artisanale caribéenne plus large, où les graines de Mucuna constituent un matériau de choix pour l'ornementation. Sur le plan médicinal traditionnel, bien que TRAMIL ne recommande pas son usage en Haïti, les pratiques locales documentent l'emploi des graines, feuilles et racines comme aphrodisiaque, antidiabétique, antioxydant et diurétique. Les graines nécessitent une préparation spécialisée incluant torréfaction et détoxification pour éliminer les compounds irritants et ajuster les concentrations en L-DOPA.",
+    "systemes_concernes": "Nerveux"
+  },
+  "pharmacologie": {
+    "molecules": "La particularité chimique de Mucuna urens réside dans sa capacité remarquable à produire de la L-DOPA (L-3,4-dihydroxyphénylalanine), un acide aminé non protéique rare dans le règne végétal. Cette molécule, concentrée principalement dans les graines, représente le précurseur direct de la dopamine, un neurotransmetteur essentiel. La saveur citronnée caractéristique de la plante résulte probablement de la présence d'acides organiques spécifiques, notamment l'acide citrique et ses dérivés. Les graines renferment également des protéines de réserve riches en acides aminés essentiels, des lipides énergétiques et des glucides complexes, leur conférant une valeur nutritionnelle potentielle significative. Les principaux composés secondaires identifiés dans M. urens, par analogie avec Mucuna pruriens mieux documentée, comprennent : la L-DOPA comme métabolite majeur, des flavonoïdes (catéchines, épicatéchines, génistéine), des saponines triterpéniques, des alcaloïdes indoliques (sérotonine, physostigmine), des tanins condensés et des lectines protéiques (Lampariello et al., 2012 — PMID: 22666016, Adepoju & Odubena, 2009). Ces molécules remplissent des fonctions de défense essentielles pour la plante. La L-DOPA agit comme un puissant répulsif contre les herbivores invertébrés, sa transformation en dopamine et ses dérivés quinoniques créant un environnement toxique pour les insectes phytophages. Les poils urticants des gousses, riches en histamine et acides formiques, constituent une barrière physico-chimique efficace contre les prédateurs. Ces mêmes composés, une fois ingérés par l'humain, produisent les effets neurologiques et physiologiques documentés dans les pratiques traditionnelles, bien que les mécanismes précis restent à élucider par des essais cliniques contrôlés.",
+    "posologie": "Aucune posologie cliniquement validée n'est disponible pour Mucuna urens. Les pratiques traditionnelles mentionnent l'usage de 5-10 grammes de graines torréfiées par jour, mais cette indication reste non standardisée et potentiellement dangereuse sans supervision médicale, compte tenu de la variabilité des concentrations en L-DOPA et des risques de surdosage dopaminergique."
+  },
+  "nutrition": {
+    "introduction": "Mucuna urens (L.) (syn. Dolichos urens) est une liane native des Caraïbes et d'Amérique tropicale, documentée dans le Sud et la Grand'Anse, où elle est désignée sous le nom créole « Je bourik ». Elle appartient à la famille des Fabacées, une vaste famille de légumineuses reconnue pour sa capacité remarquable à fixer l'azote atmosphérique grâce à ses nodules racinaires symbiotiques. Au sein de cette famille, M. urens fait partie du genre Mucuna, un groupe de lianes tropicales célèbres pour leur richesse en L-DOPA, un précurseur direct de la dopamine. Son usage principal dans les départements concerne l'artisanat traditionnel, les graines servant à confectionner des bijoux et objets décoratifs, bien que la plante possède également des propriétés médicinales documentées."
+  },
+  "toxicologie": {
+    "niveau": "toxic",
+    "details": "Mucuna urens présente des risques toxicologiques significatifs liés à sa teneur en L-DOPA et aux poils urticants de ses gousses. Un excès de L-DOPA peut provoquer des troubles digestifs (nausées, vomissements), cardiovasculaires (hypotension, arythmies) et neurologiques (dyskinésies, hallucinations). L'usage est formellement déconseillé pendant la grossesse, l'allaitement et chez les patients sous traitement dopaminergique. Le contact direct avec les gousses fraîches peut causer des dermatites sévères par libération d'histamine et d'agents urticants."
+  },
+  "conservation": {
+    "menaces": "Bien que classée en « préoccupation mineure » au niveau global, la rareté extrême de M. urens dans les Départements du Sud et de la Grand'Anse constitue un signal d'alarme local. La déforestation continue, l'expansion agricole et la collecte artisanale non durable des graines menacent les populations résiduelles. Des mesures de protection in situ et de multiplication ex situ s'avèrent nécessaires pour préserver cette ressource ethnobotanique unique.",
+    "valeur": "La valeur économique de M. urens reste principalement artisanale, les graines « Je bourik » alimentant un marché local de bijoux et objets décoratifs traditionnels. Cette filière, bien qu'économiquement modeste, contribue à la préservation des savoir-faire ancestraux et pourrait être développée dans une perspective d'écotourisme culturel durable, sous réserve d'une gestion conservatoire appropriée des populations sauvages."
+  },
+  "recherche": {
+    "nb_articles": "~20 (estimation)",
+    "details": "Les recherches sur M. urens demeurent limitées, avec environ 20 publications scientifiques recensées, principalement axées sur la taxonomie et l'écologie. Les priorités de recherche incluent : l'établissement du profil phytochimique complet, l'évaluation de la variabilité en L-DOPA selon l'origine géographique, les études de toxicité aiguë et chronique, et le développement de protocoles de culture ex situ. Une approche comparative avec M. pruriens permettrait de préciser le potentiel thérapeutique spécifique de cette espèce caribéenne.",
+    "lien_pubmed": "",
+    "lien_scholar": "",
+    "lien_tramil": "https://www.tramil.net/en/plant/mucuna-urens"
+  },
+  "references": "Lampariello, L.R. et al. (2012). The Magic Velvet Bean of Mucuna pruriens. Journal of Traditional and Complementary Medicine. PMID: 24716134. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4032837/ Adepoju, O.T. & Odubena, O.O. (2009). Effect of Mucuna pruriens on some haematological and biochemical parameters. Journal of Medicinal Plants Research. POWO (2024). Plants of the World Online. Kew Science. https://powo.science.kew.org/ TRAMIL (2024). Mucuna urens. https://www.tramil.net/en/plant/mucuna-urens",
+  "aRetenir": "🟠 À retenir — Je bourik : est une plante a toxicite documentee. Tout usage interne non encadre est formellement deconseille. En cas d'ingestion accidentelle, consulter immediatement un service d'urgence. Ces informations sont destinees a l'enseignement et a la recherche uniquement. Les auteurs declinent toute responsabilite quant a un usage inapproprie.",
+  "images": {
+    "principale": "images/389_Mucuna_urens-001.jpg",
+    "galerie": [
+      "images/389_Mucuna_urens-001.jpg"
+    ]
+  },
+  "source": "plantes_full.json"
+}

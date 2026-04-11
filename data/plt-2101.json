@@ -1,0 +1,58 @@
+{
+  "id_plante": "plt-2101",
+  "code": "plt-2101",
+  "no_espece": "",
+  "no_famille": "21",
+  "famille": "Brassicacées",
+  "description_famille": "Reconnues pour leurs remarquables propriétés nutritionnelles et thérapeutiques, les Brassicacées rassemblent environ 3700 espèces réparties en 338 genres, dominées par les herbes annuelles et bisannuelles. Cette famille cosmopolite comprend des légumes fondamentaux de l'alimentation mondiale : choux (Brassica oleracea), radis (Raphanus sativus), moutarde (Brassica nigra), cresson (Nasturtium officinale) et roquette (Eruca sativa). Les genres à vocation médicinale incluent Lepidium pour ses propriétés diurétiques, Cardamine comme antiscorbutique, et Capsella reconnu pour ses vertus hémostatiques. Sur le plan phytochimique, cette famille se distingue par une signature unique dominée par les glucosinolates — des composés soufrés qui se transforment en isothiocyanates bioactifs lors du broyage des tissus — associés à des concentrations exceptionnelles en vitamine C, vitamine K, sulforaphane et indole-3-carbinol. Ces molécules ciblent préférentiellement les systèmes digestif, tégumentaire et sanguin, avec des propriétés détoxifiantes et antioxydantes remarquables. Attention : les glucosinolates peuvent présenter des effets goitrogènes à très forte consommation chronique, nécessitant une vigilance chez les personnes souffrant de dysfonctionnements thyroïdiens.",
+  "identite": {
+    "genre": "Brassica",
+    "espece": "oleracea",
+    "nom_scientifique": "Brassica oleracea capitata",
+    "synonymes": "Brassica capitata",
+    "nom_francais": "Chou",
+    "nom_creole": "Chou",
+    "nom_anglais": "Cabbage"
+  },
+  "morphologie": {
+    "description": "B. oleracea var. capitata est une herbe robuste adaptée aux climats tempérés et d'altitude, formant une rosette de feuilles compactes caractéristique. Racines et tiges. Le système racinaire est pivotant et fibreux, bien développé pour ancrer la plante. La tige principale est courte et épaisse, portant les feuilles en rosette dense. Feuilles. Les feuilles externes sont grandes, épaisses et coriaces, de couleur vert glauque à vert foncé, parfois teintées de pourpre selon la variété. Elles sont disposées en couches concentriques serrées formant une « pomme » ou « tête » compacte pouvant peser plusieurs kilogrammes. Cette structure protège les feuilles internes, plus tendres et de couleur plus claire. La texture est ferme et croquante, avec une saveur légèrement piquante caractéristique des Brassicacées. Fleurs et reproduction. La seconde année, la plante produit une hampe florale ramifiée portant de nombreuses petites fleurs jaunes à quatre pétales disposés en croix — caractère diagnostique de la famille. La reproduction se fait par graines contenues dans des siliques allongées. Les parties utilisées sont principalement les feuilles formant la pomme, et occasionnellement les inflorescences et les graines.",
+    "ecologie": "Originaire des côtes méditerranéennes et atlantiques de l'Europe occidentale, B. oleracea s'est répandue mondialement grâce à l'agriculture. Dans les Départements du Sud et de la Grand'Anse, sa culture reste limitée aux zones d'altitude où les températures plus fraîches permettent sa croissance. La plante préfère les sols riches, bien drainés et les climats tempérés, ce qui explique sa production rare dans le contexte tropical haïtien. Elle nécessite des températures relativement fraîches pour former correctement ses pommes compactes."
+  },
+  "usages": {
+    "usages_ethnobotaniques": "Dans les Départements du Sud et de la Grand'Anse, le chou est documenté principalement comme légume nutritif consommé cuit, et comme ingrédient du pikliz — condiment fermenté traditionnel haïtien. L'usage médicinal traditionnel contre les ulcères gastriques est également rapporté localement. Selon TRAMIL, en Haïti, la plante est utilisée pour les troubles d'estomac. Les feuilles constituent la partie principalement utilisée, préparées par cuisson pour l'alimentation ou en décoction pour les usages thérapeutiques. La fermentation traditionnelle dans le pikliz pourrait potentiellement augmenter la biodisponibilité de certains composés bioactifs, bien que cette hypothèse nécessite des études spécifiques. Les graines, riches en huiles, sont occasionnellement mentionnées mais leur usage reste marginal dans la région.",
+    "systemes_concernes": "Digestif, Tégumentaire"
+  },
+  "pharmacologie": {
+    "molecules": "Le chou se caractérise par une exceptionnelle richesse en composés primaires spécifiques : sa couleur vert intense provient de concentrations remarquables en chlorophylle et caroténoïdes (bêta-carotène, lutéine), tandis que les variétés pourpres doivent leur coloration aux anthocyanes. Sa saveur légèrement piquante et amère résulte de la présence de glucosinolates qui, lors du broyage des feuilles, libèrent des isothiocyanates volatils responsables de l'odeur et du goût caractéristiques. Le profil nutritionnel exceptionnel comprend des concentrations très élevées en vitamine K (145 μg/100g), vitamine C (36 mg/100g), folates et fibres, associées à une richesse remarquable en potassium (170 mg/100g), calcium et magnésium (Bohn et al., 2018 — doi:10.1093/advances/nmy023). Les principaux composés secondaires identifiés dans B. oleracea comprennent : des glucosinolates (glucobrassicine, sinigrine, glucoraphanine), des flavonoïdes (quercétine, kaempférol, anthocyanes), des composés phénoliques (acide férulique, acide sinapique), des caroténoïdes (bêta-carotène, lutéine, zéaxanthine), des saponines et des composés soufrés volatils (isothiocyanates, sulforaphane, indole-3-carbinol) (Cartea et al., 2011 — doi:10.3390/molecules16020251). Ces molécules remplissent des fonctions de défense essentielles pour la plante. Les glucosinolates constituent un système de défense chimique sophistiqué : intacts dans les cellules végétales, ils se transforment instantanément en isothiocyanates toxiques dès que les tissus sont endommagés par un herbivore ou un pathogène, créant une barrière chimique efficace. Les composés phénoliques protègent contre les rayonnements UV et le stress oxydatif. Ces mêmes composés, une fois ingérés par l'humain, produisent les effets biologiques documentés : les isothiocyanates activent les enzymes de détoxification hépatique de phase II, les flavonoïdes exercent des propriétés antioxydantes et anti-inflammatoires, tandis que l'indole-3-carbinol module le métabolisme hormonal. Ces observations restent principalement issues d'études in vitro et sur modèles animaux.",
+    "posologie": "Les études nutritionnelles recommandent généralement une consommation de 50 à 200 grammes par jour de légumes du genre Brassica pour bénéficier des effets protecteurs documentés (Bohn et al., 2018). Pour l'usage anti-ulcéreux, des études préliminaires ont utilisé des extraits standardisés, mais aucune posologie cliniquement validée n'est établie spécifiquement pour B. oleracea en usage thérapeutique. La consommation alimentaire habituelle reste la voie la plus documentée et la plus sûre."
+  },
+  "nutrition": {
+    "introduction": "Brassica oleracea var. capitata (syn. Brassica capitata) est une herbe bisannuelle exotique, cultivée en altitude dans les Départements du Sud et de la Grand'Anse où sa production demeure rare. Elle appartient à la famille des Brassicacées, reconnue mondialement pour ses légumes nutritifs et ses propriétés détoxifiantes exceptionnelles. Au sein de cette famille, elle fait partie du complexe Brassica oleracea, l'une des espèces potagères les plus diversifiées au monde, qui a donné naissance par sélection à de multiples variétés : chou-fleur, brocoli, chou de Bruxelles, chou-rave et chou pommé. Dans les deux départements, le chou est principalement utilisé comme légume nutritif et comme ingrédient du pikliz, mais aussi traditionnellement employé contre les ulcères gastriques — usage qui trouve aujourd'hui une validation scientifique solide."
+  },
+  "toxicologie": {
+    "niveau": "",
+    "details": "B. oleracea présente une excellente sécurité d'emploi en usage alimentaire normal. Les précautions concernent principalement les interactions médicamenteuses : la très forte teneur en vitamine K peut interférer avec les anticoagulants oraux, nécessitant une surveillance chez les patients sous traitement. Les glucosinolates peuvent présenter des effets goitrogènes à très forte consommation chronique, imposant une prudence chez les personnes souffrant d'hypothyroïdie non équilibrée. Ces effets restent exceptionnels aux doses alimentaires habituelles."
+  },
+  "conservation": {
+    "menaces": "L'enjeu principal concerne la conservation des variétés locales adaptées au climat tropical d'altitude d'Haïti. La production rare dans les deux départements souligne la nécessité de développer des cultivars mieux adaptés aux conditions locales et de maintenir les savoir-faire agricoles spécifiques à cette culture exigeante. La dépendance aux importations de semences constitue également une vulnérabilité.",
+    "valeur": "La valeur économique locale reste limitée par les difficultés de production en climat tropical. À l'échelle internationale, B. oleracea représente l'un des légumes les plus commercialisés mondialement, avec une industrie agro-alimentaire considérable incluant la transformation, la surgélation et les produits fermentés. Le développement de variétés adaptées aux Antilles pourrait ouvrir des perspectives économiques intéressantes."
+  },
+  "recherche": {
+    "nb_articles": "",
+    "details": "Les recherches futures prometteuses incluent le développement de cultivars tropicaux adaptés, l'optimisation des techniques de fermentation traditionnelle pour maximiser les propriétés nutritionnelles du pikliz, et l'évaluation clinique des propriétés gastroprotectrices dans les populations locales. L'étude des interactions entre fermentation traditionnelle et biodisponibilité des glucosinolates constitue un axe de recherche particulièrement pertinent pour valoriser les pratiques culinaires haïtiennes.",
+    "lien_pubmed": "",
+    "lien_scholar": "",
+    "lien_tramil": ""
+  },
+  "references": "Bohn T et al. (2018). Dietary factors affecting polyphenol bioavailability. Advances in Nutrition. doi:10.1093/advances/nmy023 Cartea ME et al. (2011). Phenolic compounds in Brassica vegetables. Molecules. doi:10.3390/molecules16020251 Fahey JW et al. (2002). Sulforaphane inhibits extracellular, intracellular, and antibiotic-resistant strains of Helicobacter pylori and prevents benzo[a]pyrene-induced stomach tumors. PMID: 12005639 POWO (2024). Plants of the World Online. Kew Science. www.plantsoftheworldonline.org TRAMIL (2024). Brassica oleracea. www.tramil.net World Flora Online (2024). WFO Plant List. www.worldfloraonline.org",
+  "aRetenir": "🟢 À retenir — Chou : est avant tout un aliment — sa valeur nutritionnelle prime sur ses usages medicinaux. Consommee correctement preparee, elle est sans danger documente. Ses proprietes therapeutiques, reelles mais secondaires, ne remplacent pas un suivi medical. Les auteurs declinent toute responsabilite quant a un usage inapproprie.",
+  "images": {
+    "principale": "images/211_Brassica_oleracea-001.jpg",
+    "galerie": [
+      "images/211_Brassica_oleracea-001.jpg",
+      "images/211_Brassica_oleracea-002.jpg",
+      "images/211_Brassica_oleracea-003.jpg"
+    ]
+  },
+  "source": "plantes_full.json"
+}

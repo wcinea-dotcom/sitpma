@@ -1,0 +1,57 @@
+{
+  "id_plante": "plt-6802",
+  "code": "plt-6802",
+  "no_espece": "",
+  "no_famille": "68",
+  "famille": "Poacées",
+  "description_famille": "",
+  "identite": {
+    "genre": "Cymbopogon",
+    "espece": "citratus",
+    "nom_scientifique": "Cymbopogon citratus",
+    "synonymes": "Andropogon citratus",
+    "nom_francais": "Citronnelle",
+    "nom_creole": "Sitwonèl",
+    "nom_anglais": "Lemongrass"
+  },
+  "morphologie": {
+    "description": "C. citratus est une herbe vivace cespiteuse formant des touffes denses, pouvant atteindre 1,5 à 2 mètres de hauteur dans les conditions favorables des basses altitudes haïtiennes. Sa saveur caractéristique est décrite comme farineuse avec des notes citronnées prononcées. Tiges et racines. La plante développe de courtes tiges (chaumes) à partir d'un système racinaire fasciculé typique des graminées. Les racines forment un réseau dense et superficiel adapté à la captation rapide des eaux de pluie tropicales. Feuilles. Les feuilles constituent la partie la plus remarquable et utile de la plante : longues, linéaires, de 60 à 100 cm de longueur et 1 à 2 cm de largeur, elles présentent une nervure centrale proéminente et des bords légèrement coupants. Leur couleur varie du vert tendre au vert bleuâtre. Lorsqu'on les froisse, elles libèrent immédiatement une fragrance citronnée intense, caractéristique de leur richesse en huiles essentielles. Cette propriété aromatique constitue le principal critère de reconnaissance de la plante sur le terrain. Inflorescence. Dans les conditions optimales, la citronnelle peut produire une inflorescence terminale en panicule lâche, typique des Poacées, mais la floraison reste rare en culture, la plante étant principalement multipliée par division des touffes. Les parties utilisées sont exclusivement les feuilles fraîches ou séchées, récoltées de préférence le matin lorsque la concentration en huiles essentielles est maximale.",
+    "ecologie": "Originaire d'Asie du Sud-Est, C. citratus a été introduite dans toutes les régions tropicales du monde pour ses qualités aromatiques et thérapeutiques. En Haïti, l'espèce demeure rare et principalement confinée aux jardins familiaux et aux exploitations de plantes médicinales des Départements du Sud et de la Grand'Anse. Elle prospère en basse altitude dans les sols bien drainés et nécessite un apport hydrique régulier. Sa multiplication se fait exclusivement par division des touffes, la floraison étant exceptionnelle sous les tropiques."
+  },
+  "usages": {
+    "usages_ethnobotaniques": "La citronnelle est documentée dans le Sud et la Grand'Anse comme antispasmodique digestif, sédatif léger, antioxydant et antimicrobien. Les feuilles fraîches ou séchées sont préparées en infusion selon la tradition locale : « On boit la citronnelle contre la grippe et dans le lait ». Le mode de préparation standard consiste à infuser 2 à 3 grammes de feuilles ciselées dans une tasse d'eau chaude pendant 5 à 10 minutes. Cette tisane aromatique est consommée chaude, souvent sucrée avec du miel local. L'usage documenté par TRAMIL confirme son emploi contre la grippe en Haïti. À l'international, particulièrement en Asie, elle est connue sous le nom de « lemongrass » et utilisée tant en cuisine qu'en phytothérapie traditionnelle.",
+    "systemes_concernes": "Digestif, Respiratoire, Nerveux"
+  },
+  "pharmacologie": {
+    "molecules": "Cymbopogon citratus se distingue par sa production exceptionnelle d'huiles essentielles volatiles concentrées dans des cellules spécialisées des feuilles. Ces huiles représentent 1 à 2% du poids frais des feuilles et confèrent à la plante son parfum citronné caractéristique. Le citral, composé majoritaire (65-85% de l'huile essentielle), résulte de l'association de deux aldéhydes isomères : le géranial et le néral. Ces molécules volatiles s'accompagnent de géraniol, myrcène, citronellal et limonène, créant le bouquet aromatique complexe de la citronnelle (Silva et al., 2011 — PMID: 21827916). Sur le plan nutritionnel, les feuilles contiennent des quantités modestes de vitamine C, potassium, calcium, magnésium et fer, typiques des tisanes aromatiques. Les principaux composés secondaires identifiés dans C. citratus comprennent : des huiles essentielles dominées par le citral (géranial + néral), géraniol, myrcène et citronellal, des flavonoïdes comme l'apigénine, la lutéoline et leurs dérivés glycosylés, des tanins condensés, des saponines triterpéniques, des acides phénoliques incluant l'acide caféique et l'acide chlorogénique (Francisco et al., 2011 — PMID: 21854794). Ces molécules remplissent des rôles écologiques précis pour la plante. Le citral et les autres terpènes volatils agissent comme répulsifs naturels contre les insectes herbivores et possèdent des propriétés antimicrobiennes qui protègent la plante des infections fongiques et bactériennes dans l'environnement tropical humide. Les flavonoïdes contribuent à la protection contre les rayonnements UV intenses des basses altitudes. Ces mêmes composés, une fois ingérés par l'humain sous forme d'infusion, produisent les effets biologiques documentés : relaxation du muscle lisse digestif (effet antispasmodique), propriétés antimicrobiennes et activité antioxydante par piégeage des radicaux libres.",
+    "posologie": "La posologie couramment documentée pour la tisane de citronnelle est de 2 à 3 grammes de feuilles par tasse, 2 à 3 fois par jour selon l'usage traditionnel. Pour l'anxiété, une étude clinique a utilisé l'inhalation de quelques gouttes d'huile essentielle déposées sur coton avant une tâche anxiogène (Goes et al., 2012 — PMID: 22849541). Ces dosages restent ceux de l'usage traditionnel et nécessiteraient une validation clinique plus approfondie pour établir des protocoles thérapeutiques standardisés."
+  },
+  "nutrition": {
+    "introduction": "Cymbopogon citratus (syn. Andropogon citratus) est une herbe vivace exotique, rare dans les Départements du Sud et de la Grand'Anse d'Haïti. Elle appartient à la famille des Poacées, l'une des familles botaniques les plus importantes au monde avec plus de 12 000 espèces. Cette famille regroupe toutes les graminées, des céréales fondamentales comme le riz (Oryza sativa), le maïs (Zea mays) et la canne à sucre (Saccharum officinarum), jusqu'aux herbes aromatiques comme le vétiver (Chrysopogon zizanioides). Sur le plan phytochimique, les Poacées se caractérisent par leur richesse en amidon, cellulose, silice dans les tiges, ainsi qu'en composés aromatiques spécialisés comme les huiles essentielles de la citronnelle et du vétiver. Les systèmes préférentiellement ciblés incluent les voies respiratoires, digestives et le système nerveux. Une vigilance est nécessaire avec certaines espèces : le sorgho jeune contient des cyanogènes toxiques qui disparaissent à maturité, tandis que les huiles essentielles de citronnelle peuvent être irritantes à forte dose. Au sein de cette famille, Cymbopogon citratus fait partie du genre Cymbopogon, qui rassemble une cinquantaine d'espèces aromatiques tropicales dont plusieurs sont cultivées pour leurs huiles essentielles. La citronnelle est documentée dans le Sud et la Grand'Anse principalement pour ses usages aromatiques, respiratoires et digestifs."
+  },
+  "toxicologie": {
+    "niveau": "",
+    "details": "Cymbopogon citratus est classée comme non toxique aux doses usuelles d'infusion. Les précautions concernent principalement les excès : une consommation excessive de tisane peut provoquer une irritation gastrique et une hypotension légère. L'huile essentielle concentrée par voie orale n'est pas recommandée en raison de son potentiel irritant. Une prudence particulière est conseillée pendant la grossesse, chez les enfants et les personnes sous traitement antihypertenseur en raison des effets hypotenseurs potentiels. L'usage en tisane aromatique reste sûr pour la population générale."
+  },
+  "conservation": {
+    "menaces": "Bien que l'espèce ne soit pas menacée au niveau mondial, sa rareté documentée dans les Départements du Sud et de la Grand'Anse justifie des efforts de conservation locale. La multiplication par division des touffes permet une propagation aisée, mais nécessite la préservation des variétés locales adaptées au climat haïtien. La sensibilisation des jardiniers traditionnels à la valeur de cette plante aromatique contribuerait à sa conservation.",
+    "valeur": "La valeur économique de C. citratus repose principalement sur son huile essentielle, largement commercialisée sur les marchés internationaux des parfums, cosmétiques et aromathérapie. Localement, elle représente une ressource médicinale et aromatique appréciée mais sous-exploitée économiquement. Le développement de sa culture pourrait constituer une opportunité pour la diversification agricole des petites exploitations."
+  },
+  "recherche": {
+    "nb_articles": "~5000 (estimation)",
+    "details": "Les recherches sur Cymbopogon citratus, avec environ 5000 publications indexées, couvrent principalement ses propriétés antimicrobiennes, antioxydantes et relaxantes. Les perspectives incluent l'approfondissement des mécanismes d'action des huiles essentielles, l'optimisation des méthodes d'extraction et la validation clinique des usages traditionnels. L'étude de ses interactions médicamenteuses et le développement de formes galéniques standardisées représentent des axes de recherche prioritaires.",
+    "lien_pubmed": "",
+    "lien_scholar": "",
+    "lien_tramil": ""
+  },
+  "references": "Silva, C.B. et al. (2011). Chemical composition and antioxidant activity of fresh and dry rhizomes of Cymbopogon citratus. Revista Brasileira de Plantas Medicinais. PMID: 21827916. Francisco, V. et al. (2011). Anti-inflammatory activity of Cymbopogon citratus leaves infusion via proteasome and nuclear factor-κB pathway inhibition. Food Chemistry. PMID: 21854794. Goes, T.C. et al. (2012). Effect of lemongrass aroma on experimental anxiety in humans. Journal of Alternative and Complementary Medicine. PMID: 22849541. Enshaieh, S. et al. (2007). The effects of aqueous and ethanolic extracts of Cymbopogon citratus on the isolated heart. Journal of Ethnopharmacology. PMID: 17678956. POWO (2024). Plants of the World Online. Kew Science. World Flora Online (2024). Global flora database. TRAMIL (2024). Cymbopogon citratus. www.tramil.net",
+  "aRetenir": "🟢 À retenir — Sitwonèl : est utilisee en medecine traditionnelle avec un bon profil de securite aux doses courantes. Les usages presentes reposent sur des donnees ethnobotaniques et scientifiques publiees, mais ne constituent pas une prescription. Consulter un professionnel de sante avant tout usage therapeutique. Les auteurs declinent toute responsabilite quant a un usage inapproprie.",
+  "images": {
+    "principale": "images/672_Cymbopogon_citratus-001.jpg",
+    "galerie": [
+      "images/672_Cymbopogon_citratus-001.jpg",
+      "images/672_Cymbopogon_citratus-002.jpg"
+    ]
+  },
+  "source": "plantes_full.json"
+}

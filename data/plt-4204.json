@@ -1,0 +1,56 @@
+{
+  "id_plante": "plt-4204",
+  "code": "plt-4204",
+  "no_espece": "",
+  "no_famille": "42",
+  "famille": "Lamiacées",
+  "description_famille": "",
+  "identite": {
+    "genre": "Mentha",
+    "espece": "nemorosa",
+    "nom_scientifique": "Mentha nemorosa Willd.",
+    "synonymes": "Mentha spicata var. nemorosa",
+    "nom_francais": "Menthe",
+    "nom_creole": "Ti bonm",
+    "nom_anglais": "Mint"
+  },
+  "morphologie": {
+    "description": "M. nemorosa est une herbe vivace aromatique d'altitude moyenne, cultivée ou naturalisée dans les jardins familiaux des deux départements. Tiges. Les tiges sont dressées, quadrangulaires — caractéristique distinctive des Lamiacées — généralement ramifiées, pouvant atteindre 30 à 60 cm de hauteur. Elles portent des nœuds marqués d'où émergent les feuilles opposées. Feuilles. Les feuilles sont opposées, ovales à lancéolées, dentées sur les bords, d'un vert vif. Elles dégagent un parfum mentholé caractéristique lorsqu'on les froisse, signe distinctif du genre Mentha. Leur texture est légèrement velue et leur saveur aromatique avec une fraîcheur mentholée moins prononcée que la menthe poivrée. Fleurs. Les fleurs sont petites, blanches à rose pâle, regroupées en épis terminaux denses. Elles présentent la structure typique des Lamiacées avec une corolle tubulaire à deux lèvres et des étamines saillantes. La floraison attire diverses espèces d'insectes pollinisateurs. Racines. Le système racinaire est superficiel mais étendu, avec des stolons permettant la multiplication végétative — stratégie de propagation commune chez les menthes. Les parties utilisées sont principalement les feuilles et les tiges feuillées, récoltées de préférence avant la floraison pour une concentration optimale en huiles essentielles.",
+    "ecologie": "M. nemorosa est une espèce exotique introduite, originaire d'Europe méditerranéenne et naturalisée dans de nombreuses régions pantropicales. À Haïti, elle est documentée dans les Départements du Sud et de la Grand'Anse, où elle pousse principalement en altitude moyenne dans des sols humides et bien drainés. Son statut de rareté dans la région suggère une adaptation encore limitée aux conditions climatiques locales, nécessitant souvent des soins particuliers en culture. La plante préfère les expositions mi-ombragées et nécessite un arrosage régulier, ce qui explique sa présence principalement dans les jardins familiaux entretenus."
+  },
+  "usages": {
+    "usages_ethnobotaniques": "Dans les Départements du Sud et de la Grand'Anse, M. nemorosa est utilisée exclusivement à des fins médicinales, principalement pour ses propriétés digestives. Les feuilles et tiges feuillées sont récoltées fraîches ou séchées à l'ombre pour préparer des infusions thérapeutiques. Le mode de préparation traditionnel consiste à infuser 1 à 2 cuillères à soupe de feuilles fraîches ou 1 cuillère à soupe de feuilles séchées dans une tasse d'eau bouillante pendant 5 à 10 minutes. Cette préparation, appelée localement « thé Mant », est consommée après les repas pour faciliter la digestion et soulager les troubles gastro-intestinaux mineurs. Selon les données TRAMIL, l'usage digestif de cette menthe est également documenté ailleurs en Haïti, confirmant sa place dans la pharmacopée traditionnelle haïtienne.",
+    "systemes_concernes": "Digestif, Nerveux"
+  },
+  "pharmacologie": {
+    "molecules": "Ce qui caractérise particulièrement Mentha nemorosa, c'est sa production d'huiles essentielles à dominante mentholée qui lui confère son arôme rafraîchissant et sa saveur distinctive. Ces huiles volatiles, concentrées dans les glandes sécrétrices situées sur les feuilles, contiennent principalement de la menthone, du menthol et de l'acétate de menthyle (Singh et al., 2015 — PMID: 25861954). Les feuilles renferment également de petites quantités de vitamine C et de minéraux comme le potassium (K), le calcium (Ca) et le magnésium (Mg), caractéristiques des herbes aromatiques fraîches. Les principaux composés secondaires identifiés dans M. nemorosa comprennent : des huiles essentielles dominées par la menthone et des composés mentholés, des flavonoïdes (lutéoline, apigénine), l'acide rosmarinique — un polyphénol antioxydant majeur des Lamiacées — et des tanins condensés (Hajlaoui et al., 2009 — PMID: 19427378). Ces molécules confèrent à la plante ses propriétés antispasmodiques, antimicrobiennes et antioxydantes documentées. Ces composés remplissent des fonctions de défense précises pour la plante. Les huiles essentielles mentholées agissent comme répulsifs naturels contre les herbivores et les agents pathogènes, protégeant les tissus végétaux vulnérables. L'acide rosmarinique protège contre le stress oxydatif induit par les rayonnements UV et les conditions environnementales défavorables. Ces mêmes composés, une fois ingérés par l'humain, produisent les effets biologiques documentés : relaxation de la musculature lisse intestinale par les huiles essentielles, activité antioxydante des polyphénols et effet carminatif favorisant l'élimination des gaz intestinaux.",
+    "posologie": "En phytothérapie moderne, la posologie générale pour les infusions de menthe est de 1,5 à 3 g de feuilles sèches par tasse, 2 à 3 fois par jour (WHO, 1999). Cependant, aucune posologie cliniquement validée n'est spécifiquement disponible pour M. nemorosa. Les pratiques traditionnelles documentées dans le Sud et la Grand'Anse ne sont pas standardisées et varient selon les préparateurs. Il est généralement recommandé de commencer par des doses faibles et d'observer la tolérance individuelle, particulièrement chez les personnes sensibles aux huiles essentielles."
+  },
+  "nutrition": {
+    "introduction": "Mentha nemorosa Willd. (syn. Mentha spicata var. nemorosa) est une herbe aromatique exotique, rare dans les Départements du Sud et de la Grand'Anse d'Haïti. Elle appartient à la famille des Lamiacées, une famille incontournable de la flore du grand sud, composée majoritairement d'herbes et d'arbustes reconnus mondialement pour leurs riches usages médicinaux, aromatiques et spirituels. Au sein de cette famille, elle fait partie du genre Mentha, qui regroupe plusieurs espèces de menthes caractérisées par leurs huiles essentielles rafraîchissantes et leurs propriétés digestives. Mentha nemorosa est une plante à usage médicinal documentée dans le Sud et la Grand'Anse, où elle est appréciée pour ses propriétés digestives et carminatives, consommée principalement en infusion sous le nom créole de « Mant »."
+  },
+  "toxicologie": {
+    "niveau": "",
+    "details": "M. nemorosa présente un profil de sécurité favorable aux doses thérapeutiques habituelles. Les précautions concernent principalement la surconsommation, qui peut provoquer des brûlures gastriques et des reflux chez les personnes sensibles. Une vigilance particulière est recommandée chez les enfants de moins de 5 ans en raison du risque de laryngospasme lié aux huiles essentielles concentrées. Les femmes enceintes et allaitantes devraient limiter la consommation aux doses alimentaires occasionnelles. Aucun effet indésirable grave n'a été rapporté aux doses traditionnelles d'usage."
+  },
+  "conservation": {
+    "menaces": "Le statut de rareté de M. nemorosa dans les Départements du Sud et de la Grand'Anse soulève des préoccupations concernant sa conservation locale. Cette rareté pourrait être liée aux défis d'adaptation aux conditions climatiques tropicales ou à une pression de collecte supérieure à la capacité de régénération naturelle. La préservation de cette espèce passe par l'encouragement de sa culture dans les jardins familiaux et la sensibilisation des utilisateurs aux techniques de récolte durable.",
+    "valeur": "Actuellement, M. nemorosa n'a pas de valeur économique commerciale significative dans les deux départements, restant principalement dans le domaine de l'usage familial et communautaire. Son potentiel économique pourrait être développé à travers la culture organisée pour approvisionner les marchés locaux d'herbes médicinales. Au niveau international, le genre Mentha représente un marché important pour les industries agro-alimentaires et cosmétiques, suggérant des opportunités de développement pour les variétés locales adaptées."
+  },
+  "recherche": {
+    "nb_articles": "",
+    "details": "Bien que le genre Mentha fasse l'objet de nombreuses publications scientifiques, M. nemorosa reste relativement peu étudiée spécifiquement. Les recherches futures devraient se concentrer sur la caractérisation précise de son profil chimique, l'évaluation de ses propriétés pharmacologiques spécifiques et le développement de protocoles de culture adaptés aux conditions haïtiennes. Des études cliniques contrôlées seraient nécessaires pour valider scientifiquement ses usages traditionnels et établir des posologies standardisées. L'investigation de son potentiel en aromathérapie et cosmétique naturelle pourrait également ouvrir de nouveaux débouchés économiques.",
+    "lien_pubmed": "",
+    "lien_scholar": "",
+    "lien_tramil": ""
+  },
+  "references": "Hajlaoui, H., Trabelsi, N., Noumi, E., Snoussi, M., Fallah, H., Ksouri, R., & Bakhrouf, A. (2009). Biological activities of the essential oils and methanol extract of tow cultivated mint species (Mentha longifolia and Mentha pulegium) used in the Tunisian folkloric medicine. World Journal of Microbiology and Biotechnology, 25(12), 2227-2238. PMID: 19427378. Khanna, R., MacDonald, J. K., & Levesque, B. G. (2014). Peppermint oil for the treatment of irritable bowel syndrome: a systematic review and meta-analysis. Journal of Clinical Gastroenterology, 48(6), 505-512. PMID: 25230520. Singh, R., Shushni, M. A., & Belkheir, A. (2015). Antibacterial and antioxidant activities of Mentha piperita L. Arabian Journal of Chemistry, 8(3), 322-328. PMID: 25861954. World Health Organization (1999). WHO Monographs on Selected Medicinal Plants, Volume 1. Geneva: WHO Press.",
+  "aRetenir": "🟢 À retenir — Ti bonm : est utilisee en medecine traditionnelle avec un bon profil de securite aux doses courantes. Les usages presentes reposent sur des donnees ethnobotaniques et scientifiques publiees, mais ne constituent pas une prescription. Consulter un professionnel de sante avant tout usage therapeutique. Les auteurs declinent toute responsabilite quant a un usage inapproprie.",
+  "images": {
+    "principale": "images/424_Mentha_nemorosa-001.jpg",
+    "galerie": [
+      "images/424_Mentha_nemorosa-001.jpg"
+    ]
+  },
+  "source": "plantes_full.json"
+}

@@ -1,0 +1,58 @@
+{
+  "id_plante": "plt-1004",
+  "code": "plt-1004",
+  "no_espece": "",
+  "no_famille": "10",
+  "famille": "Aracées",
+  "description_famille": "",
+  "identite": {
+    "genre": "Pistia",
+    "espece": "stratiotes",
+    "nom_scientifique": "Pistia stratiotes L.",
+    "synonymes": "Pistia occidentalis / Zala asiatica",
+    "nom_francais": "Laitue d'eau",
+    "nom_creole": "Lèti dlo",
+    "nom_anglais": "Water Lettuce"
+  },
+  "morphologie": {
+    "description": "P. stratiotes est une herbe aquatique flottante formant des colonies denses à la surface des eaux douces stagnantes ou à faible courant. Racines. Le système racinaire est remarquable : constitué de nombreuses racines filamenteuses pendantes, non fixées au substrat, qui plongent directement dans l'eau. Ces racines, d'un blanc nacré, peuvent atteindre 20 à 30 cm de longueur et servent à la fois d'ancrage, d'absorption des nutriments et de filtration de l'eau. Leur disposition en « chevelure » sous la plante lui confère une stabilité remarquable malgré l'absence d'enracinement. Feuilles. Les feuilles sont disposées en rosette basale flottante, épaisses et charnues, de forme spatulée à obovale, mesurant 2 à 15 cm selon les conditions nutritionnelles du milieu. Leur surface supérieure est recouverte d'un duvet hydrofuge qui maintient la plante à flot, tandis que leur couleur vert pâle à vert bleuâtre reflète leur adaptation au milieu aquatique. Les nervures parallèles sont bien visibles, caractéristique typique des Aracées. Fleurs et reproduction. Les fleurs sont petites, peu visibles, disposées dans un spadice typique des Aracées, entouré d'une spathe blanchâtre. La reproduction se fait principalement par voie végétative : la plante mère produit des stolons latéraux portant de jeunes plantules qui se détachent pour former de nouveaux individus, expliquant sa capacité de prolifération rapide. Les parties utilisées sont les feuilles et les racines, toujours par voie externe uniquement.",
+    "ecologie": "P. stratiotes est une espèce pantropicale native des régions chaudes d'Amérique. En Haïti, elle colonise naturellement les étangs, mares, canaux d'irrigation et zones humides des Départements du Sud et de la Grand'Anse, où elle peut former des tapis denses couvrant entièrement la surface de l'eau. Sa croissance rapide et sa reproduction végétative efficace lui permettent de s'adapter à différents niveaux de pollution aquatique, expliquant sa présence tant dans les eaux relativement propres que dans les milieux dégradés."
+  },
+  "usages": {
+    "usages_ethnobotaniques": "Dans les Départements du Sud et de la Grand'Anse, l'usage principal documenté de « Lèti dlo » concerne la préparation de bains thérapeutiques contre les démangeaisons et irritations cutanées. Les feuilles fraîches et les racines sont récoltées dans des eaux les plus propres possibles, puis utilisées en cataplasme direct ou incorporées dans des bains tièdes. Cette application externe permet de bénéficier des propriétés apaisantes et antimicrobiennes de la plante tout en évitant les risques liés à l'ingestion des polluants bioaccumulés. Dans la pharmacopée TRAMIL, l'usage contre les dermatoses est également documenté en Haïti, confirmant la cohérence de cette tradition thérapeutique régionale.",
+    "systemes_concernes": "Tégumentaire"
+  },
+  "pharmacologie": {
+    "molecules": "Les feuilles charnues de P. stratiotes accumulent principalement des glucides de stockage, des fibres structurales et des protéines enzymatiques liées à son métabolisme aquatique particulier. La plante concentre naturellement le potassium (K), le calcium (Ca) et le magnésium (Mg) présents dans l'eau, mais également — et c'est là son caractère problématique — tous les polluants dissous : métaux lourds (cadmium, plomb), pesticides et autres contaminants environnementaux. Cette capacité de bioaccumulation, initialement mécanisme de survie en milieu aquatique pollué, devient un facteur de risque majeur pour tout usage interne. Les principaux composés secondaires identifiés dans P. stratiotes comprennent : des flavonoïdes (quercétine, kaempférol, rutine) aux propriétés antioxydantes, des saponines triterpéniques responsables des propriétés détergentes et antimicrobiennes, des tanins hydrolysables conférant une astringence naturelle, des terpénoïdes volatils, des polyphénols divers, ainsi que des stérols végétaux comme le stigmastérol et le β-sitostérol (Singh et al., 2012 — DOI: 10.1016/j.aquabot.2012.01.002). Ces composés remplissent des fonctions défensives spécifiques pour la plante aquatique. Les flavonoïdes et polyphénols la protègent contre les rayonnements UV intenses réfléchis par la surface de l'eau. Les saponines créent une barrière chimique contre les pathogènes aquatiques et les herbivores. Les tanins confèrent une résistance aux attaques fongiques dans le milieu humide permanent. Ces mêmes composés, une fois appliqués sur la peau humaine, produisent les effets biologiques documentés : activité antimicrobienne, propriétés astringentes et effet apaisant sur les inflammations cutanées, bien que ces observations restent principalement issues d'études in vitro et de l'usage traditionnel.",
+    "posologie": "Aucune posologie cliniquement validée n'est disponible pour P. stratiotes. Les descriptions ethnobotaniques mentionnent des préparations en bains ou cataplasmes avec les parties fraîches, mais l'usage interne est formellement déconseillé en raison des risques de bioaccumulation. Les quelques références à des infusions ou décoctions (5-10 g/L) dans certains contextes internationaux ne présentent aucune garantie de sécurité et ne sauraient être recommandées."
+  },
+  "nutrition": {
+    "introduction": "Pistia stratiotes L. (syn. Pistia occidentalis, Zala asiatica) est une herbe aquatique flottante native d'Haïti, commune dans les eaux douces des Départements du Sud et de la Grand'Anse. Elle appartient à la famille des Aracées, une famille principalement composée d'herbes et de lianes reconnue pour sa richesse en usages alimentaires et médicinaux. Cette famille se distingue par ses composés phytochimiques dominants — oxalates de calcium, amidon, flavonoïdes et saponines — ciblant préférentiellement les systèmes tégumentaire et musculo-squelettique. Au sein de cette famille, P. stratiotes fait partie du genre Pistia, genre monotypique remarquable par sa capacité de prolifération rapide et ses propriétés de phytoremédiation. Son usage principal documenté dans les deux départements concerne les affections cutanées par application externe, bien que sa capacité de bioaccumulation de polluants exige une vigilance particulière quant à sa provenance."
+  },
+  "toxicologie": {
+    "niveau": "toxic",
+    "details": "P. stratiotes présente un profil toxicologique complexe lié à sa capacité exceptionnelle de bioaccumulation. La plante agit comme un « filtre vivant » concentrant métaux lourds (cadmium, plomb, mercure), pesticides et autres polluants présents dans son milieu aquatique. Cette caractéristique, utile pour la phytoremédiation, devient dangereuse pour l'usage thérapeutique, particulièrement par voie interne. L'ingestion est formellement contre-indiquée, surtout chez les femmes enceintes et allaitantes. Même par voie externe, il convient de s'assurer de la provenance de la plante et de la qualité de l'eau où elle a été récoltée."
+  },
+  "conservation": {
+    "menaces": "Aucun besoin de conservation spécifique n'existe pour P. stratiotes, qui présente au contraire un caractère prolifique parfois envahissant. Sa capacité de reproduction végétative rapide et sa tolérance à la pollution lui assurent une large distribution dans les milieux aquatiques des deux départements. Sa gestion relève plutôt du contrôle des populations excessives que de la protection.",
+    "valeur": "La valeur économique locale de P. stratiotes reste limitée aux usages médicinaux traditionnels en bains thérapeutiques. Internationalement, elle présente un intérêt croissant en aquariophilie comme plante décorative flottante et en phytoremédiation pour le traitement des eaux usées. Son potentiel de bioaccumulation en fait un outil précieux pour la dépollution aquatique, bien que cette même propriété limite ses applications thérapeutiques directes."
+  },
+  "recherche": {
+    "nb_articles": "~500 (estimation)",
+    "details": "Les recherches sur P. stratiotes se concentrent principalement sur ses capacités de phytoremédiation et ses propriétés antimicrobiennes in vitro. Environ 500 publications scientifiques abordent cette espèce, majoritairement dans les domaines de l'écologie aquatique et du traitement des eaux. Les perspectives thérapeutiques nécessiteraient des études approfondies sur la sélectivité de la bioaccumulation et le développement de protocoles de purification permettant de conserver les principes actifs tout en éliminant les contaminants.",
+    "lien_pubmed": "https://pubmed.ncbi.nlm.nih.gov/?term=Pistia+stratiotes",
+    "lien_scholar": "",
+    "lien_tramil": ""
+  },
+  "references": "Singh, S. et al. (2012). Phytochemical analysis of Pistia stratiotes L. Aquatic Botany. DOI: 10.1016/j.aquabot.2012.01.002 TRAMIL. Pistia stratiotes. www.tramil.net/en/plant/pistia-stratiotes PubMed. Pistia stratiotes research. https://pubmed.ncbi.nlm.nih.gov/?term=Pistia+stratiotes",
+  "aRetenir": "🟠 À retenir — Lèti dlo : est une plante a toxicite documentee. Tout usage interne non encadre est formellement deconseille. En cas d'ingestion accidentelle, consulter immediatement un service d'urgence. Ces informations sont destinees a l'enseignement et a la recherche uniquement. Les auteurs declinent toute responsabilite quant a un usage inapproprie.",
+  "images": {
+    "principale": "images/104_Pistia_stratiotes-001.jpg",
+    "galerie": [
+      "images/104_Pistia_stratiotes-001.jpg",
+      "images/104_Pistia_stratiotes-002.jpg",
+      "images/104_Pistia_stratiotes-003.jpg"
+    ]
+  },
+  "source": "plantes_full.json"
+}

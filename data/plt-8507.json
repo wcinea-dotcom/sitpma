@@ -1,0 +1,57 @@
+{
+  "id_plante": "plt-8507",
+  "code": "plt-8507",
+  "no_espece": "",
+  "no_famille": "85",
+  "famille": "Solanacées",
+  "description_famille": "",
+  "identite": {
+    "genre": "Solanum",
+    "espece": "melongena",
+    "nom_scientifique": "Solanum melongena L.",
+    "synonymes": "Solanum esculentum",
+    "nom_francais": "Aubergine",
+    "nom_creole": "Berejèn",
+    "nom_anglais": "Eggplant"
+  },
+  "morphologie": {
+    "description": "S. melongena est une herbe annuelle dressée, cultivée pour ses fruits charnus, pouvant atteindre 60 à 150 cm de hauteur selon les variétés et les conditions de culture dans le Sud et la Grand'Anse. Tiges et racines. La tige principale est robuste, légèrement lignifiée à la base, de couleur verte à violacée selon la variété. Elle présente souvent une pubescence fine et peut développer des épines sur les variétés sauvages ou semi-domestiquées. Le système racinaire est pivotant et bien développé, permettant une bonne résistance à la sécheresse temporaire. Feuilles. Les feuilles sont alternes, grandes (10-25 cm de longueur), ovales à oblongues, de couleur vert foncé sur le dessus et plus pâles dessous. Elles présentent une texture légèrement velue et des nervures proéminentes. Le limbe peut être entier ou légèrement lobé selon les cultivars. Fleurs. Les fleurs sont solitaires ou regroupées par 2-3, de couleur violette à blanche, typiques des Solanacées avec leur corolle à 5 lobes soudés. Elles mesurent 3-5 cm de diamètre et sont généralement autofertiles. Fruit. Le fruit est une baie charnue de forme très variable selon les cultivars : allongée, ovoïde, ronde ou piriforme. La peau lisse et brillante varie du violet foncé au blanc en passant par le rose et le vert. La chair spongieuse, de couleur blanche à crème, contient de nombreuses petites graines brunes et plates. Les parties utilisées sont principalement les fruits pour l'alimentation, et occasionnellement les feuilles en usage médicinal traditionnel.",
+    "ecologie": "Originaire d'Asie du Sud-Est (Inde, Birmanie), S. melongena a été introduite dans les Caraïbes pendant la période coloniale et s'est parfaitement adaptée au climat tropical d'Haïti. Dans les Départements du Sud et de la Grand'Anse, elle est cultivée en basse altitude dans les jardins familiaux et les exploitations maraîchères. La plante apprécie les sols riches, bien drainés et une exposition ensoleillée. Sa culture pantropicale en fait aujourd'hui l'un des légumes les plus consommés au monde après la tomate et l'oignon."
+  },
+  "usages": {
+    "usages_ethnobotaniques": "L'usage de l'aubergine documenté dans les Départements du Sud et de la Grand'Anse est principalement alimentaire et médicinal. Les fruits constituent un légume de base, consommés cuits ou en salade avec d'autres légumes dans la cuisine traditionnelle haïtienne. Ils sont généralement grillés, bouillis ou sautés, jamais consommés crus en raison de leur texture spongieuse et de leur légère amertume. Les feuilles font l'objet d'un usage médicinal traditionnel sous forme d'infusions pour leurs propriétés digestives, antioxydantes, hypotensives, anti-inflammatoires et diurétiques. Cependant, l'usage des feuilles demande une grande prudence en raison de leur teneur plus élevée en glycoalcaloïdes potentiellement toxiques. La préparation culinaire des fruits élimine naturellement la plupart des composés indésirables et optimise l'absorption des antioxydants.",
+    "systemes_concernes": "Cardiovasculaire"
+  },
+  "pharmacologie": {
+    "molecules": "L'aubergine se caractérise par une composition nutritionnelle remarquable, notamment sa richesse en nasunine, un anthocyane violet responsable de la couleur pourpre caractéristique du fruit. Cette molécule antioxydante puissante protège les membranes cellulaires contre l'oxydation et contribue aux propriétés cardioprotectrices documentées de l'aubergine (Noda et al., 2000 — PMID: 10479465). Le fruit contient également de l'acide chlorogénique, un composé phénolique aux propriétés hypocholestérolémiantes, ainsi que des fibres solubles favorisant la régulation du transit intestinal et du métabolisme lipidique. Sur le plan minéral, l'aubergine se distingue par sa teneur notable en potassium, magnésium et traces de fer et zinc. Les principaux composés secondaires identifiés dans S. melongena comprennent : des glycoalcaloïdes (solasodine, solanine en faibles concentrations dans le fruit mûr), des flavonoïdes (nasunine, rutine, quercétine), des saponines stéroïdiques, des caroténoïdes et de l'acide chlorogénique (Gürbüz et al., 2018 — PMID: 29156509). Ces molécules confèrent à la plante ses propriétés antioxydantes, anti-inflammatoires et hypolipémiantes documentées. Ces composés remplissent des fonctions de défense précises pour la plante. Les glycoalcaloïdes, concentrés principalement dans les feuilles et les parties vertes, protègent contre les herbivores et les pathogènes par leur amertume et leur toxicité modérée. La nasunine protège le fruit contre les rayonnements UV et l'oxydation. Ces mêmes composés, une fois ingérés par l'humain, produisent les effets biologiques documentés : protection cardiovasculaire, activité antioxydante et amélioration du profil lipidique, bien que la plupart des études restent in vitro ou sur modèles animaux.",
+    "posologie": "Pour l'usage alimentaire, la consommation de 100-200 g par jour de fruit cuit ou grillé s'intègre parfaitement dans une alimentation équilibrée. Cette quantité apporte une dose significative d'antioxydants et de fibres sans risque toxicologique. Concernant les infusions de feuilles à visée médicinale, aucune posologie cliniquement validée n'est disponible pour S. melongena en raison des préoccupations toxicologiques liées aux glycoalcaloïdes. Les pratiques traditionnelles documentées localement ne sont pas standardisées et leur usage doit faire l'objet d'une grande prudence, particulièrement chez les enfants, les femmes enceintes et les personnes souffrant d'insuffisance rénale."
+  },
+  "nutrition": {
+    "introduction": "Solanum melongena L. (syn. Solanum esculentum) est une herbe exotique commune dans les Départements du Sud et de la Grand'Anse d'Haïti, introduite et largement cultivée en zone de basse altitude. Elle appartient à la famille des Solanacées, une famille très variable regroupant des herbes et arbustes aux usages alimentaires, médicinaux et spirituels contrastés. Au sein de cette famille coexistent des espèces alimentaires incontournables — comme la tomate (Solanum lycopersicum), la pomme de terre (Solanum tuberosum) et le piment (Capsicum annuum) — et des espèces hautement toxiques comme Brugmansia, dont l'usage interne est absolument prohibé. Cette dualité s'explique par la signature phytochimique complexe de la famille, dominée par des alcaloïdes tropaniques (atropine, scopolamine), la solanine, la nicotine, la capsaïcine et des caroténoïdes, ciblant préférentiellement les systèmes nerveux, musculo-squelettique et tégumentaire. La vigilance reste de mise car certains représentants renferment des principes actifs très puissants exigeant un dosage strict. Dans le genre Solanum, S. melongena fait partie des espèces à vocation alimentaire sûre, contrairement à d'autres membres du genre contenant des glycoalcaloïdes toxiques. L'aubergine constitue un légume de base de l'alimentation haïtienne et un remède traditionnel aux propriétés antioxydantes reconnues."
+  },
+  "toxicologie": {
+    "niveau": "",
+    "details": "L'aubergine présente un profil de sécurité globalement favorable pour l'usage alimentaire des fruits mûrs et cuits. Cependant, les feuilles et parties vertes sont riches en solasodine et autres glycoalcaloïdes pouvant causer une toxicité neurologique et digestive à forte dose. Les fruits sont généralement sûrs dans l'usage culinaire normal, mais la prudence s'impose pour les préparations médicinales non alimentaires, particulièrement chez les personnes souffrant d'insuffisance rénale (en raison de la teneur en potassium), les enfants et les femmes enceintes. La cuisson élimine la plupart des composés potentiellement irritants et optimise la biodisponibilité des antioxydants."
+  },
+  "conservation": {
+    "menaces": "La conservation concerne principalement la préservation des variétés locales d'aubergines adaptées au climat et aux goûts haïtiens. L'érosion génétique liée à l'introduction de variétés commerciales standardisées représente une menace pour la diversité des cultivars traditionnels. La documentation et la multiplication des variétés locales constituent des priorités pour maintenir cette richesse génétique.",
+    "valeur": "L'aubergine représente une valeur économique importante tant au niveau local qu'international. Localement, elle constitue une source de revenus pour les maraîchers des Départements du Sud et de la Grand'Anse, ainsi qu'un aliment nutritif accessible. Au niveau international, elle fait partie du marché agro-alimentaire mondial, avec un potentiel d'exportation pour certaines variétés spécialisées."
+  },
+  "recherche": {
+    "nb_articles": "~2000 (estimation)",
+    "details": "Avec environ 2000 publications référencées sur PubMed, S. melongena fait l'objet d'un intérêt scientifique soutenu, notamment pour ses propriétés antioxydantes et cardioprotectrices. Les recherches futures pourraient se concentrer sur l'optimisation des méthodes de culture biologique, l'amélioration des variétés résistantes aux stress climatiques, et l'approfondissement des mécanismes moléculaires responsables de ses effets bénéfiques sur la santé cardiovasculaire. L'évaluation précise de la sécurité des préparations à base de feuilles mériterait également des études spécifiques.",
+    "lien_pubmed": "",
+    "lien_scholar": "",
+    "lien_tramil": ""
+  },
+  "references": "Noda, Y., Kaneyuki, T., Mori, A., & Packer, L. (2000). Antioxidant activities of nasunin, an anthocyanin in eggplant peels. Journal of Agricultural and Food Chemistry, 48(10), 5581-5586. PMID: 10479465. Gürbüz, N., Uluişik, S., Frary, A., Frary, A., & Doğanlar, S. (2018). Health benefits and bioactive compounds of eggplant. Food Chemistry, 268, 602-610. PMID: 29156509. POWO (2024). Plants of the World Online. Facilitated by the Royal Botanic Gardens, Kew. http://www.plantsoftheworldonline.org/ TRAMIL (2024). Traditional Medicine of the Islands Database. http://www.tramil.net",
+  "aRetenir": "🟢 À retenir — Berejèn : est avant tout un aliment — sa valeur nutritionnelle prime sur ses usages medicinaux. Consommee correctement preparee, elle est sans danger documente. Ses proprietes therapeutiques, reelles mais secondaires, ne remplacent pas un suivi medical. Les auteurs declinent toute responsabilite quant a un usage inapproprie.",
+  "images": {
+    "principale": "images/847_Solanum_melongena-001.jpg",
+    "galerie": [
+      "images/847_Solanum_melongena-001.jpg",
+      "images/847_Solanum_melongena-002.jpg"
+    ]
+  },
+  "source": "plantes_full.json"
+}

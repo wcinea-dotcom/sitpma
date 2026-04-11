@@ -1,0 +1,57 @@
+{
+  "id_plante": "plt-3302",
+  "code": "plt-3302",
+  "no_espece": "",
+  "no_famille": "33",
+  "famille": "Convolvulacées",
+  "description_famille": "",
+  "identite": {
+    "genre": "Ipomoea",
+    "espece": "batatas",
+    "nom_scientifique": "Ipomoea batatas (L.)",
+    "synonymes": "Convolvulus batatas L.",
+    "nom_francais": "Patate douce",
+    "nom_creole": "Patat",
+    "nom_anglais": "Sweet Potato"
+  },
+  "morphologie": {
+    "description": "I. batatas est une herbe rampante à tubercules, caractérisée par ses tiges volubiles et son système racinaire producteur de racines tubérisées charnues. Tiges et port. Les tiges sont herbacées, rampantes ou légèrement grimpantes, pouvant atteindre plusieurs mètres de longueur. Elles s'enracinent facilement aux nœuds au contact du sol, permettant une propagation végétative naturelle. Le port est étalé et couvrant. Racines et tubercules. Le système racinaire produit des tubercules charnus, ovoïdes à allongés, à chair de couleur variable selon les cultivars : blanche, jaune, orange ou violette. La peau peut être lisse ou rugueuse, de couleur beige, rouge ou violette. Ces tubercules constituent la partie principalement consommée. Feuilles. Les feuilles sont alternes, pétiolées, de forme très variable : entières cordiformes, lobées ou profondément découpées selon les variétés. Elles sont de couleur verte, parfois teintées de rouge ou de violet, et constituent un légume-feuille nutritif dans certaines cultures. Fleurs et reproduction. Les fleurs, rarement produites sous les tropiques, sont en forme d'entonnoir, de couleur blanche, rose ou violette, typiques de la famille des Convolvulacées. La reproduction se fait principalement par bouturage des tiges. Les parties utilisées sont principalement les tubercules comme aliment de base, et les feuilles jeunes comme légume-feuille ou en tisane.",
+    "ecologie": "Originaire d'Amérique tropicale, I. batatas s'est répandue dans toutes les régions tropicales et subtropicales du monde suite aux échanges colombiens. En Haïti, elle s'adapte parfaitement aux conditions climatiques des Départements du Sud et de la Grand'Anse, où elle est cultivée depuis les premiers temps de la colonisation. La plante préfère les sols bien drainés, légers à moyens, et tolère relativement bien la sécheresse une fois établie. Sa culture s'étend de la zone côtière jusqu'aux collines de moyenne altitude."
+  },
+  "usages": {
+    "usages_ethnobotaniques": "Documentée dans le Sud et la Grand'Anse, la patate douce occupe une place centrale dans l'alimentation traditionnelle haïtienne. Les tubercules constituent l'un des \"vivres\" de base, consommés bouillis, grillés, frits ou transformés en \"pain patate\", une pâtisserie traditionnelle sucrée très appréciée. Les feuilles jeunes sont parfois consommées comme légume-feuille ou préparées en tisane pour leurs propriétés nutritives. La préparation principale reste la cuisson simple : les tubercules sont pelés et bouillis jusqu'à tendreté, puis consommés nature ou assaisonnés. Selon TRAMIL, les feuilles sont utilisées en Haïti pour le diabète, préparées en décoction. La plante sert également de fourrage pour l'alimentation animale, les tiges et feuilles étant données aux porcs et aux bovins.",
+    "systemes_concernes": "Immunitaire, Oculaire"
+  },
+  "pharmacologie": {
+    "molecules": "Ce qui rend la patate douce nutritionnellement remarquable, c'est sa richesse en composés bioactifs responsables de ses couleurs vives et de sa valeur alimentaire. Les tubercules à chair orange doivent leur couleur aux caroténoïdes, principalement le bêta-carotène (provitamine A), tandis que les variétés violettes contiennent des anthocyanes, pigments antioxydants puissants. Les tubercules renferment également des quantités notables de vitamine C, de fibres alimentaires et d'amidon facilement digestible. Les feuilles concentrent des protéines végétales de bonne qualité, du fer, du calcium et diverses vitamines (Bovell-Benjamin, 2007 — PMID: 17995374). Les principaux composés secondaires identifiés dans I. batatas comprennent : des anthocyanes (cyanidin-3-glucoside, péonidin-3-glucoside dans les variétés violettes), des caroténoïdes (bêta-carotène, lutéine, zéaxanthine dans les variétés orange), des flavonoïdes (quercétine, kaempférol), des acides phénoliques (acide chlorogénique, acide caféique), des saponines et des polysaccharides complexes (Oki et al., 2002 — PMID: 12428975). Ces molécules remplissent des fonctions de défense précises pour la plante. Les anthocyanes et caroténoïdes protègent les tissus contre les dommages oxydatifs causés par les rayonnements UV et les stress environnementaux. Les composés phénoliques agissent comme défenses chimiques contre les pathogènes du sol et les herbivores. Ces mêmes composés, une fois ingérés par l'humain, produisent les effets biologiques documentés : activité antioxydante, modulation glycémique et soutien nutritionnel. Il convient de noter que la plupart des études pharmacologiques restent principalement in vitro ou sur modèles animaux.",
+    "posologie": "En usage alimentaire, les recommandations nutritionnelles suggèrent une consommation de 100 à 200 grammes de tubercule cuit par jour comme source de glucides complexes et de provitamine A. Pour les feuilles utilisées comme légume, 50 à 100 grammes de feuilles fraîches cuites apportent un complément protéique et vitaminique intéressant. Aucune posologie thérapeutique standardisée n'est établie pour un usage strictement médicinal, les bénéfices étant principalement nutritionnels. Les pratiques traditionnelles documentées localement ne sont pas standardisées cliniquement."
+  },
+  "nutrition": {
+    "introduction": "Ipomoea batatas (L.) Lam. (syn. Convolvulus batatas L.) est une herbe tubéreuse exotique pantropicale, cultivée de manière intensive dans les Départements du Sud et de la Grand'Anse. Elle appartient à la famille des Convolvulacées, une famille principalement composée de lianes et d'herbes grimpantes, reconnue pour ses usages alimentaires majeurs et ses propriétés médicinales variées. Au sein de cette famille, Ipomoea batatas fait partie du genre Ipomoea, qui regroupe plus de 600 espèces à travers le monde, incluant des espèces ornementales comme les belles-de-jour et d'autres à usages traditionnels. La patate douce constitue l'un des vivres alimentaires les plus importants d'Haïti, particulièrement appréciée pour sa richesse nutritionnelle et sa facilité de culture en conditions tropicales."
+  },
+  "toxicologie": {
+    "niveau": "",
+    "details": "I. batatas présente un excellent profil de sécurité alimentaire. Aucune toxicité significative n'est rapportée pour les tubercules aux doses alimentaires normales. Les feuilles contiennent des oxalates en quantités modérées, nécessitant une prudence chez les personnes prédisposées aux lithiases oxaliques. Chez les diabétiques sous traitement médicamenteux, il convient d'ajuster la prise en compte de la charge glucidique globale pour éviter les variations glycémiques. Les interactions médicamenteuses sont exceptionnelles aux doses alimentaires."
+  },
+  "conservation": {
+    "menaces": "La conservation porte principalement sur la diversité variétale locale. Les variétés traditionnelles haïtiennes, adaptées aux conditions pédoclimatiques spécifiques, risquent d'être supplantées par des cultivars commerciaux uniformisés. La préservation des écotypes locaux constitue un enjeu important pour maintenir la résilience culturale face aux changements climatiques et conserver les caractéristiques organoleptiques appréciées localement.",
+    "valeur": "La patate douce représente une valeur économique considérable dans les Départements du Sud et de la Grand'Anse, tant pour la sécurité alimentaire des ménages que pour les revenus agricoles. Sa facilité de culture, sa productivité élevée et sa capacité de conservation en font une culture de subsistance et de rente accessible aux petits producteurs. Le marché local absorbe la production sous forme fraîche, et les transformations artisanales (pain patate, chips) génèrent une valeur ajoutée appréciable."
+  },
+  "recherche": {
+    "nb_articles": "~2000 (estimation)",
+    "details": "Avec environ 2000 publications indexées sur PubMed, I. batatas fait l'objet d'un intérêt scientifique soutenu, particulièrement pour ses propriétés antioxydantes et son potentiel dans la prévention du diabète de type 2. Les recherches actuelles s'orientent vers l'optimisation des teneurs en composés bioactifs par sélection variétale, et vers la valorisation des co-produits (feuilles, tiges) comme sources de protéines et de molécules d'intérêt. Les perspectives incluent le développement de variétés enrichies et l'exploration des applications nutraceutiques.",
+    "lien_pubmed": "",
+    "lien_scholar": "",
+    "lien_tramil": "https://www.tramil.net/en/plant/ipomoea-batatas"
+  },
+  "references": "Bovell-Benjamin, A.C. (2007). Sweet potato: a review of its past, present, and future role in human nutrition. Advances in Food and Nutrition Research 52, 1-59. PMID: 17995374. Oki, T. et al. (2002). Colors and radical scavenging activities of anthocyanins in Ipomoea batatas purple sweet potato. Food Science and Technology Research 8(1), 45-51. Ludvik, B. et al. (2004). Improved metabolic control by Ipomoea batatas (Caiapo) is associated with increased adiponectin and decreased fibrinogen levels in type 2 diabetic subjects. Diabetes, Obesity and Metabolism 6(5), 335-340. PMID: 15149153. TRAMIL. Ipomoea batatas. https://www.tramil.net/en/plant/ipomoea-batatas",
+  "aRetenir": "🟢 À retenir — Patat : est avant tout un aliment — sa valeur nutritionnelle prime sur ses usages medicinaux. Consommee correctement preparee, elle est sans danger documente. Ses proprietes therapeutiques, reelles mais secondaires, ne remplacent pas un suivi medical. Les auteurs declinent toute responsabilite quant a un usage inapproprie.",
+  "images": {
+    "principale": "images/332_Ipomoea_batatas-001.jpg",
+    "galerie": [
+      "images/332_Ipomoea_batatas-001.jpg",
+      "images/332_Ipomoea_batatas-002.jpg"
+    ]
+  },
+  "source": "plantes_full.json"
+}

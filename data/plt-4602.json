@@ -1,0 +1,58 @@
+{
+  "id_plante": "plt-4602",
+  "code": "plt-4602",
+  "no_espece": "",
+  "no_famille": "46",
+  "famille": "Malpighiacées",
+  "description_famille": "",
+  "identite": {
+    "genre": "Malpighia",
+    "espece": "emarginata",
+    "nom_scientifique": "Malpighia emarginata",
+    "synonymes": "Malpighia punicifolia (often misapplied historically)",
+    "nom_francais": "Acérola / Cerise",
+    "nom_creole": "Seriz",
+    "nom_anglais": "Acerola / Cherry"
+  },
+  "morphologie": {
+    "description": "M. emarginata est un arbuste de basse altitude, généralement de 2 à 4 mètres de hauteur, adapté aux climats tropicaux humides des départements du Sud et de la Grand'Anse. Tiges et port. L'arbuste présente un port buissonnant avec des branches étalées et flexibles. L'écorce jeune est lisse et verdâtre, devenant rugueuse et grisâtre avec l'âge. Les rameaux jeunes sont pubescents. Feuilles. Les feuilles sont simples, opposées, de forme ovale à elliptique, mesurant 2 à 7 cm de longueur. Elles sont coriaces, à bords entiers ou légèrement émarginés (d'où le nom spécifique), de couleur vert brillant sur la face supérieure et plus pâle au revers. La nervation est pennée et bien marquée. Fleurs. Les inflorescences sont axillaires, en grappes courtes portant 3 à 8 petites fleurs hermaphrodites. Chaque fleur mesure environ 1 cm de diamètre, avec 5 pétales roses à blancs, 10 étamines et un pistil tricarpe. La floraison est étalée sur plusieurs mois dans les conditions haïtiennes. Fruits. Le fruit est une drupe globuleuse de 1 à 2 cm de diamètre, rouge vif à maturité, contenant 2 à 3 graines triangulaires. La pulpe juteuse représente la partie valorisée, caractérisée par sa saveur acidulée et sa texture légèrement gluante. Les parties utilisées sont principalement les fruits mûrs, et secondairement les feuilles pour certaines préparations médicinales.",
+    "ecologie": "M. emarginata est originaire des Antilles, du nord de l'Amérique du Sud et d'Amérique centrale. Introduit en Haïti, il s'est parfaitement naturalisé dans les Départements du Sud et de la Grand'Anse où il prospère entre 0 et 800 mètres d'altitude. L'espèce préfère les sols bien drainés, légèrement acides à neutres, et supporte bien les périodes sèches une fois établie. Sa floraison et fructification étalées permettent une production quasi-continue dans les conditions climatiques locales. L'arbuste est aujourd'hui pantropical, cultivé dans toutes les régions tropicales pour ses propriétés nutritionnelles exceptionnelles."
+  },
+  "usages": {
+    "usages_ethnobotaniques": "Dans les Départements du Sud et de la Grand'Anse, M. emarginata est documentée comme remède classique contre la grippe, principalement sous forme de jus de fruits frais. Les fruits mûrs sont pressés ou mixés pour obtenir un jus concentré en vitamine C, consommé pur ou dilué. Cette préparation correspond exactement aux usages TRAMIL documentés en Haïti pour les affections grippales. Les feuilles, moins utilisées localement, peuvent être préparées en infusion pour leurs propriétés digestives et anti-inflammatoires, bien que cette pratique soit moins répandue que l'usage du fruit. Le mode de préparation privilégie la consommation fraîche pour préserver l'intégrité de la vitamine C, thermolabile. Les fruits peuvent également être incorporés dans des mélanges avec d'autres plantes médicinales locales pour renforcer leurs effets immunostimulants.",
+    "systemes_concernes": "Digestif, Immunitaire"
+  },
+  "pharmacologie": {
+    "molecules": "Ce qui distingue remarquablement M. emarginata parmi tous les végétaux, c'est sa teneur exceptionnelle en acide ascorbique (vitamine C) : les fruits contiennent entre 1000 et 4000 mg de vitamine C pour 100 g de pulpe fraîche, soit 20 à 80 fois plus que l'orange. Cette concentration extrême résulte de l'activité intense des enzymes L-galactonolactone oxydase dans les tissus du péricarpe. Les fruits contiennent également des sucres simples (glucose, fructose, saccharose) responsables de leur goût sucré-acidulé, des acides organiques (acide citrique, acide malique) qui accentuent l'acidité caractéristique, et des fibres pectiques conférant la texture légèrement gluante mentionnée dans les observations locales. Les pigments anthocyaniques (cyanidine-3-glucoside, pélargonidine-3-glucoside) sont responsables de la couleur rouge intense du fruit mûr, tandis que les caroténoïdes (β-carotène, lycopène) participent aux nuances orangées. Les principaux composés secondaires identifiés dans M. emarginata comprennent : des flavonoïdes (quercétine, rutine, anthocyanines), des tanins condensés, des triterpènes, des saponines et des composés phénoliques variés (Prakash et Baskaran, 2018 — PMID: 29480898). Les feuilles concentrent particulièrement les tanins et les flavonoïdes, expliquant leur amertume et leurs propriétés astringentes traditionnellement reconnues. Ces molécules remplissent des fonctions de protection spécifiques pour la plante. La vitamine C agit comme un puissant antioxydant protégeant les tissus contre le stress oxydatif intense des environnements tropicaux. Les anthocyanes dans les fruits attirent les oiseaux disperseurs tout en protégeant les graines des rayonnements UV. Les tanins des feuilles découragent l'herbivorie par leur astringence. Ces mêmes composés, une fois ingérés par l'humain, produisent les effets biologiques documentés : l'acide ascorbique soutient les fonctions immunitaires et la synthèse du collagène, les polyphénols exercent une activité antioxydante systémique, les tanins peuvent contribuer aux effets astringents sur le tube digestif (Mezadri et al., 2008 — PMID: 18196596).",
+    "posologie": "Pour les compléments à base de jus de fruits, la littérature scientifique rapporte des dosages de 30 à 100 mL par jour, équivalent à 100-500 mg de vitamine C, soit 1 à 6 fois les apports journaliers recommandés (Prakash et Baskaran, 2018 — PMID: 29480898). Les infusions de feuilles restent peu documentées sur le plan posologique. Dans les pratiques traditionnelles haïtiennes, le jus frais est généralement consommé à raison d'un petit verre (50-100 mL) une à deux fois par jour pendant les épisodes grippaux, sans standardisation précise."
+  },
+  "nutrition": {
+    "introduction": "Malpighia emarginata DC. (syn. Malpighia punicifolia, souvent mal appliqué historiquement) est un arbuste fruitier exotique, naturalisé et largement cultivé dans les Départements du Sud et de la Grand'Anse. Il appartient à la famille des Malpighiacées, une famille tropicale d'arbres et arbustes dominée par des espèces à fruits comestibles et à propriétés médicinales marquées. Cette famille se caractérise phytochimiquement par une exceptionnelle richesse en vitamine C — particulièrement chez Malpighia emarginata qui détient des records mondiaux —, ainsi qu'en flavonoïdes, anthocyanes et tanins, ciblant préférentiellement les systèmes immunitaire et digestif. Au sein de cette famille, le genre Malpighia regroupe environ 45 espèces d'arbustes fruitiers néotropicaux, dont plusieurs sont cultivées pour leurs fruits riches en antioxydants. M. emarginata représente l'espèce alimentaire et médicinale majeure des Départements du Sud et de la Grand'Anse, où elle est principalement valorisée pour ses propriétés immunostimulantes exceptionnelles."
+  },
+  "toxicologie": {
+    "niveau": "",
+    "details": "M. emarginata présente un excellent profil de sécurité. Les fruits sont considérés comme non toxiques aux doses alimentaires et thérapeutiques usuelles. Cependant, la richesse extrême en vitamine C et en acides organiques peut provoquer des troubles digestifs (diarrhées, crampes) en cas de consommation excessive. Une prudence particulière est recommandée chez les enfants très jeunes en raison de l'acidité élevée des fruits. Les personnes prédisposées aux lithiases rénales oxaliques devraient limiter leur consommation en raison de la conversion métabolique possible de l'acide ascorbique en oxalate (Prakash et Baskaran, 2018 — PMID: 29480898)."
+  },
+  "conservation": {
+    "menaces": "Bien que l'espèce soit commune et naturalisée dans les Départements du Sud et de la Grand'Anse, la conservation porte sur la préservation des variétés locales adaptées aux conditions pédo-climatiques haïtiennes. L'érosion génétique due à l'introduction de cultivars commerciaux uniformes constitue la principale menace pour la diversité génétique locale. La promotion des écotypes locaux et leur multiplication par les pépinières communautaires représentent des priorités pour maintenir l'adaptation aux conditions environnementales spécifiques des deux départements.",
+    "valeur": "Sur le plan local, M. emarginata représente une source alimentaire et médicinale accessible aux familles rurales des Départements du Sud et de la Grand'Anse. Sa culture nécessite peu d'intrants et génère des revenus réguliers grâce à sa fructification étalée. À l'échelle internationale, l'acérola constitue un marché en forte croissance pour l'industrie des nutraceutiques et des compléments alimentaires, valorisé pour sa teneur record en vitamine C naturelle. Le marché mondial de l'acérola dépasse 100 millions de dollars annuels, porté par la demande croissante en antioxydants naturels."
+  },
+  "recherche": {
+    "nb_articles": "",
+    "details": "Avec près d'un millier de publications scientifiques référencées, M. emarginata fait l'objet de recherches actives en nutrition, pharmacologie et biotechnologie. Les perspectives incluent l'optimisation des procédés d'extraction et de stabilisation de la vitamine C, le développement de formes galéniques innovantes, et l'exploration des synergies avec d'autres composés bioactifs. En Haïti, des études spécifiques sur les variétés locales permettraient d'optimiser les pratiques culturales et de valoriser le potentiel nutraceutique des écotypes adaptés aux conditions du Sud et de la Grand'Anse.",
+    "lien_pubmed": "",
+    "lien_scholar": "",
+    "lien_tramil": ""
+  },
+  "references": "Assis SA et al. (2008). Antioxidant activity, ascorbic acid and phenolic compounds in acerola fruit. International Journal of Food Science & Technology. PMID: 18034743. Mezadri T et al. (2008). Antioxidant compounds and antioxidant activity in acerola (Malpighia emarginata DC.) fruits and derivatives. Journal of Food Composition and Analysis. PMID: 18196596. Prakash A, Baskaran R (2018). Acerola, an untapped functional superfruit: a review on latest frontiers. Journal of Food Science and Technology. PMID: 29480898. Rufino MSM et al. (2010). Bioactive compounds and antioxidant capacities of 18 non-traditional tropical fruits from Brazil. Food Chemistry. PMID: 19835694. TRAMIL (2026). Malpighia emarginata. www.tramil.net World Flora Online (2026). Malpighia emarginata DC. www.worldfloraonline.org",
+  "aRetenir": "🟢 À retenir — Seriz : est avant tout un aliment — sa valeur nutritionnelle prime sur ses usages medicinaux. Consommee correctement preparee, elle est sans danger documente. Ses proprietes therapeutiques, reelles mais secondaires, ne remplacent pas un suivi medical. Les auteurs declinent toute responsabilite quant a un usage inapproprie.",
+  "images": {
+    "principale": "images/462_Malpighia_emarginata-001.jpg",
+    "galerie": [
+      "images/462_Malpighia_emarginata-001.jpg",
+      "images/462_Malpighia_emarginata-002.jpg",
+      "images/462_Malpighia_emarginata-003.jpg"
+    ]
+  },
+  "source": "plantes_full.json"
+}

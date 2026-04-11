@@ -1,0 +1,59 @@
+{
+  "id_plante": "plt-1803",
+  "code": "plt-1803",
+  "no_espece": "",
+  "no_famille": "18",
+  "famille": "Bignoniacées",
+  "description_famille": "",
+  "identite": {
+    "genre": "Ekmanianthe",
+    "espece": "longiflora",
+    "nom_scientifique": "Ekmanianthe longiflora",
+    "synonymes": "Tecoma longiflora",
+    "nom_francais": "-",
+    "nom_creole": "Bwa chèn",
+    "nom_anglais": "-"
+  },
+  "morphologie": {
+    "description": "E. longiflora est un arbre de taille moyenne, adapté aux altitudes moyennes des massifs montagneux d'Haïti, particulièrement du Massif de la Hotte en Grand'Anse où il trouve son habitat de prédilection. Tronc et écorce. Le tronc développe un bois dense et résistant, caractéristique recherchée qui explique son nom créole « Bwa chèn » — par analogie avec le chêne européen pour sa solidité. L'écorce présente une texture rugueuse et une saveur astringente marquée, signe de sa richesse en tanins. Feuilles. Les feuilles sont opposées, composées et persistantes, adaptées aux conditions climatiques des moyennes altitudes. Leur surface coriace et leur saveur astringente témoignent de leur concentration en composés phénoliques défensifs. Fleurs. Comme l'indique son épithète spécifique « longiflora », l'espèce se distingue par ses fleurs allongées, caractéristique qui a contribué à sa classification dans un genre distinct. Ces fleurs tubulaires, typiques des Bignoniaceae, sont adaptées à la pollinisation par des animaux spécialisés. Fruit. Le fruit est une capsule allongée contenant des graines ailées, mécanisme de dispersion éolienne caractéristique de la famille des Bignoniaceae. Les parties utilisées sont les feuilles, les racines et l'écorce, principalement pour leurs propriétés médicinales, tandis que le bois constitue la ressource recherchée pour la construction.",
+    "ecologie": "E. longiflora est strictement endémique d'Haïti, avec une distribution naturelle concentrée dans le Massif de la Hotte en Grand'Anse. Cette répartition ultra-restreinte témoigne de l'adaptation spécialisée de l'espèce aux conditions écologiques particulières des moyennes altitudes haïtiennes. L'arbre croît préférentiellement dans les forêts humides de montagne, où il bénéficie d'un climat plus frais et de précipitations régulières. Sa rareté extrême s'explique par la déforestation intensive qui a fragmenté son habitat naturel, réduisant les populations à quelques individus isolés dans les zones les plus inaccessibles du massif."
+  },
+  "usages": {
+    "usages_ethnobotaniques": "Dans les Départements du Sud et de la Grand'Anse, E. longiflora présente une dualité d'usage remarquable. D'une part, son bois constitue un matériau de construction très prisé, utilisé localement pour la menuiserie, la charpenterie et la fabrication d'outils durables — d'où son appellation « Bwa chèn » qui souligne sa résistance comparable au chêne. D'autre part, les feuilles, racines et écorce conservent des usages médicinaux traditionnels documentés : anti-inflammatoire pour traiter les douleurs articulaires et musculaires, analgésique pour soulager diverses douleurs, hypotenseur dans le traitement empirique de l'hypertension, cicatrisant pour favoriser la guérison des plaies, et antispasmodique pour calmer les crampes et spasmes. Les préparations se font généralement sous forme de décoctions d'écorce ou de feuilles, d'infusions, ou d'applications externes de cataplasmes pour les usages cicatrisants.",
+    "systemes_concernes": "Cardiovasculaire, Tégumentaire"
+  },
+  "pharmacologie": {
+    "molecules": "Le bois d'E. longiflora développe une composition chimique particulière qui lui confère sa résistance et sa durabilité recherchées en construction. Les fibres ligneuses sont renforcées par des dépôts de lignine complexe et de tanins condensés, créant une matrice dense résistante à l'humidité, aux insectes xylophages et aux champignons lignivores. Cette composition explique pourquoi ce bois est localement surnommé « chêne haïtien ». L'écorce et les feuilles concentrent des tanins hydrolysables responsables de leur saveur astringente caractéristique, ainsi que des traces de potassium, calcium et magnésium. Les principaux composés secondaires identifiés dans E. longiflora comprennent : des flavonoïdes (quercétine, kaempférol, rutine), des iridoïdes, des triterpènes, des saponines et des tanins condensés (Pharmacia Pensoft). Ces molécules constituent le système de défense chimique de l'arbre contre les pathogènes, les herbivores et les stress environnementaux des moyennes altitudes. Ces mêmes composés, une fois utilisés par l'humain, pourraient produire les effets biologiques documentés dans les usages traditionnels. Les tanins exerceraient des effets astringents et anti-inflammatoires sur les muqueuses. Les flavonoïdes présenteraient des propriétés antioxydantes et vasculoprotectrices potentielles. Les iridoïdes contribueraient aux effets anti-inflammatoires et analgésiques rapportés. Cependant, ces hypothèses mécanistiques restent à valider par des études pharmacologiques rigoureuses, les observations demeurant principalement issues d'analogies avec d'autres Bignoniaceae mieux étudiées.",
+    "posologie": "Aucune posologie cliniquement validée n'est disponible dans la littérature scientifique pour E. longiflora. Les quelques données disponibles se limitent à des usages empiriques rapportés dans la littérature ethnobotanique, sans standardisation des doses, des concentrations ou des durées de traitement. Cette lacune constitue un obstacle majeur à une utilisation thérapeutique sécurisée et efficace. Des études de pharmacocinétique et de pharmacodynamie seraient nécessaires pour établir des protocoles posologiques validés, particulièrement compte tenu des effets hypotenseurs potentiels qui pourraient nécessiter un suivi médical approprié."
+  },
+  "nutrition": {
+    "introduction": "Ekmanianthe longiflora (syn. Tecoma longiflora) est un arbre endémique strict d'Haïti — c'est-à-dire qu'il n'existe nulle part ailleurs sur Terre — appartenant à la famille des Bignoniaceae. Au sein de cette famille, il constitue l'unique représentant du genre Ekmanianthe, un genre monospécifique créé spécifiquement pour cette espèce remarquable. Documenté dans le Sud et la Grand'Anse sous le nom de « Bwa chèn », cet arbre de moyenne altitude présente un double intérêt : il constitue un bois précieux localement recherché pour la construction et la menuiserie, tout en conservant des usages médicinaux traditionnels qui témoignent de la richesse thérapeutique des Bignoniaceae. Son statut d'endémique strict et sa rareté extrême en font l'une des espèces les plus prioritaires pour la conservation de la flore haïtienne."
+  },
+  "toxicologie": {
+    "niveau": "",
+    "details": "E. longiflora présente un profil toxicologique apparemment favorable, classée comme non toxique aux doses habituellement utilisées. Cependant, plusieurs précautions demeurent nécessaires. La prudence est recommandée pendant la grossesse et l'allaitement en l'absence de données de sécurité spécifiques. Les effets hypotenseurs documentés imposent une surveillance particulière chez les patients sous traitement antihypertenseur, avec risque d'hypotension additive. Des troubles digestifs pourraient survenir en cas de doses élevées ou d'usage prolongé, probablement liés à la forte concentration en tanins astringents. La rareté extrême de l'espèce devrait également limiter son usage thérapeutique au profit d'alternatives plus communes."
+  },
+  "conservation": {
+    "menaces": "E. longiflora fait face à une urgence de conservation critique. Son statut d'endémique strict combiné à sa rareté extrême place cette espèce parmi les plus menacées de la flore haïtienne. La déforestation continue du Massif de la Hotte, la pression d'exploitation de son bois précieux, et la fragmentation de son habitat réduisent drastiquement les populations sauvages. Des mesures de protection in situ et de multiplication ex situ s'imposent urgemment pour éviter l'extinction de cette espèce unique au patrimoine génétique irremplaçable.",
+    "valeur": "La valeur économique d'E. longiflora repose principalement sur son bois de construction très apprécié localement pour sa résistance et sa durabilité. Cette caractéristique lui confère une valeur marchande élevée sur les marchés locaux, où il est recherché pour la menuiserie fine et la charpenterie durable. Paradoxalement, cette valeur économique constitue également une menace pour sa survie, créant une pression d'exploitation incompatible avec sa rareté. Sur le plan international, son statut d'endémique strict limite les perspectives commerciales, mais pourrait ouvrir des opportunités dans la recherche de nouveaux composés bioactifs."
+  },
+  "recherche": {
+    "nb_articles": "~5 (estimation)",
+    "details": "Les recherches sur E. longiflora demeurent très limitées, avec seulement une estimation d'environ 5 publications scientifiques disponibles. Les priorités de recherche incluent : des études phytochimiques approfondies pour identifier et quantifier les composés bioactifs, des essais pharmacologiques pour valider les usages traditionnels, des recherches écologiques pour comprendre ses exigences environnementales, et des protocoles de multiplication pour la conservation ex situ. La caractérisation génétique de l'espèce pourrait révéler des adaptations uniques liées à son endémisme, ouvrant des perspectives en biotechnologie végétale.",
+    "lien_pubmed": "",
+    "lien_scholar": "",
+    "lien_tramil": ""
+  },
+  "references": "Pharmacia Pensoft. Données phytochimiques et toxicologiques d'Ekmanianthe longiflora. Disponible sur : pharmacia.pensoft.net POWO (2024). Plants of the World Online. Kew Science. Disponible sur : http://www.plantsoftheworldonline.org/ World Flora Online (2024). WFO Plant List. Disponible sur : http://www.worldfloraonline.org/",
+  "aRetenir": "🟢 À retenir — Bwa chèn : est une espece peu ou non etudiee scientifiquement. Les proprietes presentees reposent sur des analogies avec des especes proches et les usages traditionnels documentes localement. La conservation de cette espece prime sur toute valorisation. Les auteurs declinent toute responsabilite quant a un usage inapproprie.",
+  "images": {
+    "principale": "images/183_Ekmanianthe_longiflora-001.jpg",
+    "galerie": [
+      "images/183_Ekmanianthe_longiflora-001.jpg",
+      "images/183_Ekmanianthe_longiflora-003.jpg",
+      "images/183_Ekmanianthe_longiflora-004.jpg",
+      "images/183_Ekmanianthe_longiflora-005.jpg"
+    ]
+  },
+  "source": "plantes_full.json"
+}

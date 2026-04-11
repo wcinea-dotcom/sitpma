@@ -1,0 +1,59 @@
+{
+  "id_plante": "plt-7704",
+  "code": "plt-7704",
+  "no_espece": "",
+  "no_famille": "77",
+  "famille": "Rosacées",
+  "description_famille": "",
+  "identite": {
+    "genre": "Rubus",
+    "espece": "selleanus",
+    "nom_scientifique": "Rubus selleanus Helwig",
+    "synonymes": "-",
+    "nom_francais": "Ronce",
+    "nom_creole": "-",
+    "nom_anglais": "-"
+  },
+  "morphologie": {
+    "description": "R. selleanus est un arbuste semi-ligneux à port grimpant ou rampant, caractéristique des environnements montagnards humides des pinèdes d'Hispaniola. Tiges et épines. Les tiges sont arquées, flexibles, munies d'épines acérées disposées de manière irrégulière le long des rameaux. Ces épines constituent un mécanisme de défense mécanique permettant à la plante de s'accrocher aux supports et de dissuader les herbivores. L'écorce des tiges âgées devient brunâtre et rugueuse. Feuilles. Les feuilles sont composées, généralement trifoliolées, avec des folioles dentées aux bords. Le limbe est vert foncé sur la face supérieure et plus pâle au revers, souvent pubescent. Les feuilles persistent partiellement durant la saison sèche dans les conditions d'altitude. Fleurs et reproduction. Les fleurs, typiques du genre Rubus, sont blanches à rosées, groupées en corymbes terminaux. Chaque fleur présente cinq pétales et de nombreuses étamines, attirant les insectes pollinisateurs des montagnes. Fruits. Les fruits sont des polydrupe noires à maturité, composés de nombreuses petites drupes soudées, similaires aux mûres sauvages. Ils constituent la partie comestible de la plante. Les parties utilisées sont principalement les feuilles pour les préparations médicinales et les fruits pour la consommation directe.",
+    "ecologie": "Rubus selleanus est strictement endémique d'Hispaniola, confiné aux écosystèmes montagnards du Massif de la Selle (Haïti) et de la Sierra de Baoruco (République Dominicaine). L'espèce croît exclusivement dans les pinèdes d'altitude, entre 1500 et 2600 mètres, où elle s'épanouit dans les sous-bois humides et les clairières. Cette distribution ultra-restreinte reflète une adaptation spécialisée aux conditions climatiques particulières des montagnes caribéennes : températures fraîches, forte humidité atmosphérique et sols acides bien drainés. La plante colonise préférentiellement les lisières forestières et les zones perturbées où la lumière pénètre suffisamment pour permettre sa croissance grimpante."
+  },
+  "usages": {
+    "usages_ethnobotaniques": "Dans les communautés montagnardes des Départements du Sud et de la Grand'Anse, Rubus selleanus est documenté comme remède traditionnel contre les troubles digestifs et les affections buccales. Les feuilles constituent la partie médicinale principale, récoltées de préférence avant la floraison lorsque leur teneur en tanins est optimale. Le mode de préparation privilégié consiste en une infusion prolongée : une cuillère à soupe de feuilles séchées pour une tasse d'eau bouillante, laissée infuser 15 à 20 minutes pour extraire efficacement les principes astringents. Cette préparation est utilisée par voie orale contre les diarrhées et dysenteries, et en bain de bouche pour traiter les aphtes et les inflammations gingivales. Les fruits, bien que comestibles, sont principalement consommés par opportunité lors des déplacements en montagne plutôt que comme aliment de base. Malgré ses propriétés médicinales reconnues, l'espèce est souvent considérée comme « mauvaise herbe » par les cultivateurs en raison de ses épines agressives et de sa tendance à coloniser les terrains perturbés.",
+    "systemes_concernes": "Digestif"
+  },
+  "pharmacologie": {
+    "molecules": "Rubus selleanus produit des pigments anthocyaniques responsables de la coloration noire intense de ses fruits mûrs. Ces anthocyanes, principalement la cyanidine-3-glucoside, protègent les graines contre les rayonnements UV intenses de l'altitude tout en attirant les oiseaux disperseurs. Les fruits contiennent également des acides organiques (malique, citrique) qui leur confèrent une saveur acidulée caractéristique, ainsi que des sucres simples et de la vitamine C, typiques des fruits de Rosacées. Les principaux composés secondaires identifiés dans le genre Rubus comprennent : des tanins hydrolysables et condensés (ellagitanins, proanthocyanidines), des flavonoïdes (quercétine, kaempférol), de l'acide ellagique, des anthocyanes (cyanidine, delphinidine), et des triterpènes (acide ursolique). Ces composés sont particulièrement concentrés dans les feuilles et l'écorce (Rao & Snyder, 2010 — PMID: 20178390). Ces molécules remplissent des fonctions de défense essentielles pour la plante montagnarde. Les tanins protègent les tissus contre les pathogènes fongiques fréquents dans les environnements humides d'altitude, tout en dissuadant les herbivores par leur astringence. Les anthocyanes des fruits servent de signaux visuels pour attirer les oiseaux frugivores, favorisant la dispersion des graines. Ces mêmes composés, une fois ingérés par l'humain, produisent les effets astringents documentés dans les pratiques traditionnelles, principalement par précipitation des protéines des muqueuses inflammées.",
+    "posologie": "Aucune posologie cliniquement validée n'est disponible spécifiquement pour Rubus selleanus. Les pratiques traditionnelles documentées dans le Sud et la Grand'Anse utilisent une infusion riche préparée avec environ une cuillère à soupe de feuilles séchées par tasse d'eau, administrée 2 à 3 fois par jour pour les troubles digestifs. Cette posologie empirique vise à obtenir un effet astringent suffisant sans provoquer d'irritation gastrique excessive. L'absence d'études cliniques standardisées limite la définition de doses thérapeutiques précises, rendant nécessaire une approche prudente basée sur l'observation des effets et la tolérance individuelle."
+  },
+  "nutrition": {
+    "introduction": "Rubus selleanus Helwig est un arbuste grimpant endémique d'Hispaniola, appartenant à la famille des Rosacées. Au sein de cette famille, il fait partie du genre Rubus, qui comprend les ronces, mûres et framboises sauvages, caractérisées par leurs tiges épineuses et leurs fruits agrégés comestibles. Cette espèce montagnarde, confinée aux pinèdes du Massif de la Selle et du Baoruco, représente l'une des ronces les plus rares des Caraïbes. Dans les Départements du Sud et de la Grand'Anse, R. selleanus est principalement reconnu comme plante médicinale astringente, bien que souvent considéré comme une « mauvaise herbe » en raison de ses épines et de sa croissance envahissante. L'espèce constitue un exemple remarquable d'adaptation aux écosystèmes montagnards d'altitude d'Hispaniola."
+  },
+  "toxicologie": {
+    "niveau": "",
+    "details": "Rubus selleanus présente un profil de sécurité favorable, classé comme non toxique. La principale précaution concerne les risques de blessures mécaniques lors de la récolte en raison des épines acérées qui équipent les tiges. Ces épines peuvent causer des plaies punctiformes douloureuses et potentiellement infectieuses si les mesures d'hygiène ne sont pas respectées. Sur le plan chimique, les tanins contenus dans les feuilles peuvent occasionner des troubles gastro-intestinaux légers (nausées, constipation) en cas de consommation excessive ou prolongée, mais aucune toxicité majeure n'a été rapportée. L'usage est déconseillé chez les enfants de moins de 3 ans en raison du risque d'irritation digestive."
+  },
+  "conservation": {
+    "menaces": "Rubus selleanus figure parmi les espèces végétales les plus menacées d'Hispaniola en raison de son aire de distribution extrêmement restreinte et de la pression anthropique croissante sur les écosystèmes montagnards. La déforestation des pinèdes pour l'agriculture et l'exploitation du bois, combinée au réchauffement climatique qui pousse les isothermes vers des altitudes plus élevées, réduit progressivement l'habitat disponible. Les incendies récurrents dans les montagnes constituent une menace additionnelle pour cette espèce aux capacités de régénération limitées. La préservation de R. selleanus nécessite une protection stricte des derniers fragments de pinèdes d'altitude et des programmes de multiplication ex situ.",
+    "valeur": "L'espèce ne présente actuellement aucune valeur économique directe en raison de sa rareté extrême et de sa distribution inaccessible. Les fruits, bien que comestibles, sont produits en quantités insuffisantes pour constituer une ressource alimentaire significative. Localement, les feuilles conservent une valeur médicinale traditionnelle modeste dans les communautés montagnardes, mais leur exploitation reste anecdotique. Le potentiel économique principal réside dans la conservation et l'écotourisme scientifique, cette ronce endémique pouvant constituer un attrait pour les botanistes et naturalistes visitant les écosystèmes d'altitude d'Hispaniola. Sa valeur patrimoniale en tant qu'élément unique de la biodiversité caribéenne dépasse largement sa valeur marchande immédiate."
+  },
+  "recherche": {
+    "nb_articles": "",
+    "details": "Les publications scientifiques spécifiques à Rubus selleanus sont extrêmement rares, reflétant à la fois sa découverte botanique relativement récente et sa distribution très limitée. Les recherches futures devraient prioritairement porter sur sa biologie de conservation : capacités reproductives, exigences écologiques précises, et techniques de multiplication pour des programmes de sauvegarde ex situ. Sur le plan phytochimique, une caractérisation complète des métabolites secondaires permettrait de valider les usages traditionnels et d'identifier d'éventuels composés d'intérêt thérapeutique spécifiques à cette espèce endémique. Des études génétiques comparatives avec les autres ronces caribéennes éclaireraient les processus évolutifs ayant conduit à cette endémicité montagnarde. L'urgence de la situation impose une approche multidisciplinaire combinant taxonomie, écologie, chimie et conservation.",
+    "lien_pubmed": "",
+    "lien_scholar": "",
+    "lien_tramil": ""
+  },
+  "references": "Rao AV & Snyder DM (2010). Raspberries and human health: a review. Journal of Agricultural and Food Chemistry. PMID: 20178390 Krauze-Baranowska M et al. (2014). Antioxidant and anti-inflammatory activities of Rubus idaeus L. leaves extract and its major compounds. Food and Chemical Toxicology. PMID: 25172795 POWO (2024). Plants of the World Online. Facilitated by the Royal Botanic Gardens, Kew. http://www.plantsoftheworldonline.org/ World Flora Online (2024). WFO Plant List. http://www.worldfloraonline.org/",
+  "aRetenir": "🟢 À retenir — Rubus : est une espece peu ou non etudiee scientifiquement. Les proprietes presentees reposent sur des analogies avec des especes proches et les usages traditionnels documentes localement. La conservation de cette espece prime sur toute valorisation. Les auteurs declinent toute responsabilite quant a un usage inapproprie.",
+  "images": {
+    "principale": "images/764_Rubus_selleanus-002.jpg",
+    "galerie": [
+      "images/764_Rubus_selleanus-002.jpg",
+      "images/764_Rubus_selleanus-003.jpg",
+      "images/764_Rubus_selleanus-004.jpg",
+      "images/764_Rubus_selleanus-005.jpg"
+    ]
+  },
+  "source": "plantes_full.json"
+}

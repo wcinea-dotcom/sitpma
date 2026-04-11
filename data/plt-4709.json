@@ -1,0 +1,57 @@
+{
+  "id_plante": "plt-4709",
+  "code": "plt-4709",
+  "no_espece": "",
+  "no_famille": "47",
+  "famille": "Malvacées",
+  "description_famille": "",
+  "identite": {
+    "genre": "Theobroma",
+    "espece": "cacao",
+    "nom_scientifique": "Theobroma cacao L.",
+    "synonymes": "Cacao theobroma",
+    "nom_francais": "Cacaoyer",
+    "nom_creole": "Kakao",
+    "nom_anglais": "Cocoa"
+  },
+  "morphologie": {
+    "description": "T. cacao est un petit arbre tropical persistant pouvant atteindre 6 à 12 mètres de hauteur dans son milieu naturel, généralement maintenu plus petit en culture. Tiges et écorce. Le tronc est droit avec une écorce lisse et grisâtre. L'arbre développe une couronne étalée avec des branches principales horizontales donnant un port caractéristique. Feuilles. Les feuilles sont grandes (15-40 cm), alternes, simples, ovales à oblongues, coriaces et persistantes. Elles présentent un limbe vert foncé brillant sur la face supérieure et plus pâle en dessous, avec des nervures bien marquées. Fleurs. Les fleurs sont petites (1-2 cm), blanches à rosées, directement insérées sur le tronc et les grosses branches (cauliflorie). Cette caractéristique remarquable facilite la pollinisation par de petits insectes spécialisés dans les sous-bois tropicaux. Fruits. Les fruits sont des cabosses ovales allongées de 15-25 cm, à surface côtelée, variant du vert au rouge selon la variété. Chaque cabosse contient 20 à 50 graines (fèves de cacao) enrobées d'une pulpe blanchâtre mucilaginеuse. Les parties utilisées sont principalement les graines torréfiées, occasionnellement les feuilles en infusion.",
+    "ecologie": "Originaire du bassin amazonien, T. cacao a été domestiqué il y a plus de 3000 ans par les civilisations mésoaméricaines. L'espèce nécessite un climat tropical chaud et humide avec des températures constantes entre 20-30°C. En Haïti, elle est cultivée principalement dans les zones de basse altitude des départements du Sud et de la Grand'Anse, où les conditions climatiques lui sont favorables. La plante préfère les sols riches, bien drainés et légèrement acides."
+  },
+  "usages": {
+    "usages_ethnobotaniques": "Dans les Départements du Sud et de la Grand'Anse, le cacao est principalement utilisé comme aliment reconstituant et stimulant léger. Les usages documentés dans le Sud et la Grand'Anse incluent la consommation de cacao contre la faiblesse générale. Les graines sont torréfiées puis broyées pour produire une pâte de cacao qui peut être consommée directement ou préparée en boisson chaude. La torréfaction développe les arômes caractéristiques et réduit l'amertume naturelle des fèves crues. Les feuilles sont occasionnellement utilisées en infusion, bien que cette pratique soit moins documentée. La préparation traditionnelle du chocolat haïtien implique souvent l'ajout d'épices locales comme la cannelle ou la muscade.",
+    "systemes_concernes": "Nerveux, Cardiovasculaire"
+  },
+  "pharmacologie": {
+    "molecules": "Le cacao doit ses propriétés à sa composition lipidique exceptionnelle — les fèves contiennent 50 à 57% de matière grasse (beurre de cacao) composée principalement d'acides gras saturés (acide stéarique) et mono-insaturés (acide oléique). Cette richesse en lipides de qualité explique la valeur nutritionnelle et énergétique traditionnellement attribuée au cacao pour « redonner des forces ». Les fèves renferment également des sucres complexes, des protéines (12-15%) et des minéraux remarquables, particulièrement le magnésium (400-500 mg/100g) et le potassium, contribuant au soutien cardiovasculaire documenté. Les principaux composés secondaires identifiés dans T. cacao comprennent : des flavanols (épicatéchine, catéchine, procyanidines oligomères), la théobromine (1-3% dans les fèves), la caféine (0,1-0,7%), des tanins condensés, des alcaloïdes tétrahydro-β-carbolines et des composés aromatiques volatils responsables du goût du chocolat (Rusconi & Conti, 2010 — PMID: 20095881, Aprotosoaie et al., 2016 — PMID: 26559394). Ces molécules remplissent des fonctions de défense spécifiques pour la plante. La théobromine et la caféine protègent les graines contre les insectes et les mammifères herbivores — ces alcaloïdes étant toxiques pour de nombreux animaux. Les flavanols et tanins offrent une protection antimicrobienne et antifongique aux tissus exposés. Ces mêmes composés, une fois ingérés par l'humain, produisent les effets biologiques documentés : stimulation légère du système nerveux central par les méthylxanthines, amélioration de la fonction endothéliale par les flavanols, et activité antioxydante globale. Les études demeurent néanmoins principalement issues d'essais in vitro ou sur modèles animaux.",
+    "posologie": "Les études cliniques suggèrent qu'une consommation de 200 à 900 mg par jour de flavanols de cacao, correspondant à environ 10 à 40 grammes de cacao riche en flavanols ou de chocolat noir standardisé, peut procurer des bénéfices cardiovasculaires (Hooper et al., 2012 — PMID: 22825731). Pour l'usage traditionnel des feuilles en infusion, aucune posologie cliniquement validée n'est disponible, les pratiques locales n'étant pas standardisées. La consommation doit rester modérée en raison de la teneur en théobromine et caféine."
+  },
+  "nutrition": {
+    "introduction": "Theobroma cacao L. est un arbre exotique cultivé dans les Départements du Sud et de la Grand'Anse, appartenant à la famille des Malvacées. Au sein de cette vaste famille, il fait partie du genre Theobroma, un petit groupe d'arbres tropicaux américains dont T. cacao constitue l'espèce économiquement la plus importante au monde. Son usage principal en Haïti est alimentaire — pour la production de chocolat — et médicinal comme reconstituant contre la faiblesse, pratique documentée dans le Sud et la Grand'Anse."
+  },
+  "toxicologie": {
+    "niveau": "",
+    "details": "Le cacao présente une toxicité conditionnelle liée principalement aux méthylxanthines. Un excès de théobromine et de caféine peut provoquer nervosité, insomnie, palpitations cardiaques et élévation de la tension artérielle chez les personnes sensibles. Les produits chocolatés riches en sucres et graisses peuvent contribuer à une surcharge calorique. La théobromine est particulièrement toxique pour les chiens et certains autres animaux domestiques. Une prudence est recommandée chez les personnes sous traitements cardiovasculaires ou stimulants du système nerveux central."
+  },
+  "conservation": {
+    "menaces": "Bien que T. cacao ne soit pas menacé globalement, la conservation des variétés locales haïtiennes présente un intérêt pour maintenir la diversité génétique. Les changements climatiques et les maladies fongiques constituent les principales menaces pour la cacaoculture locale. La préservation des cultivars traditionnels adaptés aux conditions locales est prioritaire.",
+    "valeur": "Le cacao représente une culture de rente importante pour Haïti, avec un potentiel d'exportation vers les marchés internationaux de chocolat fin. La qualité du cacao haïtien est reconnue internationalement, particulièrement celui du Sud. Le développement de filières durables pourrait constituer une source de revenus significative pour les producteurs locaux tout en préservant les pratiques traditionnelles."
+  },
+  "recherche": {
+    "nb_articles": "~5000 (estimation)",
+    "details": "Avec environ 5000 publications scientifiques référencées, T. cacao figure parmi les plantes alimentaires les mieux étudiées au monde. Les recherches actuelles se concentrent sur l'optimisation des teneurs en flavanols, le développement de variétés résistantes aux maladies, et la validation des effets cardiovasculaires en conditions cliniques. L'étude spécifique des propriétés des variétés haïtiennes et des usages traditionnels locaux mériterait des investigations approfondies.",
+    "lien_pubmed": "",
+    "lien_scholar": "",
+    "lien_tramil": ""
+  },
+  "references": "Apechrososoaie, A.C., et al. (2016). Bioactive compounds and antioxidant activity of cocoa beans. Food Chemistry, 218, 388-396. PMID: 26559394. Hooper, L., et al. (2012). Effects of chocolate, cocoa, and flavan-3-ols on cardiovascular health. Cochrane Database of Systematic Reviews, 8, CD008893. PMID: 22825731. Martin, M.A., et al. (2013). Cocoa flavonoids up-regulate antioxidant enzyme activity via the ERK1/2 pathway. Journal of Nutritional Biochemistry, 24(1), 289-297. PMID: 23506168. Ried, K., et al. (2017). Effect of cocoa on blood pressure. Cochrane Database of Systematic Reviews, 4, CD008893. PMID: 28391922. Rusconi, M. & Conti, A. (2010). Theobroma cacao L., the food of the gods. Food & Function, 1(3), 344-349. PMID: 20095881. TRAMIL (2024). Theobroma cacao. www.tramil.net",
+  "aRetenir": "🟡 À retenir — Kakao : est une plante a toxicite conditionnelle documentee. Respecter imperativement les precautions indiquees. Ne jamais ingerer les parties toxiques sans encadrement medical. Ces informations sont destinees a l'enseignement et a la documentation. Les auteurs declinent toute responsabilite quant a un usage inapproprie.",
+  "images": {
+    "principale": "images/479_Theobroma_cacao-001.jpg",
+    "galerie": [
+      "images/479_Theobroma_cacao-001.jpg",
+      "images/479_Theobroma_cacao-002.jpg"
+    ]
+  },
+  "source": "plantes_full.json"
+}

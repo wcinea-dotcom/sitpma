@@ -1,0 +1,54 @@
+{
+  "id_plante": "plt-0701",
+  "code": "plt-0701",
+  "no_espece": "",
+  "no_famille": "7",
+  "famille": "Annonacées",
+  "description_famille": "Les Annonacées forment une famille tropicale de plus de 2 400 espèces réparties en 135 genres, principalement représentée par des arbres et arbustes des régions chaudes du globe. Cette famille revêt une importance économique majeure avec des genres alimentaires de premier plan comme Annona (corossol, pomme cannelle, cachimant), ainsi que des espèces aromatiques précieuses telles qu'Ylang-ylang (Cananga odorata). Sur le plan médicinal, elle se distingue par une signature phytochimique unique dominée par les acétogénines — des composés bioactifs puissants ciblant préférentiellement les systèmes digestif, nerveux et cellulaire. Ces molécules s'accompagnent d'alcaloïdes isoquinoléiques, de flavonoïdes et de composés terpéniques volatils responsables des arômes caractéristiques. Cependant, cette richesse chimique exige une vigilance particulière : toutes les graines de la famille contiennent des acétogénines neurotoxiques potentiellement dangereuses, et certaines espèces comme Annona glabra présentent des risques de toxicité neurologique en cas d'usage prolongé ou mal dosé.",
+  "identite": {
+    "genre": "Annona",
+    "espece": "glabra",
+    "nom_scientifique": "Annona glabra L.",
+    "synonymes": "Annona palustris L.",
+    "nom_francais": "Cachimânier / Corossolier des marais",
+    "nom_creole": "Kachiman maron",
+    "nom_anglais": "Pond apple"
+  },
+  "morphologie": {
+    "description": "A. glabra est un arbre de basse altitude, adapté aux zones humides et aux environnements de mangrove, pouvant atteindre 8 à 15 mètres de hauteur (POWO, Kew Science , World Flora Online, 2026). Sa tolérance à l'inondation le distingue nettement des autres espèces du genre Annona. Tiges et racines. Le tronc développe un système racinaire particulièrement adapté aux sols gorgés d'eau. Les racines produisent un bois très léger, spongieux, utilisé localement pour confectionner des flotteurs de filets de pêche. L'écorce est lisse à légèrement fissurée, de couleur gris-brun. Feuilles. Les feuilles sont simples, alternes, entières, de forme oblongue à elliptique, mesurant 8 à 20 cm de longueur. Elles sont coriaces, d'un vert foncé brillant sur la face supérieure et plus pâles en dessous. Le limbe est glabre, ce que reflète l'épithète spécifique « glabra ». Fleurs. Les fleurs sont solitaires ou groupées par 2-3, de couleur jaune-verdâtre, mesurant environ 2-3 cm de diamètre. Elles présentent la structure typique des Annonacées avec trois sépales et six pétales disposés en deux verticilles. Fruit. Le fruit est un syncarpe globuleux à ovoïde, de 5 à 15 cm de diamètre, à surface lisse ou légèrement bosselée, de couleur jaune à maturité. La pulpe blanchâtre à jaunâtre, comestible mais moins savoureuse que celle d'autres Annona, contient de nombreuses graines noires toxiques. Les parties utilisées sont les feuilles, les fruits mûrs (pulpe uniquement) et le bois des racines.",
+    "ecologie": "A. glabra est une espèce native des zones tropicales humides d'Amérique, particulièrement adaptée aux environnements palustres et côtiers. En Haïti, elle se rencontre principalement dans les mangroves et zones marécageuses des Départements du Sud et de la Grand'Anse, documentée aux Cayes, Port-à-Piment, Tiburon, Île-à-Cache et Jérémie. Son statut de « très rare » dans l'inventaire BRH témoigne de la dégradation de ses habitats naturels. L'espèce tolère les sols salés et les inondations périodiques, occupant une niche écologique spécialisée que peu d'autres arbres fruitiers peuvent coloniser."
+  },
+  "usages": {
+    "usages_ethnobotaniques": "Documentée dans le Sud et la Grand'Anse, A. glabra présente trois domaines d'usage traditionnels. Le principal usage concerne l'artisanat de pêche : le bois léger des racines sert à confectionner des flotteurs pour les filets, exploitant sa remarquable flottabilité due à sa structure aérée. L'usage alimentaire reste occasionnel : les fruits mûrs sont consommés frais, mais leur saveur fade limite leur attrait comparé aux autres Annona. L'usage médicinal traditionnel emploie les feuilles en infusion ou décoction pour traiter la toux, les parasitoses intestinales et, selon certaines pratiques, dans le traitement traditionnel de tumeurs. Les graines, reconnues comme toxiques, ne font l'objet d'aucun usage documenté. Les modes de préparation incluent l'infusion des feuilles fraîches ou séchées et la décoction pour les usages antiparasitaires.",
+    "systemes_concernes": "Digestif, Respiratoire"
+  },
+  "pharmacologie": {
+    "molecules": "Le Kachiman maron possède un trait chimique propre à sa famille botanique : la production d'acétogénines, des molécules extraordinaires qui sabotent la respiration cellulaire de ses prédateurs, établissant ainsi une défense chimique d'une sophistication remarquable. Ce qui rend A. glabra particulièrement remarquable, c'est sa production d'acétogénines, des composés uniques à la famille des Annonacées. Ces molécules complexes constituent un système de défense chimique redoutable contre les insectes et les agents pathogènes, tout en conférant à la plante ses propriétés bioactives. Les principaux métabolites secondaires identifiés dans A. glabra comprennent : des acétogénines (annonacine, asimicine, glabracine), des alcaloïdes isoquinoléiques (réticuline), des flavonoïdes, des terpènes et l'acide kaurénoïque (Bermejo et al., 2005 — Natural Product Reports). Les acétogénines agissent en inhibant le complexe I de la chaîne respiratoire mitochondriale, perturbant la production d'ATP dans les cellules cibles — mécanisme expliquant leurs propriétés antiparasitaires et cytotoxiques. Les alcaloïdes comme la réticuline contribuent aux effets sur le système nerveux. Les flavonoïdes offrent une protection antioxydante, tandis que les terpènes participent aux défenses contre les herbivores et aux propriétés aromatiques.",
+    "posologie": "Aucune posologie standardisée n'existe pour A. glabra. Les usages traditionnels emploient généralement des infusions légères de feuilles (quelques feuilles fraîches pour une tasse d'eau chaude) pour la toux. Pour les usages antiparasitaires, des décoctions plus concentrées peuvent être préparées, mais la durée et la fréquence d'usage doivent rester limitées en raison du potentiel neurotoxique des acétogénines. La prudence s'impose particulièrement lors d'usages répétés ou prolongés."
+  },
+  "nutrition": {
+    "introduction": "Annona glabra L. (syn. Annona palustris) est un arbre natif d'Haïti connu sous le nom créole de « Kachiman maron ». Il appartient à la famille des Annonacées, une grande famille tropicale principalement composée d'arbres, reconnue pour ses riches usages alimentaires, médicinaux et aromatiques. Cette famille se distingue par une signature phytochimique unique dominée par les acétogénines — des composés bioactifs puissants — accompagnées d'alcaloïdes, de flavonoïdes et de terpènes, ciblant préférentiellement les systèmes digestif, nerveux et cellulaire. Il convient de souligner que toutes les graines des Annonacées contiennent des acétogénines neurotoxiques, exigeant une prudence particulière. Au sein de cette famille, Annona glabra fait partie du genre Annona, qui regroupe les espèces productrices de fruits tropicaux les plus appréciés — corossol, pomme cannelle, cachimant — tous caractérisés par leur pulpe crémeuse et leurs propriétés bioactives. Dans les Départements du Sud et de la Grand'Anse, cette espèce très rare présente un usage polyvalent : alimentaire occasionnel, médicinal traditionnel et artisanal pour la pêche."
+  },
+  "toxicologie": {
+    "niveau": "",
+    "details": "A. glabra présente un niveau de toxicité conditionnel exigeant des précautions spécifiques. Les graines sont formellement toxiques en raison de leur forte teneur en acétogénines neurotoxiques et ne doivent jamais être consommées. La pulpe des fruits mûrs est généralement considérée comme sûre à consommation occasionnelle, mais l'usage prolongé de préparations de feuilles à forte dose est déconseillé en raison du risque de neurotoxicité liée à l'accumulation d'acétogénines. Il convient d'éviter tout contact des préparations avec les yeux et de ne pas dépasser des usages ponctuels. Les femmes enceintes et allaitantes devraient éviter tout usage médicinal de cette espèce."
+  },
+  "conservation": {
+    "menaces": "Bien que classée « Préoccupation mineure » (LC) au niveau global, A. glabra fait face localement à la destruction de ses habitats spécialisés. Les mangroves et zones humides côtières d'Haïti subissent une pression anthropique intense. Son statut de « très rare » dans les Départements du Sud et de la Grand'Anse nécessite une surveillance de ses populations restantes et la protection de ses habitats palustres.",
+    "valeur": "La valeur économique d'A. glabra reste limitée et principalement locale. Le bois des racines pour les flotteurs de pêche représente son usage économique principal, exploitant une propriété physique unique. À l'échelle internationale, l'espèce sert occasionnellement de porte-greffe pour A. muricata dans les zones inondées, valorisant sa tolérance à l'eau. Le potentiel pharmacologique des acétogénines pourrait représenter une valeur future, mais nécessite des recherches approfondies sur la sécurité d'usage."
+  },
+  "recherche": {
+    "nb_articles": "",
+    "details": "Les recherches sur A. glabra se concentrent principalement sur la caractérisation de ses acétogénines et l'évaluation de leurs propriétés cytotoxiques in vitro. Des études récentes ont identifié de nouveaux composés bioactifs dans les extraits de feuilles et graines. Les perspectives incluent l'évaluation de la sécurité d'usage à long terme, la standardisation des préparations traditionnelles et l'exploration du potentiel antiparasitaire documenté traditionnellement. La conservation ex situ de cette espèce rare mériterait également des efforts de recherche.",
+    "lien_pubmed": "",
+    "lien_scholar": "",
+    "lien_tramil": ""
+  },
+  "references": "Bermejo, A. et al. (2005). Acetogenins from Annonaceae: recent progress in isolation, synthesis and mechanisms of action. Natural Product Reports. DOI: 10.1039/b500186m. McLaughlin, J.L. (2008). Paw paw and cancer: annonaceous acetogenins from discovery to commercial products. PMC2575026. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2575026/",
+  "aRetenir": "🟡 À retenir — Kachiman maron : est une plante a toxicite conditionnelle documentee. Respecter imperativement les precautions indiquees. Ne jamais ingerer les parties toxiques sans encadrement medical. Ces informations sont destinees a l'enseignement et a la documentation. Les auteurs declinent toute responsabilite quant a un usage inapproprie.",
+  "images": {
+    "principale": "",
+    "galerie": []
+  },
+  "source": "plantes_full.json"
+}

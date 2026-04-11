@@ -1,0 +1,58 @@
+{
+  "id_plante": "plt-8503",
+  "code": "plt-8503",
+  "no_espece": "",
+  "no_famille": "85",
+  "famille": "Solanacées",
+  "description_famille": "",
+  "identite": {
+    "genre": "Cestrum",
+    "espece": "bicolor",
+    "nom_scientifique": "Cestrum bicolor Urban",
+    "synonymes": "Cestrum daphnoides",
+    "nom_francais": "",
+    "nom_creole": "Zozofine",
+    "nom_anglais": ""
+  },
+  "morphologie": {
+    "description": "C. bicolor est un arbuste de haute altitude, caractérisé par sa saveur amèrement légère et sa rareté extrême dans son aire de répartition naturelle. Tiges et port. L'arbuste présente des tiges ligneuses ramifiées, typiques du genre Cestrum, formant un port buissonnant adapté aux conditions d'altitude des massifs du Sud et de la Grand'Anse. L'écorce est généralement lisse à légèrement rugueuse selon l'âge des rameaux. Feuilles. Les feuilles sont simples, alternes, de forme ovale à elliptique, à marge entière. Elles présentent une texture coriace adaptée aux conditions d'altitude et dégagent une odeur caractéristique lorsqu'on les froisse, signe distinctif du genre Cestrum. Leur saveur amèrement légère témoigne de la présence probable de composés bioactifs. Fleurs. Comme la plupart des espèces du genre, C. bicolor produit des fleurs tubulaires, généralement regroupées en inflorescences terminales ou axillaires. Les fleurs présentent la structure typique des Solanacées avec cinq pétales soudés formant un tube, adapté à la pollinisation par des insectes spécialisés. Fruits. Les fruits sont des baies charnues, caractéristiques du genre Cestrum, contenant plusieurs graines et contribuant à la dispersion de l'espèce par la faune locale. Les parties utilisées dans les pratiques locales concernent probablement les feuilles et les rameaux, compte tenu du mode de préparation par macération dans les bains.",
+    "ecologie": "Cestrum bicolor est une espèce endémique stricte d'Haïti, limitée aux zones de haute altitude des Départements du Sud et de la Grand'Anse. Cette distribution ultra-restreinte reflète une adaptation spécialisée aux conditions écologiques particulières des massifs montagneux haïtiens, caractérisées par des variations thermiques importantes, une humidité relative élevée et des sols souvent rocheux et bien drainés. L'espèce occupe probablement des niches écologiques spécifiques au sein des formations végétales d'altitude, contribuant à la biodiversité exceptionnelle des écosystèmes montagnards haïtiens. Sa rareté extrême suggère des exigences écologiques très spécialisées et une vulnérabilité particulière aux perturbations environnementales."
+  },
+  "usages": {
+    "usages_ethnobotaniques": "L'usage de Cestrum bicolor documenté dans le Sud et la Grand'Anse se limite aux bains thérapeutiques préparés par macération. Cette méthode de préparation externe témoigne d'une approche traditionnelle prudente, évitant l'ingestion directe d'une plante appartenant à une famille reconnue pour ses alcaloïdes puissants. La macération permet l'extraction des composés hydrosolubles et liposolubles dans l'eau du bain, créant une solution thérapeutique à concentration modérée. Les parties utilisées ne sont pas précisément documentées, mais il s'agit vraisemblablement des feuilles et des jeunes rameaux, parties les plus riches en principes actifs et les plus facilement accessibles. Cette pratique s'inscrit dans la tradition haïtienne des bains rituels et thérapeutiques, qui constituent l'une des modalités privilégiées d'utilisation des plantes médicinales locales, particulièrement pour les espèces à potentiel bioactif élevé.",
+    "systemes_concernes": "Tégumentaire"
+  },
+  "pharmacologie": {
+    "molecules": "Cestrum bicolor se caractérise par la présence probable de composés amers responsables de sa saveur distinctive. Ces substances, typiques du genre Cestrum, incluent vraisemblablement des glycosides amers et des composés phénoliques qui confèrent à la plante ses propriétés organoleptiques particulières. Les tissus foliaires concentrent probablement des minéraux adaptés aux sols d'altitude, notamment du potassium, du magnésium et du calcium, éléments essentiels pour maintenir l'équilibre osmotique dans les conditions de stress hydrique caractéristiques des hauteurs. Les principaux composés secondaires probablement présents dans C. bicolor, par analogie avec le genre Cestrum, comprennent : des alcaloïdes (possiblement des dérivés de la quinolizidine), des saponosides, des flavonoïdes (quercétine, kaempférol), des tanins, des composés phénoliques et des glycosides amers. Une étude sur Cestrum nocturnum a identifié la présence de saponosides stéroïdaux et d'alcaloïdes présentant une activité antimicrobienne significative (Kumar et al., 2012 — PMID: 23326059). Des recherches sur Cestrum parqui ont révélé la présence de flavonoïdes et de composés phénoliques responsables d'une activité antioxydante notable (Monforte et al., 2005 — PMID: 15996543). Ces molécules remplissent des fonctions de défense essentielles pour la plante. Les alcaloïdes protègent contre l'herbivorie par leur amertume et leurs effets dissuasifs sur les mammifères. Les saponosides confèrent une protection contre les pathogènes fongiques et bactériens du sol. Les flavonoïdes offrent une protection contre les rayonnements UV intenses en altitude. Ces mêmes composés, une fois mis en contact avec la peau humaine lors des bains thérapeutiques, pourraient produire des effets biologiques locaux, bien que les mécanismes précis restent à élucider par des études spécifiques à cette espèce.",
+    "posologie": "Aucune posologie cliniquement validée n'est disponible pour Cestrum bicolor. Les pratiques traditionnelles documentées localement concernant la préparation des bains par macération ne sont pas standardisées. L'absence de données pharmacocinétiques et de seuils thérapeutiques établis rend impossible la recommandation de dosages précis. Cette lacune souligne l'importance de maintenir l'usage externe traditionnel jusqu'à ce que des études spécifiques permettent de caractériser le profil de sécurité et d'efficacité de cette espèce endémique."
+  },
+  "nutrition": {
+    "introduction": "Cestrum bicolor Urban (syn. Cestrum daphnoides) est un arbuste endémique d'Haïti, présent exclusivement dans les Départements du Sud et de la Grand'Anse selon l'inventaire BRH. Il appartient à la famille des Solanacées, une famille remarquable par sa dualité entre espèces alimentaires essentielles (tomate, pomme de terre, aubergine) et espèces à alcaloïdes puissants nécessitant une extrême prudence. Au sein de cette famille, Cestrum bicolor fait partie du genre Cestrum, qui regroupe environ 175 espèces d'arbustes tropicaux et subtropicaux, caractérisés par leurs fleurs tubulaires parfumées et leurs baies colorées. De nombreuses espèces du genre sont réputées pour leurs propriétés médicinales, mais aussi pour la présence d'alcaloïdes potentiellement bioactifs. L'usage documenté de C. bicolor dans le Sud et la Grand'Anse concerne principalement les bains thérapeutiques par macération, témoignant d'un emploi traditionnel externe respectueux de la nature potentiellement sensible des Solanacées."
+  },
+  "toxicologie": {
+    "niveau": "",
+    "details": "Cestrum bicolor présente un profil toxicologique apparemment favorable selon les données disponibles, classé comme non toxique dans les usages documentés. Cependant, son appartenance à la famille des Solanacées, reconnue pour ses alcaloïdes potentiellement bioactifs, impose une vigilance particulière. L'usage exclusivement externe par bains thérapeutiques documenté dans les pratiques locales témoigne d'une approche traditionnelle prudente. En l'absence d'études toxicologiques spécifiques, il convient de maintenir cet usage externe et d'éviter toute ingestion. Les femmes enceintes et allaitantes devraient éviter l'utilisation par précaution."
+  },
+  "conservation": {
+    "menaces": "Cestrum bicolor fait face à des menaces critiques en raison de son statut d'endémique strict d'Haïti et de sa rareté extrême. La dégradation des écosystèmes montagnards, la déforestation, les changements climatiques et la pression anthropique sur les zones d'altitude constituent les principales menaces pour cette espèce. Sa distribution ultra-restreinte aux Départements du Sud et de la Grand'Anse la rend particulièrement vulnérable aux perturbations locales. Des actions de conservation urgentes sont nécessaires, incluant la protection in situ de ses habitats naturels et le développement de programmes de multiplication ex situ pour sauvegarder le patrimoine génétique de cette espèce unique.",
+    "valeur": "La valeur économique actuelle de C. bicolor reste limitée en raison de sa rareté extrême et de l'usage traditionnel restreint aux communautés locales des zones d'altitude. Cependant, son statut d'endémique strict d'Haïti lui confère une valeur scientifique et patrimoniale inestimable pour la biodiversité nationale. Le développement d'une filière économique durable nécessiterait d'abord des efforts importants de conservation et de multiplication, puis des études approfondies pour valoriser ses propriétés spécifiques. L'écotourisme scientifique pourrait constituer une voie de valorisation respectueuse de la conservation de l'espèce."
+  },
+  "recherche": {
+    "nb_articles": "",
+    "details": "Les recherches sur Cestrum bicolor sont pratiquement inexistantes, représentant une lacune scientifique majeure pour une espèce endémique d'une telle rareté. Les priorités de recherche incluent : l'étude phytochimique complète pour identifier les composés spécifiques, l'évaluation des propriétés biologiques par des tests in vitro, la caractérisation écologique détaillée de ses habitats, le développement de protocoles de multiplication et la conservation ex situ. Des collaborations internationales pourraient apporter l'expertise technique nécessaire pour valoriser cette ressource génétique unique tout en assurant sa conservation à long terme.",
+    "lien_pubmed": "",
+    "lien_scholar": "",
+    "lien_tramil": ""
+  },
+  "references": "Kumar, S. et al. (2012). Antimicrobial activity of Cestrum nocturnum. Asian Pacific Journal of Tropical Medicine. PMID: 23326059. Monforte, M.T. et al. (2005). Antioxidant activity of Cestrum parqui. Fitoterapia. PMID: 15996543. POWO (2024). Plants of the World Online. Kew Science. https://powo.science.kew.org/ World Flora Online (2024). http://www.worldfloraonline.org/",
+  "aRetenir": "🟢 À retenir — Zozofine : est une espece peu ou non etudiee scientifiquement. Les proprietes presentees reposent sur des analogies avec des especes proches et les usages traditionnels documentes localement. La conservation de cette espece prime sur toute valorisation. Les auteurs declinent toute responsabilite quant a un usage inapproprie.",
+  "images": {
+    "principale": "images/843_Cestrum_bicolor-001.jpg",
+    "galerie": [
+      "images/843_Cestrum_bicolor-001.jpg",
+      "images/843_Cestrum_bicolor-002.jpg",
+      "images/843_Cestrum_bicolor-003.jpg"
+    ]
+  },
+  "source": "plantes_full.json"
+}

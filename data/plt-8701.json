@@ -1,0 +1,57 @@
+{
+  "id_plante": "plt-8701",
+  "code": "plt-8701",
+  "no_espece": "",
+  "no_famille": "87",
+  "famille": "Verbénacées",
+  "description_famille": "Les Verbénacées constituent une famille tropicale diversifiée de près de 1000 espèces réparties entre herbes, arbustes et arbres, particulièrement bien représentée dans les régions chaudes des Amériques. Cette famille se distingue par ses remarquables propriétés médicinales, avec des genres comme Verbena (verveine), Lippia (lippia) et Aloysia (verveine citronnelle) largement utilisés en phytothérapie traditionnelle pour leurs effets apaisants et digestifs. D'autres genres comme Lantana offrent des espèces ornementales colorées, tandis que Citharexylum fournit des bois de construction appréciés. Sur le plan phytochimique, les Verbénacées se caractérisent par une signature dominée par les iridoïdes (notamment la verbénaline), les flavonoïdes, les huiles essentielles et les tanins, ciblant préférentiellement les systèmes tégumentaire, respiratoire et digestif. Une vigilance particulière s'impose avec Lantana camara, dont les baies immatures contiennent des lantadènes hépatotoxiques et photosensibilisants, particulièrement dangereux pour le bétail mais nécessitant également prudence chez l'humain.",
+  "identite": {
+    "genre": "Citharexylum",
+    "espece": "spinosum",
+    "nom_scientifique": "Citharexylum spinosum",
+    "synonymes": "Citharexylum fruticosum",
+    "nom_francais": "Bois côtelette",
+    "nom_creole": "Bwa kòt",
+    "nom_anglais": "Fiddlewood"
+  },
+  "morphologie": {
+    "description": "C. spinosum est un arbre de basse altitude, au port dressé et élégant, pouvant atteindre 10 à 15 mètres de hauteur dans les conditions optimales des Départements du Sud et de la Grand'Anse. Tiges et écorce. Le tronc développe une écorce grisâtre à brunâtre, rugueuse avec l'âge, caractéristique des arbres du genre. Le bois, dense et résistant, justifie l'usage local en construction. Les jeunes rameaux portent souvent des épines acérées — d'où l'épithète spécifique spinosum — qui constituent une défense naturelle contre les herbivores. Feuilles. Les feuilles sont simples, opposées ou subopposées, de forme ovale à elliptique, avec une texture coriace et des nervures bien marquées. Elles présentent une saveur fade, caractéristique peu marquée qui contraste avec l'amertume prononcée d'autres Verbénacées. Fleurs. Les inflorescences sont des grappes terminales ou axillaires, composées de petites fleurs tubulaires blanches à crème, très mellifères et attractives pour les abeilles et autres pollinisateurs. Cette propriété mellifère fait de l'arbre une espèce d'intérêt apicole dans la région. Fruits. Les fruits sont de petites drupes charnues, d'abord vertes puis noirâtres à maturité, contenant généralement deux noyaux. Ces fruits peuvent attirer diverses espèces d'oiseaux, contribuant à la dispersion des graines. Les parties utilisées dans les pratiques traditionnelles sont les feuilles, les fleurs et l'écorce.",
+    "ecologie": "C. spinosum est natif des Caraïbes et de l'Amérique tropicale, avec une distribution naturelle s'étendant des Antilles au nord de l'Amérique du Sud. En Haïti, l'espèce se cantonne aux zones de basse altitude des Départements du Sud et de la Grand'Anse, où elle croît dans les formations forestières sèches à semi-humides. Son statut de « Très Rare » dans l'inventaire local témoigne de la pression anthropique subie par ses habitats naturels et de la surexploitation potentielle de son bois apprécié."
+  },
+  "usages": {
+    "usages_ethnobotaniques": "Dans les Départements du Sud et de la Grand'Anse, C. spinosum présente un usage dual documenté par l'inventaire BRH. L'usage constructif valorise le bois dense et résistant de l'arbre, apprécié pour sa durabilité. L'usage médicinal, par voie externe uniquement, emploie les feuilles, les fleurs et l'écorce sous forme de bains thérapeutiques. Ces préparations aqueuses sont réputées localement pour leurs propriétés antioxydantes, anti-inflammatoires, hypotensives, diurétiques et digestives, bien que les modalités précises de préparation et d'application ne soient pas standardisées. L'intérêt apicole de la plante, mentionné spécifiquement dans les données locales, en fait également une espèce de valeur pour l'apiculture régionale.",
+    "systemes_concernes": "Tégumentaire"
+  },
+  "pharmacologie": {
+    "molecules": "Citharexylum spinosum se caractérise par sa composition en iridoïdes, une classe de composés monoterpéniques particulièrement abondante chez les Verbénacées. Ces molécules confèrent à la plante ses propriétés défensives contre les pathogènes et les herbivores, tout en expliquant ses effets biologiques documentés. La lignine, présente en quantités importantes dans le bois, contribue à sa résistance mécanique et à sa durabilité, justifiant son usage en construction. Les flavonoïdes, concentrés dans les feuilles et les fleurs, participent à la protection contre les rayonnements UV et aux propriétés antioxydantes de la plante. Les principaux composés secondaires identifiés dans C. spinosum comprennent : des iridoïdes (verbénaline et dérivés), des flavonoïdes (quercétine, kaempférol, rutine), des tanins condensés, des saponines triterpéniques, des coumarines simples, des triterpènes pentacycliques et des acides phénoliques (acide chlorogénique, acide caféique). Ces données restent cependant limitées, les études phytochimiques spécifiques à cette espèce étant rares dans la littérature scientifique. Ces composés remplissent des fonctions écologiques précises pour l'arbre. Les iridoïdes, au goût amer, découragent la consommation par les herbivores et possèdent des propriétés antimicrobiennes protégeant les tissus végétaux. Les tanins renforcent cette protection en complexant les protéines des pathogènes. Les flavonoïdes agissent comme écran solaire naturel et antioxydants. Ces mêmes composés, une fois utilisés par l'humain sous forme de préparations externes, produisent les effets biologiques documentés localement : actions anti-inflammatoire, antioxydante et potentiellement hypotensive, bien que ces propriétés nécessitent confirmation par des études cliniques spécifiques.",
+    "posologie": "Une posologie suggérée d'infusion de feuilles à raison de 5 g/L, 1 à 2 fois par jour, figure dans les données disponibles. Cependant, aucune posologie cliniquement validée n'est disponible pour cette espèce dans la littérature scientifique indexée. Les pratiques traditionnelles documentées localement ne sont pas standardisées, et l'usage se limite aux applications externes sous forme de bains thérapeutiques."
+  },
+  "nutrition": {
+    "introduction": "Citharexylum spinosum L. (syn. Citharexylum fruticosum) est un arbre natif des Caraïbes et d'Amérique tropicale, documenté dans les Départements du Sud et de la Grand'Anse sous le nom créole de « Bwa kòt ». Il appartient à la famille des Verbénacées, une famille tropicale réputée pour ses propriétés médicinales et ses iridoïdes caractéristiques. Au sein de cette famille, le genre Citharexylum regroupe des arbres et arbustes à bois dur, dont plusieurs espèces caribéennes sont traditionnellement utilisées en construction navale et en menuiserie fine. L'usage de C. spinosum dans le Sud et la Grand'Anse est double : construction grâce à son bois résistant, et médecine traditionnelle par voie externe sous forme de bains thérapeutiques. La plante présente également un intérêt apicole remarquable, ses fleurs étant excellentes pour la production de miel."
+  },
+  "toxicologie": {
+    "niveau": "",
+    "details": "Citharexylum spinosum présente un profil de sécurité favorable avec un statut non toxique documenté. Les précautions mentionnées concernent principalement les effets potentiels liés aux propriétés présumées : risque d'hypotension en cas d'usage prolongé, possibilité de diarrhée à doses élevées par effet des saponines. Une prudence est recommandée chez la femme enceinte ou allaitante par principe de précaution, ainsi qu'en cas d'association avec des antihypertenseurs ou diurétiques de synthèse. L'usage externe traditionnel limite naturellement l'exposition systémique."
+  },
+  "conservation": {
+    "menaces": "L'espèce présente un besoin de conservation documenté, son statut de « Très Rare » dans les Départements du Sud et de la Grand'Anse témoignant de la vulnérabilité de ses populations locales. La double pression exercée par l'exploitation du bois et la dégradation des habitats forestiers de basse altitude menace la pérennité de l'espèce dans la région.",
+    "valeur": "La valeur économique de C. spinosum réside principalement dans son bois apprécié localement pour la construction. Au niveau international, l'espèce présente un potentiel ornemental pour l'aménagement paysager en zones tropicales sèches, valorisant sa floraison mellifère et sa résistance à la sécheresse."
+  },
+  "recherche": {
+    "nb_articles": "~50 (estimation)",
+    "details": "Les publications scientifiques spécifiques à C. spinosum sont rares, avec une estimation d'environ 50 articles disponibles, principalement axés sur la taxonomie et l'écologie plutôt que sur la pharmacologie. Les perspectives de recherche prioritaires incluent : caractérisation phytochimique complète, validation des propriétés biologiques par tests in vitro et in vivo, études de toxicologie approfondie, et développement de protocoles de multiplication pour la conservation ex situ.",
+    "lien_pubmed": "",
+    "lien_scholar": "",
+    "lien_tramil": "https://www.tramil.net/en/plant/citharexylum-spinosum"
+  },
+  "references": "POWO. (2024). Citharexylum spinosum L. Plants of the World Online. Kew Science. https://powo.science.kew.org/ World Flora Online. (2024). Citharexylum spinosum. http://worldfloraonline.org/ TRAMIL. (2024). Citharexylum spinosum. https://www.tramil.net/en/plant/citharexylum-spinosum",
+  "aRetenir": "🟢 À retenir — Bwa kòt : est une espece peu ou non etudiee scientifiquement. Les proprietes presentees reposent sur des analogies avec des especes proches et les usages traditionnels documentes localement. La conservation de cette espece prime sur toute valorisation. Les auteurs declinent toute responsabilite quant a un usage inapproprie.",
+  "images": {
+    "principale": "images/861_Citharexylum_spinosum-001.jpg",
+    "galerie": [
+      "images/861_Citharexylum_spinosum-001.jpg",
+      "images/861_Citharexylum_spinosum-002.jpg"
+    ]
+  },
+  "source": "plantes_full.json"
+}

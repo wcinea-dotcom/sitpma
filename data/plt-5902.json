@@ -1,0 +1,58 @@
+{
+  "id_plante": "plt-5902",
+  "code": "plt-5902",
+  "no_espece": "",
+  "no_famille": "59",
+  "famille": "Papavéracées",
+  "description_famille": "",
+  "identite": {
+    "genre": "Bocconia",
+    "espece": "frutescens",
+    "nom_scientifique": "Bocconia frutescens L.",
+    "synonymes": "Bocconia quercifolia",
+    "nom_francais": "Bois coq",
+    "nom_creole": "Bocconia frutecens",
+    "nom_anglais": "Parrot Weed"
+  },
+  "morphologie": {
+    "description": "B. frutescens est un arbuste d'altitude moyenne, de forme dressée, caractérisé par la production d'un latex orangé distinctive lorsque ses tissus sont blessés. Tiges et écorce. Les tiges sont ligneuses, robustes, et sécrètent un latex orange vif au niveau des blessures — caractéristique diagnostique majeure de l'espèce et source de ses propriétés thérapeutiques. L'écorce, également utilisée en médecine traditionnelle, présente une texture rugueuse et contient les mêmes composés actifs que les autres parties de la plante. Feuilles. Les feuilles sont alternes, simples, de forme variable rappelant parfois celles du chêne (d'où le synonyme quercifolia), avec des bords découpés ou lobés. Elles dégagent une odeur aromatique caractéristique lorsqu'on les froisse, témoignant de leur richesse en composés volatils. Leur surface supérieure est généralement vert foncé, tandis que la face inférieure peut présenter une teinte plus claire. Fleurs. L'inflorescence se présente sous forme de panicules terminales composées de nombreuses petites fleurs. Les fleurs sont généralement de couleur blanche à crème, dépourvues de pétales, avec des étamines nombreuses et bien visibles. Fruit. Le fruit est une capsule qui s'ouvre à maturité pour libérer les graines. Les parties utilisées sont principalement les feuilles et l'écorce, sources du latex thérapeutique orangé.",
+    "ecologie": "B. frutescens est une espèce native d'Amérique tropicale largement distribuée dans les Caraïbes. Dans les Départements du Sud et de la Grand'Anse, cette espèce habite les zones d'altitude moyenne, où elle bénéficie d'un climat tropical avec des précipitations régulières. Son statut de rareté dans la région souligne l'importance de sa conservation. L'espèce semble préférer les habitats perturbés et les lisières forestières, où elle peut bénéficier d'un éclairage partiel tout en conservant une humidité suffisante pour son développement optimal."
+  },
+  "usages": {
+    "usages_ethnobotaniques": "Dans les Départements du Sud et de la Grand'Anse, B. frutescens est principalement valorisé pour ses propriétés médicinales. L'usage dominant documenté consiste à appliquer le jus orangé de la plante directement sur les blessures, exploitant ainsi ses propriétés antimicrobiennes et cicatrisantes naturelles. Cette pratique s'inscrit dans une tradition d'usage externe de la plante, évitant les risques liés à une consommation interne. Les données TRAMIL confirment l'usage de cette espèce en Haïti pour le traitement des verrues, démontrant la cohérence des applications dermatologiques traditionnelles. Les feuilles et l'écorce sont les parties privilégiées, généralement utilisées fraîches pour en extraire le latex actif. En Amérique centrale, la plante trouve également un usage comme teinture, valorisant les pigments naturels de son latex orangé.",
+    "systemes_concernes": "Tégumentaire"
+  },
+  "pharmacologie": {
+    "molecules": "B. frutescens se caractérise par la production d'un latex orangé particulièrement riche en pigments et en composés défensifs. Cette couleur orange vif provient de la présence de composés phénoliques et d'alcaloïdes colorés, notamment la chélérythrine et la sanguinarine, qui donnent au latex ses propriétés tinctoriales documentées en Amérique centrale. La saveur aromatique de la plante résulte de la présence de terpénoïdes volatils dans les feuilles et l'écorce. Sur le plan nutritionnel, cette plante n'étant pas alimentaire, sa composition en macronutriments et microéléments reste secondaire par rapport à ses composés bioactifs. Les principaux composés secondaires identifiés dans B. frutescens comprennent : des alcaloïdes benzyl-isoquinoliniques majeurs (sanguinarine, chélérythrine, protopine), des flavonoïdes, des saponines, des tanins et des terpénoïdes (Hamid et al., 2017 — PMID: 28944102). La sanguinarine représente le composé le plus étudié et le plus bioactif, responsable de la couleur rouge-orange du latex et de nombreuses activités biologiques. Ces molécules remplissent des fonctions de défense cruciales pour la plante. La sanguinarine et la chélérythrine agissent comme des antimicrobiens puissants, protégeant la plante contre les infections bactériennes et fongiques au niveau des blessures. Les saponines contribuent à la défense contre les herbivores par leur goût amer et leurs effets irritants. Une fois appliquées sur la peau humaine, ces mêmes molécules produisent les effets thérapeutiques documentés : activité antimicrobienne contre divers pathogènes cutanés, effet anti-inflammatoire par modulation des voies COX et de l'oxyde nitrique, et propriétés analgésiques locales.",
+    "posologie": "Aucune posologie cliniquement validée n'est disponible pour B. frutescens. Les pratiques traditionnelles documentées dans les Départements du Sud et de la Grand'Anse privilégient l'application directe du latex frais sur les zones affectées, sans standardisation précise. La littérature mentionne des infusions ou décoctions préparées à environ 5-10 g/L dans d'autres régions, mais ces préparations ne sont pas recommandées pour l'usage interne en raison des risques toxicologiques. La concentration des principes actifs variant selon la partie de plante utilisée et les conditions de récolte, toute utilisation thérapeutique nécessiterait une supervision médicale qualifiée."
+  },
+  "nutrition": {
+    "introduction": "Bocconia frutescens L. (syn. Bocconia quercifolia) est un arbuste natif des Caraïbes et d'Amérique tropicale, documenté dans les Départements du Sud et de la Grand'Anse. Il appartient à la famille des Papavéracées, une famille principalement composée d'herbes et d'arbustes réputés pour leurs importants usages médicinaux. Cette famille se distingue par sa signature phytochimique dominée par des alcaloïdes isoquinoliniques puissants — notamment la berbérine, la sanguinarine et la protopine — ainsi que par la production caractéristique de latex coloré chez plusieurs espèces. Les Papavéracées ciblent préférentiellement les systèmes oculaire, cutané et tégumentaire, offrant des applications thérapeutiques externes remarquables. Cependant, cette famille exige une vigilance particulière car certaines espèces — comme Argemone mexicana — renferment des principes actifs très puissants pouvant causer des intoxications graves, notamment des œdèmes massifs et une insuffisance cardiaque lors de contamination alimentaire. Au sein de cette famille, le genre Bocconia regroupe des arbustes tropicaux producteurs d'un latex orangé caractéristique, riche en alcaloïdes benzyl-isoquinoliniques aux propriétés antimicrobiennes et anti-inflammatoires documentées. B. frutescens est utilisé traditionnellement dans les Départements du Sud et de la Grand'Anse pour ses propriétés analgésiques, anti-inflammatoires et antimicrobiennes, principalement par application externe du latex."
+  },
+  "toxicologie": {
+    "niveau": "toxic",
+    "details": "B. frutescens présente une toxicité modérée à élevée nécessitant des précautions strictes. Le surdosage peut provoquer diarrhée, hypotension et irritations digestives sévères. Des risques de toxicité hépatique et neurotoxique existent à forte dose, en raison de la concentration élevée en alcaloïdes isoquinoliniques, particulièrement la sanguinarine (Kosina et al., 2004 — PMID: 15025152). L'usage interne est formellement déconseillé, notamment chez la femme enceinte, allaitante et les enfants. Même en application externe, des tests préalables sur une petite surface cutanée sont recommandés pour éviter les réactions d'hypersensibilité. La manipulation de la plante fraîche peut provoquer des irritations cutanées chez les personnes sensibles."
+  },
+  "conservation": {
+    "menaces": "Le statut de rareté de B. frutescens dans les Départements du Sud et de la Grand'Anse souligne un besoin urgent de conservation de l'espèce. Les principales menaces incluent la déforestation, l'urbanisation croissante et la collecte non durable pour les usages traditionnels. La conservation de cette espèce nécessite une approche intégrée combinant protection in situ des habitats naturels et multiplication ex situ dans les jardins botaniques spécialisés.",
+    "valeur": "La valeur économique locale de B. frutescens reste limitée en raison de sa rareté et des restrictions d'usage liées à sa toxicité. Cependant, son potentiel en recherche pharmaceutique internationale est considérable, notamment pour le développement d'antimicrobiens topiques et d'anti-inflammatoires d'origine naturelle. La valorisation de ses pigments naturels pourrait également présenter un intérêt commercial dans l'industrie des colorants écologiques, suivant l'exemple de son usage traditionnel comme teinture en Amérique centrale."
+  },
+  "recherche": {
+    "nb_articles": "",
+    "details": "Les recherches sur B. frutescens se concentrent principalement sur la caractérisation de ses alcaloïdes benzyl-isoquinoliniques et leurs activités biologiques. Des études récentes confirment le potentiel antimicrobien de la sanguinarine contre des souches résistantes, ouvrant des perspectives pour le développement de nouveaux antiseptiques topiques. Les investigations futures devraient porter sur l'optimisation des méthodes d'extraction, l'évaluation de la sécurité des préparations standardisées et les essais cliniques contrôlés pour valider scientifiquement les usages traditionnels documentés.",
+    "lien_pubmed": "",
+    "lien_scholar": "",
+    "lien_tramil": ""
+  },
+  "references": "Hamid, H. A. et al. (2017). Phytochemicals and biological activities of Bocconia frutescens: A comprehensive review. Journal of Ethnopharmacology. PMID: 28944102. Silva, A. F. et al. (2012). Antimicrobial activity of Bocconia frutescens alkaloids. Pharmaceutical Biology. PMID: 22516948. Kosina, P. et al. (2004). Sanguinarine and chelerythrine: assessment of safety on pigs in ninety days feeding experiment. Food and Chemical Toxicology. PMID: 15025152. TRAMIL. (2024). Bocconia frutescens. www.tramil.net/en/plant/bocconia-frutescens POWO. (2024). Plants of the World Online. Royal Botanic Gardens, Kew. https://powo.science.kew.org",
+  "aRetenir": "🟠 À retenir — Bocconia frutecens : est une plante a toxicite documentee. Tout usage interne non encadre est formellement deconseille. En cas d'ingestion accidentelle, consulter immediatement un service d'urgence. Ces informations sont destinees a l'enseignement et a la recherche uniquement. Les auteurs declinent toute responsabilite quant a un usage inapproprie.",
+  "images": {
+    "principale": "images/582_Bocconia_frutescens-001.jpg",
+    "galerie": [
+      "images/582_Bocconia_frutescens-001.jpg",
+      "images/582_Bocconia_frutescens-002.jpg",
+      "images/582_Bocconia_frutescens-003.jpg"
+    ]
+  },
+  "source": "plantes_full.json"
+}

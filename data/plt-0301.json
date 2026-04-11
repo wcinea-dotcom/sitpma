@@ -1,0 +1,59 @@
+{
+  "id_plante": "plt-0301",
+  "code": "plt-0301",
+  "no_espece": "",
+  "no_famille": "3",
+  "famille": "Aizoacées",
+  "description_famille": "Les Aizoacées constituent une famille cosmopolite de plus de 2 000 espèces, principalement composée d'herbes succulentes adaptées aux environnements arides et salins. Cette famille présente une distribution remarquable dans les zones côtières tropicales et subtropicales, avec des concentrations importantes en Afrique du Sud et dans les régions méditerranéennes. Sur le plan alimentaire, plusieurs genres comme Sesuvium et Tetragonia fournissent des légumes-feuilles nutritifs, particulièrement appréciés dans les cuisines côtières. Les genres Mesembryanthemum et Carpobrotus sont valorisés pour leurs propriétés médicinales traditionnelles, notamment dans le traitement des affections cutanées et digestives. La signature phytochimique des Aizoacées se caractérise par une forte concentration en sodium et minéraux marins, des ecdystéroïdes uniques, des flavonoïdes, des caroténoïdes et des acides gras essentiels, ciblant préférentiellement les systèmes rénal et digestif. Cette accumulation de sel constitue une adaptation remarquable à la vie littorale mais impose des précautions d'usage chez les personnes souffrant d'hypertension ou d'insuffisance rénale.",
+  "identite": {
+    "genre": "Sesuvium",
+    "espece": "portulacastrum",
+    "nom_scientifique": "Sesuvium portulacastrum (L.)",
+    "synonymes": "Portulaca portulacastrum L.",
+    "nom_francais": "Pourpier de mer",
+    "nom_creole": "Koupye lanmè",
+    "nom_anglais": "Sea Purslane"
+  },
+  "morphologie": {
+    "description": "S. portulacastrum est une herbe succulente prostée à semi-dressée, formant des tapis denses sur les substrats sablonneux et rocheux du littoral (POWO, Kew Science , World Flora Online, 2026). Tiges. Les tiges sont charnues, cylindriques, souvent rougeâtres, rampantes ou ascendantes, pouvant s'étendre sur plusieurs mètres. Elles s'enracinent facilement aux nœuds, permettant une propagation végétative efficace. Feuilles. Les feuilles sont opposées, sessiles, charnues et succulentes, de forme oblongue à spatulée. Leur couleur varie du vert au rouge-pourpre selon l'exposition saline et lumineuse. Elles présentent une saveur caractéristiquement salée due à l'accumulation de chlorure de sodium. Fleurs. Les fleurs sont petites, solitaires ou groupées, de couleur rose à pourpre, s'épanouissant principalement le matin. Elles présentent cinq pétales et de nombreuses étamines roses caractéristiques de la famille. Racines. Le système racinaire est pivotant et étendu, permettant une ancrage solide dans les substrats mobiles et une exploration efficace des nappes d'eau douce sous-jacentes. Les parties utilisées sont les feuilles, les tiges et les racines.",
+    "ecologie": "S. portulacastrum est une espèce pantropicale native des côtes d'Amérique tropicale, largement distribuée dans les Caraïbes. Dans les Départements du Sud et de la Grand'Anse, elle colonise préférentiellement les plages sableuses, les mangroves dégradées, les marais salants et les zones côtières rocheuses de basse altitude. Son caractère pionnier lui permet de stabiliser les substrats mobiles et de résister aux embruns salés, aux sécheresses prolongées et aux submersions temporaires. Elle constitue souvent l'une des premières espèces à recoloniser les zones littorales perturbées."
+  },
+  "usages": {
+    "usages_ethnobotaniques": "Selon les données documentées dans le Sud et la Grand'Anse, S. portulacastrum est utilisée principalement comme plante alimentaire et médicinale. Les feuilles et tiges jeunes sont consommées crues en salade ou cuites comme légume-feuille, appréciées pour leur saveur salée naturelle et leurs qualités nutritionnelles. La plante est traditionnellement consommée pour \"purifier le corps\", usage cohérent avec ses propriétés diurétiques et détoxifiantes. En usage médicinal, elle est préparée en décoction pour traiter les troubles digestifs, appliquée fraîche sur les plaies et brûlures pour ses propriétés cicatrisantes, ou utilisée en tisane pour ses effets anti-inflammatoires et antimicrobiens. Les racines sont occasionnellement utilisées en décoction pour les affections urinaires.",
+    "systemes_concernes": "Digestif"
+  },
+  "pharmacologie": {
+    "molecules": "Adaptée aux littoraux salins hostiles, S. portulacastrum produit des molécules rares — dont l'ecdystérone, un stéroïde absent chez la plupart des végétaux — qui témoignent d'une stratégie de survie chimique exceptionnelle en milieu hypersalin. Les principaux métabolites secondaires identifiés dans S. portulacastrum comprennent : des ecdystéroïdes (notamment l'ecdystérone), des flavonoïdes (quercétine, kaempférol), des caroténoïdes (β-carotène, lutéine), des composés phénoliques, des tanins et des traces d'alcaloïdes (Lokhande et al., 2013). Ces molécules remplissent des fonctions de survie précises. L'ecdystérone, un stéroïde rare chez les plantes, pourrait jouer un rôle dans l'adaptation au stress salin et présenter des propriétés de réparation tissulaire. Les flavonoïdes et caroténoïdes protègent contre les rayonnements UV intenses du milieu côtier tout en conférant des propriétés antioxydantes. La forte concentration en sodium (jusqu'à 15% du poids sec) constitue la stratégie d'adaptation majeure à la vie halophyte, permettant l'osmorégulation dans les environnements hypersalins.",
+    "posologie": "Aucune posologie clinique humaine standardisée n'est disponible pour S. portulacastrum. L'usage se base principalement sur les pratiques alimentaires traditionnelles et les préparations en tisane selon les méthodes locales. Les études publiées portent essentiellement sur des extraits standardisés en laboratoire, sans transposition clinique directe. La consommation alimentaire occasionnelle ne présente pas de risque particulier chez les personnes en bonne santé."
+  },
+  "nutrition": {
+    "introduction": "Sesuvium portulacastrum (L.) (syn. Portulaca portulacastrum L.) est une herbe succulente native documentée dans les Départements du Sud et de la Grand'Anse. Elle appartient à la famille des Aizoacées, une famille cosmopolite remarquable par ses adaptations aux milieux salins et arides. Au sein de cette famille, elle fait partie du genre Sesuvium, qui regroupe des herbes halophytes spécialisées dans la colonisation des substrats salés côtiers. Son usage dominant dans les deux départements est à la fois alimentaire et médicinal : elle constitue un légume traditionnel de bord de mer apprécié pour ses qualités nutritionnelles et purificatrices."
+  },
+  "toxicologie": {
+    "niveau": "",
+    "details": "S. portulacastrum présente un profil de sécurité favorable. La principale précaution concerne sa très forte teneur en sodium, imposant une vigilance chez les personnes souffrant d'hypertension artérielle ou d'insuffisance rénale. Les femmes enceintes et allaitantes devraient limiter la consommation en raison de données de sécurité à long terme limitées. Aucune toxicité aiguë n'est rapportée dans la littérature, mais la surconsommation pourrait théoriquement induire un déséquilibre électrolytique."
+  },
+  "conservation": {
+    "menaces": "L'espèce est classée LC (Préoccupation mineure) et présente une abondance satisfaisante sur les côtes des Départements du Sud et de la Grand'Anse. Cependant, l'érosion côtière, l'urbanisation littorale et la pollution marine constituent des menaces potentielles pour ses habitats spécialisés. Sa capacité de reproduction végétative et sa large distribution géographique constituent des facteurs favorables à sa conservation.",
+    "valeur": "S. portulacastrum présente une valeur économique locale comme légume de subsistance côtier et complément nutritionnel. Internationalement, elle suscite un intérêt croissant pour la phytoremédiation des sols salés et contaminés, ainsi que pour l'aquaculture halophile. Son potentiel comme source d'ecdystérone naturelle pourrait présenter des débouchés pharmaceutiques futurs."
+  },
+  "recherche": {
+    "nb_articles": "~500 (estimation)",
+    "details": "Environ 500 publications scientifiques traitent de S. portulacastrum, principalement axées sur l'écophysiologie halophyte et les propriétés antioxydantes. Les recherches futures devraient clarifier les mécanismes d'action de l'ecdystérone, évaluer la sécurité d'usage à long terme et explorer les applications en phytoremédiation. Des études cliniques humaines seraient nécessaires pour valider scientifiquement les usages thérapeutiques traditionnels.",
+    "lien_pubmed": "",
+    "lien_scholar": "",
+    "lien_tramil": ""
+  },
+  "references": "Lokhande, V.H., Nikam, T.D., Patade, V.Y., Ahire, M.L., Suprasanna, P. (2009). Effects of optimal and supra-optimal salinity stress on antioxidative defence, osmolytes and in vitro growth responses in Sesuvium portulacastrum L. Plant Cell, Tissue and Organ Culture. PMID: 19735739. Lokhande, V.H., Nikam, T.D., Suprasanna, P. (2013). Sesuvium portulacastrum (L.) L.: A promising halophyte for cultivation in coastal saline soils. Current Science, 104(11), 1473-1478.",
+  "aRetenir": "🟢 À retenir — Koupye lanmè : est avant tout un aliment — sa valeur nutritionnelle prime sur ses usages medicinaux. Consommee correctement preparee, elle est sans danger documente. Ses proprietes therapeutiques, reelles mais secondaires, ne remplacent pas un suivi medical. Les auteurs declinent toute responsabilite quant a un usage inapproprie.",
+  "images": {
+    "principale": "images/31_Sesuvium_portulacastrum-001.jpg",
+    "galerie": [
+      "images/31_Sesuvium_portulacastrum-001.jpg",
+      "images/31_Sesuvium_portulacastrum-002.jpg",
+      "images/31_Sesuvium_portulacastrum-003.jpg",
+      "images/31_Sesuvium_portulacastrum-004.jpg"
+    ]
+  },
+  "source": "plantes_full.json"
+}

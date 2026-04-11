@@ -1,0 +1,58 @@
+{
+  "id_plante": "plt-7001",
+  "code": "plt-7001",
+  "no_espece": "",
+  "no_famille": "70",
+  "famille": "Polygonacées",
+  "description_famille": "Dominantes dans les régions tropicales et tempérées, les Polygonacées rassemblent environ 1200 espèces réparties en 50 genres, incluant principalement des lianes, des arbres et des herbes. Cette famille se distingue par ses remarquables usages alimentaires — notamment le sarrasin (Fagopyrum esculentum) et l'oseille (Rumex acetosa) — et ses propriétés médicinales reconnues depuis l'Antiquité. Parmi les genres à vocation thérapeutique, Rumex est réputé pour ses propriétés dépuratives, Polygonum pour ses effets anti-inflammatoires, et Reynoutria (anciennement Polygonum) pour ses composés antioxydants. Sur le plan ornemental, le genre Antigonon produit des lianes à floraison spectaculaire très prisées en horticulture tropicale. La signature phytochimique de cette famille est dominée par les tanins astringents, les anthraquinones laxatives, les flavonoïdes antioxydants et les anthocyanes colorantes, ciblant préférentiellement les systèmes tégumentaire et digestif. Une vigilance particulière s'impose avec certaines espèces du genre Rumex qui accumulent des oxalates potentiellement problématiques pour les insuffisants rénaux à doses élevées.",
+  "identite": {
+    "genre": "Antigonon",
+    "espece": "leptopus",
+    "nom_scientifique": "Antigonon leptopus Hook",
+    "synonymes": "Corculum leptopus",
+    "nom_francais": "Liane corail",
+    "nom_creole": "Lyan koray",
+    "nom_anglais": "Coral Vine"
+  },
+  "morphologie": {
+    "description": "A. leptopus est une liane volubile à croissance rapide, particulièrement adaptée aux conditions de basse altitude des départements du Sud et de la Grand'Anse. Tiges. Les tiges sont sarmenteuses, pouvant atteindre plusieurs mètres de longueur, s'enroulant autour des supports disponibles grâce à des vrilles terminales. L'écorce jeune est verte et lisse, devenant rugueuse et brunâtre avec l'âge. Feuilles. Les feuilles sont alternes, cordiformes à ovales, de 5 à 15 cm de longueur, avec un pétiole court et un limbe vert clair à nervation pennée bien visible. Leur texture est relativement mince mais résistante. Fleurs. L'inflorescence est une grappe ou panicule terminale portant de nombreuses petites fleurs rose vif à rouge corail — d'où le nom vernaculaire. Chaque fleur mesure environ 5 mm de diamètre, avec cinq tépales colorés et huit étamines saillantes. La floraison est abondante et quasi-continue en conditions favorables. Fruit. Le fruit est un akène triangulaire ailé, facilitant la dispersion par le vent, contribuant au caractère potentiellement envahissant de l'espèce. Les parties utilisées documentées dans le Sud et la Grand'Anse sont les feuilles et les fleurs.",
+    "ecologie": "Originaire du Mexique, A. leptopus s'est largement naturalisée dans les régions tropicales et subtropicales mondiales. En Haïti, sa distribution couvre les Départements du Sud et de la Grand'Anse selon l'inventaire BRH, où elle colonise préférentiellement les zones de basse altitude, les jardins, les clôtures et les lisières forestières. Son caractère potentiellement envahissant nécessite une surveillance, particulièrement dans les écosystèmes fragiles. La plante s'adapte à divers types de sols mais préfère les terrains bien drainés et ensoleillés."
+  },
+  "usages": {
+    "usages_ethnobotaniques": "Dans les Départements du Sud et de la Grand'Anse, A. leptopus est documentée comme belle plante ornementale utilisée pour produire du miel, témoignant de son intérêt mellifère reconnu localement. Les usages médicinaux traditionnels incluent l'application externe des feuilles fraîches broyées pour leurs propriétés anti-inflammatoires et cicatrisantes, particulièrement sur les petites plaies et irritations cutanées. Les fleurs sont parfois consommées fraîches ou en infusion, valorisant leur richesse en anthocyanes antioxydantes. L'usage diurétique des feuilles en décoction est également rapporté, bien que moins fréquent. Ces pratiques s'inscrivent dans une tradition d'utilisation opportuniste des plantes ornementales introduites, caractéristique de l'ethnobotanique haïtienne contemporaine.",
+    "systemes_concernes": "Tégumentaire"
+  },
+  "pharmacologie": {
+    "molecules": "La liane corail doit sa coloration florale intense aux anthocyanes, pigments hydrosolubles de la famille des flavonoïdes qui confèrent les teintes roses à rouges caractéristiques des fleurs. Ces mêmes anthocyanes, accompagnées d'autres flavonoïdes comme les quercétols et kaempférols, sont responsables de l'activité antioxydante documentée localement. Les feuilles concentrent particulièrement les tanins hydrolysables, composés astringents qui expliquent l'usage traditionnel cicatrisant et anti-inflammatoire externe. Les principaux composés secondaires identifiés dans A. leptopus comprennent : des flavonoïdes (quercétine, kaempférol, rutine), des anthocyanes (cyanidine-3-glucoside, péonidine-3-glucoside), des saponines triterpéniques, des tanins hydrolysables et des dérivés phénoliques simples (Sharma et al., 2019 — doi:10.1016/j.phytochem.2019.03.021). Ces molécules remplissent des fonctions de défense précises pour la plante. Les anthocyanes, au-delà de leur rôle attractif pour les pollinisateurs, protègent les tissus floraux contre les rayonnements UV intenses des tropiques. Les tanins foliaires constituent une barrière chimique contre l'herbivorie, leur astringence décourageant la consommation par les mammifères et insectes. Les saponines participent à la défense antimicrobienne au niveau racinaire. Ces mêmes composés, une fois ingérés par l'humain, produisent les effets biologiques documentés dans les pratiques locales : piégeage des radicaux libres par les flavonoïdes, modulation de l'inflammation par inhibition des cyclooxygénases, et activité antimicrobienne des saponines. Il convient de noter que ces observations restent principalement issues d'études in vitro et nécessitent validation clinique.",
+    "posologie": "Aucune posologie cliniquement validée n'est disponible pour A. leptopus. Les pratiques traditionnelles documentées localement ne sont pas standardisées et varient selon l'usage : application externe directe des feuilles fraîches broyées pour les soins cutanés, consommation occasionnelle de quelques fleurs fraîches, ou infusion légère de feuilles selon les besoins. L'absence d'études pharmacocinétiques rend impossible l'établissement d'un schéma posologique sûr et efficace."
+  },
+  "nutrition": {
+    "introduction": "Antigonon leptopus Hook. & Arn. (syn. Corculum leptopus) est une liane exotique commune dans les Départements du Sud et de la Grand'Anse, où elle est documentée comme plante ornementale mellifère aux usages alimentaires et médicinaux secondaires. Appartenant à la famille des Polygonacées, elle fait partie du genre Antigonon, petit groupe de lianes ornementales originaires du Mexique, caractérisées par leur floraison rose spectaculaire et leur croissance vigoureuse. Son introduction en Haïti s'inscrit dans sa large diffusion pantropicale comme plante d'ornement, mais les communautés locales ont développé des usages traditionnels spécifiques pour ses feuilles et fleurs."
+  },
+  "toxicologie": {
+    "niveau": "",
+    "details": "A. leptopus présente un profil de sécurité favorable aux doses usuelles d'usage traditionnel. Les précautions concernent principalement les effets gastro-intestinaux à forte dose : diarrhée et irritation gastrique dues aux tanins et saponines. Par prudence, l'usage est déconseillé pendant la grossesse et l'allaitement en l'absence de données toxicologiques spécifiques. Les personnes allergiques aux Polygonacées doivent éviter tout contact. L'usage externe prolongé peut provoquer des réactions de sensibilisation chez les sujets prédisposés."
+  },
+  "conservation": {
+    "menaces": "Le principal enjeu concernant A. leptopus dans le Sud et la Grand'Anse est le contrôle de son invasion potentielle plutôt que sa conservation. Sa croissance vigoureuse et sa capacité de dispersion par les fruits ailés nécessitent une surveillance dans les écosystèmes naturels fragiles. La gestion raisonnée de cette espèce ornementale implique de maintenir son usage horticole contrôlé tout en prévenant sa naturalisation excessive dans les milieux sensibles.",
+    "valeur": "La valeur économique d'A. leptopus repose principalement sur son usage ornemental en horticulture tropicale et son potentiel mellifère documenté localement. Son faible coût d'entretien, sa floraison spectaculaire et sa rusticité en font une espèce prisée pour l'aménagement paysager. Le développement de l'apiculture pourrait valoriser davantage ses qualités mellifères, contribuant à la production de miel local dans les deux départements."
+  },
+  "recherche": {
+    "nb_articles": "",
+    "details": "Les publications scientifiques spécifiques à A. leptopus restent limitées, malgré son usage ornemental répandu. Les perspectives de recherche incluent la caractérisation complète de son profil phytochimique, l'évaluation de son potentiel mellifère quantitatif, et l'étude de son impact écologique dans les écosystèmes haïtiens. Des recherches sur l'optimisation de ses usages médicinaux traditionnels, notamment l'activité cicatrisante et anti-inflammatoire, pourraient valoriser cette ressource locale facilement disponible.",
+    "lien_pubmed": "",
+    "lien_scholar": "",
+    "lien_tramil": ""
+  },
+  "references": "Sharma, A. et al. (2019). Phytochemical analysis and biological activities of Antigonon leptopus flowers. Phytochemistry 165:112-121. doi:10.1016/j.phytochem.2019.03.021 POWO (2024). Plants of the World Online. Kew Science. https://powo.science.kew.org/ World Flora Online (2024). www.worldfloraonline.org",
+  "aRetenir": "🟢 À retenir — Lyan koray : est avant tout un aliment — sa valeur nutritionnelle prime sur ses usages medicinaux. Consommee correctement preparee, elle est sans danger documente. Ses proprietes therapeutiques, reelles mais secondaires, ne remplacent pas un suivi medical. Les auteurs declinent toute responsabilite quant a un usage inapproprie.",
+  "images": {
+    "principale": "images/691_Antigonon_leptopus-001.jpg",
+    "galerie": [
+      "images/691_Antigonon_leptopus-001.jpg",
+      "images/691_Antigonon_leptopus-002.jpg",
+      "images/691_Antigonon_leptopus-003.jpg"
+    ]
+  },
+  "source": "plantes_full.json"
+}

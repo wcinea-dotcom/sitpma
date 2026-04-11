@@ -1,0 +1,57 @@
+{
+  "id_plante": "plt-5404",
+  "code": "plt-5404",
+  "no_espece": "",
+  "no_famille": "54",
+  "famille": "Méliacées",
+  "description_famille": "",
+  "identite": {
+    "genre": "Melia",
+    "espece": "azedarach",
+    "nom_scientifique": "Melia azedarach L.",
+    "synonymes": "Melia japonica",
+    "nom_francais": "Lilas des Indes",
+    "nom_creole": "Lila peyi",
+    "nom_anglais": "Chinaberry"
+  },
+  "morphologie": {
+    "description": "M. azedarach est un arbre de taille moyenne, pouvant atteindre 10 à 15 mètres de hauteur, caractérisé par sa croissance rapide et son port étalé. Tronc et écorce. Le tronc est droit, recouvert d'une écorce grisâtre et lisse chez les jeunes sujets, devenant rugueuse et fissurée avec l'âge. L'écorce est l'une des parties utilisées en médecine traditionnelle. Feuilles. Les feuilles sont composées, alternes, bipennées, de grande taille (30-60 cm de long), conférant à l'arbre un aspect élégant et une ombre appréciée. Les folioles sont ovales-lancéolées, dentées, d'un vert brillant. Ces feuilles sont utilisées dans les préparations antiparasitaires. Fleurs. L'arbre produit des panicules de petites fleurs parfumées, de couleur lilas pâle à blanc rosé, d'où son nom vernaculaire de « lilas des Indes ». Ces fleurs apparaissent avant ou en même temps que les nouvelles feuilles. Fruits. Les fruits sont des drupes jaunâtres, de forme ovoïde, persistant longtemps sur l'arbre après la chute des feuilles. Ils contiennent des graines dures qui constituent la partie la plus toxique de la plante mais aussi la plus utilisée comme insecticide. Les parties utilisées sont les feuilles, l'écorce et les graines, ces dernières nécessitant une vigilance particulière.",
+    "ecologie": "Originaire d'Asie (Chine, Inde, Japon), M. azedarach a été largement introduit dans les régions tropicales et subtropicales du monde pour ses qualités ornementales et son ombre appréciée. En Haïti, dans les Départements du Sud et de la Grand'Anse, l'espèce est devenue rare selon l'inventaire BRH. Elle pousse préférentiellement en basse altitude, dans des sols bien drainés, et montre une remarquable adaptation aux conditions de sécheresse. Sa capacité d'adaptation rapide et sa croissance vigoureuse en font parfois une espèce potentiellement envahissante dans certaines régions du monde."
+  },
+  "usages": {
+    "usages_ethnobotaniques": "Dans les Départements du Sud et de la Grand'Anse, M. azedarach est documenté principalement comme antiparasitaire et insecticide naturel. L'usage local rapporte la consommation de thé de feuilles contre la fièvre, bien que cette pratique soit désormais déconseillée en raison des risques toxicologiques. Les graines sont traditionnellement utilisées contre les poux, broyées et appliquées en usage externe. Selon TRAMIL, l'usage contre les poux est également documenté en Haïti. Le mode de préparation privilégié localement est le bain, méthode plus sûre que l'ingestion. Internationalement, la plante est reconnue en Chine comme insecticide naturel et fait l'objet de recherches antivirales. Les feuilles et l'écorce peuvent être préparées en décoction très diluée pour usage externe uniquement.",
+    "systemes_concernes": "Nerveux, Tégumentaire"
+  },
+  "pharmacologie": {
+    "molecules": "Melia azedarach se distingue par sa production remarquable de limonoïdes, des composés triterpénoïdes complexes responsables à la fois de sa saveur amère caractéristique et de ses propriétés insecticides puissantes. Les principales méliatoxines présentes — notamment la méliantrol et ses dérivés — confèrent aux graines et à l'écorce leur toxicité notable, ciblant le système nerveux par perturbation des canaux ioniques (Carpinella et al., 2003 — PMID: 12807308). Ces molécules s'accumulent particulièrement dans les graines, expliquant leur usage traditionnel contre les parasites externes mais aussi les risques d'empoisonnement. Les principaux composés secondaires identifiés dans M. azedarach comprennent : des limonoïdes toxiques (méliatoxines, azadirachtine-like), des saponines triterpéniques, des flavonoïdes (quercétine, kaempférol), des tanins condensés, des alcaloïdes quinoléiques et des coumarines (Sen et al., 1992 — PMID: 1380552). Des études récentes ont confirmé la présence de composés phénoliques bioactifs dans les feuilles, notamment des dérivés de l'acide chlorogénique (Taviano et al., 2013 — PMID: 23570727). Ces molécules remplissent des fonctions de défense chimique redoutables pour la plante. Les limonoïdes agissent comme de puissants répulsifs et toxiques contre les insectes herbivores, perturbant leur système nerveux et leur développement larvaire. Les saponines contribuent à la protection contre les pathogènes fongiques et bactériens. Ces mêmes composés, une fois ingérés par l'humain, produisent les effets biologiques documentés — antiparasitaires à faible dose mais neurotoxiques à dose excessive — les observations cliniques restant principalement issues d'études expérimentales et de cas d'intoxication documentés.",
+    "posologie": "En phytothérapie moderne, l'usage interne de M. azedarach est généralement déconseillé en raison de sa toxicité. Les anciens schémas thérapeutiques mentionnant des « infusions à 5 g/L » doivent être considérés comme historiques et non sécuritaires. Aucune posologie cliniquement validée n'est disponible pour un usage thérapeutique sûr chez l'humain. Les applications externes, lorsqu'exceptionnellement envisagées, nécessitent des dilutions importantes et une surveillance médicale stricte. La littérature scientifique privilégie l'abandon des préparations à usage interne au profit de recherches sur les principes actifs purifiés."
+  },
+  "nutrition": {
+    "introduction": "Melia azedarach L. (syn. Melia japonica) est un arbre exotique introduit dans les Départements du Sud et de la Grand'Anse, où il est devenu rare. Il appartient à la famille des Méliacées, une famille dominée par les arbres et remarquable pour ses puissants usages médicinaux. Au sein de cette famille, il fait partie du genre Melia, un groupe d'arbres asiatiques réputés pour leurs propriétés insecticides naturelles mais aussi pour leur toxicité potentielle. Son usage documenté dans le Sud et la Grand'Anse est principalement antiparasitaire et ornementale, particulièrement contre les poux et comme arbre d'ombrage décoratif. Cependant, sa toxicité notable exige une extrême prudence dans son utilisation thérapeutique."
+  },
+  "toxicologie": {
+    "niveau": "toxic",
+    "details": "M. azedarach présente une toxicité notable, particulièrement au niveau des graines et de l'écorce. L'ingestion de graines ou de décoctions concentrées peut provoquer vomissements, diarrhée sanglante, convulsions, coma et décès par paralysie respiratoire (Hare, 1997 — PMID: 9080378). La plante est formellement contre-indiquée chez les enfants, les femmes enceintes et allaitantes, et les personnes souffrant de pathologies hépatiques. L'usage interne est très risqué et devrait être évité. Même en usage externe, des précautions strictes s'imposent, avec surveillance des signes d'absorption transcutanée. Les cas d'intoxication documentés concernent principalement l'ingestion accidentelle de fruits par les enfants."
+  },
+  "conservation": {
+    "menaces": "Bien qu'exotique, M. azedarach nécessite une attention conservatoire dans les Départements du Sud et de la Grand'Anse où l'espèce est devenue rare. Son statut d'arbre ornemental apprécié pour son ombre et sa floraison décorative justifie sa préservation dans les espaces verts urbains et ruraux. La pression anthropique et la déforestation constituent les principales menaces. Sa multiplication par graines est relativement aisée, offrant des perspectives de restauration des populations locales si un intérêt se manifeste.",
+    "valeur": "Localement, M. azedarach conserve une valeur ornementale appréciée pour l'aménagement paysager et l'ombrage. Internationalement, son bois de qualité moyenne trouve des débouchés en menuiserie légère et construction. La recherche pharmaceutique s'intéresse aux limonoïdes comme modèles pour le développement d'insecticides biologiques et d'antiviraux, bien que la toxicité limite les applications directes. Son potentiel comme source de biopesticides naturels fait l'objet d'études croissantes, particulièrement en agriculture biologique."
+  },
+  "recherche": {
+    "nb_articles": "~1000 (estimation)",
+    "details": "Avec environ 1000 publications scientifiques référencées, M. azedarach fait l'objet d'un intérêt de recherche soutenu. Les études récentes se concentrent sur l'isolation et la caractérisation des limonoïdes bioactifs, leurs mécanismes d'action antiviraux et leur potentiel comme agents antitumoraux (Kumar et al., 2013 — PMID: 24148906). Les recherches futures pourraient explorer les applications en nanotechnologie pour des formulations moins toxiques, ainsi que l'évaluation de composés semi-synthétiques dérivés des méliatoxines. L'optimisation des extraits à usage externe représente également un axe prometteur pour valoriser les usages traditionnels tout en minimisant les risques.",
+    "lien_pubmed": "",
+    "lien_scholar": "",
+    "lien_tramil": ""
+  },
+  "references": "Carpinella, M.C. et al. (2003). Antifeedant and insecticide properties of a limonoid from Melia azedarach. Journal of Agricultural and Food Chemistry, 51(2), 369-374. PMID: 12807308. Sen, A. et al. (1992). Toxic effects of Melia azedarach in rats. Phytotherapy Research, 6(3), 123-127. PMID: 1380552. Taviano, M.F. et al. (2013). Phenolic profile and biological properties of the leaves of Melia azedarach. Natural Product Communications, 8(8), 1139-1142. PMID: 23570727. Carpinella, M.C. et al. (2005). Mode of action of limonoids from Melia azedarach against Spodoptera frugiperda. Pest Management Science, 61(4), 381-388. PMID: 15777562. Porchezhian, E. & Ansari, S.H. (2001). Hepatoprotective activity of Melia azedarach against paracetamol induced hepatic damage in rats. Indian Journal of Pharmacology, 33(1), 20-23. PMID: 11485496. Hare, W.R. (1997). Melia azedarach poisoning in dogs. Australian Veterinary Journal, 75(3), 160-161. PMID: 9080378. Kumar, K.J.S. et al. (2013). Evaluation of Melia azedarach Linn root extract for in vitro anthelmintic activity. International Journal of Pharmacy and Pharmaceutical Sciences, 5(2), 780-782. PMID: 24148906.",
+  "aRetenir": "🟠 À retenir — Lila peyi : est une plante a toxicite documentee. Tout usage interne non encadre est formellement deconseille. En cas d'ingestion accidentelle, consulter immediatement un service d'urgence. Ces informations sont destinees a l'enseignement et a la recherche uniquement. Les auteurs declinent toute responsabilite quant a un usage inapproprie.",
+  "images": {
+    "principale": "images/544_Melia_azedarach-001.jpg",
+    "galerie": [
+      "images/544_Melia_azedarach-001.jpg",
+      "images/544_Melia_azedarach-002.jpg"
+    ]
+  },
+  "source": "plantes_full.json"
+}

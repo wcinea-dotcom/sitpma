@@ -1,0 +1,57 @@
+{
+  "id_plante": "plt-7804",
+  "code": "plt-7804",
+  "no_espece": "",
+  "no_famille": "78",
+  "famille": "Rubiacées",
+  "description_famille": "",
+  "identite": {
+    "genre": "Morinda",
+    "espece": "citrifolia",
+    "nom_scientifique": "Morinda citrifolia L.",
+    "synonymes": "Morinda macrophylla",
+    "nom_francais": "Noni / Bois douleur",
+    "nom_creole": "Doulè",
+    "nom_anglais": "Noni"
+  },
+  "morphologie": {
+    "description": "M. citrifolia est un arbuste tropical de basse altitude, à croissance relativement rapide, pouvant atteindre 3 à 6 mètres de hauteur dans des conditions optimales. Tiges et racines. Les tiges sont dressées, ramifiées, avec une écorce lisse et grisâtre. Le système racinaire est pivotant et développé, permettant à la plante de résister aux périodes sèches fréquentes dans les zones de basse altitude du Sud et de la Grand'Anse. Feuilles. Les feuilles sont opposées, simples, grandes (10-30 cm de longueur), ovales à elliptiques, coriaces et persistantes. Elles présentent un limbe vert foncé brillant sur la face supérieure et plus pâle sur la face inférieure, avec des nervures bien marquées. Les feuilles jeunes sont parfois consommées comme légume dans les pratiques locales. Fleurs. Les fleurs sont petites, blanches, tubulaires et regroupées en têtes globuleuses denses. Elles dégagent un parfum sucré attirant les insectes pollinisateurs, principalement des mouches et des petits coléoptères. Fruit. Le fruit est l'organe le plus remarquable de la plante : il s'agit d'un syncarpe (fruit multiple) ovoïde de 5-10 cm de longueur, de couleur vert jaunâtre à maturité, présentant une surface bosselée caractéristique. Ce fruit dégage une odeur très forte, souvent décrite comme désagréable, mais constitue la partie principalement utilisée en médecine traditionnelle. Les parties utilisées sont les fruits (principalement), les feuilles et les racines.",
+    "ecologie": "Originaire de Polynésie et du Sud-Est asiatique, M. citrifolia a été largement dispersé par l'homme à travers les régions tropicales du monde. En Haïti, l'espèce a été introduite et s'est naturalisée dans certaines zones de basse altitude, particulièrement dans les Départements du Sud et de la Grand'Anse où elle demeure rare. Elle s'adapte aux sols pauvres et tolère la sécheresse, ce qui explique sa présence dans les zones côtières et les plaines semi-arides de ces régions."
+  },
+  "usages": {
+    "usages_ethnobotaniques": "Dans les Départements du Sud et de la Grand'Anse, M. citrifolia est documenté principalement comme immunomodulateur et fortifiant général. Le jus des fruits mûrs est la préparation la plus courante : « le jus redonne des forces » selon les témoignages locaux recueillis. Les feuilles sont occasionnellement consommées comme légume, généralement bouillies pour atténuer leur amertume. Les racines, moins utilisées, entrent dans certaines préparations traditionnelles pour leurs supposées propriétés toniques. Le mode de préparation principal consiste à extraire le jus des fruits par pression manuelle, souvent dilué dans de l'eau pour en réduire l'intensité gustative. Dans la région caribéenne, TRAMIL documente son usage contre les douleurs, confirmant la diversité de ses applications thérapeutiques traditionnelles.",
+    "systemes_concernes": "Immunitaire"
+  },
+  "pharmacologie": {
+    "molecules": "Le fruit de M. citrifolia se distingue par sa richesse exceptionnelle en proxéronine, un précurseur enzymatique unique qui, une fois transformé dans l'organisme humain, donnerait naissance à la xéronine — une molécule hypothétique aux propriétés biologiques multiples selon certaines théories non validées scientifiquement. Le fruit contient également des quantités notables de vitamine C, de potassium et d'acide octanoïque, responsable de son odeur caractéristique et piquante. Ces composés primaires, associés à des fibres solubles et à divers sucres, confèrent au jus de noni sa densité nutritionnelle particulière et son goût très distinctif, souvent décrit comme âcre et fromager. Les principaux composés secondaires identifiés dans M. citrifolia comprennent : des anthraquinones (notamment le damnacanthal), des iridoïdes (incluant la scopolétine), des flavonoïdes (quercétine, rutine, kaempférol), des saponines triterpéniques, des alcaloïdes en faibles concentrations, et des composés phénoliques variés (Wang et Su, 2001 — PMID: 11453083, McClatchey, 2002 — PMID: 12495262). Ces molécules remplissent des fonctions de défense écologique précises pour la plante. Les anthraquinones comme le damnacanthal agissent comme répulsifs contre les herbivores et présentent des propriétés antimicrobiennes protégeant les tissus végétaux. La scopolétine joue un rôle de phytoalexine, se concentrant dans les zones blessées pour prévenir les infections fongiques. Les flavonoïdes protègent contre les rayonnements UV intenses des régions tropicales. Ces mêmes composés, une fois ingérés par l'humain, produisent les effets biologiques documentés : activité antioxydante, propriétés anti-inflammatoires et modulation de certaines cytokines, bien que les mécanismes précis restent largement issus d'études in vitro.",
+    "posologie": "Des études cliniques préliminaires suggèrent une posologie de 30 à 90 mL de jus par jour pendant plusieurs semaines pour les produits commerciaux standardisés. Les préparations traditionnelles utilisent généralement des infusions de 50 à 100 mL par jour. Cependant, ces dosages restent empiriques et aucune posologie cliniquement validée n'est établie pour les préparations artisanales haïtiennes. La variabilité importante de la concentration en principes actifs selon la maturité des fruits et les conditions de culture rend difficile une standardisation précise (Wang et al., 2002 — PMID: 12456324)."
+  },
+  "nutrition": {
+    "introduction": "Morinda citrifolia L. (syn. Morinda macrophylla) est un arbuste exotique introduit, cultivé de façon rare dans les Départements du Sud et de la Grand'Anse. Il appartient à la famille des Rubiacées, une vaste famille tropicale regroupant plus de 13 000 espèces réparties entre lianes, arbustes, herbes et arbres, particulièrement abondante dans la flore du grand sud haïtien. Cette famille se distingue par ses riches usages alimentaires et médicinaux, avec des genres emblématiques comme Coffea (café), Cinchona (quinquina) et Psychotria. Sur le plan phytochimique, les Rubiacées développent une signature complexe dominée par des alcaloïdes puissants (caféine, quinine, iridoïdes), des flavonoïdes, des tanins, des anthraquinones et divers composés phénoliques, ciblant préférentiellement les systèmes tégumentaire, nerveux et cardiaque. Une vigilance particulière s'impose car certaines espèces de cette famille renferment des principes actifs très puissants ou potentiellement toxiques exigeant une préparation adéquate ou un dosage strict. Au sein de cette famille, M. citrifolia fait partie du genre Morinda, un groupe d'arbustes tropicaux réputés pour leurs propriétés tinctoriales et médicinales. L'espèce est utilisée en Haïti principalement comme immunomodulateur et fortifiant, le jus de ses fruits étant réputé « redonner des forces »."
+  },
+  "toxicologie": {
+    "niveau": "",
+    "details": "M. citrifolia présente un profil de sécurité généralement favorable aux doses traditionnelles. Cependant, des cas isolés d'hépatotoxicité ont été rapportés avec certains jus de noni commerciaux, souvent multi-ingrédients, suggérant une prudence chez les personnes présentant des troubles hépatiques préexistants. Les troubles digestifs (nausées, diarrhées) sont fréquents à haute dose en raison de la teneur en anthraquinones. Une surveillance particulière est recommandée pendant la grossesse, l'allaitement et chez les jeunes enfants, les données de sécurité étant limitées pour ces populations."
+  },
+  "conservation": {
+    "menaces": "Bien que l'espèce ne soit pas menacée globalement, sa rareté dans les Départements du Sud et de la Grand'Anse nécessite une attention particulière pour maintenir les populations locales. La déforestation et la conversion des terres agricoles représentent les principales menaces. Des efforts de multiplication et de distribution auprès des communautés locales pourraient contribuer à préserver cet usage traditionnel tout en développant une petite filière économique locale.",
+    "valeur": "Internationnalement, M. citrifolia représente un marché important dans l'industrie des compléments alimentaires, avec des produits dérivés (jus, poudres, extraits) commercialisés principalement en Amérique du Nord et en Europe. Localement en Haïti, la valeur économique reste limitée mais pourrait être développée à travers des initiatives de transformation artisanale et de commercialisation du jus frais sur les marchés locaux et touristiques."
+  },
+  "recherche": {
+    "nb_articles": "~2000 (estimation)",
+    "details": "Avec environ 2000 publications indexées sur PubMed, M. citrifolia figure parmi les plantes médicinales tropicales les mieux étudiées scientifiquement. Les recherches actuelles se concentrent sur l'optimisation des extractions, la standardisation des préparations et l'évaluation clinique rigoureuse des allégations traditionnelles. Des études pharmacocinétiques sont nécessaires pour mieux comprendre le devenir des composés bioactifs dans l'organisme humain et établir des posologies cliniquement validées.",
+    "lien_pubmed": "",
+    "lien_scholar": "",
+    "lien_tramil": ""
+  },
+  "references": "Wang MY, Su C. Cancer preventive effect of Morinda citrifolia (Noni). Ann N Y Acad Sci. 2001,928:161-8. PMID: 11453083. McClatchey W. From Polynesian healers to health food stores: changing perspectives of Morinda citrifolia (Rubiaceae). Integr Cancer Ther. 2002,1(2):110-20. PMID: 12495262. Su BN, Pawlus AD, Jung HA, Keller WJ, McLaughlin JL, Kinghorn AD. Chemical constituents of the fruits of Morinda citrifolia (noni) and their antioxidant activity. J Nat Prod. 2005,68(4):592-5. PMID: 15784393. Wang MY, Nowicki D, Anderson G, Jensen J, West B. Liver protective effects of Morinda citrifolia (Noni). Plant Foods Hum Nutr. 2008,63(2):59-63. PMID: 12456324.",
+  "aRetenir": "🟢 À retenir — Doulè : est utilisee en medecine traditionnelle avec un bon profil de securite aux doses courantes. Les usages presentes reposent sur des donnees ethnobotaniques et scientifiques publiees, mais ne constituent pas une prescription. Consulter un professionnel de sante avant tout usage therapeutique. Les auteurs declinent toute responsabilite quant a un usage inapproprie.",
+  "images": {
+    "principale": "images/774_Morinda_citrifolia-001.jpg",
+    "galerie": [
+      "images/774_Morinda_citrifolia-001.jpg",
+      "images/774_Morinda_citrifolia-002.jpg"
+    ]
+  },
+  "source": "plantes_full.json"
+}

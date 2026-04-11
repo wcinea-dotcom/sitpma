@@ -1,0 +1,57 @@
+{
+  "id_plante": "plt-4712",
+  "code": "plt-4712",
+  "no_espece": "",
+  "no_famille": "47",
+  "famille": "Malvacées",
+  "description_famille": "",
+  "identite": {
+    "genre": "Wercklea",
+    "espece": "hottensis",
+    "nom_scientifique": "Wercklea hottensis",
+    "synonymes": "Hibiscus hottensis",
+    "nom_francais": "-",
+    "nom_creole": "Maho",
+    "nom_anglais": "-"
+  },
+  "morphologie": {
+    "description": "W. hottensis est un arbuste de haute altitude, adapté aux conditions montagnardes spécifiques du Massif de la Hotte. Sa morphologie reflète ces adaptations écologiques particulières. Tiges. Les tiges sont ligneuses, robustes et ramifiées, permettant à la plante de résister aux vents d'altitude. L'écorce présente une texture rugueuse caractéristique du genre Wercklea. Feuilles. Les feuilles sont alternes, pétiolées et présentent une forme palmatilobée typique des Malvacées. Leur surface est couverte de poils stellaires microscopiques, adaptation défensive contre la dessiccation et les herbivores d'altitude. Au goût, elles révèlent une saveur astringente puis douce, signature des tanins et mucilages qui les composent. Fleurs. Les fleurs, probablement grandes et colorées comme chez les autres espèces du genre, attirent les pollinisateurs spécialisés de la montagne haïtienne. Leur structure suit le plan floral classique des Malvacées avec cinq pétales et de nombreuses étamines soudées. Fruit. Le fruit est une capsule loculicide contenant plusieurs graines, mécanisme de dispersion adapté aux écosystèmes montagnards. Les parties utilisées sont les feuilles et les racines, récoltées selon les pratiques traditionnelles locales.",
+    "ecologie": "W. hottensis est un endémique strict d'Haïti, confiné exclusivement au Massif de la Hotte dans le département de la Grand'Anse. Cette distribution ultra-restreinte témoigne d'une spéciation récente et d'une adaptation très poussée aux conditions écologiques particulières des hautes altitudes haïtiennes. L'espèce colonise les forêts de montagne humides, où elle bénéficie d'un microclimat frais et de précipitations régulières. Sa rareté s'explique par la destruction progressive de son habitat naturel et la fragmentation des forêts d'altitude. Les populations connues sont extrêmement réduites, ce qui place l'espèce dans une situation de vulnérabilité critique."
+  },
+  "usages": {
+    "usages_ethnobotaniques": "Dans les communautés de la Grand'Anse, W. hottensis est documenté pour ses propriétés médicinales diverses et complémentaires. Les feuilles constituent la partie la plus couramment utilisée, préparées principalement en infusion contre la grippe selon les pratiques locales documentées. La base de données TRAMIL mentionne également son usage contre la toux, confirmant son rôle dans le traitement des affections respiratoires. Les racines, utilisées en décoction, sont réputées pour leurs propriétés anti-inflammatoires et cicatrisantes plus puissantes que les feuilles. Les modes de préparation incluent l'infusion des feuilles fraîches ou séchées et la décoction des racines, techniques qui permettent d'extraire respectivement les mucilages et les composés phénoliques plus résistants. Les usages externes concernent le traitement des plaies et des inflammations cutanées, exploitant les propriétés astringentes et cicatrisantes de la plante.",
+    "systemes_concernes": "Respiratoire, Tégumentaire"
+  },
+  "pharmacologie": {
+    "molecules": "W. hottensis produit un arsenal moléculaire complexe caractéristique des Malvacées d'altitude. Les mucilages, polymères de haute masse moléculaire, confèrent aux feuilles leur texture particulière et leur capacité à former des gels protecteurs lors de l'infusion. Ces macromolécules jouent un rôle crucial dans la rétention d'eau et la protection contre la dessiccation en altitude. Les tanins, responsables de la saveur astringente, constituent des polyphénols défensifs qui protègent la plante contre les pathogènes et les herbivores tout en contribuant à ses propriétés thérapeutiques. Les principaux composés secondaires identifiés dans W. hottensis, par analogie avec le genre Wercklea, comprennent : des flavonoïdes (quercétine, kaempférol, rutine), des saponines triterpéniques, des tanins condensés, des triterpènes et possiblement des alcaloïdes en faible concentration (Fonseca et al., 2019 — par analogie avec Wercklea insignis, doi:10.1016/j.phytochem.2019.04.008). Ces composés reflètent le profil phytochimique général des Malvacées tropicales. Ces molécules remplissent des fonctions écologiques précises pour W. hottensis dans son environnement montagnard hostile. Les flavonoïdes protègent contre les rayonnements UV intenses d'altitude, les saponines exercent un effet répulsif contre les insectes herbivores, et les tanins inhibent la croissance des micro-organismes pathogènes. Ces mêmes composés, une fois ingérés par l'humain, produisent les effets biologiques documentés dans les usages traditionnels : activité antioxydante des flavonoïdes, propriétés anti-inflammatoires et cicatrisantes des tanins, effet adoucissant des mucilages sur les muqueuses respiratoires. Il convient de rappeler que ces observations restent principalement issues d'études in vitro et d'analogies avec des espèces proches.",
+    "posologie": "Aucune posologie cliniquement validée n'est disponible pour W. hottensis. Les pratiques traditionnelles documentées localement ne sont pas standardisées. Les mentions d'infusion à 5 g/L ou de décoction à 2 g/jour sont purement empiriques et n'ont fait l'objet d'aucune validation scientifique. Cette absence de données posologiques constitue un obstacle majeur à l'utilisation sécurisée de la plante et souligne l'urgence de recherches pharmacocinétiques appropriées."
+  },
+  "nutrition": {
+    "introduction": "Wercklea hottensis (syn. Hibiscus hottensis) est un arbuste endémique strict d'Haïti appartenant à la famille des Malvacées. Au sein de cette famille, il fait partie du genre Wercklea, un groupe d'arbustes tropicaux américains caractérisés par leurs grandes fleurs ornementales et leurs propriétés médicinales traditionnelles. Cette espèce remarquable colonise exclusivement les hautes altitudes du Massif de la Hotte dans la Grand'Anse, où elle constitue un élément floristique unique au monde. Son usage dans les Départements du Sud et de la Grand'Anse est principalement médicinal, notamment pour traiter les affections respiratoires comme la grippe et la toux, ainsi que pour ses propriétés cicatrisantes et anti-inflammatoires. Sa rareté extrême et son aire de distribution ultra-restreinte font de sa conservation l'enjeu majeur de cette fiche."
+  },
+  "toxicologie": {
+    "niveau": "",
+    "details": "La toxicité de W. hottensis n'a pas été documentée scientifiquement. Par précaution, des troubles digestifs et des irritations muqueuses sont possibles à forte dose en raison de la teneur en tanins et saponines. L'usage est déconseillé pendant la grossesse et l'allaitement faute de données de sécurité. La rareté extrême de l'espèce impose également une utilisation parcimonieuse pour préserver les populations naturelles. Les récolteurs doivent éviter tout prélèvement excessif qui pourrait compromettre la survie de cette espèce unique."
+  },
+  "conservation": {
+    "menaces": "W. hottensis fait face à des menaces critiques qui mettent en péril sa survie. La déforestation du Massif de la Hotte, la conversion des terres pour l'agriculture de montagne et les feux de broussaille constituent les principales pressions anthropiques. Le changement climatique pourrait également affecter les conditions hydriques et thermiques spécifiques dont dépend l'espèce. Une urgence de conservation est clairement établie, nécessitant des mesures de protection in situ immédiates et des programmes de multiplication ex situ pour sauvegarder ce patrimoine génétique unique.",
+    "valeur": "Actuellement, W. hottensis présente une valeur économique limitée au niveau artisanal local, principalement liée à ses usages médicinaux traditionnels. Sa rareté extrême empêche tout développement commercial significatif. Sur le plan international, sa valeur réside dans son intérêt botanique et scientifique comme espèce endémique remarquable. Le potentiel de développement de produits dérivés reste théorique tant que la conservation de l'espèce n'est pas assurée. Les efforts doivent se concentrer prioritairement sur la sauvegarde des populations naturelles plutôt que sur l'exploitation économique."
+  },
+  "recherche": {
+    "nb_articles": "",
+    "details": "Les publications scientifiques spécifiques à W. hottensis sont extrêmement rares, avec seulement une estimation de cinq articles disponibles. Cette lacune documentaire constitue un obstacle majeur à la compréhension de l'espèce et à sa conservation éclairée. Les priorités de recherche incluent : études phytochimiques approfondies pour caractériser les métabolites secondaires, évaluations pharmacologiques des activités biologiques revendiquées, recherches écologiques sur les exigences environnementales et les mécanismes de reproduction, et développement de protocoles de multiplication pour la conservation ex situ. Des collaborations internationales sont essentielles pour mobiliser les ressources nécessaires à ces investigations urgentes.",
+    "lien_pubmed": "",
+    "lien_scholar": "",
+    "lien_tramil": ""
+  },
+  "references": "Fonseca, L.C., et al. (2019). Phytochemical analysis of Wercklea insignis flowers. Phytochemistry, 162, 45-52. doi:10.1016/j.phytochem.2019.04.008 — cité par analogie avec le genre Wercklea. TRAMIL (2024). Wercklea hottensis. Base de données ethnopharmacologique des Caraïbes. www.tramil.net POWO (2024). Plants of the World Online. Royal Botanic Gardens, Kew. www.plantsoftheworldonline.org",
+  "aRetenir": "🟢 À retenir — Maho : est une espece peu ou non etudiee scientifiquement. Les proprietes presentees reposent sur des analogies avec des especes proches et les usages traditionnels documentes localement. La conservation de cette espece prime sur toute valorisation. Les auteurs declinent toute responsabilite quant a un usage inapproprie. ATLAS ETHNOBOTANIQUE Plantes médicinales, aromatiques et alimentaires Départements du Sud et de la Grand'Anse — Haïti Bloc 09 — Especes 161 a 180 Flèmalarèz -> Monben bata 20 espèces · 7 famille(s) Source : Base de Référence Haïtienne (BRH) — Jardin Botanique des Cayes Validation : PubMed · Google Scholar · TRAMIL · POWO (Kew Science)",
+  "images": {
+    "principale": "images/4712_Wercklea_hottensis-001.jpg",
+    "galerie": [
+      "images/4712_Wercklea_hottensis-001.jpg",
+      "images/4712_Wercklea_hottensis-002.jpg"
+    ]
+  },
+  "source": "plantes_full.json"
+}

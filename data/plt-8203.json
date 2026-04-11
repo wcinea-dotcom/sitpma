@@ -1,0 +1,59 @@
+{
+  "id_plante": "plt-8203",
+  "code": "plt-8203",
+  "no_espece": "",
+  "no_famille": "82",
+  "famille": "Sapotacées",
+  "description_famille": "",
+  "identite": {
+    "genre": "Manilkara",
+    "espece": "zapota",
+    "nom_scientifique": "Manilkara zapota (L.)",
+    "synonymes": "Achras zapota L.",
+    "nom_francais": "Sapotillier",
+    "nom_creole": "Sapoti",
+    "nom_anglais": "Sapodilla"
+  },
+  "morphologie": {
+    "description": "M. zapota est un arbre de taille moyenne pouvant atteindre 15 à 20 mètres de hauteur, à croissance lente et longévité remarquable, adapté aux zones de basse altitude des Départements du Sud et de la Grand'Anse. Tronc et écorce. Le tronc est droit, pouvant atteindre 50 cm de diamètre, recouvert d'une écorce gris-brun rugueuse et fissurée. Comme chez toutes les Sapotacées, l'écorce sécrète un latex blanc collant lorsqu'elle est blessée — caractéristique défensive de la famille. Feuilles. Les feuilles sont simples, alternes, coriaces et persistantes, de forme elliptique à oblongue, mesurant 8 à 15 cm de longueur. Elles présentent une nervation pennée bien marquée et une surface supérieure vert foncé brillante. Leur texture coriace et leur saveur astringente témoignent de leur richesse en tanins. Fleurs. Les fleurs sont petites, blanc-verdâtre, solitaires ou groupées par 2-3 à l'aisselle des feuilles. Elles sont hermaphrodites et possèdent 6 sépales, 6 pétales et de nombreuses étamines. Fruit. Le fruit, appelé localement « sapoti », est une baie ovoïde à sphérique de 4 à 8 cm de diamètre, recouverte d'une peau rugueuse brun-roux. La chair est brun clair, très sucrée, parfumée et de texture granuleuse rappelant la poire. Elle renferme 1 à 6 graines noires brillantes, dures et aplaties. Les parties utilisées sont les fruits (consommation alimentaire), les feuilles, l'écorce et les graines (usage médicinal traditionnel).",
+    "ecologie": "M. zapota est originaire du sud du Mexique et du nord de l'Amérique centrale. Introduit à Haïti durant la période coloniale, il s'est adapté aux conditions climatiques tropicales des Départements du Sud et de la Grand'Anse, où il demeure très rare selon l'inventaire BRH. L'espèce préfère les zones de basse altitude, les sols bien drainés et supporte relativement bien la sécheresse une fois établie. Sa rareté actuelle résulte probablement de sa croissance très lente et de la faible diffusion de sa culture, malgré la qualité gustative exceptionnelle de ses fruits."
+  },
+  "usages": {
+    "usages_ethnobotaniques": "L'usage principal documenté dans le Sud et la Grand'Anse est la consommation alimentaire du fruit mûr cru, apprécié pour sa saveur très sucrée et parfumée. Le fruit est consommé tel quel ou incorporé dans des préparations culinaires locales. En médecine traditionnelle haïtienne, les feuilles et graines sont utilisées sous forme d'infusions ou décoctions pour leurs propriétés antidiabétiques présumées. L'écorce peut être préparée en décoction pour traiter les troubles digestifs. Les données TRAMIL confirment l'usage des feuilles en Haïti contre la diarrhée, classé en zone verte (usage sûr). Au niveau international, l'espèce est historiquement connue au Mexique pour la production de chicle, un latex naturel utilisé dans la fabrication de chewing-gums.",
+    "systemes_concernes": "Digestif"
+  },
+  "pharmacologie": {
+    "molecules": "Le fruit de M. zapota se distingue par sa richesse exceptionnelle en sucres naturels — principalement fructose, glucose et saccharose — responsables de sa saveur très sucrée et de sa valeur énergétique élevée. Cette concentration en glucides s'accompagne de fibres alimentaires solubles et insolubles qui modulent l'absorption des sucres. Le fruit contient également des caroténoïdes (β-carotène, lycopène) qui lui confèrent sa coloration brun clair et ses propriétés antioxydantes, ainsi qu'une teneur notable en vitamine C. Sur le plan minéral, il est particulièrement riche en potassium (K), magnésium (Mg), calcium (Ca), fer (Fe) et zinc (Zn) (Ma et al., 2004 — PMC1892942). Les principaux composés secondaires identifiés dans M. zapota comprennent : des flavonoïdes (catéchine, épicatéchine, gallocatéchine, quercétine), des tanins condensés et hydrolysables, des saponines triterpéniques, des triterpènes (lupéol, β-amyrine), et des polysaccharides complexes dans les feuilles et graines (Barbalho et al., 2022 — PMID: 35457153). L'écorce et les graines contiennent également des alcaloïdes en faibles quantités. Ces composés remplissent des fonctions de défense spécifiques pour l'arbre. Les tanins protègent les feuilles contre l'herbivorie en créant une saveur astringente dissuasive et en complexant les protéines digestives des ravageurs. Les saponines dans l'écorce agissent comme agents antimicrobiens et antifongiques. Le latex riche en triterpènes constitue un mécanisme de défense immédiat contre les blessures et les pathogènes. Ces mêmes composés, une fois ingérés par l'humain, produisent les effets biologiques documentés : les tanins exercent une action astringente et antidiarrhéique, les flavonoïdes présentent une activité antioxydante et anti-inflammatoire, tandis que les saponines peuvent moduler la glycémie. Il convient de noter que ces observations restent principalement issues d'études in vitro et sur modèles animaux.",
+    "posologie": "Les études pharmacologiques disponibles portent principalement sur des modèles animaux. Les extraits de pelures et graines ont montré une efficacité à des doses de 100 à 300 mg/kg chez la souris (Barbalho et al., 2022 — PMID: 35457153). Pour l'usage traditionnel humain, les praticiens recommandent généralement la consommation de 50 à 100 mL de jus de fruit frais par jour, ou l'équivalent en fruit frais. Les infusions de feuilles sont préparées avec de petites quantités (1 à 2 g de feuilles séchées par tasse) en raison de leur richesse en tanins. Cependant, aucune posologie cliniquement validée n'est disponible pour l'usage médicinal de cette espèce chez l'humain."
+  },
+  "nutrition": {
+    "introduction": "Manilkara zapota (L.) (syn. Achras zapota L.) est un arbre fruitier exotique de taille moyenne, introduit et cultivé dans les Départements du Sud et de la Grand'Anse où il demeure très rare. Il appartient à la famille des Sapotacées, reconnue pour ses arbres et arbustes tropicaux aux fruits souvent comestibles et nutritifs. Au sein de cette famille, il fait partie du genre Manilkara, qui rassemble des espèces productrices de latex et de fruits sucrés particulièrement appréciés. Son usage principal dans les deux départements est alimentaire — le fruit mûr étant consommé cru — mais les feuilles, l'écorce et les graines sont également valorisées en médecine traditionnelle pour leurs propriétés antidiabétiques et antidiarrhéiques."
+  },
+  "toxicologie": {
+    "niveau": "",
+    "details": "M. zapota présente un profil de sécurité favorable. Le fruit est non toxique et largement consommé sans effet adverse. Cependant, sa très haute teneur en sucres impose des précautions chez les personnes diabétiques. L'usage des extraits concentrés de feuilles ou graines nécessite prudence en l'absence de données humaines complètes sur la toxicité à long terme. Un risque hépatique potentiel à haute dose ne peut être exclu. L'usage médicinal est déconseillé chez les enfants, femmes enceintes ou allaitantes, et personnes souffrant d'insuffisance hépatique sans supervision médicale."
+  },
+  "conservation": {
+    "menaces": "Bien que non menacée à l'échelle mondiale, M. zapota demeure très rare dans les Départements du Sud et de la Grand'Anse. Sa conservation locale nécessite des efforts de multiplication et de diffusion, d'autant plus que l'espèce présente un intérêt alimentaire et économique certain. La croissance lente de l'arbre constitue un défi pour sa propagation, mais sa longévité exceptionnelle en fait un investissement durable pour les communautés rurales.",
+    "valeur": "Localement, M. zapota représente une ressource alimentaire de haute valeur nutritionnelle mais sous-exploitée en raison de sa rareté. À l'échelle internationale, l'espèce conserve une importance économique pour la production de chicle naturel, bien que largement remplacé par des gommes synthétiques. Le fruit possède un potentiel commercial intéressant sur les marchés de fruits exotiques, et l'espèce pourrait contribuer à la diversification agricole des deux départements."
+  },
+  "recherche": {
+    "nb_articles": "~500 (estimation)",
+    "details": "Avec environ 500 publications scientifiques référencées, M. zapota bénéficie d'un corpus de recherche substantiel, principalement orienté vers ses propriétés antioxydantes et antidiabétiques. Les priorités de recherche incluent des essais cliniques humains pour valider les usages traditionnels, l'optimisation des techniques de propagation pour faciliter sa culture, et l'évaluation de son potentiel agroforestier dans le contexte haïtien. Le développement de protocoles de transformation du fruit pourrait également valoriser cette ressource rare.",
+    "lien_pubmed": "",
+    "lien_scholar": "",
+    "lien_tramil": ""
+  },
+  "references": "Ma J. et al. (2004). Chemical composition and antioxidant activity of volatile oil from Sapodilla fruit. Food Chemistry. PMC1892942. Barbalho S.M. et al. (2022). Sapodilla (Manilkara zapota) and its potential in metabolic syndrome and diabetes: A systematic review. Nutrients. PMID: 35457153. TRAMIL. Manilkara zapota. www.tramil.net/en/plant/manilkara-zapota POWO (2024). Manilkara zapota (L.) P.Royen. Plants of the World Online, Kew Science.",
+  "aRetenir": "🟢 À retenir — Sapoti : est avant tout un aliment — sa valeur nutritionnelle prime sur ses usages medicinaux. Consommee correctement preparee, elle est sans danger documente. Ses proprietes therapeutiques, reelles mais secondaires, ne remplacent pas un suivi medical. Les auteurs declinent toute responsabilite quant a un usage inapproprie.",
+  "images": {
+    "principale": "images/813_Manilkara_zapota-001.jpg",
+    "galerie": [
+      "images/813_Manilkara_zapota-001.jpg",
+      "images/813_Manilkara_zapota-002.jpg",
+      "images/813_Manilkara_zapota-003.jpg",
+      "images/813_Manilkara_zapota-004.jpg"
+    ]
+  },
+  "source": "plantes_full.json"
+}

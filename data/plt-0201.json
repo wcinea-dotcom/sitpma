@@ -1,0 +1,56 @@
+{
+  "id_plante": "plt-0201",
+  "code": "plt-0201",
+  "no_espece": "",
+  "no_famille": "2",
+  "famille": "Adoxacées",
+  "description_famille": "La famille des Adoxacées est principalement composée d'arbustes et de petits arbres, comptant environ 200 espèces réparties dans les régions tempérées et subtropicales du globe. Cette famille se distingue par des genres d'importance économique notable, notamment Sambucus (sureaux) largement utilisé en pharmacie traditionnelle et industrielle, et Viburnum, apprécié en horticulture ornementale. Les Adoxacées présentent une signature phytochimique remarquable dominée par les anthocyanes — particulièrement la sambucine — les flavonoïdes comme la rutine, la vitamine C en concentrations élevées, et divers acides phénoliques. Cette composition leur confère des propriétés biologiques ciblant préférentiellement les systèmes respiratoire et immunitaire, avec des activités antivirales et anti-inflammatoires documentées. Il convient toutefois d'exercer une vigilance particulière avec cette famille : si les fruits mûrs sont généralement comestibles et médicinaux, les parties vertes — feuilles, écorces, graines et baies immatures — contiennent des glycosides cyanogéniques potentiellement toxiques, exigeant une préparation adéquate et un dosage strict pour éviter tout risque d'intoxication.",
+  "identite": {
+    "genre": "Sambucus",
+    "espece": "simpsonii",
+    "nom_scientifique": "Sambucus simpsonii Rehd.",
+    "synonymes": "Sambucus canadensis / Sambucus nigra subsp. canadensis",
+    "nom_francais": "Sureau",
+    "nom_creole": "Siwo",
+    "nom_anglais": "Florida Elder"
+  },
+  "morphologie": {
+    "description": "S. simpsonii est un arbuste de taille modeste, adapté aux altitudes élevées des massifs montagneux haïtiens (POWO, Kew Science , World Flora Online, 2026). Tiges et écorce. Les tiges sont ligneuses, dressées à légèrement arquées, avec une écorce brunâtre rugueuse sur les parties âgées et une moelle blanche caractéristique du genre Sambucus. Feuilles. Les feuilles sont composées, opposées, formées de folioles dentées de forme ovale à elliptique. Leur texture est légèrement rugueuse et leur couleur vert foncé. Comme toutes les parties vertes de la plante, elles contiennent des glycosides cyanogéniques et ne doivent pas être consommées crues. Fleurs. Les fleurs sont regroupées en corymbes terminaux aplatis, de couleur blanc crème, très parfumées et mellifères. C'est la partie principalement utilisée pour les préparations médicinales traditionnelles. Fruits. Les fruits sont de petites baies sphériques, d'abord vertes puis devenant noires à maturité, regroupées en grappes. Seuls les fruits complètement mûrs sont comestibles et utilisés. Les parties utilisées sont principalement les fleurs, et occasionnellement les fruits mûrs.",
+    "ecologie": "S. simpsonii est une espèce exotique naturalisée, introduite en Haïti et adaptée aux écosystèmes montagnards des Départements du Sud et de la Grand'Anse. Son statut de très rare indique une distribution restreinte, probablement liée à ses exigences écologiques spécifiques en altitude. L'espèce semble avoir trouvé des conditions favorables dans les zones d'altitude élevée, où elle s'intègre aux formations végétales locales sans devenir envahissante. Sa capacité d'adaptation aux conditions tropicales d'altitude témoigne de la plasticité écologique du genre Sambucus."
+  },
+  "usages": {
+    "usages_ethnobotaniques": "L'usage principal documenté dans le Sud et la Grand'Anse concerne la préparation du « Siwo Sigo », sirop pectoral traditionnel élaboré à partir des fleurs. Ce remède domestique est spécifiquement utilisé contre la grippe, la fièvre, la toux, les rhumes, les infections respiratoires et les maux de gorge. Occasionnellement, la plante est aussi employée contre la diarrhée. Les modes de préparation incluent principalement l'infusion des fleurs et la préparation de sirops. La transformation des fleurs en sirop nécessite généralement une décoction prolongée avec addition de sucre ou de miel, permettant une conservation prolongée et une palatabilité améliorée, particulièrement appréciée pour les enfants. Les données TRAMIL confirment des usages similaires en République Dominicaine contre la grippe et la toux, attestant d'une cohérence régionale caribéenne.",
+    "systemes_concernes": "Respiratoire, Immunitaire"
+  },
+  "pharmacologie": {
+    "molecules": "Le sureau des Caraïbes (S. simpsonii) produit une gamme de métabolites secondaires orientés vers la défense et la survie, aux côtés des métabolites primaires nécessaires à sa croissance. Ces derniers constituent la base de ses propriétés médicinales. Les principaux composés secondaires identifiés dans le genre Sambucus, et probablement présents chez S. simpsonii par analogie, comprennent : des anthocyanes — notamment la sambucine responsable de la couleur pourpre des fruits mûrs — des flavonoïdes comme la rutine et la quercétine, de la vitamine C en concentrations élevées, des acides phénoliques, des tanins et des saponines. Les parties vertes contiennent également des glycosides cyanogéniques, principalement la sambunigrine, qui libère de l'acide cyanhydrique par hydrolyse enzymatique. Ces molécules remplissent des fonctions de défense précises. Les anthocyanes protègent contre les rayonnements UV et attirent les disperseurs de graines. Les flavonoïdes et acides phénoliques offrent une protection antioxydante et antimicrobienne. Les glycosides cyanogéniques constituent un système de défense chimique redoutable contre les herbivores : leur dégradation libère du cyanure, hautement toxique. Cette stratégie défensive explique pourquoi seuls les fruits mûrs, dont la teneur en glycosides diminue, peuvent être consommés sans danger.",
+    "posologie": "Aucune posologie spécifique n'est publiée pour S. simpsonii. Par analogie avec les monographies de Sambucus nigra, une posologie traditionnelle prudente pourrait consister en une infusion de 2-3 grammes de fleurs séchées par tasse d'eau bouillante, à prendre 2-3 fois par jour en cures courtes de 7-10 jours maximum. Pour le sirop traditionnel « Siwo Sigo », les préparations familiales varient selon les praticiens locaux. Toute utilisation thérapeutique devrait faire l'objet d'un encadrement médical approprié, particulièrement chez les enfants, femmes enceintes et personnes sous traitement."
+  },
+  "nutrition": {
+    "introduction": "Sambucus simpsonii Rehd. (syn. Sambucus canadensis, Sambucus nigra subsp. canadensis) est un arbuste exotique naturalisé, documenté dans les Départements du Sud et de la Grand'Anse à haute altitude. Il appartient à la famille des Adoxacées, principalement composée d'arbustes et de petits arbres comptant environ 200 espèces des régions tempérées et subtropicales. Cette famille se distingue par une signature phytochimique dominée par les anthocyanes — particulièrement la sambucine — les flavonoïdes comme la rutine, la vitamine C et divers acides phénoliques, ciblant les systèmes respiratoire et immunitaire. Une vigilance s'impose : si les fruits mûrs sont comestibles et médicinaux, les parties vertes contiennent des glycosides cyanogéniques toxiques. Au sein de cette famille, Sambucus constitue un genre d'importance pharmaceutique mondiale, regroupant les sureaux utilisés depuis l'Antiquité contre les affections respiratoires. S. simpsonii est principalement utilisé à des fins médicinales dans les deux départements, notamment pour la préparation du « Siwo Sigo », sirop pectoral traditionnel contre la grippe et la fièvre."
+  },
+  "toxicologie": {
+    "niveau": "",
+    "details": "S. simpsonii présente une toxicité conditionnelle liée à la présence de glycosides cyanogéniques dans les parties vertes. Les fruits verts ou non mûrs, les feuilles, l'écorce et les graines contiennent de la sambunigrine qui libère de l'acide cyanhydrique par hydrolyse, pouvant provoquer nausées, vomissements, diarrhées et, en cas de surdosage, des symptômes plus graves d'intoxication cyanhydrique. La cuisson détruit ces composés toxiques. Seuls les fruits parfaitement mûrs (noirs) peuvent être consommés crus avec modération. L'usage des fleurs en infusion, pratique traditionnelle, présente moins de risques mais nécessite des dosages appropriés. Une vigilance particulière s'impose pendant la grossesse et l'allaitement."
+  },
+  "conservation": {
+    "menaces": "Le statut de « très rare » de S. simpsonii dans les Départements du Sud et de la Grand'Anse souligne un besoin de conservation de cette ressource médicinale. Sa distribution restreinte en altitude la rend vulnérable aux pressions anthropiques et aux changements climatiques. La dégradation des écosystèmes montagnards, la déforestation et les pratiques de cueillette non durables constituent des menaces potentielles. Des efforts de multiplication contrôlée et de conservation ex situ pourraient s'avérer nécessaires pour préserver cette ressource thérapeutique locale.",
+    "valeur": "Localement, S. simpsonii présente une valeur médicinale significative à travers la préparation du « Siwo Sigo », remède familial largement reconnu. Internationalement, le genre Sambucus représente un marché pharmaceutique et nutraceutique important, avec des produits commercialisés en Europe et Amérique du Nord comme compléments alimentaires et sirops contre la grippe. Cette valorisation internationale pourrait inspirer un développement économique local durable, sous réserve de recherches approfondies sur S. simpsonii spécifiquement et de pratiques de gestion conservatoire appropriées."
+  },
+  "recherche": {
+    "nb_articles": "",
+    "details": "Malgré l'importance traditionnelle de S. simpsonii en Haïti, aucune étude phytochimique ou pharmacologique spécifique n'a été publiée sur cette espèce. Les recherches futures devraient porter sur la caractérisation de son profil phytochimique, l'évaluation de ses propriétés antivirales et anti-inflammatoires, et la détermination de posologies sécuritaires. Des études de conservation génétique et d'écologie populationnelle seraient également cruciales compte tenu de sa rareté. La comparaison avec d'autres espèces du genre Sambucus pourrait révéler des spécificités thérapeutiques intéressantes pour cette espèce caribéenne.",
+    "lien_pubmed": "",
+    "lien_scholar": "",
+    "lien_tramil": ""
+  },
+  "references": "Zakay-Rones, Z., et al. (2004). Randomized study of the efficacy and safety of oral elderberry extract in the treatment of influenza A and B virus infections. Journal of International Medical Research, 32(2), 132-140. PMID: 15080016. Torabian, G., et al. (2009). Anti-influenza activity of elderberry (Sambucus nigra). Journal of Functional Foods, 1(4), 363-369. PMID: 19682714.",
+  "aRetenir": "🟡 À retenir — Siwo : est une plante a toxicite conditionnelle documentee. Respecter imperativement les precautions indiquees. Ne jamais ingerer les parties toxiques sans encadrement medical. Ces informations sont destinees a l'enseignement et a la documentation. Les auteurs declinent toute responsabilite quant a un usage inapproprie.",
+  "images": {
+    "principale": "images/21_Sambucus_simpsonii-001.jpg",
+    "galerie": [
+      "images/21_Sambucus_simpsonii-001.jpg"
+    ]
+  },
+  "source": "plantes_full.json"
+}

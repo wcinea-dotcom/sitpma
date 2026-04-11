@@ -1,0 +1,57 @@
+{
+  "id_plante": "plt-0803",
+  "code": "plt-0803",
+  "no_espece": "",
+  "no_famille": "8",
+  "famille": "Apiacées",
+  "description_famille": "",
+  "identite": {
+    "genre": "Daucus",
+    "espece": "carota",
+    "nom_scientifique": "Daucus carota L.",
+    "synonymes": "Caucalis carota",
+    "nom_francais": "Carotte",
+    "nom_creole": "Kawòt",
+    "nom_anglais": "Carrot"
+  },
+  "morphologie": {
+    "description": "D. carota est une herbe bisannuelle à racine pivotante charnue, cultivée principalement pour sa racine en première année dans les régions de haute altitude des Départements du Sud et de la Grand'Anse, où les conditions climatiques favorisent son développement optimal. Racine. La racine constitue l'organe principal d'intérêt : pivotante, charnue, conique à cylindrique, de couleur orange vif à rouge-orangé selon les cultivars. Cette racine de réserve peut atteindre 15 à 30 cm de longueur et présente une chair ferme, croquante et sucrée. Sa coloration caractéristique résulte de l'accumulation massive de caroténoïdes, principalement le β-carotène. Tiges. En première année, la plante développe une rosette de feuilles basales. La deuxième année, une tige florale dressée, cannelée et ramifiée peut atteindre 60 à 120 cm de hauteur, mais la culture haïtienne privilégie la récolte en première année. Feuilles. Les feuilles sont finement découpées, bi- à tripennatiséquées, d'aspect plumeux, disposées en rosette basale la première année puis alternes sur la tige florale. Elles dégagent une odeur caractéristique lorsqu'on les froisse. Fleurs et fruits. La floraison produit des ombelles composées blanches typiques des Apiacées, souvent marquées d'une fleur centrale rouge-pourpre. Les fruits sont des diakènes côtelés et velus, utilisés traditionnellement comme graines aromatiques. Les parties utilisées documentées dans le Sud et la Grand'Anse sont principalement la racine fraîche, et occasionnellement les graines et les feuilles jeunes.",
+    "ecologie": "D. carota est originaire d'Asie centrale et d'Europe, d'où elle s'est répandue mondialement par la culture. Espèce de climat tempéré à subtropical, elle s'adapte aux conditions d'altitude des régions montagneuses haïtiennes. Dans les Départements du Sud et de la Grand'Anse, sa culture reste rare et localisée aux zones de haute altitude où les températures plus fraîches permettent le développement optimal de la racine. La plante préfère les sols profonds, bien drainés et riches en matière organique."
+  },
+  "usages": {
+    "usages_ethnobotaniques": "L'usage documenté dans le Sud et la Grand'Anse révèle une valorisation principalement alimentaire et médicinale de D. carota. La racine fraîche constitue la partie la plus utilisée, consommée en jus frais ou en salade pour la santé des yeux et contre l'anémie. Le mode de préparation privilégié consiste en l'extraction de jus de carotte fraîche, bu quotidiennement pour ses propriétés nutritives. La cuisson légère préserve les caroténoïdes tout en améliorant leur biodisponibilité. Les graines, moins fréquemment utilisées, sont parfois préparées en infusion pour leurs propriétés digestives et carminatives. Les feuilles jeunes peuvent être consommées en salade ou ajoutées aux soupes. Selon TRAMIL, l'usage traditionnel haïtien cible spécifiquement l'amélioration de la vision, en cohérence avec la richesse en provitamine A de la racine.",
+    "systemes_concernes": "Tégumentaire, Oculaire"
+  },
+  "pharmacologie": {
+    "molecules": "La racine de D. carota se distingue par sa concentration exceptionnelle en caroténoïdes, responsables de sa couleur orange caractéristique et de ses propriétés nutritionnelles remarquables. Le β-carotène, caroténoïde majeur, représente environ 80% du contenu total en caroténoïdes et constitue la source de provitamine A la plus importante parmi les légumes-racines. La racine renferme également de l'α-carotène, de la lutéine et de la zéaxanthine. Ces pigments, synthétisés dans les chromoplastes racinaires, protègent la plante contre l'oxydation et les dommages photochimiques. Sur le plan nutritionnel, la racine apporte des glucides complexes sous forme d'amidon et de fibres pectiques, des sucres simples (glucose, fructose, saccharose) responsables de sa saveur douce, ainsi que des quantités appréciables de potassium, calcium et vitamine K. Les principaux composés secondaires identifiés dans D. carota comprennent : des caroténoïdes (β-carotène, α-carotène, lutéine, zéaxanthine), des flavonoïdes (apigénine, lutéoline, kaempférol), des polyacétylènes (falcarinol, falcarindiol), des coumarines, des anthocyanes (dans les variétés pourpres) et des composés phénoliques divers. Les graines renferment une huile essentielle riche en sesquiterpènes (carotol, daucol) et en monoterpènes (limonène, α-pinène). Une étude publiée a documenté que l'extrait de carotte présente une activité antioxydante significative corrélée à sa teneur en caroténoïdes et en composés phénoliques (Sharma et al., 2012 — DOI: 10.1016/j.foodchem.2011.12.001). Ces molécules remplissent des fonctions écologiques précises pour D. carota. Les caroténoïdes protègent les tissus photosynthétiques contre les dommages oxydatifs et attirent les pollinisateurs par leur coloration vive. Les polyacétylènes, notamment le falcarinol, agissent comme fongicides naturels protégeant la racine contre les pathogènes du sol. Les coumarines contribuent à la défense contre les herbivores. Ces mêmes composés, une fois ingérés par l'humain, produisent les effets biologiques documentés : le β-carotène se convertit en vitamine A essentielle pour la vision, les polyacétylènes présentent des propriétés anti-inflammatoires, et les fibres pectiques contribuent à la régulation glycémique et lipidique.",
+    "posologie": "Plusieurs études cliniques ont évalué la consommation de jus de carotte. La posologie généralement documentée dans la littérature scientifique varie de 100 à 200 mL de jus de carotte frais par jour pour obtenir un apport significatif en β-carotène. Une étude publiée a démontré qu'une consommation quotidienne de 120 mL de jus de carotte pendant 12 semaines améliorait significativement les niveaux plasmatiques de β-carotène et les paramètres antioxydants (Pounis et al., 2011 — PMID: 21731103). Pour les graines en usage traditionnel, les données restent limitées, avec des préparations évoquant 1 à 2 grammes en infusion, mais cette posologie manque de validation clinique rigoureuse."
+  },
+  "nutrition": {
+    "introduction": "Daucus carota L. (syn. Caucalis carota) est une herbe bisannuelle exotique cultivée dans les Départements du Sud et de la Grand'Anse d'Haïti. Elle appartient à la famille des Apiacées, vaste groupe herbacé réputé pour ses usages alimentaires, médicinaux et aromatiques diversifiés. Cette famille se caractérise par sa richesse en huiles essentielles terpéniques, en flavonoïdes et en coumarines, ciblant préférentiellement les systèmes urinaire, tégumentaire et digestif. Parmi les genres alimentaires majeurs figurent Daucus (carotte), Apium (céleri) et Petroselinum (persil), tandis que les genres médicinaux incluent Centella et Pimpinella. La signature chimique familiale révèle une dominante de phtalides, d'apigénine et de polyacétylènes. Une vigilance particulière s'impose car certaines espèces renferment des furanocoumarines photosensibilisantes ou d'autres principes actifs puissants nécessitant une identification rigoureuse pour éviter les confusions avec des taxons toxiques. Au sein de cette famille, D. carota constitue l'une des racines alimentaires les plus cultivées mondialement et un remède traditionnel pour la vision, valorisé localement pour sa richesse exceptionnelle en provitamine A."
+  },
+  "toxicologie": {
+    "niveau": "",
+    "details": "D. carota présente un excellent profil de sécurité en usage alimentaire normal. La principale précaution concerne la consommation excessive prolongée de caroténoïdes, pouvant entraîner une caroténodermie — coloration jaunâtre bénigne et réversible de la peau, sans gravité clinique. Cette condition disparaît spontanément à l'arrêt de la surconsommation. Concernant les graines, la tradition évoque un potentiel effet emménagogue nécessitant prudence pendant la grossesse, bien que les données scientifiques restent insuffisantes pour confirmer ce risque. Aucune interaction médicamenteuse majeure n'est documentée aux doses nutritionnelles habituelles."
+  },
+  "conservation": {
+    "menaces": "La culture de D. carota dans les Départements du Sud et de la Grand'Anse demeure rare et fragile, limitée par les contraintes climatiques et altitudinales. La conservation des variétés locales adaptées représente un enjeu important pour maintenir cette ressource nutritionnelle précieuse. Le changement climatique et la pression foncière menacent les zones de haute altitude favorables à sa culture. La promotion de techniques culturales adaptées et la préservation des semences constituent des priorités pour pérenniser cette production locale.",
+    "valeur": "La valeur économique locale reste modeste en raison de la rareté de la production, mais le potentiel nutritionnel exceptionnel de D. carota justifie des efforts de développement cultural. Sur le plan international, la carotte représente l'un des légumes-racines les plus commercialisés mondialement, avec un marché de plusieurs milliards de dollars. Le développement d'une filière locale pourrait contribuer à la sécurité alimentaire et nutritionnelle des populations des deux départements, particulièrement pour lutter contre les carences en vitamine A."
+  },
+  "recherche": {
+    "nb_articles": "~2000 (estimation)",
+    "details": "Les recherches sur D. carota comptent environ 2000 publications indexées, témoignant de l'intérêt scientifique soutenu pour cette espèce. Les perspectives incluent l'optimisation des techniques culturales pour les conditions haïtiennes, l'évaluation des variétés les mieux adaptées aux terroirs locaux, et la valorisation des coproduits (feuilles, graines) souvent négligés. Des études sur la biodisponibilité des caroténoïdes selon les modes de préparation traditionnels haïtiens pourraient optimiser les bénéfices nutritionnels. L'investigation des propriétés des polyacétylènes dans un contexte de médecine préventive représente également une voie prometteuse.",
+    "lien_pubmed": "",
+    "lien_scholar": "",
+    "lien_tramil": ""
+  },
+  "references": "Pounis G. et al. (2011). Long-term vegetable intake and carotenoid levels in a Mediterranean population. British Journal of Nutrition. PMID: 21731103. Sharma K.D. et al. (2012). Chemical composition, functional properties and processing of carrot — a review. Journal of Food Science and Technology. DOI: 10.1016/j.foodchem.2011.12.001. POWO (2026). Daucus carota L. Plants of the World Online. Kew Science. TRAMIL (2026). Daucus carota. www.tramil.net",
+  "aRetenir": "🟢 À retenir — Kawòt : est avant tout un aliment — sa valeur nutritionnelle prime sur ses usages medicinaux. Consommee correctement preparee, elle est sans danger documente. Ses proprietes therapeutiques, reelles mais secondaires, ne remplacent pas un suivi medical. Les auteurs declinent toute responsabilite quant a un usage inapproprie.",
+  "images": {
+    "principale": "images/83_Daucus_carota-001.jpg",
+    "galerie": [
+      "images/83_Daucus_carota-001.jpg",
+      "images/83_Daucus_carota-002.jpg"
+    ]
+  },
+  "source": "plantes_full.json"
+}
