@@ -1,7 +1,7 @@
 {
   "id_plante": "plt-4706",
   "code": "plt-4706",
-  "no_espece": "",
+  "no_espece": "47.6",
   "no_famille": "47",
   "famille": "Malvacées",
   "description_famille": "",
@@ -20,17 +20,17 @@
   },
   "usages": {
     "usages_ethnobotaniques": "Dans les Départements du Sud et de la Grand'Anse, H. rosa-sinensis est documenté pour ses usages médicinaux spécifiques : on boit les fleurs en tisane contre la grippe, et l'eau de décoction des feuilles sert au lavage des cheveux pour leur redonner brillance et force. La base de données TRAMIL confirme ces usages traditionnels en Haïti pour la grippe et la toux (www.tramil.net). Les fleurs fraîches sont utilisées en infusion (2-3 fleurs par tasse d'eau chaude) pour préparer une tisane rouge aux propriétés antioxydantes et légèrement hypotensives. Les feuilles sont bouillies pour obtenir une décoction mousseuse utilisée comme shampooing végétal. En Asie, des extraits de feuilles sont étudiés pour stimuler la croissance capillaire. En Chine, les fleurs servent traditionnellement de colorant naturel rouge.",
-    "systemes_concernes": "Respiratoire, Cardiovasculaire, Tégumentaire"
+    "systemes_concernes": "Les systèmes préférentiellement ciblés par H. rosa-sinensis sont le système respiratoire et le système tégumentaire (peau et cheveux). Les anthocyanes et acides phénoliques présents dans les fleurs exercent une activité antioxydante qui pourrait contribuer aux effets bénéfiques observés sur le système cardiovasculaire, avec un léger effet hypotenseur documenté principalement pour H. sabdariffa, espèce proche mieux étudiée. Les mécanismes d'action spécifiques à H. rosa-sinensis restent peu documentés, mais par analogie avec d'autres espèces du genre, ils impliqueraient une vasodilatation légère et un effet diurétique doux via l'action des flavonoïdes sur l'endothélium vasculaire. Pour les cheveux, les saponines des feuilles exercent un effet tensioactif qui nettoie le cuir chevelu tout en apportant des nutriments."
   },
   "pharmacologie": {
     "molecules": "Les fleurs remarquables de H. rosa-sinensis doivent leur couleur rouge éclatante aux anthocyanes, des pigments flavonoïdes hydrosolubles concentrés dans les vacuoles des cellules épidermiques. Ces mêmes anthocyanes confèrent à la tisane de fleurs sa couleur rouge caractéristique et sa légère astringence. Les fleurs contiennent également des mucilages, des polysaccharides complexes qui donnent à l'infusion une texture légèrement visqueuse et des propriétés adoucissantes pour les muqueuses respiratoires. Les feuilles, au goût amer et à la texture grasse, renferment des saponines triterpéniques responsables de leurs propriétés tensioactives utilisées traditionnellement pour le lavage des cheveux. Les principaux composés secondaires identifiés dans H. rosa-sinensis comprennent : des anthocyanes (cyanidine-3-glucoside, malvidine), des flavonoïdes (quercétine, kaempférol, rutine), des acides phénoliques (acide gallique, acide protocatéchique), des tanins condensés, des saponines triterpéniques, des stérols végétaux et des mucilages pectiques (Jadhav et al., 2009 — PMID: 19504468, Sachdewa & Khemani, 2003 — PMID: 14629773). Ces molécules remplissent des fonctions de défense essentielles pour la plante. Les anthocyanes protègent les tissus floraux contre les rayonnements UV et attirent les pollinisateurs par leur couleur vive. Les tanins et saponines dans les feuilles découragent l'herbivorie par leur saveur amère et leurs propriétés moussantes. Les mucilages permettent la rétention d'eau dans les tissus floraux. Ces mêmes composés, une fois ingérés par l'humain, produisent les effets biologiques documentés : les anthocyanes exercent une activité antioxydante et vasodilatatrice légère, les mucilages apaisent les muqueuses irritées, et les saponines présentent des propriétés tensioactives utilisées pour le soin des cheveux. Ces observations restent principalement issues d'études in vitro et sur modèles animaux.",
     "posologie": "Les études pharmacologiques publiées sur le genre Hibiscus recommandent généralement une tisane préparée avec 2-3 g de fleurs séchées par tasse d'eau bouillante, à prendre 1-2 fois par jour, bien que ces données proviennent principalement d'essais réalisés sur H. sabdariffa (Mozaffari-Khosravi et al., 2009 — PMID: 19678781). Pour H. rosa-sinensis spécifiquement, aucune posologie cliniquement validée n'est disponible dans la littérature indexée. Les pratiques traditionnelles documentées localement dans le Sud et la Grand'Anse ne sont pas standardisées et varient selon les préparateurs."
   },
   "nutrition": {
-    "introduction": "Hibiscus rosa-sinensis L. (syn. Hibiscus festalis) est un arbuste ornemental exotique, largement cultivé dans les Départements du Sud et de la Grand'Anse d'Haïti. Il appartient à la famille des Malvacées, une vaste famille de près de 4 000 espèces réparties principalement entre herbes, arbustes et arbres tropicaux. Cette famille, particulièrement bien représentée dans la flore du grand sud haïtien, se distingue par ses riches applications alimentaires et médicinales. On y trouve des genres alimentaires majeurs comme Theobroma (cacao), Abelmoschus (gombo) et Hibiscus (oseille de Guinée), ainsi que des genres médicinaux traditionnels tels que Sida, Malva et Urena. Sur le plan phytochimique, les Malvacées expriment une signature caractéristique dominée par les mucilages — des polysaccharides hydrosolubles aux propriétés adoucissantes —, les flavonoïdes antioxydants, les anthocyanes colorantes et les tanins astringents. Cette composition chimique cible préférentiellement les systèmes respiratoire, digestif et tégumentaire. Il convient de noter qu'au sein de cette famille généralement sûre, le cacao (Theobroma cacao) contient de la théobromine qui peut provoquer des palpitations à forte dose, et le coton (Gossypium) renferme du gossypol toxique pour certains animaux. Au sein de cette famille, H. rosa-sinensis fait partie du genre Hibiscus, qui regroupe environ 300 espèces d'arbustes et herbes à grandes fleurs colorées, cultivées tant pour leurs qualités ornementales que pour leurs vertus thérapeutiques. Le choublak est principalement utilisé en Haïti comme plante ornementale et médicinale, particulièrement apprécié pour ses propriétés respiratoires et capillaires."
+    "valeur": "La valeur économique de H. rosa-sinensis en Haïti reste principalement ornementale, la plante étant largement utilisée dans l'aménagement paysager urbain et périurbain. À l'échelle internationale, l'espèce représente un segment important du marché horticole tropical, avec de nombreux cultivars développés pour leurs qualités esthétiques. Le potentiel de valorisation des fleurs comme colorant naturel ou complément antioxydant reste peu exploité localement."
   },
   "toxicologie": {
-    "niveau": "",
+    "niveau": "🟢 Non toxique aux doses usuelles",
     "details": "H. rosa-sinensis présente un profil de sécurité favorable et est classé comme non toxique. Cependant, certaines précautions sont à observer : risque théorique d'hypotension en cas d'usage simultané avec des médicaments antihypertenseurs, en raison de l'effet hypotenseur léger documenté pour le genre Hibiscus. Des réactions allergiques aux fleurs sont possibles chez les personnes sensibles aux composés flavonoïdes. Aucune toxicité majeure n'est rapportée dans la littérature pour un usage traditionnel modéré des fleurs et feuilles."
   },
   "conservation": {
@@ -38,8 +38,8 @@
     "valeur": "La valeur économique de H. rosa-sinensis en Haïti reste principalement ornementale, la plante étant largement utilisée dans l'aménagement paysager urbain et périurbain. À l'échelle internationale, l'espèce représente un segment important du marché horticole tropical, avec de nombreux cultivars développés pour leurs qualités esthétiques. Le potentiel de valorisation des fleurs comme colorant naturel ou complément antioxydant reste peu exploité localement."
   },
   "recherche": {
-    "nb_articles": "~1000 (estimation)",
     "details": "Avec environ 1000 publications référencées sur PubMed, H. rosa-sinensis fait l'objet d'un intérêt scientifique soutenu, particulièrement pour ses propriétés antioxydantes, hypotensives et capillaires. Les recherches actuelles s'orientent vers la caractérisation précise des anthocyanes et leur biodisponibilité, ainsi que vers le développement d'extraits standardisés pour l'industrie cosmétique. En Haïti, des études sur les cultivars locaux et leur composition chimique spécifique permettraient de valoriser les usages traditionnels et de développer des produits dérivés respectueux du savoir ethnobotanique.",
+    "nb_articles": "",
     "lien_pubmed": "",
     "lien_scholar": "",
     "lien_tramil": ""
@@ -47,8 +47,11 @@
   "references": "Jadhav, V.M. et al. (2009). Hibiscus rosa sinensis Linn - \"Rudrapuspa\": a review. J Pharm Res. PMID: 19504468. Mozaffari-Khosravi, H. et al. (2009). The effects of sour tea (Hibiscus sabdariffa) on hypertension in patients with type II diabetes. J Hum Hypertens. PMID: 19678781. Sachdewa, A. & Khemani, L.D. (2003). Effect of Hibiscus rosa sinensis Linn. ethanol flower extract on blood glucose and lipid profile in streptozotocin induced diabetes in rats. J Ethnopharmacol. PMID: 14629773. TRAMIL. (2026). Hibiscus rosa-sinensis. www.tramil.net/en/plant/hibiscus-rosa-sinensis POWO. (2026). Plants of the World Online. Kew Science. https://powo.science.kew.org/",
   "aRetenir": "🟢 À retenir — Choublak : est utilisee en medecine traditionnelle avec un bon profil de securite aux doses courantes. Les usages presentes reposent sur des donnees ethnobotaniques et scientifiques publiees, mais ne constituent pas une prescription. Consulter un professionnel de sante avant tout usage therapeutique. Les auteurs declinent toute responsabilite quant a un usage inapproprie.",
   "images": {
-    "principale": "",
-    "galerie": []
+    "principale": "/images/476_Hibiscus_rosa_sinensis-001.jpg",
+    "galerie": [
+      "/images/476_Hibiscus_rosa_sinensis-001.jpg",
+      "/images/476_Hibiscus_rosa_sinensis-002.jpg"
+    ]
   },
-  "source": "plantes_full.json"
+  "source": "CSV corrigé 2026-04-11"
 }

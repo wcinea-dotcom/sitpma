@@ -1,7 +1,7 @@
 {
   "id_plante": "plt-7601",
   "code": "plt-7601",
-  "no_espece": "",
+  "no_espece": "76.1",
   "no_famille": "76",
   "famille": "Rhizophoracées",
   "description_famille": "Dominant les écosystèmes littoraux tropicaux, les Rhizophoracées constituent une famille botanique remarquable de 120 espèces réparties en 16 genres, principalement représentée par des arbres et arbustes adaptés aux environnements saumâtres. Cette famille se distingue par ses adaptations morphologiques uniques aux milieux côtiers — racines échasses, propagules flottantes, feuillage coriace — et par ses exceptionnelles propriétés médicinales. Les genres Rhizophora, Avicennia et Laguncularia forment l'épine dorsale des mangroves caribéennes, véritables nurseries marines d'une importance écologique capitale. Sur le plan phytochimique, les Rhizophoracées se caractérisent par une signature dominée par les tanins condensés, les catéchines, la lignine et les triterpènes pentacycliques — composés conférant à leurs écorces des propriétés astringentes et anti-inflammatoires remarquables. Ces métabolites ciblent préférentiellement le système tégumentaire, faisant de cette famille une ressource thérapeutique privilégiée pour le traitement des plaies, des inflammations cutanées et des troubles digestifs. Bien que généralement non toxiques, certains représentants exigent des précautions particulières en raison de leur forte concentration en tanins, susceptibles de provoquer des irritations gastriques en cas de surdosage.",
@@ -20,17 +20,17 @@
   },
   "usages": {
     "usages_ethnobotaniques": "L'usage médicinal de R. mangle est documenté dans le Sud et la Grand'Anse pour ses propriétés antidiarrhéiques, astringentes, anti-inflammatoires, antimicrobiennes et cicatrisantes. L'écorce constitue la partie la plus utilisée : récoltée par lanières sur les racines échasses, elle est préparée en décoction concentrée (5-10 g pour 1 litre d'eau, bouillie 15-20 minutes) pour traiter les diarrhées, les saignements et les inflammations intestinales. Les feuilles fraîches, écrasées en cataplasme, s'appliquent directement sur les plaies et les ulcères cutanés. Les bourgeons, plus tendres, sont parfois incorporés dans des préparations destinées au traitement de la toux persistante. Selon TRAMIL, l'usage externe pour les plaies est également documenté en Haïti, confirmant la cohérence des pratiques locales avec les données caribéennes.",
-    "systemes_concernes": "Digestif, Respiratoire, Tégumentaire"
+    "systemes_concernes": "R. mangle cible principalement le système tégumentaire et le système digestif. Les tanins condensés exercent une astringence marquée sur les muqueuses, provoquant le resserrement des tissus et la réduction des sécrétions inflammatoires — mécanisme particulièrement efficace contre les diarrhées et les saignements (Prabhu & Guruvayoorappan, 2012 — PMID: 22429768). L'activité antibactérienne des polyphénols complète cette action en contrôlant les infections secondaires. Les propriétés cicatrisantes résultent de la stimulation de la synthèse de collagène par les proanthocyanidines, processus documenté dans plusieurs modèles expérimentaux (Fernandez et al., 2011 — PMID: 21501293). Ces mécanismes expliquent l'efficacité traditionnelle de l'espèce contre la toux, par action astringente sur les muqueuses respiratoires enflammées."
   },
   "pharmacologie": {
     "molecules": "Rhizophora mangle produit une gamme remarquable de composés primaires et secondaires directement liés à son adaptation aux conditions extrêmes des mangroves. L'écorce, d'une saveur intensément amère, concentre des quantités exceptionnelles de tanins condensés — principalement des proanthocyanidines — responsables de cette astringence caractéristique et de la coloration rougeâtre des décoctions traditionnelles. Ces composés s'accompagnent de catéchines, d'épicatéchines et de leucocyanidines, conférant à l'écorce ses propriétés hémostatiques remarquables. La plante accumule également du potassium, du calcium et du magnésium, éléments essentiels à l'osmorégulation en milieu salin. Les principaux composés secondaires identifiés dans R. mangle comprennent : des tanins condensés et hydrolysables (15-20% de l'écorce sèche), des flavonoïdes (quercétine, kaempférol, rutine), des saponines triterpéniques, des terpénoïdes et des caroténoïdes (Mehta et al., 2013 — PMID: 23369266). Des études phytochimiques récentes ont également mis en évidence la présence de composés phénoliques bioactifs comme l'acide gallique et l'acide ellagique (Prabhu & Guruvayoorappan, 2012 — PMID: 22429768). Ces molécules remplissent des fonctions de survie cruciales pour R. mangle dans son environnement hostile. Les tanins condensés protègent efficacement les tissus contre la dégradation microbienne en milieu humide et salin, tout en dissuadant l'herbivorie par leur astringence. Les flavonoïdes assurent une protection contre les rayonnements UV intenses du littoral tropical. Ces mêmes composés, une fois utilisés par l'humain, produisent les effets biologiques documentés : resserrement des muqueuses, réduction des sécrétions inflammatoires et cicatrisation accélérée des plaies.",
     "posologie": "La posologie traditionnelle de décoction d'écorce (5-10 g/L, 1-2 fois par jour) est rapportée dans plusieurs pharmacopées tropicales, mais aucun essai clinique contrôlé n'a validé scientifiquement ces dosages chez l'humain. Les études pharmacologiques disponibles portent principalement sur des modèles animaux et des tests in vitro, limitant la transposition directe des résultats. La concentration en tanins variant selon la saison de récolte et le mode de préparation, une standardisation des extraits serait nécessaire pour une utilisation thérapeutique optimale."
   },
   "nutrition": {
-    "introduction": "Rhizophora mangle L. (syn. Rhizophora americana) — « Mangliye wouj » / Palétuvier rouge — est un arbre littoral natif des côtes tropicales d'Amérique, présent naturellement dans les Départements du Sud et de la Grand'Anse d'Haïti. Il appartient à la famille des Rhizophoracées, groupe spécialisé dans la colonisation des environnements côtiers saumâtres et reconnu pour ses propriétés médicinales exceptionnelles liées à sa richesse en tanins. Au sein de cette famille, Rhizophora mangle fait partie du genre Rhizophora, architecte principal des mangroves caribéennes aux côtés de ses congénères R. racemosa et R. harrisonii. L'espèce constitue un pilier thérapeutique des pharmacopées littorales haïtiennes, particulièrement valorisée pour ses propriétés astringentes, cicatrisantes et anti-inflammatoires."
+    "valeur": "Outre son usage médicinal local, R. mangle possède une valeur économique significative. Son bois dense et imputrescible sert à la construction marine et à la production de charbon de qualité supérieure. L'écorce constitue une source commerciale de tanins pour l'industrie du cuir. Sur le plan écologique, les mangroves à R. mangle génèrent des services écosystémiques évalués à plusieurs milliers de dollars par hectare annuellement."
   },
   "toxicologie": {
-    "niveau": "",
+    "niveau": "🟢 Non toxique aux doses usuelles",
     "details": "R. mangle présente un profil de sécurité favorable aux dosages traditionnels. Cependant, l'excès de tanins peut provoquer une constipation, des irritations gastriques et une réduction de l'absorption de certains minéraux comme le fer et le zinc. Des précautions sont recommandées pendant la grossesse et l'allaitement en raison de données limitées sur ces populations. L'usage prolongé de décoctions très concentrées devrait être évité chez les personnes présentant des troubles digestifs chroniques ou une carence martiale."
   },
   "conservation": {
@@ -38,8 +38,8 @@
     "valeur": "Outre son usage médicinal local, R. mangle possède une valeur économique significative. Son bois dense et imputrescible sert à la construction marine et à la production de charbon de qualité supérieure. L'écorce constitue une source commerciale de tanins pour l'industrie du cuir. Sur le plan écologique, les mangroves à R. mangle génèrent des services écosystémiques évalués à plusieurs milliers de dollars par hectare annuellement."
   },
   "recherche": {
-    "nb_articles": "~500 (estimation)",
     "details": "Avec environ 500 publications scientifiques référencées, R. mangle fait l'objet d'un intérêt de recherche soutenu, particulièrement en pharmacologie marine et en écotoxicologie. Les perspectives incluent le développement de standardisations d'extraits pour l'industrie pharmaceutique, l'étude de nouveaux composés bioactifs et l'évaluation de l'impact des changements environnementaux sur la production de métabolites secondaires. Des essais cliniques contrôlés restent nécessaires pour valider les usages traditionnels.",
+    "nb_articles": "",
     "lien_pubmed": "",
     "lien_scholar": "",
     "lien_tramil": "https://www.tramil.net/en/plant/rhizophora-mangle"
@@ -47,12 +47,12 @@
   "references": "Mehta, J. et al. (2013). Comparative evaluation of cytotoxicity and anti-inflammatory activity of Rhizophora mangle L. Natural Product Research. PMID: 23369266. Prabhu, V.V. & Guruvayoorappan, C. (2012). Anti-inflammatory and anti-tumor activity of the marine mangrove Rhizophora mangle (L.). Journal of Experimental Therapeutics and Oncology. PMID: 22429768. Fernandez, M.A. et al. (2011). Anti-inflammatory activity of the ethyl acetate fraction of Rhizophora mangle L. bark. Journal of Ethnopharmacology. PMID: 21501293. POWO (2024). Plants of the World Online. Facilitated by the Royal Botanic Gardens, Kew. https://powo.science.kew.org/ World Flora Online (2024). http://worldfloraonline.org TRAMIL (2024). Traditional Medicine in the Islands. https://www.tramil.net/en/plant/rhizophora-mangle",
   "aRetenir": "🟢 À retenir — Mangliye wouj : est utilisee en medecine traditionnelle avec un bon profil de securite aux doses courantes. Les usages presentes reposent sur des donnees ethnobotaniques et scientifiques publiees, mais ne constituent pas une prescription. Consulter un professionnel de sante avant tout usage therapeutique. Les auteurs declinent toute responsabilite quant a un usage inapproprie.",
   "images": {
-    "principale": "images/751_Rhizophora_mangle-001.jpg",
+    "principale": "/images/751_Rhizophora_mangle-001.jpg",
     "galerie": [
-      "images/751_Rhizophora_mangle-001.jpg",
-      "images/751_Rhizophora_mangle-002.jpg",
-      "images/751_Rhizophora_mangle-003.jpg"
+      "/images/751_Rhizophora_mangle-001.jpg",
+      "/images/751_Rhizophora_mangle-002.jpg",
+      "/images/751_Rhizophora_mangle-003.jpg"
     ]
   },
-  "source": "plantes_full.json"
+  "source": "CSV corrigé 2026-04-11"
 }

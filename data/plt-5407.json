@@ -1,7 +1,7 @@
 {
   "id_plante": "plt-5407",
   "code": "plt-5407",
-  "no_espece": "",
+  "no_espece": "54.7",
   "no_famille": "54",
   "famille": "Méliacées",
   "description_famille": "",
@@ -20,17 +20,17 @@
   },
   "usages": {
     "usages_ethnobotaniques": "Les usages de T. pallida documentés dans les Départements du Sud et de la Grand'Anse concernent principalement le système digestif. Les feuilles constituent la partie la plus fréquemment utilisée comme purgatif contre la constipation chronique, préparées sous forme de décoction. L'écorce, également active, est parfois associée aux feuilles pour renforcer l'effet thérapeutique. Le mode de préparation traditionnel consiste en une décoction des parties végétales dans l'eau, selon les pratiques transmises localement. La base de données TRAMIL confirme l'usage purgatif en Haïti, attestant de la cohérence des pratiques traditionnelles. Au Brésil, l'espèce est documentée pour ses propriétés anti-inflammatoires, élargissant le spectre de ses applications thérapeutiques potentielles.",
-    "systemes_concernes": "Digestif"
+    "systemes_concernes": "T. pallida cible préférentiellement le système digestif, conformément aux observations ethnobotaniques locales. Son action purgative documentée implique probablement une stimulation de la motilité intestinale par les saponines triterpéniques et les limonoïdes amers. Les propriétés antimicrobiennes et antiparasitaires attribuées aux limonoïdes pourraient expliquer l'usage traditionnel contre les infections digestives externes. Les tanins et flavonoïdes présents confèrent des propriétés anti-inflammatoires et cicatrisantes documentées dans d'autres espèces du genre. Les mécanismes moléculaires précis, notamment l'inhibition des voies COX et de la production d'oxyde nitrique, restent peu explorés pour cette espèce spécifique. Des études sur le genre Trichilia suggèrent une activité modulatrice sur l'inflammation, mais ces données nécessitent confirmation pour T. pallida (Rodriguez et al., 2020 — PMID: 32156789)."
   },
   "pharmacologie": {
     "molecules": "Trichilia pallida se caractérise par sa richesse en composés triterpéniques amers, responsables de ses effets purgatifs documentés localement. L'amertume prononcée de l'écorce et des feuilles résulte principalement de la présence de limonoïdes, des triterpènes oxydés complexes qui confèrent à la plante ses propriétés défensives contre les herbivores. Ces molécules s'accumulent particulièrement dans les tissus corticaux et foliaires, créant une barrière chimique efficace contre les insectes phytophages. Les tanins condensés présents renforcent cette protection tout en conférant une astringence caractéristique. Les principaux composés secondaires identifiés dans T. pallida comprennent : des limonoïdes (trichilines et dérivés), des triterpènes, des tanins condensés, des saponines triterpéniques, des flavonoïdes (quercétine, kaempférol) et des alcaloïdes en traces (Devecchi et al., 2019 — doi: 10.1016/j.phytochem.2019.05.009). Une étude brésilienne a confirmé la présence de composés cytotoxiques dans l'espèce, principalement attribués aux limonoïdes complexes (Santos et al., 2018 — PMID: 29847829). Ces composés remplissent des fonctions de défense précises pour l'arbre. Les limonoïdes agissent comme répulsifs et toxiques contre les insectes défoliateurs, tandis que les tanins protègent contre les pathogènes fongiques et bactériens. Les saponines contribuent à la résistance aux stress hydriques. Ces mêmes composés, une fois ingérés par l'humain, produisent les effets biologiques documentés dans les pratiques traditionnelles, notamment l'activité purgative attribuée aux limonoïdes et saponines. Il convient de noter que ces observations restent principalement issues d'études phytochimiques in vitro et de données ethnobotaniques.",
     "posologie": "Les pratiques traditionnelles documentées utilisent approximativement 5 grammes de matériel végetal par litre d'eau pour la préparation de décoctions, mais aucune posologie cliniquement validée n'est disponible pour T. pallida. Les dosages traditionnels ne sont pas standardisés et varient selon les praticiens locaux. L'absence d'études cliniques contrôlées empêche l'établissement de recommandations posologiques précises, particulièrement critique compte tenu des effets purgatifs potentiellement puissants de l'espèce."
   },
   "nutrition": {
-    "introduction": "Trichilia pallida Sw. (syn. Portesia pallida) est un arbre indigène des Caraïbes, documenté dans les Départements du Sud et de la Grand'Anse où il porte le nom créole de « Bwa arada ». Il appartient à la famille des Méliacées, une famille tropicale dominée par les arbres et reconnue pour ses remarquables propriétés médicinales. Au sein de cette famille, il fait partie du genre Trichilia, un groupe d'arbres néotropicaux particulièrement riches en limonoïdes — des composés triterpéniques complexes aux puissantes propriétés insecticides et antiparasitaires. Son usage principal dans les deux départements est médicinal, particulièrement comme purgatif traditionnel contre la constipation chronique, bien que sa rareté croissante soulève des préoccupations de conservation."
+    "valeur": "La valeur économique actuelle de T. pallida reste limitée en raison de sa rareté. Son potentiel thérapeutique documenté localement et confirmé par les études phytochimiques préliminaires pourrait justifier des investissements en recherche et développement. La multiplication contrôlée et la culture durable pourraient créer des opportunités économiques tout en préservant l'espèce."
   },
   "toxicologie": {
-    "niveau": "",
+    "niveau": "🟡 Précautions requises",
     "details": "T. pallida présente un profil de sécurité généralement favorable aux doses traditionnelles, mais des précautions s'imposent. Les effets purgatifs peuvent provoquer diarrhées et irritations digestives en cas de surdosage. Comme d'autres espèces de Trichilia, une toxicité hépatique potentielle à doses élevées ou en usage chronique prolongé ne peut être exclue. L'usage est déconseillé pendant la grossesse, chez les enfants et en présence de pathologies hépatiques. La surveillance médicale est recommandée lors d'utilisation thérapeutique."
   },
   "conservation": {
@@ -38,8 +38,8 @@
     "valeur": "La valeur économique actuelle de T. pallida reste limitée en raison de sa rareté. Son potentiel thérapeutique documenté localement et confirmé par les études phytochimiques préliminaires pourrait justifier des investissements en recherche et développement. La multiplication contrôlée et la culture durable pourraient créer des opportunités économiques tout en préservant l'espèce."
   },
   "recherche": {
-    "nb_articles": "~50 (estimation)",
     "details": "Les recherches sur T. pallida restent fragmentaires malgré environ 50 publications scientifiques référencées. Les études futures devraient privilégier l'isolation et la caractérisation des limonoïdes bioactifs, l'évaluation de leur toxicité systémique et la standardisation des extraits. Des essais cliniques contrôlés sont nécessaires pour valider les usages traditionnels et établir des posologies sécurisées. La conservation ex situ et les techniques de multiplication constituent également des priorités de recherche appliquée.",
+    "nb_articles": "",
     "lien_pubmed": "",
     "lien_scholar": "",
     "lien_tramil": "https://www.tramil.net/en/plant/trichilia-pallida"
@@ -47,12 +47,12 @@
   "references": "Devecchi, M. et al. (2019). Limonoids and their biological activities in Trichilia species. Phytochemistry. doi: 10.1016/j.phytochem.2019.5.009. Santos, A. et al. (2018). Cytotoxic compounds from Trichilia pallida bark. Natural Product Research. PMID: 29847829. Rodriguez, C. et al. (2020). Anti-inflammatory mechanisms in Trichilia genus: a review. Journal of Ethnopharmacology. PMID: 32156789. TRAMIL. (2024). Trichilia pallida - Medicinal plant database. https://www.tramil.net/en/plant/trichilia-pallida POWO. (2024). Trichilia pallida Sw. Plants of the World Online, Kew Science.",
   "aRetenir": "🟢 À retenir — Bwa arada : est utilisee en medecine traditionnelle avec un bon profil de securite aux doses courantes. Les usages presentes reposent sur des donnees ethnobotaniques et scientifiques publiees, mais ne constituent pas une prescription. Consulter un professionnel de sante avant tout usage therapeutique. Les auteurs declinent toute responsabilite quant a un usage inapproprie.",
   "images": {
-    "principale": "images/547_Trichilia_pallida-001.jpg",
+    "principale": "/images/547_Trichilia_pallida-001.jpg",
     "galerie": [
-      "images/547_Trichilia_pallida-001.jpg",
-      "images/547_Trichilia_pallida-002.jpg",
-      "images/547_Trichilia_pallida-003.jpg"
+      "/images/547_Trichilia_pallida-001.jpg",
+      "/images/547_Trichilia_pallida-002.jpg",
+      "/images/547_Trichilia_pallida-003.jpg"
     ]
   },
-  "source": "plantes_full.json"
+  "source": "CSV corrigé 2026-04-11"
 }

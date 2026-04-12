@@ -1,7 +1,7 @@
 {
   "id_plante": "plt-5306",
   "code": "plt-5306",
-  "no_espece": "",
+  "no_espece": "53.6",
   "no_famille": "53",
   "famille": "Myrtacées",
   "description_famille": "",
@@ -20,17 +20,17 @@
   },
   "usages": {
     "usages_ethnobotaniques": "Dans les Départements du Sud et de la Grand'Anse, P. racemosa constitue une plante aromatique indispensable dans les bains de santé traditionnels. Les feuilles fraîches ou séchées sont principalement utilisées par friction directe sur la peau ou par infusion dans l'eau des bains thérapeutiques. Cette pratique ancestrale valorise les propriétés antiseptiques, rubéfiantes et antispasmodiques légères de la plante. L'écorce, également aromatique, peut être utilisée en décoction pour des applications similaires. L'huile essentielle, lorsqu'elle est disponible, est employée de manière plus concentrée pour les frictions localisées. Au niveau caribéen, l'espèce est célèbre pour la production du « Bay Rum », une lotion après-rasage traditionnelle obtenue par distillation des feuilles dans le rhum. Les usages documentés incluent des applications antiseptiques, digestives et parfois hypotensives, témoignant de la polyvalence thérapeutique de cette espèce dans la pharmacopée traditionnelle caribéenne.",
-    "systemes_concernes": ""
+    "systemes_concernes": "Les usages documentés de P. racemosa concernent principalement le système musculo-squelettique, avec des applications privilégiées dans le traitement des infections cutanées et des douleurs musculaires. L'eugénol, composé majoritaire de l'huile essentielle, exerce une action antiseptique et analgésique locale bien documentée, similaire à celle observée avec le clou de girofle. Ce composé agit par inhibition des canaux sodium voltage-dépendants, expliquant son effet anesthésique local, et par perturbation des membranes bactériennes, justifiant ses propriétés antimicrobiennes (Park et al., 2009 — PMID: 19665520). L'effet spasmolytique léger observé pourrait résulter de l'action combinée de l'eugénol et du myrcène sur la musculature lisse. Les tanins et flavonoïdes présents contribuent aux propriétés antioxydantes et anti-inflammatoires, renforçant l'efficacité thérapeutique globale. L'effet hypotenseur parfois mentionné dans les usages traditionnels pourrait s'expliquer par la vasodilatation périphérique induite par l'eugénol, bien que cette propriété nécessite confirmation par des études cliniques spécifiques."
   },
   "pharmacologie": {
     "molecules": "Ce qui caractérise particulièrement Pimenta racemosa, c'est la richesse exceptionnelle de ses feuilles en huiles essentielles volatiles. Ces composés aromatiques, concentrés dans des glandes spécialisées réparties dans le parenchyme foliaire, confèrent à la plante son parfum intense et pénétrant. L'eugénol, molécule dominante de cette huile essentielle, est le même composé actif que celui du clou de girofle (Syzygium aromaticum) et explique les propriétés antiseptiques et analgésiques communes aux deux espèces. Le myrcène et le limonène, autres composés volatils majeurs, contribuent aux notes fraîches et citronnées de l'arôme. Sur le plan nutritionnel, les feuilles contiennent des traces de minéraux essentiels — potassium (K), calcium (Ca), magnésium (Mg), fer (Fe) et zinc (Zn) — bien que leur consommation reste limitée en raison de leur usage principalement aromatique. Les principaux composés secondaires identifiés dans P. racemosa comprennent : une huile essentielle riche en eugénol (40-65%), chavicol, myrcène et limonène, des flavonoïdes aux propriétés antioxydantes, des tanins condensés à action astringente et antimicrobienne, des saponines et d'autres terpénoïdes (Tucker et al., 1991 — PMID: 1941458, Marongiu et al., 2004 — doi: 10.1016/j.indcrop.2004.04.020). Ces molécules remplissent des fonctions de défense essentielles pour l'arbre. L'eugénol et les autres composés phénoliques de l'huile essentielle protègent les tissus foliaires contre les pathogènes fongiques et bactériens, particulièrement importants dans le climat tropical humide des Caraïbes. Ces composés agissent également comme répulsifs contre les herbivores et les insectes ravageurs. Les tanins condensés renforcent cette protection en rendant les feuilles moins digestibles pour les herbivores. Une fois utilisées par l'humain, ces mêmes molécules produisent les effets biologiques documentés : l'eugénol exerce ses propriétés antiseptiques et analgésiques locales, tandis que les flavonoïdes contribuent aux effets antioxydants et anti-inflammatoires observés. Il convient de noter que ces observations reposent principalement sur des études in vitro et des modèles animaux, les essais cliniques humains demeurant limités pour cette espèce.",
     "posologie": "Les posologies traditionnelles documentées pour P. racemosa incluent l'infusion de feuilles à raison de 5 g/L, consommée 1 à 2 fois par jour comme tisane digestive. Pour l'usage externe, l'huile essentielle est utilisée diluée à 1-2% dans des huiles capillaires ou pour des frictions localisées. Ces dosages, issus des pratiques traditionnelles caribéennes, ne constituent pas des posologies cliniquement validées par des essais contrôlés. La concentration en eugénol de l'huile essentielle pouvant varier significativement selon les conditions de récolte et d'extraction, une standardisation rigoureuse serait nécessaire pour établir des posologies thérapeutiques précises."
   },
   "nutrition": {
-    "introduction": "Pimenta racemosa (syn. Myrtus caryophyllata) est un arbre natif documenté dans les Départements du Sud et de la Grand'Anse, appartenant à la famille des Myrtacées. Cette grande famille tropicale, composée majoritairement d'arbustes et d'arbres, se distingue par ses riches usages alimentaires, médicinaux et aromatiques — incluant des genres emblématiques comme Eucalyptus, Psidium (goyavier) et Syzygium (pomme rose). Au sein de cette famille, Pimenta racemosa fait partie du genre Pimenta, un groupe d'arbres aromatiques des Caraïbes réputés pour leurs huiles essentielles riches en eugénol, le même composé que l'on retrouve dans le clou de girofle. L'usage dominant de cette espèce dans les deux départements est aromatique, constituant un élément indispensable des bains de santé traditionnels. Son statut de conservation nécessite une attention particulière en raison de sa rareté croissante."
+    "valeur": "Au niveau local, P. racemosa représente une ressource aromatique traditionnelle importante, bien que sa rareté limite désormais son exploitation. Au niveau international, l'espèce présente un potentiel industriel significant pour la production d'huiles essentielles destinées à la parfumerie, à la cosmétique et aux produits d'hygiène. Le « Bay Rum » caribéen constitue un exemple historique de valorisation commerciale réussie. Le développement d'une filière durable pourrait concilier conservation et valorisation économique, à condition de mettre en place des protocoles de culture et de récolte respectueux de la ressource naturelle."
   },
   "toxicologie": {
-    "niveau": "",
+    "niveau": "🟢 Non toxique aux doses usuelles",
     "details": "Pimenta racemosa présente un profil de sécurité favorable lorsqu'elle est utilisée selon les pratiques traditionnelles documentées. Cependant, l'huile essentielle non diluée, par voie orale ou cutanée, peut s'avérer caustique, hépatotoxique et allergisante en raison de sa forte concentration en eugénol. L'ingestion d'huile essentielle pure est formellement déconseillée. Les applications cutanées doivent toujours être effectuées après dilution appropriée dans une huile végétale porteuse. Une prudence particulière est recommandée chez la femme enceinte, les enfants et les patients présentant une atteinte hépatique préexistante. Des tests cutanés préalables sont conseillés pour détecter d'éventuelles sensibilisations allergiques, particulièrement fréquentes avec les huiles essentielles riches en eugénol."
   },
   "conservation": {
@@ -38,8 +38,8 @@
     "valeur": "Au niveau local, P. racemosa représente une ressource aromatique traditionnelle importante, bien que sa rareté limite désormais son exploitation. Au niveau international, l'espèce présente un potentiel industriel significant pour la production d'huiles essentielles destinées à la parfumerie, à la cosmétique et aux produits d'hygiène. Le « Bay Rum » caribéen constitue un exemple historique de valorisation commerciale réussie. Le développement d'une filière durable pourrait concilier conservation et valorisation économique, à condition de mettre en place des protocoles de culture et de récolte respectueux de la ressource naturelle."
   },
   "recherche": {
-    "nb_articles": "",
     "details": "Les recherches sur P. racemosa se concentrent principalement sur la caractérisation de son huile essentielle et l'évaluation de ses propriétés antimicrobiennes et antioxydantes. Des études récentes confirment l'activité antibactérienne de l'huile essentielle contre diverses souches pathogènes (Satyal et al., 2015 — doi: 10.1080/10412905.2015.1076740). Les perspectives de recherche incluent l'optimisation des techniques d'extraction, l'évaluation de l'activité anti-inflammatoire par des modèles cellulaires, et le développement de formulations standardisées pour des applications thérapeutiques. La conservation ex situ et l'étude des conditions optimales de multiplication constituent également des priorités de recherche pour assurer la pérennité de cette espèce patrimoniale.",
+    "nb_articles": "",
     "lien_pubmed": "",
     "lien_scholar": "",
     "lien_tramil": ""
@@ -47,13 +47,13 @@
   "references": "Tucker A.O. et al. (1991). The essential oil of Pimenta racemosa (Mill.) J. Moore from Dominica. Journal of Essential Oil Research. PMID: 1941458. Marongiu B. et al. (2004). Extraction of Pimenta racemosa var. racemosa and Pimenta racemosa var. grisea essential oils by supercritical CO2. Industrial Crops and Products. doi: 10.1016/j.indcrop.2004.04.020. Park C.K. et al. (2009). Eugenol inhibits sodium currents in dental afferent neurons. Journal of Dental Research. PMID: 19665520. Satyal P. et al. (2015). Chemical composition and biological activities of Pimenta racemosa var. racemosa essential oil from Jamaica. Natural Product Communications. doi: 10.1080/10412905.2015.1076740. POWO (2024). Pimenta racemosa. Plants of the World Online, Kew Science. https://powo.science.kew.org/",
   "aRetenir": "🟢 À retenir — Bwadenn : est utilisee en medecine traditionnelle avec un bon profil de securite aux doses courantes. Les usages presentes reposent sur des donnees ethnobotaniques et scientifiques publiees, mais ne constituent pas une prescription. Consulter un professionnel de sante avant tout usage therapeutique. Les auteurs declinent toute responsabilite quant a un usage inapproprie.",
   "images": {
-    "principale": "images/536_Pimenta_racemosa-001.jpg",
+    "principale": "/images/536_Pimenta_racemosa-001.jpg",
     "galerie": [
-      "images/536_Pimenta_racemosa-001.jpg",
-      "images/536_Pimenta_racemosa-002.jpg",
-      "images/536_Pimenta_racemosa-003.jpg",
-      "images/536_Pimenta_racemosa-004.jpg"
+      "/images/536_Pimenta_racemosa-001.jpg",
+      "/images/536_Pimenta_racemosa-002.jpg",
+      "/images/536_Pimenta_racemosa-003.jpg",
+      "/images/536_Pimenta_racemosa-004.jpg"
     ]
   },
-  "source": "plantes_full.json"
+  "source": "CSV corrigé 2026-04-11"
 }

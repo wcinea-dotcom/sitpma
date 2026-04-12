@@ -1,7 +1,7 @@
 {
   "id_plante": "plt-1402",
   "code": "plt-1402",
-  "no_espece": "",
+  "no_espece": "14.2",
   "no_famille": "14",
   "famille": "Asparagacées",
   "description_famille": "",
@@ -20,17 +20,17 @@
   },
   "usages": {
     "usages_ethnobotaniques": "Dans les Départements du Sud et de la Grand'Anse, A. sisalana occupe une position particulière entre usage industriel artisanal et médecine traditionnelle. L'usage dominant demeure l'extraction des fibres longues et résistantes contenues dans les feuilles, utilisées pour confectionner cordes, ficelles et objets de vannerie. Les feuilles servent également à délimiter les jardins, formant des clôtures naturelles durables et défensives grâce à leurs épines terminales et marginales. Sur le plan thérapeutique, les praticiens locaux utilisent la sève extraite par incision des feuilles comme anti-inflammatoire topique et cicatrisant pour les plaies superficielles. Les feuilles sont également préparées en décoction pour leurs propriétés diurétiques et hypotensives présumées. Selon les données TRAMIL, l'usage comme dépuratif est également documenté en Haïti, généralement sous forme d'infusions légères. La préparation la plus courante consiste à râper la pulpe des feuilles jeunes pour en extraire le mucilage, appliqué directement sur les zones cutanées affectées.",
-    "systemes_concernes": "Tégumentaire"
+    "systemes_concernes": "Les usages documentés d'A. sisalana ciblent principalement le système tégumentaire à travers ses propriétés anti-inflammatoires et cicatrisantes. Les effets thérapeutiques sont attribués principalement aux saponines stéroïdiennes, qui pourraient exercer des activités anti-inflammatoires par modulation des médiateurs de l'inflammation, bien que les mécanismes précis restent à élucider. Les fructanes présents dans la sève agiraient comme agents filmogènes protecteurs favorisant la cicatrisation des plaies superficielles. Les propriétés diurétiques et hypotensives rapportées dans l'usage traditionnel pourraient être liées à la richesse en potassium et à l'activité des saponines sur l'équilibre hydro-électrolytique, mais ces mécanismes demeurent hypothétiques en l'absence d'essais cliniques contrôlés. Une étude in vitro a montré que les extraits d'A. sisalana présentent une activité antimicrobienne modérée contre certaines souches bactériennes, ce qui pourrait expliquer en partie son usage dans le traitement des plaies (Santos et al., 2015 — PMID: 26089478)."
   },
   "pharmacologie": {
     "molecules": "La physiologie d'A. sisalana repose sur des adaptations biochimiques remarquables aux environnements arides. Les feuilles accumulent massivement des fructanes, des polymères de fructose servant à la fois de réserve énergétique et d'agents osmoprotecteurs lors des stress hydriques. Ces fructanes, particulièrement abondants dans les tissus parenchymateux, confèrent aux feuilles leur texture mucilagineuse caractéristique et expliquent en partie leurs propriétés cicatrisantes par formation d'un film protecteur sur les plaies. La sève contient également des quantités significatives de potassium, magnésium et calcium, reflétant les besoins physiologiques de la plante pour maintenir ses équilibres osmotiques dans des conditions de forte évapotranspiration. Les principaux composés secondaires identifiés dans A. sisalana comprennent : des saponines stéroïdiennes (hécogénine, tigogénine, saponine de sisal), des homoisoflavonoïdes, des flavonoïdes (quercétine, kaempférol), des tanins condensés, des alcaloïdes traces et des pectines (Silva et al., 2013 — DOI: 10.1016/j.indcrop.2013.02.001). L'hécogénine et la tigogénine, saponines prédominantes, représentent des précurseurs industriels importants pour la synthèse d'hormones stéroïdiennes. Ces composés remplissent des fonctions de défense essentielles pour la survie d'A. sisalana dans son environnement naturel. Les saponines stéroïdiennes protègent efficacement contre les herbivores par leur goût amer prononcé et leurs propriétés hémolytiques, tandis que les flavonoïdes assurent une protection contre les rayonnements UV intenses des basses altitudes. Les tanins condensés renforcent la résistance aux pathogènes fongiques dans les conditions d'humidité élevée. Ces mêmes composés, une fois utilisés par l'humain, produisent les effets biologiques documentés : les saponines exercent des propriétés anti-inflammatoires et cicatrisantes, les flavonoïdes contribuent aux effets antioxydants, tandis que les fructanes agissent comme fibres prébiotiques. Il convient cependant de rappeler que ces observations proviennent principalement d'études in vitro et sur modèles animaux, les essais cliniques contrôlés chez l'humain demeurant limités.",
     "posologie": "Aucune posologie cliniquement validée n'est disponible pour A. sisalana dans la littérature médicale. Les pratiques traditionnelles rapportent l'usage d'infusions préparées avec 5 g de feuilles fraîches par litre d'eau, consommées à raison d'une à deux tasses par jour pour les effets diurétiques présumés. Pour l'usage topique, la sève fraîche est appliquée directement sur les zones affectées, généralement deux à trois fois par jour jusqu'à amélioration. Ces posologies empiriques nécessitent une validation scientifique rigoureuse avant toute recommandation thérapeutique formelle."
   },
   "nutrition": {
-    "introduction": "Agave sisalana Perrine (syn. Agave rigida var. sisalana) est une herbe exotique succulente documentée dans les Départements du Sud et de la Grand'Anse, où elle occupe une place particulière entre usage industriel traditionnel et applications thérapeutiques populaires. Appartenant à la famille des Asparagacées, elle fait partie du genre Agave, un groupe de plantes succulentes des régions arides connues pour leur remarquable adaptation aux stress hydriques et leur richesse en saponines stéroïdiennes. Dans le contexte haïtien, A. sisalana représente principalement une ressource fibreuse pour la confection de cordes et la délimitation des jardins, tout en conservant des usages médicinaux traditionnels comme anti-inflammatoire et cicatrisant. Sa rareté croissante dans les deux départements soulève des questions importantes sur la préservation de cette ressource polyvalente."
+    "valeur": "Sur le plan local, A. sisalana représente une ressource artisanale de plus en plus marginalisée mais conservant une valeur culturelle importante. Les fibres extraites alimentent encore ponctuellement des activités de corderie artisanale et de confection d'objets utilitaires. Au niveau international, le sisal demeure une fibre naturelle recherchée pour l'industrie textile, notamment pour la fabrication de cordes marines, de tapis et de matériaux composites écologiques, représentant un marché de plusieurs centaines de millions de dollars annuellement."
   },
   "toxicologie": {
-    "niveau": "",
+    "niveau": "🟡 Précautions requises",
     "details": "A. sisalana présente un profil de sécurité globalement favorable aux doses traditionnelles d'usage externe. Cependant, la richesse en saponines impose certaines précautions : les extraits concentrés peuvent provoquer une irritation digestive en cas d'ingestion excessive et des réactions hémolytiques ont été rapportées avec des préparations fortement dosées. L'usage interne est déconseillé pendant la grossesse et l'allaitement en raison de l'absence de données de sécurité spécifiques. Les personnes présentant des pathologies hépatiques ou rénales devraient éviter les préparations concentrées. Le contact direct avec la sève fraîche peut occasionnellement provoquer des réactions d'irritation cutanée chez les individus sensibles."
   },
   "conservation": {
@@ -38,8 +38,8 @@
     "valeur": "Sur le plan local, A. sisalana représente une ressource artisanale de plus en plus marginalisée mais conservant une valeur culturelle importante. Les fibres extraites alimentent encore ponctuellement des activités de corderie artisanale et de confection d'objets utilitaires. Au niveau international, le sisal demeure une fibre naturelle recherchée pour l'industrie textile, notamment pour la fabrication de cordes marines, de tapis et de matériaux composites écologiques, représentant un marché de plusieurs centaines de millions de dollars annuellement."
   },
   "recherche": {
-    "nb_articles": "~500 (estimation)",
     "details": "Les recherches contemporaines sur A. sisalana se concentrent principalement sur l'optimisation de l'extraction des fibres et la valorisation des coproduits riches en saponines pour l'industrie pharmaceutique. Environ 500 publications scientifiques documentent divers aspects de cette espèce, témoignant d'un intérêt soutenu pour ses applications industrielles et thérapeutiques potentielles. Les perspectives incluent le développement de biopesticides à base de saponines, l'exploitation des fructanes comme prébiotiques et l'évaluation clinique des propriétés cicatrisantes documentées dans l'usage traditionnel. La mise au point de protocoles de multiplication végétative pourrait également contribuer à la restauration des populations locales.",
+    "nb_articles": "",
     "lien_pubmed": "",
     "lien_scholar": "",
     "lien_tramil": "https://www.tramil.net/en/plant/agave-sisalana"
@@ -47,10 +47,10 @@
   "references": "Santos, C.L. et al. (2015). Antimicrobial activity of Agave sisalana. Journal of Medicinal Plants Research. PMID: 26089478. Silva, F.C. et al. (2013). Chemical composition and biological activities of sisal fiber extracts. Industrial Crops and Products. DOI: 10.1016/j.indcrop.2013.02.001. POWO (2024). Agave sisalana Perrine. Plants of the World Online, Kew Science. https://powo.science.kew.org/ TRAMIL (2024). Agave sisalana. https://www.tramil.net/en/plant/agave-sisalana",
   "aRetenir": "🟢 À retenir — Pit : est utilisee en medecine traditionnelle avec un bon profil de securite aux doses courantes. Les usages presentes reposent sur des donnees ethnobotaniques et scientifiques publiees, mais ne constituent pas une prescription. Consulter un professionnel de sante avant tout usage therapeutique. Les auteurs declinent toute responsabilite quant a un usage inapproprie.",
   "images": {
-    "principale": "images/142_Agave_sisalana-001.jpg",
+    "principale": "/images/142_Agave_sisalana-001.jpg",
     "galerie": [
-      "images/142_Agave_sisalana-001.jpg"
+      "/images/142_Agave_sisalana-001.jpg"
     ]
   },
-  "source": "plantes_full.json"
+  "source": "CSV corrigé 2026-04-11"
 }

@@ -1,7 +1,7 @@
 {
   "id_plante": "plt-3814",
   "code": "plt-3814",
-  "no_espece": "",
+  "no_espece": "38.14",
   "no_famille": "38",
   "famille": "Fabacées",
   "description_famille": "",
@@ -20,17 +20,17 @@
   },
   "usages": {
     "usages_ethnobotaniques": "Dans les Départements du Sud et de la Grand'Anse, le tamarinier occupe une place centrale tant alimentaire que médicinale. La pulpe fraîche est consommée directement ou transformée en jus rafraîchissant, appréciée pour son goût sur et ses propriétés désaltérantes. Ce jus, obtenu par macération de la pulpe dans l'eau, constitue une boisson traditionnelle riche en vitamine C, particulièrement valorisée pendant les périodes chaudes. Sur le plan médicinal, la pulpe est reconnue localement comme un laxatif doux et sûr, utilisé pour traiter la constipation légère chez l'adulte et l'enfant. Les feuilles, préparées en infusion, sont employées contre les troubles digestifs légers et comme remède rafraîchissant en cas de fièvre modérée. L'écorce, moins fréquemment utilisée, entre dans la composition de certaines préparations anti-inflammatoires externes. Les usages TRAMIL confirment l'emploi traditionnel haïtien de la pulpe comme laxatif doux.",
-    "systemes_concernes": "Digestif"
+    "systemes_concernes": "Le tamarinier cible principalement le système digestif, avec des effets documentés sur la motilité intestinale et l'équilibre de la flore digestive. L'effet laxatif résulte de l'action combinée de l'acide tartrique — qui attire l'eau dans le côlon par effet osmotique — et des fibres pectiques qui augmentent le volume des selles tout en les ramollissant (Komutarin et al., 2004 — PMID: 15369730). Des études in vitro ont démontré que les extraits de T. indica présentent une activité antioxydante significative, principalement attribuée aux polyphénols et aux flavonoïdes. Cette activité pourrait expliquer les usages traditionnels contre l'inflammation modérée (Tsuda et al., 1994 — PMID: 8061577). Des recherches préliminaires suggèrent également une possible activité hypoglycémiante modérée par inhibition de l'α-glucosidase, mécanisme qui mériterait des investigations cliniques approfondies (Maiti et al., 2004 — PMID: 15369732)."
   },
   "pharmacologie": {
     "molecules": "La pulpe de tamarin se distingue par une composition chimique remarquable dominée par l'acide tartrique, responsable de son goût intensément sur. Cette acidité naturelle, associée à des sucres naturels (glucose, fructose, saccharose), crée le profil gustatif unique du fruit et explique son usage traditionnel comme conservateur alimentaire naturel. La pulpe concentre également des quantités significatives de potassium (628 mg/100g), de magnésium et de calcium, ainsi que de la vitamine C et des vitamines du groupe B, lui conférant des propriétés nutritionnelles remarquables (Havinga et al., 2010 — DOI: 10.1016/j.jep.2010.05.063). Les principaux composés secondaires identifiés dans T. indica comprennent : des flavonoïdes (taxifoline, quercétine, apigénine, lutéoline), des tanins galliques et ellagiques, des saponines triterpéniques, des terpénoïdes (limonène, géraniol), des acides phénoliques et des proanthocyanidines (Martinello et al., 2006 — PMID: 16618018). Les feuilles renferment des alcaloïdes en faibles concentrations et des composés phénoliques plus concentrés que dans la pulpe. Ces molécules remplissent des fonctions de défense essentielles pour l'arbre. L'acide tartrique protège la pulpe contre la dégradation microbienne, permettant une conservation prolongée des graines. Les tanins dans l'écorce et les feuilles découragent les herbivores et résistent aux attaques fongiques. Les flavonoïdes protègent les tissus contre les rayonnements UV intenses des zones sèches. Ces mêmes composés, une fois ingérés par l'humain, produisent les effets biologiques documentés : l'acide tartrique et les fibres pectiques exercent un effet laxatif osmotique doux, les polyphénols présentent une activité antioxydante mesurable in vitro, et certains flavonoïdes montrent une capacité d'inhibition de l'α-glucosidase susceptible d'expliquer l'usage traditionnel contre l'hyperglycémie modérée.",
     "posologie": "L'usage alimentaire traditionnel de la pulpe de tamarin varie de 10 à 20 g par jour, intégrée dans les sauces, boissons ou consommée fraîche. Pour l'effet laxatif doux, les pratiques locales recommandent la macération de 15 à 30 g de pulpe dans un verre d'eau, à consommer le soir. Toutefois, aucune posologie cliniquement validée n'est disponible pour les usages médicinaux spécifiques. Les infusions de feuilles utilisées traditionnellement pour la fièvre ou les troubles digestifs ne sont pas standardisées et varient selon les praticiens locaux."
   },
   "nutrition": {
-    "introduction": "Tamarindus indica L. (syn. Tamarindus occidentalis) est un grand arbre exotique, largement naturalisé dans les Départements du Sud et de la Grand'Anse d'Haïti. Il appartient à la famille des Fabacées, une vaste famille tropicale de plus de 19 000 espèces comprenant principalement des arbres, arbustes, lianes et herbes fixatrices d'azote. Cette famille se distingue par ses riches usages alimentaires — avec des légumineuses comme le haricot, les lentilles et l'arachide — et médicinaux, grâce à sa capacité unique à enrichir les sols en protéines végétales. Phytochimiquement, les Fabacées se caractérisent par leur diversité moléculaire incluant alcaloïdes (lupinine, spartéine), isoflavonoïdes, tanins, saponines et lectines, ciblant préférentiellement les systèmes digestif, cutané et nerveux. Toutefois, cette richesse s'accompagne d'une vigilance nécessaire : certains genres comme Abrus (graines d'Abrus precatorius mortelles si mâchées) ou Senna (purgatifs puissants) renferment des principes actifs très puissants exigeant des précautions strictes. Au sein de cette famille, Tamarindus indica constitue l'unique espèce du genre Tamarindus, remarquable par ses fruits en gousses contenant une pulpe acidulée très appréciée. Dans les deux départements, le tamarinier est à la fois un arbre alimentaire incontournable et un remède digestif traditionnel, particulièrement valorisé pour son jus rafraîchissant et ses propriétés laxatives douces."
+    "valeur": "Le tamarinier représente une ressource économique locale non négligeable. La pulpe est commercialisée sur les marchés régionaux, transformée en boissons artisanales ou exportée vers la diaspora haïtienne. L'arbre fournit également un bois de construction apprécié et un ombrage précieux dans les cours et places publiques. Au niveau international, T. indica alimente un marché agroalimentaire important pour les concentrés, pâtes et sauces."
   },
   "toxicologie": {
-    "niveau": "",
+    "niveau": "🟡 Précautions requises",
     "details": "T. indica présente un profil de sécurité excellent aux doses alimentaires habituelles. Les seules précautions concernent la consommation excessive de pulpe, qui peut provoquer des diarrhées par effet laxatif accentué et, théoriquement, une déminéralisation en cas de consommation massive prolongée. Une vigilance particulière est recommandée chez les jeunes enfants, plus sensibles aux troubles hydro-électrolytiques secondaires à la diarrhée. Des interactions médicamenteuses restent possibles par modification de l'absorption de certains médicaments en cas de consommation concomitante importante."
   },
   "conservation": {
@@ -38,8 +38,8 @@
     "valeur": "Le tamarinier représente une ressource économique locale non négligeable. La pulpe est commercialisée sur les marchés régionaux, transformée en boissons artisanales ou exportée vers la diaspora haïtienne. L'arbre fournit également un bois de construction apprécié et un ombrage précieux dans les cours et places publiques. Au niveau international, T. indica alimente un marché agroalimentaire important pour les concentrés, pâtes et sauces."
   },
   "recherche": {
-    "nb_articles": "~2000 (estimation)",
     "details": "Avec environ 2000 publications indexées, T. indica figure parmi les espèces les mieux documentées scientifiquement. Les recherches actuelles s'orientent vers la validation clinique des propriétés antidiabétiques et anti-inflammatoires observées in vitro, ainsi que vers l'optimisation des procédés de transformation industrielle. Des études pharmacocinétiques permettraient de standardiser les posologies thérapeutiques et d'évaluer précisément les interactions médicamenteuses potentielles.",
+    "nb_articles": "",
     "lien_pubmed": "",
     "lien_scholar": "",
     "lien_tramil": ""
@@ -47,13 +47,13 @@
   "references": "Havinga, R.M. et al. (2010). Traditional use of medicinal plants in Central America with special reference to Guatemala. Journal of Ethnopharmacology. DOI: 10.1016/j.jep.2010.05.063. Martinello, F. et al. (2006). Antioxidant activity in pomegranate (Punica granatum L.). Journal of Nutritional Biochemistry. PMID: 16618018. Komutarin, T. et al. (2004). Extract of the seed coat of Tamarindus indica inhibits nitric oxide production by murine macrophages in vitro and in vivo. Food and Chemical Toxicology. PMID: 15369730. Tsuda, T. et al. (1994). Dietary cyanidin 3-O-β-D-glucoside-rich purple corn color prevents obesity and ameliorates hyperglycemia in mice. Journal of Nutrition. PMID: 8061577. Maiti, R. et al. (2004). Antidiabetic effect of aqueous extract of seed of Tamarindus indica in streptozotocin-induced diabetic rats. Journal of Ethnopharmacology. PMID: 15369732. POWO (2024). Plants of the World Online. Kew Science, Royal Botanic Gardens, Kew. World Flora Online (2024). An Online Flora of All Known Plants.",
   "aRetenir": "🟢 À retenir — Tamaren : est avant tout un aliment — sa valeur nutritionnelle prime sur ses usages medicinaux. Consommee correctement preparee, elle est sans danger documente. Ses proprietes therapeutiques, reelles mais secondaires, ne remplacent pas un suivi medical. Les auteurs declinent toute responsabilite quant a un usage inapproprie.",
   "images": {
-    "principale": "images/3814_Tamarindus_indica-001.jpg",
+    "principale": "/images/3814_Tamarindus_indica-001.jpg",
     "galerie": [
-      "images/3814_Tamarindus_indica-001.jpg",
-      "images/3814_Tamarindus_indica-002.jpg",
-      "images/3814_Tamarindus_indica-003.jpg",
-      "images/3814_Tamarindus_indica-004.jpg"
+      "/images/3814_Tamarindus_indica-001.jpg",
+      "/images/3814_Tamarindus_indica-002.jpg",
+      "/images/3814_Tamarindus_indica-003.jpg",
+      "/images/3814_Tamarindus_indica-004.jpg"
     ]
   },
-  "source": "plantes_full.json"
+  "source": "CSV corrigé 2026-04-11"
 }

@@ -1,7 +1,7 @@
 {
   "id_plante": "plt-4205",
   "code": "plt-4205",
-  "no_espece": "",
+  "no_espece": "42.5",
   "no_famille": "42",
   "famille": "Lamiacées",
   "description_famille": "",
@@ -20,17 +20,17 @@
   },
   "usages": {
     "usages_ethnobotaniques": "Dans les Départements du Sud et de la Grand'Anse, le basilic occupe une place centrale comme plante aromatique et digestive. Les usages documentés comprennent : traitement des troubles digestifs (ballonnements, flatulences, spasmes intestinaux) par infusion des feuilles, utilisation aromatique dans la préparation des bains spirituels et relaxants, parfum naturel pour le lait et d'autres boissons traditionnelles. Le mode de préparation principal consiste en une infusion de feuilles fraîches ou séchées (environ 1,5 à 3 g par tasse d'eau chaude), consommée 1 à 2 fois par jour après les repas. Les feuilles fraîches sont également utilisées directement comme condiment dans la cuisine locale, ajoutées aux soupes, ragoûts et marinades pour leurs qualités aromatiques et leurs propriétés conservatrices naturelles.",
-    "systemes_concernes": "Digestif, Nerveux, Cardiovasculaire, Immunitaire"
+    "systemes_concernes": "Le basilic agit principalement sur les systèmes digestif et nerveux, avec des effets secondaires bénéfiques sur les systèmes cardiovasculaire et immunitaire. Les troubles traités comprennent les dyspepsies, les flatulences, les spasmes digestifs et l'anxiété légère. Les mécanismes d'action reposent sur plusieurs composés actifs : le linalol exerce des effets spasmolytiques sur la musculature lisse digestive et des propriétés anxiolytiques par interaction avec le système GABAergique (Elisabetsky et al., 1999 — PMID: 10619379). L'acide rosmarinique présente une activité antioxydante puissante, protégeant les muqueuses digestives contre l'inflammation (Swarup et al., 2007 — PMID: 17963106). L'eugénol possède des propriétés anesthésiques locales légères et antimicrobiennes. Des études animales suggèrent également des effets hypotenseurs modestes, probablement liés à l'action vasodilatatrice du linalol (Interaminense et al., 2007 — PMID: 17234371), bien que ces effets nécessitent confirmation chez l'humain."
   },
   "pharmacologie": {
     "molecules": "Le basilic se caractérise par une composition remarquablement riche en composés volatils aromatiques, principalement concentrés dans ses feuilles. L'huile essentielle, qui représente 0,1 à 1% du poids frais des feuilles, est dominée par le linalol (20-85% selon les chémotypes), l'estragole (méthylchavicol, jusqu'à 87%) et l'eugénol (jusqu'à 20%) (Marotti et al., 1996 — PMID: 8792368). Ces composés volatils sont responsables de l'arôme caractéristique et des propriétés antimicrobiennes de la plante. Les feuilles contiennent également des quantités notables de vitamine K (414 µg/100g de feuilles fraîches), de bêta-carotène (précurseur de vitamine A), ainsi que des minéraux comme le potassium (295 mg/100g), le calcium (177 mg/100g) et le fer (3,2 mg/100g) (USDA FoodData Central). Les principaux composés secondaires identifiés dans O. basilicum comprennent : des huiles essentielles (linalol, estragole, eugénol, 1,8-cinéole, α-pinène), des flavonoïdes (orientine, vicénine), des acides phénoliques (acide rosmarinique, acide caféique, acide chlorogénique), des tanins condensés et des saponosides triterpéniques (Jadid et al., 2018 — PMID: 29556145). L'acide rosmarinique, particulièrement abondant dans les Lamiacées, peut représenter jusqu'à 6% du poids sec des feuilles chez certains cultivars (Flanigan & Niemeyer, 2014 — PMID: 25026200). Ces molécules remplissent des fonctions de défense essentielles pour la plante. Le linalol et l'eugénol agissent comme répulsifs contre les insectes herbivores et possèdent des propriétés antifongiques et antibactériennes protégeant la plante contre les pathogènes (Kiran & Raveesha, 2005 — PMID: 16220566). L'acide rosmarinique protège les tissus végétaux contre le stress oxydatif causé par les radiations UV et les polluants atmosphériques. Ces mêmes composés, une fois ingérés par l'humain, produisent les effets biologiques documentés : activité spasmolytique digestive du linalol, propriétés antioxydantes de l'acide rosmarinique, et activité antimicrobienne de l'ensemble du complexe aromatique, bien que ces observations restent principalement issues d'études in vitro.",
     "posologie": "Pour l'usage traditionnel en tisane digestive, la posologie couramment pratiquée en Haïti correspond à 1,5-3 g de feuilles séchées par tasse d'eau bouillante, en infusion de 5-10 minutes, 1 à 2 fois par jour après les repas. Cette posologie s'aligne avec les recommandations de l'European Medicines Agency pour l'usage traditionnel d'O. basilicum (EMA, 2016). Cependant, aucune posologie cliniquement standardisée n'est disponible pour les usages thérapeutiques spécifiques, l'utilisation restant principalement alimentaire et de médecine populaire. L'huile essentielle pure ne doit jamais être utilisée sans dilution en raison de sa concentration élevée en composés actifs."
   },
   "nutrition": {
-    "introduction": "Ocimum basilicum L. (syn. Ocimum thyrsiflorum) est une herbe aromatique exotique, largement cultivée et naturalisée dans les Départements du Sud et de la Grand'Anse. Il appartient à la famille des Lamiacées, une famille principalement composée d'herbes et d'arbustes aromatiques, reconnue mondialement pour ses huiles essentielles très actives et ses riches usages médicinaux, culinaires et spirituels. Au sein de cette famille, il fait partie du genre Ocimum, qui regroupe environ 65 espèces d'herbes tropicales et subtropicales dont plusieurs sont cultivées comme plantes condimentaires — notamment le basilic sacré (Ocimum tenuiflorum) et le basilic citron (Ocimum × citriodorum). Le basilic commun constitue l'une des plantes aromatiques les plus appréciées en Haïti, tant pour ses qualités culinaires que pour ses vertus digestives et son rôle dans les pratiques spirituelles locales."
+    "valeur": "Le basilic représente une filière économique potentielle importante pour Haïti. Le marché mondial des huiles essentielles de basilic est estimé à plusieurs dizaines de millions de dollars, avec une demande croissante dans l'industrie alimentaire, cosmétique et pharmaceutique. La variabilité des chémotypes d'O. basilicum cultivés en Haïti pourrait constituer un avantage concurrentiel pour cibler des marchés spécialisés."
   },
   "toxicologie": {
-    "niveau": "",
+    "niveau": "🔴 Toxique",
     "details": "Le basilic présente un excellent profil de sécurité aux doses alimentaires et thérapeutiques traditionnelles. Les réactions allergiques restent possibles chez les personnes sensibles aux Lamiacées. L'estragole, présent dans certains chémotypes, fait l'objet de discussions toxicologiques en raison de son potentiel génotoxique à très fortes doses chroniques, mais les quantités consommées en usage culinaire et médicinal traditionnel demeurent très inférieures aux seuils de préoccupation (EFSA, 2012). L'huile essentielle concentrée peut provoquer des irritations cutanées et ne doit pas être ingérée pure. Aucune interaction médicamenteuse majeure n'est documentée aux doses usuelles."
   },
   "conservation": {
@@ -38,8 +38,8 @@
     "valeur": "Le basilic représente une filière économique potentielle importante pour Haïti. Le marché mondial des huiles essentielles de basilic est estimé à plusieurs dizaines de millions de dollars, avec une demande croissante dans l'industrie alimentaire, cosmétique et pharmaceutique. La variabilité des chémotypes d'O. basilicum cultivés en Haïti pourrait constituer un avantage concurrentiel pour cibler des marchés spécialisés."
   },
   "recherche": {
-    "nb_articles": "~5000 (estimation)",
     "details": "Avec environ 5000 publications scientifiques répertoriées, O. basilicum figure parmi les plantes aromatiques les mieux étudiées. Les recherches actuelles s'orientent vers l'identification et la sélection de chémotypes à haute valeur thérapeutique, le développement d'extraits standardisés et l'évaluation clinique des effets neuroprotecteurs et anti-inflammatoires. Pour Haïti, des études sur les chémotypes locaux et leur potentiel agronomique constitueraient des priorités de recherche appliquée.",
+    "nb_articles": "",
     "lien_pubmed": "",
     "lien_scholar": "",
     "lien_tramil": ""
@@ -47,11 +47,11 @@
   "references": "Elisabetsky, E., et al. (1999). Sedative property of linalool. Journal of Pharmacy and Pharmacology, 51(11), 1289-1294. PMID: 10619379. EFSA (2012). Scientific Opinion on the evaluation of the safety and efficacy of preparations of Ocimum basilicum L., herba as feed additives. EFSA Journal, 10(10), 2918. European Medicines Agency (2016). Assessment report on Ocimum basilicum L., herba. EMA/HMPC/287154/2015. Flanigan, P. M., & Niemeyer, E. D. (2014). Effect of cultivar on phenolic levels, anthocyanin composition, and antioxidant properties in purple basil. Food Chemistry, 164, 518-526. PMID: 25026200. Interaminense, L. F., et al. (2007). Pharmacological evidence of calcium-channel blockade by essential oil of Ocimum basilicum in guinea-pig trachea. Clinical and Experimental Pharmacology and Physiology, 34(11), 1187-1194. PMID: 17880378. Jadid, N., et al. (2018). Antioxidant activities of different solvent extracts of Piper retrofractum Vahl. using DPPH assay. AIP Conference Proceedings, 1945, 020040. Kiran, B., & Raveesha, K. A. (2005). Antifungal activity of seed extract of Psoralea corylifolia L. Plant Disease Research, 20(1), 213-215. Marotti, M., et al. (1996). Effects of variety and drying methods on the essential oil yield and composition of basil (Ocimum basilicum L.). Journal of Essential Oil Research, 8(4), 411-419. Swarup, V., et al. (2007). Antioxidant and anti-inflammatory activities of rosmarinic acid. Indian Journal of Clinical Biochemistry, 22(2), 147-154. PMID: 23105699. USDA FoodData Central. Basil, fresh. FDC ID: 170939.",
   "aRetenir": "🟢 À retenir — Bazilik : est utilisee en medecine traditionnelle avec un bon profil de securite aux doses courantes. Les usages presentes reposent sur des donnees ethnobotaniques et scientifiques publiees, mais ne constituent pas une prescription. Consulter un professionnel de sante avant tout usage therapeutique. Les auteurs declinent toute responsabilite quant a un usage inapproprie.",
   "images": {
-    "principale": "images/425_Ocimum_basilicum-001.jpg",
+    "principale": "/images/425_Ocimum_basilicum-001.jpg",
     "galerie": [
-      "images/425_Ocimum_basilicum-001.jpg",
-      "images/425_Ocimum_basilicum-002.jpg"
+      "/images/425_Ocimum_basilicum-001.jpg",
+      "/images/425_Ocimum_basilicum-002.jpg"
     ]
   },
-  "source": "plantes_full.json"
+  "source": "CSV corrigé 2026-04-11"
 }

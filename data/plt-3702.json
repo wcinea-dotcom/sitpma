@@ -1,7 +1,7 @@
 {
   "id_plante": "plt-3702",
   "code": "plt-3702",
-  "no_espece": "",
+  "no_espece": "37.2",
   "no_famille": "37",
   "famille": "Euphorbiacées",
   "description_famille": "",
@@ -20,17 +20,17 @@
   },
   "usages": {
     "usages_ethnobotaniques": "Dans les Départements du Sud et de la Grand'Anse, C. ciliatoglandulifer est reconnu comme une plante médicinale externe documentée pour le traitement de diverses affections cutanées. La sève (latex) est utilisée par application topique directe pour cautériser et désinfecter les plaies infectées. Les feuilles, riches en composés amers, sont parfois employées dans des préparations pour traiter la fièvre et les douleurs musculaires. La plante trouve également des applications dans des contextes spirituels et mystiques, bien que ces usages demeurent moins documentés. Les modes de préparation privilégient l'application externe du latex frais, évitant ainsi les risques liés à l'ingestion de cette substance potentiellement irritante. La médecine traditionnelle mexicaine utilise également les feuilles de cette espèce, confirmant la valeur thérapeutique transfrontalière de cette plante.",
-    "systemes_concernes": ""
+    "systemes_concernes": "C. ciliatoglandulifer cible préférentiellement le système cutané. Il est documenté dans le Sud et la Grand'Anse pour traiter les plaies infectées, grâce à ses propriétés cicatrisantes, antimicrobiennes et anti-inflammatoires. Les mécanismes d'action proposés reposent sur l'activité des alcaloïdes qui favoriseraient la chimiotaxie des fibroblastes, accélérant ainsi le processus de cicatrisation. L'activité antimicrobienne des huiles essentielles contribuerait à prévenir l'infection des plaies traitées. Par analogie avec d'autres espèces du genre Croton, notamment Croton lechleri qui contient de la taspine (Dragon et al., 1992 — PMID: 1344932), une activité cicatrisante similaire est plausible pour C. ciliatoglandulifer, mais nécessite confirmation expérimentale spécifique."
   },
   "pharmacologie": {
     "molecules": "Croton ciliatoglandulifer se distingue par la production d'un latex riche en composés bioactifs. Ce latex, de par sa composition en diterpènes et alcaloïdes, présente des propriétés antiseptiques et cicatrisantes qui expliquent son usage traditionnel pour désinfecter les plaies. La saveur amère caractéristique des feuilles provient principalement d'alcaloïdes et de composés phénoliques qui constituent les défenses chimiques naturelles de la plante. Les principaux composés secondaires identifiés dans C. ciliatoglandulifer comprennent : des diterpènes (notamment des esters de phorbol potentiellement irritants), des alcaloïdes (incluant possiblement la taspine, composé cicatrisant générique au genre Croton), des huiles essentielles riches en limonène, et de l'acide crotonique. Une étude sur les huiles essentielles du genre Croton a confirmé leur activité antimicrobienne significative (Silva et al., 2018 — PMID: 29462358). Ces composés remplissent des fonctions de défense essentielles pour la plante. Les diterpènes du latex constituent une barrière chimique contre les herbivores et les agents pathogènes, tandis que les alcaloïdes découragent la prédation des feuilles. Ces mêmes composés, une fois appliqués sur la peau humaine, produisent les effets cicatrisants et antiseptiques documentés dans les pratiques traditionnelles, bien que les observations restent principalement issues d'usages empiriques locaux.",
     "posologie": "Aucune posologie cliniquement validée n'est disponible pour C. ciliatoglandulifer. Les pratiques traditionnelles documentées localement ne sont pas standardisées et privilégient l'usage externe exclusif du latex sur les plaies. L'usage interne est formellement déconseillé en raison des propriétés purgatives drastiques et de la toxicité potentielle des composés présents dans la plante."
   },
   "nutrition": {
-    "introduction": "Croton ciliatoglandulifer Ortega (syn. Oxydectes ciliatoglandulosa) est un arbuste natif documenté principalement dans la Grand'Anse et rare dans le Sud. Il appartient à la famille des Euphorbiacées, une famille végétale particulièrement bien représentée dans les Départements du Sud et de la Grand'Anse, où elle joue un rôle central tant sur le plan alimentaire (manioc) qu'ethnopharmacologique. Cette famille se caractérise par ses latex souvent caustiques et ses diterpènes irritants, nécessitant des précautions d'usage strictes. Au sein de cette famille, le genre Croton regroupe plusieurs centaines d'espèces d'arbustes et de petits arbres, dont beaucoup produisent des résines aromatiques et des latex aux propriétés thérapeutiques reconnues. Croton ciliatoglandulifer est utilisé localement comme plante médicinale externe, principalement pour ses propriétés cicatrisantes et désinfectantes, bien que son latex irritant impose des précautions d'usage."
+    "valeur": "La valeur économique de C. ciliatoglandulifer reste limitée au niveau local, principalement liée à ses usages médicinaux externes. Son potentiel commercial demeure restreint en raison de sa toxicité et de sa distribution géographique limitée. Aucun développement commercial significatif n'est documenté pour cette espèce."
   },
   "toxicologie": {
-    "niveau": "",
+    "niveau": "🟡 Précautions requises",
     "details": "C. ciliatoglandulifer présente un niveau de toxicité conditionnel nécessitant des précautions strictes. Le latex est fortement irritant pour la peau et les muqueuses, pouvant provoquer des dermatites de contact chez les personnes sensibles. L'usage interne est déconseillé car la plante possède des propriétés purgatives drastiques pouvant entraîner des désordres gastro-intestinaux sévères. Les diterpènes de type phorbol, potentiellement présents dans le latex, sont connus pour leur caractère irritant et co-carcinogène. L'application topique doit se faire avec précaution, en évitant le contact avec les yeux et les muqueuses."
   },
   "conservation": {
@@ -38,8 +38,8 @@
     "valeur": "La valeur économique de C. ciliatoglandulifer reste limitée au niveau local, principalement liée à ses usages médicinaux externes. Son potentiel commercial demeure restreint en raison de sa toxicité et de sa distribution géographique limitée. Aucun développement commercial significatif n'est documenté pour cette espèce."
   },
   "recherche": {
-    "nb_articles": "",
     "details": "Les publications scientifiques spécifiques à C. ciliatoglandulifer sont rares. Les recherches futures devraient se concentrer sur l'isolement et la caractérisation des principes actifs responsables des propriétés cicatrisantes observées empiriquement. Une évaluation précise du profil toxicologique permettrait de mieux encadrer les usages thérapeutiques. Des études de conservation seraient également nécessaires pour déterminer le statut exact de cette espèce rare dans les écosystèmes du Sud et de la Grand'Anse.",
+    "nb_articles": "",
     "lien_pubmed": "",
     "lien_scholar": "",
     "lien_tramil": ""
@@ -47,13 +47,13 @@
   "references": "Silva et al. (2018). Essential oils from Croton species: Chemical composition and biological activities. PMID: 29462358. Dragon et al. (1992). Wound healing properties of Croton lechleri latex. PMID: 1344932 — cité par analogie avec le genre Croton. POWO (2024). Plants of the World Online. Kew Science. http://www.plantsoftheworldonline.org/",
   "aRetenir": "🟡 À retenir — Croton : est une plante a toxicite conditionnelle documentee. Respecter imperativement les precautions indiquees. Ne jamais ingerer les parties toxiques sans encadrement medical. Ces informations sont destinees a l'enseignement et a la documentation. Les auteurs declinent toute responsabilite quant a un usage inapproprie.",
   "images": {
-    "principale": "images/372_Croton_ciliatoglandulifer-001.jpg",
+    "principale": "/images/372_Croton_ciliatoglandulifer-001.jpg",
     "galerie": [
-      "images/372_Croton_ciliatoglandulifer-001.jpg",
-      "images/372_Croton_ciliatoglandulifer-002.jpg",
-      "images/372_Croton_ciliatoglandulifer-003.jpg",
-      "images/372_Croton_ciliatoglandulifer-004.jpg"
+      "/images/372_Croton_ciliatoglandulifer-001.jpg",
+      "/images/372_Croton_ciliatoglandulifer-002.jpg",
+      "/images/372_Croton_ciliatoglandulifer-003.jpg",
+      "/images/372_Croton_ciliatoglandulifer-004.jpg"
     ]
   },
-  "source": "plantes_full.json"
+  "source": "CSV corrigé 2026-04-11"
 }

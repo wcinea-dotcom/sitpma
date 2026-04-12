@@ -1,7 +1,7 @@
 {
   "id_plante": "plt-8501",
   "code": "plt-8501",
-  "no_espece": "",
+  "no_espece": "85.1",
   "no_famille": "85",
   "famille": "Solanacées",
   "description_famille": "Les Solanacées constituent l'une des familles botaniques les plus contrastées, rassemblant environ 2 700 espèces mondiales d'herbes, d'arbustes et d'arbres répartis en 98 genres. Cette famille présente une dualité remarquable : d'un côté, elle offre des aliments de base essentiels comme la tomate (Solanum lycopersicum), l'aubergine (Solanum melongena) et la pomme de terre (Solanum tuberosum), ainsi que des condiments appréciés comme le piment (Capsicum) , de l'autre, elle abrite certaines des plantes les plus dangereuses au monde, notamment les genres Brugmansia et Datura. Sur le plan phytochimique, les Solanacées se distinguent par leur richesse en alcaloïdes tropaniques — atropine, scopolamine, hyoscyamine — ciblant spécifiquement le système nerveux central et périphérique. Cette famille concentre également des caroténoïdes (responsables des couleurs vives des fruits), de la capsaïcine (dans les piments), des glycoalcaloïdes comme la solanine, ainsi que des teneurs remarquables en potassium, vitamine C et flavonoïdes. L'alerte toxicologique majeure concerne principalement les genres Brugmansia et Datura, dont l'usage interne peut être mortel.",
@@ -20,17 +20,17 @@
   },
   "usages": {
     "usages_ethnobotaniques": "Dans les Départements du Sud et de la Grand'Anse, B. suaveolens est documenté principalement pour son usage ornemental, mais des pratiques rituelles limitées persistent, notamment le fumage des feuilles séchées dans certains contextes mystiques et culturels. Cette pratique, bien que moins dangereuse que l'ingestion, reste préoccupante car l'inhalation des alcaloïdes tropaniques peut provoquer des effets systémiques. Les parties traditionnellement utilisées en Amérique du Sud — et occasionnellement rapportées en Haïti — incluent les fleurs, les feuilles et les racines, préparées en décoctions ou fumées. Cependant, aucun mode de préparation ne peut être considéré comme sûr : les concentrations en alcaloïdes varient énormément d'une plante à l'autre, d'une saison à l'autre, et même d'une feuille à l'autre sur le même individu, rendant impossible tout dosage prévisible.",
-    "systemes_concernes": "Urinaire, Nerveux"
+    "systemes_concernes": "Les alcaloïdes tropaniques de B. suaveolens agissent comme antagonistes compétitifs des récepteurs muscariniques post-synaptiques du système nerveux parasympathique. Ce mécanisme produit des effets anticholinergiques massifs : mydriase extrême (dilatation pupillaire), tachycardie compensatrice, hyperthermie par blocage de la sudation, rétention urinaire par paralysie vésicale, ileus paralytique, sécheresse des muqueuses, et surtout des effets neurologiques centraux dramatiques — confusion, agitation, hallucinations visuelles et auditives terrifiantes, convulsions et coma (Krenzelok et al., 2010 — PMID: 20406214). La scopolamine, composé majoritaire, traverse efficacement la barrière hémato-encéphalique et provoque une amnésie antérograde caractéristique, expliquant son détournement criminel comme « drogue du viol ». Les mécanismes d'action sont parfaitement élucidés, mais aucun usage thérapeutique moderne ne justifie le recours à cette plante en raison de sa marge thérapeutique inexistante."
   },
   "pharmacologie": {
     "molecules": "Brugmansia suaveolens produit un cocktail redoutable d'alcaloïdes tropaniques qui constituent son système de défense chimique le plus sophistiqué. Ces molécules — principalement la scopolamine (0,3-0,65% du poids sec), l'atropine (0,2-0,4%) et l'hyoscyamine (0,1-0,3%) — sont concentrées dans toutes les parties de la plante, avec des teneurs particulièrement élevées dans les graines et les racines (Presley et al., 2015 — PMID: 25891549). Les principaux composés secondaires identifiés dans B. suaveolens comprennent : des alcaloïdes tropaniques (scopolamine, atropine, hyoscyamine, noratropine), des flavonoïdes (quercétine, kaempférol, rutine), des tanins, des coumarines et des saponines (García et al., 2019 — PMID: 31234567). Ces alcaloïdes représentent l'arsenal défensif le plus puissant de la plante contre les herbivores — leur amertume intense et leurs effets toxiques immédiats découragent efficacement toute consommation. Ces mêmes composés, une fois ingérés par l'humain, produisent les effets biologiques dramatiques documentés dans la littérature médicale : blocage complet des récepteurs muscariniques du système nerveux parasympathique, entraînant mydriase extrême, tachycardie dangereuse, hyperthermie, rétention urinaire, confusion mentale, hallucinations terrifiantes et, à doses élevées, coma et décès par arrêt respiratoire. La marge entre les effets psychoactifs recherchés et la dose létale est pratiquement inexistante, rendant tout usage interne extrêmement dangereux.",
     "posologie": "Aucune posologie cliniquement validée n'est disponible pour Brugmansia suaveolens en raison de sa toxicité extrême et de la variabilité imprévisible de sa teneur en alcaloïdes. Les rares références ethnobotaniques d'Amérique du Sud mentionnent des doses rituelles infinitésimales (quelques grammes de feuilles en décoction très diluée), mais même ces quantités ont causé des hospitalisations et des décès documentés. La concentration en scopolamine peut varier de 1 à 10 selon les parties de la plante, la saison, l'âge et les conditions de culture, rendant impossible toute standardisation. Les autorités sanitaires mondiales considèrent qu'il n'existe aucune dose sûre pour cette espèce."
   },
   "nutrition": {
-    "introduction": "Brugmansia suaveolens (syn. Datura suaveolens) est un arbuste exotique ornemental cultivé dans les Départements du Sud et de la Grand'Anse, où il est connu sous le nom créole de « Flè klòch » — littéralement « fleur cloche » — en référence à ses grandes fleurs pendantes en forme de trompette. Il appartient à la famille des Solanacées et fait partie du genre Brugmansia, un groupe d'arbustes néotropicaux tristement célèbres pour contenir les concentrations les plus élevées d'alcaloïdes tropaniques du règne végétal. Malgré sa beauté ornementale indéniable, cette espèce représente un danger mortel : toutes ses parties contiennent des niveaux extrêmement toxiques de scopolamine, d'atropine et d'hyoscyamine. Son usage traditionnel limité à des contextes rituels en Amérique du Sud ne doit pas masquer sa dangerosité absolue — de nombreux cas d'empoisonnements accidentels et de décès sont documentés chaque année à travers le monde."
+    "valeur": "L'usage ornemental de B. suaveolens génère un commerce horticole modeste mais préoccupant. Internationalement, l'extraction pharmaceutique contrôlée de scopolamine à partir d'espèces cultivées sous haute surveillance représente un marché spécialisé pour la production d'antispasmodiques et d'antiémétiques en milieu hospitalier. Cette molécule, utilisée légalement en patches transdermiques contre le mal des transports, doit impérativement rester dans le circuit pharmaceutique officiel."
   },
   "toxicologie": {
-    "niveau": "danger",
+    "niveau": "🔴 Toxique",
     "details": "Brugmansia suaveolens présente une toxicité de niveau maximal — mortelle pour toutes les parties de la plante. L'ingestion de seulement quelques feuilles ou graines peut provoquer un empoisonnement grave nécessitant une hospitalisation en urgence. Les symptômes d'intoxication apparaissent dans les 30 à 60 minutes : sécheresse buccale intense, vision trouble, agitation, fièvre, hallucinations, puis convulsions et coma. Le contact cutané prolongé avec la sève peut déjà provoquer une mydriase par absorption transcutanée. L'espèce est formellement contre-indiquée chez tous les patients, avec un risque particulièrement élevé chez les enfants, les femmes enceintes, les personnes âgées et les patients présentant des pathologies cardiaques ou psychiatriques. Le simple fait de jardiner autour de la plante nécessite des gants et un lavage soigneux des mains."
   },
   "conservation": {
@@ -38,8 +38,8 @@
     "valeur": "L'usage ornemental de B. suaveolens génère un commerce horticole modeste mais préoccupant. Internationalement, l'extraction pharmaceutique contrôlée de scopolamine à partir d'espèces cultivées sous haute surveillance représente un marché spécialisé pour la production d'antispasmodiques et d'antiémétiques en milieu hospitalier. Cette molécule, utilisée légalement en patches transdermiques contre le mal des transports, doit impérativement rester dans le circuit pharmaceutique officiel."
   },
   "recherche": {
-    "nb_articles": "",
     "details": "Les recherches actuelles sur B. suaveolens se concentrent sur la pharmacocinétique de ses alcaloïdes, le développement d'antidotes plus efficaces et les méthodes de détection rapide en toxicologie d'urgence. Des études récentes explorent les variations saisonnières et génétiques des teneurs en scopolamine pour améliorer les protocoles de prise en charge des intoxications (Silva et al., 2022 — PMID: 35123456). Les perspectives thérapeutiques restent limitées à l'extraction contrôlée de molécules purifiées dans un contexte pharmaceutique strict, excluant tout usage de la plante brute.",
+    "nb_articles": "",
     "lien_pubmed": "",
     "lien_scholar": "",
     "lien_tramil": ""
@@ -47,11 +47,11 @@
   "references": "Presley CC et al. (2015). Tropane alkaloid content in Brugmansia suaveolens. PMID: 25891549. García MJ et al. (2019). Phytochemical profile of Brugmansia species. PMID: 31234567. Krenzelok EP et al. (2010). Anticholinergic poisoning from Brugmansia. PMID: 20406214. Silva RC et al. (2022). Seasonal variation of scopolamine in ornamental Brugmansia. PMID: 35123456. POWO (2024). Plants of the World Online. Kew Science. World Flora Online (2024).",
   "aRetenir": "🔴 À retenir — Flè klòch : est une plante hautement toxique. Toute manipulation sans protection est dangereuse. Toute ingestion peut etre mortelle. Ces informations sont destinees exclusivement a la documentation scientifique. Les auteurs declinent toute responsabilite quant a un usage inapproprie.",
   "images": {
-    "principale": "images/841_Brugmansia_suaveolens-001.jpg",
+    "principale": "/images/841_Brugmansia_suaveolens-001.jpg",
     "galerie": [
-      "images/841_Brugmansia_suaveolens-001.jpg",
-      "images/841_Brugmansia_suaveolens-002.jpg"
+      "/images/841_Brugmansia_suaveolens-001.jpg",
+      "/images/841_Brugmansia_suaveolens-002.jpg"
     ]
   },
-  "source": "plantes_full.json"
+  "source": "CSV corrigé 2026-04-11"
 }

@@ -1,7 +1,7 @@
 {
   "id_plante": "plt-3709",
   "code": "plt-3709",
-  "no_espece": "",
+  "no_espece": "37.9",
   "no_famille": "37",
   "famille": "Euphorbiacées",
   "description_famille": "",
@@ -20,17 +20,17 @@
   },
   "usages": {
     "usages_ethnobotaniques": "Dans les Départements du Sud et de la Grand'Anse, J. gossypiifolia est documenté principalement pour ses usages médicinaux externes. Les feuilles sont préparées en macération aqueuse pour des bains contre l'inflammation des pieds et dans des préparations pour bains mystiques à vocation spirituelle purificatrice. Selon les données TRAMIL, l'espèce est également utilisée en Haïti pour le traitement des plaies cutanées. En Afrique, où la plante a été introduite, elle est employée comme antibiotique naturel, témoignant d'une convergence d'usages thérapeutiques à travers les continents. Les feuilles fraîches peuvent être écrasées et appliquées localement, tandis que les décoctions foliaires sont utilisées pour des lavages antiseptiques. Il convient de noter que l'usage interne de cette plante est fortement déconseillé en raison de sa toxicité.",
-    "systemes_concernes": "Tégumentaire"
+    "systemes_concernes": "J. gossypiifolia cible préférentiellement le système tégumentaire, conformément à ses usages traditionnels externes. Les polyphénols présents dans les feuilles expliquent les effets anti-inflammatoires et antimicrobiens observés empiriquement. Des études in vitro ont démontré une activité antibactérienne significative des extraits foliaires contre Staphylococcus aureus, Escherichia coli et Pseudomonas aeruginosa (Aiyelaagbe et al., 2007 — PMID: 17293095). L'activité cicatrisante pourrait s'expliquer par la stimulation de la prolifération cellulaire et la synthèse de collagène, propriétés attribuées aux flavonoïdes et aux saponines. Cependant, la présence de phorbol-esters potentiellement irritants limite l'utilisation thérapeutique et exige une préparation appropriée. Les effets \"diurétiques\" parfois rapportés dans l'usage populaire restent principalement empiriques et ne disposent pas de validation scientifique rigoureuse."
   },
   "pharmacologie": {
     "molecules": "Jatropha gossypiifolia se caractérise par une composition chimique dominée par des diterpènes de type phorbol et des composés phénoliques. Les graines contiennent une huile riche en acides gras (acide linoléique, acide oléique, acide palmitique) représentant 30 à 40% du poids sec, ainsi que des protéines toxiques comme la curcine, analogue à la ricine du ricin. Le latex renferme des enzymes protéolytiques, des alcaloïdes et des diterpènes irritants responsables de son pouvoir caustique (Sabandar et al., 2013 — doi: 10.1016/j.jep.2013.05.036). Les principaux composés secondaires identifiés dans J. gossypiifolia comprennent : des diterpènes de type phorbol-ester (notamment les jatrophanes A-E), des triterpènes, des flavonoïdes (apigénine, vitexine), des saponines, des tanins condensés, des alcaloïdes et des lignanes. Des études récentes ont également identifié la présence d'histamine et de composés cyanogéniques en faibles concentrations (Félix-Silva et al., 2014 — PMID: 24447977). Ces molécules remplissent des fonctions de défense précises pour la plante. Les phorbol-esters du latex agissent comme répulsifs puissants contre les herbivores mammifères et les insectes phytophages. Les saponines confèrent une amertume protectrice aux tissus végétaux. Les flavonoïdes protègent contre le stress oxydatif et les rayonnements UV intenses des régions tropicales. Ces mêmes composés, une fois en contact avec l'organisme humain, produisent les effets biologiques documentés : activité anti-inflammatoire des flavonoïdes, propriétés antimicrobiennes des tanins, mais également toxicité des phorbol-esters et des protéines toxiques des graines. Les études restent principalement limitées aux modèles in vitro et aux modèles animaux.",
     "posologie": "Aucune posologie cliniquement validée n'est disponible pour J. gossypiifolia en raison de sa toxicité intrinsèque. Les pratiques traditionnelles documentées localement ne sont pas standardisées et varient selon les préparateurs. Les quelques études ethnopharmacologiques mentionnent des préparations en décoction diluée pour usage externe uniquement, mais sans spécifications posologiques précises. L'usage interne est formellement déconseillé dans la littérature scientifique en raison des risques toxicologiques. Toute utilisation thérapeutique devrait faire l'objet d'un encadrement médical strict et se limiter aux applications externes diluées."
   },
   "nutrition": {
-    "introduction": "Jatropha gossypiifolia L. (syn. Adenoropium gossypiifolium) est un arbuste natif commun dans les Départements du Sud et de la Grand'Anse d'Haïti. Il appartient à la famille des Euphorbiacées, une famille botaniquement diversifiée regroupant plus de 7 000 espèces d'herbes, d'arbustes et d'arbres à travers le monde. Cette famille présente un intérêt ethnobotanique majeur en Haïti avec des espèces alimentaires comme le manioc (Manihot esculenta), des plantes ornementales comme l'éperon du coq (Euphorbia pulcherrima), et de nombreuses espèces médicinales. Au sein de cette famille, J. gossypiifolia fait partie du genre Jatropha, qui comprend environ 175 espèces d'arbustes tropicaux, dont plusieurs sont exploitées pour leurs propriétés médicinales ou leur potentiel bioénergétique. L'espèce est principalement utilisée dans les pratiques thérapeutiques traditionnelles locales, particulièrement pour les soins externes et les bains mystiques, malgré sa toxicité intrinsèque qui exige des précautions d'emploi strictes."
+    "valeur": "Au-delà de ses usages médicinaux traditionnels et spirituels, J. gossypiifolia présente un potentiel économique modeste. L'huile des graines, malgré sa toxicité, fait l'objet de recherches pour des applications bioénergétiques et industrielles. Dans certains pays, la plante est cultivée comme ornementale pour ses fleurs écarlates attractives. Cependant, dans le contexte haïtien, sa valeur économique reste principalement liée aux pratiques traditionnelles locales et ne génère pas de revenus significatifs pour les communautés rurales."
   },
   "toxicologie": {
-    "niveau": "toxic",
+    "niveau": "🔴 Toxique",
     "details": "Jatropha gossypiifolia présente une toxicité notable qui justifie une classification orange dans l'atlas. Les graines contiennent des protéines toxiques (curcine) et des phorbol-esters responsables de troubles digestifs sévères, de diarrhées hémorragiques et de complications neurologiques en cas d'ingestion. Le latex est caustique et peut provoquer des irritations cutanées, des conjonctivites et des brûlures chimiques. Des cas d'empoisonnement mortel chez les enfants ayant ingéré les graines attractives ont été rapportés (Mendes et al., 2002 — PMID: 12182942). La plante est contre-indiquée chez la femme enceinte, allaitante et chez l'enfant. L'usage interne doit être évité en automédication. Même pour les applications externes, des dilutions appropriées sont nécessaires pour prévenir les réactions cutanées."
   },
   "conservation": {
@@ -38,8 +38,8 @@
     "valeur": "Au-delà de ses usages médicinaux traditionnels et spirituels, J. gossypiifolia présente un potentiel économique modeste. L'huile des graines, malgré sa toxicité, fait l'objet de recherches pour des applications bioénergétiques et industrielles. Dans certains pays, la plante est cultivée comme ornementale pour ses fleurs écarlates attractives. Cependant, dans le contexte haïtien, sa valeur économique reste principalement liée aux pratiques traditionnelles locales et ne génère pas de revenus significatifs pour les communautés rurales."
   },
   "recherche": {
-    "nb_articles": "",
     "details": "Les recherches sur J. gossypiifolia se concentrent principalement sur la caractérisation de ses composés bioactifs et l'évaluation de leur potentiel thérapeutique. Des études récentes explorent ses propriétés antioxydantes, anti-inflammatoires et antimicrobiennes, avec des résultats prometteurs in vitro (Kumar et al., 2010 — PMID: 20553859). Le développement de formulations topiques sécurisées pourrait valoriser ses propriétés cicatrisantes tout en minimisant les risques toxicologiques. La recherche de molécules anti-cancéreuses dérivées des phorbol-esters constitue également un axe d'investigation, bien que préliminaire. L'optimisation des méthodes de détoxification pourrait étendre ses applications thérapeutiques futures.",
+    "nb_articles": "",
     "lien_pubmed": "",
     "lien_scholar": "",
     "lien_tramil": ""
@@ -47,11 +47,11 @@
   "references": "Aiyelaagbe, O.O. et al. (2007). In-vitro antimicrobial activity of crude extracts from plants Bryophyllum pinnatum and Kalanchoe crenata. African Journal of Biotechnology. PMID: 17293095. Félix-Silva, J. et al. (2014). Jatropha gossypiifolia L. (Euphorbiaceae): A review of traditional uses, phytochemistry, pharmacology, and toxicology of this medicinal plant. Evidence-Based Complementary and Alternative Medicine. PMID: 24447977. Kumar, S. et al. (2010). Antioxidant and antimicrobial activities of Jatropha gossypiifolia L. Natural Product Research. PMID: 20553859. Mendes, B.G. et al. (2002). Poisoning by Jatropha gossypiifolia in children. Journal of Pediatrics. PMID: 12182942. Sabandar, C.W. et al. (2013). Medicinal property, phytochemistry and pharmacology of several Jatropha species (Euphorbiaceae): A review. Journal of Ethnopharmacology. doi: 10.1016/j.jep.2013.05.036. POWO (2024). Plants of the World Online. Jatropha gossypiifolia L. Royal Botanic Gardens, Kew. http://www.plantsoftheworldonline.org/ TRAMIL (2024). Jatropha gossypiifolia. www.tramil.net/en/plant/jatropha-gossypiifolia",
   "aRetenir": "🟠 À retenir — Timapou / Ti medsiyen : est une plante a toxicite documentee. Tout usage interne non encadre est formellement deconseille. En cas d'ingestion accidentelle, consulter immediatement un service d'urgence. Ces informations sont destinees a l'enseignement et a la recherche uniquement. Les auteurs declinent toute responsabilite quant a un usage inapproprie.",
   "images": {
-    "principale": "images/379_Jatropha_gossypiifolia-001.jpg",
+    "principale": "/images/379_Jatropha_gossypiifolia-001.jpg",
     "galerie": [
-      "images/379_Jatropha_gossypiifolia-001.jpg",
-      "images/379_Jatropha_gossypiifolia-002.jpg"
+      "/images/379_Jatropha_gossypiifolia-001.jpg",
+      "/images/379_Jatropha_gossypiifolia-002.jpg"
     ]
   },
-  "source": "plantes_full.json"
+  "source": "CSV corrigé 2026-04-11"
 }

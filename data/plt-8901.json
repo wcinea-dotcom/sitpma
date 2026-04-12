@@ -1,7 +1,7 @@
 {
   "id_plante": "plt-8901",
   "code": "plt-8901",
-  "no_espece": "",
+  "no_espece": "89.1",
   "no_famille": "89",
   "famille": "Zingibéracées",
   "description_famille": "Dominant les régions tropicales avec plus de 1400 espèces réparties en 50 genres, les Zingibéracées constituent l'une des familles végétales les plus précieuses sur le plan aromatique et thérapeutique. Ces herbes rhizomateuses se distinguent par leurs usages culinaires emblématiques — notamment le gingembre (Zingiber officinale), le curcuma (Curcuma longa) et la cardamome (Elettaria cardamomum) — qui enrichissent les cuisines tropicales depuis des millénaires. Sur le plan médicinal, cette famille cible préférentiellement les systèmes digestif et inflammatoire grâce à une signature phytochimique remarquable dominée par les curcuminoïdes, les gingérols, les sesquiterpènes et les huiles essentielles volatiles. Ces composés bioactifs confèrent aux Zingibéracées leurs propriétés anti-inflammatoires, digestives et antimicrobiennes documentées par de nombreuses études cliniques. Toutefois, certaines espèces requièrent une vigilance particulière : les doses thérapeutiques élevées peuvent interagir avec les anticoagulants et provoquer des troubles digestifs, exigeant un usage mesuré et encadré.",
@@ -20,17 +20,17 @@
   },
   "usages": {
     "usages_ethnobotaniques": "Dans les Départements du Sud et de la Grand'Anse, le safran est documenté comme anti-inflammatoire, antioxydant, digestif, hépatoprotecteur et antimicrobien. Le rhizome, fraîchement râpé ou séché puis réduit en poudre, constitue la forme d'usage privilégiée. En usage alimentaire, il parfume les plats traditionnels et leur confère une couleur dorée caractéristique. En usage médicinal, les praticiens locaux l'emploient principalement contre les douleurs articulaires et les troubles digestifs. Cette double utilisation — culinaire et thérapeutique — s'inscrit dans la tradition TRAMIL qui documente son usage contre l'inflammation à travers les Caraïbes.",
-    "systemes_concernes": "Digestif, Hépatique"
+    "systemes_concernes": "Le curcuma cible préférentiellement les systèmes inflammatoire et digestif. Les curcuminoïdes inhibent les voies de signalisation NF-κB, COX-2 et 5-LOX, réduisant la production de cytokines pro-inflammatoires comme le TNF-α et les interleukines (Jurenka, 2009 — PMID: 19594223). Ces mécanismes expliquent son efficacité documentée contre l'arthrose, la polyarthrite rhumatoïde et les troubles digestifs. Au niveau hépatique, la curcumine stimule la production de bile et protège contre la peroxydation lipidique. Des études récentes suggèrent également une modulation bénéfique de la résistance à l'insuline et du profil lipidique dans le syndrome métabolique."
   },
   "pharmacologie": {
     "molecules": "Le curcuma doit sa réputation mondiale à un groupe unique de pigments : les curcuminoïdes, principalement la curcumine (50-60% des curcuminoïdes totaux), la déméthoxycurcumine (DMC) et la bis-déméthoxycurcumine (BDMC). Ces composés phénoliques conjugués confèrent au rhizome sa couleur jaune-orangé intense et constituent sa signature thérapeutique. Le rhizome renferme également de l'amidon (principal constituant), des sucres, des protéines et des microéléments comme le fer, le manganèse, le potassium et le magnésium qui enrichissent sa valeur nutritionnelle. Les principaux composés secondaires identifiés dans C. longa comprennent : des curcuminoïdes (curcumine, déméthoxycurcumine, bis-déméthoxycurcumine), des terpénoïdes (turmérone, atlantone, zingibérène), des flavonoïdes, des saponines et des polysaccharides (Prasad et al., 2014 — PMID: 24672232). L'huile essentielle, riche en sesquiterpènes comme la turmérone, contribue à l'arôme caractéristique et aux propriétés antimicrobiennes. Ces molécules remplissent des fonctions de défense essentielles pour la plante. Les curcuminoïdes protègent le rhizome souterrain contre l'oxydation et les pathogènes fongiques grâce à leurs propriétés antioxydantes et antimicrobiennes. Les sesquiterpènes volatils repoussent les insectes ravageurs et les nématodes du sol. Ces mêmes composés, une fois ingérés par l'humain, produisent les effets biologiques documentés : inhibition des voies inflammatoires NF-κB et COX-2, piégeage des radicaux libres et modulation du métabolisme lipidique (Hewlings & Kalman, 2017 — PMID: 29065496).",
     "posologie": "Les essais cliniques rapportent des doses de 500 à 1500 mg/jour de curcuminoïdes ou d'extraits standardisés de C. longa sur des périodes de 8 à 36 semaines pour les effets anti-inflammatoires (Chainani-Wu, 2003 — PMID: 12680238). En usage alimentaire traditionnel, 0,5 à 1 gramme de poudre par jour est couramment employé. Il convient de noter que la biodisponibilité de la curcumine seule reste limitée, nécessitant souvent l'association avec la pipérine ou des formulations spécialisées pour optimiser l'absorption."
   },
   "nutrition": {
-    "introduction": "Curcuma longa L. — « Safran » / Curcuma Curcuma longa L. (syn. Curcuma domestica) est une herbe rhizomateuse exotique, rare mais présente dans les Départements du Sud et de la Grand'Anse d'Haïti. Appartenant à la famille des Zingibéracées, cette espèce pantropicale constitue l'une des épices les plus étudiées scientifiquement au monde avec près de 2000 publications indexées. Le nom créole « safran » fait référence à la couleur jaune-orangé caractéristique du rhizome, bien que cette plante ne soit pas apparentée au vrai safran (Crocus sativus). En Haïti, le curcuma représente à la fois une épice culinaire précieuse et un remède traditionnel contre les douleurs et l'inflammation, témoignant de la richesse thérapeutique des Zingibéracées dans la pharmacopée locale."
+    "valeur": "Sur le plan international, le curcuma représente un marché de plusieurs milliards de dollars, tant comme épice que comme complément nutraceutique. Localement, son développement pourrait constituer une opportunité économique pour les agriculteurs des deux départements, particulièrement dans le contexte de diversification des cultures et de valorisation des plantes médicinales."
   },
   "toxicologie": {
-    "niveau": "",
+    "niveau": "🟡 Précautions requises",
     "details": "Le curcuma présente un excellent profil de sécurité aux doses alimentaires et médicinales usuelles. De rares effets gastro-intestinaux (nausées, dyspepsie) peuvent survenir à fortes doses. Une prudence s'impose chez les patients sous anticoagulants ou antiagrégants plaquettaires en raison d'un léger effet sur l'agrégation. Les personnes souffrant de calculs biliaires doivent éviter les fortes doses en raison de l'effet cholagogue. Bien que généralement sûr, l'usage de fortes doses durant la grossesse requiert une supervision médicale."
   },
   "conservation": {
@@ -38,8 +38,8 @@
     "valeur": "Sur le plan international, le curcuma représente un marché de plusieurs milliards de dollars, tant comme épice que comme complément nutraceutique. Localement, son développement pourrait constituer une opportunité économique pour les agriculteurs des deux départements, particulièrement dans le contexte de diversification des cultures et de valorisation des plantes médicinales."
   },
   "recherche": {
-    "nb_articles": "~2000 (estimation)",
     "details": "Avec près de 2000 publications scientifiques, C. longa demeure l'une des plantes médicinales les plus étudiées. Les recherches actuelles se concentrent sur l'amélioration de la biodisponibilité de la curcumine, ses applications en oncologie et en neurodégénérescence, ainsi que le développement de formulations innovantes. En Haïti, des études sur l'adaptation variétale aux conditions locales et l'optimisation des rendements mériteraient d'être développées.",
+    "nb_articles": "",
     "lien_pubmed": "",
     "lien_scholar": "",
     "lien_tramil": "https://www.tramil.net/en/plant/curcuma-longa"
@@ -47,10 +47,10 @@
   "references": "Chainani-Wu, N. (2003). Safety and anti-inflammatory activity of curcumin: a component of tumeric (Curcuma longa). J Altern Complement Med. PMID: 12680238. Hewlings, S.J. & Kalman, D.S. (2017). Curcumin: A Review of Its Effects on Human Health. Foods. PMID: 29065496. Jurenka, J.S. (2009). Anti-inflammatory properties of curcumin, a major constituent of Curcuma longa: a review of preclinical and clinical research. Altern Med Rev. PMID: 19594223. Prasad, S. et al. (2014). Curcumin, a component of golden spice: from bedside to bench and back. Biotechnol Adv. PMID: 24672232. TRAMIL. Curcuma longa. Disponible: https://www.tramil.net/en/plant/curcuma-longa",
   "aRetenir": "🟢 À retenir — Safran : est utilisee en medecine traditionnelle avec un bon profil de securite aux doses courantes. Les usages presentes reposent sur des donnees ethnobotaniques et scientifiques publiees, mais ne constituent pas une prescription. Consulter un professionnel de sante avant tout usage therapeutique. Les auteurs declinent toute responsabilite quant a un usage inapproprie.",
   "images": {
-    "principale": "images/881_Curcuma_longa-001.jpg",
+    "principale": "/images/881_Curcuma_longa-001.jpg",
     "galerie": [
-      "images/881_Curcuma_longa-001.jpg"
+      "/images/881_Curcuma_longa-001.jpg"
     ]
   },
-  "source": "plantes_full.json"
+  "source": "CSV corrigé 2026-04-11"
 }

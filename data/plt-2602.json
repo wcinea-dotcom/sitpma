@@ -1,7 +1,7 @@
 {
   "id_plante": "plt-2602",
   "code": "plt-2602",
-  "no_espece": "",
+  "no_espece": "26.2",
   "no_famille": "26",
   "famille": "Campanulacées",
   "description_famille": "",
@@ -20,17 +20,17 @@
   },
   "usages": {
     "usages_ethnobotaniques": "Dans les Départements du Sud et de la Grand'Anse, Lobelia assurgens est exclusivement utilisé à des fins médicinales, principalement pour ses vertus antiasthmatiques, expectorantes, antispasmodiques et relaxantes musculaires, documentées dans les pratiques traditionnelles locales bien que peu étudiées scientifiquement. Les parties utilisées comprennent les feuilles et les racines, préparées principalement sous forme d'infusion selon les modes de préparation traditionnels. À l'échelle internationale, l'usage de l'espèce pour les affections respiratoires est documenté en Jamaïque, confirmant la cohérence des applications thérapeutiques caribéennes. Par analogie avec Lobelia inflata, espèce du genre mieux documentée scientifiquement, les graines pourraient également présenter un intérêt thérapeutique en raison de leur richesse particulière en alcaloïdes, bien que cet usage nécessite une vigilance maximale en raison du potentiel toxique élevé.",
-    "systemes_concernes": "Respiratoire, Nerveux"
+    "systemes_concernes": "Lobelia assurgens cible préférentiellement le système nerveux et, par extension, le système respiratoire dans les applications thérapeutiques traditionnelles documentées localement. Les principales affections concernées incluent les troubles asthmatiques, les affections bronchiques nécessitant une action expectorante, et les tensions musculaires requérant un effet antispasmodique. Le mécanisme d'action repose principalement sur la lobéline, qui agit sur les récepteurs nicotiniques du système nerveux autonome, modifiant la libération de neurotransmetteurs et produisant un effet bronchodilatateur. Cependant, à doses élevées, ces mêmes mécanismes peuvent induire des effets indésirables graves : nausées, vomissements, hypotension et arythmies cardiaques. Les mécanismes d'action spécifiques à L. assurgens n'ont pas fait l'objet d'études cliniques dédiées, les données disponibles étant extrapolées par analogie avec d'autres espèces du genre Lobelia mieux documentées scientifiquement."
   },
   "pharmacologie": {
     "molecules": "Lobelia assurgens se caractérise par sa remarquable production d'alcaloïdes pipéridiques, principalement la lobéline et la lobélanine, qui confèrent à la plante sa saveur astringente caractéristique et ses propriétés pharmacologiques. Ces composés azotés, concentrés particulièrement dans les feuilles et les graines, représentent la signature chimique distinctive de l'espèce. La plante synthétise également des tanins en quantités appréciables, responsables de l'astringence gustative, ainsi que des glucides de structure complexe incluant de la cellulose et des fibres végétales. Les microéléments ne présentent pas de particularités nutritionnelles significatives, cette espèce n'étant pas utilisée à des fins alimentaires. Les principaux composés secondaires identifiés dans L. assurgens comprennent : des alcaloïdes pipéridiques (lobéline, lobélanine), des flavonoïdes aux propriétés antioxydantes, des tanins astringents, des saponines et des terpénoïdes (données issues d'analogies avec le genre Lobelia, les études spécifiques à L. assurgens étant limitées). La lobéline, composé principal, agit sur les récepteurs nicotiniques du système nerveux, modulant la libération de neurotransmetteurs et expliquant les effets bronchodilatateurs traditionnellement recherchés. Ces molécules remplissent des fonctions de défense essentielles pour la plante. Les alcaloïdes pipéridiques protègent efficacement contre l'herbivorie — leur amertume et leur toxicité dissuadent la plupart des herbivores. Les tanins créent un environnement défavorable aux pathogènes fongiques et bactériens, particulièrement important dans l'environnement humide des altitudes où croît l'espèce. Ces mêmes composés, une fois ingérés par l'humain, produisent les effets biologiques documentés dans les usages traditionnels, notamment l'action bronchodilatatrice recherchée pour les affections respiratoires. Il convient cependant de noter que ces observations restent principalement issues d'études in vitro et d'analogies avec des espèces proches du genre.",
     "posologie": "Aucune posologie cliniquement validée n'est disponible spécifiquement pour Lobelia assurgens. Les pratiques traditionnelles documentées localement ne sont pas standardisées et présentent des variations importantes selon les praticiens. Par analogie avec Lobelia inflata, certaines sources modernes proposent environ 1 gramme de plante par jour en extrait standardisé pour les adultes, mais ces données ne peuvent être directement transposées à L. assurgens sans études de sécurité spécifiques. La concentration variable en alcaloïdes selon les conditions de croissance, la partie de plante utilisée et les modes de préparation rend toute extrapolation posologique particulièrement hasardeuse et potentiellement dangereuse."
   },
   "nutrition": {
-    "introduction": "Lobelia assurgens L. (syn. Tupa assurgens) est un arbuste natif des Caraïbes et d'Amérique tropicale, documenté dans les Départements du Sud et de la Grand'Anse d'Haïti. Il appartient à la famille des Campanulacées, composée majoritairement d'herbes et d'arbustes reconnus pour leurs importants usages médicinaux. Cette famille se distingue par sa signature phytochimique dominée par des alcaloïdes pipéridiques — notamment la lobéline dans le genre Lobelia —, l'inuline, les flavonoïdes et les mucilages, ciblant préférentiellement le système nerveux. Il convient de souligner que certaines espèces de cette famille, particulièrement les genres Lobelia et Hippobroma, renferment des principes actifs très puissants et potentiellement toxiques, exigeant une préparation adéquate et un dosage strict, avec urgence médicale en cas d'ingestion accidentelle. Au sein de cette famille, L. assurgens fait partie du genre Lobelia, un groupe d'arbustes et d'herbes tropicales réputés pour leurs alcaloïdes à activité sur le système respiratoire. Son usage dans les Départements du Sud et de la Grand'Anse est strictement médicinal, principalement pour les affections respiratoires, mais sa rareté et sa toxicité exigent une vigilance maximale."
+    "valeur": "La valeur économique de Lobelia assurgens reste principalement locale et médicinale dans le contexte haïtien, avec un potentiel pharmaceutique à l'échelle internationale en raison de ses alcaloïdes d'intérêt thérapeutique. Cependant, sa rareté limite considérablement les perspectives d'exploitation commerciale, qui risqueraient d'aggraver son statut de conservation. Le développement éventuel de programmes de culture contrôlée pourrait concilier valorisation économique et préservation de l'espèce sauvage, tout en garantissant la qualité et la sécurité des préparations médicinales."
   },
   "toxicologie": {
-    "niveau": "toxic",
+    "niveau": "🔴 Toxique",
     "details": "Lobelia assurgens présente un niveau de toxicité significatif nécessitant des précautions strictes d'usage. La plante est potentiellement toxique par ingestion, particulièrement chez l'enfant, la femme enceinte et les personnes présentant des troubles cardiovasculaires. Les signes de surdosage incluent nausées, vomissements, vertiges et troubles cardio-respiratoires pouvant nécessiter une prise en charge médicale urgente. L'usage interne doit être strictement contrôlé et idéalement supervisé par un professionnel de santé expérimenté. Les interactions médicamenteuses avec les traitements cardiovasculaires et neurologiques sont probables en raison du mécanisme d'action sur les récepteurs nicotiniques. La variabilité de concentration en principes actifs selon les conditions de récolte et de préparation augmente considérablement les risques d'accidents thérapeutiques."
   },
   "conservation": {
@@ -38,8 +38,8 @@
     "valeur": "La valeur économique de Lobelia assurgens reste principalement locale et médicinale dans le contexte haïtien, avec un potentiel pharmaceutique à l'échelle internationale en raison de ses alcaloïdes d'intérêt thérapeutique. Cependant, sa rareté limite considérablement les perspectives d'exploitation commerciale, qui risqueraient d'aggraver son statut de conservation. Le développement éventuel de programmes de culture contrôlée pourrait concilier valorisation économique et préservation de l'espèce sauvage, tout en garantissant la qualité et la sécurité des préparations médicinales."
   },
   "recherche": {
-    "nb_articles": "",
     "details": "Les recherches spécifiques à Lobelia assurgens restent limitées, avec environ vingt publications scientifiques estimées selon les bases de données consultables. Les perspectives de recherche incluent l'étude approfondie de la composition chimique spécifique à l'espèce, l'évaluation de la variabilité des teneurs en alcaloïdes selon les conditions environnementales, et le développement de protocoles de multiplication ex situ pour la conservation. Des études pharmacologiques comparatives avec les espèces proches du genre permettraient de mieux définir le profil thérapeutique et toxicologique spécifique à L. assurgens, condition essentielle pour un usage médicinal sécurisé.",
+    "nb_articles": "",
     "lien_pubmed": "https://pubmed.ncbi.nlm.nih.gov/?term=Lobelia+assurgens",
     "lien_scholar": "https://scholar.google.com/scholar?q=Lobelia+assurgens",
     "lien_tramil": "https://www.tramil.net/en/plant/lobelia-assurgens"
@@ -47,13 +47,13 @@
   "references": "Données extrapolées par analogie avec le genre Lobelia — études spécifiques à L. assurgens limitées. PubMed - Lobelia assurgens : https://pubmed.ncbi.nlm.nih.gov/?term=Lobelia+assurgens TRAMIL - Lobelia assurgens : https://www.tramil.net/en/plant/lobelia-assurgens Google Scholar - Recherches sur l'espèce : https://scholar.google.com/scholar?q=Lobelia+assurgens",
   "aRetenir": "🟠 À retenir — Lang bèf : est une plante a toxicite documentee. Tout usage interne non encadre est formellement deconseille. En cas d'ingestion accidentelle, consulter immediatement un service d'urgence. Ces informations sont destinees a l'enseignement et a la recherche uniquement. Les auteurs declinent toute responsabilite quant a un usage inapproprie.",
   "images": {
-    "principale": "images/262_Lobelia_assurgens-001.jpg",
+    "principale": "/images/262_Lobelia_assurgens-001.jpg",
     "galerie": [
-      "images/262_Lobelia_assurgens-001.jpg",
-      "images/262_Lobelia_assurgens-002.jpg",
-      "images/262_Lobelia_assurgens-003.jpg",
-      "images/262_Lobelia_assurgens-004.jpg"
+      "/images/262_Lobelia_assurgens-001.jpg",
+      "/images/262_Lobelia_assurgens-002.jpg",
+      "/images/262_Lobelia_assurgens-003.jpg",
+      "/images/262_Lobelia_assurgens-004.jpg"
     ]
   },
-  "source": "plantes_full.json"
+  "source": "CSV corrigé 2026-04-11"
 }

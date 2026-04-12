@@ -1,7 +1,7 @@
 {
   "id_plante": "plt-5302",
   "code": "plt-5302",
-  "no_espece": "",
+  "no_espece": "53.2",
   "no_famille": "53",
   "famille": "Myrtacées",
   "description_famille": "",
@@ -20,26 +20,26 @@
   },
   "usages": {
     "usages_ethnobotaniques": "Dans les Départements du Sud et de la Grand'Anse, l'eucalyptus est principalement utilisé comme plante médicinale pour traiter les affections respiratoires. L'usage traditionnel le plus documenté consiste à boire les feuilles infusées comme remède classique contre la grippe. Les feuilles fraîches ou séchées sont préparées en tisane, tandis que les inhalations de vapeurs d'eau chaude contenant quelques feuilles constituent un autre mode de préparation courant. L'écorce peut également être utilisée, bien que moins fréquemment. L'huile essentielle, quand elle est disponible, est employée en inhalation ou en application topique diluée. Ces préparations visent principalement les propriétés antiseptiques respiratoires, expectorantes et antitussives de la plante.",
-    "systemes_concernes": "Respiratoire"
+    "systemes_concernes": "L'eucalyptus cible préférentiellement le système respiratoire, avec des applications documentées pour la grippe, la toux, les bronchites et les sinusites. Le mécanisme d'action principal repose sur le 1,8-cinéole, qui exerce des effets mucolytiques en réduisant la production de mucus et en améliorant son évacuation. Des études cliniques ont démontré que ce composé possède également des propriétés broncho-spasmolytiques légères et anti-inflammatoires par réduction de certains médiateurs de l'inflammation (Juergens et al., 2003 — PMID: 14664277). L'huile essentielle présente une activité antibactérienne et antivirale modérée, particulièrement contre certains pathogènes respiratoires. Cependant, à forte dose, une possible immunomodulation défavorable a été rapportée, nécessitant un usage modéré et contrôlé."
   },
   "pharmacologie": {
     "molecules": "Eucalyptus globulus tire ses qualités de une production exceptionnelle d'huiles essentielles volatiles, principalement concentrées dans les feuilles. Ces composés aromatiques lui confèrent son odeur camphrée caractéristique et sa saveur astringente. Le 1,8-cinéole (eucalyptol), qui peut représenter 60 à 85% de l'huile essentielle, constitue le marqueur chimique principal de l'espèce et explique ses propriétés mucolytiques et expectorantes (Juergens et al., 2003 — PMID: 14664277). Les feuilles contiennent également des quantités appréciables de tanins hydrolysables responsables de l'astringence, ainsi que des traces de potassium, calcium et magnésium libérées lors de l'infusion. Les principaux composés secondaires identifiés dans E. globulus comprennent : une huile essentielle dominée par le 1,8-cinéole (eucalyptol), accompagné d'α-pinène, de limonène et d'autres monoterpènes, des tanins ellagiques et galliques, des flavonoïdes (quercétine, rutine, hyperoside), des saponines triterpéniques, des acides phénoliques (acide chlorogénique, acide caféique) (Tyagi & Malik, 2011 — PMID: 21250553, Mulyaningsih et al., 2010 — PMID: 21069717). Ces molécules remplissent des fonctions de défense essentielles pour la plante. Le 1,8-cinéole et les autres composés volatils protègent contre les pathogènes fongiques et bactériens tout en dissuadant de nombreux herbivores par leur odeur intense. Les tanins rendent les feuilles moins digestibles pour les insectes phytophages. Ces mêmes composés, une fois inhalés ou ingérés par l'humain, produisent les effets biologiques documentés : le 1,8-cinéole présente une activité mucolytique démontrée par sa capacité à réduire la viscosité du mucus bronchique et à améliorer la clairance mucociliaire (Worth et al., 2009 — PMID: 19144222). Les études restent cependant principalement issues d'essais in vitro et sur modèles animaux.",
     "posologie": "La posologie cliniquement étudiée pour E. globulus varie selon le mode d'administration. En tisane, 1,5 à 3 g de feuilles séchées par tasse d'eau bouillante, 2 à 3 fois par jour, représentent les doses généralement recommandées (Juergens et al., 2003 — PMID: 14664277). Pour les inhalations, 10 à 12 gouttes d'huile essentielle dans 150 mL d'eau bouillante, jusqu'à 3 fois par jour maximum. En application topique, l'huile essentielle doit être diluée à 1-2% dans une huile porteuse ou une crème avant application. Ces posologies doivent être strictement respectées en raison de la toxicité potentielle de l'huile essentielle pure."
   },
   "nutrition": {
-    "introduction": "Eucalyptus globulus Labill. (syn. Eucalyptus cordata) est un grand arbre exotique d'altitude, originaire d'Australie et largement cultivé dans les Départements du Sud et de la Grand'Anse d'Haïti. Il appartient à la famille des Myrtacées, une grande famille tropicale principalement constituée d'arbustes et d'arbres, reconnue pour ses riches usages alimentaires, médicinaux et aromatiques. Au sein de cette famille, il fait partie du genre Eucalyptus, qui regroupe plus de 800 espèces d'arbres australiens caractérisés par leur croissance rapide et leur richesse en huiles essentielles à forte teneur en 1,8-cinéole. Son usage principal dans la région est médicinal, particulièrement comme antiseptique respiratoire et expectorant dans le traitement traditionnel de la grippe et des affections respiratoires."
+    "valeur": "La valeur économique d'E. globulus repose principalement sur la production d'huile essentielle, largement commercialisée sur les marchés internationaux pour l'industrie pharmaceutique, cosmétique et alimentaire. Au niveau local haïtien, la plante représente une ressource médicinale accessible et peu coûteuse pour les communautés rurales. Le potentiel de développement d'une filière locale de distillation d'huile essentielle pourrait constituer une opportunité économique intéressante pour la région."
   },
   "toxicologie": {
-    "niveau": "",
+    "niveau": "🟢 Non toxique aux doses usuelles",
     "details": "L'eucalyptus présente un profil toxicologique conditionnel nécessitant des précautions d'usage. L'huile essentielle pure par voie orale est toxique et peut provoquer des convulsions et une dépression respiratoire. Elle est contre-indiquée chez les nourrissons, les jeunes enfants, les personnes souffrant d'asthme non contrôlé, et durant la grossesse à forte dose. Des interactions avec les enzymes hépatiques sont possibles, nécessitant la prudence chez les personnes sous traitement médicamenteux. Les tisanes de feuilles sont généralement bien tolérées aux doses recommandées, mais un surdosage peut provoquer des troubles digestifs et neurologiques."
   },
   "conservation": {
-    "menaces": "E. globulus présente un statut de conservation LC (Préoccupation mineure) en raison de sa large distribution mondiale et de sa facilité de culture. En Haïti, l'espèce ne fait face à aucune menace particulière et se maintient aisément dans les zones d'altitude où elle est cultivée. Sa nature exotique robuste et sa croissance rapide en font une espèce peu vulnérable aux pressions environnementales locales.",
+    "menaces": "E. globulus présente un statut de conservation LC (Préoccupation mineure) en raison de sa large distribution mondiale et de sa facilité de culture. En Haïti, l'espèce ne fait face à aucune menace particulière et se maintient aisément dans les zones d'altitude où elle est cultivée. Sa nature exotique robuste et sa croissance rapide en font une espèce peu vulnérable aux pressions environnementales locales. Surveiller — arbre médicinal mais expansion à contrôler.",
     "valeur": "La valeur économique d'E. globulus repose principalement sur la production d'huile essentielle, largement commercialisée sur les marchés internationaux pour l'industrie pharmaceutique, cosmétique et alimentaire. Au niveau local haïtien, la plante représente une ressource médicinale accessible et peu coûteuse pour les communautés rurales. Le potentiel de développement d'une filière locale de distillation d'huile essentielle pourrait constituer une opportunité économique intéressante pour la région."
   },
   "recherche": {
-    "nb_articles": "~5000 (estimation)",
     "details": "Avec environ 5000 publications scientifiques référencées, E. globulus figure parmi les plantes médicinales les mieux étudiées au monde. Les recherches actuelles s'orientent vers l'optimisation des extraits, l'étude des synergies entre composés, et l'évaluation de nouvelles applications thérapeutiques. Le développement de formulations standardisées et la validation d'usages traditionnels par des essais cliniques rigoureux constituent les principaux axes de recherche future. L'étude spécifique des écotypes haïtiens pourrait révéler des particularités phytochimiques intéressantes.",
+    "nb_articles": "",
     "lien_pubmed": "",
     "lien_scholar": "",
     "lien_tramil": ""
@@ -47,10 +47,10 @@
   "references": "Juergens UR et al. (2003). Anti-inflammatory activity of 1.8-cineol (eucalyptol) in bronchial asthma: a double-blind placebo-controlled trial. Respir Med. PMID: 14664277. Tyagi AK & Malik A. (2011). Antimicrobial potential and chemical composition of Eucalyptus globulus oil in liquid and vapour phase against food spoilage microorganisms. Food Chem. PMID: 21250553. Mulyaningsih S et al. (2010). Synergistic properties of the terpenoids aromadendrene and 1,8-cineole from the essential oil of Eucalyptus globulus against antibiotic-susceptible and antibiotic-resistant pathogens. Phytomedicine. PMID: 21069717. Worth H et al. (2009). Concomitant therapy with Cineole (Eucalyptol) reduces exacerbations in COPD: a placebo-controlled double-blind trial. Respir Res. PMID: 19144222. POWO (2024). Plants of the World Online. Kew Science. http://www.plantsoftheworldonline.org/ World Flora Online (2024). http://www.worldfloraonline.org/",
   "aRetenir": "🟡 À retenir — Ekaliptis : est une plante a toxicite conditionnelle documentee. Respecter imperativement les precautions indiquees. Ne jamais ingerer les parties toxiques sans encadrement medical. Ces informations sont destinees a l'enseignement et a la documentation. Les auteurs declinent toute responsabilite quant a un usage inapproprie.",
   "images": {
-    "principale": "images/532_Eucalyptus_globulus-001.jpg",
+    "principale": "/images/532_Eucalyptus_globulus-001.jpg",
     "galerie": [
-      "images/532_Eucalyptus_globulus-001.jpg"
+      "/images/532_Eucalyptus_globulus-001.jpg"
     ]
   },
-  "source": "plantes_full.json"
+  "source": "CSV corrigé 2026-04-11"
 }

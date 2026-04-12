@@ -1,7 +1,7 @@
 {
   "id_plante": "plt-3505",
   "code": "plt-3505",
-  "no_espece": "",
+  "no_espece": "35.5",
   "no_famille": "35",
   "famille": "Cucurbitacées",
   "description_famille": "",
@@ -20,17 +20,17 @@
   },
   "usages": {
     "usages_ethnobotaniques": "Dans le Sud et la Grand'Anse, le militon occupe une place particulière comme aliment-médicament. Le fruit immature constitue la partie principalement consommée, préparé par cuisson à l'eau ou intégré dans les ragoûts et bouillons traditionnels. Sa texture ferme résiste bien à la cuisson prolongée, en faisant un ingrédient apprécié des plats mijotés. Les jeunes feuilles sont occasionnellement utilisées en infusion, préparées fraîches ou séchées à l'ombre. Selon les données TRAMIL, l'usage contre l'hypertension est documenté en Haïti, où les feuilles sont principalement employées en décoction. La préparation traditionnelle consiste à faire bouillir les feuilles fraîches pendant 10 à 15 minutes, puis à consommer la décoction refroidie. Cette pratique s'inscrit dans une logique thérapeutique cohérente avec les propriétés diurétiques et antioxydantes de la plante.",
-    "systemes_concernes": "Cardiovasculaire"
+    "systemes_concernes": "Le militon cible préférentiellement le système cardiovasculaire et les fonctions rénales. Les usages documentés dans le Sud et la Grand'Anse concernent principalement l'hypertension artérielle légère à modérée, où la plante est appréciée pour ses effets diurétiques doux. Les mécanismes d'action reposent sur plusieurs composantes synergiques : l'effet diurétique direct lié à la haute teneur en eau et en potassium du fruit, l'action antioxydante des polyphénols qui pourrait protéger l'endothélium vasculaire, et une possible inhibition de l'enzyme de conversion de l'angiotensine démontrée in vitro sur des extraits de feuilles (Siciliano et al., 2004 — PMID:15588653). Des études chez l'animal ont confirmé l'activité hypotensive de S. edule, attribuée à ses flavonoïdes et à son profil minéral riche en potassium (Ordoñez et al., 2016 — doi:10.1016/j.jep.2016.03.038). Cependant, les mécanismes précis chez l'humain nécessitent encore des études cliniques contrôlées pour être pleinement validés."
   },
   "pharmacologie": {
     "molecules": "Le fruit de S. edule se caractérise par une composition nutritionnelle particulière qui explique sa valeur alimentaire et thérapeutique. Sa texture ferme résulte d'une structure cellulaire riche en fibres insolubles et en pectines, tandis que sa saveur douce et légèrement grasse provient de sa teneur modérée en acides aminés libres, notamment la tyrosine. Le fruit est exceptionnellement riche en eau (plus de 90%) et en potassium, conférant ses propriétés diurétiques naturelles documentées dans le Sud et la Grand'Anse. Sa couleur vert pâle révèle la présence de chlorophylle résiduelle et de faibles quantités de caroténoïdes, lui apportant une activité antioxydante modérée. Les principaux composés secondaires identifiés dans S. edule comprennent : des flavonoïdes (quercétine, kaempférol, rutine), des saponines triterpéniques, des coumarines, des tanins et des acides phénoliques (Vieira et al., 2019 — doi:10.1016/j.foodchem.2019.125081). Les feuilles concentrent davantage de ces métabolites que le fruit, expliquant leur usage médicinal plus marqué dans les préparations traditionnelles. Ces molécules remplissent des fonctions de protection essentielles pour la plante. Les flavonoïdes des feuilles protègent contre les rayonnements UV intenses des tropiques et exercent une action répulsive contre certains herbivores. Les saponines concentrées dans les tissus végétatifs découragent la consommation par les mammifères, tandis que les tanins protègent contre les pathogènes fongiques fréquents en climat humide. Ces mêmes composés, une fois ingérés par l'humain, produisent les effets biologiques documentés : action diurétique du potassium, effet antioxydant des polyphénols et possible inhibition de l'enzyme de conversion de l'angiotensine par les flavonoïdes, bien que ces mécanismes restent principalement démontrés in vitro (Gordon et al., 2000 — PMID:11112967).",
     "posologie": "L'usage alimentaire régulier de 100 à 200 g de fruit par jour est considéré comme sûr et bénéfique. Pour l'usage médicinal, les infusions de feuilles sont utilisées localement sans posologie standardisée publiée. Les pratiques traditionnelles documentées dans le Sud et la Grand'Anse suggèrent l'emploi d'une cuillère à soupe de feuilles fraîches pour une tasse d'eau bouillante, à consommer 2 à 3 fois par jour, mais ces recommandations empiriques nécessitent une validation clinique (données BRH). Aucune posologie cliniquement validée n'est disponible dans la littérature scientifique internationale pour les préparations médicinales de S. edule."
   },
   "nutrition": {
-    "introduction": "Sechium edule (Jacq.) (syn. Chayota edulis, Sicyos edulis) est une liane exotique cultivée dans les Départements du Sud et de la Grand'Anse, où elle fait l'objet d'une production rare mais appréciée. Elle appartient à la famille des Cucurbitacées, une famille tropicale dominée par les lianes et reconnue pour ses riches usages alimentaires et médicinaux. Au sein de cette famille, S. edule fait partie du genre Sechium, qui ne compte qu'une seule espèce largement cultivée. Le militon est à la fois un légume de subsistance et une plante médicinale traditionnellement utilisée contre l'hypertension, illustrant parfaitement la dualité alimentaire-thérapeutique caractéristique de nombreuses Cucurbitacées."
+    "valeur": "Le potentiel économique de S. edule reste sous-exploité dans les Départements du Sud et de la Grand'Anse. Le fruit présente d'excellentes qualités de conservation et de transport, ouvrant des perspectives pour l'exportation vers les communautés haïtiennes de la diaspora et les marchés régionaux des Caraïbes. Sa valeur nutritionnelle élevée et sa polyvalence culinaire en font un candidat intéressant pour le développement de filières agricoles durables, particulièrement dans le contexte de diversification des cultures vivrières recommandée pour les zones de montagne."
   },
   "toxicologie": {
-    "niveau": "",
+    "niveau": "🟡 Précautions requises",
     "details": "S. edule présente un excellent profil de sécurité en usage alimentaire normal. Les précautions concernent principalement les personnes souffrant d'insuffisance rénale sévère, chez qui l'apport important en potassium pourrait nécessiter un suivi médical. La surconsommation du fruit peut occasionner des troubles digestifs mineurs (ballonnements, diarrhée) en raison de sa richesse en fibres. Les données sur l'innocuité durant la grossesse et l'allaitement restent limitées, bien qu'aucune toxicité particulière ne soit rapportée dans les usages traditionnels. L'interaction avec les traitements antihypertenseurs mérite attention en cas d'usage médicinal intensif des feuilles."
   },
   "conservation": {
@@ -38,8 +38,8 @@
     "valeur": "Le potentiel économique de S. edule reste sous-exploité dans les Départements du Sud et de la Grand'Anse. Le fruit présente d'excellentes qualités de conservation et de transport, ouvrant des perspectives pour l'exportation vers les communautés haïtiennes de la diaspora et les marchés régionaux des Caraïbes. Sa valeur nutritionnelle élevée et sa polyvalence culinaire en font un candidat intéressant pour le développement de filières agricoles durables, particulièrement dans le contexte de diversification des cultures vivrières recommandée pour les zones de montagne."
   },
   "recherche": {
-    "nb_articles": "",
     "details": "Les recherches récentes sur S. edule s'orientent vers la caractérisation de ses propriétés fonctionnelles et nutraceutiques. Des études prometteuses explorent son potentiel dans la gestion du syndrome métabolique et des maladies cardiovasculaires (Maity et al., 2013 — PMID:23374048). L'identification de peptides bioactifs dans les protéines du fruit ouvre des perspectives pour le développement d'aliments fonctionnels. Pour Haïti, les priorités de recherche incluent l'évaluation clinique des usages traditionnels, l'amélioration des techniques de culture adaptées aux petites exploitations, et la caractérisation des variétés locales en vue de leur conservation et de leur valorisation.",
+    "nb_articles": "",
     "lien_pubmed": "",
     "lien_scholar": "",
     "lien_tramil": "https://www.tramil.net/en/plant/sechium-edule"
@@ -47,10 +47,10 @@
   "references": "Gordon, E.A. et al. (2000). Antihypertensive effects of the chayote on spontaneously hypertensive rats. Phytotherapy Research. PMID:11112967. Maity, P. et al. (2013). Chayote (Sechium edule): A wonderful vegetable with pharmaceutical importance. Journal of Pharmacognosy and Phytochemistry. PMID:23374048. Ordoñez, A.A.L. et al. (2016). The leaves of Sechium edule and their hypotensive activity. Journal of Ethnopharmacology. doi:10.1016/j.jep.2016.03.038. Siciliano, T. et al. (2004). Study of the hypotensive activity of Sechium edule (Jacq) Swartz in rats. Phytotherapy Research. PMID:15588653. Vieira, E.F. et al. (2019). Phenolic compounds profiling and bioactivity of chayote (Sechium edule) leaves. Food Chemistry. doi:10.1016/j.foodchem.2019.125081. POWO (2024). Plants of the World Online. Kew Science. https://powo.science.kew.org/ TRAMIL (2024). Traditional Medicine in the Islands. https://www.tramil.net/en/plant/sechium-edule",
   "aRetenir": "🟢 À retenir — Militon : est avant tout un aliment — sa valeur nutritionnelle prime sur ses usages medicinaux. Consommee correctement preparee, elle est sans danger documente. Ses proprietes therapeutiques, reelles mais secondaires, ne remplacent pas un suivi medical. Les auteurs declinent toute responsabilite quant a un usage inapproprie.",
   "images": {
-    "principale": "images/355_Sechium_edule-001.jpg",
+    "principale": "/images/355_Sechium_edule-001.jpg",
     "galerie": [
-      "images/355_Sechium_edule-001.jpg"
+      "/images/355_Sechium_edule-001.jpg"
     ]
   },
-  "source": "plantes_full.json"
+  "source": "CSV corrigé 2026-04-11"
 }

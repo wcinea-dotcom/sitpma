@@ -1,7 +1,7 @@
 {
   "id_plante": "plt-5901",
   "code": "plt-5901",
-  "no_espece": "",
+  "no_espece": "59.1",
   "no_famille": "59",
   "famille": "Papavéracées",
   "description_famille": "Dominant les régions arides et semi-arides du globe, les Papavéracées rassemblent environ 760 espèces réparties en 42 genres, principalement sous forme d'herbes annuelles ou vivaces, plus rarement d'arbustes comme Bocconia. Cette famille se distingue par la production de latex coloré — blanc, jaune ou rouge — riche en alcaloïdes isoquinoliniques aux propriétés pharmacologiques marquées. Parmi les genres alimentaires, citons Papaver (pavot) dont les graines sont consommées en pâtisserie. Les genres à vocation médicinale incluent Chelidonium (chélidoine) pour les affections cutanées, Sanguinaria pour ses propriétés antimicrobiennes, et Argemone largement utilisé en médecine traditionnelle caribéenne malgré sa toxicité. Sur le plan phytochimique, la famille exprime une signature dominée par la berbérine, la sanguinarine, la protopine et autres alcaloïdes benzylisoquinoliniques, ciblant préférentiellement les systèmes oculaire, cutané et digestif. Une vigilance absolue s'impose avec le genre Argemone : ses graines contiennent des alcaloïdes cardiotoxiques responsables d'épidémies d'œdèmes massifs lors de contaminations alimentaires documentées.",
@@ -20,17 +20,17 @@
   },
   "usages": {
     "usages_ethnobotaniques": "Dans les Départements du Sud et de la Grand'Anse, A. mexicana est connue sous le nom de \"Chadwon\" et utilisée principalement par application externe. Les praticiens traditionnels préparent un thé amer des feuilles contre la grippe, bien que cet usage internal reste préoccupant au regard de la toxicité de la plante. L'usage le plus documenté concerne le traitement des verrues par application directe du latex frais sur la lésion. Les racines sont parfois utilisées en décoction très diluée pour leurs propriétés supposées hypotensives, mais cette pratique est déconseillée. Au niveau international, la plante est traditionnellement employée au Mexique pour diverses affections cutanées, confirmant son tropisme tégumentaire.",
-    "systemes_concernes": "Digestif, Oculaire"
+    "systemes_concernes": "A. mexicana cible préférentiellement les systèmes oculaire, cutané et digestif. Les mécanismes d'action reposent sur les propriétés des alcaloïdes isoquinoliniques qui perturbent l'endothélium vasculaire et les membranes érythrocytaires. La sanguinarine exerce ses effets antimicrobiens par interaction avec les membranes cellulaires bactériennes et fongiques, tandis que la berbérine présente des propriétés hypoglycémiantes et hypocholestérolémiantes documentées. Cependant, ces mêmes alcaloïdes induisent une cardiotoxicité par perturbation des canaux ioniques cardiaques et une hépatotoxicité par stress oxydatif cellulaire (Kosina et al., 2004 — PMID: 15070169)."
   },
   "pharmacologie": {
     "molecules": "Le latex jaune-orange d'A. mexicana concentre des alcaloïdes isoquinoliniques responsables à la fois de sa saveur amère caractéristique et de sa toxicité. Ces composés, principalement la sanguinarine et la berbérine, confèrent au latex ses propriétés antimicrobiennes défensives tout en créant une barrière chimique dissuasive contre les herbivores. Les graines accumulent également des concentrations élevées de ces alcaloïdes, ainsi qu'une huile grasse qui peut se contaminer lors du pressage industriel. Les principaux composés secondaires identifiés dans A. mexicana comprennent : des alcaloïdes isoquinoliniques (sanguinarine, dihydrosanguinarine, berbérine, protopine, allocryptopine), des flavonoïdes (quercétine, kaempférol), des saponines triterpéniques, des tanins condensés et des terpénoïdes volatils (Brahmachari et al., 2013 — PMID: 24199742). Ces molécules remplissent des fonctions de défense sophistiquées pour la plante. La sanguinarine, alcaloïde benzophénanthridinique majeur, perturbe l'intégrité des membranes cellulaires des pathogènes et exerce une activité fongicide et bactéricide protégeant la plante des infections. La berbérine contribue à l'activité antimicrobienne tout en conférant la coloration jaune du latex. Ces mêmes composés, une fois ingérés par l'humain, produisent les effets biologiques documentés : activité antimicrobienne, effets hypotenseurs et antispasmodiques, mais également une toxicité cardiovasculaire et hépatique préoccupante (Singh et al., 2010 — PMID: 20645778).",
     "posologie": "Aucune posologie cliniquement validée n'est disponible pour A. mexicana en usage interne. Les décoctions traditionnelles faibles de feuilles ou racines existent dans la pharmacopée populaire, mais leur usage est fortement déconseillé en raison du risque d'intoxication. Pour l'usage externe (verrues), l'application ponctuelle de latex frais reste la seule modalité documentée, avec prudence et sur de petites surfaces uniquement."
   },
   "nutrition": {
-    "introduction": "Argemone mexicana L. (syn. Argemone spinosa) est une herbe annuelle native commune des régions sèches d'Haïti, largement répandue dans les Départements du Sud et de la Grand'Anse. Elle appartient à la famille des Papavéracées, reconnue pour ses latex colorés riches en alcaloïdes aux propriétés pharmacologiques puissantes. Au sein de cette famille, elle fait partie du genre Argemone, qui regroupe une trentaine d'espèces d'herbes épineuses des régions chaudes, toutes caractérisées par leur latex jaune-orange et leurs alcaloïdes isoquinoliniques. Malgré son usage médicinal traditionnel documenté contre la grippe et les affections cutanées, A. mexicana présente une toxicité significative qui limite considérablement ses applications thérapeutiques modernes."
+    "valeur": "La valeur économique d'A. mexicana reste limitée en raison de sa toxicité. Localement, elle ne génère aucun revenu significatif, son usage se limitant à la pharmacopée traditionnelle domestique. Au niveau international, certains composés isolés comme la berbérine font l'objet de recherches pharmaceutiques, mais l'espèce elle-même n'est pas cultivée commercialement pour cette fin."
   },
   "toxicologie": {
-    "niveau": "toxic",
+    "niveau": "🟡 Précautions requises",
     "details": "A. mexicana présente une toxicité significative nécessitant des précautions strictes. Les graines et l'huile contaminée peuvent provoquer des œdèmes massifs, une insuffisance cardiaque et une hépatotoxicité sévère, comme documenté lors d'épidémies liées à la contamination d'huiles alimentaires par des graines d'Argemone. La plante est contre-indiquée en usage interne, particulièrement chez les enfants et femmes enceintes. L'usage externe doit se limiter à de petites surfaces et éviter les muqueuses. Cette espèce doit être classée \"haut risque\" et son usage thérapeutique nécessite une supervision médicale."
   },
   "conservation": {
@@ -38,8 +38,8 @@
     "valeur": "La valeur économique d'A. mexicana reste limitée en raison de sa toxicité. Localement, elle ne génère aucun revenu significatif, son usage se limitant à la pharmacopée traditionnelle domestique. Au niveau international, certains composés isolés comme la berbérine font l'objet de recherches pharmaceutiques, mais l'espèce elle-même n'est pas cultivée commercialement pour cette fin."
   },
   "recherche": {
-    "nb_articles": "~1000 (estimation)",
     "details": "A. mexicana fait l'objet de nombreuses publications scientifiques (environ 1000 références indexées) portant principalement sur sa composition chimique et sa toxicologie. Les recherches actuelles s'orientent vers l'isolement et la purification de ses alcaloïdes pour des applications pharmaceutiques contrôlées, ainsi que sur le développement de méthodes de détoxification pour prévenir les contaminations alimentaires. L'évaluation de son potentiel antimicrobien contre des souches multirésistantes constitue également un axe de recherche prometteur.",
+    "nb_articles": "",
     "lien_pubmed": "",
     "lien_scholar": "",
     "lien_tramil": ""
@@ -47,12 +47,12 @@
   "references": "Brahmachari, G. et al. (2013). Argemone mexicana: chemical and pharmacological aspects. Revista Brasileira de Farmacognosia 23(4): 559-567. PMID: 24199742. Kosina, P. et al. (2004). Interaction of isoquinoline alkaloids with human liver microsomal cytochromes P450. Mutation Research 567(2-3): 123-132. PMID: 15070169. Singh, B. et al. (2010). A review on Argemone mexicana Linn - An Indian medicinal plant. Oriental Pharmacy and Experimental Medicine 10(1): 1-15. PMID: 20645778.",
   "aRetenir": "🟠 À retenir — Chadwon : est une plante a toxicite documentee. Tout usage interne non encadre est formellement deconseille. En cas d'ingestion accidentelle, consulter immediatement un service d'urgence. Ces informations sont destinees a l'enseignement et a la recherche uniquement. Les auteurs declinent toute responsabilite quant a un usage inapproprie.",
   "images": {
-    "principale": "images/581_Argemone_mexicana-001.jpg",
+    "principale": "/images/581_Argemone_mexicana-001.jpg",
     "galerie": [
-      "images/581_Argemone_mexicana-001.jpg",
-      "images/581_Argemone_mexicana-002.jpg",
-      "images/581_Argemone_mexicana-003.jpg"
+      "/images/581_Argemone_mexicana-001.jpg",
+      "/images/581_Argemone_mexicana-002.jpg",
+      "/images/581_Argemone_mexicana-003.jpg"
     ]
   },
-  "source": "plantes_full.json"
+  "source": "CSV corrigé 2026-04-11"
 }

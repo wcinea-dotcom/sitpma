@@ -1,7 +1,7 @@
 {
   "id_plante": "plt-0906",
   "code": "plt-0906",
-  "no_espece": "",
+  "no_espece": "9.6",
   "no_famille": "9",
   "famille": "Apocynacées",
   "description_famille": "",
@@ -20,17 +20,17 @@
   },
   "usages": {
     "usages_ethnobotaniques": "Dans les Départements du Sud et de la Grand'Anse, T. citrifolia est traditionnellement employée pour ses propriétés analgésiques, anti-inflammatoires, antidiarrhéiques et hypotenseuses. Les feuilles et les racines constituent les parties végétales privilégiées par les praticiens locaux. Le mode de préparation principal consiste en l'application de cataplasmes de feuilles fraîches broyées directement sur les zones douloureuses ou inflammées. Cette méthode d'utilisation externe permet de bénéficier des propriétés thérapeutiques tout en limitant les risques de surdosage systémique. Les usages documentés dans la région TRAMIL indiquent également des applications ophtalmiques en Martinique, bien que cette utilisation présente des risques particuliers compte tenu de la sensibilité oculaire aux alcaloïdes. Au Brésil, des préparations similaires sont rapportées pour leurs effets analgésiques locaux.",
-    "systemes_concernes": ""
+    "systemes_concernes": "L'usage thérapeutique de T. citrifolia cible principalement le système musculo-squelettique, avec des applications documentées dans le traitement symptomatique des douleurs localisées. Les alcaloïdes indoliques présents dans la plante, notamment l'ibojaïne et la voacangine, moduleraient la transmission nociceptive et exerceraient des effets sur la pression artérielle dans des modèles animaux expérimentaux. Cependant, les mécanismes moléculaires précis — incluant l'identification des récepteurs, enzymes ou canaux ioniques impliqués — demeurent mal définis pour cette espèce particulière. Les effets anti-inflammatoires observés pourraient résulter de l'action synergique des flavonoïdes et des saponines sur les médiateurs de l'inflammation locale, bien que ces hypothèses nécessitent une validation expérimentale rigoureuse."
   },
   "pharmacologie": {
     "molecules": "Tabernaemontana citrifolia tire ses qualités de la production d'un latex blanc particulièrement riche en alcaloïdes indoliques bioactifs. Cette caractéristique, commune au genre Tabernaemontana, confère à l'arbre une protection efficace contre les herbivores tout en déterminant son potentiel thérapeutique. Le goût amer marqué des feuilles et de l'écorce résulte directement de cette concentration en alcaloïdes, principalement l'ibojaïne, la voacangine et la coronaridine. Ces composés azotés complexes, biosynthétisés à partir du tryptophane, s'accumulent préférentiellement dans le latex et les tissus corticaux. Sur le plan nutritionnel, l'arbre présente un profil standard en macronutriments végétaux (glucides structuraux, fibres, protéines, lipides), avec des concentrations probables en minéraux essentiels (potassium, calcium, magnésium, fer, zinc), bien que ces derniers n'aient pas fait l'objet d'analyses détaillées publiées. Les principaux composés secondaires identifiés dans T. citrifolia comprennent : des alcaloïdes indoliques majeurs (ibojaïne, voacangine, coronaridine), des flavonoïdes aux propriétés antioxydantes, des saponines à activité détergente et hémolytique, des tanins à effet astringent et antimicrobien, ainsi que des terpénoïdes volatils responsables du parfum floral (pharmacia.pensoft). Ces molécules présentent des activités biologiques complémentaires : les alcaloïdes indoliques modulent les systèmes nerveux et cardiovasculaire, les flavonoïdes protègent contre le stress oxydatif, et les saponines exercent des effets anti-inflammatoires locaux. Ces composés remplissent des fonctions de défense précises pour l'arbre. Le latex alcaloïdique constitue une barrière chimique immédiate contre les insectes phytophages et les mammifères herbivores. Les tanins dans l'écorce et les feuilles protègent contre les pathogènes fongiques et bactériens. Les terpénoïdes floraux attirent les pollinisateurs spécialisés. Ces mêmes composés, une fois appliqués sur l'organisme humain, produiraient les effets analgésiques et anti-inflammatoires documentés dans les usages traditionnels, bien que les mécanismes précis de modulation de la nociception restent à élucider par des études cliniques contrôlées.",
     "posologie": "Aucune posologie cliniquement validée n'est disponible pour Tabernaemontana citrifolia dans la littérature médicale internationale. Les références ethnobotaniques mentionnent l'utilisation d'infusions ou décoctions préparées à raison de 2-5 g de matériel végétal par litre d'eau, administrées 1 à 2 fois par jour en usage traditionnel, mais ces indications ne reposent sur aucune standardisation pharmacologique ni essai clinique contrôlé. L'absence de données posologiques précises constitue une limitation majeure pour l'utilisation thérapeutique sécurisée de cette espèce."
   },
   "nutrition": {
-    "introduction": "Tabernaemontana citrifolia L. (syn. Tabernaemontana alba) est un arbre natif des Caraïbes, documenté dans les Départements du Sud et de la Grand'Anse d'Haïti. Il appartient à la famille des Apocynacées, une famille tropicale remarquable par sa richesse en alcaloïdes puissants et ses applications thérapeutiques diverses, mais aussi par ses risques toxicologiques importants. Cette famille renferme des espèces aux propriétés cardiovasculaires notables — certaines utilisées en cardiologie moderne — mais également des plantes mortellement toxiques comme le laurier-rose (Nerium oleander). Au sein de cette famille, Tabernaemontana citrifolia fait partie du genre Tabernaemontana, un groupe d'arbres tropicaux caractérisés par leur latex abondant et leurs alcaloïdes indoliques à fort potentiel pharmacologique. L'espèce est principalement utilisée en médecine traditionnelle locale pour ses propriétés analgésiques et anti-inflammatoires, appliquée par voie externe sous forme de cataplasmes."
+    "valeur": "La valeur économique de T. citrifolia reste principalement locale et liée aux usages médicinaux traditionnels dans les Départements du Sud et de la Grand'Anse. Sur le plan international, l'espèce suscite un intérêt croissant en recherche pharmacologique, notamment pour l'étude de ses alcaloïdes indoliques et de leur potentiel thérapeutique. Cette attention scientifique pourrait générer des opportunités de valorisation future, sous réserve de développements technologiques appropriés et de cadres réglementaires adaptés."
   },
   "toxicologie": {
-    "niveau": "toxic",
+    "niveau": "🟡 Précautions requises",
     "details": "Tabernaemontana citrifolia présente un niveau de toxicité modéré à élevé, caractéristique de nombreuses Apocynacées riches en alcaloïdes. Une prudence particulière s'impose chez les femmes enceintes et allaitantes, ainsi que chez les patients présentant des pathologies cardio-neurologiques préexistantes. Le risque de surdosage existe, pouvant entraîner une neurotoxicité et une cardiotoxicité similaires à celles observées avec d'autres membres de la famille. Le latex peut provoquer des irritations cutanées et muqueuses chez les individus sensibles. L'usage interne prolongé est déconseillé sans supervision médicale qualifiée."
   },
   "conservation": {
@@ -38,8 +38,8 @@
     "valeur": "La valeur économique de T. citrifolia reste principalement locale et liée aux usages médicinaux traditionnels dans les Départements du Sud et de la Grand'Anse. Sur le plan international, l'espèce suscite un intérêt croissant en recherche pharmacologique, notamment pour l'étude de ses alcaloïdes indoliques et de leur potentiel thérapeutique. Cette attention scientifique pourrait générer des opportunités de valorisation future, sous réserve de développements technologiques appropriés et de cadres réglementaires adaptés."
   },
   "recherche": {
-    "nb_articles": "",
     "details": "Environ une centaine d'articles scientifiques référencent Tabernaemontana citrifolia dans la littérature internationale, témoignant d'un intérêt de recherche soutenu. Les perspectives d'étude incluent la caractérisation détaillée du profil alcaloïdique, l'évaluation pharmacologique contrôlée des extraits standardisés, et l'élucidation des mécanismes d'action au niveau moléculaire. Des essais cliniques préliminaires seraient nécessaires pour valider les usages traditionnels et établir des protocoles thérapeutiques sécurisés. La recherche en biotechnologie végétale pourrait également explorer les voies de biosynthèse des alcaloïdes indoliques en vue d'applications pharmaceutiques futures.",
+    "nb_articles": "",
     "lien_pubmed": "https://pubmed.ncbi.nlm.nih.gov/?term=Tabernaemontana+citrifolia",
     "lien_scholar": "",
     "lien_tramil": "https://www.tramil.net/en/plant/tabernaemontana-citrifolia"
@@ -47,11 +47,11 @@
   "references": "Pharmacia Pensoft. Tabernaemontana citrifolia: Traditional uses and phytochemical composition. https://pharmacia.pensoft.net PubMed Database. Tabernaemontana citrifolia - Biomedical Literature. https://pubmed.ncbi.nlm.nih.gov/?term=Tabernaemontana+citrifolia TRAMIL Network. Tabernaemontana citrifolia - Caribbean Traditional Medicine. https://www.tramil.net/en/plant/tabernaemontana-citrifolia POWO (2024). Plants of the World Online. Kew Science. https://powo.science.kew.org/",
   "aRetenir": "🟠 À retenir — Bwa lèt : est une plante a toxicite documentee. Tout usage interne non encadre est formellement deconseille. En cas d'ingestion accidentelle, consulter immediatement un service d'urgence. Ces informations sont destinees a l'enseignement et a la recherche uniquement. Les auteurs declinent toute responsabilite quant a un usage inapproprie.",
   "images": {
-    "principale": "images/96_Tabernaemontana_citrifolia-001.jpg",
+    "principale": "/images/96_Tabernaemontana_citrifolia-001.jpg",
     "galerie": [
-      "images/96_Tabernaemontana_citrifolia-001.jpg",
-      "images/96_Tabernaemontana_citrifolia-002.jpg"
+      "/images/96_Tabernaemontana_citrifolia-001.jpg",
+      "/images/96_Tabernaemontana_citrifolia-002.jpg"
     ]
   },
-  "source": "plantes_full.json"
+  "source": "CSV corrigé 2026-04-11"
 }

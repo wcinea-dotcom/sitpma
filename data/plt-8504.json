@@ -1,7 +1,7 @@
 {
   "id_plante": "plt-8504",
   "code": "plt-8504",
-  "no_espece": "",
+  "no_espece": "85.4",
   "no_famille": "85",
   "famille": "Solanacées",
   "description_famille": "",
@@ -20,17 +20,17 @@
   },
   "usages": {
     "usages_ethnobotaniques": "L'usage documenté dans le Sud et la Grand'Anse concerne principalement les feuilles, préparées sous forme de cigares artisanaux pour des pratiques rituelles et spirituelles. Les applications thérapeutiques traditionnelles incluent des usages externes contre la sinusite, par inhalation de fumées ou application de décoctions diluées. Dans certains contextes rituels, le tabac sert de stimulant nerveux ou de sédatif selon les doses employées. Les propriétés insecticides de la plante sont également exploitées : des décoctions de feuilles servent à protéger d'autres cultures contre les ravageurs. L'usage TRAMIL pour Haïti confirme l'application traditionnelle contre la sinusite, bien que cette pratique nécessite des précautions strictes en raison de la toxicité de la plante.",
-    "systemes_concernes": "Respiratoire, Nerveux"
+    "systemes_concernes": "Le tabac cible principalement le système nerveux central et périphérique par l'action de la nicotine sur les récepteurs nicotiniques de l'acétylcholine. À faible dose, la nicotine produit une stimulation avec augmentation de la vigilance, de la concentration et libération de dopamine dans les circuits de récompense cérébrale — mécanisme à l'origine de la dépendance (Dani & Heinemann, 1996 — PMID: 8871628). À dose plus élevée, elle entraîne une dépression du système nerveux avec sédation, nausées, vomissements et risque de paralysie respiratoire. L'usage externe peut provoquer une absorption transcutanée significative de nicotine, particulièrement sur peau lésée. Les mécanismes d'action des autres alcaloïdes présents restent moins documentés mais contribuent probablement aux effets neurotoxiques globaux de la plante."
   },
   "pharmacologie": {
     "molecules": "Le tabac révèle une sa production exceptionnellement élevée de nicotine, un alcaloïde tropanique qui peut représenter jusqu'à 3-5% du poids sec des feuilles matures. Cette concentration remarquable s'explique par le rôle défensif de la nicotine : elle constitue un pesticide naturel extrêmement efficace contre la plupart des insectes herbivores, paralysant leur système nerveux à de très faibles doses. La plante synthétise également d'autres alcaloïdes apparentés comme l'anatabine et la nornicotine, qui renforcent cet arsenal chimique défensif (Saitoh et al., 1985 — PMID: 4035240). Les principaux composés secondaires identifiés dans N. tabacum comprennent : des alcaloïdes tropaniques dominés par la nicotine (1-5% des feuilles sèches), l'anatabine, la nornicotine et l'anabasine, des diterpènes comme le solanésol, des flavonoïdes incluant la rutine, la quercétine et le kaempférol, des acides phénoliques, des saponines, et des tanins (Rodgman & Perfetti, 2013). La biosynthèse de la nicotine se concentre dans les racines puis migre vers les feuilles par voie vasculaire, expliquant sa distribution hétérogène dans la plante. Ces molécules remplissent des fonctions de protection multiples pour la plante. La nicotine agit comme un neurotoxique puissant contre les insectes, bloquant les récepteurs nicotiniques de l'acétylcholine et provoquant paralysie puis mort des herbivores. Les diterpènes contribuent à l'imperméabilisation des tissus et à la résistance aux pathogènes. Les flavonoïdes offrent une protection contre les rayonnements UV et le stress oxydatif. Ces mêmes composés, une fois inhalés ou ingérés par l'humain, produisent les effets biologiques documentés : stimulation du système nerveux central, augmentation de la fréquence cardiaque et de la pression artérielle, puis développement d'une dépendance physique et psychologique majeure (Benowitz, 2010 — PMID: 20414766).",
     "posologie": "Aucune posologie cliniquement validée n'est disponible pour Nicotiana tabacum en usage thérapeutique. Les quelques études ethnopharmacologiques mentionnent des décoctions de feuilles à 5-10 g/L exclusivement pour usage externe comme insecticide ou antiseptique sur plaies superficielles, mais sans validation scientifique (Duke et al., 2002). Médicalement, aucun usage interne n'est recommandé en raison du risque toxicologique majeur. Les pratiques traditionnelles documentées localement ne sont pas standardisées et présentent des risques significatifs d'intoxication."
   },
   "nutrition": {
-    "introduction": "Nicotiana tabacum L. (syn. Nicotiana macrophylla) est une herbe exotique cultivée dans les Départements du Sud et de la Grand'Anse d'Haïti. Elle appartient à la famille des Solanacées, une famille végétale d'une remarquable diversité thérapeutique et alimentaire, regroupant aussi bien des légumes essentiels comme la tomate et l'aubergine que des plantes aux alcaloïdes les plus puissants connus. Au sein de cette famille, le genre Nicotiana occupe une place particulière par sa richesse en nicotine, alcaloïde tropanique aux effets neurotropes intenses. Cette plante représente un cas emblématique des paradoxes de l'ethnobotanique : traditionnellement utilisée comme médicament dans de nombreuses cultures, elle constitue aujourd'hui l'une des substances les plus addictogènes et dangereuses pour la santé humaine. Son usage documenté dans le Sud et la Grand'Anse relève principalement du domaine rituel et de certaines applications thérapeutiques externes, nécessitant une extrême prudence."
+    "valeur": "Sur le plan international, N. tabacum représente l'une des cultures les plus lucratives au monde malgré sa dangerosité, générant plusieurs centaines de milliards de dollars annuellement. En Haïti, sa valeur économique reste marginale, limitée aux usages rituels locaux. Son potentiel comme source de nicotine pour les thérapies de sevrage tabagique ou comme insecticide biologique pourrait présenter un intérêt commercial futur, sous contrôle strict."
   },
   "toxicologie": {
-    "niveau": "toxic",
+    "niveau": "🔴 Toxique",
     "details": "Le tabac présente une toxicité très élevée par tous les modes d'administration. La nicotine est mortelle à partir de 40-60 mg chez l'adulte, soit l'équivalent de quelques feuilles fraîches ingérées (Mayer, 2014 — PMID: 24958018). L'usage chronique par inhalation provoque cancer pulmonaire, maladies cardiovasculaires et bronchopneumopathie chronique obstructive. La dépendance physique et psychologique s'installe en quelques semaines d'usage régulier. Même les applications externes présentent des risques d'absorption transcutanée pouvant entraîner intoxication aiguë. Les femmes enceintes et allaitantes, les enfants, les personnes âgées et les patients cardiaques doivent éviter tout contact avec cette plante. L'usage interne est formellement contre-indiqué."
   },
   "conservation": {
@@ -38,8 +38,8 @@
     "valeur": "Sur le plan international, N. tabacum représente l'une des cultures les plus lucratives au monde malgré sa dangerosité, générant plusieurs centaines de milliards de dollars annuellement. En Haïti, sa valeur économique reste marginale, limitée aux usages rituels locaux. Son potentiel comme source de nicotine pour les thérapies de sevrage tabagique ou comme insecticide biologique pourrait présenter un intérêt commercial futur, sous contrôle strict."
   },
   "recherche": {
-    "nb_articles": "",
     "details": "Les recherches actuelles sur N. tabacum se concentrent principalement sur la réduction de sa toxicité et le développement d'alternatives moins dangereuses à la cigarette. Des études explorent l'utilisation de la nicotine purifiée dans le traitement de certaines pathologies neurodégénératives comme Parkinson et Alzheimer, où ses effets neuroprotecteurs pourraient être bénéfiques (Quik et al., 2012 — PMID: 22232591). L'ingénierie génétique permet d'envisager des variétés à teneur réduite en nicotine ou enrichies en composés thérapeutiques alternatifs.",
+    "nb_articles": "",
     "lien_pubmed": "",
     "lien_scholar": "",
     "lien_tramil": ""
@@ -47,11 +47,11 @@
   "references": "Benowitz, N.L. (2010). Nicotine addiction. New England Journal of Medicine. PMID: 20414766 Dani, J.A. & Heinemann, S. (1996). Molecular and cellular aspects of nicotine abuse. Neuron. PMID: 8871628 Duke, J.A. et al. (2002). Handbook of medicinal herbs. CRC Press. Mayer, B. (2014). How much nicotine kills a human? Archives of Toxicology. PMID: 24958018 Quik, M. et al. (2012). Nicotine as a potential neuroprotective agent for Parkinson's disease. Movement Disorders. PMID: 22232591 Rodgman, A. & Perfetti, T.A. (2013). The Chemical Components of Tobacco and Tobacco Smoke. CRC Press. Saitoh, F. et al. (1985). Alkaloid production in cultured Nicotiana tabacum cells. Phytochemistry. PMID: 4035240 TRAMIL (2024). Nicotiana tabacum. www.tramil.net",
   "aRetenir": "🟠 À retenir — Tabak : est une plante a toxicite documentee. Tout usage interne non encadre est formellement deconseille. En cas d'ingestion accidentelle, consulter immediatement un service d'urgence. Ces informations sont destinees a l'enseignement et a la recherche uniquement. Les auteurs declinent toute responsabilite quant a un usage inapproprie.",
   "images": {
-    "principale": "images/844_Nicotiana_tabacum-001.jpg",
+    "principale": "/images/844_Nicotiana_tabacum-001.jpg",
     "galerie": [
-      "images/844_Nicotiana_tabacum-001.jpg",
-      "images/844_Nicotiana_tabacum-002.jpg"
+      "/images/844_Nicotiana_tabacum-001.jpg",
+      "/images/844_Nicotiana_tabacum-002.jpg"
     ]
   },
-  "source": "plantes_full.json"
+  "source": "CSV corrigé 2026-04-11"
 }

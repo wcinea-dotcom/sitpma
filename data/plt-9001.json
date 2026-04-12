@@ -1,7 +1,7 @@
 {
   "id_plante": "plt-9001",
   "code": "plt-9001",
-  "no_espece": "",
+  "no_espece": "90.1",
   "no_famille": "90",
   "famille": "Zygophyllacées",
   "description_famille": "Dominant les formations xérophytes tropicales, les Zygophyllacées rassemblent environ 285 espèces réparties en 22 genres, principalement sous forme d'arbres et d'arbustes adaptés aux climats arides. Cette famille se distingue par ses bois extrêmement durs et durables, dont certains — comme le gaïac (Guaiacum) — comptent parmi les plus précieux au monde pour leurs propriétés mécaniques exceptionnelles. Sur le plan médicinal, les Zygophyllacées constituent une ressource thérapeutique majeure, particulièrement reconnue pour le traitement des affections musculo-squelettiques et inflammatoires. La signature phytochimique familiale se caractérise par une forte concentration en lignanes guaiacoliques, en saponines triterpéniques, en résines complexes et en flavonoïdes, conférant à ces plantes leurs propriétés anti-inflammatoires et diurétiques documentées. Ces composés ciblent préférentiellement le système musculo-squelettique, expliquant l'usage traditionnel étendu contre les rhumatismes et l'arthrite. Il convient de noter qu'une vigilance particulière s'impose avec certaines espèces de cette famille, dont les principes actifs puissants exigent un dosage strict et une préparation adéquate pour éviter les effets indésirables.",
@@ -20,17 +20,17 @@
   },
   "usages": {
     "usages_ethnobotaniques": "Le gaïac occupe une place centrale dans les pratiques thérapeutiques traditionnelles des Départements du Sud et de la Grand'Anse, documenté principalement comme anti-inflammatoire, antirhumatismal, diurétique et tonique. Les préparations se font essentiellement par décoction de l'écorce et des racines, ces parties concentrant les principes actifs solubles. Le bois, bien que moins utilisé en médecine locale, constitue historiquement la partie la plus précieuse sur le plan économique. Les praticiens traditionnels préparent des décoctions concentrées pour le traitement des douleurs articulaires, des inflammations chroniques et comme dépuratif général. L'usage du bois en construction navale et pour les ouvrages hydrauliques exploite ses propriétés d'imperméabilité et de résistance aux agents biologiques.",
-    "systemes_concernes": ""
+    "systemes_concernes": "Le gaïac cible préférentiellement le système musculo-squelettique, où il trouve ses applications les plus documentées contre les rhumatismes et l'arthrite. Les lignanes et triterpènes inhibent les voies inflammatoires COX et NO, réduisant la production de médiateurs pro-inflammatoires. Les saponines exercent un effet diurétique qui favorise l'élimination des toxines et des déchets métaboliques impliqués dans les processus inflammatoires chroniques. Les coumarines présentes dans l'écorce peuvent contribuer aux effets vasculaires et à l'amélioration de la circulation périphérique. Ces mécanismes convergent vers une action anti-inflammatoire systémique particulièrement adaptée aux affections rhumatismales chroniques."
   },
   "pharmacologie": {
     "molecules": "Guaiacum officinale se caractérise par la production de lignanes guaiacoliques uniques, responsables de la couleur brun-vert caractéristique du bois et de sa résistance exceptionnelle aux agents de dégradation. Ces composés — principalement l'acide guaïarétique et ses dérivés — s'accumulent massivement dans le duramen et constituent jusqu'à 20-25% du poids sec du bois mature. Le guaïacol, molécule signature de l'espèce, confère au bois son odeur résineuse distinctive et ses propriétés antimicrobiennes naturelles. Ces substances expliquent la durabilité légendaire du bois de gaïac, utilisé historiquement pour les roulements de navires et les pièces mécaniques soumises à l'usure. Les principaux composés secondaires identifiés dans G. officinale comprennent : des lignanes guaiacoliques (acide guaïarétique, guaïacine, guaïarésine), des saponines triterpéniques, des flavonoïdes (quercétine, kaempférol), des coumarines, des triterpènes et des résines complexes (Lans, 2006 — doi: 10.1016/j.jep.2005.09.005). Des études récentes ont confirmé la présence de composés phénoliques bioactifs dans l'écorce et les racines (Piacente et al., 2004 — PMID: 15025864). Ces molécules remplissent des fonctions de défense spécialisées pour l'arbre. Les lignanes guaiacoliques protègent le bois contre les champignons lignivores et les insectes xylophages dans les environnements humides. Les saponines triterpéniques dans l'écorce et les racines découragent l'herbivorie par leur amertume et leurs effets irritants. Ces mêmes composés, une fois utilisés par l'humain, produisent les effets biologiques documentés : les lignanes exercent une activité anti-inflammatoire par inhibition des voies COX et NO, tandis que les saponines stimulent la diurèse tout en présentant des propriétés détoxifiantes.",
     "posologie": "Les pharmacopées anciennes mentionnent une posologie de décoction à raison de 10-20 g d'écorce ou de racines par litre d'eau, à prendre 1-2 fois par jour. Cependant, aucune posologie cliniquement validée par des essais modernes n'est disponible pour G. officinale. Les pratiques traditionnelles documentées localement ne sont pas standardisées et varient selon les praticiens. La rareté croissante de l'espèce limite aujourd'hui son usage thérapeutique au profit d'alternatives plus disponibles."
   },
   "nutrition": {
-    "introduction": "Guaiacum officinale L. (syn. Guaiacum bijugum) est un arbre natif documenté dans les Départements du Sud et de la Grand'Anse. Il appartient à la famille des Zygophyllacées, reconnue pour ses bois exceptionnellement durs et ses propriétés médicinales anti-inflammatoires. Au sein de cette famille, il fait partie du genre Guaiacum, qui regroupe les essences ligneuses les plus précieuses des Caraïbes. Son usage principal concerne la construction — où il constitue un bois d'œuvre de première qualité — ainsi que la médecine traditionnelle, particulièrement pour le traitement des affections rhumatismales et inflammatoires."
+    "valeur": "Le bois de gaïac constitue historiquement l'un des matériaux les plus précieux des Caraïbes, recherché pour sa densité exceptionnelle et sa résistance à l'usure. Il était utilisé pour les roulements de navires, les pièces mécaniques de précision et les ouvrages hydrauliques. Sa valeur sur le marché international peut atteindre plusieurs milliers de dollars par mètre cube pour les pièces de qualité. Cependant, l'exploitation commerciale est aujourd'hui strictement réglementée par la CITES en raison du statut de conservation critique de l'espèce."
   },
   "toxicologie": {
-    "niveau": "",
+    "niveau": "🟢 Non toxique aux doses usuelles",
     "details": "G. officinale présente un profil de sécurité favorable aux doses médicinales traditionnelles. Cependant, des précautions s'imposent : risque d'hypotension par effet diurétique marqué, possibilité de diarrhée et d'irritation digestive par les saponines à doses élevées. Une hépatotoxicité potentielle a été signalée lors d'usage prolongé à fortes doses. La prudence est recommandée chez les personnes souffrant d'insuffisance rénale, d'hypotension et durant la grossesse. L'espèce doit être considérée plutôt comme un remède historique que comme un traitement de première intention aujourd'hui."
   },
   "conservation": {
@@ -38,8 +38,8 @@
     "valeur": "Le bois de gaïac constitue historiquement l'un des matériaux les plus précieux des Caraïbes, recherché pour sa densité exceptionnelle et sa résistance à l'usure. Il était utilisé pour les roulements de navires, les pièces mécaniques de précision et les ouvrages hydrauliques. Sa valeur sur le marché international peut atteindre plusieurs milliers de dollars par mètre cube pour les pièces de qualité. Cependant, l'exploitation commerciale est aujourd'hui strictement réglementée par la CITES en raison du statut de conservation critique de l'espèce."
   },
   "recherche": {
-    "nb_articles": "",
     "details": "Les recherches récentes sur G. officinale se concentrent sur la caractérisation de ses lignanes bioactives et leur potentiel anti-inflammatoire. Des études in vitro confirment l'activité des extraits contre les médiateurs inflammatoires, mais les essais cliniques humains font défaut. Les perspectives incluent le développement de méthodes de multiplication pour la conservation, l'optimisation des extractions de composés bioactifs et l'évaluation de préparations standardisées. La recherche en biotechnologie végétale pourrait permettre la production de lignanes guaiacoliques par culture de cellules, offrant une alternative durable à l'exploitation de l'arbre.",
+    "nb_articles": "",
     "lien_pubmed": "",
     "lien_scholar": "",
     "lien_tramil": ""
@@ -47,11 +47,11 @@
   "references": "Lans, C.A. (2006). Ethnomedicines used in Trinidad and Tobago for urinary problems and diabetes mellitus. Journal of Ethnobiology and Ethnomedicine. doi: 10.1186/1746-4269-2-45. Piacente, S. et al. (2004). Phenolic compounds from Guaiacum officinale L. wood. Phytochemistry. PMID: 15025864. World Flora Online (2024). Guaiacum officinale L. http://www.worldfloraonline.org POWO (2024). Plants of the World Online. Kew Science. https://powo.science.kew.org",
   "aRetenir": "🟢 À retenir — Gayak : est une espece peu ou non etudiee scientifiquement. Les proprietes presentees reposent sur des analogies avec des especes proches et les usages traditionnels documentes localement. La conservation de cette espece prime sur toute valorisation. Les auteurs declinent toute responsabilite quant a un usage inapproprie.",
   "images": {
-    "principale": "images/891_Guaiacum_officinale-001.jpg",
+    "principale": "/images/891_Guaiacum_officinale-001.jpg",
     "galerie": [
-      "images/891_Guaiacum_officinale-001.jpg",
-      "images/891_Guaiacum_officinale-002.jpg"
+      "/images/891_Guaiacum_officinale-001.jpg",
+      "/images/891_Guaiacum_officinale-002.jpg"
     ]
   },
-  "source": "plantes_full.json"
+  "source": "CSV corrigé 2026-04-11"
 }

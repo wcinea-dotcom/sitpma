@@ -1,7 +1,7 @@
 {
   "id_plante": "plt-7501",
   "code": "plt-7501",
-  "no_espece": "",
+  "no_espece": "75.1",
   "no_famille": "75",
   "famille": "Rhamnacées",
   "description_famille": "Avec près de 900 espèces réparties en 50 genres, les Rhamnacées constituent une famille cosmopolite dominée par des arbres, arbustes et lianes caractérisés par leurs remarquables propriétés détergentes naturelles. Cette famille occupe une place singulière dans l'ethnobotanique mondiale grâce à ses saponines triterpéniques, molécules amphiphiles qui confèrent aux écorces et feuilles de nombreuses espèces des propriétés moussantes exploitées comme savons végétaux. Parmi les genres alimentaires, Ziziphus produit les jujubes, fruits nutritifs consommés frais ou séchés dans de nombreuses régions tropicales. Les genres Rhamnus et Colubrina dominent les usages médicinaux, ciblant préférentiellement les systèmes cutané, digestif et urinaire grâce à leurs tanins astringents et leurs flavonoïdes anti-inflammatoires. Sur le plan phytochimique, la famille se distingue par une signature moléculaire riche en saponines triterpéniques, tanins condensés, flavonoïdes et acides phénoliques. Une vigilance s'impose cependant avec certains représentants du genre Rhamnus qui renferment des anthraquinones purgatives puissantes, exigeant des préparations et dosages stricts pour éviter les intoxications digestives.",
@@ -20,17 +20,17 @@
   },
   "usages": {
     "usages_ethnobotaniques": "Dans les Départements du Sud et de la Grand'Anse, C. arborescens est principalement utilisé comme savon naturel et dans les bains de santé. L'écorce et les feuilles sont frottées directement sur la peau humide pour produire une mousse détergente naturelle, particulièrement appréciée pour l'hygiène corporelle et le lavage du linge. Les bains thérapeutiques préparés par décoction de l'écorce sont traditionnellement utilisés pour traiter diverses affections cutanées. Selon les données TRAMIL, l'usage s'étend aux dermatoses en Haïti, tandis que dans d'autres îles des Caraïbes, la plante entre dans la composition du « mabi », une boisson fermentée traditionnelle. Les modes de préparation incluent la friction directe des parties fraîches et la décoction pour les bains.",
-    "systemes_concernes": ""
+    "systemes_concernes": "C. arborescens cible principalement le système cutané, avec des applications documentées pour diverses dermatoses. Les mécanismes d'action reposent sur l'effet détergent des saponines qui facilitent l'élimination des impuretés cutanées et des micro-organismes pathogènes. Les tanins exercent un effet astringent qui resserre les pores et réduit les sécrétions cutanées excessives, tout en apportant une action anti-inflammatoire locale. Les flavonoïdes contribuent à l'activité antioxydante qui protège la peau contre le stress oxydatif. L'effet diurétique modéré, attribué à la teneur en potassium et aux saponines, pourrait contribuer à l'élimination des toxines par voie rénale. Ces mécanismes demeurent largement hypothétiques et nécessitent des validations cliniques approfondies."
   },
   "pharmacologie": {
     "molecules": "Colubrina arborescens se caractérise par une composition remarquable en saponines triterpéniques, responsables de ses propriétés moussantes distinctives. Ces molécules amphiphiles, concentrées particulièrement dans l'écorce, permettent à la plante de se défendre contre les pathogènes fongiques et bactériens tout en conférant l'astringence caractéristique qui protège les tissus contre l'herbivorie. Les tanins condensés présents en forte concentration sont responsables de la saveur très astringente de l'écorce et des feuilles, créant une barrière gustative efficace contre les mammifères herbivores. Les principaux composés secondaires identifiés dans C. arborescens comprennent : des saponines triterpéniques (colubrinosides, acides bétulinique et oléanolique), des tanins condensés et hydrolysables, des flavonoïdes (quercétine, kaempférol, apigénine), des alcaloïdes quinolizidiniques en faible concentration, et des terpénoïdes volatils (Weniger et al., 1986 — PMID: 3803330). Ces composés remplissent des fonctions écologiques précises. Les saponines créent une mousse toxique pour les insectes ravageurs et perturbent les membranes cellulaires des pathogènes. Les tanins protègent le bois contre la pourriture et les attaques fongiques. Ces mêmes composés, une fois utilisés par l'humain, produisent les effets biologiques documentés : action détergente des saponines, propriétés astringentes et anti-inflammatoires des tanins, activité antioxydante des flavonoïdes. Les observations restent principalement issues d'études ethnopharmacologiques et d'analyses phytochimiques préliminaires.",
     "posologie": "Selon les pratiques ethnobotaniques documentées, la décoction traditionnelle utilise 5 à 10 grammes de feuilles ou d'écorce par litre d'eau, administrée 1 à 2 fois par jour pour les applications internes, bien que l'usage externe soit privilégié. Cependant, aucune posologie cliniquement validée n'est disponible pour C. arborescens dans la littérature médicale. Les pratiques traditionnelles documentées localement ne sont pas standardisées et varient selon les préparateurs et les régions. La recherche clinique reste nécessaire pour établir des protocoles thérapeutiques sûrs et efficaces."
   },
   "nutrition": {
-    "introduction": "Colubrina arborescens (syn. Ceanothus arborescens) est un arbre natif des Caraïbes et d'Amérique tropicale, documenté dans les Départements du Sud et de la Grand'Anse d'Haïti où il demeure relativement commun. Il appartient à la famille des Rhamnacées, reconnue mondialement pour ses propriétés détergentes naturelles liées aux saponines triterpéniques. Au sein de cette famille, le genre Colubrina regroupe une vingtaine d'espèces d'arbres et d'arbustes tropicaux, dont plusieurs sont exploités traditionnellement comme savons végétaux et remèdes dermatologiques. Le nom créole « Bwa ple » fait référence à l'aspect lisse de son écorce après desquamation. Dans les Départements du Sud et de la Grand'Anse, C. arborescens occupe une place importante comme savon naturel et plante médicinale, particulièrement valorisé pour ses applications cutanées et ses bains thérapeutiques."
+    "valeur": "L'espèce présente une valeur économique locale significative comme savon naturel et plante médicinale. Dans certaines Caraïbes, elle contribue à l'industrie des boissons traditionnelles avec le mabi. Le potentiel de développement de cosmétiques naturels à base de ses saponines reste largement inexploré. Les propriétés détergentes pourraient intéresser l'industrie des produits d'hygiène écologiques, particulièrement dans un contexte de demande croissante pour les alternatives naturelles aux détergents synthétiques."
   },
   "toxicologie": {
-    "niveau": "",
+    "niveau": "🟢 Non toxique aux doses usuelles",
     "details": "C. arborescens présente un profil de sécurité favorable aux dosages traditionnels. Les principales précautions concernent les risques de surdosage qui peuvent provoquer des diarrhées marquées et des déséquilibres hydro-électrolytiques en raison de l'effet laxatif des saponines. Une prudence particulière s'impose chez les personnes souffrant d'insuffisance rénale, ainsi que pendant la grossesse et l'allaitement par manque de données de sécurité spécifiques. L'usage prolongé doit être évité pour prévenir l'irritation des muqueuses digestives. L'application cutanée est généralement bien tolérée, mais des tests préalables sont recommandés chez les personnes à peau sensible."
   },
   "conservation": {
@@ -38,8 +38,8 @@
     "valeur": "L'espèce présente une valeur économique locale significative comme savon naturel et plante médicinale. Dans certaines Caraïbes, elle contribue à l'industrie des boissons traditionnelles avec le mabi. Le potentiel de développement de cosmétiques naturels à base de ses saponines reste largement inexploré. Les propriétés détergentes pourraient intéresser l'industrie des produits d'hygiène écologiques, particulièrement dans un contexte de demande croissante pour les alternatives naturelles aux détergents synthétiques."
   },
   "recherche": {
-    "nb_articles": "~50 (estimation)",
     "details": "Les recherches sur C. arborescens demeurent limitées avec environ 50 publications référencées. Les priorities incluent l'isolement et la caractérisation complète des saponines actives, l'évaluation clinique des propriétés dermatologiques, et l'étude de la biodisponibilité des composés actifs. Le potentiel antimicrobien mériterait une investigation approfondie, notamment contre les pathogènes cutanés résistants. L'optimisation des méthodes d'extraction des saponines pourrait ouvrir des applications industrielles. La recherche en cosmétologie naturelle représente un axe prometteur pour la valorisation de cette ressource caribéenne.",
+    "nb_articles": "",
     "lien_pubmed": "",
     "lien_scholar": "",
     "lien_tramil": "https://www.tramil.net/en/plant/colubrina-arborescens"
@@ -47,11 +47,11 @@
   "references": "Weniger, B., Rouzier, M., Daguilh, R., Henrys, D., Henrys, J.H., Anton, R. (1986). La médecine populaire dans le plateau central d'Haïti. 2. Inventaire ethnopharmacologique. Journal of Ethnopharmacology. PMID: 3803330. POWO (2024). Plants of the World Online. Facilitated by the Royal Botanic Gardens, Kew. http://www.plantsoftheworldonline.org/ TRAMIL (2024). Colubrina arborescens. https://www.tramil.net/en/plant/colubrina-arborescens",
   "aRetenir": "🟢 À retenir — Bwa ple : est utilisee en medecine traditionnelle avec un bon profil de securite aux doses courantes. Les usages presentes reposent sur des donnees ethnobotaniques et scientifiques publiees, mais ne constituent pas une prescription. Consulter un professionnel de sante avant tout usage therapeutique. Les auteurs declinent toute responsabilite quant a un usage inapproprie.",
   "images": {
-    "principale": "images/741_Colubrina_arborescens-001.jpg",
+    "principale": "/images/741_Colubrina_arborescens-001.jpg",
     "galerie": [
-      "images/741_Colubrina_arborescens-001.jpg",
-      "images/741_Colubrina_arborescens-002.jpg"
+      "/images/741_Colubrina_arborescens-001.jpg",
+      "/images/741_Colubrina_arborescens-002.jpg"
     ]
   },
-  "source": "plantes_full.json"
+  "source": "CSV corrigé 2026-04-11"
 }

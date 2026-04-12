@@ -1,7 +1,7 @@
 {
   "id_plante": "plt-1709",
   "code": "plt-1709",
-  "no_espece": "",
+  "no_espece": "17.9",
   "no_famille": "17",
   "famille": "Astéracées",
   "description_famille": "",
@@ -20,26 +20,26 @@
   },
   "usages": {
     "usages_ethnobotaniques": "Dans les Départements du Sud et de la Grand'Anse, S. trilobata est utilisée principalement comme cicatrisant externe. Les feuilles fraîches sont pilées pour préparer des emplâtres appliqués directement sur les plaies, coupures et ulcères cutanés. Une décoction de feuilles et tiges (environ 5 g par litre d'eau) est également préparée pour laver les blessures ou réaliser des compresses anti-inflammatoires. Certains praticiens traditionnels l'emploient en usage interne pour ses propriétés hypotensives et diurétiques présumées, bien que cette pratique soit moins répandue. Il convient de noter que la plante est réputée provoquer l'avortement chez le bétail, témoignant de propriétés utérotoniques qui nécessitent une vigilance particulière. Les modes de préparation privilégient généralement l'usage externe par décoction ou application directe du suc frais.",
-    "systemes_concernes": "Tégumentaire, Reproducteur"
+    "systemes_concernes": "S. trilobata cible principalement le système tégumentaire par ses propriétés cicatrisantes et anti-inflammatoires externes. Les études expérimentales suggèrent que l'acide kaurénoïque et les eudesmanolides pourraient inhiber certains médiateurs inflammatoires comme les prostaglandines et les leucotriènes, réduisant ainsi l'œdème et la douleur. La lutéoline présenterait des propriétés antioxydantes qui protégeraient les tissus lésés du stress oxydatif. Les saponines triterpéniques favoriseraient la migration cellulaire et la synthèse de collagène, accélérant le processus de cicatrisation. Sur le système reproducteur, les propriétés abortives observées chez les animaux suggèrent une action utérotonique, potentiellement médiée par les sesquiterpènes lactones, bien que les mécanismes précis restent à élucider. Ces effets biologiques, documentés principalement in vitro et sur modèles animaux, demandent validation par des essais cliniques humains contrôlés."
   },
   "pharmacologie": {
     "molecules": "Les feuilles de S. trilobata se caractérisent par leur saveur amère distinctive, révélatrice de sesquiterpènes lactones et de flavonoïdes amers qui constituent ses principales défenses chimiques. Cette amertume intense résulte notamment de la présence d'eudesmanolides, des lactones sesquiterpéniques typiques des Astéracées, ainsi que de flavonoïdes comme la lutéoline. Ces composés amers découragent l'herbivorie tout en conférant à la plante ses propriétés anti-inflammatoires. Les tiges charnues accumulent également des saponines triterpéniques qui contribuent à l'activité cicatrisante observée traditionnellement. Les principaux composés secondaires identifiés dans S. trilobata comprennent : l'acide kaurénoïque (diterpène anti-inflammatoire), l'acide grandiflorique (triterpène cicatrisant), la lutéoline (flavonoïde antioxydant), diverses eudesmanolides (sesquiterpènes lactones), des saponines triterpéniques, des tanins condensés, des coumarines et des huiles essentielles à composante terpénique (Silva et al., 2013 — DOI: 10.1016/j.jep.2013.03.031). Ces métabolites remplissent des fonctions de défense précises pour la plante. Les sesquiterpènes lactones comme les eudesmanolides protègent contre les herbivores et les pathogènes fongiques par leur toxicité sélective. L'acide kaurénoïque inhibe la germination des graines d'espèces concurrentes, conférant un avantage allélopathique. Les saponines dans les tiges rampantes découragent les attaques de nématodes du sol. Ces mêmes composés, une fois appliqués sur la peau humaine, produisent les effets anti-inflammatoires et cicatrisants documentés, bien que les mécanismes précis restent principalement établis par des études in vitro et sur modèles animaux.",
     "posologie": "Aucune posologie cliniquement validée n'est disponible pour S. trilobata dans la littérature médicale. L'usage traditionnel haïtien mentionne une infusion de feuilles à raison d'environ 5 g par litre d'eau, utilisée 1 à 2 fois par jour pour le lavage externe des plaies. Pour les emplâtres, les feuilles fraîches sont pilées et appliquées directement sur la zone affectée, renouvelées quotidiennement. Ces posologies empiriques nécessitent validation scientifique et standardisation pour un usage thérapeutique sécurisé."
   },
   "nutrition": {
-    "introduction": "Sphagneticola trilobata (syn. Wedelia trilobata) est une herbe rampante native documentée dans les Départements du Sud et de la Grand'Anse d'Haïti. Elle appartient à la famille des Astéracées, une famille très évoluée reconnue pour ses riches usages alimentaires, médicinaux et spirituels. Cette vaste famille tropicale se distingue par sa signature phytochimique dominée par les sesquiterpènes lactones anti-inflammatoires, les flavonoïdes, les polyphénols et les huiles essentielles, ciblant préférentiellement les systèmes digestif, respiratoire et nerveux. Au sein de cette famille, S. trilobata fait partie du genre Sphagneticola, un groupe d'herbes rampantes tropicales utilisées traditionnellement pour leurs propriétés cicatrisantes et anti-inflammatoires. L'usage principal de cette espèce dans les deux départements concerne le traitement externe des plaies et inflammations cutanées, bien qu'une vigilance particulière soit requise en raison de ses propriétés abortives documentées chez le bétail."
+    "valeur": "La valeur économique de S. trilobata dans les Départements du Sud et de la Grand'Anse reste limitée au commerce informel de plantes médicinales. Quelques herboristes traditionnels la commercialisent sur les marchés locaux, principalement sous forme séchée. Internationalement, elle trouve des applications comme plante ornementale couvre-sol dans les jardins tropicaux, notamment dans le Pacifique. Son potentiel de développement en phytothérapie standardisée reste à explorer, sous réserve de validation clinique de ses propriétés traditionnelles."
   },
   "toxicologie": {
-    "niveau": "",
-    "details": "S. trilobata est généralement considérée comme non toxique pour l'usage externe aux doses traditionnelles. Cependant, ses propriétés abortives documentées chez le bétail imposent une prudence absolue chez les femmes enceintes. L'usage interne prolongé est déconseillé faute de données toxicologiques complètes sur l'humain. Un risque hypothétique d'hypotension existe à forte dose en raison des propriétés hypotensives rapportées. Les personnes allergiques aux Astéracées doivent éviter son usage. Aucune interaction médicamenteuse majeure n'est documentée, mais la vigilance reste recommandée en cas de traitement antihypertenseur concomitant."
+    "niveau": "🟢 Non toxique aux doses usuelles",
+    "details": "S. trilobata est généralement considérée comme non toxique pour l'usage externe aux doses traditionnelles. Cependant, ses propriétés abortives documentées chez le bétail imposent une prudence absolue chez les femmes enceintes. L'usage interne prolongé est déconseillé faute de données toxicologiques complètes sur l'humain. Un risque non confirmé expérimentalement d'hypotension existe à forte dose en raison des propriétés hypotensives rapportées. Les personnes allergiques aux Astéracées doivent éviter son usage. Aucune interaction médicamenteuse majeure n'est documentée, mais la vigilance reste recommandée en cas de traitement antihypertenseur concomitant."
   },
   "conservation": {
     "menaces": "S. trilobata présente un statut de conservation « Préoccupation mineure » en raison de son abondance et de sa large distribution. Dans les Départements du Sud et de la Grand'Anse, l'espèce ne fait face à aucune menace significative. Sa capacité de propagation végétative et sa tolérance aux perturbations anthropiques lui permettent de maintenir des populations stables. Paradoxalement, dans certaines régions du monde, elle est considérée comme envahissante, témoignant de sa vigueur écologique.",
     "valeur": "La valeur économique de S. trilobata dans les Départements du Sud et de la Grand'Anse reste limitée au commerce informel de plantes médicinales. Quelques herboristes traditionnels la commercialisent sur les marchés locaux, principalement sous forme séchée. Internationalement, elle trouve des applications comme plante ornementale couvre-sol dans les jardins tropicaux, notamment dans le Pacifique. Son potentiel de développement en phytothérapie standardisée reste à explorer, sous réserve de validation clinique de ses propriétés traditionnelles."
   },
   "recherche": {
-    "nb_articles": "~500 (estimation)",
     "details": "Environ 500 publications scientifiques mentionnent S. trilobata, témoignant d'un intérêt recherche soutenu. Les études récentes se concentrent sur la caractérisation de ses composés bioactifs et l'évaluation de ses propriétés cicatrisantes et anti-inflammatoires. Des recherches brésiliennes ont confirmé son activité cicatrisante sur modèles animaux (Santos et al., 2019 — PMID: 31234567). Les perspectives incluent le développement de formulations topiques standardisées, l'étude de ses mécanismes d'action moléculaires, et l'évaluation de son potentiel en dermatologie moderne. La validation clinique de ses usages traditionnels constitue une priorité recherche.",
+    "nb_articles": "",
     "lien_pubmed": "",
     "lien_scholar": "",
     "lien_tramil": "https://www.tramil.net/en/plant/sphagneticola-trilobata"
@@ -47,11 +47,11 @@
   "references": "Silva, M.B. et al. (2013). Phytochemical analysis and anti-inflammatory activity of Sphagneticola trilobata. Journal of Ethnopharmacology, 148(3), 897-902. DOI: 10.1016/j.jep.2013.03.031 Santos, R.A. et al. (2019). Wound healing activity of Sphagneticola trilobata extract in animal models. PMID: 31234567 POWO (2024). Plants of the World Online. Kew Science. https://powo.science.kew.org/ World Flora Online (2024). http://www.worldfloraonline.org/ TRAMIL (2024). Traditional Medicine in the Islands. https://www.tramil.net/en/plant/sphagneticola-trilobata",
   "aRetenir": "🟢 À retenir — Zèb krab : est utilisee en medecine traditionnelle avec un bon profil de securite aux doses courantes. Les usages presentes reposent sur des donnees ethnobotaniques et scientifiques publiees, mais ne constituent pas une prescription. Consulter un professionnel de sante avant tout usage therapeutique. Les auteurs declinent toute responsabilite quant a un usage inapproprie.",
   "images": {
-    "principale": "images/179_Sphagneticola_trilobata-001.jpg",
+    "principale": "/images/179_Sphagneticola_trilobata-001.jpg",
     "galerie": [
-      "images/179_Sphagneticola_trilobata-001.jpg",
-      "images/179_Sphagneticola_trilobata-002.jpg"
+      "/images/179_Sphagneticola_trilobata-001.jpg",
+      "/images/179_Sphagneticola_trilobata-002.jpg"
     ]
   },
-  "source": "plantes_full.json"
+  "source": "CSV corrigé 2026-04-11"
 }

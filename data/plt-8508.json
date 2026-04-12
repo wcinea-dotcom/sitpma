@@ -1,7 +1,7 @@
 {
   "id_plante": "plt-8508",
   "code": "plt-8508",
-  "no_espece": "",
+  "no_espece": "85.8",
   "no_famille": "85",
   "famille": "Solanacées",
   "description_famille": "",
@@ -20,17 +20,17 @@
   },
   "usages": {
     "usages_ethnobotaniques": "Dans les Départements du Sud et de la Grand'Anse, le zamorèt est documenté comme plante \"pour fortifier le sang\", particulièrement recommandée contre l'anémie sévère. Cette indication correspond à l'usage TRAMIL documenté en Haïti pour le traitement de l'anémie. Les fruits jeunes, encore verts ou commençant à jaunir, sont principalement préparés par cuisson — bouillis ou intégrés dans des soupes et des ragoûts. Cette préparation culinaire permet de réduire l'amertume naturelle des glycoalcaloïdes tout en préservant les nutriments essentiels. Les feuilles sont occasionnellement utilisées en infusion, tandis que les racines entrent dans certaines préparations traditionnelles complexes. En Thaïlande, pays où la plante est également commune, les jeunes fruits constituent un ingrédient traditionnel des currys, confirmant l'usage alimentaire sécuritaire de cette espèce lorsqu'elle est correctement préparée.",
-    "systemes_concernes": "Immunitaire"
+    "systemes_concernes": "Le zamorèt cible préférentiellement le système hématopoïétique, conformément à son usage traditionnel contre l'anémie. Les études pharmacologiques montrent que les extraits de S. torvum présentent des propriétés antidiabétiques, hypotensives, anti-inflammatoires et antioxydantes significatives. Les flavonoïdes, particulièrement la quercétine, améliorent la régulation glycémique et lipidique tout en réduisant le stress oxydatif systémique (Islam et al., 2017 — PMID: 28315853). Des recherches suggèrent une possible régénération des cellules β-pancréatiques par certains composés bioactifs. L'activité antimicrobienne et antivirale documentée pourrait expliquer l'usage traditionnel pour renforcer les défenses immunitaires. Cependant, les mécanismes précis de l'effet \"fortifiant sanguin\" nécessitent encore des investigations cliniques, bien que la richesse en fer, caroténoïdes et cofacteurs vitaminiques offre une base biochimique plausible pour cette indication traditionnelle."
   },
   "pharmacologie": {
     "molecules": "Les petits fruits jaune-orangé du zamorèt tirent leur couleur caractéristique des caroténoïdes — principalement du bêta-carotène précurseur de la vitamine A — ainsi que de la lutéine et de la zéaxanthine. Cette richesse en caroténoïdes, associée à une teneur notable en fer, explique l'usage traditionnel haïtien pour \"fortifier le sang\" contre l'anémie. Les fruits contiennent également des sucres simples, des fibres solubles, et des minéraux essentiels incluant le potassium (K), le magnésium (Mg), le calcium (Ca) et le zinc (Zn). Leur saveur caractéristique — à la fois aromatique et amère — résulte de la présence de glycoalcaloïdes spécifiques au genre Solanum. Les principaux composés secondaires identifiés dans S. torvum comprennent : des glycoalcaloïdes (solasodine, solamargine, solasonine), des flavonoïdes (quercétine, rutine, kaempférol), des saponines stéroïdales, des tanins condensés, et des alcaloïdes pyrrolizidiniques en faibles concentrations (Chinedu et al., 2011 — PMID: 21547014, Ndebia et al., 2007 — PMID: 17482443). Ces molécules remplissent des fonctions de défense précises pour la plante. Les glycoalcaloïdes protègent les fruits contre les herbivores et les pathogènes, créant une amertume dissuasive. Les saponines forment une barrière chimique dans les tissus contre les infections fongiques et bactériennes. Les flavonoïdes, concentrés dans la peau des fruits, offrent une protection antioxydante contre les rayonnements UV intenses des tropiques. Ces mêmes composés, une fois ingérés par l'humain, produisent les effets biologiques documentés : amélioration du profil glycémique par les flavonoïdes, propriétés antioxydantes des tanins et des caroténoïdes, et possible effet hématopoïétique lié au fer biodisponible et aux cofacteurs vitaminiques.",
     "posologie": "Les études précliniques rapportent l'utilisation d'extraits éthanoliques de fruits à raison de 200 mg/kg de poids corporel chez le rat pour les effets antidiabétiques (Islam et al., 2017 — PMID: 28315853). En usage traditionnel, les pratiques documentées privilégient la consommation des fruits cuits en quantités alimentaires — généralement 50 à 100 grammes de fruits frais par portion. Les infusions de feuilles, lorsqu'utilisées, sont préparées à raison de 5 à 10 g de matière sèche par litre d'eau, mais cette posologie reste empirique et non standardisée cliniquement. Aucune posologie précise n'est établie pour l'indication anti-anémique spécifique, l'usage traditionnel reposant sur l'intégration régulière de la plante dans l'alimentation plutôt que sur des doses thérapeutiques fixes."
   },
   "nutrition": {
-    "introduction": "Solanum torvum Sw. (syn. Solanum ficifolium) est un arbuste pantropical commun documenté dans le Sud et la Grand'Anse. Il appartient à la famille des Solanacées, reconnue pour ses contrastes saisissants entre espèces comestibles essentielles (tomate, aubergine, piment) et plantes hautement toxiques (Brugmansia). Cette famille tropicale se distingue par ses alcaloïdes tropaniques puissants — atropine, scopolamine, hyoscyamine — ainsi que par des composés plus familiers comme la capsaïcine des piments et les caroténoïdes des fruits colorés. Les genres alimentaires incluent Solanum (tomate, aubergine), Capsicum (piments) et Physalis (coqueret), tandis que les genres médicinaux comprennent Nicotiana (tabac thérapeutique) et Withania (ashwagandha). Cependant, certaines espèces comme Brugmansia renferment des alcaloïdes mortels exigeant une vigilance absolue, et même les pommes de terre vertes contiennent de la solanine toxique. Cette dualité — entre nutrition et toxicité — caractérise fondamentalement les Solanacées et explique pourquoi leur usage traditionnel nécessite une connaissance précise de chaque espèce. Le zamorèt fait partie des espèces sûres de cette famille complexe, utilisé tant pour l'alimentation que comme fortifiant sanguin."
+    "valeur": "Le zamorèt présente une valeur économique locale modérée comme légume traditionnel et plante médicinale domestique. Sur le plan international, l'espèce suscite un intérêt croissant pour ses propriétés antidiabétiques et antioxydantes, particulièrement en Asie du Sud-Est où elle constitue un ingrédient culinaire établi. Le potentiel de développement de compléments alimentaires ou de nutraceutiques à base de S. torvum reste à explorer, notamment pour la prise en charge nutritionnelle de l'anémie dans les pays tropicaux."
   },
   "toxicologie": {
-    "niveau": "🟢",
+    "niveau": "🟢 Non toxique aux doses usuelles",
     "details": "S. torvum est généralement considéré comme non toxique aux doses alimentaires traditionnelles, d'où son statut de sécurité 🟢. Cependant, des précautions s'imposent avec les extraits concentrés ou la consommation excessive de feuilles mal préparées, qui peuvent entraîner une toxicité liée aux glycoalcaloïdes : troubles digestifs, hypotension et possibles effets neurologiques. Cette toxicité potentielle des alcaloïdes recommande d'éviter l'usage chez les enfants en bas âge, les femmes enceintes et allaitantes, ainsi que chez les personnes souffrant de pathologies hépatiques ou rénales. Pour l'usage métabolique et hématopoïétique, la forme alimentaire bien cuite demeure la plus sûre et la plus appropriée, permettant de bénéficier des propriétés nutritionnelles sans risque de surdosage en composés bioactifs."
   },
   "conservation": {
@@ -38,8 +38,8 @@
     "valeur": "Le zamorèt présente une valeur économique locale modérée comme légume traditionnel et plante médicinale domestique. Sur le plan international, l'espèce suscite un intérêt croissant pour ses propriétés antidiabétiques et antioxydantes, particulièrement en Asie du Sud-Est où elle constitue un ingrédient culinaire établi. Le potentiel de développement de compléments alimentaires ou de nutraceutiques à base de S. torvum reste à explorer, notamment pour la prise en charge nutritionnelle de l'anémie dans les pays tropicaux."
   },
   "recherche": {
-    "nb_articles": "~500 (estimation)",
     "details": "Avec environ 500 publications scientifiques répertoriées, S. torvum fait l'objet d'un intérêt de recherche soutenu, particulièrement pour ses propriétés métaboliques et ses applications en médecine préventive. Les perspectives incluent l'évaluation clinique de son efficacité contre l'anémie ferriprive, la standardisation des extraits pour des applications nutraceutiques, et l'étude de la biodisponibilité du fer et des caroténoïdes dans différentes préparations. Des recherches sur l'optimisation des méthodes de culture et de transformation pourraient valoriser cette ressource locale abondante pour la sécurité alimentaire et nutritionnelle en Haïti.",
+    "nb_articles": "",
     "lien_pubmed": "",
     "lien_scholar": "",
     "lien_tramil": "https://www.tramil.net/en/plant/solanum-torvum"
@@ -47,11 +47,11 @@
   "references": "Chinedu, E. et al. (2011). Comparative phytochemical analysis of some plants used in South West Nigerian traditional medicine. Research Journal of Phytochemistry, 5(1), 40-47. PMID: 21547014. Islam, S. et al. (2017). Antidiabetic potential of Solanum torvum fruit extract in streptozotocin-induced diabetic rats. Food & Function, 8(11), 4049-4060. PMID: 28315853. Ndebia, E.J. et al. (2007). Hypoglycaemic effect of Solanum torvum (Solanaceae) in normal and alloxan-induced diabetic rats. Phytomedicine, 14(6), 403-409. PMID: 17482443. TRAMIL (2024). Solanum torvum. Programme TRAMIL. https://www.tramil.net/en/plant/solanum-torvum World Flora Online (2024). Solanum torvum Sw. WFO Plant List. http://www.worldfloraonline.org",
   "aRetenir": "🟢 À retenir — Zamorèt : est utilisee en medecine traditionnelle avec un bon profil de securite aux doses courantes. Les usages presentes reposent sur des donnees ethnobotaniques et scientifiques publiees, mais ne constituent pas une prescription. Consulter un professionnel de sante avant tout usage therapeutique. Les auteurs declinent toute responsabilite quant a un usage inapproprie. ATLAS ETHNOBOTANIQUE Plantes médicinales, aromatiques et alimentaires Départements du Sud et de la Grand'Anse — Haïti Bloc 14 — Especes 261 a 271 Twonpèt -> Gayak 11 espèces · 5 famille(s) Source : Base de Référence Haïtienne (BRH) — Jardin Botanique des Cayes Validation : PubMed · Google Scholar · TRAMIL · POWO (Kew Science)",
   "images": {
-    "principale": "images/848_Solanum_torvum-001.jpg",
+    "principale": "/images/848_Solanum_torvum-001.jpg",
     "galerie": [
-      "images/848_Solanum_torvum-001.jpg",
-      "images/848_Solanum_torvum-002.jpg"
+      "/images/848_Solanum_torvum-001.jpg",
+      "/images/848_Solanum_torvum-002.jpg"
     ]
   },
-  "source": "plantes_full.json"
+  "source": "CSV corrigé 2026-04-11"
 }

@@ -1,7 +1,7 @@
 {
   "id_plante": "plt-2002",
   "code": "plt-2002",
-  "no_espece": "",
+  "no_espece": "20.2",
   "no_famille": "20",
   "famille": "Boraginacées",
   "description_famille": "",
@@ -20,17 +20,17 @@
   },
   "usages": {
     "usages_ethnobotaniques": "Dans les Départements du Sud et de la Grand'Anse, H. indicum est documenté comme plante médicinale à usage strictement externe. Les feuilles et racines sont préparées en bains pour leurs propriétés anti-inflammatoires, cicatrisantes et antimicrobiennes supposées. Les préparations sont exclusivement destinées à l'application sur les plaies et dans les bains de santé traditionnels. Cette restriction à l'usage externe reflète une connaissance empirique des risques associés à l'ingestion de cette plante. Les usages caribéens documentés par TRAMIL confirment cette approche prudente, avec des applications cutanées en Guadeloupe. Aux Philippines et en Inde, des usages similaires pour les plaies sont également rapportés, suggérant une convergence des savoirs traditionnels concernant cette espèce.",
-    "systemes_concernes": "Tégumentaire"
+    "systemes_concernes": "L'usage traditionnel de H. indicum cible principalement le système tégumentaire pour le traitement des plaies et affections cutanées. Les mécanismes d'action proposés reposeraient sur les propriétés antimicrobiennes et cicatrisantes des polyphénols présents dans la plante, démontrées lors d'études in vitro. Les tanins pourraient exercer des effets astringents favorisant la cicatrisation, tandis que les flavonoïdes contribueraient aux propriétés anti-inflammatoires observées empiriquement. Cependant, ces mécanismes restent hypothétiques en l'absence d'essais cliniques humains publiés, et l'efficacité thérapeutique de cette plante demeure à démontrer scientifiquement."
   },
   "pharmacologie": {
     "molecules": "Heliotropium indicum produit un arsenal chimique complexe dominé par des alcaloïdes pyrrolizidiniques — des molécules de défense particulièrement efficaces mais potentiellement dangereuses. Ces alcaloïdes, incluant l'indicine, l'échinitine et la lasiocarpine, confèrent à la plante sa saveur amère caractéristique et constituent sa première ligne de défense contre les herbivores. Leur amertume décourage naturellement la consommation, protégeant ainsi la plante de la prédation. Ces mêmes composés sont responsables de la toxicité hépatique potentielle observée en cas d'usage interne prolongé. Les principaux composés secondaires identifiés dans H. indicum comprennent : des alcaloïdes pyrrolizidiniques (indicine, échinitine, lasiocarpine), des flavonoïdes aux propriétés antioxydantes, des terpénoïdes, des saponines et des tanins condensés (Pharmacognosy Research — pharmacia.pensoft). Ces molécules travaillent en synergie pour protéger la plante contre les pathogènes, les insectes ravageurs et les stress environnementaux. Ces mêmes composés, une fois appliqués sur la peau humaine, produisent les effets biologiques documentés en usage externe. Les polyphénols et tanins exerceraient des propriétés antimicrobiennes et cicatrisantes démontrées in vitro, expliquant l'usage traditionnel pour les plaies. Cependant, les alcaloïdes pyrrolizidiniques peuvent être métabolisés en métabolites toxiques pour le foie lors d'absorption systémique, d'où la restriction absolue à l'usage externe. Ces observations restent principalement issues d'études in vitro et nécessitent des validations cliniques approfondies.",
     "posologie": "Aucune posologie cliniquement validée n'est disponible pour H. indicum. L'usage interne est généralement déconseillé dans la littérature scientifique en raison des risques hépatotoxiques associés aux alcaloïdes pyrrolizidiniques. Les protocoles d'usage externe traditionnels varient selon les régions et n'ont pas fait l'objet de standardisation pharmacologique. Cette absence de données posologiques fiables constitue un obstacle majeur à tout usage thérapeutique sécurisé de cette espèce."
   },
   "nutrition": {
-    "introduction": "Heliotropium indicum L. (syn. Tiaridium indicum) est une herbe native des Départements du Sud et de la Grand'Anse, où elle est devenue rare. Elle appartient à la famille des Boraginacées, principalement composée d'herbes, arbustes et lianes à vocation médicinale. Cette famille se caractérise par des usages thérapeutiques importants ciblant les systèmes tégumentaire, urinaire et cutané, avec une signature phytochimique dominée par les flavonoïdes, triterpènes, tanins et cellulose. Cependant, certaines espèces — notamment le genre Heliotropium — renferment des alcaloïdes pyrrolizidiniques hépatotoxiques exigeant une vigilance extrême. Au sein de cette famille, H. indicum fait partie du genre Heliotropium, un groupe d'herbes tropicales dont plusieurs espèces sont connues pour leur toxicité potentielle. L'usage traditionnel de cette plante dans le Sud et la Grand'Anse se limite strictement à des applications externes pour les plaies et dans les bains de santé, évitant soigneusement tout usage interne prolongé."
+    "valeur": "H. indicum ne présente pas de valeur économique commerciale significative en raison de sa toxicité et de sa rareté locale. Son intérêt se limite aux usages traditionnels externes et à la recherche scientifique sur les alcaloïdes pyrrolizidiniques. La plante pourrait néanmoins représenter un modèle d'étude pour la compréhension des mécanismes de détoxification hépatique et le développement d'antidotes spécifiques."
   },
   "toxicologie": {
-    "niveau": "toxic",
+    "niveau": "🔴 Toxique",
     "details": "Heliotropium indicum présente un profil toxicologique préoccupant en raison de sa teneur en alcaloïdes pyrrolizidiniques hépatotoxiques. L'usage interne est contre-indiqué, particulièrement en usage prolongé, en raison du risque de lésions hépatiques graves. La plante est également contre-indiquée pendant la grossesse et l'allaitement. Même en usage externe, une prudence extrême est recommandée pour éviter toute absorption transcutanée significative. Les symptômes de toxicité hépatique peuvent inclure fatigue, nausées et ictère, nécessitant un arrêt immédiat de l'exposition et une consultation médicale urgente."
   },
   "conservation": {
@@ -38,8 +38,8 @@
     "valeur": "H. indicum ne présente pas de valeur économique commerciale significative en raison de sa toxicité et de sa rareté locale. Son intérêt se limite aux usages traditionnels externes et à la recherche scientifique sur les alcaloïdes pyrrolizidiniques. La plante pourrait néanmoins représenter un modèle d'étude pour la compréhension des mécanismes de détoxification hépatique et le développement d'antidotes spécifiques."
   },
   "recherche": {
-    "nb_articles": "~500 (estimation)",
     "details": "Environ 500 publications scientifiques concernent H. indicum, reflétant un intérêt de recherche soutenu. Les axes d'investigation prioritaires incluent l'évaluation précise de la toxicité des différents alcaloïdes pyrrolizidiniques, le développement de méthodes d'extraction sélective des composés non toxiques, et l'étude des propriétés cicatrisantes potentielles en usage topique contrôlé. Des recherches sur la biodisponibilité transcutanée des alcaloïdes toxiques sont également nécessaires pour sécuriser les usages externes traditionnels.",
+    "nb_articles": "",
     "lien_pubmed": "https://pubmed.ncbi.nlm.nih.gov/?term=Heliotropium+indicum",
     "lien_scholar": "",
     "lien_tramil": "https://www.tramil.net/en/plant/heliotropium-indicum"
@@ -47,11 +47,11 @@
   "references": "Pharmacognosy Research. Heliotropium indicum: Phytochemical and pharmacological aspects. pharmacia.pensoft PubMed. https://pubmed.ncbi.nlm.nih.gov/?term=Heliotropium+indicum TRAMIL. https://www.tramil.net/en/plant/heliotropium-indicum World Flora Online. http://www.worldfloraonline.org POWO, Kew Science. https://powo.science.kew.org",
   "aRetenir": "🟠 À retenir — Krèt kòk : est une plante a toxicite documentee. Tout usage interne non encadre est formellement deconseille. En cas d'ingestion accidentelle, consulter immediatement un service d'urgence. Ces informations sont destinees a l'enseignement et a la recherche uniquement. Les auteurs declinent toute responsabilite quant a un usage inapproprie.",
   "images": {
-    "principale": "images/201_Heliotropium_indicum-001.jpg",
+    "principale": "/images/201_Heliotropium_indicum-001.jpg",
     "galerie": [
-      "images/201_Heliotropium_indicum-001.jpg",
-      "images/201_Heliotropium_indicum-002.jpg"
+      "/images/201_Heliotropium_indicum-001.jpg",
+      "/images/201_Heliotropium_indicum-002.jpg"
     ]
   },
-  "source": "plantes_full.json"
+  "source": "CSV corrigé 2026-04-11"
 }

@@ -1,7 +1,7 @@
 {
   "id_plante": "plt-7901",
   "code": "plt-7901",
-  "no_espece": "",
+  "no_espece": "79.1",
   "no_famille": "79",
   "famille": "Rutacées",
   "description_famille": "Les Rutacées constituent une famille tropicale et subtropicale de près de 2000 espèces réparties en 160 genres, dominée par les arbustes et arbres aromatiques. Cette famille remarquable rassemble des genres à vocation alimentaire majeure comme Citrus (agrumes : oranges, citrons, pamplemousses), Fortunella (kumquats) et Clausena, largement cultivés en Haïti pour leurs fruits riches en vitamine C. Les genres médicinaux incluent Ruta (rue officinale), Zanthoxylum (clavalier) et Amyris, reconnus pour leurs propriétés anti-inflammatoires et antimicrobiennes. Sur le plan phytochimique, les Rutacées se distinguent par leur richesse en huiles essentielles à dominante terpénique (limonène, linalol), en coumarines, en flavonoïdes (hespéridine, naringénine) et en alcaloïdes quinoléiques, ciblant préférentiellement les systèmes digestif, nerveux et immunitaire. Une vigilance particulière s'impose avec certains genres comme Ruta et les espèces riches en furanocoumarines photosensibilisantes, pouvant provoquer des dermatites sévères lors d'exposition solaire.",
@@ -20,17 +20,17 @@
   },
   "usages": {
     "usages_ethnobotaniques": "Dans les traditions des Départements du Sud et de la Grand'Anse, A. apiculata est principalement valorisé pour ses propriétés spirituelles et thérapeutiques externes. Les parties utilisées sont le bois aromatique, les feuilles et l'écorce — toutes choisies pour leur richesse en principes actifs volatils. Le mode de préparation dominant est la fumigation : le bois et l'écorce sont brûlés pour produire une fumée parfumée utilisée dans les rituels de purification spirituelle et les pratiques thérapeutiques traditionnelles. Les feuilles sont principalement employées dans des bains de santé rituels, préparés par décoction ou infusion dans l'eau chaude. Ces bains, pratiqués selon des protocoles ancestraux spécifiques, visent à la fois le bien-être physique et l'équilibre spirituel. La rareté croissante de l'espèce limite désormais considérablement ces usages traditionnels, créant une pression supplémentaire sur les populations sauvages restantes.",
-    "systemes_concernes": ""
+    "systemes_concernes": "Les usages traditionnels d'A. apiculata ciblent principalement le système spirituel et énergétique dans la conception holistique de la santé haïtienne. Sur le plan physiologique documenté localement, les préparations sont rapportées pour leurs propriétés antimicrobiennes, anti-inflammatoires, analgésiques et légèrement diurétiques. Les mécanismes d'action n'ont pas été étudiés spécifiquement pour cette espèce. Par analogie avec Amyris balsamifera, une activité antibactérienne médiée par les sesquiterpènes des huiles essentielles est plausible, ainsi qu'un effet anti-inflammatoire lié aux flavonoïdes et triterpènes (Dahiya & Manglik, 2013 — PMID: 24031219). Les coumarines pourraient contribuer à une activité vasculaire légère, tandis que les composés amers stimuleraient les fonctions digestives par voie réflexe. Ces hypothèses nécessitent confirmation par des études pharmacologiques contrôlées sur A. apiculata."
   },
   "pharmacologie": {
-    "molecules": "Amyris apiculata développe un arsenal chimique défensif sophistiqué, adapté à son environnement sec et aux pressions biotiques de son écosystème restreint. Le bois aromatique produit des résines riches en sesquiterpènes volatils — principalement caryophyllène et cadinène — responsables de l'odeur caractéristique et de l'intérêt traditionnel de l'espèce. Ces composés primaires spécialisés, concentrés dans les canaux résinifères du bois, constituent la signature chimique distinctive de la plante et expliquent son usage dans les pratiques spirituelles locales. L'amertume des feuilles provient d'un complexe de triterpènes et de coumarines, tandis que les traces de potassium, magnésium et calcium soutiennent les fonctions physiologiques de base. Aucune étude phytochimique publiée ne porte spécifiquement sur Amyris apiculata. Par analogie avec Amyris balsamifera, mieux documentée, les principaux composés secondaires probablement présents comprennent : des huiles essentielles à dominante sesquiterpénique (caryophyllène, cadinène, élémol, eudesmol), des flavonoïdes (quercétine, rutine), des coumarines simples, des triterpènes pentacycliques, des lignanes et potentiellement des alcaloïdes quinoléiques caractéristiques de la famille (Rohmer et al., 1977 — Phytochemistry, García et al., 2020). Ces molécules de défense remplissent des fonctions écologiques précises pour A. apiculata. Les sesquiterpènes des huiles essentielles protègent le bois contre les agents pathogènes fongiques, les insectes xylophages et découragent l'herbivorie par leur goût répulsif. Des études sur Amyris balsamifera ont démontré que son huile essentielle présente une activité antimicrobienne significative contre des souches multirésistantes et des propriétés antioxydantes notables (Dahiya & Manglik, 2013 — PMID: 24031219). Les coumarines renforcent la résistance aux pathogènes racinaires, tandis que les flavonoïdes assurent une protection contre les rayonnements UV intenses des zones sèches d'altitude. Ces mêmes composés, une fois utilisés par l'humain dans les préparations traditionnelles, produisent probablement les effets biologiques rapportés localement, bien que ces observations restent à confirmer par des études cliniques spécifiques.",
+    "molecules": "Aucune étude phytochimique publiée spécifiquement pour Amyris apiculata. Le genre Amyris contient des espèces pour lesquelles des métabolites secondaires ont été documentés, mais aucune donnée ne peut être extrapolée sans étude directe. Recherche phytochimique prioritaire recommandée.",
     "posologie": "Aucune posologie cliniquement validée n'est disponible pour Amyris apiculata. Les pratiques traditionnelles documentées localement ne sont pas standardisées et varient selon les praticiens et les contextes rituels. Les mentions historiques suggèrent l'usage de décoctions d'écorce à raison de 5-10 g par litre d'eau, mais ces indications empiriques n'ont fait l'objet d'aucune validation scientifique. La rareté critique de l'espèce rend d'ailleurs toute recommandation posologique éthiquement problématique en l'absence de programme de conservation et de multiplication contrôlée."
   },
   "nutrition": {
-    "introduction": "Amyris apiculata (syn. Elemifera apiculata) est un petit arbre endémique strict d'Haïti — c'est-à-dire qu'il n'existe nulle part ailleurs sur Terre. Il appartient à la famille des Rutacées, la même grande famille tropicale que les agrumes, particulièrement riche en huiles essentielles, en coumarines et en flavonoïdes. Au sein de cette famille, il fait partie du genre Amyris, un groupe d'arbres aromatiques des Caraïbes dont le bois est réputé pour sa teneur en résines et en sesquiterpènes volatils. Son usage dans les Départements du Sud et de la Grand'Anse est principalement spirituel et thérapeutique par voie externe, à travers des bains rituels et des fumigations. En raison de sa rareté extrême et de son aire de distribution ultra-restreinte limitée au Massif de la Hotte dans la Grand'Anse, la conservation de cette espèce constitue une priorité écologique absolue."
+    "valeur": "La valeur économique directe d'A. apiculata est actuellement nulle en raison de sa rareté critique. Historiquement, l'espèce possédait une valeur culturelle et spirituelle significative dans les communautés traditionnelles de la Grand'Anse. Le potentiel économique futur pourrait résider dans l'écotourisme scientifique spécialisé, la valorisation de son statut d'endémique strict, et éventuellement dans la recherche pharmaceutique si des propriétés bioactives remarquables étaient découvertes. Cependant, toute exploitation économique ne peut être envisagée qu'après sécurisation complète des populations sauvages et développement de programmes de culture contrôlée."
   },
   "toxicologie": {
-    "niveau": "",
+    "niveau": "🟡 Précautions requises",
     "details": "Aucune toxicité majeure n'est rapportée pour A. apiculata dans les usages traditionnels externes. Par analogie avec le genre Amyris, les précautions théoriques incluent un risque d'irritation gastrique en cas d'ingestion de fortes doses, et de potentielles interactions médicamenteuses liées aux coumarines chez les patients sous anticoagulants. Les huiles essentielles concentrées peuvent provoquer des irritations cutanées chez les individus sensibles. L'usage est déconseillé chez la femme enceinte et allaitante par précaution, ainsi qu'en cas d'insuffisance rénale. Ces précautions restent largement théoriques en l'absence d'études toxicologiques spécifiques."
   },
   "conservation": {
@@ -38,8 +38,8 @@
     "valeur": "La valeur économique directe d'A. apiculata est actuellement nulle en raison de sa rareté critique. Historiquement, l'espèce possédait une valeur culturelle et spirituelle significative dans les communautés traditionnelles de la Grand'Anse. Le potentiel économique futur pourrait résider dans l'écotourisme scientifique spécialisé, la valorisation de son statut d'endémique strict, et éventuellement dans la recherche pharmaceutique si des propriétés bioactives remarquables étaient découvertes. Cependant, toute exploitation économique ne peut être envisagée qu'après sécurisation complète des populations sauvages et développement de programmes de culture contrôlée."
   },
   "recherche": {
-    "nb_articles": "",
     "details": "Les recherches prioritaires concernant A. apiculata doivent porter sur sa conservation : études démographiques des populations restantes, caractérisation de ses exigences écologiques, développement de protocoles de multiplication et de réintroduction. Sur le plan scientifique, une caractérisation phytochimique complète permettrait de confirmer sa composition en métabolites secondaires et d'évaluer son potentiel bioactif. Des études phylogénétiques pourraient éclairer ses relations évolutives au sein du genre Amyris et contribuer aux stratégies de conservation. La collaboration internationale avec des institutions spécialisées dans la conservation des espèces endémiques menacées constitue une priorité absolue pour sauvegarder ce patrimoine biologique unique d'Haïti.",
+    "nb_articles": "",
     "lien_pubmed": "",
     "lien_scholar": "",
     "lien_tramil": ""
@@ -47,8 +47,15 @@
   "references": "Dahiya, P. & Manglik, V. (2013). Chemical composition and antimicrobial activity of essential oil of Amyris balsamifera L. from India. PMID: 24031219. García, D. et al. (2020). Phytochemical analysis of Amyris species from the Caribbean. Redalyc Database. Rohmer, M. et al. (1977). Sesquiterpenes from Amyris species. Phytochemistry. POWO (2024). Plants of the World Online. Kew Science. https://powo.science.kew.org/ World Flora Online (2024). WFO Plant List. http://www.worldfloraonline.org/",
   "aRetenir": "🟢 À retenir — Ti pwason : est une espece peu ou non etudiee scientifiquement. Les proprietes presentees reposent sur des analogies avec des especes proches et les usages traditionnels documentes localement. La conservation de cette espece prime sur toute valorisation. Les auteurs declinent toute responsabilite quant a un usage inapproprie.",
   "images": {
-    "principale": "",
-    "galerie": []
+    "principale": "/images/791_Amyris_apiculata-001.jpg",
+    "galerie": [
+      "/images/791_Amyris_apiculata-001.jpg",
+      "/images/791_Amyris_apiculata-002.jpg",
+      "/images/791_Amyris_apiculata-003.jpg",
+      "/images/791_Amyris_apiculata-004.jpg",
+      "/images/791_Amyris_apiculata-005.jpg",
+      "/images/791_Amyris_apiculata-006.jpg"
+    ]
   },
-  "source": "plantes_full.json"
+  "source": "CSV corrigé 2026-04-11"
 }

@@ -1,7 +1,7 @@
 {
   "id_plante": "plt-4501",
   "code": "plt-4501",
-  "no_espece": "",
+  "no_espece": "45.1",
   "no_famille": "45",
   "famille": "Lythracées",
   "description_famille": "Les Lythracées constituent une famille principalement arbustive de régions tropicales et subtropicales, rassemblant environ 600 espèces réparties en 30 genres. Cette famille se distingue par ses représentants à forte valeur nutritionnelle et thérapeutique, dont le grenadier (Punica granatum) représente l'espèce la plus emblématique pour ses propriétés antioxydantes exceptionnelles. D'autres genres d'intérêt incluent Lawsonia (henné) utilisé en cosmétique traditionnelle, et Lagerstroemia (lilas des Indes) prisé comme ornemental. Sur le plan phytochimique, les Lythracées présentent une signature remarquable dominée par les tanins hydrolysables — notamment les punicalagines et l'acide ellagique — les anthocyanes responsables des colorations rouge-pourpre des fruits, et divers flavonoïdes. Ces composés confèrent à la famille des propriétés antioxydantes, anti-inflammatoires et antimicrobiennes ciblant préférentiellement le système digestif. Une vigilance s'impose cependant : l'écorce de certaines espèces, notamment du grenadier, renferme des alcaloïdes comme la pelletierine, potentiellement toxiques à doses élevées et nécessitant une préparation appropriée.",
@@ -20,17 +20,17 @@
   },
   "usages": {
     "usages_ethnobotaniques": "Dans les Départements du Sud et de la Grand'Anse, le grenadier est documenté pour ses usages alimentaires et médicinaux. Le jus des graines constitue la préparation la plus courante : consommé frais, il est réputé antioxydant et vasculoprotecteur. L'usage traditionnel local inclut la consommation du jus pour traiter la fatigue et renforcer l'immunité. Le fruit entier est également utilisé contre les parasites intestinaux et les inflammations de la gorge, usage cohérent avec les propriétés antimicrobiennes documentées. L'écorce et le péricarpe sont employés en décoction comme antidiarrhéique et antimicrobien, pratique commune à de nombreuses régions tropicales. Les données TRAMIL confirment l'usage du grenadier contre la diarrhée en Haïti, témoignant de la persistance de cette application thérapeutique traditionnelle.",
-    "systemes_concernes": "Digestif, Cardiovasculaire"
+    "systemes_concernes": "Le grenadier cible préférentiellement le système digestif, conformément à la signature phytochimique de sa famille. Les applications documentées localement concernent la fatigue et l'immunité, systèmes sur lesquels les punicalagines exercent leurs effets antioxydants les plus marqués. Les mécanismes d'action reposent sur la capacité des punicalagines et des anthocyanes à piéger les radicaux libres, à moduler la production d'oxyde nitrique et à inhiber les enzymes pro-inflammatoires comme la cyclooxygénase. L'activité antibactérienne in vitro a été démontrée contre divers pathogènes, incluant Escherichia coli, Staphylococcus aureus et Helicobacter pylori, expliquant l'efficacité traditionnelle contre les troubles digestifs infectieux (Voravuthikunchai et al., 2004 — PMID: 15588080). Les études suggèrent également une action hépatoprotectrice et cardiovasculaire, bien que ces effets nécessitent confirmation clinique."
   },
   "pharmacologie": {
     "molecules": "Le grenadier se caractérise par une composition phytochimique d'exception, particulièrement riche en composés antioxydants. Le jus de grenade doit sa couleur rouge rubis intense aux anthocyanes — principalement la delphinidine et la cyanidine — qui protègent la plante contre les rayonnements UV et attirent les animaux disperseurs. La saveur acidulée provient des acides organiques (citrique, malique), tandis que la teneur en vitamine C (10-15 mg/100mL) et en potassium (236 mg/100mL) confère au fruit ses propriétés nutritionnelles remarquables (Gil et al., 2000 — PMID: 11052704). Les principaux composés secondaires identifiés dans P. granatum comprennent : des tanins hydrolysables uniques appelés punicalagines (α et β), l'acide ellagique et ses dérivés, des anthocyanes (delphinidine, cyanidine), des flavonoïdes (quercétine, kaempférol), des acides phénoliques, et dans l'écorce, des alcaloïdes tropaniques comme la pelletierine et la pseudopelletierine (Lansky & Newman, 2007 — PMID: 17556424). Ces molécules remplissent des fonctions de défense essentielles pour la plante. Les punicalagines, présentes à des concentrations exceptionnellement élevées (jusqu'à 2g/L dans le jus), constituent un système de défense chimique contre les pathogènes fongiques et bactériens. Les anthocyanes protègent les tissus photosynthétiques contre le stress oxydatif en altitude. Les alcaloïdes de l'écorce dissuadent les herbivores par leur amertume et leur toxicité. Ces mêmes composés, une fois ingérés par l'humain, produisent les effets biologiques documentés : les punicalagines exercent une activité antioxydante supérieure à celle de la vitamine E, tandis que l'acide ellagique présente des propriétés anti-inflammatoires et potentiellement anticancéreuses in vitro (Seeram et al., 2005 — PMID: 15588721).",
     "posologie": "Les études cliniques publiées utilisent généralement 50 à 200 mL par jour de jus de grenade standardisé pour les applications antioxydantes et cardiovasculaires. Pour l'extrait de péricarpe contre la diarrhée, les protocoles traditionnels mentionnent des décoctions préparées avec 5-10g de péricarpe séché pour 150mL d'eau, bien que cette posologie ne soit pas cliniquement validée. La standardisation demeure problématique en raison de la variabilité naturelle en punicalagines selon les variétés et conditions de culture (Elfalleh et al., 2011 — PMID: 21535836)."
   },
   "nutrition": {
-    "introduction": "Punica granatum L. (syn. Punica nana) est un arbuste fruitier exotique cultivé dans les Départements du Sud et de la Grand'Anse d'Haïti, où il demeure rare en production locale. Il appartient à la famille des Lythracées, une famille principalement arbustive reconnue pour ses propriétés antioxydantes exceptionnelles. Au sein de cette famille, il constitue l'espèce type du genre Punica, genre monospécifique dont il représente l'unique représentant. Le grenadier est une plante à double usage — alimentaire par ses fruits riches en antioxydants, et médicinale par son écorce et son péricarpe aux propriétés antidiarrhéiques documentées. Son importance thérapeutique mondiale en fait l'un des fruits les plus étudiés scientifiquement, avec près de 5000 publications indexées."
+    "valeur": "Internationale, le grenadier représente un marché en expansion rapide, valorisé comme \"super-aliment\" pour ses propriétés antioxydantes exceptionnelles. Localement, le développement de la filière grenade pourrait offrir des opportunités économiques intéressantes, notamment pour l'exportation de jus et d'extraits standardisés. La transformation artisanale en sirops et confitures constitue également un potentiel de valorisation."
   },
   "toxicologie": {
-    "niveau": "",
+    "niveau": "🟢 Non toxique aux doses usuelles",
     "details": "Le fruit et le jus de grenade présentent un profil de sécurité favorable aux doses alimentaires usuelles. Cependant, des précautions s'imposent concernant l'écorce et les racines, riches en alcaloïdes tropaniques potentiellement toxiques. L'excès de tanins provenant du péricarpe peut provoquer constipation et irritation gastrique. Des interactions théoriques avec les anticoagulants et antihypertenseurs sont possibles en raison de l'activité vasculaire du jus, nécessitant une surveillance médicale chez les patients traités. La consommation de racine est formellement déconseillée en raison de sa teneur élevée en pelletierine."
   },
   "conservation": {
@@ -38,8 +38,8 @@
     "valeur": "Internationale, le grenadier représente un marché en expansion rapide, valorisé comme \"super-aliment\" pour ses propriétés antioxydantes exceptionnelles. Localement, le développement de la filière grenade pourrait offrir des opportunités économiques intéressantes, notamment pour l'exportation de jus et d'extraits standardisés. La transformation artisanale en sirops et confitures constitue également un potentiel de valorisation."
   },
   "recherche": {
-    "nb_articles": "~5000 (estimation)",
     "details": "Avec près de 5000 publications indexées sur PubMed, P. granatum figure parmi les plantes les plus étudiées au monde. Les recherches actuelles se concentrent sur l'optimisation de l'extraction des punicalagines, le développement de nutraceutiques standardisés, et l'évaluation clinique des effets anticancéreux et neuroprotecteurs. Pour Haïti, des études sur l'adaptation variétale et l'optimisation des techniques de culture en climat tropical seraient particulièrement pertinentes.",
+    "nb_articles": "",
     "lien_pubmed": "",
     "lien_scholar": "",
     "lien_tramil": ""
@@ -47,10 +47,10 @@
   "references": "Gil, M.I. et al. (2000). Antioxidant activity of pomegranate juice and its relationship with phenolic composition and processing. Journal of Agricultural and Food Chemistry. PMID: 11052704. Lansky, E.P. & Newman, R.A. (2007). Punica granatum (pomegranate) and its potential for prevention and treatment of inflammation and cancer. Journal of Ethnopharmacology. PMID: 17556424. Seeram, N.P. et al. (2005). Pomegranate juice ellagitannin metabolites are present in human plasma. Journal of Nutrition. PMID: 15588721. Voravuthikunchai, S.P. et al. (2004). Effective medicinal plants against enterohaemorrhagic Escherichia coli O157:H7. Journal of Ethnopharmacology. PMID: 15588080. Elfalleh, W. et al. (2011). Total phenolic contents and antioxidant activities of pomegranate peel, seed, leaf and flower. Journal of Medicinal Plants Research. PMID: 21535836. TRAMIL (2024). Punica granatum. www.tramil.net/en/plant/punica-granatum POWO (2024). Punica granatum L. Plants of the World Online, Kew Science.",
   "aRetenir": "🟡 À retenir — Grenad : est une plante a toxicite conditionnelle documentee. Respecter imperativement les precautions indiquees. Ne jamais ingerer les parties toxiques sans encadrement medical. Ces informations sont destinees a l'enseignement et a la documentation. Les auteurs declinent toute responsabilite quant a un usage inapproprie.",
   "images": {
-    "principale": "images/451_Punica_granatum-001.jpg",
+    "principale": "/images/451_Punica_granatum-001.jpg",
     "galerie": [
-      "images/451_Punica_granatum-001.jpg"
+      "/images/451_Punica_granatum-001.jpg"
     ]
   },
-  "source": "plantes_full.json"
+  "source": "CSV corrigé 2026-04-11"
 }

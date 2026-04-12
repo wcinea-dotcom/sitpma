@@ -1,7 +1,7 @@
 {
   "id_plante": "plt-8105",
   "code": "plt-8105",
-  "no_espece": "",
+  "no_espece": "81.5",
   "no_famille": "81",
   "famille": "Sapindacées",
   "description_famille": "",
@@ -20,17 +20,17 @@
   },
   "usages": {
     "usages_ethnobotaniques": "Dans les Départements du Sud et de la Grand'Anse, S. saponaria est documenté principalement comme détergent naturel : les fruits sont utilisés pour la lessive, constituant une alternative écologique aux savons industriels. Les graines servent traditionnellement aux jeux d'enfants en raison de leur forme sphérique parfaite et de leur dureté. L'usage médicinal se concentre sur les applications externes : les feuilles sont utilisées en friction pour leurs propriétés antimicrobiennes, anti-inflammatoires et analgésiques. Selon TRAMIL, en Haïti, la plante sert également pour les bains thérapeutiques. Le mode de préparation principal documenté localement est la friction directe des péricarpes ou des feuilles sur la zone à traiter. Au niveau international, l'espèce est reconnue dans les Amériques comme source de savon naturel, tandis qu'au Brésil, des études ont exploré son potentiel spermicide.",
-    "systemes_concernes": ""
+    "systemes_concernes": "S. saponaria cible préférentiellement le système cutané selon les usages documentés dans le Sud et la Grand'Anse. La plante est traditionnellement employée pour diverses affections de la peau et du cuir chevelu, ainsi que pour les troubles liés à la tension et aux reins. Les mécanismes d'action reposent principalement sur les saponines, qui perturbent les membranes cellulaires microbiennes, produisant un effet antimicrobien et antifongique. Cette même propriété explique l'effet détergent de la plante. Les polyphénols et flavonoïdes contribuent aux effets antioxydants et anti-inflammatoires modérés observés en usage externe. Une diurèse modérée a été rapportée, bien que les mécanismes exacts restent à élucider. Des études in vitro ont confirmé l'activité antimicrobienne contre plusieurs pathogènes (Hassan et al., 2007 — PMID: 17292616)."
   },
   "pharmacologie": {
     "molecules": "Ce qui rend Sapindus saponaria particulièrement remarquable, c'est sa capacité exceptionnelle à produire des saponines triterpéniques en concentration élevée, principalement dans les péricarpes de ses fruits. Ces molécules amphiphiles naturelles — possédant à la fois une partie hydrophile et une partie lipophile — confèrent à la plante ses propriétés détergentes uniques, permettant de nettoyer efficacement graisses et saletés sans détergents synthétiques. Les saponines agissent en perturbant les membranes cellulaires grâce à leur capacité à former des micelles, expliquant à la fois leur effet nettoyant et leurs propriétés antimicrobiennes contre les pathogènes cutanés (Sparg et al., 2004 — PMID: 15567243). Les principaux composés secondaires identifiés dans S. saponaria comprennent : des saponines triterpéniques (hederagenine, oleanolique acid saponins), des flavonoïdes (quercétine, kaempférol), des tanins condensés, des coumarines et des composés phénoliques divers. Une étude brésilienne a caractérisé plusieurs saponines bioactives responsables des activités spermicides et antimicrobiennes de l'espèce (Pelegrini et al., 2008 — PMID: 18058985). Les mucilages présents contribuent aux propriétés adoucissantes pour la peau. Ces mêmes composés, une fois appliqués sur la peau humaine, produisent les effets biologiques documentés en usage externe. Les saponines perturbent les membranes des micro-organismes pathogènes tout en nettoyant la peau, tandis que les polyphénols apportent une protection antioxydante et anti-inflammatoire modérée. Les tanins contribuent à l'effet astringent bénéfique pour certaines affections cutanées. Il convient de noter que ces observations restent principalement issues d'études in vitro et d'usage traditionnel, l'usage interne étant déconseillé en raison de la toxicité potentielle des saponines.",
     "posologie": "L'usage le mieux documenté et le plus sûr de S. saponaria reste l'application topique comme détergent naturel et pour les soins cutanés. Pour l'usage comme savon, les péricarpes peuvent être frottés directement sur la peau humide ou les cheveux. En médecine populaire, des infusions très diluées (5 g/L) sont parfois mentionnées, mais l'usage interne n'est pas recommandé en raison des risques de toxicité. Aucune posologie cliniquement validée n'est disponible pour les usages médicinaux internes, et les pratiques traditionnelles documentées localement privilégient l'usage externe qui présente un profil de sécurité bien meilleur."
   },
   "nutrition": {
-    "introduction": "Sapindus saponaria L. (syn. Sapindus inaequalis) est un arbre natif rare des Départements du Sud et de la Grand'Anse, où il est connu sous le nom de « Savonèt ». Il appartient à la famille des Sapindacées, une famille botanique d'une valeur inestimable essentiellement représentée par des arbustes et des arbres. Cette famille se distingue par ses riches usages alimentaires — notamment avec l'aki (Blighia sapida) et le kenèp — médicinaux et spirituels, ainsi que par des propriétés détergentes remarquables. Sur le plan phytochimique, les Sapindacées expriment une signature dominée par la présence de saponines (sapindosides), de flavonoïdes, de tanins et de phénols, ciblant préférentiellement les systèmes respiratoire, hépatique et digestif. Il convient cependant de noter une vigilance particulière concernant certains membres de cette famille : Blighia sapida présente des fruits mortels lorsqu'ils ne sont pas parfaitement mûrs en raison de l'hypoglycine A et B, tandis que les fruits de Sapindus sont toxiques par voie orale. Au sein de cette famille, S. saponaria fait partie du genre Sapindus, reconnu mondialement pour ses propriétés détergentes naturelles exceptionnelles grâce à sa forte concentration en saponines triterpéniques. L'usage principal de cette espèce dans les deux départements est celui de détergent naturel et de remède topique pour les soins de la peau et des cheveux."
+    "valeur": "Localement, S. saponaria représente une valeur économique potentielle comme détergent écologique et pour l'artisanat (graines décoratives). Au niveau international, l'espèce suscite un intérêt croissant dans l'industrie des cosmétiques naturels et des détergents biodégradables, particulièrement en raison des préoccupations environnementales actuelles concernant les tensioactifs synthétiques. Le développement d'une filière durable pourrait générer des revenus locaux tout en encourageant la conservation de l'espèce. Les propriétés spermicides documentées ouvrent également des perspectives pharmaceutiques, bien que nécessitant des recherches cliniques approfondies."
   },
   "toxicologie": {
-    "niveau": "",
+    "niveau": "🟢 Non toxique aux doses usuelles",
     "details": "S. saponaria présente un profil toxicologique conditionnel nécessitant des précautions d'usage. Les fruits et péricarpes sont toxiques par voie orale à dose élevée, pouvant provoquer diarrhée, vomissements et cytotoxicité démontrée sur cellules HepG2 en laboratoire. L'usage interne répété est déconseillé, particulièrement chez les enfants, femmes enceintes et personnes souffrant d'insuffisance rénale. Les saponines, bien que bénéfiques en usage externe, peuvent être irritantes pour les muqueuses et le système digestif. L'usage externe est généralement bien toléré, mais des tests de sensibilité sont recommandés. Il convient de privilégier systématiquement l'usage topique, qui présente le meilleur rapport bénéfice-risque pour cette espèce."
   },
   "conservation": {
@@ -38,8 +38,8 @@
     "valeur": "Localement, S. saponaria représente une valeur économique potentielle comme détergent écologique et pour l'artisanat (graines décoratives). Au niveau international, l'espèce suscite un intérêt croissant dans l'industrie des cosmétiques naturels et des détergents biodégradables, particulièrement en raison des préoccupations environnementales actuelles concernant les tensioactifs synthétiques. Le développement d'une filière durable pourrait générer des revenus locaux tout en encourageant la conservation de l'espèce. Les propriétés spermicides documentées ouvrent également des perspectives pharmaceutiques, bien que nécessitant des recherches cliniques approfondies."
   },
   "recherche": {
-    "nb_articles": "",
     "details": "Les recherches sur S. saponaria se concentrent actuellement sur la caractérisation chimique de ses saponines et l'évaluation de leurs applications commerciales. Des études récentes explorent son potentiel dans la formulation de détergents biodégradables et de cosmétiques naturels. Les propriétés spermicides nécessitent des recherches cliniques pour évaluer l'efficacité et l'innocuité chez l'humain. Des études de toxicologie chronique seraient précieuses pour mieux définir les seuils de sécurité. La multiplication in vitro et les techniques de conservation ex situ représentent des priorités pour préserver les ressources génétiques de cette espèce rare en Haïti.",
+    "nb_articles": "",
     "lien_pubmed": "",
     "lien_scholar": "",
     "lien_tramil": ""
@@ -47,10 +47,10 @@
   "references": "Sparg, S.G., Light, M.E., & van Staden, J. (2004). Biological activities and distribution of plant saponins. Journal of Ethnopharmacology, 94(2-3), 219-243. PMID: 15567243. Pelegrini, D.D., Tsuzuki, J.K., Amado, C.A., Ferreira, A.M., & Mourao, R.H. (2008). Biological activity and isolated saponins from Sapindus saponaria. Zeitschrift für Naturforschung C, 63(11-12), 731-740. PMID: 18058985. Hassan, S.M., Haq, A.U., Byrd, J.A., Berhow, M.A., Cartwright, A.L., & Bailey, C.A. (2007). Haemolytic and antimicrobial activities of saponin-rich extracts from guar meal. Food Chemistry, 107(3), 1310-1315. PMID: 17292616. POWO (2024). Plants of the World Online. Kew Science. http://www.plantsoftheworldonline.org/ World Flora Online (2024). http://www.worldfloraonline.org/",
   "aRetenir": "🟡 À retenir — Savonèt : est une plante a toxicite conditionnelle documentee. Respecter imperativement les precautions indiquees. Ne jamais ingerer les parties toxiques sans encadrement medical. Ces informations sont destinees a l'enseignement et a la documentation. Les auteurs declinent toute responsabilite quant a un usage inapproprie.",
   "images": {
-    "principale": "images/805_Sapindus_saponaria-001.jpg",
+    "principale": "/images/805_Sapindus_saponaria-001.jpg",
     "galerie": [
-      "images/805_Sapindus_saponaria-001.jpg"
+      "/images/805_Sapindus_saponaria-001.jpg"
     ]
   },
-  "source": "plantes_full.json"
+  "source": "CSV corrigé 2026-04-11"
 }

@@ -1,7 +1,7 @@
 {
   "id_plante": "plt-0805",
   "code": "plt-0805",
-  "no_espece": "",
+  "no_espece": "8.5",
   "no_famille": "8",
   "famille": "Apiacées",
   "description_famille": "",
@@ -20,17 +20,17 @@
   },
   "usages": {
     "usages_ethnobotaniques": "Dans les Départements du Sud et de la Grand'Anse, le lanni est documenté principalement pour traiter les troubles digestifs : digestion lente, ballonnements, coliques et gaz intestinaux. Les populations locales reconnaissent également ses propriétés galactogènes légères et antispasmodiques. Les graines constituent la partie privilégiée, préparées en infusion selon un mode de préparation simple : 1 à 2 cuillères à café de graines légèrement concassées sont infusées dans une tasse d'eau chaude pendant 10 à 15 minutes. Les feuilles fraîches peuvent être utilisées en décoction légère ou ajoutées aux préparations culinaires pour leurs vertus carminatives. Cette utilisation s'inscrit dans un usage caribéen plus large : en République Dominicaine, TRAMIL documente son emploi pour la digestion, tandis qu'en Italie, le fenouil est reconnu comme digestif traditionnel.",
-    "systemes_concernes": "Digestif, Reproducteur"
+    "systemes_concernes": "Le fenouil cible préférentiellement le système digestif, avec des effets secondaires bénéfiques sur le système reproducteur féminin. Les troubles traités incluent les gaz intestinaux, les coliques, la digestion lente et les spasmes abdominaux. Les mécanismes d'action reposent principalement sur l'anéthol et les autres constituants aromatiques qui modulent la motricité digestive et exercent des effets antispasmodiques documentés. Des études in vitro ont démontré une activité antioxydante et anti-inflammatoire légère, contribuant potentiellement aux effets thérapeutiques observés (Faudale et al., 2008 — PMID: 18571258). L'effet galactogène traditionnellement attribué au fenouil pourrait s'expliquer par une modulation hormonale liée aux phytoestrogènes contenus dans la plante, bien que ce mécanisme nécessite des études cliniques supplémentaires pour être confirmé."
   },
   "pharmacologie": {
     "molecules": "Le fenouil présente une sa richesse exceptionnelle en composés aromatiques volatils, responsables de son parfum anisé caractéristique et de ses propriétés digestives. Les graines contiennent 3 à 6% d'huile essentielle, dominée par l'anéthol (50-80%), molécule responsable de la saveur douce et anisée. Cette concentration élevée en anéthol explique pourquoi le fenouil est traditionnellement utilisé comme substitut de l'anis. Les graines renferment également des fibres solubles (15-20%), des protéines (15-18%) et une gamme de minéraux essentiels, particulièrement le potassium, le calcium et le magnésium. Les principaux composés secondaires identifiés dans F. vulgare comprennent : l'anéthol (composé aromatique majeur aux propriétés antispasmodiques), la fenchone (cétone terpénique aux effets carminatifs), l'estragole (phénylpropène aromatique), des flavonoïdes comme la quercétine et le kaempférol (antioxydants), des coumarines, et des saponines triterpéniques (Badgujar et al., 2014 — doi:10.1155/2014/842674). Des études récentes ont aussi identifié des polyacétylènes et des acides phénoliques contribuant à l'activité biologique globale. Ces molécules remplissent des fonctions défensives précises pour la plante. L'anéthol et la fenchone, concentrés dans les graines, protègent la descendance contre les insectes granivores et les champignons pathogènes. Les coumarines dans les racines repoussent les nématodes du sol, tandis que les flavonoïdes foliaires protègent contre les rayonnements UV et les herbivores. Ces mêmes composés, une fois ingérés par l'humain, produisent les effets biologiques documentés : l'anéthol module la motricité gastro-intestinale et exerce des effets antispasmodiques, expliquant l'efficacité traditionnelle contre les coliques et les ballonnements. Les observations restent toutefois principalement issues d'études in vitro et sur modèles animaux.",
     "posologie": "L'Agence européenne du médicament (EMA) a établi une monographie officielle pour F. vulgare, recommandant 1,5 à 2,5 g de fruits concassés par 250 mL d'eau chaude, à prendre 2 à 3 fois par jour chez l'adulte. La durée de traitement recommandée est généralement de 1 à 2 semaines maximum pour éviter tout effet indésirable lié à une utilisation prolongée (EMA, 2013). Cette posologie standardisée offre un cadre sécuritaire pour l'usage thérapeutique, bien que les pratiques traditionnelles haïtiennes puissent varier en fonction de l'expérience locale et de la gravité des symptômes traités."
   },
   "nutrition": {
-    "introduction": "Foeniculum vulgare Mill. (syn. Anethum foeniculum L.) est une herbe aromatique exotique cultivée dans les Départements du Sud et de la Grand'Anse d'Haïti. Cette espèce appartient à la famille des Apiacées, reconnue pour ses remarquables propriétés aromatiques et digestives. Au sein de cette famille, le genre Foeniculum ne comprend qu'une seule espèce — F. vulgare — mais celle-ci présente plusieurs variétés, dont le fenouil doux utilisé comme légume et le fenouil amer à vocation principalement médicinale. L'usage dominant du « lanni » dans les deux départements est aromatique et thérapeutique, particulièrement apprécié pour traiter les troubles digestifs, notamment les gaz intestinaux et les coliques."
+    "valeur": "Le fenouil représente une opportunité économique intéressante pour les Départements du Sud et de la Grand'Anse, combinant valeur médicinale, aromatique et pharmaceutique. Sur le marché international, les graines de fenouil de qualité se négocient à des prix attractifs, particulièrement pour l'industrie pharmaceutique et cosmétique. Le développement de filières locales pourrait créer des revenus complémentaires pour les communautés rurales tout en réduisant la dépendance aux importations de plantes médicinales."
   },
   "toxicologie": {
-    "niveau": "",
+    "niveau": "🟢 Non toxique aux doses usuelles",
     "details": "Foeniculum vulgare est généralement considéré comme non toxique aux doses thérapeutiques usuelles. Cependant, certaines précautions s'imposent : la prudence est recommandée pendant la grossesse à fortes doses et chez les nourrissons, en raison de la présence d'estragole dont les effets à dose élevée font l'objet de discussions scientifiques. Le surdosage peut provoquer des nausées et des réactions allergiques chez les personnes sensibles. Des interactions théoriques avec certains médicaments sont possibles, bien que rarement rapportées en pratique clinique. L'usage culinaire et thérapeutique modéré ne présente généralement aucun risque pour la population générale."
   },
   "conservation": {
@@ -38,8 +38,8 @@
     "valeur": "Le fenouil représente une opportunité économique intéressante pour les Départements du Sud et de la Grand'Anse, combinant valeur médicinale, aromatique et pharmaceutique. Sur le marché international, les graines de fenouil de qualité se négocient à des prix attractifs, particulièrement pour l'industrie pharmaceutique et cosmétique. Le développement de filières locales pourrait créer des revenus complémentaires pour les communautés rurales tout en réduisant la dépendance aux importations de plantes médicinales."
   },
   "recherche": {
-    "nb_articles": "~2000 (estimation)",
     "details": "Avec environ 2000 publications scientifiques référencées sur PubMed, F. vulgare figure parmi les plantes médicinales les mieux documentées. Les recherches actuelles s'orientent vers l'optimisation des extraits standardisés, l'évaluation clinique des effets galactogènes et l'exploration de nouvelles applications thérapeutiques. Pour Haïti, les priorités incluent l'adaptation variétale aux conditions locales, l'optimisation des techniques de culture et la standardisation des préparations traditionnelles selon les critères internationaux de qualité.",
+    "nb_articles": "",
     "lien_pubmed": "",
     "lien_scholar": "",
     "lien_tramil": "https://www.tramil.net/en/plant/foeniculum-vulgare"
@@ -47,10 +47,10 @@
   "references": "Badgujar, S.B., Patel, V.V., & Bandivdekar, A.H. (2014). Foeniculum vulgare Mill: A Review of Its Botany, Phytochemistry, Pharmacology, Contemporary Application, and Toxicology. BioMed Research International. doi:10.1155/2014/842674 Faudale, M., Viladomat, F., Bastida, J., Poli, F., & Codina, C. (2008). Antioxidant activity and phenolic composition of wild, edible, and medicinal fennel from different Mediterranean countries. Journal of Agricultural and Food Chemistry, 56(6), 1912-1920. PMID: 18571258 European Medicines Agency. (2013). Assessment report on Foeniculum vulgare Miller. EMA/HMPC/137428/2013. TRAMIL. Foeniculum vulgare. https://www.tramil.net/en/plant/foeniculum-vulgare POWO. Plants of the World Online. Kew Science. https://powo.science.kew.org/",
   "aRetenir": "🟢 À retenir — Lanni : est utilisee en medecine traditionnelle avec un bon profil de securite aux doses courantes. Les usages presentes reposent sur des donnees ethnobotaniques et scientifiques publiees, mais ne constituent pas une prescription. Consulter un professionnel de sante avant tout usage therapeutique. Les auteurs declinent toute responsabilite quant a un usage inapproprie.",
   "images": {
-    "principale": "images/85_Foeniculum_vulgare-001.jpg",
+    "principale": "/images/85_Foeniculum_vulgare-001.jpg",
     "galerie": [
-      "images/85_Foeniculum_vulgare-001.jpg"
+      "/images/85_Foeniculum_vulgare-001.jpg"
     ]
   },
-  "source": "plantes_full.json"
+  "source": "CSV corrigé 2026-04-11"
 }

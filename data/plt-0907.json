@@ -1,7 +1,7 @@
 {
   "id_plante": "plt-0907",
   "code": "plt-0907",
-  "no_espece": "",
+  "no_espece": "9.7",
   "no_famille": "9",
   "famille": "Apocynacées",
   "description_famille": "",
@@ -20,38 +20,38 @@
   },
   "usages": {
     "usages_ethnobotaniques": "Dans les Départements du Sud et de la Grand'Anse, l'usage de T. peruviana est aujourd'hui principalement ornemental, la plante étant cultivée pour ses fleurs décoratives dans certains jardins. Historiquement, les graines étaient connues localement sous le nom de « Sase », terme qui évoque directement leur potentiel létal. Contrairement à d'autres régions des Caraïbes où des usages médicinaux traditionnels ont pu persister, aucun usage thérapeutique n'est documenté dans le Sud et la Grand'Anse d'Haïti — une sagesse populaire qui témoigne de la reconnaissance locale de la dangerosité de cette plante. Les données TRAMIL confirment l'absence d'usage médicinal traditionnel validé dans l'ensemble des Caraïbes pour cette espèce. À l'échelle internationale, T. peruviana est malheureusement connue en Inde pour son utilisation dans les suicides, particulièrement dans les zones rurales où l'accès facile aux graines en fait un moyen létal facilement disponible.",
-    "systemes_concernes": "Cardiovasculaire"
+    "systemes_concernes": "T. peruviana ne présente aucun usage thérapeutique sûr et constitue exclusivement un poison végétal. Le système cardiovasculaire représente la cible principale et létale de ses toxines. Le mécanisme d'action des cardénolides de T. peruviana repose sur l'inhibition spécifique et irréversible de la Na⁺/K⁺‑ATPase cardiaque. Cette inhibition enzymatique provoque une accumulation intracellulaire de sodium et une déplétion en potassium, aboutissant à une modification dramatique du potentiel de membrane des cardiomyocytes. Les conséquences cliniques incluent : bradycardie sévère, blocs auriculo-ventriculaires de tous degrés, arythmies ventriculaires polymorphes et arrêt cardiaque. Le tableau clinique ressemble étroitement à une intoxication digitalique mais avec une évolution plus rapide et plus imprévisible. L'hyperkaliémie secondaire aggrave les troubles de conduction et peut précipiter l'arrêt cardiaque même chez des sujets jeunes et en bonne santé."
   },
   "pharmacologie": {
     "molecules": "Thevetia peruviana produit des graines exceptionnellement riches en lipides — principalement l'acide linoléique et divers stérols — qui masquent la présence des cardénolides mortels. Cette composition lipidique élevée rend les graines particulièrement appétentes pour certains animaux, constituant un piège chimique redoutable. Les graines contiennent également des glucides complexes et des fibres, mais ces composés nutritionnels deviennent totalement secondaires face à la concentration létale en glycosides cardiotoxiques. Sur le plan minéral, la plante accumule du potassium (K) et du calcium (Ca), minéraux qui paradoxalement aggravent l'intoxication en potentialisant l'action des cardénolides sur le système de conduction cardiaque. Les principaux composés secondaires identifiés dans T. peruviana comprennent : des cardénolides majeurs (thévétine A et B, peruvoside, neriifoline), des flavonoïdes (quercétine, kaempférol), des saponines triterpéniques, des tanins condensés et des iridoïdes. La thévétine A représente le principe actif le plus dangereux, avec une structure chimique apparentée à celle de la digitaline mais une toxicité bien supérieure (Langford & Boor, 1996). Ces molécules remplissent des fonctions de défense absolue pour la plante. Les cardénolides constituent un système de protection chimique si efficace qu'il décourage pratiquement tous les herbivores — seules quelques espèces d'insectes spécialisés ont développé une résistance enzymatique permettant de métaboliser ces toxines. Ces mêmes composés, une fois ingérés par l'humain, produisent les effets biologiques dramatiques documentés : ils inhibent spécifiquement la pompe Na⁺/K⁺‑ATPase des cardiomyocytes, provoquant une accumulation intracellulaire de sodium et une sortie massive de potassium, aboutissant à des troubles du rythme cardiaque mortels. Les observations cliniques demeurent malheureusement principalement issues de cas d'intoxication accidentelle ou volontaire rapportés dans la littérature médicale d'urgence.",
     "posologie": "Aucune posologie thérapeutique n'existe pour T. peruviana car toute ingestion, même minime, peut être mortelle. Les cas d'intoxication rapportés dans la littérature médicale montrent qu'une à trois graines peuvent suffire à provoquer des symptômes graves chez l'adulte, et qu'une seule graine peut être fatale chez l'enfant. La gestion de l'intoxication relève exclusivement du milieu hospitalier spécialisé et comprend : décontamination digestive d'urgence, surveillance cardiaque continue, correction des troubles électrolytiques et, dans les cas les plus graves, recours temporaire à un stimulateur cardiaque externe. Il n'existe aucun antidote spécifique, ce qui rend le pronostic particulièrement sombre en cas d'ingestion importante."
   },
   "nutrition": {
-    "introduction": "Thevetia peruviana (syn. Cascabela thevetia, Cerbera thevetia) est un arbuste natif des Départements du Sud et de la Grand'Anse d'Haïti, appartenant à la famille des Apocynacées. Il fait partie du genre Thevetia, un groupe d'arbustes tropicaux américains particulièrement redoutés pour leur toxicité extrême. En créole haïtien, « fèy sezi » fait référence aux propriétés saisissantes — au sens littéral — de cette plante dont l'ingestion provoque des convulsions et des arrêts cardiaques foudroyants. Bien que cultivée occasionnellement comme plante ornementale pour ses fleurs jaunes éclatantes, T. peruviana représente l'une des espèces végétales les plus dangereuses présentes en Haïti. Son usage traditionnel comme cardiotonique, documenté dans certaines pharmacopées caribéennes anciennes, a été définitivement abandonné en raison de sa létalité imprévisible. Dans les Départements du Sud et de la Grand'Anse, cette plante est désormais principalement connue sous l'appellation locale de « Sase » — un terme qui évoque directement son potentiel homicide."
+    "valeur": "T. peruviana ne présente aucune valeur économique positive dans les Départements du Sud et de la Grand'Anse, sa toxicité interdisant tout usage commercial. À l'échelle internationale, la plante fait l'objet de recherches pharmaceutiques pour l'isolement et la caractérisation de ses cardénolides, mais ces recherches visent principalement à développer des antidotes ou à comprendre les mécanismes de toxicité plutôt qu'à exploiter ses propriétés thérapeutiques. Son impact économique se limite malheureusement aux coûts de prise en charge médicale des intoxications accidentelles."
   },
   "toxicologie": {
-    "niveau": "danger",
+    "niveau": "🔴 Toxique",
     "details": "T. peruviana présente un niveau de toxicité 🔴 MORTELLE, constituant l'une des plantes les plus dangereuses de la flore haïtienne. L'ingestion de graines, de latex ou même de feuilles provoque rapidement des vomissements, des diarrhées profuses, une bradycardie progressive, une hyperkaliémie et des troubles majeurs de la conduction cardiaque pouvant évoluer vers l'arrêt cardiaque. La plante est totalement contre-indiquée en phytothérapie domestique. Le simple contact du latex avec les muqueuses peut provoquer des irritations sévères. Les enfants sont particulièrement vulnérables en raison de l'attractivité des fruits colorés. Toute suspicion d'ingestion impose un transfert immédiat en milieu hospitalier."
   },
   "conservation": {
-    "menaces": "Bien que T. peruviana ne soit pas menacée d'extinction — l'espèce étant largement répandue dans les régions tropicales — sa rareté relative dans les Départements du Sud et de la Grand'Anse constitue un facteur de sécurité publique appréciable. Les efforts de conservation ne constituent pas une priorité pour cette espèce, d'autant que sa dangerosité extrême limite son intérêt horticole. La sensibilisation du public à sa toxicité représente l'enjeu principal, particulièrement dans les zones où elle pourrait être confondue avec d'autres arbustes ornementaux moins dangereux.",
+    "menaces": "Bien que T. peruviana ne soit pas menacée d'extinction — l'espèce étant largement répandue dans les régions tropicales — sa rareté relative dans les Départements du Sud et de la Grand'Anse constitue un facteur de sécurité publique appréciable. Les efforts de contrôler la propagation ne constituent pas une priorité pour cette espèce, d'autant que sa dangerosité extrême limite son intérêt horticole. La sensibilisation du public à sa toxicité représente l'enjeu principal, particulièrement dans les zones où elle pourrait être confondue avec d'autres arbustes ornementaux moins dangereux.",
     "valeur": "T. peruviana ne présente aucune valeur économique positive dans les Départements du Sud et de la Grand'Anse, sa toxicité interdisant tout usage commercial. À l'échelle internationale, la plante fait l'objet de recherches pharmaceutiques pour l'isolement et la caractérisation de ses cardénolides, mais ces recherches visent principalement à développer des antidotes ou à comprendre les mécanismes de toxicité plutôt qu'à exploiter ses propriétés thérapeutiques. Son impact économique se limite malheureusement aux coûts de prise en charge médicale des intoxications accidentelles."
   },
   "recherche": {
-    "nb_articles": "",
     "details": "Les recherches sur T. peruviana se concentrent principalement sur la toxicologie clinique et le développement de méthodes de détection rapide des cardénolides dans les cas d'intoxication. Des études récentes explorent les mécanismes moléculaires de l'inhibition de la Na⁺/K⁺‑ATPase par les thévétines, dans l'espoir de développer des antagonistes spécifiques. La recherche se penche également sur l'identification de biomarqueurs précoces d'intoxication permettant un diagnostic plus rapide. Les perspectives thérapeutiques restent limitées à la compréhension des mécanismes de toxicité plutôt qu'à l'exploitation d'éventuelles propriétés bénéfiques.",
+    "nb_articles": "",
     "lien_pubmed": "",
     "lien_scholar": "",
-    "lien_tramil": ""
+    "lien_tramil": "http://www.tramil.net"
   },
   "references": "Langford DJ, Boor PJ (1996). Oleander toxicity: an examination of human and animal toxic exposures. Toxicology. DOI: 10.1016/0300-483X(95)03296-R. POWO (2024). Plants of the World Online. Facilitated by the Royal Botanic Gardens, Kew. http://www.plantsoftheworldonline.org/ TRAMIL (2024). Caribbean medicinal plants database. http://www.tramil.net World Flora Online (2024). http://www.worldfloraonline.org/",
   "aRetenir": "🔴 À retenir — Fèy sezi : est une plante hautement toxique. Toute manipulation sans protection est dangereuse. Toute ingestion peut etre mortelle. Ces informations sont destinees exclusivement a la documentation scientifique. Les auteurs declinent toute responsabilite quant a un usage inapproprie.",
   "images": {
-    "principale": "images/97_Thevetia_peruviana-001.jpg",
+    "principale": "/images/97_Thevetia_peruviana-001.jpg",
     "galerie": [
-      "images/97_Thevetia_peruviana-001.jpg",
-      "images/97_Thevetia_peruviana-002.jpg"
+      "/images/97_Thevetia_peruviana-001.jpg",
+      "/images/97_Thevetia_peruviana-002.jpg"
     ]
   },
-  "source": "plantes_full.json"
+  "source": "CSV corrigé 2026-04-11"
 }

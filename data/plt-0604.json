@@ -1,7 +1,7 @@
 {
   "id_plante": "plt-0604",
   "code": "plt-0604",
-  "no_espece": "",
+  "no_espece": "6.4",
   "no_famille": "6",
   "famille": "Anacardiacées",
   "description_famille": "",
@@ -20,17 +20,17 @@
   },
   "usages": {
     "usages_ethnobotaniques": "Dans les Départements du Sud et de la Grand'Anse, S. mombin présente un double usage alimentaire et médicinal documenté. Sur le plan alimentaire, le fruit sert à faire du jus et de la liqueur appréciés pour leur goût acidulé et rafraîchissant. L'écorce est traditionnellement utilisée comme cicatrisant pour les plaies, appliquée en décoction ou en cataplasme. Les modes de préparation documentés incluent le jus frais des fruits et les bains à base de décoctions d'écorce ou de feuilles. Dans la pharmacopée TRAMIL des Caraïbes, l'espèce est répertoriée à la Grenade pour faciliter l'accouchement. En Afrique, des usages similaires pour l'accouchement sont documentés, suggérant une convergence thérapeutique intercontinentale. Au Nigéria, des recherches récentes explorent ses propriétés antivirales potentielles. Les feuilles et l'écorce sont également utilisées traditionnellement contre la fièvre, la diarrhée, les infections respiratoires et les douleurs abdominales.",
-    "systemes_concernes": "Digestif, Tégumentaire"
+    "systemes_concernes": "S. mombin cible préférentiellement les systèmes digestif et tégumentaire. Sur le plan digestif, l'espèce est particulièrement réputée pour traiter la diarrhée et les troubles gastro-intestinaux. Les tanins condensés présents dans l'écorce et les feuilles contribuent à l'effet antidiarrhéique par leur action astringente sur les muqueuses intestinales et leurs propriétés antimicrobiennes contre les pathogènes entériques. Les flavonoïdes, notamment la quercétine et la rutine, exercent des effets anti-inflammatoires qui pourraient soulager les douleurs abdominales. Sur le plan tégumentaire, l'utilisation traditionnelle de l'écorce comme cicatrisant s'explique par l'action combinée des tanins (effet astringent et antimicrobien) et des composés phénoliques (propriétés antioxydantes). Les mécanismes d'action impliquant les voies COX et LOX restent principalement inférés et peu étudiés in vivo. L'usage traditionnel pour l'accouchement pourrait s'expliquer par les propriétés utérotoniques potentielles des saponines, bien que ce mécanisme nécessite des études cliniques approfondies."
   },
   "pharmacologie": {
     "molecules": "Monben accumule dans ses feuilles et ses fruits une palette d'antioxydants naturels — tanins, flavonoïdes, caroténoïdes et vitamine C — qui enrichissent ses productions comestibles d'une densité nutritionnelle remarquable tout en formant un bouclier chimique contre les agressions environnementales. Les principaux composés secondaires identifiés dans S. mombin comprennent : des tanins condensés (responsables de l'astringence et des propriétés antimicrobiennes), des flavonoïdes (quercétine, rutine, kaempférol), des saponines triterpéniques, des caroténoïdes (β-carotène, lycopène), des composés phénoliques (acide chlorogénique, acide gallique), de la vitamine C en concentration élevée dans les fruits, et des huiles essentielles en faible quantité dans les feuilles. Ces molécules remplissent des fonctions de défense précises pour la plante. Les tanins protègent contre les herbivores par leur goût astringent et leurs propriétés antimicrobiennes. Les flavonoïdes offrent une protection contre les rayonnements UV et le stress oxydatif. Les caroténoïdes protègent les tissus photosynthétiques et attirent les disperseurs de graines par la coloration jaune des fruits mûrs. La vitamine C agit comme antioxydant naturel dans les tissus végétaux.",
     "posologie": "La posologie traditionnelle documentée repose principalement sur l'usage empirique local. Pour les infusions de feuilles ou d'écorce à visée médicinale, la concentration recommandée est de 5 à 10 g de matière végétale sèche par litre d'eau, à consommer 1 à 2 fois par jour. Pour la consommation alimentaire, 50 à 100 g de pulpe de fruit par jour représentent une quantité normale comme aliment rafraîchissant. Ces dosages correspondent aux pratiques traditionnelles documentées mais ne sont pas validés par des essais cliniques contrôlés. La préparation en jus frais ne présente pas de limitation de dosage particulière dans le cadre d'un usage alimentaire normal. Pour les applications externes (bains, cataplasmes), la concentration peut être plus élevée selon la tolérance individuelle."
   },
   "nutrition": {
-    "introduction": "Spondias mombin L. (syn. Spondias lutea L.) est un arbre fruitier natif d'Amérique tropicale, commun dans les Départements du Sud et de la Grand'Anse d'Haïti. Il appartient à la famille des Anacardiacées, une famille composée majoritairement d'arbres, incontournable dans la flore du grand sud. Cette famille se distingue par de riches usages alimentaires et médicinaux, avec une signature phytochimique dominée par les tanins condensés, les acides anacardiques, les cardanols, les flavonoïdes et les terpènes, ciblant préférentiellement les systèmes digestif, tégumentaire et cutané. Il convient de noter que certaines espèces de cette famille — notamment le Comocladia — renferment des principes actifs très puissants ou potentiellement toxiques, comme les résines d'urushiol allergisantes, exigeant une préparation adéquate. Au sein de cette famille, Spondias mombin fait partie du genre Spondias, qui regroupe plusieurs espèces fruitières tropicales à fort potentiel alimentaire et thérapeutique. Le monben constitue à la fois un fruit apprécié pour sa richesse en vitamine C et un remède traditionnel documenté dans le Sud et la Grand'Anse pour les troubles digestifs, respiratoires et cutanés."
+    "valeur": "Sur le plan local, S. mombin présente une valeur économique significative tant pour l'alimentation que pour l'ombrage. Les fruits sont commercialisés sur les marchés locaux et transformés artisanalement en jus et liqueurs. L'arbre fournit également un ombrage apprécié dans les cours et les jardins familiaux. Au niveau international, l'espèce présente un potentiel dans l'industrie des jus tropicaux, valorisant sa richesse en vitamine C et ses propriétés organoleptiques distinctives. Le développement de cette filière pourrait offrir des opportunités économiques intéressantes pour les producteurs ruraux des régions tropicales."
   },
   "toxicologie": {
-    "niveau": "🟢 non toxique",
+    "niveau": "🟢 Non toxique aux doses usuelles",
     "details": "S. mombin présente un profil de sécurité favorable avec un niveau de toxicité 🟢 non toxique. Aucune toxicité majeure n'a été rapportée dans la littérature scientifique pour cette espèce lors d'un usage traditionnel approprié. Cependant, certaines précautions s'imposent : prudence pendant la grossesse en raison du manque de données de sécurité spécifiques, bien que l'usage traditionnel pour l'accouchement soit documenté dans plusieurs régions. En cas de diarrhée chronique, il convient de limiter les doses d'écorce astringente pour éviter une constipation secondaire. Une attention particulière doit être portée aux allergies potentielles à la pulpe du fruit ou à ses dérivés, bien que rares. L'usage externe de l'écorce est généralement bien toléré mais peut occasionner des irritations cutanées chez les personnes sensibles."
   },
   "conservation": {
@@ -38,8 +38,8 @@
     "valeur": "Sur le plan local, S. mombin présente une valeur économique significative tant pour l'alimentation que pour l'ombrage. Les fruits sont commercialisés sur les marchés locaux et transformés artisanalement en jus et liqueurs. L'arbre fournit également un ombrage apprécié dans les cours et les jardins familiaux. Au niveau international, l'espèce présente un potentiel dans l'industrie des jus tropicaux, valorisant sa richesse en vitamine C et ses propriétés organoleptiques distinctives. Le développement de cette filière pourrait offrir des opportunités économiques intéressantes pour les producteurs ruraux des régions tropicales."
   },
   "recherche": {
-    "nb_articles": "~500 (estimation)",
     "details": "Les recherches sur S. mombin connaissent un développement croissant, avec environ 500 publications indexées explorant ses propriétés phytochimiques et pharmacologiques. Les axes de recherche les plus prometteurs incluent l'évaluation des propriétés antivirales identifiées au Nigéria, l'étude des mécanismes moléculaires des effets antidiarrhéiques et cicatrisants, et la caractérisation approfondie des composés bioactifs responsables des effets thérapeutiques. Le potentiel antioxydant élevé lié à la richesse en vitamine C et en flavonoïdes mérite également des investigations cliniques. Les études futures devraient se concentrer sur la standardisation des extraits, la validation des usages traditionnels par des essais contrôlés et l'exploration des applications en nutraceutique.",
+    "nb_articles": "",
     "lien_pubmed": "https://pubmed.ncbi.nlm.nih.gov/?term=Spondias+mombin",
     "lien_scholar": "",
     "lien_tramil": "https://www.tramil.net/en/plant/spondias-mombin"
@@ -47,12 +47,12 @@
   "references": "Recherches disponibles sur PubMed : https://pubmed.ncbi.nlm.nih.gov/?term=Spondias+mombin Documentation TRAMIL : https://www.tramil.net/en/plant/spondias-mombin Données botaniques : POWO, Kew Science , World Flora Online (2026)",
   "aRetenir": "🟢 À retenir — Monben : est avant tout un aliment — sa valeur nutritionnelle prime sur ses usages medicinaux. Consommee correctement preparee, elle est sans danger documente. Ses proprietes therapeutiques, reelles mais secondaires, ne remplacent pas un suivi medical. Les auteurs declinent toute responsabilite quant a un usage inapproprie.",
   "images": {
-    "principale": "images/64_Spondias_mombin-001.jpg",
+    "principale": "/images/64_Spondias_mombin-001.jpg",
     "galerie": [
-      "images/64_Spondias_mombin-001.jpg",
-      "images/64_Spondias_mombin-002.jpg",
-      "images/64_Spondias_mombin-003.jpg"
+      "/images/64_Spondias_mombin-001.jpg",
+      "/images/64_Spondias_mombin-002.jpg",
+      "/images/64_Spondias_mombin-003.jpg"
     ]
   },
-  "source": "plantes_full.json"
+  "source": "CSV corrigé 2026-04-11"
 }

@@ -1,7 +1,7 @@
 {
   "id_plante": "plt-3601",
   "code": "plt-3601",
-  "no_espece": "",
+  "no_espece": "36.1",
   "no_famille": "36",
   "famille": "Dichapetalacées",
   "description_famille": "Les Dichapetalacées constituent une petite famille tropicale comprenant environ 165 espèces réparties en trois genres principaux : Dichapetalum, Tapura et Stephanopodium. Dominée par des arbustes et arbres à feuilles simples et alternes, cette famille se distingue par ses fleurs petites et ses fruits drupacés souvent colorés. Sur le plan ethnobotanique, plusieurs espèces du genre Dichapetalum sont traditionnellement utilisées en médecine africaine pour traiter diverses affections, tandis que certaines espèces américaines du genre Tapura restent largement sous-étudiées. La composition phytochimique de cette famille demeure variable et incomplètement caractérisée, avec des composés phénoliques, des triterpènes et des saponines documentés chez certaines espèces. Les systèmes physiologiques ciblés varient selon les espèces et les régions d'usage. Il convient de noter une vigilance particulière concernant certaines espèces du genre Dichapetalum qui renferment des composés cyanogéniques potentiellement toxiques, nécessitant une identification botanique rigoureuse avant tout usage.",
@@ -20,17 +20,17 @@
   },
   "usages": {
     "usages_ethnobotaniques": "Les usages ethnobotaniques de Tapura haitiensis sont actuellement peu documentés dans les Départements du Sud et de la Grand'Anse. Cette absence de documentation peut s'expliquer par plusieurs facteurs : la rareté extrême de l'espèce, sa distribution très restreinte, et possiblement une méconnaissance locale de ses propriétés potentielles. L'espèce semble jouer principalement un rôle écologique comme marqueur de biodiversité pour les zones protégées haïtiennes, plutôt qu'un rôle ethnobotanique direct. Il est possible que les communautés locales de la région de Dichiti possèdent des connaissances traditionnelles non encore documentées, ce qui constitue une priorité de recherche ethnobotanique urgent compte tenu du statut critique de conservation de l'espèce.",
-    "systemes_concernes": ""
+    "systemes_concernes": "Aucun système physiologique spécifique n'est documenté pour Tapura haitiensis dans la littérature scientifique ou ethnobotanique disponible. En l'absence d'études pharmacologiques publiées et d'usages traditionnels documentés, toute affirmation concernant des propriétés thérapeutiques potentielles relèverait de la pure spéculation. Par analogie avec d'autres espèces de Dichapetalacées étudiées, comme certaines espèces du genre Dichapetalum qui présentent des activités antimicrobiennes et anti-inflammatoires, T. haitiensis pourrait théoriquement partager certaines propriétés biologiques, mais cette hypothèse nécessiterait confirmation expérimentale rigoureuse."
   },
   "pharmacologie": {
-    "molecules": "Tapura haitiensis n'a fait l'objet d'aucune étude phytochimique publiée, ce qui constitue une lacune majeure dans la compréhension de cette espèce endémique. En l'absence de données spécifiques, les informations disponibles reposent sur des analogies avec d'autres espèces du genre Tapura et de la famille des Dichapetalacées. Les principaux composés secondaires probablement présents dans T. haitiensis, par analogie avec le genre Tapura, comprennent : des composés phénoliques (flavonoïdes, tanins), des triterpènes, des saponines et possiblement des alcaloïdes. Ces molécules, communes dans la famille des Dichapetalacées, remplissent des fonctions de défense essentielles pour les plantes tropicales exposées à une forte pression biotique. Ces composés secondaires jouent des rôles écologiques cruciaux pour T. haitiensis dans son environnement montagnard. Les composés phénoliques protègent contre les rayonnements UV intenses des hautes altitudes et contre les pathogènes fongiques favorisés par l'humidité. Les triterpènes et saponines constituent des barrières chimiques contre les herbivores et les insectes ravageurs. Ces mêmes composés, s'ils étaient un jour étudiés chez l'humain, pourraient présenter des propriétés biologiques intéressantes, mais toute affirmation reste hautement spéculative en l'absence d'études spécifiques.",
+    "molecules": "Aucune étude phytochimique publiée spécifiquement pour Tapura haitiensis Urb. & Ekman. Le genre Tapura contient des espèces pour lesquelles des métabolites secondaires ont été documentés, mais aucune donnée ne peut être extrapolée sans étude directe. Recherche phytochimique prioritaire recommandée.",
     "posologie": "Aucune posologie cliniquement validée n'est disponible pour Tapura haitiensis. L'espèce ne fait pas l'objet d'usages thérapeutiques documentés, et aucune étude clinique n'a été menée. Compte tenu de son statut d'espèce en danger critique et de l'absence totale de données toxicologiques, toute utilisation serait fortement déconseillée."
   },
   "nutrition": {
-    "introduction": "Tapura haitiensis est un arbuste à petit arbre endémique strict d'Haïti, appartenant à la famille des Dichapetalacées. Cette espèce remarquable ne se rencontre nulle part ailleurs sur Terre et représente l'une des raretés botaniques les plus précieuses des Départements du Sud et de la Grand'Anse. Au sein de cette petite famille tropicale, elle fait partie du genre Tapura, qui regroupe une trentaine d'espèces néotropicales dont la plupart demeurent scientifiquement sous-étudiées. Son statut d'endémique strict et sa rareté extrême font de T. haitiensis une espèce prioritaire pour la conservation de la biodiversité haïtienne, particulièrement dans le contexte des pressions environnementales croissantes sur les écosystèmes montagnards du pays."
+    "valeur": "La valeur économique directe de Tapura haitiensis est nulle compte tenu de sa rareté et de l'absence d'usages documentés. Sa valeur réside entièrement dans son importance écologique et scientifique comme marqueur de l'exceptionnelle biodiversité endémique haïtienne. Dans un contexte international, elle représente un patrimoine génétique irremplaçable dont la conservation pourrait générer des retombées économiques indirectes à travers l'écotourisme scientifique et la valorisation de l'image environnementale d'Haïti."
   },
   "toxicologie": {
-    "niveau": "",
+    "niveau": "🔴 Toxique",
     "details": "Le profil toxicologique de Tapura haitiensis n'est pas documenté. Cependant, certaines espèces de la famille des Dichapetalacées, notamment du genre Dichapetalum, sont connues pour contenir des composés cyanogéniques potentiellement dangereux. En l'absence de données spécifiques et compte tenu de cette toxicité familiale potentielle, toute ingestion de T. haitiensis doit être absolument évitée. La rareté critique de l'espèce constitue une raison supplémentaire majeure pour s'abstenir de tout prélèvement."
   },
   "conservation": {
@@ -38,8 +38,8 @@
     "valeur": "La valeur économique directe de Tapura haitiensis est nulle compte tenu de sa rareté et de l'absence d'usages documentés. Sa valeur réside entièrement dans son importance écologique et scientifique comme marqueur de l'exceptionnelle biodiversité endémique haïtienne. Dans un contexte international, elle représente un patrimoine génétique irremplaçable dont la conservation pourrait générer des retombées économiques indirectes à travers l'écotourisme scientifique et la valorisation de l'image environnementale d'Haïti."
   },
   "recherche": {
-    "nb_articles": "",
     "details": "Les recherches prioritaires concernant T. haitiensis incluent : l'inventaire précis de ses populations restantes, l'étude de sa biologie reproductive, l'analyse de sa composition phytochimique et l'évaluation de ses propriétés biologiques potentielles. Des collaborations internationales avec des institutions spécialisées en conservation ex situ sont urgentes. Le développement de protocoles de multiplication permettrait d'envisager des programmes de réintroduction dans des habitats restaurés. Cette espèce illustre parfaitement les défis de la conservation de la biodiversité en Haïti et l'urgence d'actions coordonnées.",
+    "nb_articles": "",
     "lien_pubmed": "",
     "lien_scholar": "",
     "lien_tramil": ""
@@ -47,11 +47,11 @@
   "references": "POWO (2024). Plants of the World Online. Facilitated by the Royal Botanic Gardens, Kew. http://www.plantsoftheworldonline.org/ World Flora Online (2024). An Online Flora of All Known Plants. http://www.worldfloraonline.org Urbain, I. & Ekman, E.L. (1929). Description originale de Tapura haitiensis. Arkiv för Botanik.",
   "aRetenir": "🟢 À retenir — Tapura : est une espece peu ou non etudiee scientifiquement. Les proprietes presentees reposent sur des analogies avec des especes proches et les usages traditionnels documentes localement. La conservation de cette espece prime sur toute valorisation. Les auteurs declinent toute responsabilite quant a un usage inapproprie.",
   "images": {
-    "principale": "images/361_Tapura_haitiensis-001.jpg",
+    "principale": "/images/361_Tapura_haitiensis-001.jpg",
     "galerie": [
-      "images/361_Tapura_haitiensis-001.jpg",
-      "images/361_Tapura_haitiensis-002.jpg"
+      "/images/361_Tapura_haitiensis-001.jpg",
+      "/images/361_Tapura_haitiensis-002.jpg"
     ]
   },
-  "source": "plantes_full.json"
+  "source": "CSV corrigé 2026-04-11"
 }

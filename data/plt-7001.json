@@ -1,7 +1,7 @@
 {
   "id_plante": "plt-7001",
   "code": "plt-7001",
-  "no_espece": "",
+  "no_espece": "70.1",
   "no_famille": "70",
   "famille": "Polygonacées",
   "description_famille": "Dominantes dans les régions tropicales et tempérées, les Polygonacées rassemblent environ 1200 espèces réparties en 50 genres, incluant principalement des lianes, des arbres et des herbes. Cette famille se distingue par ses remarquables usages alimentaires — notamment le sarrasin (Fagopyrum esculentum) et l'oseille (Rumex acetosa) — et ses propriétés médicinales reconnues depuis l'Antiquité. Parmi les genres à vocation thérapeutique, Rumex est réputé pour ses propriétés dépuratives, Polygonum pour ses effets anti-inflammatoires, et Reynoutria (anciennement Polygonum) pour ses composés antioxydants. Sur le plan ornemental, le genre Antigonon produit des lianes à floraison spectaculaire très prisées en horticulture tropicale. La signature phytochimique de cette famille est dominée par les tanins astringents, les anthraquinones laxatives, les flavonoïdes antioxydants et les anthocyanes colorantes, ciblant préférentiellement les systèmes tégumentaire et digestif. Une vigilance particulière s'impose avec certaines espèces du genre Rumex qui accumulent des oxalates potentiellement problématiques pour les insuffisants rénaux à doses élevées.",
@@ -20,17 +20,17 @@
   },
   "usages": {
     "usages_ethnobotaniques": "Dans les Départements du Sud et de la Grand'Anse, A. leptopus est documentée comme belle plante ornementale utilisée pour produire du miel, témoignant de son intérêt mellifère reconnu localement. Les usages médicinaux traditionnels incluent l'application externe des feuilles fraîches broyées pour leurs propriétés anti-inflammatoires et cicatrisantes, particulièrement sur les petites plaies et irritations cutanées. Les fleurs sont parfois consommées fraîches ou en infusion, valorisant leur richesse en anthocyanes antioxydantes. L'usage diurétique des feuilles en décoction est également rapporté, bien que moins fréquent. Ces pratiques s'inscrivent dans une tradition d'utilisation opportuniste des plantes ornementales introduites, caractéristique de l'ethnobotanique haïtienne contemporaine.",
-    "systemes_concernes": "Tégumentaire"
+    "systemes_concernes": "Le système tégumentaire constitue la cible principale des applications traditionnelles d'A. leptopus dans le Sud et la Grand'Anse. Les polyphénols, notamment les anthocyanes et flavonoïdes, exercent leur action par piégeage des radicaux libres et modulation des voies inflammatoires COX et de l'oxyde nitrique (NO). Les tanins contribuent à l'effet astringent et cicatrisant par précipitation des protéines superficielles et ressserrement des tissus. Les saponines triterpéniques participent à l'activité antimicrobienne documentée, perturbant l'intégrité membranaire des microorganismes pathogènes. L'effet diurétique rapporté pourrait s'expliquer par l'action des flavonoïdes sur la fonction rénale, bien que le mécanisme précis reste à élucider. Ces mécanismes d'action, principalement démontrés in vitro, nécessitent confirmation par des essais cliniques contrôlés pour valider leur efficacité thérapeutique chez l'humain."
   },
   "pharmacologie": {
     "molecules": "La liane corail doit sa coloration florale intense aux anthocyanes, pigments hydrosolubles de la famille des flavonoïdes qui confèrent les teintes roses à rouges caractéristiques des fleurs. Ces mêmes anthocyanes, accompagnées d'autres flavonoïdes comme les quercétols et kaempférols, sont responsables de l'activité antioxydante documentée localement. Les feuilles concentrent particulièrement les tanins hydrolysables, composés astringents qui expliquent l'usage traditionnel cicatrisant et anti-inflammatoire externe. Les principaux composés secondaires identifiés dans A. leptopus comprennent : des flavonoïdes (quercétine, kaempférol, rutine), des anthocyanes (cyanidine-3-glucoside, péonidine-3-glucoside), des saponines triterpéniques, des tanins hydrolysables et des dérivés phénoliques simples (Sharma et al., 2019 — doi:10.1016/j.phytochem.2019.03.021). Ces molécules remplissent des fonctions de défense précises pour la plante. Les anthocyanes, au-delà de leur rôle attractif pour les pollinisateurs, protègent les tissus floraux contre les rayonnements UV intenses des tropiques. Les tanins foliaires constituent une barrière chimique contre l'herbivorie, leur astringence décourageant la consommation par les mammifères et insectes. Les saponines participent à la défense antimicrobienne au niveau racinaire. Ces mêmes composés, une fois ingérés par l'humain, produisent les effets biologiques documentés dans les pratiques locales : piégeage des radicaux libres par les flavonoïdes, modulation de l'inflammation par inhibition des cyclooxygénases, et activité antimicrobienne des saponines. Il convient de noter que ces observations restent principalement issues d'études in vitro et nécessitent validation clinique.",
     "posologie": "Aucune posologie cliniquement validée n'est disponible pour A. leptopus. Les pratiques traditionnelles documentées localement ne sont pas standardisées et varient selon l'usage : application externe directe des feuilles fraîches broyées pour les soins cutanés, consommation occasionnelle de quelques fleurs fraîches, ou infusion légère de feuilles selon les besoins. L'absence d'études pharmacocinétiques rend impossible l'établissement d'un schéma posologique sûr et efficace."
   },
   "nutrition": {
-    "introduction": "Antigonon leptopus Hook. & Arn. (syn. Corculum leptopus) est une liane exotique commune dans les Départements du Sud et de la Grand'Anse, où elle est documentée comme plante ornementale mellifère aux usages alimentaires et médicinaux secondaires. Appartenant à la famille des Polygonacées, elle fait partie du genre Antigonon, petit groupe de lianes ornementales originaires du Mexique, caractérisées par leur floraison rose spectaculaire et leur croissance vigoureuse. Son introduction en Haïti s'inscrit dans sa large diffusion pantropicale comme plante d'ornement, mais les communautés locales ont développé des usages traditionnels spécifiques pour ses feuilles et fleurs."
+    "valeur": "La valeur économique d'A. leptopus repose principalement sur son usage ornemental en horticulture tropicale et son potentiel mellifère documenté localement. Son faible coût d'entretien, sa floraison spectaculaire et sa rusticité en font une espèce prisée pour l'aménagement paysager. Le développement de l'apiculture pourrait valoriser davantage ses qualités mellifères, contribuant à la production de miel local dans les deux départements."
   },
   "toxicologie": {
-    "niveau": "",
+    "niveau": "🟢 Non toxique aux doses usuelles",
     "details": "A. leptopus présente un profil de sécurité favorable aux doses usuelles d'usage traditionnel. Les précautions concernent principalement les effets gastro-intestinaux à forte dose : diarrhée et irritation gastrique dues aux tanins et saponines. Par prudence, l'usage est déconseillé pendant la grossesse et l'allaitement en l'absence de données toxicologiques spécifiques. Les personnes allergiques aux Polygonacées doivent éviter tout contact. L'usage externe prolongé peut provoquer des réactions de sensibilisation chez les sujets prédisposés."
   },
   "conservation": {
@@ -38,8 +38,8 @@
     "valeur": "La valeur économique d'A. leptopus repose principalement sur son usage ornemental en horticulture tropicale et son potentiel mellifère documenté localement. Son faible coût d'entretien, sa floraison spectaculaire et sa rusticité en font une espèce prisée pour l'aménagement paysager. Le développement de l'apiculture pourrait valoriser davantage ses qualités mellifères, contribuant à la production de miel local dans les deux départements."
   },
   "recherche": {
-    "nb_articles": "",
     "details": "Les publications scientifiques spécifiques à A. leptopus restent limitées, malgré son usage ornemental répandu. Les perspectives de recherche incluent la caractérisation complète de son profil phytochimique, l'évaluation de son potentiel mellifère quantitatif, et l'étude de son impact écologique dans les écosystèmes haïtiens. Des recherches sur l'optimisation de ses usages médicinaux traditionnels, notamment l'activité cicatrisante et anti-inflammatoire, pourraient valoriser cette ressource locale facilement disponible.",
+    "nb_articles": "",
     "lien_pubmed": "",
     "lien_scholar": "",
     "lien_tramil": ""
@@ -47,12 +47,12 @@
   "references": "Sharma, A. et al. (2019). Phytochemical analysis and biological activities of Antigonon leptopus flowers. Phytochemistry 165:112-121. doi:10.1016/j.phytochem.2019.03.021 POWO (2024). Plants of the World Online. Kew Science. https://powo.science.kew.org/ World Flora Online (2024). www.worldfloraonline.org",
   "aRetenir": "🟢 À retenir — Lyan koray : est avant tout un aliment — sa valeur nutritionnelle prime sur ses usages medicinaux. Consommee correctement preparee, elle est sans danger documente. Ses proprietes therapeutiques, reelles mais secondaires, ne remplacent pas un suivi medical. Les auteurs declinent toute responsabilite quant a un usage inapproprie.",
   "images": {
-    "principale": "images/691_Antigonon_leptopus-001.jpg",
+    "principale": "/images/691_Antigonon_leptopus-001.jpg",
     "galerie": [
-      "images/691_Antigonon_leptopus-001.jpg",
-      "images/691_Antigonon_leptopus-002.jpg",
-      "images/691_Antigonon_leptopus-003.jpg"
+      "/images/691_Antigonon_leptopus-001.jpg",
+      "/images/691_Antigonon_leptopus-002.jpg",
+      "/images/691_Antigonon_leptopus-003.jpg"
     ]
   },
-  "source": "plantes_full.json"
+  "source": "CSV corrigé 2026-04-11"
 }

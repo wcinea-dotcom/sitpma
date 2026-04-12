@@ -1,7 +1,7 @@
 {
   "id_plante": "plt-1403",
   "code": "plt-1403",
-  "no_espece": "",
+  "no_espece": "14.3",
   "no_famille": "14",
   "famille": "Asparagacées",
   "description_famille": "",
@@ -20,17 +20,17 @@
   },
   "usages": {
     "usages_ethnobotaniques": "Dans les Départements du Sud et de la Grand'Anse, S. hyacinthoides est principalement employée pour ses propriétés médicinales externes. L'usage le plus documenté consiste à extraire le jus des feuilles fraîches par pression ou broyage, puis à le réchauffer légèrement avant application dans le conduit auditif pour traiter les maux d'oreilles et les otites. Cette préparation tire parti de la richesse en saponines du jus frais, dont les propriétés anti-inflammatoires et analgésiques sont recherchées. Les racines rhizomateuses sont également utilisées, généralement sous forme de décoction, pour leurs propriétés supposées diurétiques et hypotensives, bien que cet usage soit moins fréquent. Au niveau caribéen, l'espèce est référencée dans TRAMIL pour le traitement des otites, confirmant la cohérence de l'usage haïtien avec les pratiques régionales. La plante sert également de haie vive dans l'aménagement rural, valorisant sa croissance dense et sa résistance.",
-    "systemes_concernes": "Cardiovasculaire"
+    "systemes_concernes": "S. hyacinthoides cible principalement le système auditif dans les usages documentés du Sud et de la Grand'Anse. Son application dans le traitement des otites repose sur les propriétés anti-inflammatoires et analgésiques de ses saponines stéroïdiennes, qui pourraient moduler les médiateurs de l'inflammation locale et réduire la sensation douloureuse par action sur les récepteurs nociceptifs. Les études expérimentales africaines suggèrent également des effets potentiels sur le système cardiovasculaire (effet hypotenseur hypothétique) et rénal (propriétés diurétiques supposées), mais ces actions restent à confirmer par des essais cliniques rigoureux. Les mécanismes d'action proposés incluent la modulation de marqueurs inflammatoires et l'influence sur la permeabilité membranaire, principalement démontrés in vitro sur cultures cellulaires."
   },
   "pharmacologie": {
     "molecules": "Sansevieria hyacinthoides se caractérise par la production de composés défensifs particulièrement actifs, responsables de sa saveur âcre prononcée. Cette âcreté provient principalement de saponines stéroïdiennes concentrées dans les tissus foliaires, qui constituent le mécanisme de défense principal de la plante contre les herbivores et les pathogènes. Ces molécules, solubles dans l'eau et formant une mousse caractéristique, expliquent l'efficacité du jus de feuille dans les applications externes traditionnelles. La plante accumule également des acides organiques, des fibres structurales riches en cellulose, et des traces de minéraux essentiels comme le potassium, le magnésium et le calcium, concentrés dans la sève cellulaire. Les principaux composés secondaires identifiés dans S. hyacinthoides comprennent : des saponines stéroïdiennes (molécules de défense principales), des flavonoïdes (quercétine, kaempférol), des tanins condensés, des terpénoïdes volatils, et des traces d'alcaloïdes incluant possiblement l'aconitine. Ces composés ont été caractérisés dans plusieurs études phytochimiques africaines portant sur le genre Sansevieria. Ces molécules remplissent des fonctions de défense précises pour la plante. Les saponines stéroïdiennes créent une barrière chimique efficace contre les insectes herbivores et les champignons pathogènes, tout en conférant à la plante ses propriétés moussantes caractéristiques. Les flavonoïdes protègent les tissus contre les dommages oxydatifs causés par l'exposition solaire intense des régions tropicales. Les tanins renforcent la résistance mécanique des feuilles et découragent l'herbivorie par leur astringence. Ces mêmes composés, une fois appliqués par voie externe chez l'humain, produisent les effets biologiques documentés : réduction de l'inflammation locale, effet analgésique par modulation de la nociception, et possibles propriétés antimicrobiennes. Il convient de noter que ces observations restent principalement issues d'études expérimentales in vitro et sur modèles animaux.",
     "posologie": "Aucune posologie cliniquement validée n'est disponible pour S. hyacinthoides dans la littérature médicale internationale. Les pratiques traditionnelles rapportées dans la littérature ethnobotanique africaine mentionnent l'usage d'infusions ou décoctions préparées à partir de 5 à 10 grammes de matériel végétal (feuilles ou racines) par litre d'eau, mais ces données restent empiriques et nécessitent une validation clinique. Dans le contexte haïtien, l'application auriculaire du jus de feuille suit un protocole traditionnel non standardisé, généralement limité à quelques gouttes réchauffées, appliquées une à deux fois par jour selon les praticiens locaux."
   },
   "nutrition": {
-    "introduction": "Sansevieria hyacinthoides (syn. Dracaena hyacinthoides, Aloe hyacinthoides) est une herbe exotique pantropicale, commune dans les Départements du Sud et de la Grand'Anse. Elle appartient à la famille des Asparagacées, une famille principalement herbacée reconnue pour ses riches usages médicinaux et spirituels, caractérisée phytochimiquement par une signature dominée par les saponines stéroïdiennes, les flavonoïdes, les alcaloïdes, les lectines et les fructanes. Au sein de cette famille, le genre Sansevieria regroupe des plantes succulentes robustes, largement cultivées comme ornementales et employées traditionnellement pour leurs propriétés thérapeutiques. L'espèce est particulièrement appréciée dans les deux départements pour ses usages médicinaux externes, notamment dans le traitement des affections auriculaires, ainsi que pour son rôle pratique comme plante de clôture vivante."
+    "valeur": "L'espèce présente une valeur économique locale modeste mais constante, principalement liée à son usage médicinal traditionnel et à son rôle dans l'aménagement rural comme plante de clôture vivante. Le marché international des Sansevieria ornementales offre des perspectives de valorisation, l'espèce étant appréciée pour sa résistance et son aspect décoratif. Cependant, cette valorisation reste limitée par rapport aux espèces du genre plus prisées horticultulalement. La production locale pourrait bénéficier d'une approche de développement durable intégrant usage traditionnel et commercialisation contrôlée."
   },
   "toxicologie": {
-    "niveau": "toxic",
+    "niveau": "🟡 Précautions requises",
     "details": "S. hyacinthoides présente un niveau de toxicité modéré nécessitant des précautions d'usage, particulièrement pour l'ingestion interne. Les saponines stéroïdiennes concentrées dans la plante peuvent provoquer des irritations gastro-intestinales, notamment chez les personnes sensibles. La présence potentielle de traces d'alcaloïdes, y compris l'aconitine, exige une vigilance particulière. L'usage interne est déconseillé chez la femme enceinte et allaitante, les enfants en bas âge, et les personnes présentant des troubles digestifs chroniques. L'application externe, bien que généralement mieux tolérée, peut occasionner des réactions cutanées chez les individus allergiques. Il convient de respecter les dosages traditionnels et d'éviter les applications prolongées sans supervision."
   },
   "conservation": {
@@ -38,8 +38,8 @@
     "valeur": "L'espèce présente une valeur économique locale modeste mais constante, principalement liée à son usage médicinal traditionnel et à son rôle dans l'aménagement rural comme plante de clôture vivante. Le marché international des Sansevieria ornementales offre des perspectives de valorisation, l'espèce étant appréciée pour sa résistance et son aspect décoratif. Cependant, cette valorisation reste limitée par rapport aux espèces du genre plus prisées horticultulalement. La production locale pourrait bénéficier d'une approche de développement durable intégrant usage traditionnel et commercialisation contrôlée."
   },
   "recherche": {
-    "nb_articles": "",
     "details": "Les recherches sur S. hyacinthoides demeurent fragmentaires, avec une centaine d'articles publiés principalement axés sur la caractérisation phytochimique et les usages ethnobotaniques africains. Les priorités de recherche incluent la validation clinique des usages traditionnels, particulièrement pour le traitement des otites, ainsi que l'évaluation rigoureuse du profil toxicologique. Des études pharmacologiques contrôlées sont nécessaires pour confirmer les mécanismes d'action proposés et établir des posologies sécurisées. L'investigation des propriétés antimicrobiennes des extraits pourrait ouvrir des perspectives thérapeutiques, notamment dans le contexte de résistance croissante aux antibiotiques conventionnels.",
+    "nb_articles": "",
     "lien_pubmed": "",
     "lien_scholar": "",
     "lien_tramil": "https://www.tramil.net/en/plant/sansevieria-hyacinthoides"
@@ -47,13 +47,13 @@
   "references": "POWO (2024). Plants of the World Online. Kew Science. https://powo.science.kew.org/ World Flora Online (2024). WFO Plant List. http://www.worldfloraonline.org/ TRAMIL (2024). Pharmacopée Végétale Caribéenne. https://www.tramil.net/en/plant/sansevieria-hyacinthoides Études phytochimiques référencées dans Pharmacia (Pensoft Publishers) - caractérisation des saponines et alcaloïdes. PubMed Central - Base de données des publications scientifiques sur Sansevieria hyacinthoides.",
   "aRetenir": "🟠 À retenir — Zòrèy bourik : est une plante a toxicite documentee. Tout usage interne non encadre est formellement deconseille. En cas d'ingestion accidentelle, consulter immediatement un service d'urgence. Ces informations sont destinees a l'enseignement et a la recherche uniquement. Les auteurs declinent toute responsabilite quant a un usage inapproprie.",
   "images": {
-    "principale": "images/143_Sansevieria_hyacinthoides-001.jpg",
+    "principale": "/images/143_Sansevieria_hyacinthoides-001.jpg",
     "galerie": [
-      "images/143_Sansevieria_hyacinthoides-001.jpg",
-      "images/143_Sansevieria_hyacinthoides-002.jpg",
-      "images/143_Sansevieria_hyacinthoides-003.jpg",
-      "images/143_Sansevieria_hyacinthoides-004.jpg"
+      "/images/143_Sansevieria_hyacinthoides-001.jpg",
+      "/images/143_Sansevieria_hyacinthoides-002.jpg",
+      "/images/143_Sansevieria_hyacinthoides-003.jpg",
+      "/images/143_Sansevieria_hyacinthoides-004.jpg"
     ]
   },
-  "source": "plantes_full.json"
+  "source": "CSV corrigé 2026-04-11"
 }

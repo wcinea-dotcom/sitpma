@@ -1,7 +1,7 @@
 {
   "id_plante": "plt-2103",
   "code": "plt-2103",
-  "no_espece": "",
+  "no_espece": "21.3",
   "no_famille": "21",
   "famille": "Brassicacées",
   "description_famille": "",
@@ -20,17 +20,17 @@
   },
   "usages": {
     "usages_ethnobotaniques": "Dans les Départements du Sud et de la Grand'Anse, le radis connaît un usage ethnobotanique documenté à double vocation alimentaire et médicinale. La racine fraîche se consomme crue, généralement râpée ou coupée en lamelles, pour faciliter la digestion et chasser les gaz intestinaux selon les pratiques locales. Les feuilles jeunes sont également utilisées comme condiment ou légume-feuille, apportant une saveur légèrement piquante aux préparations culinaires. La préparation privilégie systématiquement l'usage à cru pour préserver les composés actifs thermosensibles, notamment les isothiocyanates qui se dégradent à la cuisson. Cette approche correspond aux usages documentés par TRAMIL en Haïti pour le soutien hépatique, où l'accent est mis sur la consommation de la racine fraîche non transformée.",
-    "systemes_concernes": "Digestif, Cardiovasculaire, Hépatique"
+    "systemes_concernes": "Les usages thérapeutiques du radis dans le Sud et la Grand'Anse ciblent préférentiellement le système digestif et hépatique. Les applications documentées incluent la facilitation digestive, le soulagement des ballonnements et gaz intestinaux, ainsi que le drainage hépatique et biliaire. Les mécanismes d'action proposés reposent sur l'activité des isothiocyanates, qui moduleraient les enzymes de détoxication hépatique (phases I et II) et exerceraient des effets anti-inflammatoires modérés sur la muqueuse digestive (Manivannan et al., 2019). Le potassium et les fibres alimentaires contribueraient au soutien cardiovasculaire par leurs effets sur la pression artérielle et le métabolisme lipidique. Ces mécanismes demeurent principalement documentés par des études in vitro et nécessiteraient des validations cliniques pour confirmer leur pertinence thérapeutique chez l'humain."
   },
   "pharmacologie": {
     "molecules": "Le radis doit sa saveur piquante caractéristique à des composés soufrés défensifs spécifiques : les glucosinolates et leurs dérivés, les isothiocyanates. Lorsque les tissus de la racine sont brisés — par exemple lors de la mastication — l'enzyme myrosinase transforme les glucosinolates en isothiocyanates volatils, créant cette sensation de piquant qui constitue un mécanisme de défense contre les herbivores. Cette réaction enzymatique explique pourquoi le radis fraîchement coupé développe rapidement sa saveur caractéristique. Sur le plan nutritionnel, la racine concentre des glucides simples, des fibres alimentaires, de la vitamine C en quantité notable, ainsi que des minéraux essentiels comme le potassium, le calcium et le magnésium. Les principaux composés secondaires identifiés dans R. sativus comprennent : des glucosinolates (glucoraphanine, glucobrassicine) et leurs dérivés isothiocyanates (sulforaphane, raphanine), des flavonoïdes (quercétine, kaempférol), des composés phénoliques, des anthocyanes responsables de la coloration rouge de certaines variétés, et de l'acide ascorbique (vitamine C) en concentration élevée (Manivannan et al., 2019 — DOI: 10.1007/s13197-019-03906-8). Ces molécules remplissent des fonctions de protection essentielles pour la plante. Les glucosinolates et isothiocyanates agissent comme des répulsifs naturels contre les insectes ravageurs et les pathogènes du sol, protégeant particulièrement la racine charnue vulnérable. Les flavonoïdes et composés phénoliques offrent une protection antioxydante contre les stress environnementaux et les rayonnements UV. Ces mêmes composés, une fois ingérés par l'humain, produisent les effets biologiques documentés : stimulation de la production d'enzymes de détoxication hépatique, propriétés anti-inflammatoires modérées et soutien digestif. Les observations restent principalement issues d'études in vitro et sur modèles animaux, nécessitant des validations cliniques humaines pour confirmer l'ampleur thérapeutique.",
     "posologie": "L'usage alimentaire courant documenté suggère une consommation de 30 à 100 g de racine fraîche par jour, accompagnée de la consommation des feuilles comme légume ou condiment selon les pratiques locales. Aucune posologie cliniquement standardisée n'est disponible dans la littérature scientifique pour les usages médicinaux spécifiques. Les recommandations reposent sur les pratiques alimentaires traditionnelles et l'absence de toxicité rapportée aux doses nutritionnelles habituelles."
   },
   "nutrition": {
-    "introduction": "Raphanus sativus L. (syn. Raphanus acanthiformis) est une herbe exotique annuelle, cultivée de manière limitée dans les Départements du Sud et de la Grand'Anse où sa production reste rare. Cette espèce appartient à la famille des Brassicacées, reconnue mondialement pour ses remarquables propriétés alimentaires et médicinales. Au sein de cette famille, elle fait partie du genre Raphanus, qui comprend plusieurs espèces de radis sauvages et cultivés, tous caractérisés par leurs racines charnues et leur saveur piquante distinctive. Le radis constitue un légume-racine à double vocation : alimentaire par sa racine croquante et ses feuilles comestibles, et médicinale par ses propriétés digestives et hépatiques documentées dans le Sud et la Grand'Anse."
+    "valeur": "Sur le plan local, le radis présente une valeur économique alimentaire modeste en raison de sa production limitée. Internationalement, il constitue un légume de grande valeur agro-alimentaire, particulièrement en Asie où les variétés géantes (daikon) représentent des marchés considérables. Le développement de sa culture en Haïti pourrait offrir des opportunités économiques intéressantes, notamment pour la diversification agricole en altitude."
   },
   "toxicologie": {
-    "niveau": "",
+    "niveau": "🟡 Précautions requises",
     "details": "R. sativus présente un profil de sécurité excellent aux doses alimentaires normales. Les précautions concernent principalement les personnes souffrant d'hypothyroïdie non contrôlée, chez qui une consommation excessive de crucifères pourrait théoriquement interférer avec la fonction thyroïdienne en raison des glucosinolates. Une prudence est également recommandée chez les sujets sensibles aux aliments riches en FODMAPs, qui pourraient expérimenter des ballonnements lors de consommations importantes. Aucune interaction médicamenteuse significative n'est documentée."
   },
   "conservation": {
@@ -38,8 +38,8 @@
     "valeur": "Sur le plan local, le radis présente une valeur économique alimentaire modeste en raison de sa production limitée. Internationalement, il constitue un légume de grande valeur agro-alimentaire, particulièrement en Asie où les variétés géantes (daikon) représentent des marchés considérables. Le développement de sa culture en Haïti pourrait offrir des opportunités économiques intéressantes, notamment pour la diversification agricole en altitude."
   },
   "recherche": {
-    "nb_articles": "",
     "details": "Avec près d'un millier d'articles scientifiques référencés, R. sativus bénéficie d'une recherche active centrée sur ses propriétés antioxydantes, anti-inflammatoires et hépatoprotectrices. Les perspectives incluent l'approfondissement des mécanismes d'action des isothiocyanates, l'évaluation clinique des effets digestifs et hépatiques, ainsi que le développement de variétés adaptées aux conditions tropicales. En Haïti, des recherches sur l'adaptation variétale et l'optimisation des techniques de culture en altitude pourraient contribuer à valoriser cette ressource.",
+    "nb_articles": "",
     "lien_pubmed": "",
     "lien_scholar": "",
     "lien_tramil": ""
@@ -47,11 +47,11 @@
   "references": "Manivannan, A. et al. (2019). Biochemical and nutritional characterization of radish (Raphanus sativus L.) genotypes. Journal of Food Science and Technology. DOI: 10.1007/s13197-019-03906-8. POWO (2024). Plants of the World Online. Kew Science. http://www.plantsoftheworldonline.org/ TRAMIL (2024). Raphanus sativus. www.tramil.net World Flora Online (2024). www.worldfloraonline.org",
   "aRetenir": "🟢 À retenir — Radi : est avant tout un aliment — sa valeur nutritionnelle prime sur ses usages medicinaux. Consommee correctement preparee, elle est sans danger documente. Ses proprietes therapeutiques, reelles mais secondaires, ne remplacent pas un suivi medical. Les auteurs declinent toute responsabilite quant a un usage inapproprie.",
   "images": {
-    "principale": "images/213_Raphanus_sativus-001.jpg",
+    "principale": "/images/213_Raphanus_sativus-001.jpg",
     "galerie": [
-      "images/213_Raphanus_sativus-001.jpg",
-      "images/213_Raphanus_sativus-002.jpg"
+      "/images/213_Raphanus_sativus-001.jpg",
+      "/images/213_Raphanus_sativus-002.jpg"
     ]
   },
-  "source": "plantes_full.json"
+  "source": "CSV corrigé 2026-04-11"
 }

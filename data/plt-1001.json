@@ -1,7 +1,7 @@
 {
   "id_plante": "plt-1001",
   "code": "plt-1001",
-  "no_espece": "",
+  "no_espece": "10.1",
   "no_famille": "10",
   "famille": "Aracées",
   "description_famille": "Dominant les régions tropicales humides avec près de 4000 espèces réparties en 140 genres, les Aracées constituent l'une des familles botaniques les plus remarquables par la diversité de leurs formes biologiques — depuis les petites lentilles d'eau flottantes jusqu'aux imposantes lianes épiphytes des canopées forestières. Cette famille se distingue par ses inflorescences caractéristiques en spadice, souvent protégées par une spathe colorée. Sur le plan alimentaire, plusieurs genres fournissent des tubercules riches en amidon — notamment Colocasia (malanga), Xanthosoma (chou caraïbe) et Alocasia — constituant des ressources énergétiques importantes dans les régions tropicales. Médicinalement, la famille exprime une signature phytochimique dominée par les raphides d'oxalate de calcium, les lectines, les saponines et divers alcaloïdes, ciblant préférentiellement les systèmes tégumentaire et musculo-squelettique. ⚠️ Attention cruciale : toutes les espèces contiennent des cristaux d'oxalate de calcium causant des brûlures buccales intenses si consommées crues. Les genres Philodendron et Dieffenbachia présentent une toxicité particulièrement marquée, exigeant une vigilance absolue.",
@@ -20,17 +20,17 @@
   },
   "usages": {
     "usages_ethnobotaniques": "Dans les Départements du Sud et de la Grand'Anse, A. macrorrhizos reste très peu utilisée en raison de son caractère hautement irritant. Les rares applications documentées concernent l'usage externe des feuilles comme rubéfiant traditionnel : les feuilles fraîches sont appliquées localement sur la peau pour « chauffer » la zone et soulager certaines douleurs articulaires ou musculaires. Cette pratique, mentionnée dans la base TRAMIL, reste marginale et nécessite des précautions importantes. Dans d'autres régions du monde, notamment dans le Pacifique, les tubercules constituent un aliment de famine après cuisson prolongée (plusieurs heures) permettant d'éliminer partiellement les cristaux d'oxalate. En médecine traditionnelle chinoise, des préparations spécialisées sont utilisées pour leurs propriétés antitumorales présumées, mais sans validation clinique établie.",
-    "systemes_concernes": "Tégumentaire"
+    "systemes_concernes": "Le système principalement ciblé par A. macrorrhizos est le système tégumentaire, via son action rubéfiante documentée dans la médecine populaire haïtienne. L'effet « chauffant » recherché résulte de l'irritation contrôlée provoquée par les cristaux d'oxalate de calcium et les composés inflammatoires contenus dans les feuilles. Cette irritation locale pourrait théoriquement stimuler la circulation sanguine périphérique et produire un effet contre-irritant dans le traitement symptomatique de douleurs articulaires ou musculaires. Cependant, les mécanismes précis restent mal élucidés et aucune étude clinique contrôlée n'a validé ces usages traditionnels. Les composés bioactifs identifiés suggèrent également une possible activité antimicrobienne externe, mais les données cliniques font défaut."
   },
   "pharmacologie": {
     "molecules": "Alocasia macrorrhizos se caractérise par une composition chimique défensive remarquable, centrée sur les cristaux d'oxalate de calcium. Ces raphides microscopiques, en forme d'aiguilles acérées, constituent le système de défense primaire de la plante : lorsque les tissus végétaux sont blessés — par mastication, broyage ou simple contact — ces cristaux se libèrent instantanément et pénètrent les muqueuses, provoquant des brûlures intenses, un œdème local et une irritation prolongée. Cette stratégie défensive particulièrement efficace protège la plante contre la plupart des herbivores. Les tubercules contiennent également des quantités significatives d'amidon (30-40% du poids sec), de fibres alimentaires, ainsi que des minéraux essentiels comme le potassium, le calcium, le magnésium et le fer. Les principaux composés secondaires identifiés dans A. macrorrhizos comprennent : des cristaux d'oxalate de calcium (raphides), des lectines, des saponines triterpéniques, des flavonoïdes (notamment des dérivés de quercétine et kaempférol), des tanins condensés, et des glycosides cyanogéniques en faibles concentrations (Krishnan et al., 2018 — DOI: 10.1016/j.foodchem.2017.11.025). Ces composés remplissent des fonctions de protection spécialisées pour la plante. Les lectines agissent comme des protéines de défense contre les pathogènes et les insectes phytophages. Les saponines contribuent à la résistance antifongique et antibactérienne, particulièrement importante dans l'environnement humide tropical. Les flavonoïdes protègent contre le stress oxydatif et les rayonnements UV intenses. Ces mêmes composés, une fois en contact avec les tissus humains, produisent les effets biologiques documentés : irritation locale, action rubéfiante et potentielle activité antimicrobienne externe. Il convient de souligner que les observations thérapeutiques restent principalement issues d'études in vitro et de rapports ethnobotaniques, nécessitant des investigations cliniques approfondies.",
     "posologie": "Aucune posologie cliniquement validée n'est disponible pour A. macrorrhizos dans les applications médicinales. Les usages traditionnels rapportés concernent uniquement des applications externes ponctuelles de feuilles fraîches, sans standardisation ni protocole établi. Dans les régions où les tubercules sont consommés comme aliment de subsistance, les quantités mentionnées varient de 100 à 200 grammes de tubercule cuit par jour, mais ces données proviennent de rapports ethnobotaniques non validés cliniquement et présentent des risques toxicologiques significatifs."
   },
   "nutrition": {
-    "introduction": "Alocasia macrorrhizos (L.) G. Don (syn. Arum macrorrhizon, Alocasia indica) est une herbe vivace exotique, commune dans les Départements du Sud et de la Grand'Anse. Elle appartient à la famille des Aracées, une vaste famille tropicale de 4000 espèces reconnue pour ses usages alimentaires — via les tubercules amylacés de genres comme Colocasia et Xanthosoma — et ses propriétés médicinales externes. Au sein de cette famille, A. macrorrhizos fait partie du genre Alocasia, qui regroupe une soixantaine d'espèces de grandes herbes à tubercules, principalement asiatiques, caractérisées par leurs imposantes feuilles sagittées et leur forte teneur en cristaux d'oxalate de calcium. L'espèce est très peu utilisée localement en raison de son caractère irritant prononcé, mais trouve occasionnellement des applications comme rubéfiant externe dans la médecine traditionnelle haïtienne."
+    "valeur": "La valeur économique locale d'A. macrorrhizos reste très limitée en Haïti, principalement cantonnée à l'horticulture ornementale occasionnelle. À l'échelle internationale, l'espèce présente un intérêt commercial modéré comme plante ornementale d'intérieur ou d'extérieur dans les jardins tropicaux, valorisant ses imposantes feuilles décoratives."
   },
   "toxicologie": {
-    "niveau": "",
+    "niveau": "🟢 Profil acceptable",
     "details": "A. macrorrhizos présente une toxicité conditionnelle importante liée à sa forte teneur en cristaux d'oxalate de calcium. L'ingestion de parties crues ou insuffisamment cuites provoque immédiatement des brûlures buccales intenses, une dysphagie (difficulté à déglutir), un œdème des muqueuses et des vomissements. L'usage externe prolongé peut causer des irritations cutanées sévères et des dermatites de contact. Une vigilance particulière est requise chez les sujets prédisposés aux lithiases rénales (calculs), les femmes enceintes et allaitantes, ainsi que chez les enfants. Toute application thérapeutique nécessite un encadrement médical approprié."
   },
   "conservation": {
@@ -38,8 +38,8 @@
     "valeur": "La valeur économique locale d'A. macrorrhizos reste très limitée en Haïti, principalement cantonnée à l'horticulture ornementale occasionnelle. À l'échelle internationale, l'espèce présente un intérêt commercial modéré comme plante ornementale d'intérieur ou d'extérieur dans les jardins tropicaux, valorisant ses imposantes feuilles décoratives."
   },
   "recherche": {
-    "nb_articles": "",
     "details": "Les recherches contemporaines sur A. macrorrhizos s'orientent principalement vers l'évaluation de ses propriétés antitumorales présumées et l'optimisation des procédés de détoxification pour l'usage alimentaire. Des études récentes explorent également le potentiel des composés bioactifs dans le développement de bio-pesticides naturels. Les perspectives de recherche incluent l'investigation des mécanismes moléculaires sous-jacents aux usages traditionnels et l'évaluation de la sécurité des applications externes.",
+    "nb_articles": "",
     "lien_pubmed": "",
     "lien_scholar": "",
     "lien_tramil": ""
@@ -47,8 +47,13 @@
   "references": "Krishnan, S. et al. (2018). Nutritional and antinutritional evaluation of Alocasia macrorrhizos tubers. Food Chemistry. DOI: 10.1016/j.foodchem.2017.11.025. TRAMIL. Alocasia macrorrhizos. www.tramil.net POWO. Plants of the World Online. Kew Science. 2024.",
   "aRetenir": "🟡 À retenir — Karayib grate : est une plante a toxicite conditionnelle documentee. Respecter imperativement les precautions indiquees. Ne jamais ingerer les parties toxiques sans encadrement medical. Ces informations sont destinees a l'enseignement et a la documentation. Les auteurs declinent toute responsabilite quant a un usage inapproprie.",
   "images": {
-    "principale": "",
-    "galerie": []
+    "principale": "/images/101_Alocasia_macrorrhizos-001.jpg",
+    "galerie": [
+      "/images/101_Alocasia_macrorrhizos-001.jpg",
+      "/images/101_Alocasia_macrorrhizos-002.jpg",
+      "/images/101_Alocasia_macrorrhizos-003.jpg",
+      "/images/101_Alocasia_macrorrhizos-004.jpg"
+    ]
   },
-  "source": "plantes_full.json"
+  "source": "CSV corrigé 2026-04-11"
 }

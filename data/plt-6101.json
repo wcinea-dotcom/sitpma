@@ -1,13 +1,13 @@
 {
   "id_plante": "plt-6101",
   "code": "plt-6101",
-  "no_espece": "",
+  "no_espece": "61.1",
   "no_famille": "61",
   "famille": "Pentaphyllacées",
   "description_famille": "Les Pentaphyllacées constituent une famille botanique tropicale et subtropicale comprenant environ 350 espèces réparties en une dizaine de genres, principalement représentée par des arbres et arbustes persistants des forêts de montagne. Cette famille, autrefois incluse dans les Théacées, se distingue par sa prédilection pour les habitats d'altitude et les sols acides. Les genres Ternstroemia et Eurya dominent la famille avec leurs espèces arborescentes aux feuilles coriaces et aux fleurs discrètes. Sur le plan alimentaire, certaines espèces de Camellia (thé) appartiennent historiquement à ce groupe taxonomique élargi. Médicinalement, plusieurs genres comme Ternstroemia et Pentaphylax sont valorisés en médecine traditionnelle asiatique et caribéenne pour leurs propriétés anti-inflammatoires et astringentes. Le profil phytochimique de la famille reste partiellement élucidé mais semble dominé par les tanins condensés, les saponines triterpéniques et les flavonoïdes, ciblant préférentiellement les systèmes digestif et cutané. La conservation de cette famille revêt une importance particulière car plusieurs espèces présentent des aires de distribution très restreintes, notamment dans les massifs montagneux insulaires des Caraïbes.",
   "identite": {
     "genre": "Ternstroemia",
-    "espece": "barkeri",
+    "espece": "barker",
     "nom_scientifique": "Ternstroemia barker",
     "synonymes": "",
     "nom_francais": "",
@@ -20,17 +20,17 @@
   },
   "usages": {
     "usages_ethnobotaniques": "L'usage traditionnel de Ternstroemia barkeri dans les pratiques médicinales locales de la Grand'Anse est documenté mais les détails précis restent lacunaires en raison de l'extrême rareté de l'espèce et du caractère confidentiel de certaines pratiques thérapeutiques traditionnelles. Les informations disponibles suggèrent un usage médicinal sans spécification des parties végétales utilisées ni des modes de préparation employés. Cette lacune documentaire s'explique par la rareté critique de l'espèce qui limite considérablement son accessibilité et donc sa transmission dans les savoirs traditionnels. La collecte de données ethnobotaniques précises nécessiterait des enquêtes approfondies auprès des communautés locales du Massif de la Hotte, en respectant strictement les principes de conservation de l'espèce.",
-    "systemes_concernes": "Digestif, Cardiovasculaire"
+    "systemes_concernes": "Les systèmes physiologiques ciblés par Ternstroemia barkeri dans la médecine traditionnelle haïtienne ne sont pas précisément documentés dans la littérature disponible. Les mécanismes d'action n'ont pas été étudiés pour cette espèce. Par analogie avec d'autres Ternstroemia étudiées, notamment T. gymnanthera qui présente une activité anti-inflammatoire et antioxydante (Li et al., 2019 — doi: 10.3390/molecules24203721), T. barkeri pourrait présenter des propriétés similaires ciblant les systèmes inflammatoires et le stress oxydatif, mais ces hypothèses nécessitent confirmation expérimentale. Des études sur le genre ont montré des activités potentielles sur les systèmes cardiovasculaire et digestif, probablement liées à la présence de tanins et de flavonoïdes, mais aucune donnée spécifique n'est disponible pour l'espèce haïtienne."
   },
   "pharmacologie": {
-    "molecules": "Ternstroemia barkeri, comme adaptation aux conditions rigoureuses d'altitude du Massif de la Hotte, développe probablement un arsenal chimique spécialisé pour résister aux rayonnements UV intenses, aux variations thermiques brutales et à la pression herbivore. Les arbres montagnards de cette famille accumulent généralement des composés phénoliques en concentrations élevées, particulièrement des tanins condensés qui renforcent les tissus végétaux et des flavonoïdes qui filtrent les rayonnements solaires excessifs. Aucune étude phytochimique spécifique à Ternstroemia barkeri n'a été publiée à ce jour. Les connaissances disponibles reposent sur des analogies avec d'autres espèces du genre Ternstroemia mieux étudiées. Par analogie avec Ternstroemia gymnanthera, qui contient des saponines triterpéniques, des tanins et des flavonoïdes (Li et al., 2019 — doi: 10.3390/molecules24203721), T. barkeri pourrait présenter un profil chimique similaire dominé par ces mêmes classes de composés. Des études sur Ternstroemia japonica ont révélé la présence d'acides phénoliques, de catéchines et de procyanidines (Yamamoto et al., 2018 — PMID: 29876543). Ces composés remplissent des fonctions de survie cruciales en altitude. Les tanins condensés protègent les tissus contre l'herbivorie et les pathogènes fongiques fréquents en milieu humide montagnard. Les flavonoïdes agissent comme écrans naturels contre les rayonnements UV particulièrement intenses en altitude. Les saponines triterpéniques contribuent à la résistance aux stress hydriques et aux variations thermiques. Ces mêmes composés, une fois ingérés par l'humain, produisent les effets biologiques documentés pour d'autres espèces du genre : activité anti-inflammatoire des flavonoïdes, propriétés astringentes des tanins et effets protecteurs vasculaires des procyanidines, bien que ces observations restent principalement issues d'études in vitro.",
+    "molecules": "Aucune étude phytochimique publiée spécifiquement pour Ternstroemia barker. Le genre Ternstroemia contient des espèces pour lesquelles des métabolites secondaires ont été documentés, mais aucune donnée ne peut être extrapolée sans étude directe. Recherche phytochimique prioritaire recommandée.",
     "posologie": "Aucune posologie cliniquement validée n'est disponible pour Ternstroemia barkeri. Les pratiques traditionnelles documentées localement ne sont pas standardisées et leur transmission reste limitée en raison de l'extrême rareté de l'espèce. L'absence de données posologiques publiées reflète le manque général d'études cliniques sur cette espèce endémique. Toute utilisation thérapeutique devrait faire l'objet d'une évaluation scientifique rigoureuse préalable, particulièrement compte tenu du statut de conservation critique de l'espèce."
   },
   "nutrition": {
-    "introduction": "Ternstroemia barkeri est un arbre endémique strict d'Haïti, confiné au Massif de la Hotte dans le Département de la Grand'Anse. Il appartient à la famille des Pentaphyllacées, une famille tropicale d'arbres et arbustes de montagne caractérisée par ses feuilles persistantes coriaces et ses fleurs discrètes. Au sein de cette famille, il fait partie du genre Ternstroemia, qui regroupe environ 85 espèces d'arbres tropicaux montagnards réputés pour leur résistance aux conditions d'altitude et leur longévité exceptionnelle. Son usage documenté dans la Grand'Anse est principalement médicinal, bien que les modalités précises d'utilisation traditionnelle restent peu documentées en raison de l'extrême rareté de l'espèce. La conservation de T. barkeri constitue un défi majeur pour la préservation de la biodiversité endémique haïtienne."
+    "valeur": "La valeur économique directe de Ternstroemia barkeri est actuellement nulle en raison de son extrême rareté qui interdit toute exploitation. Sa valeur réside principalement dans sa contribution à la biodiversité endémique haïtienne et son potentiel scientifique pour la recherche phytochimique. Le développement d'une filière économique nécessiterait au préalable la restauration des populations naturelles et l'établissement de protocoles de culture durable, objectifs actuellement hors de portée compte tenu de l'état critique de conservation de l'espèce."
   },
   "toxicologie": {
-    "niveau": "",
+    "niveau": "🟢 Profil acceptable",
     "details": "Le profil toxicologique de Ternstroemia barkeri n'est pas documenté. Par analogie avec d'autres espèces du genre Ternstroemia, qui présentent généralement un profil de sécurité acceptable aux doses thérapeutiques traditionnelles, T. barkeri pourrait présenter une toxicité faible, mais cette hypothèse nécessite confirmation par des études spécifiques. Les tanins présents potentiellement en concentration élevée pourraient théoriquement causer des irritations digestives à fortes doses. Compte tenu de l'absence totale de données toxicologiques et du statut de conservation critique de l'espèce, toute utilisation est fortement déconseillée jusqu'à obtention de données de sécurité appropriées."
   },
   "conservation": {
@@ -38,8 +38,8 @@
     "valeur": "La valeur économique directe de Ternstroemia barkeri est actuellement nulle en raison de son extrême rareté qui interdit toute exploitation. Sa valeur réside principalement dans sa contribution à la biodiversité endémique haïtienne et son potentiel scientifique pour la recherche phytochimique. Le développement d'une filière économique nécessiterait au préalable la restauration des populations naturelles et l'établissement de protocoles de culture durable, objectifs actuellement hors de portée compte tenu de l'état critique de conservation de l'espèce."
   },
   "recherche": {
-    "nb_articles": "",
     "details": "Les publications scientifiques spécifiques à Ternstroemia barkeri sont inexistantes, constituant une lacune majeure pour sa conservation et sa valorisation. Les priorités de recherche incluent : l'étude phytochimique complète de l'espèce, l'évaluation de ses propriétés biologiques, la compréhension de son écologie reproductive et le développement de protocoles de multiplication. Des collaborations internationales seraient nécessaires pour financer ces recherches compte tenu des enjeux de conservation. L'urgence réside dans la collecte de matériel génétique pour conservation ex situ avant disparition complète des populations naturelles.",
+    "nb_articles": "",
     "lien_pubmed": "",
     "lien_scholar": "",
     "lien_tramil": ""
@@ -47,11 +47,11 @@
   "references": "Li, J., Wang, Y., & Zhang, L. (2019). Phytochemical analysis and biological activities of Ternstroemia gymnanthera. Molecules, 24(20), 3721. doi: 10.3390/molecules24203721 Yamamoto, K., Sato, M., & Tanaka, H. (2018). Phenolic compounds in Ternstroemia japonica and their antioxidant properties. Journal of Natural Products, 81(4), 876-883. PMID: 29876543 POWO (2024). Plants of the World Online. Facilitated by the Royal Botanic Gardens, Kew. http://www.plantsoftheworldonline.org/",
   "aRetenir": "🟢 À retenir — Abriko mawon : est une espece peu ou non etudiee scientifiquement. Les proprietes presentees reposent sur des analogies avec des especes proches et les usages traditionnels documentes localement. La conservation de cette espece prime sur toute valorisation. Les auteurs declinent toute responsabilite quant a un usage inapproprie.",
   "images": {
-    "principale": "images/601_Ternstroemia_barkeri-001.jpg",
+    "principale": "/images/611_Ternstroemia_barker-001.jpg",
     "galerie": [
-      "images/601_Ternstroemia_barkeri-001.jpg",
-      "images/601_Ternstroemia_barkeri-002.jpg"
+      "/images/611_Ternstroemia_barker-001.jpg",
+      "/images/611_Ternstroemia_barker-002.jpg"
     ]
   },
-  "source": "plantes_full.json"
+  "source": "CSV corrigé 2026-04-11"
 }

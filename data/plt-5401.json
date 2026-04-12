@@ -1,7 +1,7 @@
 {
   "id_plante": "plt-5401",
   "code": "plt-5401",
-  "no_espece": "",
+  "no_espece": "54.1",
   "no_famille": "54",
   "famille": "Méliacées",
   "description_famille": "Avec ses nombreuses espèces tropicales, les Méliacées constituent une famille d'arbres et d'arbustes particulièrement remarquable dans les Départements du Sud et de la Grand'Anse. Cette famille rassemble des genres aux usages multiples : alimentaires comme l'acajou à miel (Cedrela), médicinaux comme le neem (Azadirachta) et le lilas du pays (Melia), ainsi que des essences forestières précieuses comme les cèdres et acajous. Sur le plan phytochimique, les Méliacées se distinguent par leur richesse en limonoïdes — des composés triterpéniques amers aux propriétés insecticides et antimicrobiennes remarquables —, en tanins astringents, en saponines et en flavonoïdes. Ces molécules ciblent préférentiellement les systèmes tégumentaire, digestif et immunitaire, conférant à cette famille des propriétés cicatrisantes, antiparasitaires et anti-inflammatoires reconnues. Il convient cependant d'exercer une vigilance particulière car certaines espèces — notamment Melia azedarach — renferment des principes actifs puissants dans leurs graines et fruits, pouvant provoquer des troubles neurologiques à forte dose.",
@@ -20,17 +20,17 @@
   },
   "usages": {
     "usages_ethnobotaniques": "Dans les Départements du Sud et de la Grand'Anse, A. indica est documenté pour ses usages antimicrobiens, antiparasitaires, anti-inflammatoires, antidiabétiques adjuvants et cicatrisants. Les feuilles sont principalement préparées en infusion contre la fièvre et comme tonique général. L'écorce est utilisée en décoction pour les troubles digestifs et les infections cutanées. L'huile extraite des graines sert d'insecticide naturel pour protéger les cultures et comme traitement externe des affections dermatologiques. Les modes de préparation incluent l'infusion simple des feuilles fraîches ou séchées, les décoctions d'écorce, et l'extraction traditionnelle de l'huile des graines par pression à froid.",
-    "systemes_concernes": "Tégumentaire, Endocrinien"
+    "systemes_concernes": "A. indica cible préférentiellement le système tégumentaire pour ses propriétés cicatrisantes et antimicrobiennes externes, ainsi que le système endocrinien comme adjuvant dans la gestion du diabète. Les mécanismes d'action documentés incluent l'inhibition de l'α-glucosidase intestinale par les flavonoïdes, réduisant l'absorption post-prandiale du glucose (Chattopadhyay, 1999 — PMID: 10815009), l'amélioration de la sensibilité à l'insuline par les limonoïdes, et la modulation des enzymes antioxydantes via la voie Nrf2 (Bhat et al., 2013 — PMID: 23369494). Les études précliniques révèlent également des effets antihypertenseurs, antipaludiques et une activité antibactérienne remarquable contre des souches résistantes, incluant Staphylococcus aureus et Escherichia coli."
   },
   "pharmacologie": {
     "molecules": "A. indica se caractérise par une amertume intense de toutes ses parties, révélatrice de sa richesse exceptionnelle en limonoïdes défensifs. L'azadirachtine, principal limonoïde responsable de cette amertume, constitue l'un des insecticides naturels les plus puissants connus, protégeant efficacement la plante contre plus de 400 espèces d'arthropodes ravageurs (Nicoletti et al., 2012 — PMID: 22414062). Les feuilles contiennent également des flavonoïdes comme la quercétine et le kaempférol, responsables de leurs propriétés antioxydantes, ainsi que des tanins astringents expliquant leur usage traditionnel pour les affections cutanées. Les principaux composés secondaires identifiés dans A. indica comprennent : des limonoïdes majeurs (azadirachtine, nimbine, salannine, nimbolide), des flavonoïdes (quercétine, kaempférol, catéchine), des tanins galliques et catéchiques, des saponines triterpéniques, et des alcaloïdes mineurs comme la margosine (Brahmachari, 2004 — PMID: 15043395). Les graines renferment une huile riche en acides gras (oléique, palmitique, stéarique) et en limonoïdes concentrés. Ces molécules remplissent des fonctions de défense sophistiquées pour la plante. L'azadirachtine perturbe la croissance et la reproduction des insectes herbivores en interférant avec leur système hormonal ecdysone. Les tanins protègent contre les pathogènes fongiques et bactériens par précipitation des protéines. Les flavonoïdes neutralisent les radicaux libres générés par les stress environnementaux. Ces mêmes composés, une fois administrés à l'humain, produisent les effets biologiques documentés : hypoglycémiant par inhibition de l'α-glucosidase, antimicrobien par disruption des membranes cellulaires pathogènes, et anti-inflammatoire par modulation des voies NFκB et Nrf2.",
     "posologie": "Les études cliniques sur A. indica restent limitées chez l'humain. Les recherches animales utilisent généralement des extraits de feuilles à des doses de 200 à 500 mg/kg de poids corporel (Khosla et al., 2000 — PMID: 10815008). Quelques études humaines de petite envergure rapportent l'usage de poudres ou extraits standardisés à des doses de 1 à 4 g par jour pour les effets antidiabétiques. Les préparations traditionnelles locales ne suivent pas de protocoles standardisés et leur efficacité clinique reste à valider par des essais contrôlés rigoureux."
   },
   "nutrition": {
-    "introduction": "Azadirachta indica A. Juss. (syn. Melia azadirachta L.) est un arbre exotique abondant dans les Départements du Sud et de la Grand'Anse. Il appartient à la famille des Méliacées, reconnue pour ses essences forestières précieuses et ses propriétés médicinales remarquables. Au sein de cette famille, il fait partie du genre Azadirachta, un petit groupe d'arbres asiatiques dont A. indica est l'espèce la plus étudiée et utilisée mondialement. Son usage dominant dans les deux départements est médicinal et insecticide, particulièrement apprécié pour ses propriétés antimicrobiennes, antiparasitaires et antidiabétiques. Introduit depuis l'Inde, cet arbre s'est parfaitement adapté au climat tropical haïtien et nécessite désormais un contrôle de son expansion."
+    "valeur": "Localement, A. indica représente une valeur économique significative comme insecticide naturel accessible aux petits agriculteurs. Internationalement, il constitue une source majeure de biopesticides commerciaux, l'azadirachtine étant extraite industriellement pour la formulation d'insecticides biologiques certifiés. Le marché mondial des produits à base de neem dépasse plusieurs centaines de millions de dollars, principalement dans les secteurs agricole et cosmétique."
   },
   "toxicologie": {
-    "niveau": "",
+    "niveau": "🟢 Non toxique aux doses usuelles",
     "details": "Bien que généralement considéré comme non toxique aux doses traditionnelles, A. indica présente certaines précautions importantes. Des cas de toxicité hépatique et rénale ont été rapportés avec l'usage prolongé d'huile de graines ou de doses élevées d'extraits (Sinniah et al., 1982 — PMID: 7135568). Les effets hypoglycémiants peuvent potentialiser les antidiabétiques conventionnels, nécessitant une surveillance glycémique. Des effets abortifs ayant été démontrés chez l'animal, l'usage est contre-indiqué pendant la grossesse et l'allaitement. La prudence s'impose lors d'usage interne prolongé."
   },
   "conservation": {
@@ -38,8 +38,8 @@
     "valeur": "Localement, A. indica représente une valeur économique significative comme insecticide naturel accessible aux petits agriculteurs. Internationalement, il constitue une source majeure de biopesticides commerciaux, l'azadirachtine étant extraite industriellement pour la formulation d'insecticides biologiques certifiés. Le marché mondial des produits à base de neem dépasse plusieurs centaines de millions de dollars, principalement dans les secteurs agricole et cosmétique."
   },
   "recherche": {
-    "nb_articles": "",
     "details": "Avec près d'un millier de publications scientifiques indexées, A. indica fait partie des plantes médicinales les plus étudiées au monde. Les recherches actuelles se concentrent sur l'optimisation des extractions de limonoïdes, le développement de formulations standardisées pour le diabète, et l'évaluation de son potentiel anticancéreux. Des études pharmacocinétiques et d'innocuité à long terme sont nécessaires pour valider cliniquement ses usages traditionnels et développer des médicaments phytothérapiques standardisés.",
+    "nb_articles": "",
     "lien_pubmed": "",
     "lien_scholar": "",
     "lien_tramil": ""
@@ -47,11 +47,11 @@
   "references": "Bhat, M. et al. (2013). Azadirachta indica ameliorates insulin resistance and liver dysfunction in streptozotocin-induced diabetic rats. Exp Biol Med. PMID: 23369494. Brahmachari, G. (2004). Neem - an omnipotent plant: a retrospection. ChemBioChem. PMID: 15043395. Chattopadhyay, R.R. (1999). A comparative evaluation of some blood sugar lowering agents of plant origin. J Ethnopharmacol. PMID: 10815009. Khosla, P. et al. (2000). A study of hypoglycaemic effects of Azadirachta indica in normal and alloxan diabetic rabbits. Indian J Physiol Pharmacol. PMID: 10815008. Nicoletti, M. et al. (2012). Neem tree (Azadirachta indica A. Juss) as source of bioinsectides. Adv Phytomed. PMID: 22414062. Sinniah, R. et al. (1982). Reye-like syndrome due to margosa oil poisoning. Lancet. PMID: 7135568. POWO. (2024). Plants of the World Online. Kew Science. https://powo.science.kew.org/ World Flora Online. (2024). http://www.worldfloraonline.org",
   "aRetenir": "🟢 À retenir — Nim / Bwa leta : est utilisee en medecine traditionnelle avec un bon profil de securite aux doses courantes. Les usages presentes reposent sur des donnees ethnobotaniques et scientifiques publiees, mais ne constituent pas une prescription. Consulter un professionnel de sante avant tout usage therapeutique. Les auteurs declinent toute responsabilite quant a un usage inapproprie.",
   "images": {
-    "principale": "images/541_Azadirachta_indica-001.jpg",
+    "principale": "/images/541_Azadirachta_indica-001.jpg",
     "galerie": [
-      "images/541_Azadirachta_indica-001.jpg",
-      "images/541_Azadirachta_indica-002.jpg"
+      "/images/541_Azadirachta_indica-001.jpg",
+      "/images/541_Azadirachta_indica-002.jpg"
     ]
   },
-  "source": "plantes_full.json"
+  "source": "CSV corrigé 2026-04-11"
 }

@@ -1,7 +1,7 @@
 {
   "id_plante": "plt-3706",
   "code": "plt-3706",
-  "no_espece": "",
+  "no_espece": "37.6",
   "no_famille": "37",
   "famille": "Euphorbiacées",
   "description_famille": "",
@@ -20,17 +20,17 @@
   },
   "usages": {
     "usages_ethnobotaniques": "Dans les Départements du Sud et de la Grand'Anse, H. mancinella est universellement reconnu comme un poison mortel et son usage est formellement proscrit. Cette reconnaissance de la toxicité constitue un savoir traditionnel vital transmis de génération en génération. Cependant, quelques mentions historiques rapportent l'usage externe de décoctions d'écorce extrêmement diluées pour des applications antimicrobiennes sur des plaies infectées, pratique aujourd'hui totalement abandonnée. Dans d'autres îles des Caraïbes, certaines traditions mentionnent l'emploi du latex dilué comme révulsif externe pour des douleurs articulaires, mais ces pratiques relèvent davantage de l'empoisonnement accidentel que de la thérapeutique rationnelle. Le bois, bien que non toxique une fois séché, était parfois utilisé en menuiserie, mais sa manipulation à l'état frais expose aux vapeurs toxiques. Aucune préparation traditionnelle ne peut être recommandée compte tenu des risques vitaux.",
-    "systemes_concernes": "Digestif, Respiratoire, Oculaire"
+    "systemes_concernes": "Les phorbol-esters de H. mancinella activent puissamment la protéine kinase C (PKC) et déclenchent des voies pro-inflammatoires multiples, expliquant la sévérité des brûlures cutanées et de la toxicité systémique (Kinghorn, 2001 — PMID: 11743810). L'exposition cutanée au latex provoque des dermatites bulleuses sévères dans les heures suivant le contact. L'ingestion des fruits entraîne des symptômes digestifs dramatiques : brûlures oro-pharyngées intenses, vomissements incoercibles, diarrhées sanglantes et déshydratation massive. L'inhalation de fumées provenant de la combustion du bois déclenche des œdèmes pulmonaires et des détresses respiratoires. Les mécanismes d'action concernent simultanément les systèmes digestif, respiratoire, cutané et oculaire. L'activité antimicrobienne mentionnée dans certaines traditions s'explique par l'effet cytotoxique non spécifique des phorbol-esters, mais cette propriété est totalement anecdotique par rapport aux risques encourus."
   },
   "pharmacologie": {
     "molecules": "Le mancenillier produit un arsenal chimique défensif d'une puissance exceptionnelle, dominé par des diterpènes hautement toxiques. Les fruits contiennent une concentration remarquable en sucres simples et en eau, ce qui explique leur goût initialement doux et trompeur, mais cette palatabilité masque la présence de toxines mortelles. L'écorce renferme des tanins condensés en forte concentration, responsables de son amertume caractéristique, ainsi que des traces de minéraux comme le calcium et le potassium, sans valeur nutritionnelle significative compte tenu de la toxicité. Les principaux composés secondaires identifiés dans H. mancinella comprennent : des phorbol-esters (hippomanines A et B), des diterpènes macrocycliques, des saponines triterpéniques, des flavonoïdes, des alcaloïdes (physostigmine) et des tanins galliques. Ces molécules sont documentées dans plusieurs études toxicologiques (Pitts et al., 1993 — PMID: 8135012, Séraissol et al., 2019 — doi:10.1016/j.toxicon.2019.02.001). Ces composés remplissent des fonctions de protection extrêmement efficaces pour l'arbre. Les phorbol-esters du latex créent une barrière chimique redoutable contre tous les herbivores, tandis que les saponines protègent les racines des pathogènes tellurique. Les alcaloïdes concentrés dans les graines découragent la prédation des fruits. Cette chimie défensive explique pourquoi le mancenillier peut prospérer sans concurrence majeure dans son habitat côtier. Ces mêmes composés, une fois en contact avec l'organisme humain, produisent des effets toxiques dramatiques : les phorbol-esters activent massivement la protéine kinase C, déclenchant une cascade inflammatoire intense responsable des brûlures cutanées et des lésions multiviscérales observées lors d'empoisonnements.",
     "posologie": "Aucune posologie thérapeutique n'existe pour H. mancinella. Toute utilisation, même en dilution extrême, présente un risque vital inacceptable. Les quelques mentions historiques de décoctions d'écorce \"très diluées\" pour usage externe relèvent de l'empirisme dangereux et non de la médecine rationnelle. Les données toxicologiques indiquent que des contacts cutanés avec le latex non dilué provoquent des brûlures en quelques minutes, et que l'ingestion d'une fraction de fruit peut être mortelle chez l'enfant (Pitts et al., 1993 — PMID: 8135012). La règle absolue est l'évitement total de tout contact avec la plante."
   },
   "nutrition": {
-    "introduction": "Hippomane mancinella L. (syn. Mancinella venenata) est un arbre côtier natif des Départements du Sud et de la Grand'Anse, appartenant à la famille des Euphorbiacées. Cette famille, composée majoritairement d'herbes, d'arbustes et d'arbres, occupe une place centrale dans la flore du grand sud d'Haïti par ses riches usages alimentaires — comme le manioc (Manihot esculenta) —, médicinaux et spirituels. Cependant, elle abrite également certaines des plantes les plus dangereuses au monde. Sur le plan phytochimique, les Euphorbiacées se distinguent par leur production de latex caustique, de diterpènes irritants (phorbols, ingols), d'alcaloïdes et de cyanogènes chez certaines espèces comme le manioc amer. Cette signature chimique cible préférentiellement les systèmes digestif, tégumentaire et cutané. La famille exige une vigilance extrême car plusieurs genres — Jatropha, Ricinus, Hura et particulièrement Hippomane — renferment des graines mortelles et des latex hautement toxiques. Au sein de cette famille à risque, Hippomane mancinella détient le triste record d'être considéré comme l'un des arbres les plus dangereux de la planète. Malgré quelques usages antimicrobiens et analgésiques externes rapportés dans la tradition caribéenne, son usage est formellement proscrit en raison de sa toxicité extrême."
+    "valeur": "H. mancinella ne présente aucune valeur économique positive directe. Au contraire, sa présence constitue un coût sociétal lié aux risques d'empoisonnement et aux besoins de surveillance. Le bois, bien que de qualité correcte une fois traité, ne compense pas les dangers de sa récolte. L'espèce représente plutôt un enjeu de sécurité publique nécessitant des investissements en signalisation et en sensibilisation des populations locales et touristiques."
   },
   "toxicologie": {
-    "niveau": "danger",
+    "niveau": "🔴 Toxique",
     "details": "H. mancinella est classé parmi les végétaux les plus dangereux au monde. Le simple contact avec le latex provoque des dermatites bulleuses sévères et des lésions oculaires irréversibles. L'ingestion des fruits — malgré leur goût initialement doux — entraîne des empoisonnements souvent mortels avec brûlures digestives, œdème de Quincke et collapsus cardiovasculaire. L'inhalation de fumées lors de la combustion du bois déclenche des œdèmes pulmonaires aigus. Les précautions absolues incluent : éviter tout contact avec l'arbre par temps pluvieux (le latex se dilue dans l'eau de ruissellement), ne jamais s'abriter sous son feuillage, porter des équipements de protection intégrale lors d'éventuelles opérations d'éradication, et sensibiliser systématiquement les enfants à sa reconnaissance et à son évitement. L'espèce est à proscrire totalement de l'automédication."
   },
   "conservation": {
@@ -38,8 +38,8 @@
     "valeur": "H. mancinella ne présente aucune valeur économique positive directe. Au contraire, sa présence constitue un coût sociétal lié aux risques d'empoisonnement et aux besoins de surveillance. Le bois, bien que de qualité correcte une fois traité, ne compense pas les dangers de sa récolte. L'espèce représente plutôt un enjeu de sécurité publique nécessitant des investissements en signalisation et en sensibilisation des populations locales et touristiques."
   },
   "recherche": {
-    "nb_articles": "",
     "details": "Les recherches sur H. mancinella se concentrent principalement sur sa toxicologie et les mécanismes d'empoisonnement. Des études récentes explorent les applications potentielles de ses phorbol-esters comme outils de recherche en biologie cellulaire, mais ces applications restent strictement académiques (Séraissol et al., 2019). Les perspectives incluent le développement d'antidotes spécifiques et l'amélioration des protocoles de traitement des empoisonnements. La caractérisation complète de ses diterpènes pourrait contribuer à la compréhension des mécanismes de toxicité des Euphorbiacées. Aucune recherche thérapeutique n'est envisageable compte tenu du profil de sécurité.",
+    "nb_articles": "",
     "lien_pubmed": "",
     "lien_scholar": "",
     "lien_tramil": ""
@@ -47,10 +47,10 @@
   "references": "Kinghorn, A.D. (2001). Toxic plants in dermatology. Clinics in Dermatology, 19(5), 650-658. PMID: 11743810. Pitts, J.F., Barker, N.H., Gibbons, D.C., Stevens, J.D. (1993). Manchineel keratoconjunctivitis. British Journal of Ophthalmology, 77(5), 284-288. PMID: 8135012. Séraissol, P., Labadie, M., Villa, A.F., Blanc-Brisset, I. (2019). Acute poisoning by Hippomane mancinella: A systematic review. Toxicon, 161, 37-45. doi:10.1016/j.toxicon.2019.02.001. POWO (2024). Plants of the World Online. Facilitated by the Royal Botanic Gardens, Kew. http://www.plantsoftheworldonline.org/",
   "aRetenir": "🔴 À retenir — Mansenilye : est une plante hautement toxique. Toute manipulation sans protection est dangereuse. Toute ingestion peut etre mortelle. Ces informations sont destinees exclusivement a la documentation scientifique. Les auteurs declinent toute responsabilite quant a un usage inapproprie.",
   "images": {
-    "principale": "images/376_Hippomane_mancinella-001.jpg",
+    "principale": "/images/376_Hippomane_mancinella-001.jpg",
     "galerie": [
-      "images/376_Hippomane_mancinella-001.jpg"
+      "/images/376_Hippomane_mancinella-001.jpg"
     ]
   },
-  "source": "plantes_full.json"
+  "source": "CSV corrigé 2026-04-11"
 }

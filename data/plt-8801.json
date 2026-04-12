@@ -1,7 +1,7 @@
 {
   "id_plante": "plt-8801",
   "code": "plt-8801",
-  "no_espece": "",
+  "no_espece": "88.1",
   "no_famille": "88",
   "famille": "Vitacées",
   "description_famille": "Reconnues pour leurs riches usages alimentaires et médicinaux, les Vitacées rassemblent environ 950 espèces réparties en 14 genres, dominées par les lianes grimpantes des régions tropicales et tempérées chaudes. Cette famille comprend des genres à forte valeur économique comme Vitis (vignes productrices de raisin), source mondiale de vin, jus et raisins secs, ainsi que des genres médicinaux traditionnels comme Cissus, largement utilisé dans les pharmacopées caribéennes et sud-américaines pour ses propriétés antidiabétiques et anti-inflammatoires. Sur le plan phytochimique, les Vitacées se distinguent par leur signature moléculaire dominée par le resvératrol — composé cardioprotecteur célèbre du raisin —, les anthocyanes responsables de la pigmentation des fruits, les flavonoïdes antioxydants, les tanins astringents et les acides organiques comme l'acide tartrique. Ces composés ciblent préférentiellement les systèmes tégumentaire, respiratoire et cardiovasculaire. Une vigilance s'impose car certaines espèces renferment des principes actifs puissants exigeant une préparation adéquate et un dosage strict, particulièrement pour les usages médicinaux prolongés.",
@@ -20,17 +20,17 @@
   },
   "usages": {
     "usages_ethnobotaniques": "Dans les Départements du Sud et de la Grand'Anse, C. verticillata est utilisée principalement par voie externe sous forme de cataplasmes appliqués directement sur les zones affectées. Les feuilles fraîches sont écrasées et appliquées sur les abcès pour leurs propriétés anti-inflammatoires et cicatrisantes. La plante entre également dans la composition de préparations destinées aux rituels traditionnels. Pour les usages internes, les feuilles et jeunes tiges sont préparées en infusion pour traiter la grippe, le diabète et l'hypertension. Les racines sont occasionnellement utilisées pour renforcer l'effet diurétique. La documentation TRAMIL confirme l'usage traditionnel en Haïti contre le diabète, tandis que des utilisations similaires sont rapportées au Brésil comme « insuline végétale ».",
-    "systemes_concernes": "Respiratoire, Cardiovasculaire, Tégumentaire"
+    "systemes_concernes": "C. verticillata cible principalement les systèmes tégumentaire et respiratoire, avec des effets documentés sur le système cardiovasculaire. Les polyphénols présents dans la plante exercent des activités antioxydantes significatives et inhibent les enzymes cyclooxygénases (COX) impliquées dans l'inflammation (Vasconcelos et al., 2007 — PMID: 17562935). Les saponines triterpéniques favorisent la diurèse par irritation du parenchyme rénal et contribuent probablement à l'effet hypotenseur par réduction de la volémie. L'effet antidiabétique, documenté dans plusieurs études, implique vraisemblablement une amélioration de la sensibilité à l'insuline et une modulation du métabolisme glucidique, bien que les mécanismes précis nécessitent des investigations complémentaires (Pepato et al., 2003 — PMID: 12956329)."
   },
   "pharmacologie": {
     "molecules": "Cissus verticillata doit ses propriétés à sa richesse en composés bioactifs responsables de ses propriétés médicinales reconnues. La plante accumule des mucilages dans ses tissus, conférant à ses feuilles une texture légèrement visqueuse et contribuant à ses propriétés émollientes et anti-inflammatoires externes. Sa saveur amère caractéristique provient principalement de la présence de saponines triterpéniques et de tanins, molécules de défense qui protègent la plante contre les herbivores et les pathogènes. Ces composés sont particulièrement concentrés dans les feuilles et l'écorce des tiges, expliquant l'usage traditionnel de ces parties pour les préparations thérapeutiques. Les principaux composés secondaires identifiés dans C. verticillata comprennent : des flavonoïdes (quercétine, kaempférol, rutine) aux propriétés antioxydantes et vasculoprotectrices, des tanins condensés et hydrolysables responsables de l'astringence et des effets anti-inflammatoires, des saponines triterpéniques impliquées dans les effets diurétiques et hypoglycémiants, des coumarines aux propriétés anticoagulantes, des stéroïdes végétaux et de la tyramine, un alcaloïde sympathomimétique (Beltrame et al., 2002 — PMID: 12456130, Vasconcelos et al., 2007 — PMID: 17562935). Des études ont également identifié la présence de resvératrol, le célèbre composé cardioprotecteur également présent dans la vigne. Ces molécules remplissent des fonctions de défense essentielles pour la liane. Les flavonoïdes protègent les tissus photosynthétiques contre les dommages oxydatifs et les rayonnements UV intenses des régions tropicales. Les tanins et saponines constituent un système de défense chimique contre les herbivores et les agents pathogènes. Ces mêmes composés, une fois ingérés par l'humain, produisent les effets biologiques documentés : les flavonoïdes exercent des activités antioxydantes et anti-inflammatoires, les saponines favorisent la diurèse et contribuent à l'effet hypoglycémiant, tandis que les tanins participent aux propriétés astringentes et cicatrisantes. Ces observations restent principalement issues d'études in vitro et sur modèles animaux.",
     "posologie": "Pour l'usage traditionnel en infusion, la posologie documentée est de 5 à 10 g de feuilles séchées par litre d'eau, à prendre 1 à 2 fois par jour (TRAMIL, 2010). Cette posologie correspond aux pratiques traditionnelles validées par l'expérience empirique. Pour les cataplasmes externes, les feuilles fraîches sont utilisées directement sans dilution particulière. Cependant, aucune posologie cliniquement standardisée n'existe pour des applications thérapeutiques modernes, les études publiées portant principalement sur des extraits standardisés en laboratoire."
   },
   "nutrition": {
-    "introduction": "Cissus verticillata (L.) (syn. Cissus sicyoides) est une liane native documentée dans les Départements du Sud et de la Grand'Anse, où elle est connue sous le nom de « Lyan mòl ». Elle appartient à la famille des Vitacées, reconnue pour ses riches usages alimentaires et médicinaux, et au genre Cissus, un groupe de lianes tropicales particulièrement valorisées dans les pharmacopées traditionnelles américaines et caribéennes pour leurs propriétés antidiabétiques remarquables. Son usage dominant dans les deux départements est médicinal, où elle est employée comme anti-inflammatoire, antioxydant, digestif, diurétique et hypotenseur, particulièrement contre le diabète, la grippe et les abcès."
+    "valeur": "La valeur économique de C. verticillata réside principalement dans ses applications médicinales locales et son potentiel ornemental international. Dans les Départements du Sud et de la Grand'Anse, elle constitue une ressource thérapeutique accessible et gratuite pour les communautés rurales. Son potentiel de développement comme nutraceutique ou phytomédicament antidiabétique pourrait générer des opportunités économiques futures, sous réserve de recherches cliniques approfondies et de développement durable des filières."
   },
   "toxicologie": {
-    "niveau": "",
+    "niveau": "🟢 Non toxique aux doses usuelles",
     "details": "C. verticillata présente un profil de sécurité favorable aux doses traditionnelles. Cependant, des précautions s'imposent en raison de ses effets pharmacologiques. L'activité hypotensive et diurétique peut provoquer une hypotension symptomatique et des déséquilibres hydro-électrolytiques en cas de consommation excessive. La présence de tyramine impose une vigilance chez les personnes sous traitement par inhibiteurs de la monoamine oxydase (IMAO). L'usage est déconseillé pendant la grossesse et l'allaitement par manque de données de sécurité spécifiques. Les patients sous traitement antihypertenseur ou diurétique doivent consulter avant utilisation."
   },
   "conservation": {
@@ -38,8 +38,8 @@
     "valeur": "La valeur économique de C. verticillata réside principalement dans ses applications médicinales locales et son potentiel ornemental international. Dans les Départements du Sud et de la Grand'Anse, elle constitue une ressource thérapeutique accessible et gratuite pour les communautés rurales. Son potentiel de développement comme nutraceutique ou phytomédicament antidiabétique pourrait générer des opportunités économiques futures, sous réserve de recherches cliniques approfondies et de développement durable des filières."
   },
   "recherche": {
-    "nb_articles": "~500 (estimation)",
     "details": "Avec environ 500 publications scientifiques indexées, C. verticillata figure parmi les plantes médicinales caribéennes les mieux documentées. Les recherches actuelles se concentrent sur l'élucidation des mécanismes antidiabétiques, l'identification des principes actifs majeurs et le développement de formulations standardisées. Des essais cliniques humains sont nécessaires pour valider les usages traditionnels et établir des protocoles thérapeutiques modernes. Le potentiel de la plante dans le traitement adjuvant du diabète de type 2 représente un axe de recherche prioritaire.",
+    "nb_articles": "",
     "lien_pubmed": "",
     "lien_scholar": "",
     "lien_tramil": ""
@@ -47,13 +47,13 @@
   "references": "Beltrame, F.L. et al. (2002). A study of the anti-inflammatory, analgesic and gastroprotective activities of Cissus verticillata. Brazilian Journal of Medical and Biological Research. PMID: 12456130. Pepato, M.T. et al. (2003). Anti-diabetic activity of Cissus sicyoides in streptozotocin-diabetic rats. Brazilian Journal of Medical and Biological Research. PMID: 12956329. Vasconcelos, C.F. et al. (2007). Antioxidant activity of Cissus verticillata. Fitoterapia. PMID: 17562935. TRAMIL (2010). Pharmacopée végétale caribéenne. www.tramil.net POWO (2024). Plants of the World Online. Kew Science. https://powo.science.kew.org/",
   "aRetenir": "🟢 À retenir — Lyan mòl : est utilisee en medecine traditionnelle avec un bon profil de securite aux doses courantes. Les usages presentes reposent sur des donnees ethnobotaniques et scientifiques publiees, mais ne constituent pas une prescription. Consulter un professionnel de sante avant tout usage therapeutique. Les auteurs declinent toute responsabilite quant a un usage inapproprie.",
   "images": {
-    "principale": "images/871_Cissus_verticillata-001.jpg",
+    "principale": "/images/871_Cissus_verticillata-001.jpg",
     "galerie": [
-      "images/871_Cissus_verticillata-001.jpg",
-      "images/871_Cissus_verticillata-002.jpg",
-      "images/871_Cissus_verticillata-004.jpg",
-      "images/871_Cissus_verticillata-005.jpg"
+      "/images/871_Cissus_verticillata-001.jpg",
+      "/images/871_Cissus_verticillata-002.jpg",
+      "/images/871_Cissus_verticillata-004.jpg",
+      "/images/871_Cissus_verticillata-005.jpg"
     ]
   },
-  "source": "plantes_full.json"
+  "source": "CSV corrigé 2026-04-11"
 }

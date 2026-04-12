@@ -1,7 +1,7 @@
 {
   "id_plante": "plt-3807",
   "code": "plt-3807",
-  "no_espece": "",
+  "no_espece": "38.7",
   "no_famille": "38",
   "famille": "Fabacées",
   "description_famille": "",
@@ -20,17 +20,17 @@
   },
   "usages": {
     "usages_ethnobotaniques": "L'usage de « Wont » est documenté dans le Sud et la Grand'Anse principalement pour ses propriétés sédatives : « La plante Wont aide à dormir » selon les témoignages recueillis, et elle revêt une grande importance culturelle dans ces régions. Les parties utilisées sont les feuilles, les racines et les tiges, préparées principalement en infusion. Au niveau caribéen, TRAMIL documente son usage en Haïti spécifiquement contre l'insomnie. Les usages internationaux sont plus diversifiés : en Inde, la plante est appliquée sur les plaies pour ses propriétés cicatrisantes, et des études publiées documentent son utilisation comme antidépresseur. Traditionnellement, l'infusion de feuilles fraîches ou séchées constitue le mode de préparation privilégié, les racines étant parfois ajoutées pour renforcer l'effet sédatif.",
-    "systemes_concernes": "Nerveux"
+    "systemes_concernes": "M. pudica cible préférentiellement le système nerveux, avec des recherches documentant une activité potentielle dans la maladie de Parkinson et les troubles de la fertilité. Les mécanismes d'action identifiés impliquent les tanins et saponines qui confèrent une astringence et une activité antimicrobienne démontrée in vitro. Des études sur modèles animaux ont observé une inhibition de certains médiateurs inflammatoires et une modulation du transit intestinal (Rajendran et al., 2009 — PMID: 19168123). Pour les propriétés neuroprotectrices, des recherches suggèrent une modulation des voies dopaminergiques, bien que les mécanismes précis nécessitent des investigations cliniques approfondies (Manyam, 1999 — PMID: 10190524). L'activité sédative traditionnellement rapportée pourrait impliquer une interaction avec les récepteurs GABA, mais cette hypothèse reste à confirmer par des études contrôlées chez l'humain."
   },
   "pharmacologie": {
     "molecules": "Ce qui caractérise particulièrement M. pudica, c'est sa production de mimosine, un acide aminé non protéique toxique qui lui sert d'arme chimique contre les herbivores. Cette molécule, concentrée principalement dans les graines et les jeunes pousses, peut provoquer la chute des poils et des plumes chez les animaux qui consomment la plante en excès, constituant un mécanisme de défense chimique particulièrement efficace. La plante synthétise également des mucilages dans ses feuilles et ses tiges, substances visqueuses qui participent à la rétention d'eau et à la cicatrisation des blessures mécaniques. Les principaux composés secondaires identifiés dans M. pudica comprennent : des flavonoïdes (quercétine, kaempférol, rutine), des saponines triterpéniques, des tanins hydrolysables et condensés, des alcaloïdes (mimosine principalement), et des terpénoïdes volatils (Genest et al., 2008 — PMID: 18693101). Des études récentes ont également révélé la présence de composés phénoliques bioactifs et de glycosides spécialisés (Chowdhury et al., 2008 — PMID: 18330662). Ces molécules remplissent des fonctions écologiques précises pour la plante. La mimosine décourage efficacement l'herbivorie en provoquant des troubles métaboliques chez les mammifères. Les tanins protègent contre les pathogènes fongiques et bactériens tout en conférant l'astringence caractéristique. Les saponines perturbent les membranes cellulaires des organismes pathogènes. Ces mêmes composés, une fois ingérés par l'humain à doses thérapeutiques, produisent les effets biologiques documentés : les tanins exercent une action astringente et anti-inflammatoire locale, les saponines présentent des propriétés antimicrobiennes, et l'ensemble du complexe phytochimique module l'activité du système nerveux central. Il convient de noter que ces observations restent principalement issues d'études in vitro et sur modèles animaux.",
     "posologie": "Aucune posologie cliniquement standardisée n'est établie pour M. pudica. Les pratiques traditionnelles utilisent typiquement des infusions faibles de feuilles (environ 5 g par litre d'eau), mais ces préparations ne sont pas standardisées et varient considérablement selon les régions et les praticiens. Les études pharmacologiques disponibles portent principalement sur des extraits concentrés testés in vitro ou sur modèles animaux, dont les dosages ne peuvent être directement transposés à l'usage humain sans validation clinique appropriée."
   },
   "nutrition": {
-    "introduction": "Mimosa pudica L. (syn. Mimosa hispida) est une herbe native remarquable, connue dans les Départements du Sud et de la Grand'Anse sous le nom créole « Wont ». Elle appartient à la famille des Fabacées, vaste famille de plus de 20 000 espèces comprenant des légumineuses alimentaires majeures comme le haricot commun (Phaseolus vulgaris), le pois cajan (Cajanus cajan), et des arbres précieux comme le campêche (Haematoxylum campechianum). Cette famille se distingue par sa capacité unique de fixation symbiotique de l'azote atmosphérique, enrichissant naturellement les sols, et par sa richesse exceptionnelle en protéines végétales. Sur le plan thérapeutique, les Fabacées ciblent préférentiellement les systèmes digestif, cutané et nerveux grâce à leur signature phytochimique dominée par les flavonoïdes, les tanins, les saponines et les alcaloïdes spécialisés. Une vigilance particulière s'impose car cette famille renferme des espèces très toxiques : Abrus precatorius dont les graines contiennent l'abrine mortelle, ou encore diverses espèces de Senna aux effets purgatifs puissants. Au sein de cette famille, M. pudica fait partie du genre Mimosa, un groupe d'herbes et d'arbustes tropicaux célèbres pour leurs mouvements foliaires spectaculaires — phénomène de thigmonastie — qui leur vaut le surnom de « plantes sensitives ». L'usage de « Wont » dans le Sud et la Grand'Anse est essentiellement médicinal, particulièrement recherché pour ses propriétés sédatives et sa grande importance culturelle locale."
+    "valeur": "La valeur économique locale de « Wont » reste principalement médicinale et culturelle, sans exploitation commerciale significative dans les Départements du Sud et de la Grand'Anse. Au niveau international, M. pudica suscite un intérêt pharmaceutique croissant pour ses propriétés neuroprotectrices potentielles, particulièrement dans le contexte des maladies neurodégénératives. Quelques entreprises de phytocosmétique explorent ses propriétés cicatrisantes pour des applications dermatologiques, mais le marché reste émergent et limité."
   },
   "toxicologie": {
-    "niveau": "",
+    "niveau": "🔴 Toxique",
     "details": "M. pudica présente un profil de sécurité généralement acceptable aux doses traditionnelles. Le principal risque concerne la mimosine présente dans les graines et jeunes pousses, potentiellement toxique en cas de consommation excessive prolongée. Un surdosage des préparations orales peut provoquer des troubles digestifs — diarrhée ou constipation selon le type de préparation. Une prudence particulière est recommandée pendant la grossesse en raison de données de sécurité limitées sur cette population. Les interactions médicamenteuses potentielles avec les sédatifs ou anticoagulants nécessitent une surveillance, bien qu'aucun cas clinique ne soit formellement documenté."
   },
   "conservation": {
@@ -38,8 +38,8 @@
     "valeur": "La valeur économique locale de « Wont » reste principalement médicinale et culturelle, sans exploitation commerciale significative dans les Départements du Sud et de la Grand'Anse. Au niveau international, M. pudica suscite un intérêt pharmaceutique croissant pour ses propriétés neuroprotectrices potentielles, particulièrement dans le contexte des maladies neurodégénératives. Quelques entreprises de phytocosmétique explorent ses propriétés cicatrisantes pour des applications dermatologiques, mais le marché reste émergent et limité."
   },
   "recherche": {
-    "nb_articles": "~1000 (estimation)",
     "details": "Les recherches sur M. pudica connaissent un développement significatif, avec environ 1000 publications indexées témoignant de l'intérêt scientifique soutenu. Les axes de recherche prioritaires incluent l'élucidation des mécanismes neuroprotecteurs, l'optimisation des protocoles d'extraction et la standardisation des préparations actives. Des essais cliniques contrôlés sont nécessaires pour valider les usages traditionnels et établir des posologies sécurisées. L'investigation des propriétés antioxydantes et anti-inflammatoires ouvre des perspectives thérapeutiques prometteuses, particulièrement dans le domaine des troubles neurodégénératifs.",
+    "nb_articles": "",
     "lien_pubmed": "",
     "lien_scholar": "",
     "lien_tramil": ""
@@ -47,11 +47,11 @@
   "references": "Chowdhury, S., et al. (2008). Antinociceptive, anti-inflammatory and antimicrobial activities of Mimosa pudica. Acta Pharmaceutica. PMID: 18330662. Genest, S., et al. (2008). Phytochemical analysis and biological activities of Mimosa pudica. Journal of Pharmacy and Pharmacology. PMID: 18693101. Manyam, B.V. (1999). Paralysis agitans and levodopa in \"Ayurveda\": ancient Indian medical treatise. Movement Disorders. PMID: 10190524. Rajendran, R., et al. (2009). Antimicrobial activity of Mimosa pudica root. Fitoterapia. PMID: 19168123. POWO (2024). Plants of the World Online. Facilitated by the Royal Botanic Gardens, Kew. World Flora Online (2024). WFO Plant List. TRAMIL (2024). Mimosa pudica. www.tramil.net/en/plant/mimosa-pudica",
   "aRetenir": "🟢 À retenir — Wont : est utilisee en medecine traditionnelle avec un bon profil de securite aux doses courantes. Les usages presentes reposent sur des donnees ethnobotaniques et scientifiques publiees, mais ne constituent pas une prescription. Consulter un professionnel de sante avant tout usage therapeutique. Les auteurs declinent toute responsabilite quant a un usage inapproprie.",
   "images": {
-    "principale": "images/387_Mimosa_pudica-001.jpg",
+    "principale": "/images/387_Mimosa_pudica-001.jpg",
     "galerie": [
-      "images/387_Mimosa_pudica-001.jpg",
-      "images/387_Mimosa_pudica-002.jpg"
+      "/images/387_Mimosa_pudica-001.jpg",
+      "/images/387_Mimosa_pudica-002.jpg"
     ]
   },
-  "source": "plantes_full.json"
+  "source": "CSV corrigé 2026-04-11"
 }

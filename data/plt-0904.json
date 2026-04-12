@@ -1,7 +1,7 @@
 {
   "id_plante": "plt-0904",
   "code": "plt-0904",
-  "no_espece": "",
+  "no_espece": "9.4",
   "no_famille": "9",
   "famille": "Apocynacées",
   "description_famille": "",
@@ -20,17 +20,17 @@
   },
   "usages": {
     "usages_ethnobotaniques": "Dans les Départements du Sud et de la Grand'Anse, N. oleander est exclusivement documenté comme plante ornementale sous le nom créole « Lorye » ou « Laurier rouge ». Les populations locales reconnaissent généralement sa dangerosité et évitent tout usage médicinal interne. Historiquement, certaines préparations externes à base de feuilles étaient occasionnellement utilisées contre les affections cutanées, mais ces pratiques ont largement disparu en raison des risques d'absorption transcutanée. Dans d'autres régions caribéennes documentées par TRAMIL, l'espèce est parfois mentionnée pour traiter la gale par voie externe, mais cet usage reste déconseillé en raison des risques de toxicité systémique. La plante sert principalement à la formation de haies ornementales et à l'embellissement des espaces verts, rôles pour lesquels elle excelle grâce à sa floraison prolongée et ses faibles exigences d'entretien.",
-    "systemes_concernes": "Digestif"
+    "systemes_concernes": "Aucun usage thérapeutique de N. oleander ne peut être recommandé en raison de sa toxicité létale. Les cardénolides, principalement l'oléandrine et la néritine, exercent leurs effets toxiques par inhibition spécifique et irréversible de la Na⁺/K⁺-ATPase membranaire des cardiomyocytes (Bandara et al., 2010 — DOI: 10.1016/j.fct.2010.04.010). Cette inhibition enzymatique provoque une accumulation intracellulaire de sodium et une déplétion potassique, entraînant des modifications dramatiques de l'excitabilité cardiaque : bradycardie sinusale, blocs auriculo-ventriculaires de divers degrés, arythmies ventriculaires et, dans les cas sévères, arrêt cardiaque par asystolie ou fibrillation ventriculaire. Les manifestations cliniques incluent également des signes digestifs précoces (nausées, vomissements, diarrhée), des troubles neurologiques (confusion, convulsions) et une hyperkaliémie caractéristique. Aucune indication médicinale ne justifie de prendre le risque d'une intoxication potentiellement mortelle avec cette espèce."
   },
   "pharmacologie": {
     "molecules": "Nerium oleander produit une gamme remarquable de métabolites primaires typiques des végétaux — glucides structuraux, fibres, protéines enzymatiques et lipides membranaires — mais ces composés perdent toute pertinence nutritionnelle face à la toxicité létale de la plante. Les traces de minéraux comme le potassium, le calcium et le magnésium présents dans les tissus deviennent négligeables comparées aux cardénolides qui dominent totalement le profil chimique de l'espèce. Les principaux composés secondaires identifiés dans N. oleander comprennent : des cardénolides cardiotoxiques (oléandrine, néritine, digitoxigénine, gitoxigénine), des saponines triterpéniques, des flavonoïdes (rutine, quercétine), des tanins condensés, des résines complexes et des alcaloïdes mineurs (Bandara et al., 2010 — DOI: 10.1016/j.fct.2010.04.010). L'oléandrine, cardénolide majeur représentant jusqu'à 0,3% du poids sec des feuilles, constitue le principe actif le plus dangereux de la plante. Ces molécules remplissent des fonctions de défense extrêmement efficaces pour la plante. Les cardénolides, concentrés dans le latex et les tissus, agissent comme des toxines puissantes dissuadant totalement l'herbivorie — même les insectes spécialisés évitent généralement cette espèce. Les saponines contribuent à l'amertume répulsive et à l'irritation des muqueuses. Une fois ingérés par l'humain, ces mêmes composés produisent des effets biologiques dramatiques : les cardénolides inhibent spécifiquement la pompe sodium-potassium (Na⁺/K⁺-ATPase) des cellules cardiaques, provoquant une intoxication digitalique sévère avec bradycardie, troubles du rythme et arrêt cardiaque potentiel.",
     "posologie": "Aucune posologie cliniquement validée ou populairement sûre n'existe pour N. oleander. Toute forme d'usage interne, même à doses supposées « minimes », peut s'avérer létale. L'ingestion de 2 à 3 feuilles fraîches suffit à provoquer une intoxication grave chez un adulte, et des cas de décès ont été rapportés avec des quantités encore plus faibles chez des enfants (Bandara et al., 2010). L'usage externe est également déconseillé en raison des risques d'absorption percutanée des cardénolides. Aucune préparation traditionnelle ne peut être considérée comme sécuritaire avec cette espèce."
   },
   "nutrition": {
-    "introduction": "Nerium oleander L. (syn. Nerium indicum, Nerium odorum) est un arbuste ornemental exotique, commun dans les Départements du Sud et de la Grand'Anse. Il appartient à la famille des Apocynacées, une vaste famille tropicale dominée par des arbres, arbustes et herbes reconnues pour leurs puissants alcaloïdes à visée thérapeutique. Cette famille se caractérise par la production de latex riche en composés bioactifs — notamment des glycosides cardiotoxiques comme l'oléandrine, la thévetine et la digitaline, ainsi que des alcaloïdes comme la vincristine et la vinblastine présents chez Catharanthus. Les Apocynacées ciblent préférentiellement les systèmes cardiaque, tégumentaire et cutané grâce à leurs métabolites complexes incluant des iridoïdes et des terpènes. Cependant, cette puissance thérapeutique s'accompagne d'un risque toxicologique majeur : plusieurs genres de cette famille — notamment Nerium, Thevetia et Adenium — renferment des principes actifs mortels même à faible dose, rendant leur usage interne extrêmement dangereux sans supervision médicale stricte. Au sein de cette famille, Nerium oleander demeure exclusivement une plante ornementale en Haïti, son usage médicinal étant totalement contre-indiqué en raison de sa toxicité létale."
+    "valeur": "La valeur économique locale de N. oleander se limite à son usage ornemental dans l'aménagement paysager et la formation de haies. Sur le plan international, l'espèce génère un marché horticole significatif, particulièrement dans les régions méditerranéennes et tropicales où sa résistance à la sécheresse et sa floraison spectaculaire en font une plante d'ornement prisée. Paradoxalement, ses cardénolides font également l'objet de recherches pharmaceutiques pour le développement d'analogues moins toxiques à visée cardiologique."
   },
   "toxicologie": {
-    "niveau": "danger",
+    "niveau": "🔴 Toxique",
     "details": "N. oleander présente une toxicité létale extrême, classée au niveau rouge maximal. L'ingestion de quelques feuilles peut provoquer la mort par arrêt cardiaque. Les symptômes d'intoxication apparaissent dans les premières heures : vomissements violents, diarrhée sanglante, bradycardie sévère, troubles de la conduction cardiaque, hyperkaliémie et arrêt cardiorespiratoire terminal. Le latex est irritant pour la peau et les muqueuses. L'espèce est strictement contre-indiquée en automédication, chez la femme enceinte, les enfants et les personnes cardiaques. Même l'inhalation de fumées lors de la combustion des déchets végétaux peut s'avérer toxique. En cas d'ingestion accidentelle, un transfert immédiat en service de réanimation cardiaque est indispensable."
   },
   "conservation": {
@@ -38,8 +38,8 @@
     "valeur": "La valeur économique locale de N. oleander se limite à son usage ornemental dans l'aménagement paysager et la formation de haies. Sur le plan international, l'espèce génère un marché horticole significatif, particulièrement dans les régions méditerranéennes et tropicales où sa résistance à la sécheresse et sa floraison spectaculaire en font une plante d'ornement prisée. Paradoxalement, ses cardénolides font également l'objet de recherches pharmaceutiques pour le développement d'analogues moins toxiques à visée cardiologique."
   },
   "recherche": {
-    "nb_articles": "~2000 (estimation)",
     "details": "Avec environ 2000 publications scientifiques référencées, N. oleander constitue l'une des espèces les mieux documentées de la famille des Apocynacées. Les recherches actuelles se concentrent sur la caractérisation fine de ses cardénolides, le développement d'antidotes spécifiques et l'exploration de dérivés synthétiques moins toxiques conservant une activité cardiotrope. Des études récentes explorent également son potentiel en tant que source de molécules anticancéreuses, tout en cherchant à réduire sa cardiotoxicité. Pour Haïti, les perspectives de recherche devraient plutôt porter sur l'éducation sanitaire et la prévention des intoxications accidentelles.",
+    "nb_articles": "",
     "lien_pubmed": "",
     "lien_scholar": "",
     "lien_tramil": "https://www.tramil.net/en/plant/nerium-oleander"
@@ -47,12 +47,12 @@
   "references": "Bandara V, Weinstein SA, White J, Eddleston M. (2010). A review of the natural history, toxinology, diagnosis and clinical management of Nerium oleander (common oleander) poisoning. Toxicon. DOI: 10.1016/j.fct.2010.04.010. POWO (2024). Plants of the World Online. Kew Science. https://powo.science.kew.org/ TRAMIL (2024). Nerium oleander. https://www.tramil.net/en/plant/nerium-oleander World Flora Online (2024). WFO Plant List. http://www.worldfloraonline.org/",
   "aRetenir": "🔴 À retenir — Lorye : est une plante hautement toxique. Toute manipulation sans protection est dangereuse. Toute ingestion peut etre mortelle. Ces informations sont destinees exclusivement a la documentation scientifique. Les auteurs declinent toute responsabilite quant a un usage inapproprie.",
   "images": {
-    "principale": "images/94_Nerium_oleander-001.jpg",
+    "principale": "/images/94_Nerium_oleander-001.jpg",
     "galerie": [
-      "images/94_Nerium_oleander-001.jpg",
-      "images/94_Nerium_oleander-002.jpg",
-      "images/94_Nerium_oleander-003.jpg"
+      "/images/94_Nerium_oleander-001.jpg",
+      "/images/94_Nerium_oleander-002.jpg",
+      "/images/94_Nerium_oleander-003.jpg"
     ]
   },
-  "source": "plantes_full.json"
+  "source": "CSV corrigé 2026-04-11"
 }

@@ -1,7 +1,7 @@
 {
   "id_plante": "plt-4202",
   "code": "plt-4202",
-  "no_espece": "",
+  "no_espece": "42.2",
   "no_famille": "42",
   "famille": "Lamiacées",
   "description_famille": "",
@@ -20,17 +20,17 @@
   },
   "usages": {
     "usages_ethnobotaniques": "L'usage documenté dans le Sud et la Grand'Anse concerne principalement les troubles digestifs et cardiaques. Les praticiens locaux préparent des infusions à partir des racines séchées et des feuilles fraîches, généralement en décoction légère pour extraire les principes actifs sans les dégrader. La préparation traditionnelle consiste à faire bouillir les racines pendant 10 à 15 minutes, puis à laisser infuser les feuilles dans cette décoction. Cette préparation est utilisée contre les gaz intestinaux et les troubles digestifs mineurs. L'usage comme plante ornementale est également documenté, la plante étant parfois introduite dans les jardins pour ses qualités esthétiques avant que ses propriétés médicinales ne soient découvertes localement. Au niveau international, C. barbatus occupe une place importante en médecine ayurvédique où elle est utilisée pour les troubles cardiovasculaires et comme aide à la perte de poids.",
-    "systemes_concernes": "Respiratoire, Cardiovasculaire"
+    "systemes_concernes": "Les systèmes principalement concernés sont le système cardiovasculaire et le système respiratoire. Au niveau cardiovasculaire, la forskoline agit comme vasodilatateur direct en activant l'adénylate cyclase, entraînant une relaxation du muscle lisse vasculaire et une réduction de la pression artérielle (Dubey et al., 1981 — PMID: 6267618). Cette activation augmente les niveaux d'AMPc, second messager crucial dans la régulation de nombreuses fonctions cellulaires. Au niveau respiratoire, le même mécanisme produit une bronchodilatation utile dans les troubles asthmatiques. Les mécanismes d'action documentés incluent également une stimulation de la lipolyse, expliquant l'usage traditionnel pour la perte de poids, bien que cet effet nécessite confirmation par des essais cliniques rigoureux sur l'humain."
   },
   "pharmacologie": {
     "molecules": "Sur le plan phytochimique, Coleus barbatus offre la production d'un diterpène remarquable : la forskoline, concentrée principalement dans ses racines tubéreuses. Cette molécule, de formule chimique C22H34O7, représente le principe actif majeur responsable des propriétés cardiovasculaires de la plante. La forskoline active directement l'enzyme adénylate cyclase, entraînant une augmentation des niveaux d'AMPc intracellulaire et produisant des effets vasodilatateurs, bronchodilatateurs et lipolytiques (Rupp et al., 1986 — PMID: 3017145). Les principaux composés secondaires identifiés dans C. barbatus comprennent : des diterpènes (forskoline, 1,9-didéoxyforskoline, 6-acétylforskoline), des flavonoïdes (chrysoeriol, cosmosine), l'acide rosmarinique, des huiles essentielles à base de monoterpènes (linalol, bornéol), et des composés phénoliques (Kavitha et al., 2010 — PMID: 19374016). Ces molécules remplissent des fonctions de défense spécifiques pour la plante. Les diterpènes comme la forskoline protègent les racines contre les pathogènes telluriques et les herbivores fouisseurs. L'acide rosmarinique agit comme antioxydant naturel, protégeant les tissus contre le stress oxydatif. Ces mêmes composés, une fois ingérés par l'humain, produisent les effets biologiques documentés : vasodilatation, bronchodilatation et stimulation du métabolisme lipidique, bien que les observations restent principalement issues d'études in vitro et sur modèles animaux.",
     "posologie": "Les études cliniques sur C. barbatus utilisent principalement des extraits standardisés contenant 10 à 20% de forskoline. Les dosages étudiés varient de 250 à 500 mg d'extrait par jour, répartis en deux prises (Henderson et al., 2005 — PMID: 16129715). Cependant, aucune posologie cliniquement validée n'est disponible pour les préparations traditionnelles utilisées en Haïti. Les pratiques locales documentées ne sont pas standardisées et la concentration en forskoline des préparations artisanales reste inconnue, limitant la reproductibilité des effets thérapeutiques."
   },
   "nutrition": {
-    "introduction": "Coleus barbatus (syn. Plectranthus barbatus) est une plante herbacée à sous-arbustive exotique, cultivée occasionnellement dans les jardins tropicaux des Départements du Sud et de la Grand'Anse. Cette espèce appartient à la famille des Lamiacées, une famille remarquable par sa richesse en huiles essentielles thérapeutiques et aromatiques. Au sein de cette famille, elle fait partie du genre Coleus, un groupe d'espèces tropicales et subtropicales reconnues pour leurs propriétés cardiovasculaires exceptionnelles, principalement dues à la présence de forskoline, un diterpène aux effets pharmacologiques puissants. Son usage principal documenté dans le Sud et la Grand'Anse concerne les troubles digestifs et cardiaques, à travers des préparations en infusion des racines et des feuilles."
+    "valeur": "La valeur économique de C. barbatus repose principalement sur son potentiel médicinal et ornemental. Au niveau international, les extraits standardisés en forskoline représentent un marché significatif dans l'industrie des compléments alimentaires, particulièrement pour les produits destinés à la perte de poids et à la santé cardiovasculaire. Localement, sa valeur reste limitée à l'usage domestique et ornemental, sans développement commercial structuré."
   },
   "toxicologie": {
-    "niveau": "",
+    "niveau": "🟢 Non toxique aux doses usuelles",
     "details": "C. barbatus présente un profil de sécurité favorable aux doses recommandées. Les effets indésirables rapportés sont rares et généralement bénins : légers maux de tête, hypotension chez les sujets sensibles. Une prudence particulière est recommandée chez les femmes enceintes en raison de l'absence d'études de sécurité spécifiques dans cette population. Les patients sous traitement hypotenseur doivent faire preuve de vigilance car la forskoline peut potentialiser les effets des médicaments antihypertenseurs. Un risque théorique de saignements existe en cas d'association avec des anticoagulants, nécessitant une surveillance médicale appropriée."
   },
   "conservation": {
@@ -38,8 +38,8 @@
     "valeur": "La valeur économique de C. barbatus repose principalement sur son potentiel médicinal et ornemental. Au niveau international, les extraits standardisés en forskoline représentent un marché significatif dans l'industrie des compléments alimentaires, particulièrement pour les produits destinés à la perte de poids et à la santé cardiovasculaire. Localement, sa valeur reste limitée à l'usage domestique et ornemental, sans développement commercial structuré."
   },
   "recherche": {
-    "nb_articles": "",
     "details": "Les recherches sur C. barbatus se concentrent principalement sur la forskoline et ses applications thérapeutiques. Des études récentes explorent son potentiel dans le traitement du glaucome, de l'asthme et comme agent lipolytique. Les perspectives incluent le développement de nouvelles formulations pharmaceutiques et l'optimisation des méthodes d'extraction. Pour Haïti, des recherches sur l'adaptation de la culture locale et la standardisation des préparations traditionnelles seraient pertinentes pour valoriser cette ressource thérapeutique.",
+    "nb_articles": "",
     "lien_pubmed": "",
     "lien_scholar": "",
     "lien_tramil": ""
@@ -47,13 +47,13 @@
   "references": "Rupp, H., Maisch, B., & Brilla, C.G. (1986). Drug and dosage effects of forskolin on cardiac function. Cardiovascular Research. PMID: 3017145. Kavitha, C., Rajamani, K., & Vadivel, E. (2010). Coleus forskohlii: A comprehensive review on morphology, phytochemistry and pharmacological aspects. Journal of Medicinal Plants Research. PMID: 19374016. Dubey, M.P., Srimal, R.C., & Nityanand, S. (1981). Pharmacological studies on coleonol, a hypotensive diterpene from Coleus forskohlii. Journal of Ethnopharmacology. PMID: 6267618. Henderson, S., Magu, B., Rasmussen, C., et al. (2005). Effects of coleus forskohlii supplementation on body composition and hematological profiles in mildly overweight women. Journal of Nutritional Biochemistry. PMID: 16129715.",
   "aRetenir": "🟡 À retenir — Coleus : est une plante a toxicite conditionnelle documentee. Respecter imperativement les precautions indiquees. Ne jamais ingerer les parties toxiques sans encadrement medical. Ces informations sont destinees a l'enseignement et a la documentation. Les auteurs declinent toute responsabilite quant a un usage inapproprie.",
   "images": {
-    "principale": "images/422_Coleus_barbatus-001.jpg",
+    "principale": "/images/422_Coleus_barbatus-001.jpg",
     "galerie": [
-      "images/422_Coleus_barbatus-001.jpg",
-      "images/422_Coleus_barbatus-002.jpg",
-      "images/422_Coleus_barbatus-003.jpg",
-      "images/422_Coleus_barbatus-004.jpg"
+      "/images/422_Coleus_barbatus-001.jpg",
+      "/images/422_Coleus_barbatus-002.jpg",
+      "/images/422_Coleus_barbatus-003.jpg",
+      "/images/422_Coleus_barbatus-004.jpg"
     ]
   },
-  "source": "plantes_full.json"
+  "source": "CSV corrigé 2026-04-11"
 }

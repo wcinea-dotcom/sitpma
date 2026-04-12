@@ -1,7 +1,7 @@
 {
   "id_plante": "plt-7701",
   "code": "plt-7701",
-  "no_espece": "",
+  "no_espece": "77.1",
   "no_famille": "77",
   "famille": "Rosacées",
   "description_famille": "Avec ses nombreux genres à vocation alimentaire mondiale, la famille des Rosacées rassemble principalement des arbustes et des arbres reconnus pour leurs riches usages culinaires, médicinaux et ornementaux. Cette famille tropicale et tempérée comprend des genres alimentaires majeurs comme Prunus (pêchers, pruniers, cerisiers), Malus (pommiers), Pyrus (poiriers) et Rosa (rosiers), largement cultivés en Haïti pour leurs fruits et leurs propriétés thérapeutiques. Les genres Eriobotrya (néfliers) et Fragaria (fraisiers) complètent cette diversité fruitière. Sur le plan phytochimique, les Rosacées se caractérisent par une signature dominée par les flavonoïdes, les tanins condensés, l'acide ursolique et les triterpènes, ciblant préférentiellement les systèmes digestif, respiratoire et ORL. Cette famille présente une particularité toxicologique importante : si les fruits mûrs sont généralement comestibles et nutritifs, les noyaux, graines et amandes contiennent de l'amygdaline — un glycoside cyanogène précurseur du cyanure d'hydrogène — exigeant une vigilance absolue lors de leur manipulation et interdisant formellement leur consommation en grande quantité.",
@@ -20,17 +20,17 @@
   },
   "usages": {
     "usages_ethnobotaniques": "Dans les Départements du Sud et de la Grand'Anse, le lokwat est documenté pour ses usages alimentaire et médicinal. Les fruits mûrs sont consommés frais ou transformés en jus, appréciés pour leur saveur rafraîchissante et leur richesse vitaminique. Les feuilles sont traditionnellement utilisées en tisane pour traiter la toux et les affections respiratoires. Le mode de préparation médicinal le plus répandu consiste à préparer un sirop à partir des feuilles bouillies, reconnu localement pour ses propriétés antitussives. Les praticiens traditionnels exploitent également les propriétés hypoglycémiantes supposées de la plante, bien que cet usage nécessite une surveillance médicale appropriée.",
-    "systemes_concernes": "Respiratoire"
+    "systemes_concernes": "E. japonica cible principalement le système respiratoire et le métabolisme glucidique. Les études pharmacologiques montrent que l'acide ursolique inhibe l'α-glucosidase intestinale, ralentissant l'absorption des glucides et contribuant à la régulation glycémique (Li et al., 2016 — PMID: 27378469). Le mécanisme hypoglycémiant implique également l'activation de la voie AMPK et l'amélioration de la sensibilité à l'insuline via l'augmentation de l'expression des transporteurs GLUT4. Les propriétés anti-inflammatoires des polyphénols agissent par inhibition des voies NF-κB et COX, expliquant les effets bénéfiques sur l'inflammation bronchique. L'effet antitussif résulte de l'action combinée des saponines et des tanins sur les muqueuses respiratoires, réduisant l'irritation et l'inflammation."
   },
   "pharmacologie": {
     "molecules": "Les fruits d'E. japonica doivent leur couleur jaune-orangée caractéristique aux caroténoïdes, principalement le β-carotène et la β-cryptoxanthine, qui leur confèrent également leur richesse en vitamine A. Leur saveur sucrée-acidulée résulte de la combinaison de sucres simples (fructose, glucose, saccharose) et d'acides organiques, notamment l'acide malique et l'acide citrique. Les pectines présentes dans la pulpe contribuent à la texture particulière du fruit et à ses propriétés gélifiantes. Les feuilles concentrent des minéraux essentiels comme le potassium (K), le calcium (Ca), le magnésium (Mg) et le fer (Fe), ainsi qu'une teneur notable en vitamine C. Les principaux composés secondaires identifiés dans E. japonica comprennent : des triterpènes (acide ursolique, acide oléanolique), des flavonoïdes (quercétine, kaempférol, rutine), des saponines triterpéniques, des tanins condensés, et dans les graines, de l'amygdaline — un glycoside cyanogène (Xu et al., 2012 — PMID: 22416543). L'acide ursolique, particulièrement concentré dans les feuilles, présente des propriétés anti-inflammatoires et hypoglycémiantes documentées (Liu et al., 2018 — PMID: 29656764). Ces molécules remplissent des fonctions de défense précises pour la plante. L'acide ursolique dans les feuilles protège contre les pathogènes fongiques et les herbivores. Les tanins confèrent une astringence défensive aux tissus jeunes. Les caroténoïdes des fruits protègent les graines contre l'oxydation photique tout en attirant les disperseurs par leur couleur vive. Ces mêmes composés, une fois ingérés par l'humain, produisent les effets biologiques documentés : l'acide ursolique active la voie AMPK impliquée dans la régulation glycémique, tandis que les flavonoïdes exercent leurs effets antioxydants et anti-inflammatoires. Cependant, les observations pharmacologiques restent principalement issues d'études in vitro et sur modèles animaux.",
     "posologie": "Les essais cliniques publiés utilisent des extraits standardisés de feuilles contenant 10 mg d'acide corosolique par jour, administrés sur 8 à 12 semaines, montrant une réduction de l'HbA1c de 0,5 à 0,7% et une amélioration du profil lipidique (Murakami et al., 2019 — PMID: 31234567). Pour l'usage traditionnel en tisane, les praticiens recommandent environ 5 grammes de feuilles séchées par litre d'eau, consommées 2 à 3 fois par jour, bien que cette posologie ne soit pas cliniquement validée."
   },
   "nutrition": {
-    "introduction": "Eriobotrya japonica (syn. Mespilus japonica) est un arbre fruitier exotique d'altitude moyenne, rare dans les Départements du Sud et de la Grand'Anse où il a été introduit. Il appartient à la famille des Rosacées et au genre Eriobotrya, qui regroupe une trentaine d'espèces d'arbres fruitiers originaires d'Asie orientale. Le lokwat constitue une ressource alimentaire appréciée pour ses fruits sucrés-acidulés et une plante médicinale traditionnelle, particulièrement valorisée pour ses propriétés antitussives et hypoglycémiantes. Bien qu'encore rare en Haïti, cette espèce pantropicale s'adapte bien aux conditions climatiques locales et présente un potentiel de développement intéressant."
+    "valeur": "E. japonica présente un potentiel économique intéressant pour l'agriculture haïtienne, tant pour le marché des fruits frais que pour le développement de produits transformés (jus, confitures). L'exploitation des propriétés médicinales des feuilles pourrait également ouvrir des perspectives dans la phytothérapie locale, sous réserve de standardisation des extraits."
   },
   "toxicologie": {
-    "niveau": "",
+    "niveau": "🟡 Précautions requises",
     "details": "Les fruits mûrs d'E. japonica sont généralement sûrs à la consommation. Cependant, les graines contiennent de l'amygdaline et ne doivent jamais être consommées en grande quantité en raison du risque de libération de cyanure d'hydrogène. Les extraits de feuilles peuvent potentialiser l'effet des antidiabétiques, nécessitant une surveillance glycémique chez les patients traités. Des cas de diarrhée et d'irritation digestive ont été rapportés à fortes doses. La prudence est recommandée chez les femmes enceintes et les patients présentant une insuffisance hépatique ou rénale, en l'absence de données de sécurité spécifiques."
   },
   "conservation": {
@@ -38,8 +38,8 @@
     "valeur": "E. japonica présente un potentiel économique intéressant pour l'agriculture haïtienne, tant pour le marché des fruits frais que pour le développement de produits transformés (jus, confitures). L'exploitation des propriétés médicinales des feuilles pourrait également ouvrir des perspectives dans la phytothérapie locale, sous réserve de standardisation des extraits."
   },
   "recherche": {
-    "nb_articles": "",
     "details": "Les recherches actuelles se concentrent sur l'optimisation de l'extraction des principes actifs et sur les essais cliniques confirmant les propriétés hypoglycémiantes. L'identification de nouvelles molécules bioactives et l'évaluation de la sécurité à long terme constituent des axes prioritaires. Le développement de cultivars adaptés aux conditions tropicales pourrait favoriser l'extension de la culture en Haïti.",
+    "nb_articles": "",
     "lien_pubmed": "",
     "lien_scholar": "",
     "lien_tramil": ""
@@ -47,10 +47,10 @@
   "references": "Xu, H.N. et al. (2012). Chemical constituents from the leaves of Eriobotrya japonica and their antimicrobial activities. Phytochemistry. PMID: 22416543. Liu, Y. et al. (2018). Ursolic acid inhibits α-glucosidase and ameliorates glucose tolerance. Journal of Nutritional Biochemistry. PMID: 29656764. Li, W.L. et al. (2016). Anti-diabetic effect of Eriobotrya japonica leaf extract via inhibition of α-glucosidase. Food Chemistry. PMID: 27378469. Murakami, T. et al. (2019). Clinical evaluation of Eriobotrya japonica extract in type 2 diabetes. Phytotherapy Research. PMID: 31234567. POWO (2024). Plants of the World Online. Kew Royal Botanic Gardens. http://www.plantsoftheworldonline.org",
   "aRetenir": "🟡 À retenir — Lokwat : est une plante a toxicite conditionnelle documentee. Respecter imperativement les precautions indiquees. Ne jamais ingerer les parties toxiques sans encadrement medical. Ces informations sont destinees a l'enseignement et a la documentation. Les auteurs declinent toute responsabilite quant a un usage inapproprie.",
   "images": {
-    "principale": "images/761_Eriobotrya_japonica-001.jpg",
+    "principale": "/images/761_Eriobotrya_japonica-001.jpg",
     "galerie": [
-      "images/761_Eriobotrya_japonica-001.jpg"
+      "/images/761_Eriobotrya_japonica-001.jpg"
     ]
   },
-  "source": "plantes_full.json"
+  "source": "CSV corrigé 2026-04-11"
 }

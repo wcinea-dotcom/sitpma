@@ -1,7 +1,7 @@
 {
   "id_plante": "plt-0404",
   "code": "plt-0404",
-  "no_espece": "",
+  "no_espece": "4.4",
   "no_famille": "4",
   "famille": "Amaranthacées",
   "description_famille": "",
@@ -20,38 +20,38 @@
   },
   "usages": {
     "usages_ethnobotaniques": "Dans le Sud et la Grand'Anse d'Haïti, D. ambrosioides est exclusivement utilisée comme plante médicinale sous le nom créole « Simenkontra ». Les parties utilisées sont principalement les feuilles et les tiges, préparées sous forme de jus frais ou d'infusions faibles. L'usage principal documenté est anthelminthique (vermifuge), particulièrement contre les parasites intestinaux. La plante est également employée traditionnellement contre les troubles digestifs, la fièvre et parfois les infections urinaires. Un usage émergent mais non validé mentionne son emploi en thé amer contre le cancer. Les préparations traditionnelles privilégient des dosages prudents : infusions courtes et faiblement concentrées, reflétant une connaissance empirique de la toxicité potentielle. Selon TRAMIL, l'usage comme vermifuge est documenté en Haïti, mais l'organisation déconseille l'usage interne non encadré en raison des risques toxicologiques.",
-    "systemes_concernes": "Digestif, Respiratoire, Nerveux"
+    "systemes_concernes": "D. ambrosioides cible principalement le système digestif et, par extension, le système nerveux en cas de surdosage. Son activité anthelminthique, scientifiquement validée, s'explique par l'action de l'ascaridol sur les membranes cellulaires des parasites intestinaux, notamment les ascaris et les oxyures. Ce monoterpène peroxydé agit comme un agent alkylant, perturbant l'intégrité membranaire et les processus métaboliques des helminthes. Des études in vitro ont confirmé l'activité antiparasitaire de l'huile essentielle contre divers nématodes. Cependant, ce même mécanisme d'action explique la toxicité neurologique de la plante : l'ascaridol peut traverser la barrière hémato-encéphalique et perturber la transmission nerveuse, provoquant convulsions, vomissements et, dans les cas graves, paralysie respiratoire. Les saponines présentes exercent également une activité hémolytique et peuvent potentialiser les effets toxiques. Cette dualité efficacité/toxicité explique pourquoi les recommandations traditionnelles privilégient des dosages très prudents."
   },
   "pharmacologie": {
     "molecules": "L'odeur âcre et caractéristique de Simenkontra cache un secret pharmacologique redoutable : son huile essentielle contient l'ascaridol, un monoterpène si toxique pour les parasites qu'il a longtemps servi de vermifuge chimique pur, mais qui exige un respect absolu dans son usage thérapeutique. Ce qui rend cette espèce particulièrement remarquable — et dangereuse — c'est la nature de ses molécules de défense : des terpénoïdes volatils concentrés dans des glandes superficielles, dont le principal est l'ascaridol, un monoterpène cyclique hautement toxique. Ces composés constituent un système de défense chimique redoutablement efficace contre les herbivores et les pathogènes, mais également toxique pour les mammifères, y compris l'homme. Les principaux métabolites secondaires identifiés dans D. ambrosioides comprennent : l'ascaridol (monoterpène principal, 60-80% de l'huile essentielle), le limonène, le p-cymène, des saponines triterpéniques, des flavonoïdes (quercétine, kaempférol), des alcaloïdes mineurs et des caroténoïdes. Ces molécules agissent en synergie pour créer une protection multicible : l'ascaridol perturbe les membranes cellulaires des parasites et des microorganismes, les saponines exercent une activité hémolytique et antimicrobienne, tandis que les flavonoïdes apportent une protection antioxydante et anti-inflammatoire.",
     "posologie": "Aucune posologie sûre standardisée n'existe pour D. ambrosioides en usage interne. Les recommandations traditionnelles mentionnent des infusions très faibles (quelques grammes de matériel végétal frais pour 250 ml d'eau, infusion brève de 2-3 minutes) utilisées ponctuellement. TRAMIL déconseille formellement l'usage interne non encadré, particulièrement l'utilisation de l'huile essentielle pure qui est extrêmement toxique. Les organismes de santé publique recommandent de privilégier des vermifuges pharmaceutiques standardisés plutôt que cette plante, en raison de l'impossibilité de contrôler la teneur en principes actifs toxiques dans les préparations artisanales."
   },
   "nutrition": {
-    "introduction": "Dysphania ambrosioides (L.) Mosyakin & Clemants (syn. Chenopodium ambrosioides L.) est une herbe native des Amériques, documentée dans le Sud et la Grand'Anse comme plante médicinale d'usage délicat. Elle appartient à la famille des Amaranthacées, composée majoritairement d'herbes largement représentées dans la flore du grand Sud d'Haïti. Cette famille se distingue par de riches usages alimentaires et médicinaux, avec des genres nutritionnels majeurs comme Amaranthus (zépina, épinard tropical) et Beta (betterave), des genres médicinaux comme Alternanthera et Gomphrena, et des espèces aromatiques comme Dysphania. Sur le plan phytochimique, les Amaranthacées expriment une signature dominée par les bétalaïnes (pigments rouges et jaunes), les saponines triterpéniques, les oxalates de calcium et des teneurs élevées en potassium, ciblant préférentiellement les systèmes urinaire, cutané et sanguin. Il convient cependant de noter qu'un genre de cette famille — Dysphania — renferme des composés terpéniques puissants comme l'ascaridol, exigeant une vigilance particulière quant aux dosages et aux contre-indications, notamment chez la femme enceinte et l'enfant."
+    "valeur": "Localement, D. ambrosioides présente une valeur médicinale traditionnelle comme vermifuge, bien que son usage soit limité par les considérations de sécurité. Internationalement, elle fait l'objet de recherches pour la production d'insecticides naturels à base d'ascaridol, ainsi que pour des applications antifongiques documentées au Brésil. Au Mexique, elle est cultivée comme condiment aromatique (épazote) pour parfumer les plats de haricots. L'extraction d'huile essentielle pour l'industrie phytosanitaire représente un marché de niche, mais la toxicité du produit limite son développement commercial grand public."
   },
   "toxicologie": {
-    "niveau": "",
+    "niveau": "🔴 Toxique",
     "details": "D. ambrosioides présente une toxicité significative liée principalement à l'ascaridol. Elle est formellement contre-indiquée chez la femme enceinte (risque d'avortement et de malformations), chez l'enfant (sensibilité neurologique accrue) et chez les personnes souffrant de troubles neurologiques ou hépatiques. Les symptômes de surdosage incluent vomissements, diarrhées, céphalées, vertiges, convulsions et, dans les cas graves, coma. L'huile essentielle pure est particulièrement dangereuse : quelques gouttes peuvent provoquer une intoxication sévère. L'automédication interne est fortement déconseillée. Toute utilisation thérapeutique devrait faire l'objet d'un encadrement médical strict avec surveillance clinique."
   },
   "conservation": {
-    "menaces": "Bien que classée comme espèce nécessitant une conservation, D. ambrosioides ne semble pas globalement menacée. Sa rareté documentée dans le Sud et la Grand'Anse pourrait résulter de conditions écologiques particulières, de pressions anthropiques ou de variations saisonnières. La conservation de cette espèce soulève des questions éthiques complexes : faut-il préserver une plante potentiellement dangereuse pour ses usages traditionnels ? La réponse réside probablement dans la préservation du patrimoine ethnobotanique tout en développant l'éducation sur les risques associés.",
+    "menaces": "Bien que classée comme espèce nécessitant une conservation, D. ambrosioides ne semble pas globalement menacée. Sa rareté documentée dans le Sud et la Grand'Anse pourrait résulter de conditions écologiques particulières, de pressions anthropiques ou de variations saisonnières. La conservation de cette espèce soulève des questions éthiques complexes : faut-il préserver une plante potentiellement dangereuse pour ses usages traditionnels ? La réponse réside probablement dans la préservation du patrimoine ethnobotanique tout en développant l'éducation sur les risques associés. Conservation des variétés — aromatique médicinale cultivée en Haïti (Chenmen).",
     "valeur": "Localement, D. ambrosioides présente une valeur médicinale traditionnelle comme vermifuge, bien que son usage soit limité par les considérations de sécurité. Internationalement, elle fait l'objet de recherches pour la production d'insecticides naturels à base d'ascaridol, ainsi que pour des applications antifongiques documentées au Brésil. Au Mexique, elle est cultivée comme condiment aromatique (épazote) pour parfumer les plats de haricots. L'extraction d'huile essentielle pour l'industrie phytosanitaire représente un marché de niche, mais la toxicité du produit limite son développement commercial grand public."
   },
   "recherche": {
-    "nb_articles": "~1000 (estimation)",
     "details": "Avec environ 1000 publications référencées sur PubMed, D. ambrosioides fait l'objet d'un intérêt scientifique soutenu, principalement orienté vers ses propriétés antiparasitaires, antifongiques et insecticides. Les recherches actuelles se concentrent sur l'isolement et la caractérisation de nouveaux composés bioactifs, l'évaluation de l'activité antimicrobienne contre des souches résistantes, et le développement de formulations standardisées à usage vétérinaire. Les perspectives d'avenir incluent la recherche de dérivés synthétiques de l'ascaridol présentant une meilleure sélectivité antiparasitaire avec une toxicité réduite pour les mammifères. L'étude des mécanismes moléculaires de la toxicité neurologique pourrait également contribuer au développement d'antidotes spécifiques.",
-    "lien_pubmed": "https://pubmed.ncbi.nlm.nih.gov/?term=Dysphania+ambrosioides",
+    "nb_articles": "",
+    "lien_pubmed": "https://pubmed.ncbi.nlm.nih.gov/?term=Dysphania+ambrosioides).",
     "lien_scholar": "",
     "lien_tramil": ""
   },
   "references": "Les données phytochimiques et toxicologiques proviennent principalement de : TRAMIL (www.tramil.net) pour les usages caribéens et les précautions d'emploi , SAS Publishers pour les données sur l'ascaridol et les mécanismes d'action toxique , diverses publications sur PubMed concernant les propriétés antiparasitaires et antifongiques (https://pubmed.ncbi.nlm.nih.gov/?term=Dysphania+ambrosioides). Les informations botaniques sont issues de POWO (Kew Science) et World Flora Online (2026).",
   "aRetenir": "🟡 À retenir — Simenkontra : est une plante a toxicite conditionnelle documentee. Respecter imperativement les precautions indiquees. Ne jamais ingerer les parties toxiques sans encadrement medical. Ces informations sont destinees a l'enseignement et a la documentation. Les auteurs declinent toute responsabilite quant a un usage inapproprie.",
   "images": {
-    "principale": "images/44_Dysphania_ambrosioides-001.jpg",
+    "principale": "/images/44_Dysphania_ambrosioides-001.jpg",
     "galerie": [
-      "images/44_Dysphania_ambrosioides-001.jpg",
-      "images/44_Dysphania_ambrosioides-002.jpg"
+      "/images/44_Dysphania_ambrosioides-001.jpg",
+      "/images/44_Dysphania_ambrosioides-002.jpg"
     ]
   },
-  "source": "plantes_full.json"
+  "source": "CSV corrigé 2026-04-11"
 }

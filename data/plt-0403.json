@@ -1,7 +1,7 @@
 {
   "id_plante": "plt-0403",
   "code": "plt-0403",
-  "no_espece": "",
+  "no_espece": "4.3",
   "no_famille": "4",
   "famille": "Amaranthacées",
   "description_famille": "",
@@ -20,17 +20,17 @@
   },
   "usages": {
     "usages_ethnobotaniques": "Dans les Départements du Sud et de la Grand'Anse, la betterave présente un double usage alimentaire et médicinal documenté. Les racines constituent un légume apprécié pour sa saveur douce terreux, consommées cuites ou transformées en jus frais. Les feuilles, riches en vitamines et minéraux, sont également consommées comme légume-feuille. L'usage médicinal traditionnel se concentre sur la préparation de jus de racine fraîche, bu pour \"donner de la force\" (Fòs), soutenir la tension artérielle et lutter contre l'anémie et la fatigue. Les modes de préparation documentés incluent le jus frais extrait des racines râpées et la cuisson traditionnelle des racines et feuilles. Cette utilisation s'inscrit dans un usage caribéen plus large, principalement alimentaire selon TRAMIL, et trouve des échos dans les traditions européennes où la betterave sert à préparer le bortsch et constitue une source industrielle de sucre.",
-    "systemes_concernes": "Cardiovasculaire"
+    "systemes_concernes": "Les usages traditionnels haïtiens ciblent principalement le système cardiovasculaire, avec des applications documentées pour le soutien de la tension artérielle, l'amélioration de l'endurance et la lutte contre l'anémie et la fatigue. Ces applications trouvent un fondement scientifique solide dans la recherche moderne. Le mécanisme d'action principal repose sur la conversion des nitrates alimentaires en oxyde nitrique (NO) par la voie enzymatique nitrate-nitrite-NO. Cette conversion, médiée par les bactéries de la cavité buccale puis par la nitrite réductase tissulaire, induit une vasodilatation et une amélioration de l'efficacité mitochondriale (Lundberg et al., 2018 — PMID: 29764890). Les bétalaïnes complètent cette action par leurs propriétés antioxydantes, réduisant le stress oxydatif cardiovasculaire. Des études cliniques ont démontré que la supplémentation en jus de betterave pourrait réduire modérément la pression artérielle systolique et améliorer les performances à l'exercice (Siervo et al., 2013 — PMID: 23231777). L'effet sur l'anémie s'explique par la richesse en folates et en fer biodisponible."
   },
   "pharmacologie": {
     "molecules": "La betterave doit sa réputation thérapeutique cardiovasculaire à des molécules inorganiques plutôt qu'organiques : d'étonnants nitrates que ses racines concentrent naturellement et qui se transforment dans le corps humain en oxyde nitrique, un vasodilatateur puissant. Ce qui rend la betterave particulièrement remarquable, c'est sa richesse en bétalaïnes, des pigments azotés uniques qui remplacent les anthocyanes chez la plupart des Amaranthacées. Ces molécules — principalement la bétanine et l'isobétanine — confèrent la couleur rouge caractéristique et possèdent de puissantes propriétés antioxydantes (Kanner et al., 2001 — PMID: 11312804). Les principaux composés secondaires identifiés dans B. vulgaris comprennent : des bétalaïnes (bétacyanines et bétaxanthines), des flavonoïdes (quercétine, kaempférol), des saponines triterpéniques, des composés phénoliques, et remarquablement, des nitrates inorganiques en concentration élevée (Clifford et al., 2015 — PMID: 25875121). Ces nitrates constituent le fondement scientifique des usages cardiovasculaires traditionnels : ils sont convertis en oxyde nitrique (NO) par la voie nitrate-nitrite-NO, induisant une vasodilatation et une amélioration de l'efficacité mitochondriale (Jones et al., 2018 — PMID: 29455710). Sur le plan nutritionnel, la racine accumule du saccharose (12-20% du poids frais), des folates (vitamine B9), du potassium, du fer et du magnésium. Les feuilles concentrent les vitamines A, C et K, ainsi que des minéraux essentiels.",
     "posologie": "Les études cliniques sur Beta vulgaris utilisent généralement des doses de 70 à 250 mL de jus frais par jour, avec une fréquence de 100 à 200 mL/jour dans la majorité des essais contrôlés (Domínguez et al., 2017 — PMID: 28441629). Ces dosages correspondent approximativement à 300-600 mg de nitrates alimentaires. L'usage traditionnel haïtien, sous forme de jus frais préparé quotidiennement, semble cohérent avec ces recommandations scientifiques. Il est recommandé de consommer le jus à distance des repas pour optimiser l'absorption des nitrates."
   },
   "nutrition": {
-    "introduction": "Beta vulgaris L. (syn. Beta maritima, Beta cicla) est une herbe exotique cultivée en haute altitude dans les Départements du Sud et de la Grand'Anse, où elle est documentée comme plante à la fois alimentaire et médicinale. Elle appartient à la famille des Amaranthacées, une grande famille principalement composée d'herbes, incontournable dans la flore du grand Sud d'Haïti. Cette famille se distingue par de riches usages alimentaires et médicinaux, incluant des genres comme Amaranthus (zepina), Chenopodium (ke rat) et Dysphania (simenkontra). Sur le plan phytochimique, les Amaranthacées expriment une signature dominée par les bétalaïnes, les saponines (acide oléanolique), l'achyranthine et le potassium, ciblant préférentiellement les systèmes urinaire, cutané et sanguin. Il convient de noter une vigilance particulière car certaines espèces de cette famille — notamment Dysphania ambrosioides — renferment des principes actifs très puissants ou potentiellement toxiques, exigeant une préparation adéquate ou un dosage strict. Au sein de cette famille, Beta vulgaris constitue l'une des espèces à double usage les plus remarquables, reconnue mondialement pour ses propriétés nutritionnelles et cardiovasculaires."
+    "valeur": "Localement, la betterave constitue un légume-racine de niche, principalement cultivé dans les jardins familiaux de montagne. Sa valeur économique directe demeure limitée par la faible production. Internationalement, Beta vulgaris représente une culture majeure de l'agro-industrie, source principale de sucre en régions tempérées et base de nombreux produits alimentaires transformés. Cette double valeur — locale nutritionnelle et internationale industrielle — illustre le potentiel économique sous-exploité de l'espèce en Haïti."
   },
   "toxicologie": {
-    "niveau": "",
+    "niveau": "🟢 Non toxique aux doses usuelles",
     "details": "Beta vulgaris présente un profil de sécurité excellent et est classée comme non toxique. Cependant, certaines précautions sont recommandées. Les personnes hypotendues ou sous médication nitrée doivent faire preuve de prudence en raison de l'effet hypotenseur potentiel des nitrates. Les feuilles, riches en oxalates, pourraient théoriquement favoriser la formation de calculs rénaux chez les sujets prédisposés. La consommation importante de betterave peut temporairement colorer les urines en rose (bétanurie), phénomène bénin mais parfois inquiétant. Aucune toxicité majeure n'est documentée aux doses alimentaires normales."
   },
   "conservation": {
@@ -38,8 +38,8 @@
     "valeur": "Localement, la betterave constitue un légume-racine de niche, principalement cultivé dans les jardins familiaux de montagne. Sa valeur économique directe demeure limitée par la faible production. Internationalement, Beta vulgaris représente une culture majeure de l'agro-industrie, source principale de sucre en régions tempérées et base de nombreux produits alimentaires transformés. Cette double valeur — locale nutritionnelle et internationale industrielle — illustre le potentiel économique sous-exploité de l'espèce en Haïti."
   },
   "recherche": {
-    "nb_articles": "~5000 (estimation)",
     "details": "Avec environ 5000 publications scientifiques référencées, Beta vulgaris figure parmi les plantes les mieux étudiées scientifiquement. Les recherches actuelles se concentrent sur l'optimisation des teneurs en nitrates et bétalaïnes, les applications en médecine sportive et cardiovasculaire, et le développement de variétés adaptées aux conditions tropicales. En Haïti, des études sur les variétés locales, leur composition phytochimique spécifique et leur potentiel agronomique contribueraient significativement à la valorisation de cette ressource. L'investigation des pratiques traditionnelles haïtiennes pourrait également révéler des modalités d'usage optimisées.",
+    "nb_articles": "",
     "lien_pubmed": "",
     "lien_scholar": "",
     "lien_tramil": "https://www.tramil.net/en/plant/beta-vulgaris"
@@ -47,12 +47,12 @@
   "references": "Clifford T. et al. (2015). The potential benefits of red beetroot supplementation in health and disease. Nutrients. PMID: 25875121. Domínguez R. et al. (2017). Effects of beetroot juice supplementation on cardiorespiratory endurance in athletes. Nutrients. PMID: 28441629. Jones A.M. et al. (2018). Influence of dietary nitrate supplementation on exercise tolerance and performance. Applied Physiology, Nutrition, and Metabolism. PMID: 29455710. Kanner J. et al. (2001). Betalains — a new class of dietary cationized antioxidants. Journal of Agricultural and Food Chemistry. PMID: 11312804. Lundberg J.O. et al. (2018). Nitrate and nitrite in biology, nutrition and therapeutics. Nature Chemical Biology. PMID: 29764890. Siervo M. et al. (2013). Inorganic nitrate and beetroot juice supplementation reduces blood pressure in adults. Journal of Nutrition. PMID: 23231777. POWO (2026). Plants of the World Online. Kew Science. http://www.plantsoftheworldonline.org/ TRAMIL (2026). Beta vulgaris. https://www.tramil.net/en/plant/beta-vulgaris",
   "aRetenir": "🟢 À retenir — Bètrav : est avant tout un aliment — sa valeur nutritionnelle prime sur ses usages medicinaux. Consommee correctement preparee, elle est sans danger documente. Ses proprietes therapeutiques, reelles mais secondaires, ne remplacent pas un suivi medical. Les auteurs declinent toute responsabilite quant a un usage inapproprie.",
   "images": {
-    "principale": "images/43_Beta_vulgaris-001.jpg",
+    "principale": "/images/43_Beta_vulgaris-001.jpg",
     "galerie": [
-      "images/43_Beta_vulgaris-001.jpg",
-      "images/43_Beta_vulgaris-002.jpg",
-      "images/43_Beta_vulgaris-003.jpg"
+      "/images/43_Beta_vulgaris-001.jpg",
+      "/images/43_Beta_vulgaris-002.jpg",
+      "/images/43_Beta_vulgaris-003.jpg"
     ]
   },
-  "source": "plantes_full.json"
+  "source": "CSV corrigé 2026-04-11"
 }

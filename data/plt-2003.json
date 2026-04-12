@@ -1,7 +1,7 @@
 {
   "id_plante": "plt-2003",
   "code": "plt-2003",
-  "no_espece": "",
+  "no_espece": "20.3",
   "no_famille": "20",
   "famille": "Boraginacées",
   "description_famille": "",
@@ -20,17 +20,17 @@
   },
   "usages": {
     "usages_ethnobotaniques": "T. hirsutissima occupe une place importante dans la pharmacopée traditionnelle haïtienne des Départements du Sud et de la Grand'Anse. Les feuilles fraîches sont traditionnellement appliquées directement sur la peau pour faciliter l'extraction des chiques (puces pénétrantes), exploitant les propriétés émollientes et anti-parasitaires de la plante. Pour les affections rénales, les feuilles et tiges sont préparées en infusion, généralement par décoction légère dans l'eau bouillante pendant 10 à 15 minutes. Cette préparation est consommée comme tisane diurétique, souvent associée à d'autres plantes médicinales locales dans des mélanges synergiques. Selon les données TRAMIL, l'usage diurétique de T. hirsutissima est également documenté dans d'autres îles des Caraïbes, confirmant la cohérence régionale de cette application thérapeutique. Au Mexique, des usages similaires pour les affections rénales ont été rapportés, suggérant une tradition pan-américaine d'utilisation de cette espèce.",
-    "systemes_concernes": "Urinaire"
+    "systemes_concernes": "T. hirsutissima cible principalement le système urinaire et le système cutané selon les usages documentés dans les Départements du Sud et de la Grand'Anse. Pour le système urinaire, la plante est employée comme diurétique traditionnel dans les affections rénales bénignes, probablement grâce à ses flavonoïdes et saponines qui pourraient moduler la filtration glomérulaire et la réabsorption tubulaire. Les mécanismes d'action précis restent hypothétiques : une possible inhibition de médiateurs inflammatoires au niveau rénal et des effets diurétiques liés aux saponines, mais aucune démonstration pharmacologique spécifique n'a été publiée pour cette espèce (Vásquez et al., 2014). Pour le système cutané, les propriétés anti-parasitaires et cicatrisantes seraient attribuables aux tanins astringents et aux mucilages émollients, créant un environnement défavorable aux parasites tout en favorisant la régénération tissulaire. L'activité anti-inflammatoire traditionnellement reconnue pourrait impliquer une modulation des médiateurs pro-inflammatoires, mais cette hypothèse nécessite des validations expérimentales rigoureuses."
   },
   "pharmacologie": {
     "molecules": "La saveur amère caractéristique de T. hirsutissima provient principalement de ses triterpènes et saponines, des composés défensifs qui protègent la plante contre l'herbivorie. Cette amertume témoigne également de la présence de flavonoïdes complexes, responsables des propriétés anti-inflammatoires traditionnellement reconnues. Les tiges et feuilles concentrent des mucilages protecteurs qui confèrent à la plante ses propriétés émollientes et cicatrisantes, particulièrement utiles pour l'extraction de parasites cutanés comme les chiques. Sur le plan nutritionnel, cette liane médicinale renferme principalement des glucides structuraux sous forme de cellulose et d'hémicellulose, avec des traces de protéines et lipides. Les principaux composés secondaires identifiés dans T. hirsutissima comprennent : des flavonoïdes (quercétine, rutine, kaempférol), des saponines triterpéniques, des tanins condensés, des terpénoïdes volatils, des coumarines et de l'acide oléanolique (Vásquez et al., 2014 — DOI: 10.3897/pharmacia.61.9876). Le sitostérol, un phytostérol commun, contribue également aux effets anti-inflammatoires observés. Ces composés remplissent des fonctions de défense précises pour la liane. Les saponines créent une barrière chimique contre les pathogènes fongiques et bactériens, particulièrement important dans l'environnement tropical humide. Les flavonoïdes protègent les tissus photosynthétiques contre les stress oxydatifs induits par le rayonnement solaire intense. Les terpénoïdes volatils repoussent les insectes herbivores, tandis que les tanins rendent les feuilles moins appétentes pour les mammifères brouteurs. Ces mêmes composés, une fois ingérés par l'humain sous forme d'infusion, produiraient les effets diurétiques et anti-inflammatoires documentés dans les pratiques traditionnelles, bien que les mécanismes précis restent à élucider par des études cliniques contrôlées.",
     "posologie": "Aucune posologie cliniquement validée n'est disponible pour T. hirsutissima dans la littérature scientifique. Les pratiques traditionnelles documentées dans les Départements du Sud et de la Grand'Anse utilisent des préparations qualitatives sous forme d'infusions, sans standardisation quantitative précise. Selon les données ethnobotaniques régionales, les infusions sont généralement préparées avec une poignée de feuilles fraîches ou séchées pour une tasse d'eau chaude, consommées 2 à 3 fois par jour. Cette absence de standardisation posologique constitue une limite importante pour l'usage thérapeutique moderne et souligne la nécessité d'études pharmacocinétiques appropriées pour établir des dosages sécuritaires et efficaces."
   },
   "nutrition": {
-    "introduction": "Tournefortia hirsutissima L. (syn. Tournefortia corymbosa) est une liane native commune des Départements du Sud et de la Grand'Anse d'Haïti. Elle appartient à la famille des Boraginacées, une famille végétale remarquable par sa diversité morphologique — comprenant herbes, arbustes et lianes — et ses importantes applications médicinales traditionnelles. Cette famille se distingue phytochimiquement par ses mucilages protecteurs, ses flavonoïdes anti-inflammatoires et ses triterpènes cicatrisants, ciblant préférentiellement les systèmes tégumentaire, urinaire et cutané. Cependant, une vigilance particulière s'impose avec certains genres comme Heliotropium, qui renferment des alcaloïdes pyrrolizidiniques hépatotoxiques exigeant une prudence absolue lors de l'usage interne prolongé. Au sein des Boraginacées, Tournefortia hirsutissima fait partie du genre Tournefortia, qui regroupe des lianes et arbustes tropicaux reconnus pour leurs propriétés diurétiques et anti-inflammatoires. Cette espèce constitue un remède traditionnel majeur dans les deux départements, particulièrement appréciée pour ses effets sur les reins et son action contre les parasites cutanés."
+    "valeur": "La valeur économique de T. hirsutissima reste principalement locale et traditionnelle dans les Départements du Sud et de la Grand'Anse. Elle ne fait l'objet d'aucune commercialisation internationale significative, contrairement à d'autres espèces médicinales tropicales. Son potentiel économique pourrait être développé dans le cadre d'une filière de plantes médicinales haïtiennes standardisées, à condition de valider scientifiquement ses propriétés thérapeutiques et d'établir des protocoles de culture durable. La facilité de propagation et la croissance rapide de cette liane constituent des atouts pour un éventuel développement économique futur."
   },
   "toxicologie": {
-    "niveau": "",
+    "niveau": "🔴 Toxique",
     "details": "T. hirsutissima présente un profil de sécurité globalement favorable selon les données disponibles, justifiant une classification de toxicité verte. Cependant, certaines précautions demeurent nécessaires. La prudence est recommandée pendant la grossesse en l'absence d'études de tératogénicité spécifiques. Des surdosages pourraient théoriquement entraîner une hypotension par effet diurétique excessif, des diarrhées liées aux saponines, ou des irritations digestives dues aux tanins concentrés. L'usage prolongé à forte dose devrait être évité en l'absence de marges de sécurité clairement établies. Bien que T. hirsutissima ne contienne apparemment pas d'alcaloïdes pyrrolizidiniques hépatotoxiques contrairement à certaines autres Boraginacées, la vigilance reste de mise lors d'usages internes prolongés."
   },
   "conservation": {
@@ -38,8 +38,8 @@
     "valeur": "La valeur économique de T. hirsutissima reste principalement locale et traditionnelle dans les Départements du Sud et de la Grand'Anse. Elle ne fait l'objet d'aucune commercialisation internationale significative, contrairement à d'autres espèces médicinales tropicales. Son potentiel économique pourrait être développé dans le cadre d'une filière de plantes médicinales haïtiennes standardisées, à condition de valider scientifiquement ses propriétés thérapeutiques et d'établir des protocoles de culture durable. La facilité de propagation et la croissance rapide de cette liane constituent des atouts pour un éventuel développement économique futur."
   },
   "recherche": {
-    "nb_articles": "~50 (estimation)",
     "details": "Les recherches sur T. hirsutissima demeurent limitées avec environ 50 publications scientifiques répertoriées, principalement axées sur la caractérisation phytochimique préliminaire. Les priorités de recherche incluent : la validation pharmacologique des effets diurétiques par des études in vivo contrôlées, l'évaluation de l'activité anti-parasitaire sur des modèles cellulaires appropriés, la standardisation des extraits actifs et l'établissement de protocoles posologiques sécuritaires. Des essais cliniques contrôlés seraient nécessaires pour confirmer l'efficacité thérapeutique traditionnellement reconnue et développer des phytomédicaments standardisés. L'investigation des mécanismes moléculaires d'action représente également un axe de recherche prometteur pour cette espèce traditionnellement importante.",
+    "nb_articles": "",
     "lien_pubmed": "",
     "lien_scholar": "",
     "lien_tramil": "https://www.tramil.net/en/plant/tournefortia-hirsutissima"
@@ -47,11 +47,11 @@
   "references": "Vásquez, J. et al. (2014). Phytochemical analysis and biological activities of Tournefortia hirsutissima extracts. Pharmacia 61: 45-52. DOI: 10.3897/pharmacia.61.9876. POWO (2024). Plants of the World Online. Facilitated by the Royal Botanic Gardens, Kew. http://www.plantsoftheworldonline.org/ World Flora Online (2024). WFO Plant List. http://www.worldfloraonline.org/ TRAMIL (2024). Traditional Medicine in the Islands - Tournefortia hirsutissima. https://www.tramil.net/en/plant/tournefortia-hirsutissima",
   "aRetenir": "🟢 À retenir — Chikchik : est utilisee en medecine traditionnelle avec un bon profil de securite aux doses courantes. Les usages presentes reposent sur des donnees ethnobotaniques et scientifiques publiees, mais ne constituent pas une prescription. Consulter un professionnel de sante avant tout usage therapeutique. Les auteurs declinent toute responsabilite quant a un usage inapproprie.",
   "images": {
-    "principale": "images/202_Tournefortia_hirsutissima-001.jpg",
+    "principale": "/images/202_Tournefortia_hirsutissima-001.jpg",
     "galerie": [
-      "images/202_Tournefortia_hirsutissima-001.jpg",
-      "images/202_Tournefortia_hirsutissima-002.jpg"
+      "/images/202_Tournefortia_hirsutissima-001.jpg",
+      "/images/202_Tournefortia_hirsutissima-002.jpg"
     ]
   },
-  "source": "plantes_full.json"
+  "source": "CSV corrigé 2026-04-11"
 }

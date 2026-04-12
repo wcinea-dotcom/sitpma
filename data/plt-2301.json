@@ -1,7 +1,7 @@
 {
   "id_plante": "plt-2301",
   "code": "plt-2301",
-  "no_espece": "",
+  "no_espece": "23.1",
   "no_famille": "23",
   "famille": "Burséracées",
   "description_famille": "Avec ses 17 genres et près de 700 espèces distribuées principalement dans les régions tropicales arides, les Burséracées constituent une famille d'arbres et arbustes remarquables par leur production abondante de résines aromatiques. Cette famille se distingue par des genres à fort potentiel économique comme Boswellia (encens), Commiphora (myrrhe) et Canarium (noix de canarium), ainsi que par des espèces alimentaires comme Dacryodes edulis (safoutier d'Afrique). Sur le plan médicinal, les genres Bursera et Protium sont particulièrement valorisés en Amérique tropicale pour leurs propriétés anti-inflammatoires et cicatrisantes. La signature phytochimique de cette famille est dominée par les résines terpéniques riches en alpha et bêta-pinène, les huiles essentielles à limonène, les triterpènes comme le picropolygamain, ainsi que les lignanes et coumarines. Ces composés ciblent préférentiellement les systèmes tégumentaire et immunitaire, conférant aux Burséracées leurs propriétés cicatrisantes et anti-inflammatoires reconnues. Il convient de noter que certaines espèces renferment des principes actifs puissants nécessitant une préparation adéquate.",
@@ -20,17 +20,17 @@
   },
   "usages": {
     "usages_ethnobotaniques": "L'usage médicinal de B. simaruba est bien documenté dans les Départements du Sud et de la Grand'Anse. L'écorce et les feuilles sont principalement préparées en décoction pour leurs propriétés anti-inflammatoires, cicatrisantes et antidiarrhéiques. L'application topique de décoctions d'écorce est particulièrement valorisée pour traiter plaies, coupures et inflammations cutanées. Certains praticiens utilisent également les préparations par voie orale pour leurs effets analgésiques et parfois hypotenseurs. Au-delà des usages médicinaux, l'arbre présente une utilisation utilitaire remarquable : ses branches sont plantées pour établir des clôtures vivantes durables, exploitant sa capacité de reprise végétative. Dans la région TRAMIL, l'espèce est documentée en République Dominicaine pour le traitement de la fièvre.",
-    "systemes_concernes": "Immunitaire, Tégumentaire"
+    "systemes_concernes": "Selon les données ethnobotaniques locales, B. simaruba cible principalement les systèmes tégumentaire et immunitaire. Les affections traitées incluent les troubles cutanés (plaies, inflammations, eczéma), les symptômes grippaux, et certains troubles rénaux. Les mécanismes d'action probables impliqueraient les triterpènes et tanins dans la modulation de l'inflammation et la perméabilité vasculaire, bien que les voies précises (COX, médiateurs ioniques rénaux) ne soient pas formellement démontrées. Les flavonoïdes contribueraient aux effets antioxydants, tandis que les tanins expliqueraient les propriétés astringentes et antidiarrhéiques observées. Ces mécanismes restent principalement hypothétiques en l'absence d'essais cliniques contrôlés."
   },
   "pharmacologie": {
     "molecules": "Ce qui caractérise Bursera simaruba, c'est sa capacité remarquable à produire des résines terpéniques défensives. Cette production résineuse, déclenchée par toute blessure mécanique, constitue le système de défense primaire de l'arbre contre les pathogènes et les herbivores. La résine fraîche dégage une odeur caractéristique de térébenthine due à la présence d'alpha et bêta-pinène, de limonène et d'autres monoterpènes volatils. Sur le plan nutritionnel, l'écorce et les feuilles présentent un profil négligeable, étant principalement constituées de glucides structuraux, de fibres et de faibles quantités de protéines et lipides. Les principaux composés secondaires identifiés dans B. simaruba comprennent : le picropolygamain (triterpène amer aux propriétés anti-inflammatoires), l'alpha-pinène et le limonène (monoterpènes volatils de la résine), des lignanes (composés phénoliques protecteurs), des flavonoïdes (antioxydants), des saponines triterpéniques, et des tanins astringents (Pharmacognosy Research, pharmacia.pensoft). Ces molécules remplissent des fonctions de protection essentielles pour l'arbre. Les résines terpéniques forment une barrière physique et chimique contre les pathogènes fongiques et bactériens, particulièrement importante dans les climats tropicaux humides. Les triterpènes comme le picropolygamain découragent l'herbivorie par leur amertume. Ces mêmes composés, une fois utilisés par l'humain sous forme de décoctions d'écorce ou de feuilles, produisent les effets anti-inflammatoires et cicatrisants documentés en ethnomédecine, principalement via des mécanismes impliquant la modulation de l'inflammation et la perméabilité vasculaire.",
     "posologie": "Aucune posologie cliniquement validée n'est disponible pour B. simaruba. Les préparations traditionnelles reposent sur des décoctions empiriques d'écorce ou de feuilles, dont les concentrations varient selon les praticiens locaux. L'absence de standardisation des extraits et de données pharmacocinétiques limite la reproductibilité des effets thérapeutiques. Les recherches ethnopharmacologiques mentionnent l'usage de décoctions sans spécifier de dosages précis (Pharmacognosy Research, pharmacia.pensoft)."
   },
   "nutrition": {
-    "introduction": "Bursera simaruba (L.) (syn. Pistacia simaruba, Elaphrium simaruba) est un arbre natif commun des Départements du Sud et de la Grand'Anse, appartenant à la famille des Burséracées. Connu localement sous le nom de « Gomye », cet arbre présente un intérêt multiple : médicinal par ses propriétés anti-inflammatoires et cicatrisantes, utilitaire pour l'établissement de clôtures vivantes, et écologique par son adaptation aux conditions arides. Son usage est documenté dans le Sud et la Grand'Anse principalement pour les affections cutanées et inflammatoires, ainsi que comme barrière végétale durable."
+    "valeur": "B. simaruba présente une valeur économique locale significative, principalement liée à son usage utilitaire pour l'établissement de clôtures vivantes durables. Cette application exploite la capacité remarquable de l'espèce à reprendre par bouturage de branches. Au niveau international, l'arbre trouve des applications en paysagisme urbain dans les régions tropicales sèches, valorisant sa résistance à la sécheresse et son port ornemental."
   },
   "toxicologie": {
-    "niveau": "",
+    "niveau": "🟢 Non toxique aux doses usuelles",
     "details": "B. simaruba présente un profil de sécurité favorable selon les données disponibles. Aucune toxicité majeure n'est rapportée dans la littérature ethnobotanique. Cependant, la prudence est recommandée pendant la grossesse en l'absence d'études de sécurité spécifiques. À fortes doses ou en usage prolongé, des risques de troubles digestifs ou d'hypotension ne peuvent être exclus. L'absence de données toxicologiques contrôlées impose une vigilance particulière quant aux interactions médicamenteuses potentielles."
   },
   "conservation": {
@@ -38,8 +38,8 @@
     "valeur": "B. simaruba présente une valeur économique locale significative, principalement liée à son usage utilitaire pour l'établissement de clôtures vivantes durables. Cette application exploite la capacité remarquable de l'espèce à reprendre par bouturage de branches. Au niveau international, l'arbre trouve des applications en paysagisme urbain dans les régions tropicales sèches, valorisant sa résistance à la sécheresse et son port ornemental."
   },
   "recherche": {
-    "nb_articles": "",
     "details": "Les recherches sur B. simaruba, estimées à environ une centaine de publications, se concentrent principalement sur la caractérisation phytochimique et l'évaluation des activités biologiques in vitro. Les perspectives incluent la standardisation des extraits, l'élucidation des mécanismes d'action anti-inflammatoires, et l'évaluation de la sécurité clinique. L'intérêt croissant pour les médecines traditionnelles et la restauration écologique pourrait stimuler de nouvelles recherches interdisciplinaires.",
+    "nb_articles": "",
     "lien_pubmed": "",
     "lien_scholar": "",
     "lien_tramil": ""
@@ -47,8 +47,19 @@
   "references": "- Pharmacognosy Research (pharmacia.pensoft) - Caractérisation phytochimique et activités biologiques - POWO, Kew Science - Description botanique - World Flora Online - Taxonomie et distribution - TRAMIL (www.tramil.net) - Usages ethnobotaniques caribéens",
   "aRetenir": "🟢 À retenir — Gomye : est utilisee en medecine traditionnelle avec un bon profil de securite aux doses courantes. Les usages presentes reposent sur des donnees ethnobotaniques et scientifiques publiees, mais ne constituent pas une prescription. Consulter un professionnel de sante avant tout usage therapeutique. Les auteurs declinent toute responsabilite quant a un usage inapproprie. ATLAS ETHNOBOTANIQUE Plantes médicinales, aromatiques et alimentaires Départements du Sud et de la Grand'Anse — Haïti Bloc 05 — Especes 81 a 100 Rakèt -> Melon 20 espèces · 12 famille(s) Source : Base de Référence Haïtienne (BRH) — Jardin Botanique des Cayes Validation : PubMed · Google Scholar · TRAMIL · POWO (Kew Science)",
   "images": {
-    "principale": "",
-    "galerie": []
+    "principale": "/images/231_Bursera_simaruba-001.jpg",
+    "galerie": [
+      "/images/231_Bursera_simaruba-001.jpg",
+      "/images/231_Bursera_simaruba-002.jpg",
+      "/images/231_Bursera_simaruba-003.jpg",
+      "/images/231_Bursera_simaruba-004.jpg",
+      "/images/231_Bursera_simaruba-005.jpg",
+      "/images/231_Bursera_simaruba-006.jpg",
+      "/images/231_Bursera_simaruba-007.jpg",
+      "/images/231_Bursera_simaruba-008.jpg",
+      "/images/231_Bursera_simaruba-009.jpg",
+      "/images/231_Bursera_simaruba-010.jpg"
+    ]
   },
-  "source": "plantes_full.json"
+  "source": "CSV corrigé 2026-04-11"
 }

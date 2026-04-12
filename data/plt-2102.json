@@ -1,7 +1,7 @@
 {
   "id_plante": "plt-2102",
   "code": "plt-2102",
-  "no_espece": "",
+  "no_espece": "21.2",
   "no_famille": "21",
   "famille": "Brassicacées",
   "description_famille": "",
@@ -20,17 +20,17 @@
   },
   "usages": {
     "usages_ethnobotaniques": "Dans les Départements du Sud et de la Grand'Anse, N. officinale est documenté principalement comme aliment-médicament. Les feuilles et tiges tendres sont consommées en salade fraîche sous le nom de « Kreson » pour fortifier le sang et lutter contre l'anémie. Cette pratique s'inscrit dans une logique thérapeutique cohérente, compte tenu de la richesse exceptionnelle du cresson en fer biodisponible, en vitamine C (qui favorise l'absorption du fer) et en folates (cofacteurs de l'érythropoïèse). Le mode de préparation privilégié est le jus frais, permettant une extraction optimale des micronutriments. Les graines sont occasionnellement utilisées comme condiment stimulant de la digestion. Dans la pharmacopée TRAMIL, l'usage contre l'anémie est également documenté en Haïti, confirmant la cohérence des pratiques locales.",
-    "systemes_concernes": "Respiratoire"
+    "systemes_concernes": "Les systèmes préférentiellement ciblés par N. officinale sont le système sanguin et le système respiratoire, selon les données ethnobotaniques locales et la littérature scientifique. Concernant l'anémie, les mécanismes d'action reposeraient sur l'apport combiné de fer héminique et non-héminique, de vitamine C (qui multiplie par 3 à 4 l'absorption du fer végétal), d'acide folique et de vitamine B6, tous cofacteurs essentiels de l'hématopoïèse (Gill et al., 2013). Au niveau respiratoire, les isothiocyanates issus des glucosinolates exerceraient des effets expectorants et antiseptiques modérés. Les polyphénols contribueraient à l'activité antioxydante systémique, potentiellement bénéfique dans les pathologies inflammatoires chroniques. La diurèse légère observée résulterait du profil électrolytique riche en potassium."
   },
   "pharmacologie": {
     "molecules": "La richesse chimique de Le cresson tient à une composition nutritionnelle exceptionnellement dense en micronutriments. Sa couleur vert foncé intense révèle des concentrations remarquables en chlorophylle, en caroténoïdes (bêta-carotène, lutéine, zéaxanthine) et en vitamine C — cette dernière pouvant atteindre 60 mg pour 100 g de feuilles fraîches (Cruz et al., 2017 — DOI: 10.1016/j.foodchem.2016.12.037). Sa saveur caractéristique, à la fois douce et légèrement piquante, résulte de la présence de glucosinolates spécifiques qui se transforment en isothiocyanates lors de la mastication. Le profil minéral est particulièrement remarquable : fer (1,5 mg/100g), calcium (120 mg/100g), potassium (330 mg/100g) et magnésium, expliquant son usage traditionnel contre l'anémie. Les principaux composés secondaires identifiés dans N. officinale comprennent : la gluconasturtiine (principal glucosinolate), l'isothiocyanate de phényléthyle (PEITC), des flavonoïdes (quercétine, kaempférol), des tannins condensés, des saponines triterpéniques et des caroténoïdes (Palaniswamy et al., 1997 — PMID: 9237321, Gill et al., 2013 — DOI: 10.1039/c3fo60158d). Ces molécules remplissent des fonctions de défense précises pour la plante aquatique. Les glucosinolates et leurs dérivés isothiocyanates protègent contre les herbivores aquatiques et les pathogènes fongiques. Les flavonoïdes contribuent à la résistance aux stress lumineux en milieu aquatique. Ces mêmes composés, une fois ingérés par l'humain, produisent les effets biologiques documentés : stimulation des enzymes de détoxication hépatique phase II, modulation des voies inflammatoires et amélioration du statut antioxydant systémique. Les observations restent principalement issues d'études in vitro et sur modèles animaux.",
     "posologie": "Une étude interventionnelle contrôlée a évalué les effets de la consommation de 80 g/jour de cresson frais chez l'adulte pendant 8 semaines, montrant une amélioration significative des marqueurs antioxydants plasmatiques et une réduction des dommages à l'ADN (Gill et al., 2007 — PMID: 17447894). Cette dose correspond approximativement à une large portion de salade quotidienne. Pour l'usage traditionnel haïtien en jus contre l'anémie, aucune posologie cliniquement validée n'est spécifiquement publiée, mais la consommation alimentaire régulière (2-3 fois par semaine) apparaît sûre et potentiellement bénéfique."
   },
   "nutrition": {
-    "introduction": "Nasturtium officinale R.Br. (syn. Rorippa nasturtium-aquaticum) est une herbe exotique cultivée dans les Départements du Sud et de la Grand'Anse. Elle appartient à la famille des Brassicacées, une vaste famille herbacée reconnue mondialement pour ses usages alimentaires exceptionnels et ses propriétés médicinales. Cette famille regroupe des légumes fondamentaux comme le chou (Brassica oleracea), le radis (Raphanus sativus) et la moutarde (Sinapis alba), mais aussi des plantes médicinales puissantes. Sur le plan phytochimique, les Brassicacées se distinguent par leurs glucosinolates — des composés soufrés précurseurs d'isothiocyanates aux propriétés biologiques remarquables — ainsi que par leur richesse en vitamines C et K, en fibres et en sulforaphane. Ces composés ciblent préférentiellement les systèmes digestif, sanguin et tégumentaire. Il convient de noter qu'à très forte consommation, certains glucosinolates peuvent exercer des effets goitrigènes sur la thyroïde, nécessitant une vigilance particulière chez les personnes à risque. Au sein de cette famille, Nasturtium officinale fait partie du genre Nasturtium, caractérisé par sa nature aquatique et sa saveur piquante distinctive. En Haïti, le cresson constitue un aliment-médicament particulièrement valorisé pour ses vertus fortifiantes et anti-anémiques."
+    "valeur": "Le cresson possède un potentiel économique significatif comme légume-feuille de haute valeur nutritive. Sur le marché international, il est valorisé comme « super-aliment » dans le secteur nutraceutique. En Haïti, son développement pourrait répondre aux besoins nutritionnels locaux tout en générant des revenus pour les producteurs spécialisés dans l'agriculture aquatique. Sa culture nécessite des investissements modestes mais une maîtrise technique spécifique."
   },
   "toxicologie": {
-    "niveau": "",
+    "niveau": "🟡 Précautions requises",
     "details": "N. officinale présente un profil de sécurité excellent en usage alimentaire normal. Les principales précautions concernent les interactions médicamenteuses : prudence chez les patients sous anticoagulants en raison de la teneur élevée en vitamine K (250 μg/100g). Des irritations du tube digestif peuvent survenir chez les sujets à muqueuse sensible lors de consommations importantes de plante fraîche. La récolte en milieu naturel nécessite une vigilance quant à la qualité de l'eau (risque de contamination bactérienne ou parasitaire). Les données de sécurité en grossesse et allaitement restent limitées, justifiant une prudence par principe."
   },
   "conservation": {
@@ -38,8 +38,8 @@
     "valeur": "Le cresson possède un potentiel économique significatif comme légume-feuille de haute valeur nutritive. Sur le marché international, il est valorisé comme « super-aliment » dans le secteur nutraceutique. En Haïti, son développement pourrait répondre aux besoins nutritionnels locaux tout en générant des revenus pour les producteurs spécialisés dans l'agriculture aquatique. Sa culture nécessite des investissements modestes mais une maîtrise technique spécifique."
   },
   "recherche": {
-    "nb_articles": "~500 (estimation)",
     "details": "Environ 500 publications scientifiques documentent les propriétés de N. officinale, principalement axées sur sa composition phytochimique et ses effets antioxydants. Les perspectives de recherche incluent l'évaluation clinique de ses effets anti-anémiques, l'optimisation de sa culture en milieu tropical et l'étude de ses interactions avec d'autres plantes médicinales haïtiennes. Le développement de variétés adaptées au climat haïtien constitue également un enjeu d'intérêt.",
+    "nb_articles": "",
     "lien_pubmed": "",
     "lien_scholar": "",
     "lien_tramil": ""
@@ -47,11 +47,11 @@
   "references": "Cruz, R.M.S. et al. (2017). Watercress: a review of bioactive compounds and health benefits. Food Chemistry. DOI: 10.1016/j.foodchem.2016.12.037. Gill, C.I. et al. (2013). Watercress supplementation in diet reduces lymphocyte DNA damage. British Journal of Nutrition. DOI: 10.1039/c3fo60158d. Gill, C.I. et al. (2007). Watercress supplementation in diet reduces lymphocyte DNA damage and alters blood antioxidant status in healthy adults. American Journal of Clinical Nutrition. PMID: 17447894. Palaniswamy, U.R. et al. (1997). Phenylethyl isothiocyanate from watercress inhibits growth of PC-3 human prostate cancer cells. Journal of Medicinal Food. PMID: 9237321. POWO (2024). Plants of the World Online. Kew Science. https://powo.science.kew.org/ TRAMIL (2024). Nasturtium officinale. www.tramil.net/en/plant/nasturtium-officinale",
   "aRetenir": "🟢 À retenir — Kreson : est avant tout un aliment — sa valeur nutritionnelle prime sur ses usages medicinaux. Consommee correctement preparee, elle est sans danger documente. Ses proprietes therapeutiques, reelles mais secondaires, ne remplacent pas un suivi medical. Les auteurs declinent toute responsabilite quant a un usage inapproprie.",
   "images": {
-    "principale": "images/212_Nasturtium_officinale-001.jpg",
+    "principale": "/images/212_Nasturtium_officinale-001.jpg",
     "galerie": [
-      "images/212_Nasturtium_officinale-001.jpg",
-      "images/212_Nasturtium_officinale-002.jpg"
+      "/images/212_Nasturtium_officinale-001.jpg",
+      "/images/212_Nasturtium_officinale-002.jpg"
     ]
   },
-  "source": "plantes_full.json"
+  "source": "CSV corrigé 2026-04-11"
 }

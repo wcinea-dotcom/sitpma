@@ -1,7 +1,7 @@
 {
   "id_plante": "plt-5304",
   "code": "plt-5304",
-  "no_espece": "",
+  "no_espece": "53.4",
   "no_famille": "53",
   "famille": "Myrtacées",
   "description_famille": "",
@@ -20,17 +20,17 @@
   },
   "usages": {
     "usages_ethnobotaniques": "Le fruit de la « ponm woz » est consommé frais comme aliment dans les Départements du Sud et de la Grand'Anse, apprécié pour sa saveur douce et parfumée ainsi que ses propriétés rafraîchissantes. Les fruits sont cueillis à pleine maturité et consommés nature ou incorporés dans des salades de fruits locales. Sur le plan médicinal, les feuilles sont traditionnellement utilisées en infusion pour leurs propriétés antidiabétiques présumées et antidiarrhéiques. L'écorce est occasionnellement employée en décoction pour ses effets astringents dans le traitement des troubles digestifs. Les modes de préparation incluent la consommation directe des fruits frais, l'infusion de feuilles séchées (5g pour 1 litre d'eau), et la décoction d'écorce. Ces usages médicinaux restent du domaine de la médecine populaire et nécessitent une validation scientifique plus poussée.",
-    "systemes_concernes": "Digestif, Immunitaire"
+    "systemes_concernes": "Les systèmes physiologiques principalement concernés par les effets d'Eugenia jambos sont le système digestif et le système immunitaire. Les usages traditionnels ciblent les troubles digestifs (diarrhées, dyspepsie) et le contrôle glycémique. Les mécanismes d'action documentés incluent une inhibition partielle de l'α-glucosidase par les flavonoïdes des feuilles, contribuant à une amélioration de la tolérance au glucose (Slowing et al., 1996 — PMID: 8931125). Les tanins exercent un effet antidiarrhéique et astringent par interaction avec les protéines de la muqueuse digestive. Les composés phénoliques, notamment l'acide gallique, présentent des propriétés antibactériennes contre plusieurs souches pathogènes (Locher et al., 1995 — PMID: 7776844). Cependant, ces mécanismes restent principalement démontrés in vitro, et des études cliniques humaines sont nécessaires pour confirmer l'efficacité thérapeutique."
   },
   "pharmacologie": {
     "molecules": "La particularité chimique de Le fruit d'Eugenia jambos réside dans sa richesse en composés primaires spécifiques responsables de ses qualités organoleptiques remarquables. Sa couleur rosée caractéristique provient de caroténoïdes et d'anthocyanes, tandis que son parfum si particulier, évoquant la rose, résulte de la présence d'esters volatils et de monoterpènes dans les huiles essentielles du péricarpe. La saveur douce du fruit est due à sa teneur élevée en fructose et glucose, complétée par des acides organiques (acide citrique, acide malique) qui équilibrent le goût. Sur le plan nutritionnel, le fruit apporte une quantité significative de vitamine C (acide ascorbique) — environ 25 mg pour 100g — ainsi que des minéraux comme le potassium (K), le calcium (Ca) et le magnésium (Mg) en quantités modérées (Reynertson et al., 2008 — doi:10.1016/j.foodchem.2007.07.073). Les principaux composés secondaires identifiés dans E. jambos comprennent : des flavonoïdes (quercétine, kaempférol, myricétine), des tanins hydrolysables et condensés, l'acide gallique, des saponines triterpéniques, des huiles essentielles riches en linalol et géraniol, et des caroténoïdes. Les feuilles concentrent particulièrement les flavonoïdes et les tanins, tandis que l'écorce renferme principalement des tanins condensés et des composés phénoliques (Slowing et al., 1996 — PMID: 8931125). Ces molécules remplissent des fonctions de protection spécialisées pour la plante. Les tanins des feuilles et de l'écorce protègent contre les herbivores par leur astringence et leur effet antimicrobien. Les flavonoïdes des tissus photosynthétiques filtrent les rayonnements UV tropicaux intenses. Les huiles essentielles des feuilles et des fruits exercent un effet répulsif contre les insectes ravageurs tout en attirant les pollinisateurs spécialisés. Ces mêmes composés, une fois ingérés par l'humain, produisent les effets biologiques documentés : activité antioxydante des flavonoïdes, propriétés astringentes et antidiarrhéiques des tanins, action antimicrobienne de l'acide gallique. Il convient de noter que ces observations restent principalement issues d'études in vitro et sur modèles animaux.",
     "posologie": "Les données de posologie cliniquement validées pour Eugenia jambos demeurent limitées. Les études disponibles mentionnent une consommation alimentaire de fruits de 50 à 100g par jour comme source d'antioxydants naturels. Pour l'usage médicinal traditionnel, une infusion de feuilles à raison de 5g par litre d'eau, consommée 1 à 2 fois par jour, est rapportée dans la littérature ethnopharmacologique, mais cette posologie n'a pas fait l'objet d'essais cliniques contrôlés (Slowing et al., 1996 — PMID: 8931125). Il convient de noter l'absence de standardisation des préparations traditionnelles et la nécessité d'études dose-réponse pour établir des recommandations thérapeutiques sûres."
   },
   "nutrition": {
-    "introduction": "Eugenia jambos L. (syn. Syzygium jambos) est un arbre fruitier exotique introduit en Haïti, cultivé dans les Départements du Sud et de la Grand'Anse pour ses fruits parfumés. Il appartient à la famille des Myrtacées, une vaste famille tropicale dominée par des arbres et arbustes aromatiques, reconnue pour ses riches usages alimentaires, médicinaux et aromatiques. Cette famille se distingue par une signature phytochimique caractérisée par les tanins, flavonoïdes, vitamine C et limonène, ciblant préférentiellement les systèmes digestif, respiratoire et immunitaire. Au sein de cette famille, le genre Eugenia regroupe plusieurs espèces d'arbres fruitiers tropicaux — dont certaines endémiques d'Haïti comme Eugenia buchii — toutes caractérisées par leurs fruits charnus et leurs feuilles aromatiques riches en huiles essentielles. Eugenia jambos est principalement cultivé comme arbre fruitier, ses fruits étant appréciés pour leur saveur douce et parfumée, bien que la plante présente également des usages médicinaux traditionnels documentés."
+    "valeur": "La valeur économique d'Eugenia jambos en Haïti reste modeste, limitée à la vente occasionnelle de fruits sur les marchés locaux des Départements du Sud et de la Grand'Anse. À l'échelle internationale, l'espèce présente un potentiel comme plante ornementale pour ses fleurs spectaculaires et comme arbre fruitier de niche pour ses fruits parfumés. Le développement de produits dérivés (jus, confitures) pourrait valoriser cette ressource locale, bien que la production actuelle reste insuffisante pour un développement commercial significatif."
   },
   "toxicologie": {
-    "niveau": "",
+    "niveau": "🔴 Toxique",
     "details": "Eugenia jambos présente un profil de sécurité généralement favorable pour la consommation du fruit, mais requiert certaines précautions concernant les usages médicinaux. Les graines du fruit sont considérées comme potentiellement toxiques et ne doivent pas être consommées. L'usage excessif d'infusions concentrées de feuilles peut provoquer des diarrhées ou des irritations digestives en raison de la forte teneur en tanins. Une interaction possible avec les médicaments antidiabétiques doit être considérée, pouvant potentialiser les effets hypoglycémiants. La prudence est recommandée chez les femmes enceintes et allaitantes en l'absence de données de sécurité spécifiques. Les personnes présentant des troubles gastro-intestinaux chroniques devraient éviter les préparations d'écorce très concentrées."
   },
   "conservation": {
@@ -38,8 +38,8 @@
     "valeur": "La valeur économique d'Eugenia jambos en Haïti reste modeste, limitée à la vente occasionnelle de fruits sur les marchés locaux des Départements du Sud et de la Grand'Anse. À l'échelle internationale, l'espèce présente un potentiel comme plante ornementale pour ses fleurs spectaculaires et comme arbre fruitier de niche pour ses fruits parfumés. Le développement de produits dérivés (jus, confitures) pourrait valoriser cette ressource locale, bien que la production actuelle reste insuffisante pour un développement commercial significatif."
   },
   "recherche": {
-    "nb_articles": "",
     "details": "Les recherches futures sur Eugenia jambos devraient prioritairement se concentrer sur la validation clinique de ses effets antidiabétiques traditionnellement allégués, notamment par des essais contrôlés randomisés. L'optimisation des techniques de culture en climat tropical sec, l'amélioration des rendements et la sélection de variétés adaptées aux conditions haïtiennes constituent des axes de recherche appliquée pertinents. Le développement de méthodes de transformation et de conservation des fruits pourrait également valoriser cette ressource fruitière locale. Des études écotoxicologiques seraient utiles pour évaluer l'impact environnemental potentiel de l'espèce dans les écosystèmes caribéens.",
+    "nb_articles": "",
     "lien_pubmed": "",
     "lien_scholar": "",
     "lien_tramil": ""
@@ -47,10 +47,10 @@
   "references": "Locher, C. P., et al. (1995). Anti-microbial activity of Syzygium jambos leaf extracts. Phytotherapy Research, 9(7), 493-496. PMID: 7776844. Reynertson, K. A., et al. (2008). Quantitative analysis of antiradical phenolic constituents from fourteen edible Myrtaceae fruits. Food Chemistry, 109(4), 883-890. doi:10.1016/j.foodchem.2007.07.073. Slowing, K., et al. (1996). Study of some pharmacological actions of Eugenia jambos bark and leaves. Journal of Ethnopharmacology, 49(2), 121-128. PMID: 8931125. World Flora Online (2024). Eugenia jambos L. Consulté sur http://www.worldfloraonline.org.",
   "aRetenir": "🟡 À retenir — Ponm woz : est une plante a toxicite conditionnelle documentee. Respecter imperativement les precautions indiquees. Ne jamais ingerer les parties toxiques sans encadrement medical. Ces informations sont destinees a l'enseignement et a la documentation. Les auteurs declinent toute responsabilite quant a un usage inapproprie.",
   "images": {
-    "principale": "images/534_Eugenia_jambos-001.jpg",
+    "principale": "/images/534_Eugenia_jambos-001.jpg",
     "galerie": [
-      "images/534_Eugenia_jambos-001.jpg"
+      "/images/534_Eugenia_jambos-001.jpg"
     ]
   },
-  "source": "plantes_full.json"
+  "source": "CSV corrigé 2026-04-11"
 }

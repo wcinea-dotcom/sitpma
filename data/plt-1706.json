@@ -1,7 +1,7 @@
 {
   "id_plante": "plt-1706",
   "code": "plt-1706",
-  "no_espece": "",
+  "no_espece": "17.6",
   "no_famille": "17",
   "famille": "Astéracées",
   "description_famille": "",
@@ -20,17 +20,17 @@
   },
   "usages": {
     "usages_ethnobotaniques": "La « zèb a kou » occupe une position centrale dans la médecine traditionnelle haïtienne comme antimalarique et fébrifuge. Les praticiens locaux des Départements du Sud et de la Grand'Anse utilisent principalement les feuilles et les tiges fraîches ou séchées, préparées en infusion amère. Le mode de préparation traditionnel consiste à faire bouillir les parties végétales dans l'eau pendant 10 à 15 minutes, produisant une décoction d'amertume intense. Cette préparation est documentée dans le Sud et la Grand'Anse pour traiter la fièvre, la malaria présumée et, plus récemment, comme adjuvant dans le diabète. Les données TRAMIL confirment son usage caribéen contre la fièvre, tandis qu'au Guatemala, elle demeure un antipaludéen traditionnel reconnu. La plante est également employée comme anti-inflammatoire, diurétique et hypotenseur, témoignant de la polyvalence thérapeutique caractéristique des sesquiterpènes lactones.",
-    "systemes_concernes": "Immunitaire, Hépatique"
+    "systemes_concernes": "N. lobata cible principalement les systèmes immunitaire et cutané, avec des effets documentés sur le diabète et la malaria. Les sesquiterpènes lactones, notamment les germacranolides, exerceraient une activité directe sur les parasites Plasmodium par perturbation de leurs membranes cellulaires et inhibition de processus enzymatiques essentiels. Ces mêmes composés modulent l'inflammation par inhibition partielle des voies NF-κB et cyclooxygénases, expliquant les effets anti-inflammatoires observés. Les effets vasculaires et diurétiques décrits expérimentalement impliqueraient une action sur les canaux ioniques et les récepteurs adrénergiques, mais ces mécanismes restent à standardiser cliniquement. L'activité hypoglycémiante suggérée dans le diabète pourrait résulter d'une amélioration de la sensibilité à l'insuline ou d'une modulation du métabolisme hépatique du glucose, nécessitant des investigations approfondies."
   },
   "pharmacologie": {
     "molecules": "L'amertume caractéristique de N. lobata provient de ses sesquiterpènes lactones, notamment les germacranolides, qui constituent son arsenal chimique principal contre les herbivores et les pathogènes. Ces composés amers à action systémique expliquent l'efficacité de la plante contre le paludisme, car ils exercent une pression sélective directe sur les parasites Plasmodium. La concentration de ces molécules dans les feuilles et tiges atteint des niveaux remarquables, justifiant les précautions traditionnelles concernant le dosage. Les caroténoïdes présents participent à la protection contre les stress oxydatifs en altitude, tandis que les flavonoïdes comme la lutéoline contribuent à la coloration et aux propriétés antioxydantes. Les principaux composés secondaires identifiés dans N. lobata comprennent : des sesquiterpènes lactones (germacranolides, furanoheliangolides) responsables de l'activité antipaludéenne et anti-inflammatoire, des flavonoïdes (lutéoline, quercétine) aux propriétés antioxydantes et vasculaires, des tanins contribuant à l'astringence et aux effets digestifs, des saponines participant aux effets diurétiques, et des composés phénoliques incluant le thymol aux propriétés antimicrobiennes (Lentz et al., 1998, Misra et al., 1988 — DOI: 10.1007/BF00575154). Ces molécules remplissent des fonctions de défense sophistiquées pour la plante. Les sesquiterpènes lactones agissent comme pesticides naturels, protégeant contre les insectes herbivores et les nématodes du sol. Leur amertume extrême décourage la consommation par les mammifères, préservant la biomasse reproductive de cette espèce rare. Ces mêmes composés, une fois ingérés par l'humain, produisent les effets biologiques documentés : action sur les parasites Plasmodium, modulation de l'inflammation et effets sur la glycémie. Les études restent principalement in vitro et ex vivo, nécessitant des validations cliniques approfondies.",
     "posologie": "La médecine populaire rapporte une posologie d'infusion préparée avec environ 5 grammes de feuilles sèches par litre d'eau, consommée 1 à 2 fois par jour pendant les épisodes fébriles. Cependant, aucune posologie cliniquement validée n'est disponible pour N. lobata dans la littérature médicale internationale. L'absence d'études pharmacocinétiques et de standardisation des extraits limite considérablement l'établissement de recommandations thérapeutiques précises. La grande variabilité de concentration des principes actifs selon les conditions de récolte, de séchage et de conservation rend indispensable une approche prudente du dosage, particulièrement compte tenu de l'amertume extrême qui peut provoquer des troubles digestifs."
   },
   "nutrition": {
-    "introduction": "Neurolaena lobata (syn. Conyza lobata) est une herbe native très rare des Départements du Sud et de la Grand'Anse, où elle constitue l'un des antimalariques traditionnels les plus réputés de la pharmacopée haïtienne. Elle appartient à la famille des Astéracées, une famille très évoluée comprenant plus de 25 000 espèces dans le monde, reconnue pour ses riches usages alimentaires, médicinaux et spirituels. Cette famille se distingue par ses composés chimiques sophistiqués — notamment les sesquiterpènes lactones, les flavonoïdes, les huiles essentielles et l'inuline — ciblant préférentiellement les systèmes digestif, respiratoire et nerveux. Au sein de cette famille, N. lobata fait partie du genre Neurolaena, un petit groupe d'herbes néotropicales particulièrement riches en sesquiterpènes lactones bioactifs. Sa saveur extrêmement amère témoigne de la concentration élevée de ces composés défensifs, qui expliquent à la fois son efficacité thérapeutique et la nécessité de précautions dans son usage."
+    "valeur": "Bien que N. lobata ne génère pas actuellement d'activité économique formelle significative, sa valeur potentielle est considérable. La demande internationale croissante pour les antipaludiques naturels, notamment dans le contexte des résistances aux traitements synthétiques, confère à cette espèce une importance stratégique. Sa rareté même pourrait justifier des programmes de culture contrôlée et de développement de filières durables. La valorisation économique de la plante pourrait contribuer à financer sa conservation tout en maintenant l'accès thérapeutique pour les communautés locales."
   },
   "toxicologie": {
-    "niveau": "",
+    "niveau": "🟡 Précautions requises",
     "details": "N. lobata présente un profil de sécurité relativement favorable aux doses traditionnelles, mais plusieurs précautions s'imposent. La grossesse constitue une contre-indication par principe de précaution, les sesquiterpènes lactones pouvant théoriquement exercer des effets utérotoniques. Des interactions possibles avec les médicaments hypotenseurs et antipaludiques modernes nécessitent une surveillance médicale en cas d'usage concomitant. À forte dose ou en usage prolongé, la plante peut provoquer nausées, vomissements et diarrhées dues à l'irritation gastro-intestinale par les composés amers. L'amertume extrême constitue généralement un mécanisme d'autorégulation naturel limitant les surdosages accidentels."
   },
   "conservation": {
@@ -38,8 +38,8 @@
     "valeur": "Bien que N. lobata ne génère pas actuellement d'activité économique formelle significative, sa valeur potentielle est considérable. La demande internationale croissante pour les antipaludiques naturels, notamment dans le contexte des résistances aux traitements synthétiques, confère à cette espèce une importance stratégique. Sa rareté même pourrait justifier des programmes de culture contrôlée et de développement de filières durables. La valorisation économique de la plante pourrait contribuer à financer sa conservation tout en maintenant l'accès thérapeutique pour les communautés locales."
   },
   "recherche": {
-    "nb_articles": "",
     "details": "Environ cent publications scientifiques ont exploré les propriétés de N. lobata, principalement axées sur l'activité antipaludéenne de ses sesquiterpènes lactones. Les recherches futures devraient prioritairement porter sur la standardisation des extraits, l'établissement de protocoles thérapeutiques validés et l'évaluation de la sécurité à long terme. Des études pharmacocinétiques chez l'humain permettraient d'optimiser les posologies et de minimiser les effets indésirables. Le développement de méthodes de culture durable constitue également une priorité pour assurer la pérennité de l'espèce tout en répondant aux besoins thérapeutiques croissants.",
+    "nb_articles": "",
     "lien_pubmed": "",
     "lien_scholar": "",
     "lien_tramil": ""
@@ -47,13 +47,13 @@
   "references": "Lentz, D.L. et al. (1998). Antimalarial activity of neurolaena lobata. Journal of Ethnopharmacology. DOI: 10.1016/S0378-8741(98)00067-8. Misra, T.N. et al. (1988). Constituents of Neurolaena lobata. Phytochemistry. DOI: 10.1007/BF00575154. TRAMIL. Neurolaena lobata. www.tramil.net/en/plant/neurolaena-lobata POWO. Plants of the World Online. Kew Science. www.plantsoftheworldonline.org",
   "aRetenir": "🟢 À retenir — Zèb a kou : est utilisee en medecine traditionnelle avec un bon profil de securite aux doses courantes. Les usages presentes reposent sur des donnees ethnobotaniques et scientifiques publiees, mais ne constituent pas une prescription. Consulter un professionnel de sante avant tout usage therapeutique. Les auteurs declinent toute responsabilite quant a un usage inapproprie.",
   "images": {
-    "principale": "images/176_Neurolaena_lobata-001.jpg",
+    "principale": "/images/176_Neurolaena_lobata-001.jpg",
     "galerie": [
-      "images/176_Neurolaena_lobata-001.jpg",
-      "images/176_Neurolaena_lobata-002.jpg",
-      "images/176_Neurolaena_lobata-003.jpg",
-      "images/176_Neurolaena_lobata-004.jpg"
+      "/images/176_Neurolaena_lobata-001.jpg",
+      "/images/176_Neurolaena_lobata-002.jpg",
+      "/images/176_Neurolaena_lobata-003.jpg",
+      "/images/176_Neurolaena_lobata-004.jpg"
     ]
   },
-  "source": "plantes_full.json"
+  "source": "CSV corrigé 2026-04-11"
 }

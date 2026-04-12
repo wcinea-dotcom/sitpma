@@ -1,7 +1,7 @@
 {
   "id_plante": "plt-1604",
   "code": "plt-1604",
-  "no_espece": "",
+  "no_espece": "16.4",
   "no_famille": "16",
   "famille": "Asteracées",
   "description_famille": "",
@@ -20,17 +20,17 @@
   },
   "usages": {
     "usages_ethnobotaniques": "Dans la tradition médicinale des Départements du Sud et de la Grand'Anse, « Fèy tabak » ou « Lachoy » occupe une position centrale dans le traitement des affections inflammatoires et douloureuses. Les feuilles fraîches sont principalement utilisées sous forme de cataplasmes pour les applications externes : elles sont écrasées ou pilées jusqu'à obtention d'une pâte homogène, puis appliquées directement sur les zones douloureuses. Cette préparation est particulièrement prisée pour soulager les douleurs rhumatismales et les inflammations articulaires. En usage interne, les feuilles sont préparées en décoction : une poignée de feuilles fraîches est bouillie dans un litre d'eau pendant 10 à 15 minutes, puis filtrée. Cette préparation est consommée tiède pour traiter les maux de gorge et les affections respiratoires. Les usages TRAMIL confirment ces applications traditionnelles, documentant l'efficacité des cataplasmes et infusions de P. carolinensis dans la pharmacopée caribéenne.",
-    "systemes_concernes": ""
+    "systemes_concernes": "P. carolinensis cible préférentiellement le système musculo-squelettique et la sphère ORL. Au niveau articulaire et musculaire, les cataplasmes de feuilles exercent une action anti-inflammatoire et antinociceptive documentée. Le mécanisme d'action reposerait sur l'inhibition de la synthèse des prostaglandines, similaire à celui des anti-inflammatoires non stéroïdiens (AINS), réduisant ainsi l'inflammation locale et la perception douloureuse. Les composés volatils comme le camphre produisent également un effet contre-irritant par stimulation des récepteurs cutanés au froid, masquant temporairement la douleur. Pour les affections ORL, notamment les maux de gorge, l'action conjugue les propriétés antimicrobiennes des huiles essentielles aux effets anti-inflammatoires des flavonoïdes. La pluchéine et autres flavonoïdes pourraient moduler la réponse inflammatoire en inhibant l'activation du facteur de transcription NF-κB. Ces mécanismes, bien que documentés in vitro, nécessitent des validations cliniques supplémentaires pour confirmer leur pertinence thérapeutique chez l'humain."
   },
   "pharmacologie": {
     "molecules": "Les feuilles de P. carolinensis se distinguent par leur forte teneur en huiles essentielles à dominante camphrée, responsables de l'odeur pénétrante caractéristique qui donne son nom créole à la plante. Le camphre, molécule monoterpénique cyclique, confère aux feuilles leurs propriétés rafraîchissantes et analgésiques topiques. Cette richesse en composés volatils témoigne de l'adaptation de la plante aux conditions tropicales, où ces substances jouent un rôle protecteur contre la dessiccation et les pathogènes. Les feuilles contiennent également de l'acide chlorogénique, un ester d'acide caféique aux propriétés antioxydantes marquées, ainsi que des minéraux essentiels comme le potassium et le magnésium. Les principaux composés secondaires identifiés dans P. carolinensis comprennent : des flavonoïdes (quercétine, lutéoline, pluchéine), des sesquiterpènes, des huiles essentielles riches en camphre, de l'acide chlorogénique et divers composés phénoliques (Cantrell et al., 2005 — Journal of Natural Products). La pluchéine, un flavonoïde spécifique au genre Pluchea, présente des propriétés anti-inflammatoires particulièrement intéressantes. Ces molécules remplissent des fonctions écologiques précises pour la plante. Le camphre et les sesquiterpènes volatils protègent efficacement contre les herbivores et les pathogènes fongiques, créant une barrière chimique défensive. Les flavonoïdes contribuent à la protection contre les rayonnements UV intenses des régions tropicales. Ces mêmes composés, une fois appliqués par l'humain, produisent les effets biologiques documentés : le camphre génère un effet analgésique topique par activation des récepteurs au froid, les flavonoïdes exercent une action anti-inflammatoire par inhibition de la cyclooxygénase, et l'acide chlorogénique apporte ses propriétés antioxydantes. Les études restent principalement in vitro et sur modèles animaux, nécessitant des essais cliniques humains pour confirmation.",
     "posologie": "Aucune posologie cliniquement validée n'est disponible pour P. carolinensis dans la littérature médicale. Les recommandations traditionnelles, transmises par l'usage populaire dans les Départements du Sud et de la Grand'Anse, préconisent l'application de cataplasmes de feuilles écrasées renouvelés 2 à 3 fois par jour sur les zones douloureuses. En usage interne, la décoction se consomme à raison d'une tasse 2 à 3 fois par jour. La documentation TRAMIL suggère des préparations similaires sans préciser de dosages standardisés. L'absence de données pharmacocinétiques humaines limite l'établissement de posologies optimales, rendant nécessaire le respect des usages traditionnels modérés et l'observation attentive des réactions individuelles."
   },
   "nutrition": {
-    "introduction": "Pluchea carolinensis (Jacq.) G. Don (syn. Conyza carolinensis Jacq.) est un arbuste natif des Départements du Sud et de la Grand'Anse, appartenant à la famille des Astéracées. Il fait partie du genre Pluchea, qui regroupe une cinquantaine d'espèces d'arbustes principalement américains, reconnus pour leurs propriétés médicinales et leur riche composition en huiles essentielles. Son nom créole « Fèy tabak » évoque probablement l'odeur camphrée de ses feuilles, tandis que « Lachoy » pourrait référer à ses usages traditionnels. Cette espèce constitue l'une des plantes médicinales les plus importantes de la pharmacopée locale haïtienne, particulièrement prisée pour le traitement des affections inflammatoires et douloureuses."
+    "valeur": "L'espèce représente une valeur économique significative comme plante médicinale majeure de la pharmacopée locale haïtienne. Sa disponibilité commune permet un approvisionnement régulier pour les besoins domestiques sans commercialisation intensive. Le potentiel de développement en phytothérapie moderne reste à explorer, particulièrement pour ses propriétés anti-inflammatoires documentées. Les composés bioactifs identifiés pourraient intéresser l'industrie pharmaceutique pour le développement de nouveaux anti-inflammatoires topiques naturels."
   },
   "toxicologie": {
-    "niveau": "",
+    "niveau": "🟡 Précautions requises",
     "details": "Pluchea carolinensis présente un profil de sécurité globalement favorable selon les données disponibles. Le risque principal concerne les dermatites de contact chez les sujets sensibles, particulièrement lors d'applications répétées de cataplasmes. Les huiles essentielles et certains sesquiterpènes peuvent occasionnellement provoquer des réactions allergiques cutanées. En usage interne, aucune toxicité majeure n'est documentée aux doses traditionnellement employées. Cependant, les femmes enceintes et allaitantes devraient éviter l'usage interne par précaution, en l'absence de données de sécurité spécifiques. Il convient également d'éviter l'application sur des plaies ouvertes ou des muqueuses sensibles."
   },
   "conservation": {
@@ -38,8 +38,8 @@
     "valeur": "L'espèce représente une valeur économique significative comme plante médicinale majeure de la pharmacopée locale haïtienne. Sa disponibilité commune permet un approvisionnement régulier pour les besoins domestiques sans commercialisation intensive. Le potentiel de développement en phytothérapie moderne reste à explorer, particulièrement pour ses propriétés anti-inflammatoires documentées. Les composés bioactifs identifiés pourraient intéresser l'industrie pharmaceutique pour le développement de nouveaux anti-inflammatoires topiques naturels."
   },
   "recherche": {
-    "nb_articles": "",
     "details": "Les recherches futures sur P. carolinensis devraient prioritairement se concentrer sur la validation clinique des propriétés anti-inflammatoires et analgésiques observées in vitro. Des études pharmacocinétiques permettraient d'établir des posologies standardisées sécurisées. L'isolement et la caractérisation approfondie de la pluchéine méritent une attention particulière, ce flavonoïde spécifique présentant un potentiel thérapeutique prometteur. Des recherches sur l'optimisation des modes d'extraction et de formulation pourraient améliorer l'efficacité des préparations traditionnelles. L'évaluation de la durabilité des récoltes et l'impact écologique de l'exploitation constituent également des axes de recherche pertinents.",
+    "nb_articles": "",
     "lien_pubmed": "",
     "lien_scholar": "",
     "lien_tramil": "https://www.tramil.net/en/plant/pluchea-carolinensis"
@@ -47,13 +47,13 @@
   "references": "Cantrell, C.L. et al. (2005). Antimycobacterial plant terpenoids. Journal of Natural Products. PMID: 16025484. POWO (2024). Plants of the World Online. Kew Science. https://powo.science.kew.org TRAMIL (2024). Pluchea carolinensis. https://www.tramil.net/en/plant/pluchea-carolinensis World Flora Online (2024). http://www.worldfloraonline.org",
   "aRetenir": "🟢 À retenir — Fèy tabak/Lachoy : est utilisee en medecine traditionnelle avec un bon profil de securite aux doses courantes. Les usages presentes reposent sur des donnees ethnobotaniques et scientifiques publiees, mais ne constituent pas une prescription. Consulter un professionnel de sante avant tout usage therapeutique. Les auteurs declinent toute responsabilite quant a un usage inapproprie.",
   "images": {
-    "principale": "images/164_Pluchea_carolinensis-001.jpg",
+    "principale": "/images/164_Pluchea_carolinensis-001.jpg",
     "galerie": [
-      "images/164_Pluchea_carolinensis-001.jpg",
-      "images/164_Pluchea_carolinensis-002.jpg",
-      "images/164_Pluchea_carolinensis-003.jpg",
-      "images/164_Pluchea_carolinensis-004.jpg"
+      "/images/164_Pluchea_carolinensis-001.jpg",
+      "/images/164_Pluchea_carolinensis-002.jpg",
+      "/images/164_Pluchea_carolinensis-003.jpg",
+      "/images/164_Pluchea_carolinensis-004.jpg"
     ]
   },
-  "source": "plantes_full.json"
+  "source": "CSV corrigé 2026-04-11"
 }

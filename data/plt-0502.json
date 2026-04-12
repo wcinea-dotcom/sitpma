@@ -1,7 +1,7 @@
 {
   "id_plante": "plt-0502",
   "code": "plt-0502",
-  "no_espece": "",
+  "no_espece": "5.2",
   "no_famille": "5",
   "famille": "Amaryllidacées",
   "description_famille": "",
@@ -20,17 +20,17 @@
   },
   "usages": {
     "usages_ethnobotaniques": "Dans les Départements du Sud et de la Grand'Anse, le poireau est documenté comme légume digestif et légèrement diurétique, principalement utilisé dans les soupes pour ses vertus thérapeutiques et nutritionnelles. Les parties utilisées comprennent le pseudo-bulbe blanc et les feuilles tendres, préparés exclusivement par cuisson. Le mode de préparation principal consiste à incorporer le poireau dans les soupes, où il libère ses composés actifs tout en apportant une saveur douce et soufrée caractéristique. Cette pratique locale s'inscrit dans une tradition culinaire-médicinale où les légumes-racines jouent un rôle à la fois nutritionnel et thérapeutique. Dans la région caribéenne selon TRAMIL, l'usage reste principalement alimentaire, confirmant le rôle nutritionnel dominant de cette espèce.",
-    "systemes_concernes": "Digestif, Urinaire"
+    "systemes_concernes": "Le poireau cible principalement les systèmes digestif et urinaire dans les pratiques documentées du Sud et de la Grand'Anse. Son action diurétique douce en fait un remède traditionnel pour les troubles rénaux et cardiaques légers. Les mécanismes d'action reposent sur les effets antioxydants des flavonoïdes et des composés sulfurés, ainsi que sur l'apport important en fibres qui contribue à la santé vasculaire et digestive. Les flavonoïdes, particulièrement la quercétine et le kaempférol, exercent des effets protecteurs sur l'endothélium vasculaire. Les composés sulfurés pourraient contribuer à la modulation de certaines fonctions métaboliques, bien que les mécanismes spécifiques de type \"modulation ionique rénale\" restent peu documentés scientifiquement. L'inuline, fibre prébiotique, favorise l'équilibre de la flore intestinale et pourrait indirectement soutenir la fonction digestive."
   },
   "pharmacologie": {
     "molecules": "Bien qu'apparenté à l'oignon et à l'ail, le poireau cultive une chimie singulièrement moins agressive, produisant des composés organosoufrés plus subtils qui expliquent son goût délicat et son profil aromatique distinctement plus doux. Ces molécules — principalement des sulfures d'allyle — se forment lors de la rupture des tissus et constituent un mécanisme de défense chimique efficace. Les principaux métabolites secondaires identifiés dans A. porrum comprennent : des flavonoïdes (kaempférol, quercétine), des saponines, des composés sulfurés organiques, des polyphénols et de l'inuline. Ces composés remplissent des fonctions défensives précises : les flavonoïdes protègent contre les rayonnements UV et possèdent des propriétés antioxydantes, les composés soufrés repoussent les ravageurs, les saponines découragent l'herbivorie, et l'inuline sert de réserve énergétique tout en nourrissant les microorganismes bénéfiques du sol.",
     "posologie": "Aucune posologie médicinale standardisée n'est établie pour A. porrum, son usage étant principalement alimentaire. Dans les pratiques locales documentées, la consommation varie selon la ration de légumes intégrée aux soupes, sans dosage spécifique. L'usage courant alimentaire permet une consommation régulière sans restriction particulière, la plante étant considérée comme un aliment-médicament plutôt qu'un remède à posologie stricte. Cette approche nutritionnelle-thérapeutique correspond aux pratiques traditionnelles haïtiennes où les légumes-racines sont utilisés pour leurs bienfaits préventifs à long terme plutôt que pour des effets curatifs immédiats."
   },
   "nutrition": {
-    "introduction": "Allium porrum L. (syn. Allium ampeloprasum var. porrum) est une herbe bisannuelle exotique, cultivée dans les Départements du Sud et de la Grand'Anse à haute altitude. Elle appartient à la famille des Amaryllidacées, reconnue pour ses riches usages alimentaires et médicinaux. Cette famille se distingue par une signature phytochimique dominée par la quercétine, les composés soufrés, les fructanes et la vitamine C, ciblant préférentiellement les systèmes digestif, respiratoire et urinaire. Au sein de cette famille, Allium porrum fait partie du genre Allium, qui regroupe plusieurs espèces culinaires et thérapeutiques caractérisées par leurs composés organosoufrés volatils. Dans les Départements du Sud et de la Grand'Anse, le poireau constitue un légume digestif utilisé dans les soupes pour ses vertus diurétiques douces et sa valeur nutritionnelle."
+    "valeur": "Localement, la valeur du poireau reste limitée à l'usage alimentaire dans les soupes, avec un marché restreint lié à sa production rare. À l'échelle internationale, cette espèce représente un secteur agro-alimentaire important dans les régions tempérées, avec une demande croissante pour les légumes à valeur nutritionnelle élevée. Le potentiel de développement de sa culture en altitude en Haïti mériterait une évaluation économique, particulièrement pour les marchés urbains recherchant des légumes diversifiés."
   },
   "toxicologie": {
-    "niveau": "🟢 confirme l'innocuité de cette espèce aux usages documentés",
+    "niveau": "🟡 Précautions requises",
     "details": "Allium porrum présente un profil de sécurité excellent aux doses alimentaires courantes. Aucune toxicité significative n'est documentée pour cette espèce dans la littérature scientifique. Cependant, quelques précautions théoriques méritent d'être mentionnées : prudence en cas d'insuffisance rénale sévère en raison de la charge potassique notable du légume, et attention chez les personnes sous anticoagulants en cas de consommation très importante et régulière du fait de la teneur en vitamine K. Ces précautions restent théoriques et concernent des situations d'usage excessif peu probables dans le contexte culinaire habituel. La classification 🟢 confirme l'innocuité de cette espèce aux usages documentés."
   },
   "conservation": {
@@ -38,8 +38,8 @@
     "valeur": "Localement, la valeur du poireau reste limitée à l'usage alimentaire dans les soupes, avec un marché restreint lié à sa production rare. À l'échelle internationale, cette espèce représente un secteur agro-alimentaire important dans les régions tempérées, avec une demande croissante pour les légumes à valeur nutritionnelle élevée. Le potentiel de développement de sa culture en altitude en Haïti mériterait une évaluation économique, particulièrement pour les marchés urbains recherchant des légumes diversifiés."
   },
   "recherche": {
-    "nb_articles": "~500 (estimation)",
     "details": "Environ 500 articles scientifiques traitent d'Allium porrum selon les estimations PubMed, couvrant principalement ses aspects nutritionnels, sa composition phytochimique et ses propriétés antioxydantes. Les recherches futures pourraient se concentrer sur l'adaptation de variétés tropicales pour les conditions d'altitude haïtiennes, l'optimisation des techniques culturales locales, et l'évaluation précise des mécanismes diurétiques documentés dans les pratiques traditionnelles. L'étude de la biodisponibilité des composés bioactifs après cuisson constituerait également une piste de recherche pertinente pour valoriser scientifiquement les usages culinaires-médicinaux locaux.",
+    "nb_articles": "",
     "lien_pubmed": "https://pubmed.ncbi.nlm.nih.gov/?term=Allium+porrum",
     "lien_scholar": "",
     "lien_tramil": "https://www.tramil.net/en/plant/allium-porrum"
@@ -47,11 +47,11 @@
   "references": "POWO (2026). Plants of the World Online. Kew Science. https://powo.science.kew.org/ World Flora Online (2026). WFO Plant List. http://www.worldfloraonline.org/ TRAMIL (2026). Pharmacopée végétale caribéenne. https://www.tramil.net/en/plant/allium-porrum PubMed (2026). Base de données biomédicales. https://pubmed.ncbi.nlm.nih.gov/?term=Allium+porrum",
   "aRetenir": "🟢 À retenir — Poro : est avant tout un aliment — sa valeur nutritionnelle prime sur ses usages medicinaux. Consommee correctement preparee, elle est sans danger documente. Ses proprietes therapeutiques, reelles mais secondaires, ne remplacent pas un suivi medical. Les auteurs declinent toute responsabilite quant a un usage inapproprie.",
   "images": {
-    "principale": "images/52_Allium_porrum-001.png",
+    "principale": "/images/52_Allium_porrum-001.png",
     "galerie": [
-      "images/52_Allium_porrum-001.png",
-      "images/52_Allium_porrum-002.png"
+      "/images/52_Allium_porrum-001.png",
+      "/images/52_Allium_porrum-002.png"
     ]
   },
-  "source": "plantes_full.json"
+  "source": "CSV corrigé 2026-04-11"
 }

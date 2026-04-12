@@ -1,7 +1,7 @@
 {
   "id_plante": "plt-4206",
   "code": "plt-4206",
-  "no_espece": "",
+  "no_espece": "42.6",
   "no_famille": "42",
   "famille": "Lamiacées",
   "description_famille": "",
@@ -20,17 +20,17 @@
   },
   "usages": {
     "usages_ethnobotaniques": "Dans les Départements du Sud et de la Grand'Anse, O. gratissimum est documenté principalement pour ses usages médicinaux. Les populations locales utilisent les feuilles infusées en boisson chaude pour traiter les troubles digestifs, particulièrement les gaz intestinaux et les spasmes abdominaux. La préparation se fait généralement par infusion de feuilles fraîches ou séchées dans de l'eau chaude. Les bains thérapeutiques constituent un autre usage traditionnel majeur : les feuilles et tiges sont bouillies et l'eau de décoction est utilisée pour des bains de santé générale. Les données TRAMIL confirment son usage traditionnel en Haïti contre la grippe et les douleurs diverses (www.tramil.net). En Afrique, berceau d'origine de la plante, elle est largement consommée comme thé médicinal et antidiarrhéique.",
-    "systemes_concernes": "Respiratoire, Immunitaire, Hépatique"
+    "systemes_concernes": "O. gratissimum cible principalement les systèmes respiratoire et immunitaire selon la documentation scientifique disponible. Les effets thérapeutiques documentés incluent une action bénéfique sur la mémoire et la fonction hépatique. Les mécanismes d'action reposent sur l'activité synergique de ses huiles essentielles et polyphénols. L'eugénol induit un relâchement de la musculature lisse digestive et respiratoire, expliquant les effets antispasmodiques observés (Silva et al., 2005 — PMID: 15804480). Des études sur modèles animaux ont documenté une baisse modérée de la tension artérielle attribuée aux composés terpéniques (Offiah & Chikwendu, 1999 — PMID: 10815857). L'activité antimicrobienne, confirmée in vitro contre diverses souches pathogènes, résulte de l'action synergique de l'eugénol, du thymol et de l'acide rosmarinique sur les membranes bactériennes. Les effets antioxydants sont médiés par les flavonoïdes et les acides phénoliques qui neutralisent les radicaux libres."
   },
   "pharmacologie": {
     "molecules": "La saveur piquante caractéristique d'O. gratissimum résulte de sa richesse exceptionnelle en eugénol, un composé phénolique volatil qui représente jusqu'à 70% de son huile essentielle (Tchoumbougnang et al., 2009 — PMID: 19374513). Cette molécule, également présente dans le clou de girofle, confère à la plante son arôme distinctif et ses propriétés anesthésiantes locales. Les feuilles contiennent également des quantités appréciables de calcium, fer et potassium, ainsi que des traces de vitamines du complexe B, bien que les données nutritionnelles précises restent limitées pour cette espèce spécifique. Les principaux composés secondaires identifiés dans O. gratissimum comprennent : des huiles essentielles dominées par l'eugénol (50-80%), le thymol et l'ocimène, des flavonoïdes incluant la quercétine et l'apigénine, des acides phénoliques notamment l'acide rosmarinique et l'acide caféique, des tanins condensés et des saponines triterpéniques (Nakamura et al., 1999 — PMID: 10815854, Orafidiya et al., 2004 — PMID: 15588653). Des études récentes ont également identifié des diterpènes et des composés terpéniques mineurs contribuant au profil aromatique complexe de la plante. Ces molécules remplissent des fonctions de défense essentielles pour la plante. L'eugénol agit comme un puissant antimicrobien naturel, protégeant les tissus végétaux contre les champignons pathogènes et les bactéries. Le thymol renforce cette protection tout en exerçant un effet répulsif contre les herbivores. Les flavonoïdes participent à la protection contre les rayonnements UV et le stress oxydatif. Ces mêmes composés, une fois ingérés par l'humain, produisent les effets biologiques documentés : l'eugénol exerce des effets antispasmodiques sur la musculature lisse digestive, le thymol présente des propriétés antimicrobiennes systémiques, et l'acide rosmarinique contribue aux effets antioxydants observés. Les observations restent principalement issues d'études in vitro et sur modèles animaux.",
     "posologie": "Les infusions de feuilles d'O. gratissimum sont traditionnellement préparées à raison de 1,5 à 3 grammes de matériel végétal par tasse, consommées 1 à 2 fois par jour selon les pratiques documentées dans diverses régions tropicales (Tchoumbougnang et al., 2009 — PMID: 19374513). Cependant, ces posologies varient considérablement selon les traditions locales et aucun standard clinique uniforme n'a été établi. Les pratiques documentées dans le Sud et la Grand'Anse ne sont pas standardisées et nécessiteraient une harmonisation basée sur des études cliniques contrôlées."
   },
   "nutrition": {
-    "introduction": "Ocimum gratissimum L. (syn. Ocimum suave, Ocimum viride) est un arbuste aromatique exotique, commun dans les Départements du Sud et de la Grand'Anse. Il appartient à la famille des Lamiacées, une vaste famille tropicale et tempérée dominée par les herbes et arbustes aromatiques, reconnue mondialement pour ses genres culinaires emblématiques — menthe (Mentha), thym (Thymus), romarin (Rosmarinus) et basilic (Ocimum) — ainsi que pour ses genres médicinaux majeurs comme la lavande (Lavandula) et la sauge (Salvia). Sur le plan phytochimique, cette famille se caractérise par une richesse exceptionnelle en huiles essentielles volatiles (menthol, thymol, carvacrol, linalol, limonène), en flavonoïdes, en acide rosmarinique et en diterpènes, ciblant préférentiellement les systèmes respiratoire, digestif et nerveux. Il convient de signaler que certaines espèces de cette famille renferment des principes actifs très puissants ou potentiellement toxiques exigeant une préparation adéquate ou un dosage strict, bien que la plupart soient généralement sûres aux doses alimentaires et médicinales habituelles. Au sein de cette famille, Ocimum gratissimum fait partie du genre Ocimum, qui rassemble les basilics tropicaux et tempérés, tous caractérisés par leur forte teneur en eugénol et leurs propriétés antimicrobiennes remarquables. O. gratissimum est une plante médicinale majeure documentée dans le Sud et la Grand'Anse, utilisée principalement pour les troubles digestifs et dans les bains de santé."
+    "valeur": "Localement, O. gratissimum présente une valeur économique modeste mais stable, principalement liée à ses usages médicinaux traditionnels et à sa consommation comme thé aromatique. Au niveau international, la plante génère un intérêt commercial croissant pour la production d'huiles essentielles destinées aux industries pharmaceutique, cosmétique et agroalimentaire, l'eugénol étant particulièrement recherché comme principe actif naturel et comme précurseur de synthèse."
   },
   "toxicologie": {
-    "niveau": "",
+    "niveau": "🟢 Non toxique aux doses usuelles",
     "details": "O. gratissimum présente un profil de sécurité favorable aux doses traditionnelles d'usage. L'espèce est considérée comme non toxique dans les conditions normales d'utilisation médicinale et alimentaire. Cependant, la consommation excessive peut potentiellement induire une hypotension légère en raison des effets cardiovasculaires de l'eugénol, ainsi que des irritations gastriques chez les sujets sensibles. Une prudence particulière est recommandée pendant la grossesse car les données toxicologiques spécifiques restent incomplètes pour cette période physiologique particulière. L'usage des huiles essentielles pures est déconseillé sans dilution appropriée."
   },
   "conservation": {
@@ -38,8 +38,8 @@
     "valeur": "Localement, O. gratissimum présente une valeur économique modeste mais stable, principalement liée à ses usages médicinaux traditionnels et à sa consommation comme thé aromatique. Au niveau international, la plante génère un intérêt commercial croissant pour la production d'huiles essentielles destinées aux industries pharmaceutique, cosmétique et agroalimentaire, l'eugénol étant particulièrement recherché comme principe actif naturel et comme précurseur de synthèse."
   },
   "recherche": {
-    "nb_articles": "~2000 (estimation)",
     "details": "Avec environ 2000 publications indexées sur PubMed, O. gratissimum figure parmi les espèces du genre Ocimum les mieux documentées scientifiquement. Les recherches actuelles se concentrent sur l'optimisation de l'extraction des huiles essentielles, l'évaluation de l'activité antimicrobienne contre les souches multirésistantes, et les potentiels effets neuroprotecteurs suggérés par les usages traditionnels. Des essais cliniques contrôlés seraient nécessaires pour valider les nombreux effets thérapeutiques décrits in vitro et confirmer les posologies optimales pour une utilisation médicale standardisée.",
+    "nb_articles": "",
     "lien_pubmed": "",
     "lien_scholar": "",
     "lien_tramil": "https://www.tramil.net/en/plant/ocimum-gratissimum"
@@ -47,11 +47,11 @@
   "references": "Nakamura et al. (1999). Chemical composition and anti-inflammatory activity of essential oils from Ocimum gratissimum. Phytochemistry. PMID: 10815854. Orafidiya et al. (2004). Preliminary clinical tests on topical preparations of Ocimum gratissimum Linn leaf essential oil for the treatment of acne vulgaris. Clinical Drug Investigation. PMID: 15588653. Silva et al. (2005). Antispasmodic effects of essential oil from Ocimum gratissimum and its major constituent eugenol on guinea-pig ileum. Fundamental & Clinical Pharmacology. PMID: 15804480. Tchoumbougnang et al. (2009). Chemical composition and in vitro cytotoxic activity of essential oil from the leaves of Ocimum gratissimum L. growing in Cameroon. BMC Complementary and Alternative Medicine. PMID: 19374513. Offiah & Chikwendu (1999). Antidiarrhoeal effects of Ocimum gratissimum leaf extract in experimental animals. Journal of Ethnopharmacology. PMID: 10815857. POWO (2024). Plants of the World Online. Kew Science. https://powo.science.kew.org/ World Flora Online (2024). http://www.worldfloraonline.org/ TRAMIL (2024). Ocimum gratissimum. https://www.tramil.net/en/plant/ocimum-gratissimum",
   "aRetenir": "🟢 À retenir — Fobazen : est utilisee en medecine traditionnelle avec un bon profil de securite aux doses courantes. Les usages presentes reposent sur des donnees ethnobotaniques et scientifiques publiees, mais ne constituent pas une prescription. Consulter un professionnel de sante avant tout usage therapeutique. Les auteurs declinent toute responsabilite quant a un usage inapproprie.",
   "images": {
-    "principale": "images/426_Ocimum_gratissimum-001.jpg",
+    "principale": "/images/426_Ocimum_gratissimum-001.jpg",
     "galerie": [
-      "images/426_Ocimum_gratissimum-001.jpg",
-      "images/426_Ocimum_gratissimum-002.jpg"
+      "/images/426_Ocimum_gratissimum-001.jpg",
+      "/images/426_Ocimum_gratissimum-002.jpg"
     ]
   },
-  "source": "plantes_full.json"
+  "source": "CSV corrigé 2026-04-11"
 }

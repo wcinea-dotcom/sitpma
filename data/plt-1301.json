@@ -1,7 +1,7 @@
 {
   "id_plante": "plt-1301",
   "code": "plt-1301",
-  "no_espece": "",
+  "no_espece": "13.1",
   "no_famille": "13",
   "famille": "Arécacées",
   "description_famille": "Dominant les paysages tropicaux avec leurs silhouettes emblématiques, les Arécacées rassemblent environ 2600 espèces de palmiers réparties dans 181 genres mondiaux. Cette famille revêt une importance capitale dans les Départements du Sud et de la Grand'Anse, tant par ses usages alimentaires — notamment le cocotier (Cocos nucifera) et ses multiples dérivés — que par ses applications ornementales avec des espèces comme Caryota mitis et diverses autres variétés de palmiers décoratifs. Sur le plan médicinal, plusieurs genres sont valorisés : Cocos pour ses propriétés digestives et cutanées, Phoenix pour ses dattes nutritives, et Caryota pour ses usages diurétiques traditionnels. La signature phytochimique de cette famille se caractérise par une dominance d'acides gras saturés (acide laurique, palmitique), d'amidon, de fibres, ainsi que des flavonoïdes et composés phénoliques, ciblant préférentiellement les systèmes cutané, digestif et tégumentaire. Il convient de noter que certaines espèces du genre Caryota contiennent des oxalates de calcium irritants dans leurs tissus, exigeant des précautions particulières lors de leur manipulation et utilisation.",
@@ -20,17 +20,17 @@
   },
   "usages": {
     "usages_ethnobotaniques": "Dans les Départements du Sud et de la Grand'Anse, C. mitis est documenté principalement pour ses propriétés diurétiques, hypotenseuses et cicatrisantes. Les feuilles sont préparées en infusion pour leurs effets sur la fonction rénale, tandis que les fruits cuits sont parfois consommés en petites quantités malgré leur âcreté. Les racines entrent dans certaines préparations cicatrisantes externes, bien que cet usage reste marginal. L'usage ornemental domine largement, le palmier étant apprécié pour sa silhouette distinctive dans les jardins privés et espaces publics. En Asie, les fibres des feuilles sont traditionnellement utilisées pour la confection d'objets artisanaux.",
-    "systemes_concernes": "Urinaire"
+    "systemes_concernes": "Les usages traditionnels de C. mitis ciblent principalement le système urinaire, par ses effets diurétiques rapportés, et le système cutané pour ses applications cicatrisantes. La modulation de la fonction rénale et l'inhibition de l'α-glucosidase sont évoquées par analogie avec d'autres palmiers, mais restent non confirmées spécifiquement pour cette espèce. Les mécanismes d'action proposés reposeraient sur l'activité des flavonoïdes et saponines, compounds connus pour leurs effets sur la perméabilité capillaire et la fonction rénale. Cependant, l'absence d'études pharmacologiques spécifiques limite la compréhension précise de ces mécanismes."
   },
   "pharmacologie": {
     "molecules": "Les fruits de C. mitis développent leur couleur rouge-orange caractéristique grâce à des caroténoïdes, principalement le β-carotène et la lutéine, qui protègent les graines contre les dommages photo-oxydatifs. Leur saveur âcre résulte de la présence massive d'oxalates de calcium sous forme de raphides — des cristaux aciculaires qui constituent un mécanisme de défense particulièrement efficace contre l'herbivorie. Les tissus accumulent également des quantités significatives d'amidon dans les parties de réserve, du potassium (K) et magnésium (Mg) dans la sève, ainsi que des fibres structurales riches en lignine et cellulose. Les principaux composés secondaires identifiés dans C. mitis comprennent : des flavonoïdes (quercétine, kaempférol), des saponines triterpéniques, des tanins condensés, des terpénoïdes volatils et des traces d'alcaloïdes. Ces molécules confèrent au palmier ses propriétés biologiques potentielles, bien qu'aucune étude phytochimique approfondie ne soit spécifiquement publiée pour cette espèce (estimation basée sur le profil général des palmiers selon Pharmacia Pensoft). Ces composés remplissent des rôles de protection multiples pour le palmier. Les oxalates de calcium dissuadent efficacement les herbivores par leur action irritante immédiate. Les flavonoïdes protègent contre les rayonnements UV intenses des régions tropicales. Les saponines dans les racines peuvent jouer un rôle antimicrobien dans le sol. Ces mêmes composés, une fois utilisés par l'humain, produiraient les effets diurétiques et hypotenseurs rapportés dans la médecine populaire, bien que ces observations restent principalement issues de pratiques empiriques non validées cliniquement.",
     "posologie": "Aucune posologie cliniquement validée n'est disponible pour C. mitis. Les pratiques empiriques rapportent des infusions de feuilles à raison de 5-10 g/L et la consommation de fruits cuits en quantités limitées (100-200 g/jour), mais ces indications restent non standardisées et non validées scientifiquement. La variabilité dans la concentration des principes actifs et l'absence d'études de biodisponibilité rendent toute recommandation posologique prématurée."
   },
   "nutrition": {
-    "introduction": "Caryota mitis Lour. (syn. Caryota furfuracea) est un palmier exotique rare, documenté dans les Départements du Sud et de la Grand'Anse où il est principalement cultivé comme espèce ornementale. Il appartient à la famille des Arécacées, cette grande famille tropicale de palmiers aux riches usages alimentaires et décoratifs. Au sein de cette famille, il fait partie du genre Caryota, un groupe de palmiers asiatiques caractérisés par leurs feuilles bipennées distinctives et leurs fruits contenant des oxalates de calcium irritants. Son usage local combine fonction ornementale et applications médicinales traditionnelles, particulièrement comme diurétique, bien que sa rareté limite son emploi thérapeutique régulier."
+    "valeur": "La valeur économique de C. mitis reste principalement ornementale en Haïti, avec un marché limité pour l'horticulture décorative. Son potentiel d'exportation vers les marchés horticoles internationaux demeure inexploré. Les fibres des feuilles pourraient représenter une ressource artisanale d'appoint, mais cette valorisation n'est pas développée localement."
   },
   "toxicologie": {
-    "niveau": "",
+    "niveau": "🟡 Précautions requises",
     "details": "C. mitis présente une toxicité conditionnelle liée principalement aux oxalates de calcium contenus dans ses fruits et tissus végétatifs. L'ingestion de parties crues peut provoquer des irritations digestives, des douleurs buccales et pharyngées. Des précautions sont recommandées chez les personnes souffrant d'insuffisance rénale en raison de l'usage diurétique potentiel, ainsi que pendant la grossesse par manque de données de sécurité. La manipulation des feuilles peut occasionner des irritations cutanées chez certaines personnes sensibles."
   },
   "conservation": {
@@ -38,8 +38,8 @@
     "valeur": "La valeur économique de C. mitis reste principalement ornementale en Haïti, avec un marché limité pour l'horticulture décorative. Son potentiel d'exportation vers les marchés horticoles internationaux demeure inexploré. Les fibres des feuilles pourraient représenter une ressource artisanale d'appoint, mais cette valorisation n'est pas développée localement."
   },
   "recherche": {
-    "nb_articles": "~50 (estimation)",
     "details": "Environ 50 publications scientifiques traitent de C. mitis, principalement axées sur la taxonomie, l'horticulture et l'écologie. Les perspectives de recherche incluent l'évaluation phytochimique spécifique de l'espèce, l'étude de sa capacité d'adaptation aux conditions climatiques haïtiennes, et la validation des usages médicinaux traditionnels par des essais précliniques. L'investigation de son potentiel comme source de fibres naturelles pourrait également présenter un intérêt économique.",
+    "nb_articles": "",
     "lien_pubmed": "",
     "lien_scholar": "",
     "lien_tramil": ""
@@ -47,8 +47,16 @@
   "references": "Pharmacia Pensoft. Caryota mitis phytochemical profile and traditional uses. Estimation basée sur les données disponibles pour le genre Caryota. PFAF (Plants For A Future). Caryota mitis nutritional and usage database. World Flora Online. (2024). Caryota mitis Lour. http://www.worldfloraonline.org POWO (2024). Plants of the World Online. Caryota mitis. Royal Botanic Gardens, Kew.",
   "aRetenir": "🟡 À retenir — Palmis seleri : est une plante a toxicite conditionnelle documentee. Respecter imperativement les precautions indiquees. Ne jamais ingerer les parties toxiques sans encadrement medical. Ces informations sont destinees a l'enseignement et a la documentation. Les auteurs declinent toute responsabilite quant a un usage inapproprie.",
   "images": {
-    "principale": "",
-    "galerie": []
+    "principale": "/images/131_Caryota_mitis-001.jpg",
+    "galerie": [
+      "/images/131_Caryota_mitis-001.jpg",
+      "/images/131_Caryota_mitis-002.jpg",
+      "/images/131_Caryota_mitis-003.jpg",
+      "/images/131_Caryota_mitis-004.jpg",
+      "/images/131_Caryota_mitis-005.jpg",
+      "/images/131_Caryota_mitis-006.jpg",
+      "/images/131_Caryota_mitis-007.jpg"
+    ]
   },
-  "source": "plantes_full.json"
+  "source": "CSV corrigé 2026-04-11"
 }

@@ -1,7 +1,7 @@
 {
   "id_plante": "plt-0601",
   "code": "plt-0601",
-  "no_espece": "",
+  "no_espece": "6.1",
   "no_famille": "6",
   "famille": "Anacardiacées",
   "description_famille": "La famille des Anacardiacées regroupe environ 800 espèces réparties en 70 genres, principalement composées d'arbres tropicaux et subtropicaux, avec quelques arbustes. Cette famille cosmopolite des régions chaudes est particulièrement bien représentée en Amérique tropicale, en Afrique et en Asie du Sud-Est. Elle comprend de nombreuses espèces à haute valeur économique et alimentaire mondiale, notamment le cajou (Anacardium occidentale), la mangue (Mangifera indica), la pistache (Pistacia vera) et le sumac (Rhus). Les genres médicinaux principaux incluent Anacardium, Mangifera, Spondias et Schinus, largement utilisés pour leurs propriétés anti-inflammatoires, antimicrobiennes et astringentes. Sur le plan phytochimique, cette famille se distingue par une signature dominée par les tanins condensés, les acides anacardiques, les cardanols, les flavonoïdes et les terpènes, ciblant préférentiellement les systèmes digestif, tégumentaire et cutané. Une vigilance particulière s'impose car certains genres — notamment Comocladia et Metopium — produisent des résines urushiol extrêmement irritantes, pouvant provoquer des dermatites sévères similaires à celles du sumac vénéneux.",
@@ -20,17 +20,17 @@
   },
   "usages": {
     "usages_ethnobotaniques": "Les usages d'A. occidentale dans le Sud et la Grand'Anse sont documentés comme mixtes alimentaires et médicinaux. On boit le jus du fruit (pomme cajou) et on mange la noix. L'écorce soigne les dents, selon les données BRH. Les modes de préparation incluent le jus frais de la pomme cajou, consommé directement, et la décoction d'écorce pour les soins bucco-dentaires. Les feuilles sont également préparées en décoction pour traiter les infections, la fièvre, la diarrhée, les douleurs articulaires et les plaies selon les pratiques documentées. Les données TRAMIL mentionnent un usage en Martinique contre l'hypertension. Au Brésil, les applications s'étendent aux boissons énergétiques et aux propriétés antitumorales selon la littérature internationale. La noix grillée constitue un aliment de haute valeur nutritionnelle, riche en protéines et en lipides insaturés.",
-    "systemes_concernes": "Digestif, Cardiovasculaire, Immunitaire"
+    "systemes_concernes": "A. occidentale cible préférentiellement les systèmes digestif et cutané, avec des effets bénéfiques documentés pour le cœur et les dents selon les données BRH. Les acides anacardiques et composés apparentés montrent des effets antimicrobiens et anti-inflammatoires in vitro, tandis que les effets antioxydants contribuent à la protection cellulaire. Des études pharmacologiques ont confirmé l'activité antibactérienne des extraits de feuilles contre des pathogènes digestifs comme Escherichia coli et Salmonella (Akinpelu, 2001 — PMID: 11485418). L'activité anti-inflammatoire des tanins pourrait expliquer l'usage traditionnel contre les douleurs articulaires. Les propriétés astringentes de l'écorce justifient son utilisation pour les soins dentaires et les problèmes de gencives. La richesse en vitamine C de la pomme cajou soutient les fonctions immunitaires, tandis que les acides gras insaturés de la noix contribuent à la santé cardiovasculaire."
   },
   "pharmacologie": {
     "molecules": "Le cajou concentre dans ses tissus une chimie à double tranchant : des phénols spécialisés dans la coque qui protègent les graines avec une redoutable efficacité antimicrobienne, et des acides gras bénéfiques dans la noix qui en font l'un des fruits à coque les plus prisés au monde. Les principaux composés secondaires identifiés dans A. occidentale comprennent des phénols spécialisés (acides anacardiques, cardol, cardanols), des flavonoïdes, des tanins condensés, des saponines et des terpènes (Trevisan et al., 2006 — PMID: 16542786). Ces molécules remplissent des fonctions de défense précises. Les acides anacardiques de la coque exercent une puissante action antimicrobienne et insecticide, protégeant les graines contre les prédateurs. Des études ont démontré leur activité antibactérienne contre des souches pathogènes multirésistantes (Kubo et al., 1993 — DOI: 10.1021/jf00029a010). Les tanins des feuilles et de l'écorce confèrent une protection contre les herbivores par leur astringence et possèdent des propriétés anti-inflammatoires documentées. Les flavonoïdes contribuent à la protection contre les stress oxydatifs et les rayonnements UV. Sur le plan nutritionnel, la noix accumule des acides gras insaturés bénéfiques (acide oléique principalement) et des minéraux essentiels (magnésium, zinc, fer). La pomme cajou concentre des quantités exceptionnelles de vitamine C, dépassant souvent celles des agrumes.",
     "posologie": "Les posologies traditionnelles reposent sur des pratiques empiriques non standardisées. Pour les infusions de feuilles ou d'écorce, la posologie empirique documentée est de 5-10 g/L, 1-2 fois par jour. L'usage alimentaire des fruits et noix ne présente pas de restrictions particulières, la consommation étant libre selon les préférences individuelles. Cependant, ces dosages n'ont pas fait l'objet d'études cliniques standardisées et restent basés sur les traditions locales. Il convient de noter l'absence de données pharmacocinétiques précises pour optimiser les protocoles thérapeutiques."
   },
   "nutrition": {
-    "introduction": "Anacardium occidentale L. (syn. Cassuvium pomiferum) est un arbre exotique abondant, cultivé et naturalisé dans les Départements du Sud et de la Grand'Anse. Il appartient à la famille des Anacardiacées, une grande famille tropicale d'environ 800 espèces reconnue pour ses riches usages alimentaires et médicinaux mondiaux. Cette famille se distingue par une signature phytochimique dominée par les tanins condensés, les acides anacardiques, les cardanols et les flavonoïdes, ciblant préférentiellement les systèmes digestif, tégumentaire et cutané. Il convient de noter que certains membres de cette famille — notamment les genres Comocladia et Metopium présents en Haïti — renferment des résines urushiol extrêmement caustiques, exigeant une vigilance absolue quant aux confusions possibles. Au sein de cette famille, Anacardium occidentale constitue l'une des espèces économiquement les plus importantes au niveau mondial, tant pour ses fruits que pour ses noix. Dans les deux départements, cet arbre présente un usage mixte alimentaire et médicinal majeur."
+    "valeur": "La valeur économique d'A. occidentale est considérable tant localement qu'internationalement. Localement, elle fournit des fruits et des noix alimentaires essentiels aux populations rurales. Au niveau international, le cajou représente un marché agro-industriel de plusieurs milliards de dollars, l'amande étant l'une des noix les plus commercialisées mondialement après l'amande douce et les noisettes."
   },
   "toxicologie": {
-    "niveau": "",
+    "niveau": "🟡 Précautions requises",
     "details": "La prudence s'impose avec le latex de la coque, qui est irritant et peut provoquer des dermatites de contact sévères similaires à celles du sumac vénéneux. Ce liquide visqueux contient des concentrations élevées de cardol et d'acides anacardiques caustiques. Il faut éviter tout contact direct avec la peau et les muqueuses lors de la manipulation des noix crues. Les données de sécurité restent incomplètes concernant l'usage de préparations concentrées d'écorce et de feuilles pendant la grossesse et l'allaitement, imposant la prudence chez ces populations. Les fruits mûrs et les noix correctement grillées sont généralement considérés comme sûrs pour la consommation alimentaire."
   },
   "conservation": {
@@ -38,8 +38,8 @@
     "valeur": "La valeur économique d'A. occidentale est considérable tant localement qu'internationalement. Localement, elle fournit des fruits et des noix alimentaires essentiels aux populations rurales. Au niveau international, le cajou représente un marché agro-industriel de plusieurs milliards de dollars, l'amande étant l'une des noix les plus commercialisées mondialement après l'amande douce et les noisettes."
   },
   "recherche": {
-    "nb_articles": "~5000 (estimation)",
     "details": "Avec environ 5000 publications référencées sur PubMed, A. occidentale figure parmi les espèces végétales tropicales les mieux étudiées scientifiquement. Les recherches actuelles se concentrent sur l'optimisation des propriétés antioxydantes, antimicrobiennes et anti-inflammatoires des différentes parties de la plante. Les perspectives incluent le développement de nutraceutiques à base d'extraits standardisés et l'amélioration génétique des variétés pour optimiser les rendements et la résistance aux stress climatiques.",
+    "nb_articles": "",
     "lien_pubmed": "",
     "lien_scholar": "",
     "lien_tramil": ""
@@ -47,12 +47,12 @@
   "references": "Trevisan, M.T. et al. (2006). Characterization of alkyl phenols in cashew (Anacardium occidentale) products and assay of their antioxidant capacity. Food and Chemical Toxicology, 44(2), 188-197. PMID: 16542786. Kubo, I. et al. (1993). Antibacterial activity of anacardic acid and related compounds. Journal of Agricultural and Food Chemistry, 41(6), 1016-1019. DOI: 10.1021/jf00029a010. Akinpelu, D.A. (2001). Antimicrobial activity of Anacardium occidentale bark. Fitoterapia, 72(3), 286-287. PMID: 11485418.",
   "aRetenir": "🟡 À retenir — Ponm kajou/ nwa : est une plante a toxicite conditionnelle documentee. Respecter imperativement les precautions indiquees. Ne jamais ingerer les parties toxiques sans encadrement medical. Ces informations sont destinees a l'enseignement et a la documentation. Les auteurs declinent toute responsabilite quant a un usage inapproprie.",
   "images": {
-    "principale": "images/61_Anacardium_occidentale-001.jpg",
+    "principale": "/images/61_Anacardium_occidentale-001.jpg",
     "galerie": [
-      "images/61_Anacardium_occidentale-001.jpg",
-      "images/61_Anacardium_occidentale-002.jpg",
-      "images/61_Anacardium_occidentale-003.jpg"
+      "/images/61_Anacardium_occidentale-001.jpg",
+      "/images/61_Anacardium_occidentale-002.jpg",
+      "/images/61_Anacardium_occidentale-003.jpg"
     ]
   },
-  "source": "plantes_full.json"
+  "source": "CSV corrigé 2026-04-11"
 }

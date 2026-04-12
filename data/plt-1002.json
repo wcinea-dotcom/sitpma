@@ -1,7 +1,7 @@
 {
   "id_plante": "plt-1002",
   "code": "plt-1002",
-  "no_espece": "",
+  "no_espece": "10.2",
   "no_famille": "10",
   "famille": "Aracées",
   "description_famille": "",
@@ -20,17 +20,17 @@
   },
   "usages": {
     "usages_ethnobotaniques": "Documentée dans le Sud et la Grand'Anse, C. esculenta occupe une place centrale dans l'alimentation traditionnelle haïtienne. Le tubercule, localement appelé « mazonbèl », constitue l'un des principaux vivres énergétiques consommés bouilli, en purée ou incorporé dans le bouillon créole. Les feuilles jeunes sont préparées comme légume-feuille, toujours après cuisson prolongée pour éliminer les oxalates irritants. En médecine traditionnelle locale, des décoctions de tubercules cuits sont parfois employées comme diurétique léger et anti-inflammatoire doux, bien que ces usages demeurent secondaires par rapport à la vocation alimentaire. Dans la région des Caraïbes, TRAMIL documente son usage strictement alimentaire, confirmant le caractère principal de cette utilisation. À l'international, C. esculenta constitue un aliment de base en Polynésie (poi), en Afrique de l'Ouest et en Asie du Sud-Est.",
-    "systemes_concernes": ""
+    "systemes_concernes": "Le système principalement concerné est le système nutritionnel, C. esculenta fournissant une source d'énergie glucidique complexe particulièrement adaptée aux populations tropicales. Les mécanismes d'action reposent sur la libération progressive de glucose à partir de l'amidon lors de la digestion, favorisant une glycémie plus stable que les sucres rapides. Les fibres solubles pourraient contribuer à la régulation du transit intestinal et à la modulation de l'absorption des lipides. Les composés phénoliques et les caroténoïdes des feuilles exerceraient une activité antioxydante protectrice au niveau cellulaire. Des études préliminaires suggèrent un potentiel antidiabétique lié aux fibres et polyphénols, mais ces effets restent à valider cliniquement chez l'humain (Eleazu et al., 2018 — PMID: 29482145). Les propriétés diurétiques et anti-inflammatoires légères rapportées en médecine traditionnelle pourraient résulter de l'activité des flavonoïdes et du potassium, bien que les mécanismes précis demeurent hypothétiques."
   },
   "pharmacologie": {
     "molecules": "Le tubercule de C. esculenta se caractérise par une composition nutritionnelle remarquable dominée par l'amidon (70-80% du poids sec), polysaccharide complexe responsable de sa texture farineuse après cuisson et de sa valeur énergétique élevée. Les tubercules accumulent également des mucilages — polysaccharides hydrophiles conférant une texture légèrement gélatineuse — ainsi que des sucres simples en faibles concentrations. Sur le plan minéral, ils concentrent particulièrement le potassium (K), élément majeur pour l'équilibre hydrique cellulaire, ainsi que le magnésium (Mg), le calcium (Ca) et des traces de fer (Fe) et zinc (Zn). Les feuilles, quant à elles, synthétisent des caroténoïdes (β-carotène, lutéine) responsables de leurs nuances verdâtres et de leur activité provitaminique A, ainsi que de l'acide ascorbique (vitamine C) et des vitamines du complexe B. Les principaux composés secondaires identifiés dans C. esculenta comprennent : des flavonoïdes (quercétine, kaempférol, apigénine), des polyphénols totaux à activité antioxydante, des saponines triterpéniques, des tanins condensés, et surtout des raphides d'oxalate de calcium — cristaux microscopiques en forme d'aiguilles concentrés dans tous les tissus végétatifs (Perera et al., 2021 — https://doi.org/10.1016/j.foodchem.2021.129505). Ces oxalates représentent le système de défense principal de la plante contre l'herbivorie, causant des brûlures intenses au contact des muqueuses. Ces mêmes composés, une fois les oxalates neutralisés par la cuisson, produisent les effets biologiques documentés chez l'humain. Les polyphénols et flavonoïdes exercent une activité antioxydante protégeant contre le stress oxydatif. L'amidon complexe favorise une glycémie plus stable que les sucres simples. Les mucilages peuvent exercer un effet prébiotique modéré sur la flore intestinale. Les fibres solubles contribuent à la régulation du transit et potentiellement du cholestérol sanguin. Il convient de noter que ces observations restent principalement issues d'études in vitro et d'extrapolations nutritionnelles, les essais cliniques contrôlés sur C. esculenta demeurant limités.",
     "posologie": "Aucune posologie cliniquement validée n'est disponible pour les usages médicinaux de C. esculenta. En tant qu'aliment, la consommation habituelle varie de 100 à 200 grammes de tubercules cuits par jour, parfois davantage selon les besoins énergétiques individuels. Les feuilles sont consommées en quantités variables comme légume d'accompagnement, toujours après cuisson complète d'au moins 20 minutes pour neutraliser totalement les oxalates. Les décoctions traditionnelles ne font l'objet d'aucun standard posologique publié, leur préparation variant selon les praticiens locaux."
   },
   "nutrition": {
-    "introduction": "Colocasia esculenta (L.) Schott (syn. Arum esculentum, Colocasia antiquorum) est une herbe exotique commune dans les Départements du Sud et de la Grand'Anse. Elle appartient à la famille des Aracées, famille dominée par des herbes et des lianes tropicales d'une richesse remarquable tant sur le plan alimentaire que médicinal. Cette famille se caractérise par la présence systématique de raphides d'oxalate de calcium — cristaux aciculaires servant de défense contre l'herbivorie — ainsi que par des lectines, saponines et alcaloïdes aux concentrations variables selon les genres. Les genres à vocation alimentaire incluent Colocasia (taro), Xanthosoma (malanga) et Alocasia, tous consommés après cuisson obligatoire pour neutraliser les oxalates irritants. Les genres médicinaux comme Anthurium et Philodendron sont utilisés en applications externes, tandis que certains Monstera possèdent des fruits comestibles à maturité. Sur le plan phytochimique, cette famille exprime une signature dominée par les oxalates de calcium, l'amidon, les flavonoïdes et les saponines, ciblant préférentiellement les systèmes tégumentaire et musculo-squelettique. Il convient de souligner l'importance des précautions : toutes les espèces crues provoquent des brûlures buccales sévères, et les genres Philodendron et Alocasia demeurent toxiques même après cuisson, exigeant une identification botanique rigoureuse."
+    "valeur": "C. esculenta représente une culture vivrière majeure pour la sécurité alimentaire des départements du Sud et de la Grand'Anse. Sa production locale contribue à l'autonomie nutritionnelle des communautés rurales et génère des revenus pour les petits producteurs sur les marchés régionaux. À l'échelle internationale, le taro constitue un marché mondial en expansion, particulièrement vers les communautés diasporiques caribéennes et les consommateurs soucieux de diversification alimentaire."
   },
   "toxicologie": {
-    "niveau": "",
+    "niveau": "🟡 Précautions requises",
     "details": "L'ingestion de C. esculenta crue ou insuffisamment cuite provoque des brûlures intenses de la bouche, de la gorge et de l'œsophage dues aux raphides d'oxalate de calcium. Ces cristaux microscopiques pénètrent les muqueuses et libèrent de l'acide oxalique, causant inflammation, œdème et douleur persistante. La cuisson complète (20 minutes minimum) détruit ces cristaux et neutralise leur toxicité. Chez les individus prédisposés aux calculs rénaux, la consommation régulière d'importantes quantités pourrait théoriquement augmenter l'apport en oxalates, bien que cet effet reste débattu après cuisson appropriée. Les diabétiques doivent tenir compte de la charge glycémique modérée du tubercule cuit. Aucune interaction médicamenteuse majeure n'est rapportée."
   },
   "conservation": {
@@ -38,8 +38,8 @@
     "valeur": "C. esculenta représente une culture vivrière majeure pour la sécurité alimentaire des départements du Sud et de la Grand'Anse. Sa production locale contribue à l'autonomie nutritionnelle des communautés rurales et génère des revenus pour les petits producteurs sur les marchés régionaux. À l'échelle internationale, le taro constitue un marché mondial en expansion, particulièrement vers les communautés diasporiques caribéennes et les consommateurs soucieux de diversification alimentaire."
   },
   "recherche": {
-    "nb_articles": "",
     "details": "Avec près d'un millier de publications scientifiques référencées, C. esculenta fait l'objet d'un intérêt croissant pour ses propriétés nutritionnelles et son potentiel fonctionnel. Les recherches actuelles s'orientent vers l'optimisation de sa valeur nutritive, le développement de produits transformés et l'évaluation de ses composés bioactifs. Pour Haïti, les priorités incluent la caractérisation des variétés locales, l'amélioration des techniques de transformation et la valorisation des co-produits foliaires riches en micronutriments.",
+    "nb_articles": "",
     "lien_pubmed": "",
     "lien_scholar": "",
     "lien_tramil": ""
@@ -47,11 +47,11 @@
   "references": "Elementi et al. (2018). Comparative study of the phytochemical properties of extracts from Colocasia esculenta and Xanthosoma mafaffa. PMID: 29482145. Perera et al. (2021). Bioactive compounds and antioxidant activity of different cultivars of Colocasia esculenta (L.) Schott. Food Chemistry. https://doi.org/10.1016/j.foodchem.2021.129505. POWO (2026). Plants of the World Online. Kew Science. www.plantsoftheworldonline.org TRAMIL (2026). Pharmacopée végétale caribéenne. www.tramil.net World Flora Online (2026). www.worldfloraonline.org",
   "aRetenir": "🟡 À retenir — Mazonbèl : est une plante a toxicite conditionnelle documentee. Respecter imperativement les precautions indiquees. Ne jamais ingerer les parties toxiques sans encadrement medical. Ces informations sont destinees a l'enseignement et a la documentation. Les auteurs declinent toute responsabilite quant a un usage inapproprie.",
   "images": {
-    "principale": "images/102_Colocasia_esculenta-001.jpg",
+    "principale": "/images/102_Colocasia_esculenta-001.jpg",
     "galerie": [
-      "images/102_Colocasia_esculenta-001.jpg",
-      "images/102_Colocasia_esculenta-002.jpg"
+      "/images/102_Colocasia_esculenta-001.jpg",
+      "/images/102_Colocasia_esculenta-002.jpg"
     ]
   },
-  "source": "plantes_full.json"
+  "source": "CSV corrigé 2026-04-11"
 }

@@ -1,7 +1,7 @@
 {
   "id_plante": "plt-8101",
   "code": "plt-8101",
-  "no_espece": "",
+  "no_espece": "81.1",
   "no_famille": "81",
   "famille": "Sapindacées",
   "description_famille": "Dominantes dans les régions tropicales et subtropicales, les Sapindacées rassemblent environ 1 900 espèces réparties en 140 genres, principalement des arbres et arbustes. Cette famille tropicale présente une remarquable diversité d'usages : alimentaire avec les fruits sucrés du kenèp (Melicoccus bijugatus) et l'aki nutritif (Blighia sapida), médicinale avec les propriétés digestives et respiratoires de nombreuses espèces, et utilitaire avec les saponines du savonnier (Sapindus saponaria) traditionnellement utilisées comme détergent naturel. Sur le plan phytochimique, les Sapindacées se caractérisent par une signature dominée par les saponines triterpéniques — à l'origine de leurs propriétés moussantes —, les flavonoïdes, les tanins et les acides aminés non protéiques. Ces composés ciblent préférentiellement les systèmes digestif, respiratoire et hépatique. Une vigilance particulière s'impose cependant : le genre Blighia contient de l'hypoglycine A et B dans les fruits non mûrs, provoquant des intoxications mortelles, tandis que les fruits de Sapindus sont toxiques par voie orale.",
@@ -20,17 +20,17 @@
   },
   "usages": {
     "usages_ethnobotaniques": "Dans les Départements du Sud et de la Grand'Anse, A. racemosus est documenté pour ses usages médicinaux multiples : antidiarrhéique, anti-inflammatoire, analgésique, diurétique et antioxydant selon les traditions locales. L'usage spirituel de la plante est également mentionné pour faciliter la digestion. Les feuilles, fruits et racines sont préparés principalement en infusion. Selon TRAMIL, l'espèce est utilisée en Haïti contre les coliques, usage cohérent avec ses propriétés digestives traditionnelles. En Amérique centrale, elle sert aux troubles gastro-intestinaux, tandis qu'en Amérique du Sud, des études documentent son usage anti-ulcéreux (García-Rodríguez et al., 2012 — PMID: 22935123). Cette convergence d'usages à travers les Caraïbes et l'Amérique tropicale témoigne de l'efficacité reconnue de la plante dans les troubles digestifs.",
-    "systemes_concernes": "Digestif, Urinaire"
+    "systemes_concernes": "A. racemosus cible principalement les systèmes digestif et urinaire, avec des applications dans le domaine spirituel selon les données locales. Les tanins exercent une action astringente sur les muqueuses digestives, réduisant les sécrétions excessives responsables des diarrhées tout en présentant des propriétés antibactériennes contre les agents pathogènes intestinaux (Jiménez-Ferrer et al., 2005). Les saponines triterpéniques stimulent la diurèse par action sur les néphrons rénaux, favorisant l'élimination des déchets métaboliques. Les flavonoïdes, notamment la quercétine et le kaempférol, exercent des effets anti-inflammatoires en inhibant la production de médiateurs pro-inflammatoires comme les prostaglandines et les leucotriènes. Ces mécanismes, bien que plausibles sur la base des composés identifiés, nécessitent confirmation par des essais cliniques contrôlés chez l'humain."
   },
   "pharmacologie": {
     "molecules": "Les fruits d'A. racemosus doivent leur couleur rouge-pourpre caractéristique aux anthocyanes, des pigments flavonoïdes qui protègent les tissus contre les rayonnements UV et signalent la maturité aux animaux disperseurs. Leur saveur douce provient de sucres simples (glucose, fructose) et d'acides organiques faiblement concentrés, notamment l'acide citrique responsable de l'acidité légère. Les feuilles et racines concentrent des minéraux essentiels comme le potassium (K), le magnésium (Mg), le calcium (Ca) et le fer (Fe), ainsi que des fibres végétales et des protéines structurelles. Les principaux composés secondaires identifiés dans A. racemosus comprennent : des flavonoïdes (quercétine, kaempférol, rutine), des tanins condensés, des saponines triterpéniques, des coumarines et des triterpènes libres (Jiménez-Ferrer et al., 2005 — PMID: 16008117). Des études sur des espèces proches du genre Allophylus ont également mis en évidence la présence d'acides phénoliques et de composés stéroïdiens (Morel et al., 2017 — DOI: 10.1016/j.jep.2017.02.012). Ces molécules remplissent des fonctions de défense spécifiques pour l'arbuste dans son environnement tropical. Les tanins condensés des feuilles et de l'écorce protègent contre l'herbivorie en réduisant la digestibilité des protéines. Les saponines triterpéniques confèrent un goût amer qui dissuade les herbivores tout en présentant des propriétés antifongiques contre les pathogènes du sol. Les flavonoïdes des feuilles filtrent les rayonnements UV intenses des tropiques et renforcent la résistance aux stress hydriques. Ces mêmes composés, une fois ingérés par l'humain, produisent les effets biologiques documentés dans les usages traditionnels : les tanins exercent une action astringente bénéfique contre les diarrhées, les saponines stimulent la diurèse, et les flavonoïdes contribuent aux propriétés anti-inflammatoires et antioxydantes observées.",
     "posologie": "La posologie traditionnelle documentée consiste en une décoction préparée avec 5 à 10 g de matière végétale par litre d'eau, à prendre 1 à 2 fois par jour. Cependant, aucune posologie cliniquement validée par des essais randomisés n'est disponible pour A. racemosus dans la littérature scientifique indexée. Les pratiques traditionnelles documentées localement ne sont pas standardisées et peuvent varier selon les préparateurs et les régions."
   },
   "nutrition": {
-    "introduction": "Allophylus racemosus Sw. (syn. Schmidelia racemosa) est un arbuste natif commun des Départements du Sud et de la Grand'Anse d'Haïti. Il appartient à la famille des Sapindacées, une grande famille tropicale reconnue pour ses usages alimentaires, médicinaux et utilitaires. Au sein de cette famille, il fait partie du genre Allophylus, qui regroupe environ 200 espèces d'arbustes et petits arbres largement distribués dans les régions tropicales. Le nom créole « Twa pawòl » évoque peut-être les trois folioles caractéristiques de ses feuilles composées. Dans le contexte haïtien, A. racemosus occupe une place importante dans la pharmacopée traditionnelle locale, où il est principalement utilisé pour ses propriétés digestives, anti-inflammatoires et spirituelles."
+    "valeur": "La valeur économique d'A. racemosus reste principalement locale, centrée sur ses usages médicinaux traditionnels. La plante ne fait pas l'objet d'un commerce international significatif. Son potentiel de valorisation pourrait résider dans le développement de phytomédicaments standardisés, particulièrement pour les troubles digestifs, sous réserve de validation clinique approfondie."
   },
   "toxicologie": {
-    "niveau": "",
+    "niveau": "🟢 Non toxique aux doses usuelles",
     "details": "A. racemosus présente un profil de sécurité favorable selon les données disponibles. La plante est classée comme non toxique aux doses traditionnelles. Cependant, des précautions s'imposent en cas d'usage prolongé ou intensif : les propriétés diurétiques peuvent provoquer une hypokaliémie par perte excessive de potassium, particulièrement chez les personnes présentant une insuffisance rénale ou des troubles cardiaques. Les propriétés laxatives potentielles peuvent occasionner des diarrhées en cas de surdosage. Une prudence particulière est recommandée pendant la grossesse et l'allaitement, faute de données spécifiques sur l'innocuité dans ces conditions physiologiques particulières."
   },
   "conservation": {
@@ -38,8 +38,8 @@
     "valeur": "La valeur économique d'A. racemosus reste principalement locale, centrée sur ses usages médicinaux traditionnels. La plante ne fait pas l'objet d'un commerce international significatif. Son potentiel de valorisation pourrait résider dans le développement de phytomédicaments standardisés, particulièrement pour les troubles digestifs, sous réserve de validation clinique approfondie."
   },
   "recherche": {
-    "nb_articles": "~20 (estimation)",
     "details": "Les recherches sur A. racemosus demeurent limitées avec environ 20 publications scientifiques spécifiques à l'espèce. Les études récentes se concentrent sur la caractérisation phytochimique et l'évaluation des activités biologiques in vitro. Des recherches prioritaires sont nécessaires dans plusieurs domaines : validation clinique des usages traditionnels par des essais randomisés contrôlés, standardisation des extraits et des posologies, évaluation de l'innocuité à long terme, et développement de protocoles de culture durable pour répondre à une demande croissante.",
+    "nb_articles": "",
     "lien_pubmed": "",
     "lien_scholar": "",
     "lien_tramil": ""
@@ -47,8 +47,14 @@
   "references": "Jiménez-Ferrer, E. et al. (2005). Antidiarrhoeal activity of Allophylus racemosus in mice. Journal of Ethnopharmacology. PMID: 16008117. Morel, C. et al. (2017). Phytochemical analysis and biological activities of Allophylus species. Journal of Ethnopharmacology. DOI: 10.1016/j.jep.2017.02.012. García-Rodríguez, R. et al. (2012). Anti-ulcer properties of Allophylus racemosus in South American traditional medicine. Phytotherapy Research. PMID: 22935123. TRAMIL. (2024). Allophylus racemosus — Caribbean traditional uses. www.tramil.net POWO. (2024). Allophylus racemosus Sw. Plants of the World Online, Kew Science.",
   "aRetenir": "🟢 À retenir — Twa pawòl : est utilisee en medecine traditionnelle avec un bon profil de securite aux doses courantes. Les usages presentes reposent sur des donnees ethnobotaniques et scientifiques publiees, mais ne constituent pas une prescription. Consulter un professionnel de sante avant tout usage therapeutique. Les auteurs declinent toute responsabilite quant a un usage inapproprie.",
   "images": {
-    "principale": "",
-    "galerie": []
+    "principale": "/images/811_Allophylus_racemosus-001.jpg",
+    "galerie": [
+      "/images/811_Allophylus_racemosus-001.jpg",
+      "/images/811_Allophylus_racemosus-002.jpg",
+      "/images/811_Allophylus_racemosus-003.jpg",
+      "/images/811_Allophylus_racemosus-004.jpg",
+      "/images/811_Allophylus_racemosus-005.jpg"
+    ]
   },
-  "source": "plantes_full.json"
+  "source": "CSV corrigé 2026-04-11"
 }

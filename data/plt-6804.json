@@ -1,7 +1,7 @@
 {
   "id_plante": "plt-6804",
   "code": "plt-6804",
-  "no_espece": "",
+  "no_espece": "68.4",
   "no_famille": "68",
   "famille": "Poacées",
   "description_famille": "",
@@ -20,17 +20,17 @@
   },
   "usages": {
     "usages_ethnobotaniques": "Dans les Départements du Sud et de la Grand'Anse, la canne à sucre possède des usages alimentaires et médicinaux documentés. Les tiges fraîches sont consommées directement par mastication pour extraire le jus sucré, constituant une source d'énergie rapide appréciée des travailleurs agricoles. Le jus pressé sert de boisson rafraîchissante et énergisante. Sur le plan médicinal traditionnel, le jus frais est utilisé comme \"antianémique\" et énergisant pour les personnes affaiblies, ainsi que comme diurétique léger. Les préparations consistent principalement en pressage des tiges fraîches pour obtenir le jus, consommé immédiatement. Selon TRAMIL, en Haïti, la canne à sucre est traditionnellement utilisée contre la faiblesse générale. Le jus sert également à la fabrication artisanale du rhum, boisson emblématique des deux départements.",
-    "systemes_concernes": ""
+    "systemes_concernes": "Les usages traditionnels de S. officinarum ciblent principalement le système nutritionnel et énergétique. Le mécanisme d'action principal repose sur l'apport énergétique rapide via le saccharose, rapidement métabolisé en glucose et fructose. Les polyphénols présents contribuent à une activité antioxydante légère et à une protection vasculaire modeste (Singh et al., 2015 — PMID: 25766448). L'effet diurétique léger s'explique par la teneur en potassium du jus frais. Les policosanols, bien qu'en faibles concentrations dans le jus, pourraient contribuer à une activité hypocholestérolémiante modeste, comme documenté dans des études cubaines (Mas et al., 1999 — PMID: 10548520). Ces mécanismes restent cependant modestes comparés aux effets nutritionnels dominants de la plante."
   },
   "pharmacologie": {
     "molecules": "La canne à sucre se caractérise avant tout par sa capacité exceptionnelle à photosynthétiser et concentrer le saccharose dans ses tiges, atteignant des concentrations de 15 à 20% du poids frais. Cette accumulation massive de sucre s'accompagne de la synthèse de policosanols — des alcools gras à longue chaîne (octacosanol, triacontanol) concentrés dans la cire épicuticulaire des tiges, qui confèrent à la plante une protection contre la déshydratation et les pathogènes (Menendez et al., 2005 — PMID: 15898103). Le jus frais renferme également des quantités appréciables de potassium (150-200 mg/100mL), de fer et de magnésium, ainsi que des traces de vitamines du groupe B et de vitamine C. Les principaux composés secondaires identifiés dans S. officinarum comprennent : des flavonoïdes (orientine, isoorientine, vitexine), des acides phénoliques (acide férulique, acide para-coumarique, acide caféique), des saponines triterpéniques, des tanins condensés et des caroténoïdes en faibles concentrations (Duarte-Almeida et al., 2006 — PMID: 16448177). Les anthocyanes sont responsables de la coloration rouge-pourpre de certaines variétés. Ces molécules remplissent des fonctions de défense essentielles pour la plante. Les policosanols de la cire cuticulaire protègent contre la perte d'eau et les infections fongiques. Les flavonoïdes et acides phénoliques localisés dans l'épiderme et les feuilles protègent contre les rayonnements UV intenses des tropiques et exercent une activité antimicrobienne contre les pathogènes (Zhao et al., 2007 — PMID: 17263651). La silice cristallisée dans les feuilles décourage l'herbivorie. Ces mêmes composés, une fois ingérés par l'humain, produisent les effets biologiques documentés : les policosanols contribuent à une activité hypocholestérolémiante modeste, tandis que les polyphénols exercent une activité antioxydante et anti-inflammatoire légère, bien que ces observations restent principalement issues d'études in vitro.",
     "posologie": "Selon les données disponibles, le jus frais de canne à sucre peut être consommé à raison de 100-200 mL par jour comme boisson énergisante traditionnelle. Cependant, aucune posologie médicale standardisée n'est validée cliniquement pour les usages thérapeutiques. Les pratiques traditionnelles varient selon les besoins énergétiques individuels et ne suivent pas de protocoles standardisés."
   },
   "nutrition": {
-    "introduction": "Saccharum officinarum L. (syn. Saccharum chinense) est une herbe géante exotique, largement cultivée dans les Départements du Sud et de la Grand'Anse. Elle appartient à la famille des Poacées, une immense famille botanique de plus de 12 000 espèces dominée par les herbes, reconnue pour sa valeur alimentaire fondamentale — incluant le riz (Oryza sativa), le maïs (Zea mays) et le petit mil (Pennisetum glaucum) cultivés en Haïti. Cette famille se distingue par ses genres aromatiques comme la citronnelle (Cymbopogon citratus) et le vétiver (Chrysopogon zizanioides), ainsi que par sa signature phytochimique riche en amidon, silice, acides phénoliques et huiles essentielles volatiles. Les Poacées ciblent préférentiellement les systèmes nerveux, cutané et respiratoire, bien que certaines espèces — notamment les jeunes pousses de sorgho — renferment des cyanogènes potentiellement toxiques. Au sein de cette famille, Saccharum officinarum fait partie du genre Saccharum, qui regroupe les cannes à sucre cultivées et sauvages, toutes caractérisées par leur capacité exceptionnelle à accumuler le saccharose dans leurs tiges. La canne à sucre constitue la source de sucre la plus importante d'Haïti et l'une des cultures économiques traditionnelles des deux départements."
+    "valeur": "La canne à sucre possède une valeur économique considérable tant localement qu'internationalement. Dans les deux départements, elle alimente l'industrie sucrière artisanale et la production de rhum, secteurs économiques traditionnels. À l'échelle internationale, S. officinarum représente une industrie de plusieurs milliards de dollars, incluant la production de sucre, bioéthanol et nombreux sous-produits industriels. Au Brésil, elle constitue la principale source de bioéthanol carburant."
   },
   "toxicologie": {
-    "niveau": "",
+    "niveau": "🟢 Non toxique aux doses usuelles",
     "details": "S. officinarum est considérée comme non toxique aux doses alimentaires normales. Les principales précautions concernent la teneur élevée en sucres : risque d'hyperglycémie, de prise de poids et de caries dentaires en cas de consommation excessive. La plante est contre-indiquée chez les diabétiques non contrôlés en raison de son index glycémique élevé. Aucune interaction médicamenteuse majeure n'est documentée, mais la surveillance glycémique est recommandée chez les personnes à risque métabolique."
   },
   "conservation": {
@@ -38,8 +38,8 @@
     "valeur": "La canne à sucre possède une valeur économique considérable tant localement qu'internationalement. Dans les deux départements, elle alimente l'industrie sucrière artisanale et la production de rhum, secteurs économiques traditionnels. À l'échelle internationale, S. officinarum représente une industrie de plusieurs milliards de dollars, incluant la production de sucre, bioéthanol et nombreux sous-produits industriels. Au Brésil, elle constitue la principale source de bioéthanol carburant."
   },
   "recherche": {
-    "nb_articles": "~2000 (estimation)",
     "details": "Avec environ 2000 publications référencées sur PubMed, S. officinarum fait l'objet de recherches intensives portant sur l'amélioration variétale, la production de biocarburants, et les propriétés nutraceutiques des policosanols. Les recherches cubaines sur les policosanols de canne à sucre ont ouvert des perspectives thérapeutiques dans la gestion du cholestérol. Les études futures pourraient explorer le potentiel antioxydant des polyphénols de canne et optimiser les procédés d'extraction des composés bioactifs.",
+    "nb_articles": "",
     "lien_pubmed": "",
     "lien_scholar": "",
     "lien_tramil": "https://www.tramil.net/en/plant/saccharum-officinarum"
@@ -47,13 +47,13 @@
   "references": "Menendez R et al. (2005). Effects of policosanol treatment on the susceptibility of low density lipoprotein (LDL) isolated from healthy volunteers to oxidative modification in vitro. Br J Clin Pharmacol. PMID: 15898103. Duarte-Almeida JM et al. (2006). Antioxidant activity of phenolics compounds from sugar cane (Saccharum officinarum L.) juice. Plant Foods Hum Nutr. PMID: 16448177. Zhao D et al. (2007). Antioxidant properties of two new chromone glycosides from sugar cane (Saccharum officinarum L.). J Agric Food Chem. PMID: 17263651. Singh A et al. (2015). Health benefits of sugarcane juice: A review. J Food Sci Technol. PMID: 25766448. Mas R et al. (1999). Effects of policosanol in patients with type II hypercholesterolemia and additional coronary risk factors. Clin Pharmacol Ther. PMID: 10548520. POWO (2024). Plants of the World Online. Kew Science. https://powo.science.kew.org/ TRAMIL (2024). Saccharum officinarum. https://www.tramil.net/en/plant/saccharum-officinarum",
   "aRetenir": "🟢 À retenir — Kann : est avant tout un aliment — sa valeur nutritionnelle prime sur ses usages medicinaux. Consommee correctement preparee, elle est sans danger documente. Ses proprietes therapeutiques, reelles mais secondaires, ne remplacent pas un suivi medical. Les auteurs declinent toute responsabilite quant a un usage inapproprie.",
   "images": {
-    "principale": "images/674_Saccharum_officinarum-003.jpg",
+    "principale": "/images/674_Saccharum_officinarum-003.jpg",
     "galerie": [
-      "images/674_Saccharum_officinarum-003.jpg",
-      "images/674_Saccharum_officinarum-004.jpg",
-      "images/674_Saccharum_officinarum-005.jpg",
-      "images/674_Saccharum_officinarum-006.jpg"
+      "/images/674_Saccharum_officinarum-003.jpg",
+      "/images/674_Saccharum_officinarum-004.jpg",
+      "/images/674_Saccharum_officinarum-005.jpg",
+      "/images/674_Saccharum_officinarum-006.jpg"
     ]
   },
-  "source": "plantes_full.json"
+  "source": "CSV corrigé 2026-04-11"
 }

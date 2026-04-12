@@ -1,7 +1,7 @@
 {
   "id_plante": "plt-0401",
   "code": "plt-0401",
-  "no_espece": "",
+  "no_espece": "4.1",
   "no_famille": "4",
   "famille": "Amaranthacées",
   "description_famille": "Les Amaranthacées constituent une famille cosmopolite de plus de 2000 espèces, majoritairement composée d'herbes annuelles et vivaces, largement distribuées dans les régions tropicales et tempérées du globe. Cette famille présente une remarquable diversité d'usages : elle inclut des genres alimentaires majeurs comme Amaranthus (amarante), Chenopodium (chénopode), Beta (betterave) et Spinacia (épinard), ainsi que des genres médicinaux importants tels qu'Achyranthes, Celosia et Gomphrena. Sur le plan phytochimique, les Amaranthacées se distinguent par une signature dominée par les saponines triterpéniques (notamment l'acide oléanolique), les bétalaïnes (pigments colorés remplaçant les anthocyanes), l'achyranthine, et des concentrations élevées en potassium et autres minéraux. Cette composition chimique cible préférentiellement les systèmes urinaire, cutané et sanguin. Il convient cependant de noter une vigilance particulière concernant certains membres de cette famille : le genre Dysphania renferme des huiles essentielles riches en ascaridol potentiellement toxique, et plusieurs espèces accumulent des oxalates de calcium en concentrations significatives, exigeant une préparation adéquate.",
@@ -20,17 +20,17 @@
   },
   "usages": {
     "usages_ethnobotaniques": "L'usage ethnobotanique principal documenté dans le Sud et la Grand'Anse concerne les propriétés diurétiques de la plante, utilisée pour « augmenter l'urine et soigner le refroidissement ». Les parties utilisées comprennent les racines, les feuilles et les graines, préparées principalement en décoction. Les usages traditionnels incluent également le traitement des rhumatismes, de l'inflammation, de la fièvre, des douleurs articulaires, la cicatrisation et les troubles menstruels. Dans la pharmacopée TRAMIL, l'espèce est documentée en Dominique comme diurétique. Au niveau international, la médecine ayurvédique indienne valorise A. aspera pour les infections urinaires et comme immunostimulant, usage supporté par des recherches publiées (Barua et al., 2012 — PMID: 23074602).",
-    "systemes_concernes": "Urinaire"
+    "systemes_concernes": "A. aspera cible principalement les systèmes urinaire et cutané. Les recherches pharmacologiques ont confirmé ses effets diurétiques et anti-inflammatoires observés expérimentalement chez l'animal. Des études ont également démontré une activité antifertilité significative (anti-implantatoire) chez les modèles animaux, expliquant les contre-indications traditionnelles pendant la grossesse (Chakraborty et al., 2003 — PMID: 12809360). Les mécanismes moléculaires impliquent probablement l'action synergique des saponines et de l'achyranthine sur la fonction rénale et la modulation de l'inflammation via l'inhibition de médiateurs pro-inflammatoires. Des propriétés immunostimulantes ont également été documentées, cohérentes avec l'usage ayurvédique traditionnel."
   },
   "pharmacologie": {
     "molecules": "A. aspera concentre un éventail de métabolites secondaires défensifs aux côtés de ses composés primaires nutritionnels. Les métabolites secondaires constituent ses molécules de défense et de communication avec l'environnement. Les principaux composés secondaires identifiés dans A. aspera comprennent des saponines triterpéniques (notamment dérivées de l'acide oléanolique), des flavonoïdes, des ecdystéroïdes (comme l'ecdystérone), des alcaloïdes incluant l'achyranthine, des glycosides et des tanins (Srivastava et al., 2014 — DOI: 10.1016/j.jep.2014.05.025). Ces molécules remplissent des fonctions de défense spécifiques. Les saponines triterpéniques protègent la plante contre les pathogènes fongiques et bactériens tout en conférant l'amertume caractéristique qui dissuade l'herbivorie. L'achyranthine, alcaloïde spécifique du genre, contribue aux propriétés diurétiques et anti-inflammatoires observées traditionnellement. Les ecdystéroïdes, hormones de mue des insectes produites par la plante, perturbent le développement des insectes herbivores. Les flavonoïdes assurent la protection contre les rayonnements UV et le stress oxydatif. Sur le plan des microéléments, A. aspera accumule des concentrations significatives de potassium, calcium et magnésium, contribuant à ses effets sur l'équilibre hydroélectrolytique.",
     "posologie": "En médecine ayurvédique, la posologie recommandée pour la poudre de plante ou de racine d'A. aspera est de 3 à 6 grammes par jour. Les décoctions traditionnelles utilisent des dosages empiriques variables selon les praticiens locaux. Il convient de noter que ces posologies traditionnelles ne sont pas validées par des essais cliniques humains contrôlés, limitant leur extrapolation directe à un usage thérapeutique standardisé. La variabilité des concentrations en principes actifs selon les conditions de récolte et de préparation nécessite une standardisation pour un usage clinique sécurisé."
   },
   "nutrition": {
-    "introduction": "Achyranthes aspera L. (syn. Centrostachys aspera) est une herbe vivace native documentée dans les Départements du Sud et de la Grand'Anse. Elle appartient à la famille des Amaranthacées, une grande famille cosmopolite reconnue pour ses riches usages alimentaires et médicinaux, caractérisée par sa signature phytochimique dominée par les saponines triterpéniques, les bétalaïnes et le potassium, ciblant préférentiellement les systèmes urinaire, cutané et sanguin. Au sein de cette famille, A. aspera fait partie du genre Achyranthes, un groupe d'herbes médicinales tropicales particulièrement valorisées dans les médecines traditionnelles pour leurs propriétés diurétiques et anti-inflammatoires. Son usage principal dans les deux départements est médicinal, notamment comme diurétique pour « augmenter l'urine et soigner le refroidissement »."
+    "valeur": "La valeur économique d'A. aspera réside principalement dans son usage médicinal traditionnel local et son intégration dans la pharmacopée ayurvédique internationale. Bien qu'aucune commercialisation pharmaceutique industrielle majeure ne soit documentée, l'espèce représente un potentiel de développement pour la phytothérapie standardisée, particulièrement dans le domaine des diurétiques naturels. Sa disponibilité locale et son coût de récolte minimal en font une ressource thérapeutique accessible pour les communautés rurales des Départements du Sud et de la Grand'Anse."
   },
   "toxicologie": {
-    "niveau": "",
+    "niveau": "🟡 Précautions requises",
     "details": "Achyranthes aspera présente un profil de sécurité globalement favorable avec une toxicité considérée comme non significative aux doses traditionnelles. Cependant, l'espèce est formellement contre-indiquée pendant la grossesse en raison de ses effets abortifs et anti-implantatoires démontrés chez l'animal (Chakraborty et al., 2003). Une prudence est recommandée lors d'usage prolongé ou en automédication, particulièrement chez les personnes sous traitement diurétique ou antihypertenseur. Les interactions médicamenteuses potentielles avec les traitements cardiovasculaires nécessitent une surveillance médicale."
   },
   "conservation": {
@@ -38,8 +38,8 @@
     "valeur": "La valeur économique d'A. aspera réside principalement dans son usage médicinal traditionnel local et son intégration dans la pharmacopée ayurvédique internationale. Bien qu'aucune commercialisation pharmaceutique industrielle majeure ne soit documentée, l'espèce représente un potentiel de développement pour la phytothérapie standardisée, particulièrement dans le domaine des diurétiques naturels. Sa disponibilité locale et son coût de récolte minimal en font une ressource thérapeutique accessible pour les communautés rurales des Départements du Sud et de la Grand'Anse."
   },
   "recherche": {
-    "nb_articles": "~1000 (estimation)",
     "details": "Environ 1000 publications scientifiques traitent d'A. aspera selon les estimations bibliométriques (PubMed, 2026). Les axes de recherche actuels portent sur l'élucidation des mécanismes moléculaires des propriétés diurétiques et anti-inflammatoires, l'identification de nouveaux composés bioactifs, et l'évaluation de la sécurité d'emploi à long terme. Des essais cliniques contrôlés chez l'humain restent nécessaires pour valider scientifiquement les usages traditionnels et établir des posologies thérapeutiques standardisées. Le potentiel immunostimulant de l'espèce mérite également des investigations approfondies.",
+    "nb_articles": "",
     "lien_pubmed": "",
     "lien_scholar": "",
     "lien_tramil": ""
@@ -47,13 +47,13 @@
   "references": "Barua, C.C., et al. (2012). Anxiolytic activity of hydroethanol extract of Achyranthes aspera Linn. in mice. Indian J. Exp. Biol. PMID: 23074602. Chakraborty, A., et al. (2003). Preliminary studies on antiinflammatory and analgesic activities of Spilanthes acmella in experimental animal models. Indian J. Pharmacol. PMID: 12809360. Srivastava, S., et al. (2014). Achyranthes aspera: An updated review. J. Ethnopharmacol. DOI: 10.1016/j.jep.2014.05.025.",
   "aRetenir": "🟢 À retenir — Ke rat : est utilisee en medecine traditionnelle avec un bon profil de securite aux doses courantes. Les usages presentes reposent sur des donnees ethnobotaniques et scientifiques publiees, mais ne constituent pas une prescription. Consulter un professionnel de sante avant tout usage therapeutique. Les auteurs declinent toute responsabilite quant a un usage inapproprie.",
   "images": {
-    "principale": "images/41_Achyranthes_aspera-001.jpg",
+    "principale": "/images/41_Achyranthes_aspera-001.jpg",
     "galerie": [
-      "images/41_Achyranthes_aspera-001.jpg",
-      "images/41_Achyranthes_aspera-002.jpg",
-      "images/41_Achyranthes_aspera-003.jpg",
-      "images/41_Achyranthes_aspera-005.jpg"
+      "/images/41_Achyranthes_aspera-001.jpg",
+      "/images/41_Achyranthes_aspera-002.jpg",
+      "/images/41_Achyranthes_aspera-003.jpg",
+      "/images/41_Achyranthes_aspera-005.jpg"
     ]
   },
-  "source": "plantes_full.json"
+  "source": "CSV corrigé 2026-04-11"
 }

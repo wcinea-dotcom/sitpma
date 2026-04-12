@@ -1,7 +1,7 @@
 {
   "id_plante": "plt-1102",
   "code": "plt-1102",
-  "no_espece": "",
+  "no_espece": "11.2",
   "no_famille": "11",
   "famille": "Araliacées",
   "description_famille": "",
@@ -20,26 +20,26 @@
   },
   "usages": {
     "usages_ethnobotaniques": "Dans les Départements du Sud et de la Grand'Anse, P. pinnata est documenté principalement comme plante de décoration et pour des besoins mystiques. Les feuilles constituent la partie la plus utilisée, récoltées de préférence le matin lorsque leur teneur en principes actifs est optimale. Le mode de préparation traditionnel consiste en une infusion de feuilles fraîches ou séchées dans de l'eau chaude. Les racines, bien que moins fréquemment utilisées, sont parfois incorporées dans des préparations plus complexes pour des usages spirituels spécifiques. L'usage ornemental domine largement, la plante étant appréciée pour son feuillage persistant et décoratif dans les jardins de montagne. Dans les pharmacopées asiatiques traditionnelles, l'espèce est reconnue comme tonique général et adaptogène, propriétés qui commencent à susciter l'intérêt de la recherche moderne.",
-    "systemes_concernes": "Nerveux"
+    "systemes_concernes": "Selon les données ethnobotaniques disponibles, P. pinnata ciblerait principalement les systèmes nerveux et spirituel. En tant qu'adaptogène documenté dans les pharmacopées asiatiques, l'espèce pourrait exercer des effets modulateurs sur la réponse au stress et l'équilibre nerveux général. Les mécanismes d'action proposés incluent une vasodilatation périphérique et une inhibition de marqueurs inflammatoires, effets rapportés pour d'autres espèces du genre Polyscias mais restant hypothétiques pour P. pinnata précisément. Les saponines triterpéniques pourraient agir sur les récepteurs membranaires impliqués dans la régulation de la pression artérielle, expliquant les propriétés hypotensives traditionnellement attribuées à la plante. Les flavonoïdes contribueraient aux effets antioxydants et neuroprotecteurs potentiels. Ces observations demeurent principalement issues d'études in vitro et nécessitent des validations cliniques rigoureuses."
   },
   "pharmacologie": {
     "molecules": "Ce qui rend P. pinnata particulièrement remarquable sur le plan chimique, c'est sa richesse en saponines triterpéniques, molécules responsables de sa saveur amère caractéristique et de ses propriétés moussantes lorsque les feuilles sont agitées dans l'eau. Ces saponines, notamment les polysciacosides spécifiques au genre, confèrent aux tissus foliaires leur texture coriace et leur résistance aux herbivores. La plante accumule également du calcium et des vitamines dans ses feuilles persistantes, adaptation typique des arbustes de haute altitude qui doivent optimiser leur métabolisme face aux conditions climatiques rigoureuses. Les principaux composés secondaires identifiés dans P. pinnata comprennent : des saponines triterpéniques (polysciacosides, acide oléanolique), des flavonoïdes (quercétine, kaempférol), des tanins condensés, des terpénoïdes volatils et des coumarines (Pharmacia Pensoft, données compilées). Ces molécules forment un arsenal chimique défensif sophistiqué contre les pathogènes fongiques tropicaux et les insectes phytophages. Ces mêmes composés, une fois ingérés par l'humain, produisent les effets biologiques documentés dans les pharmacopées traditionnelles asiatiques. Les saponines triterpéniques exerceraient un effet vasodilatateur et anti-inflammatoire, tandis que les flavonoïdes contribueraient aux propriétés antioxydantes. L'acide oléanolique présente des activités hépatoprotectrices et adaptogènes démontrées chez d'autres espèces du genre. Cependant, ces mécanismes restent principalement hypothétiques pour P. pinnata précisément, les études cliniques humaines faisant défaut.",
     "posologie": "La posologie traditionnelle rapportée consiste en des infusions de feuilles à raison d'environ 5 grammes par litre d'eau, consommées 1 à 3 fois par jour. Cependant, aucune posologie cliniquement validée et standardisée n'est disponible dans la littérature scientifique pour P. pinnata. Les recommandations actuelles reposent uniquement sur les usages traditionnels, sans validation pharmacocinétique moderne. Cette lacune constitue un obstacle majeur à l'utilisation thérapeutique sécurisée de l'espèce et souligne la nécessité d'études cliniques approfondies."
   },
   "nutrition": {
-    "introduction": "Polyscias pinnata (syn. Panax pinnatus) est un arbuste ornemental exotique, cultivé et naturalisé dans les Départements du Sud et de la Grand'Anse d'Haïti. Il appartient à la famille des Araliacées, une famille tropicale dominée par des arbustes et des arbres reconnus pour leurs riches usages médicinaux et spirituels. Cette famille se distingue par sa signature phytochimique complexe incluant des saponines triterpéniques, des flavonoïdes, des polyacétylènes et des huiles essentielles, ciblant préférentiellement les systèmes nerveux et tégumentaire. Parmi les genres alimentaires notables de cette famille figurent Aralia — dont certaines espèces produisent des pousses comestibles en Asie — et Panax, célèbre pour le ginseng. Les genres médicinaux incluent Schefflera et Hedera, utilisés traditionnellement contre les affections respiratoires et cutanées. Une vigilance particulière s'impose car certaines espèces renferment des principes actifs très puissants ou potentiellement toxiques, exigeant une préparation adéquate et un dosage strict. Les baies de certains représentants peuvent notamment causer des troubles digestifs si ingérées en grande quantité. Au sein de cette famille, Polyscias pinnata constitue une espèce à usage principalement ornemental et mystique dans les deux départements étudiés."
+    "valeur": "La valeur économique de P. pinnata dans les Départements du Sud et de la Grand'Anse reste principalement ornementale et culturelle. La plante représente un potentiel horticole intéressant pour l'aménagement paysager en altitude, notamment dans le développement de l'écotourisme de montagne. Sur le plan international, l'espèce possède une valeur commerciale établie dans l'horticulture tropicale et subtropicale. Le développement de recherches sur ses propriétés adaptogènes pourrait ouvrir des perspectives économiques dans le secteur des compléments alimentaires naturels."
   },
   "toxicologie": {
-    "niveau": "",
+    "niveau": "🟢 Non toxique aux doses usuelles",
     "details": "P. pinnata présente un profil de sécurité globalement favorable. La plante est classée comme non toxique aux doses usuelles d'utilisation traditionnelle. Néanmoins, certaines précautions s'imposent : prudence recommandée durant la grossesse et l'allaitement par manque de données spécifiques. Un surdosage pourrait provoquer une hypotension, des troubles digestifs ou des réactions allergiques chez les sujets sensibles. L'identification botanique correcte reste cruciale pour éviter toute confusion avec d'autres Araliacées potentiellement plus problématiques. Les personnes sous traitement antihypertenseur devraient éviter l'usage concomitant sans supervision médicale."
   },
   "conservation": {
-    "menaces": "Bien que P. pinnata ne soit pas menacé à l'échelle globale en raison de sa large distribution pantropicale, sa conservation locale dans les Départements du Sud et de la Grand'Anse mérite attention. L'espèce, introduite et rare dans ces régions, pourrait être vulnérable aux changements climatiques et à la pression anthropique sur les écosystèmes de montagne. La préservation des populations locales contribuerait au maintien de la diversité ornementale et mystique des jardins traditionnels haïtiens.",
+    "menaces": "Bien que P. pinnata ne soit pas menacé à l'échelle globale en raison de sa large distribution pantropicale, sa conservation locale dans les Départements du Sud et de la Grand'Anse mérite attention. L'espèce, introduite et rare dans ces régions, pourrait être vulnérable aux changements climatiques et à la pression anthropique sur les écosystèmes de montagne. La préservation des populations locales contribuerait au maintien de la diversité ornementale et mystique des jardins traditionnels haïtiens. Conservation des variétés — plante ornementale et médicinale.",
     "valeur": "La valeur économique de P. pinnata dans les Départements du Sud et de la Grand'Anse reste principalement ornementale et culturelle. La plante représente un potentiel horticole intéressant pour l'aménagement paysager en altitude, notamment dans le développement de l'écotourisme de montagne. Sur le plan international, l'espèce possède une valeur commerciale établie dans l'horticulture tropicale et subtropicale. Le développement de recherches sur ses propriétés adaptogènes pourrait ouvrir des perspectives économiques dans le secteur des compléments alimentaires naturels."
   },
   "recherche": {
-    "nb_articles": "",
     "details": "Environ cinquante publications scientifiques abordent P. pinnata, principalement axées sur sa taxonomie, sa culture ornementale et ses usages traditionnels asiatiques. Les recherches futures prioritaires incluent : l'évaluation clinique rigoureuse des propriétés adaptogènes revendiquées, la standardisation des extraits et la validation des mécanismes d'action proposés. Le potentiel de l'espèce comme source de composés bioactifs pour l'industrie pharmaceutique naturelle reste largement inexploré. Des études ethnobotaniques approfondies sur ses usages mystiques en Haïti contribueraient également à la documentation du patrimoine culturel local.",
+    "nb_articles": "",
     "lien_pubmed": "https://pubmed.ncbi.nlm.nih.gov/?term=Polyscias+pinnata",
     "lien_scholar": "",
     "lien_tramil": ""
@@ -47,11 +47,11 @@
   "references": "Pharmacia Pensoft. Données compilées sur Polyscias pinnata. Accessible via pharmacia.pensoft.net POWO. Plants of the World Online. Polyscias pinnata (Lam.) Fosb. Royal Botanic Gardens, Kew. https://powo.science.kew.org/ World Flora Online. Polyscias pinnata. http://www.worldfloraonline.org/ PubMed. Recherche \"Polyscias pinnata\". https://pubmed.ncbi.nlm.nih.gov/?term=Polyscias+pinnata",
   "aRetenir": "🟢 À retenir — Parès : est utilisee en medecine traditionnelle avec un bon profil de securite aux doses courantes. Les usages presentes reposent sur des donnees ethnobotaniques et scientifiques publiees, mais ne constituent pas une prescription. Consulter un professionnel de sante avant tout usage therapeutique. Les auteurs declinent toute responsabilite quant a un usage inapproprie. ATLAS ETHNOBOTANIQUE Plantes médicinales, aromatiques et alimentaires Départements du Sud et de la Grand'Anse — Haïti Bloc 03 — Especes 41 a 60 Bwa tranble -> Lapsent 20 espèces · 7 famille(s) Source : Base de Référence Haïtienne (BRH) — Jardin Botanique des Cayes Validation : PubMed · Google Scholar · TRAMIL · POWO (Kew Science)",
   "images": {
-    "principale": "images/112_Polyscias_pinnata-001.png",
+    "principale": "/images/112_Polyscias_pinnata-001.png",
     "galerie": [
-      "images/112_Polyscias_pinnata-001.png",
-      "images/112_Polyscias_pinnata-002.png"
+      "/images/112_Polyscias_pinnata-001.png",
+      "/images/112_Polyscias_pinnata-002.png"
     ]
   },
-  "source": "plantes_full.json"
+  "source": "CSV corrigé 2026-04-11"
 }

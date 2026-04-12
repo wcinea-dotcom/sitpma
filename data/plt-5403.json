@@ -1,7 +1,7 @@
 {
   "id_plante": "plt-5403",
   "code": "plt-5403",
-  "no_espece": "",
+  "no_espece": "54.3",
   "no_famille": "54",
   "famille": "Méliacées",
   "description_famille": "",
@@ -20,26 +20,26 @@
   },
   "usages": {
     "usages_ethnobotaniques": "Dans les Départements du Sud et de la Grand'Anse, G. guidonia occupe une place particulière en médecine traditionnelle, principalement reconnu pour ses propriétés purgatiques puissantes. L'écorce constitue la partie la plus utilisée, préparée en décoction pour traiter diverses affections digestives et comme vermifuge. Les feuilles sont également employées, généralement en applications externes pour leurs propriétés cicatrisantes et anti-inflammatoires. Le mode de préparation traditionnel consiste en une décoction d'écorce, utilisée avec précaution en raison de sa puissance. Les usages documentés par TRAMIL confirment l'emploi traditionnel en Haïti comme purgatif, témoignant de la continuité des pratiques médicinales caribéennes. En Amérique du Sud, l'espèce est également reconnue sous le nom de « bois rouge » pour des usages similaires, et des études récentes ont exploré son potentiel cytotoxique.",
-    "systemes_concernes": "Digestif"
+    "systemes_concernes": "Guarea guidonia cible principalement le système digestif, documenté localement dans le Sud et la Grand'Anse pour le traitement des douleurs menstruelles et comme antiparasitaire. Les mécanismes d'action supposés, par analogie avec d'autres Méliacées, impliquent l'activité des limonoïdes contre les parasites intestinaux, tandis que les tanins et flavonoïdes contribuent aux effets anti-inflammatoires et antimicrobiens. L'activité purgative résulte probablement de l'irritation de la muqueuse intestinale par les saponines et les limonoïdes, expliquant la violence de l'effet purgatif traditionnel. Cependant, aucune étude détaillée sur les mécanismes spécifiques d'inhibition des cyclooxygénases ou de la production d'oxyde nitrique n'a été publiée pour cette espèce. Les propriétés analgésiques et cicatrisantes documentées dans les usages externes suggèrent une modulation des voies inflammatoires, mais ces mécanismes restent à élucider par des études pharmacologiques spécifiques."
   },
   "pharmacologie": {
     "molecules": "Guarea guidonia se caractérise par une composition chimique dominée par des métabolites secondaires défensifs responsables de sa saveur très amère et de ses propriétés biologiques. L'amertume intense de l'écorce et des feuilles résulte principalement de la présence de limonoïdes, des triterpènes modifiés typiques de la famille des Méliacées, qui constituent le principal système de défense chimique de la plante contre les herbivores et les pathogènes. Ces composés, particulièrement concentrés dans l'écorce, confèrent également les propriétés antimicrobiennes et antiparasitaires documentées dans les usages traditionnels. Les principaux composés secondaires identifiés dans G. guidonia comprennent : des limonoïdes (incluant la rusbyine), des triterpènes, des saponines à activité hémolytique, des flavonoïdes aux propriétés antioxydantes et anti-inflammatoires, des tanins condensés responsables de l'astringence, des alcaloïdes et diverses huiles essentielles (Mootoo et al., 1999 — doi:10.1016/S0031-9422(98)00672-8). La rusbyine, un limonoïde spécifique du genre Guarea, présente une activité cytotoxique documentée contre certaines lignées cellulaires cancéreuses. Ces molécules remplissent des fonctions de défense précises pour l'arbre. Les limonoïdes protègent efficacement contre les insectes défoliateurs et les champignons pathogènes, expliquant la résistance naturelle de l'arbre aux attaques parasitaires. Les tanins condensés dans l'écorce créent une barrière chimique contre la pénétration des pathogènes du tronc. Ces mêmes composés, une fois ingérés par l'humain, produisent les effets biologiques documentés dans la médecine traditionnelle, notamment l'activité purgative intense et les propriétés anti-inflammatoires, bien que ces effets s'accompagnent d'une toxicité significative nécessitant une grande prudence d'usage.",
     "posologie": "La posologie traditionnelle documentée dans les pratiques populaires haïtiennes consiste en une décoction d'écorce à environ 5 grammes par litre, administrée 1 à 2 fois par jour, mais aucune posologie cliniquement validée n'est disponible pour Guarea guidonia dans la littérature scientifique. Cette absence de standardisation thérapeutique, combinée à la toxicité potentielle de l'espèce, rend son usage particulièrement délicat et nécessite une grande prudence. Les pratiques traditionnelles documentées localement ne sont pas standardisées et varient selon les praticiens et les régions."
   },
   "nutrition": {
-    "introduction": "Guarea guidonia (L.) Sleumer (syn. Guarea trichilioides, Guarea sphenophylla) est un arbre natif des Caraïbes et d'Amérique tropicale, commun dans les Départements du Sud et de la Grand'Anse d'Haïti. Il appartient à la famille des Méliacées, un groupe majoritairement arborescent particulièrement représenté dans la flore du grand Sud haïtien. Cette famille se distingue par ses usages médicinaux remarquables et sa signature phytochimique dominée par les limonoïdes, les tanins, les saponines et les flavonoïdes, ciblant préférentiellement les systèmes tégumentaire, digestif et immunitaire. Parmi les genres médicinaux notables de cette famille figurent Azadirachta (neem), Swietenia (acajou) et Cedrela (cèdre), tandis que certaines espèces comme Melia azedarach présentent une toxicité significative exigeant des précautions strictes. Guarea guidonia, localement appelé « bwa wouj » en référence à la coloration rougeâtre de son bois, constitue l'une des espèces médicinales traditionnelles importantes de cette famille, principalement utilisée pour ses propriétés purgatiques et anti-inflammatoires, bien que son usage nécessite une grande prudence en raison de sa toxicité potentielle."
+    "valeur": "L'espèce présente une valeur économique modérée, principalement liée à l'exploitation du bois pour la construction locale et l'usage médicinal traditionnel. Le bois rouge de G. guidonia est apprécié localement pour sa durabilité et sa résistance naturelle aux insectes, conférée par sa richesse en limonoïdes. Sur le plan international, l'espèce attire l'attention comme source potentielle de bois d'œuvre tropical."
   },
   "toxicologie": {
-    "niveau": "",
-    "details": "Guarea guidonia présente un niveau de toxicité conditionnelle, particulièrement lié à l'écorce qui concentre les principes actifs. Par analogie avec d'autres Méliacées, un risque de toxicité hépatique et neurologique existe à forte dose ou lors d'usage prolongé, nécessitant d'éviter l'utilisation chez la femme enceinte et les enfants, et de limiter strictement la durée d'administration. L'effet purgatif violent documenté traditionnellement témoigne de la puissance des principes actifs et du risque de déshydratation en cas de surdosage. Une surveillance médicale est recommandée lors de tout usage thérapeutique."
+    "niveau": "🟡 Précautions requises",
+    "details": "Guarea guidonia présente un niveau de toxicité conditionnelle, particulièrement lié à l'écorce qui concentre les principes actifs. par extrapolation du genre avec d'autres Méliacées, un risque de toxicité hépatique et neurologique existe à forte dose ou lors d'usage prolongé, nécessitant d'éviter l'utilisation chez la femme enceinte et les enfants, et de limiter strictement la durée d'administration. L'effet purgatif violent documenté traditionnellement témoigne de la puissance des principes actifs et du risque de déshydratation en cas de surdosage. Une surveillance médicale est recommandée lors de tout usage thérapeutique."
   },
   "conservation": {
     "menaces": "Guarea guidonia ne présente actuellement aucune préoccupation majeure de conservation, l'espèce étant commune et largement distribuée. Cependant, l'exploitation du bois pour la construction locale pourrait exercer une pression sur les populations d'arbres matures, particulièrement dans les zones d'accès facile des Départements du Sud et de la Grand'Anse.",
     "valeur": "L'espèce présente une valeur économique modérée, principalement liée à l'exploitation du bois pour la construction locale et l'usage médicinal traditionnel. Le bois rouge de G. guidonia est apprécié localement pour sa durabilité et sa résistance naturelle aux insectes, conférée par sa richesse en limonoïdes. Sur le plan international, l'espèce attire l'attention comme source potentielle de bois d'œuvre tropical."
   },
   "recherche": {
-    "nb_articles": "~50 (estimation)",
     "details": "Les publications scientifiques spécifiques à Guarea guidonia restent limitées, avec environ 50 articles référencés, principalement axés sur la caractérisation chimique et l'évaluation de l'activité cytotoxique. Les recherches futures devraient se concentrer sur l'élucidation des mécanismes d'action spécifiques, l'évaluation de la toxicité aiguë et chronique, et le développement de protocoles d'usage sécurisés. L'étude approfondie du potentiel anticancéreux de la rusbyine et d'autres limonoïdes présente un intérêt pharmacologique prometteur.",
+    "nb_articles": "",
     "lien_pubmed": "https://pubmed.ncbi.nlm.nih.gov/?term=Guarea+guidonia",
     "lien_scholar": "",
     "lien_tramil": "https://www.tramil.net/en/plant/guarea-guidonia"
@@ -47,11 +47,11 @@
   "references": "Mootoo BS et al. (1999). Limonoids from Guarea guidonia. Phytochemistry 51(8):1103-1110. doi:10.1016/S0031-9422(98)00672-8 TRAMIL. Guarea guidonia. https://www.tramil.net/en/plant/guarea-guidonia PubMed. Guarea guidonia. https://pubmed.ncbi.nlm.nih.gov/?term=Guarea+guidonia",
   "aRetenir": "🟡 À retenir — Bwa wouj : est une plante a toxicite conditionnelle documentee. Respecter imperativement les precautions indiquees. Ne jamais ingerer les parties toxiques sans encadrement medical. Ces informations sont destinees a l'enseignement et a la documentation. Les auteurs declinent toute responsabilite quant a un usage inapproprie.",
   "images": {
-    "principale": "images/543_Guarea_guidonia-001.jpg",
+    "principale": "/images/543_Guarea_guidonia-001.jpg",
     "galerie": [
-      "images/543_Guarea_guidonia-001.jpg",
-      "images/543_Guarea_guidonia-002.jpg"
+      "/images/543_Guarea_guidonia-001.jpg",
+      "/images/543_Guarea_guidonia-002.jpg"
     ]
   },
-  "source": "plantes_full.json"
+  "source": "CSV corrigé 2026-04-11"
 }

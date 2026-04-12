@@ -1,7 +1,7 @@
 {
   "id_plante": "plt-3808",
   "code": "plt-3808",
-  "no_espece": "",
+  "no_espece": "38.8",
   "no_famille": "38",
   "famille": "Fabacées",
   "description_famille": "",
@@ -20,17 +20,17 @@
   },
   "usages": {
     "usages_ethnobotaniques": "Les usages documentés dans le Sud et la Grand'Anse incluent principalement l'emploi des graines comme vermifuge et tonique, ainsi qu'un usage particulier consistant à « rendre les chiens plus agressifs ». Les graines subissent généralement une torréfaction préalable — procédé essentiel qui réduit la teneur en facteurs antinutritionnels tout en préservant la L-DOPA. Les données TRAMIL confirment l'usage vermifuge en Haïti, tandis qu'internationalement, la plante est reconnue comme source naturelle de L-DOPA pour le traitement de la maladie de Parkinson, particulièrement en médecine ayurvédique indienne où elle porte le nom de « Kapikachhu ». Les feuilles, moins utilisées, servent occasionnellement en applications externes après transformation pour neutraliser leur caractère urticant.",
-    "systemes_concernes": "Nerveux"
+    "systemes_concernes": "M. pruriens cible principalement le système nerveux central grâce à sa richesse en L-DOPA. Le mécanisme d'action principal repose sur la conversion enzymatique de la L-DOPA en dopamine par l'aromatic L-amino acid decarboxylase une fois la barrière hémato-encéphalique franchie. Cette propriété explique l'efficacité documentée de la plante dans la maladie de Parkinson, où la dégénérescence des neurones dopaminergiques crée un déficit en ce neurotransmetteur (Katzenschlager et al., 2004 — PMID: 15302736). Les études cliniques ont montré une amélioration significative des symptômes moteurs comparativement au traitement par L-DOPA synthétique, avec potentiellement moins d'effets secondaires à long terme. Les polyphénols présents exercent des effets antioxydants complémentaires protégeant les neurones du stress oxydatif. L'inhibition de l'α-glucosidase observée chez l'animal suggère un potentiel antidiabétique nécessitant confirmation chez l'humain."
   },
   "pharmacologie": {
     "molecules": "Ce qui rend Mucuna pruriens absolument unique dans le règne végétal, c'est sa capacité à synthétiser et accumuler de la L-DOPA (L-3,4-dihydroxyphénylalanine) en quantités exceptionnelles, particulièrement dans ses graines. Cette molécule, normalement présente à l'état de traces chez la plupart des plantes, peut représenter jusqu'à 4-7% du poids sec des graines de M. pruriens (Lampariello et al., 2012 — PMID: 22305028). La L-DOPA est un acide aminé aromatique précurseur direct de la dopamine, elle-même précurseur de la noradrénaline et de l'adrénaline. Les graines contiennent également des protéines de haute qualité (23-35%), des acides gras essentiels, et des minéraux remarquables incluant le fer, le phosphore, le potassium et le magnésium. Les principaux composés secondaires identifiés dans M. pruriens comprennent : la L-DOPA comme métabolite dominant, des alcaloïdes (mucunine, mucunadine, prurienidine), des flavonoïdes et isoflavonoïdes, des saponines triterpéniques, des tanins condensés, des lectines, et la sérotonine (Lampariello et al., 2012 — PMID: 22305028, Rana & Avadhoot, 1991). Ces molécules remplissent des rôles de défense essentiels pour la plante. Les poils urticants contiennent des composés irritants (mucunain, prurienine) qui découragent efficacement les herbivores. Les lectines présentes dans les graines crues constituent une protection contre les ravageurs en perturbant leur digestion. Les tanins et flavonoïdes protègent contre les pathogènes fongiques et bactériens. Ces mêmes composés, une fois ingérés par l'humain après préparation adéquate, produisent les effets biologiques documentés : la L-DOPA traverse la barrière hémato-encéphalique et se convertit en dopamine dans le système nerveux central, expliquant l'intérêt thérapeutique de la plante dans la maladie de Parkinson, où ce neurotransmetteur fait défaut.",
     "posologie": "Les protocoles cliniques utilisent des extraits standardisés de graines titrés en L-DOPA, avec des doses adaptées individuellement selon la sévérité des symptômes et la réponse du patient (généralement 200-400 mg de L-DOPA par jour, soit environ 5-15 g d'extrait sec selon la concentration). Les mentions de « 5-10 g/jour de graines torréfiées » correspondent à des pratiques traditionnelles non standardisées documentées localement, mais ne constituent pas une posologie cliniquement validée. La supervision médicale demeure indispensable en raison des interactions potentielles avec les traitements dopaminergiques conventionnels et du risque de surdosage."
   },
   "nutrition": {
-    "introduction": "Mucuna pruriens (L.) (syn. Dolichos pruriens) est une liane exotique rare des Départements du Sud et de la Grand'Anse d'Haïti. Elle appartient à la famille des Fabacées, vaste famille de légumineuses reconnue pour sa capacité unique à fixer l'azote atmosphérique grâce à des bactéries symbiotiques logées dans des nodules racinaires. Cette espèce se distingue particulièrement au sein de sa famille par sa richesse exceptionnelle en L-DOPA (lévodopa), un précurseur direct de la dopamine, faisant d'elle l'une des sources végétales les plus concentrées de ce neurotransmetteur au monde. Son usage médicinal traditionnel en Haïti inclut notamment le traitement vermifuge et tonique, mais c'est surtout son potentiel thérapeutique dans les troubles neurologiques — particulièrement la maladie de Parkinson — qui attire aujourd'hui l'attention scientifique internationale."
+    "valeur": "La demande internationale pour M. pruriens comme alternative naturelle aux traitements synthétiques de la maladie de Parkinson ouvre des perspectives économiques considérables. Le marché mondial des compléments à base de cette plante connaît une croissance soutenue, particulièrement en Amérique du Nord et en Europe. Pour Haïti, la culture contrôlée de cette espèce pourrait représenter une opportunité d'exportation à haute valeur ajoutée, à condition de développer les filières de transformation et de certification appropriées. L'usage local comme engrais vert, grâce à la fixation d'azote, ajoute une dimension agroécologique intéressante."
   },
   "toxicologie": {
-    "niveau": "",
+    "niveau": "🔴 Toxique",
     "details": "Le contact avec la plante fraîche provoque des réactions urticantes intenses dues aux poils irritants présents sur toutes les parties aériennes. Les graines crues contiennent des lectines et autres facteurs antinutritionnels potentiellement toxiques, d'où la nécessité absolue d'une préparation adéquate (torréfaction, trempage prolongé). L'excès de L-DOPA peut provoquer nausées, hypotension orthostatique, dyskinésies et troubles du comportement. Des interactions dangereuses sont possibles avec les inhibiteurs de la MAO et les antipsychotiques. La prudence est requise pendant la grossesse, l'allaitement et chez les patients souffrant de troubles psychotiques ou cardiovasculaires."
   },
   "conservation": {
@@ -38,8 +38,8 @@
     "valeur": "La demande internationale pour M. pruriens comme alternative naturelle aux traitements synthétiques de la maladie de Parkinson ouvre des perspectives économiques considérables. Le marché mondial des compléments à base de cette plante connaît une croissance soutenue, particulièrement en Amérique du Nord et en Europe. Pour Haïti, la culture contrôlée de cette espèce pourrait représenter une opportunité d'exportation à haute valeur ajoutée, à condition de développer les filières de transformation et de certification appropriées. L'usage local comme engrais vert, grâce à la fixation d'azote, ajoute une dimension agroécologique intéressante."
   },
   "recherche": {
-    "nb_articles": "~2000 (estimation)",
     "details": "Avec environ 2000 publications indexées sur PubMed, M. pruriens figure parmi les plantes médicinales les plus étudiées scientifiquement. Les recherches actuelles s'orientent vers l'optimisation des protocoles d'extraction, la standardisation des préparations et l'évaluation de nouvelles applications thérapeutiques (neuroprotection, troubles de l'humeur, dysfonction érectile). Les études de toxicologie à long terme et les interactions médicamenteuses nécessitent un approfondissement. L'amélioration génétique visant à augmenter la teneur en L-DOPA tout en réduisant les facteurs antinutritionnels constitue un axe de recherche prometteur.",
+    "nb_articles": "",
     "lien_pubmed": "",
     "lien_scholar": "",
     "lien_tramil": "https://www.tramil.net/en/plant/mucuna-pruriens"
@@ -47,11 +47,11 @@
   "references": "Katzenschlager R et al. (2004). Mucuna pruriens in Parkinson's disease: a double blind clinical and pharmacological study. J Neurol Neurosurg Psychiatry. PMID: 15302736. Lampariello LR et al. (2012). The magic velvet bean of Mucuna pruriens. J Tradit Complement Med. PMID: 22305028. Rana DG & Avadhoot Y (1991). Mucuna pruriens seeds in treatment of Parkinson's disease: clinical study. Neurol India. PMID: 1791896. World Flora Online (2024). Mucuna pruriens. Available from: http://www.worldfloraonline.org TRAMIL (2024). Mucuna pruriens. Available from: https://www.tramil.net/en/plant/mucuna-pruriens",
   "aRetenir": "🟡 À retenir — Pwa grate : est une plante a toxicite conditionnelle documentee. Respecter imperativement les precautions indiquees. Ne jamais ingerer les parties toxiques sans encadrement medical. Ces informations sont destinees a l'enseignement et a la documentation. Les auteurs declinent toute responsabilite quant a un usage inapproprie.",
   "images": {
-    "principale": "images/388_Mucuna_pruriens-001.jpg",
+    "principale": "/images/388_Mucuna_pruriens-001.jpg",
     "galerie": [
-      "images/388_Mucuna_pruriens-001.jpg",
-      "images/388_Mucuna_pruriens-002.jpg"
+      "/images/388_Mucuna_pruriens-001.jpg",
+      "/images/388_Mucuna_pruriens-002.jpg"
     ]
   },
-  "source": "plantes_full.json"
+  "source": "CSV corrigé 2026-04-11"
 }

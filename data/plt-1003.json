@@ -1,7 +1,7 @@
 {
   "id_plante": "plt-1003",
   "code": "plt-1003",
-  "no_espece": "",
+  "no_espece": "10.3",
   "no_famille": "10",
   "famille": "Aracées",
   "description_famille": "",
@@ -20,17 +20,17 @@
   },
   "usages": {
     "usages_ethnobotaniques": "Les feuilles de P. consanguineum sont traditionnellement utilisées dans le Sud et la Grand'Anse pour le traitement externe des traumatismes, particulièrement les plaies et les entorses. Le mode de préparation documenté consiste en l'application de cataplasmes de feuilles fraîches broyées directement sur la zone affectée. Cette pratique, également rapportée par TRAMIL pour Haïti dans le traitement des blessures, s'inscrit dans une tradition thérapeutique plus large observée en Amérique du Sud, où des espèces apparentées sont employées contre les rhumatismes et les inflammations locales. La préparation requiert un broyage soigneux des feuilles fraîches pour libérer les principes actifs tout en évitant tout contact avec les muqueuses. L'application se fait exclusivement par voie externe, l'ingestion étant formellement contre-indiquée.",
-    "systemes_concernes": ""
+    "systemes_concernes": "P. consanguineum cible spécifiquement le système musculo-squelettique dans ses applications traditionnelles. Les traumatismes traités incluent principalement les contusions, entorses, et plaies superficielles nécessitant une action anti-inflammatoire locale. Les mécanismes d'action proposés reposeraient théoriquement sur l'activité des composés phénoliques et des saponines, qui pourraient moduler la réponse inflammatoire locale en interférant avec les médiateurs de l'inflammation. Cependant, aucune étude clinique spécifique à P. consanguineum n'a validé ces mécanismes chez l'humain. Les données disponibles proviennent principalement d'études in vitro sur des extraits d'espèces apparentées du genre Philodendron, montrant des activités anti-inflammatoires potentielles sans validation clinique définitive pour cette espèce."
   },
   "pharmacologie": {
     "molecules": "Philodendron consanguineum se caractérise par la production massive de cristaux d'oxalate de calcium sous forme de raphides — aiguilles microscopiques concentrées dans les tissus foliaires et caulinaires. Ces structures cristallines constituent le système de défense primaire de la plante : lorsque les tissus sont endommagés par mastication ou broyage, les raphides se libèrent et provoquent une irritation mécanique intense des muqueuses, dissuadant efficacement les herbivores. Cette stratégie défensive explique la saveur âcre et piquante caractéristique de toutes les parties de la plante. Les principaux composés secondaires identifiés dans P. consanguineum comprennent : des oxalates de calcium (raphides), des saponines triterpéniques aux propriétés moussantes et hémolytiques, des tanins condensés responsables de l'astringence, des flavonoïdes (quercétine, kaempférol) aux propriétés antioxydantes, des résorcines phénoliques, et des terpénoïdes volatils participant à l'attraction des pollinisateurs. Ces composés, bien que moins étudiés spécifiquement chez P. consanguineum, sont largement documentés dans le genre Philodendron (Mayo et al., 1997 — Kew Bulletin). Ces molécules remplissent des fonctions écologiques précises. Les raphides d'oxalate constituent une barrière mécanique contre l'herbivorie, tandis que les saponines perturbent les membranes cellulaires des pathogènes. Les tanins protègent les tissus contre l'oxydation et les infections fongiques. Ces mêmes composés, appliqués par voie externe sur l'humain, pourraient théoriquement exercer des effets anti-inflammatoires locaux à travers l'inhibition des médiateurs de l'inflammation, bien que les mécanismes précis restent à élucider pour cette espèce spécifique.",
     "posologie": "Aucune posologie cliniquement validée n'est disponible pour P. consanguineum dans la littérature scientifique. Les pratiques traditionnelles documentées dans le Sud et la Grand'Anse se limitent à l'application topique de cataplasmes de feuilles fraîches, renouvelés selon les besoins cliniques empiriques. L'usage interne est formellement déconseillé en raison de la toxicité des raphides d'oxalate de calcium. Toute utilisation thérapeutique devrait faire l'objet d'une supervision médicale appropriée, particulièrement chez les populations sensibles."
   },
   "nutrition": {
-    "introduction": "Philodendron consanguineum Schott (syn. P. krebsii, P. wrightii) est une liane native des Caraïbes, documentée dans le Sud et la Grand'Anse comme plante médicinale d'usage externe. Elle appartient à la famille des Aracées, une famille essentiellement composée d'herbes et de lianes reconnue pour ses riches usages alimentaires et médicinaux, malgré la présence universelle de raphides d'oxalate de calcium nécessitant des précautions particulières. Au sein de cette famille, le genre Philodendron regroupe plusieurs centaines d'espèces tropicales, principalement épiphytes ou grimpantes, largement cultivées comme plantes ornementales mais présentant toutes une toxicité notable à l'état cru. P. consanguineum se distingue par son usage thérapeutique externe traditionnel pour les traumatismes, bien que son ingestion reste formellement déconseillée en raison de sa teneur en cristaux d'oxalate."
+    "valeur": "La valeur économique de P. consanguineum reste principalement locale et liée à ses usages médicinaux traditionnels. Sur le plan international, le genre Philodendron présente une importance économique significative dans l'horticulture ornementale, bien que P. consanguineum ne soit pas spécifiquement cultivé à des fins commerciales. Le développement d'une filière thérapeutique nécessiterait des études cliniques approfondies pour valider scientifiquement les usages traditionnels."
   },
   "toxicologie": {
-    "niveau": "toxic",
+    "niveau": "🟡 Précautions requises",
     "details": "P. consanguineum présente une toxicité modérée nécessitant des précautions d'usage strictes. L'ingestion de toute partie de la plante provoque immédiatement des brûlures buccales intenses, des nausées et des vomissements dus à la libération massive de raphides d'oxalate de calcium dans la cavité buccale et l'œsophage. L'usage est formellement contre-indiqué chez les enfants, les femmes enceintes et allaitantes, ainsi que chez les personnes présentant des troubles de la coagulation. Même en usage externe, des réactions cutanées sont possibles chez les sujets sensibles. La manipulation doit se faire avec des gants, et tout contact avec les yeux ou les muqueuses doit être évité."
   },
   "conservation": {
@@ -38,19 +38,19 @@
     "valeur": "La valeur économique de P. consanguineum reste principalement locale et liée à ses usages médicinaux traditionnels. Sur le plan international, le genre Philodendron présente une importance économique significative dans l'horticulture ornementale, bien que P. consanguineum ne soit pas spécifiquement cultivé à des fins commerciales. Le développement d'une filière thérapeutique nécessiterait des études cliniques approfondies pour valider scientifiquement les usages traditionnels."
   },
   "recherche": {
-    "nb_articles": "",
     "details": "Les recherches sur P. consanguineum restent limitées, avec environ une vingtaine de publications disponibles principalement axées sur la taxonomie et l'écologie. Les perspectives de recherche prioritaires incluent l'isolement et la caractérisation des composés bioactifs, l'évaluation de leur sécurité d'usage, et la validation clinique des propriétés anti-inflammatoires rapportées. Des études pharmacologiques comparatives avec d'autres espèces du genre Philodendron pourraient également éclairer les mécanismes d'action spécifiques de cette espèce.",
+    "nb_articles": "",
     "lien_pubmed": "",
     "lien_scholar": "",
-    "lien_tramil": ""
+    "lien_tramil": "https://www.tramil.net/"
   },
   "references": "Mayo, S. J. et al. (1997). The genera of Araceae. Kew Bulletin. Royal Botanic Gardens, Kew. POWO (2024). Plants of the World Online. Royal Botanic Gardens, Kew Science. https://powo.science.kew.org/ TRAMIL (2024). Pharmacopée végétale caribéenne. https://www.tramil.net/ World Flora Online (2024). An Online Flora of All Known Plants. http://www.worldfloraonline.org/",
   "aRetenir": "🟠 À retenir — Geritou : est une plante a toxicite documentee. Tout usage interne non encadre est formellement deconseille. En cas d'ingestion accidentelle, consulter immediatement un service d'urgence. Ces informations sont destinees a l'enseignement et a la recherche uniquement. Les auteurs declinent toute responsabilite quant a un usage inapproprie.",
   "images": {
-    "principale": "images/103_Philodendron_consanguineum-001.jpg",
+    "principale": "/images/103_Philodendron_consanguineum-001.jpg",
     "galerie": [
-      "images/103_Philodendron_consanguineum-001.jpg"
+      "/images/103_Philodendron_consanguineum-001.jpg"
     ]
   },
-  "source": "plantes_full.json"
+  "source": "CSV corrigé 2026-04-11"
 }

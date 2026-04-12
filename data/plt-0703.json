@@ -1,7 +1,7 @@
 {
   "id_plante": "plt-0703",
   "code": "plt-0703",
-  "no_espece": "",
+  "no_espece": "7.3",
   "no_famille": "7",
   "famille": "Annonacées",
   "description_famille": "",
@@ -20,17 +20,17 @@
   },
   "usages": {
     "usages_ethnobotaniques": "Dans les Départements du Sud et de la Grand'Anse, A. reticulata est documentée principalement comme plante alimentaire et antidiarrhéique. Le fruit mûr est consommé frais comme aliment sucré et utilisé traditionnellement pour stopper la diarrhée grâce à ses propriétés astringentes. Les feuilles sont préparées en décoction pour traiter la fièvre et parfois utilisées comme antidiabétique et hypotenseur en usage traditionnel, bien que ces applications nécessitent davantage de validation scientifique. Les modes de préparation incluent la consommation directe du fruit frais et la préparation de jus pour les usages alimentaires. Pour les applications médicinales, les feuilles sont préparées en décoction — généralement 2 à 5 g de feuilles séchées par litre d'eau, à prendre 1 à 2 fois par jour selon les pratiques traditionnelles. Dans la pharmacopée TRAMIL, l'espèce est documentée en Guadeloupe pour le traitement de la diarrhée, confirmant un usage caribéen cohérent. En Inde, la plante trouve des applications comme insecticide naturel et astringent, tandis que des études ont exploré son potentiel analgésique.",
-    "systemes_concernes": "Digestif"
+    "systemes_concernes": "A. reticulata cible principalement les systèmes digestif et parasitaire, avec des applications documentées contre la diarrhée et la douleur. Les mécanismes d'action reposent sur l'inhibition de certaines enzymes glucidiques, notamment l'α-glucosidase, et sur des effets antioxydants décrits in vitro. Ces propriétés pourraient expliquer les usages traditionnels antidiabétiques, bien que des essais cliniques humains restent nécessaires pour confirmer ces effets. Les propriétés antidiarrhéiques s'expliquent par la présence de tanins astringents qui réduisent l'inflammation intestinale et normalisent le transit. Les flavonoïdes contribuent aux effets anti-inflammatoires et antioxydants, pouvant expliquer les usages contre la fièvre. Cependant, il convient de noter que les composés de cette espèce présentent un potentiel cytotoxique à fortes doses, similaire à d'autres espèces du genre Annona. Cette cytotoxicité, liée aux acétogénines, pourrait expliquer à la fois l'efficacité thérapeutique à doses modérées et les risques de toxicité en cas de surdosage."
   },
   "pharmacologie": {
     "molecules": "Kachiman kè bèf déploie une architecture défensive multi-étages : ses graines concentrent des acétogénines qui sabotent la respiration mitochondriale de ses agresseurs, tandis que ses feuilles et son écorce combinent tanins et flavonoïdes pour repousser herbivores et infections. Les principaux composés secondaires identifiés dans A. reticulata comprennent des acétogénines — molécules caractéristiques de la famille des Annonacées —, des flavonoïdes, des tanins, des saponines et des alcaloïdes. Les acétogénines, concentrées particulièrement dans les graines, constituent le système de défense principal de la plante contre les insectes et les mammifères herbivores. Ces molécules agissent en inhibant la phosphorylation oxydative mitochondriale, expliquant à la fois leur efficacité insecticide naturelle et leur toxicité potentielle pour les vertébrés. Les flavonoïdes et les tanins, présents dans les feuilles et l'écorce, offrent une protection contre les pathogènes fongiques et bactériens tout en conférant les propriétés astringentes traditionnellement utilisées contre la diarrhée. Les kauranes, des diterpènes identifiés dans cette espèce, participent également aux mécanismes de défense chimique. Sur le plan nutritionnel, le fruit est riche en glucides simples, en fibres et apporte des quantités modérées de vitamine C et de vitamines du groupe B. Il contient également des microéléments comme le potassium, le magnésium, le calcium, le fer et le zinc, profil nutritionnel proche des autres espèces du genre Annona.",
     "posologie": "Les posologies traditionnelles documentées incluent la consommation de 100 à 200 g de fruit frais par jour comme aliment, quantité généralement bien tolérée. Pour les préparations médicinales, les infusions de feuilles utilisent typiquement 2 à 5 g de matière végétale par litre d'eau, à prendre 1 à 2 fois par jour selon les pratiques locales. Cependant, aucune posologie clinique normalisée n'a été établie par des essais contrôlés, et ces dosages reposent uniquement sur l'expérience traditionnelle."
   },
   "nutrition": {
-    "introduction": "Annona reticulata L. (syn. Annona longifolia) est un arbre fruitier exotique, largement cultivé dans les Départements du Sud et de la Grand'Anse. Il appartient à la famille des Annonacées, une famille tropicale principalement arborescente qui se distingue par de riches usages alimentaires, médicinaux et aromatiques. Cette famille exprime une signature phytochimique dominée par les acétogénines, les alcaloïdes et les flavonoïdes, ciblant préférentiellement les systèmes digestif, nerveux et cellulaire. Il convient de noter une vigilance particulière : les graines de toutes les espèces de cette famille renferment des acétogénines neurotoxiques, exigeant une préparation adéquate et des dosages stricts. Au sein de cette famille, A. reticulata fait partie du genre Annona, qui regroupe plusieurs arbres fruitiers tropicaux — dont le corossol (Annona muricata) et l'atemoya (Annona cherimola × A. squamosa) — tous appréciés pour leurs fruits sucrés et leurs propriétés thérapeutiques traditionnelles. Cette espèce est documentée dans le Sud et la Grand'Anse principalement comme plante alimentaire et antidiarrhéique."
+    "valeur": "L'espèce présente une valeur économique locale comme fruit mineur dans les Départements du Sud et de la Grand'Anse, contribuant à la diversification alimentaire des ménages ruraux. Sur le plan international, A. reticulata suscite un intérêt croissant en recherche pharmaceutique, particulièrement pour ses acétogénines aux propriétés cytotoxiques potentiellement valorisables en oncologie. Cette recherche pourrait ouvrir des perspectives de valorisation économique à plus long terme, sous réserve de développements technologiques appropriés."
   },
   "toxicologie": {
-    "niveau": "",
+    "niveau": "🔴 Toxique",
     "details": "A. reticulata présente un niveau de toxicité conditionnel, exigeant des précautions d'usage importantes. Les graines sont toxiques en raison de leur teneur en acétogénines neurotoxiques et ne doivent jamais être consommées. Une prudence particulière est recommandée pendant la grossesse et l'allaitement en raison de données toxicologiques limitées. Il convient d'éviter le surdosage ou l'usage prolongé des feuilles et graines en raison du risque théorique de neurotoxicité et de cytotoxicité. La consommation modérée du fruit pulpeux reste généralement sûre, mais doit se faire avec modération comme pour toutes les espèces de la famille des Annonacées."
   },
   "conservation": {
@@ -38,8 +38,8 @@
     "valeur": "L'espèce présente une valeur économique locale comme fruit mineur dans les Départements du Sud et de la Grand'Anse, contribuant à la diversification alimentaire des ménages ruraux. Sur le plan international, A. reticulata suscite un intérêt croissant en recherche pharmaceutique, particulièrement pour ses acétogénines aux propriétés cytotoxiques potentiellement valorisables en oncologie. Cette recherche pourrait ouvrir des perspectives de valorisation économique à plus long terme, sous réserve de développements technologiques appropriés."
   },
   "recherche": {
-    "nb_articles": "",
     "details": "Les recherches sur A. reticulata se concentrent principalement sur l'isolement et la caractérisation de ses acétogénines, ainsi que sur l'évaluation de leurs activités biologiques in vitro et in vivo. Des études récentes explorent le potentiel antidiabétique et antihypertenseur de la plante, en cohérence avec certains usages traditionnels. Cependant, des essais cliniques contrôlés restent nécessaires pour valider scientifiquement ces applications thérapeutiques et établir des posologies sûres et efficaces.",
+    "nb_articles": "",
     "lien_pubmed": "",
     "lien_scholar": "",
     "lien_tramil": ""
@@ -47,11 +47,11 @@
   "references": "Les données scientifiques citées dans cette fiche proviennent de bases de données botaniques internationales (POWO, Kew Science , World Flora Online) pour les aspects taxonomiques et morphologiques. Les informations phytochimiques et pharmacologiques nécessiteraient une recherche spécifique dans PubMed avec les identifiants PMID appropriés pour une documentation complète.",
   "aRetenir": "🟡 À retenir — Kachiman kè bèf : est une plante a toxicite conditionnelle documentee. Respecter imperativement les precautions indiquees. Ne jamais ingerer les parties toxiques sans encadrement medical. Ces informations sont destinees a l'enseignement et a la documentation. Les auteurs declinent toute responsabilite quant a un usage inapproprie.",
   "images": {
-    "principale": "images/73_Annona_reticulata-001.jpg",
+    "principale": "/images/73_Annona_reticulata-001.jpg",
     "galerie": [
-      "images/73_Annona_reticulata-001.jpg",
-      "images/73_Annona_reticulata-002.jpg"
+      "/images/73_Annona_reticulata-001.jpg",
+      "/images/73_Annona_reticulata-002.jpg"
     ]
   },
-  "source": "plantes_full.json"
+  "source": "CSV corrigé 2026-04-11"
 }

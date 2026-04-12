@@ -1,7 +1,7 @@
 {
   "id_plante": "plt-0901",
   "code": "plt-0901",
-  "no_espece": "",
+  "no_espece": "9.1",
   "no_famille": "9",
   "famille": "Apocynacées",
   "description_famille": "Les Apocynacées constituent une remarquable famille de plantes tropicales et subtropicales comprenant environ 5000 espèces réparties en 366 genres. Cette famille rassemble principalement des herbes, arbustes et arbres à latex, dont certains sont devenus emblématiques des jardins créoles comme le frangipanier (Plumeria) et le laurier-rose (Nerium). Au niveau alimentaire, peu d'espèces sont comestibles en raison de leur latex généralement toxique. En revanche, cette famille révèle une valeur médicinale exceptionnelle : Catharanthus roseus fournit la vincristine et vinblastine utilisées en chimiothérapie, tandis que diverses espèces d'Asclepias servent traditionnellement pour les affections cutanées. Sur le plan phytochimique, les Apocynacées se distinguent par leur signature moléculaire dominée par des glycosides cardiotoniques puissants (digitaline, oléandrine, thévetine), des alcaloïdes indoliques, des iridoïdes et un latex riche en triterpènes. Ces composés ciblent préférentiellement les systèmes cardiovasculaire, tégumentaire et nerveux. Attention cruciale : plusieurs genres comme Nerium, Thevetia et Adenium renferment des cardénolides mortels même à faible dose, exigeant une vigilance absolue lors de toute manipulation.",
@@ -20,17 +20,17 @@
   },
   "usages": {
     "usages_ethnobotaniques": "L'usage principal documenté dans le Sud et la Grand'Anse consiste en l'application locale du latex frais directement sur les verrues. Cette pratique, également rapportée en République Dominicaine selon la base TRAMIL, s'appuie sur les propriétés kératolytiques présumées du latex. Les feuilles peuvent être transformées en cataplasmes pour des applications topiques sur les infections cutanées et les plaies, bien que cet usage nécessite une vigilance particulière. Les modes de préparation restent simples : incision de la tige pour récupérer le latex frais ou pilage des feuilles pour les cataplasmes.",
-    "systemes_concernes": "Tégumentaire"
+    "systemes_concernes": "A. nivea cible principalement le système tégumentaire par voie externe. Son usage traditionnel contre les verrues s'appuie sur les propriétés kératolytiques potentielles des enzymes et cardénolides présents dans le latex. Les mécanismes d'action demeurent hypothétiques : les cardénolides pourraient perturber localement les pompes ioniques des cellules épidermiques, tandis que les enzymes protéolytiques faciliteraient la dégradation des tissus cornés. Ces effets locaux s'accompagneraient d'une action anti-inflammatoire modérée due aux flavonoïdes. Il convient de souligner que l'ingestion accidentelle exposerait aux effets cardiotoxiques systémiques des cardénolides."
   },
   "pharmacologie": {
     "molecules": "La composition chimique d'Asclepias nivea révèle une adaptation défensive sophistiquée centrée sur la production de latex. Ce fluide laiteux renferme des concentrations élevées de cardénolides — glycosides cardiotoniques qui confèrent à la plante sa toxicité caractéristique. La saveur âcre et amère résulte de la présence de ces composés amers ainsi que de saponines et tanins qui rendent la plante peu appétente pour les herbivores. Le latex contient également des enzymes protéolytiques qui lui confèrent ses propriétés potentiellement kératolytiques, expliquant son usage traditionnel contre les verrues. Les principaux composés secondaires identifiés dans A. nivea comprennent : des cardénolides (glycosides cardiotoniques structuralement apparentés à la digitaline), des flavonoïdes aux propriétés antioxydantes, des saponines triterpéniques responsables de l'amertume, des tanins astringents et possiblement des alcaloïdes en faibles concentrations. Ces composés sont particulièrement concentrés dans le latex et les parties aériennes (Malcolm, 1991 — Chemoecology, Agrawal et al., 2012 — PMID: 22383094). Ces molécules remplissent des fonctions de défense multiples pour la plante. Les cardénolides agissent comme toxines systémiques contre les mammifères herbivores en perturbant la pompe sodium-potassium cardiaque. Le latex forme une barrière physico-chimique protégeant les blessures contre les pathogènes et les insectes. Ces mêmes composés, une fois appliqués localement chez l'humain, pourraient exercer des effets kératolytiques et anti-inflammatoires modérés, bien que ces observations restent principalement issues d'usages traditionnels sans validation clinique rigoureuse.",
     "posologie": "Aucune posologie cliniquement validée n'est disponible pour Asclepias nivea. Les usages traditionnels se limitent à l'application topique occasionnelle de petites quantités de latex frais sur la zone affectée. Cette approche empirique ne permet pas d'établir des recommandations posologiques standardisées, d'autant que la concentration en principes actifs varie selon les conditions de croissance et la saison."
   },
   "nutrition": {
-    "introduction": "Asclepias nivea L. (syn. Asclepias cubensis) est une herbe native rare des Départements du Sud et de la Grand'Anse, appartenant à la famille des Apocynacées. Au sein de cette famille, elle fait partie du genre Asclepias, un groupe d'environ 140 espèces américaines connues pour leur latex blanc caractéristique et leur rôle écologique crucial comme plantes hôtes des papillons monarques. L'espèce est documentée dans le Sud et la Grand'Anse pour un usage médicinal externe très spécifique : l'application locale de son latex pour éliminer les verrues, pratique qui nécessite une extrême prudence en raison de la toxicité potentielle de cette plante."
+    "valeur": "La valeur économique directe d'A. nivea reste limitée en raison de sa rareté et de ses restrictions d'usage. Son potentiel réside plutôt dans la recherche phytochimique sur les cardénolides et dans son rôle écologique comme plante hôte pour certains lépidoptères. Sa conservation présente une valeur patrimoniale pour la biodiversité caribéenne."
   },
   "toxicologie": {
-    "niveau": "toxic",
+    "niveau": "🔴 Toxique",
     "details": "Asclepias nivea présente une toxicité significative nécessitant des précautions strictes. L'ingestion de toute partie de la plante peut provoquer une intoxication cardiaque potentiellement mortelle due aux cardénolides. Les symptômes incluent nausées, vomissements, diarrhées, troubles du rythme cardiaque et convulsions. Le latex peut causer des irritations cutanées et oculaires sévères. L'usage est déconseillé chez les femmes enceintes, allaitantes et les enfants. Tout test cutané préalable sur une petite zone est impératif."
   },
   "conservation": {
@@ -38,8 +38,8 @@
     "valeur": "La valeur économique directe d'A. nivea reste limitée en raison de sa rareté et de ses restrictions d'usage. Son potentiel réside plutôt dans la recherche phytochimique sur les cardénolides et dans son rôle écologique comme plante hôte pour certains lépidoptères. Sa conservation présente une valeur patrimoniale pour la biodiversité caribéenne."
   },
   "recherche": {
-    "nb_articles": "",
     "details": "Les recherches sur A. nivea demeurent fragmentaires. Des études phytochimiques approfondies permettraient de caractériser précisément ses cardénolides et d'évaluer leur potentiel thérapeutique dans des formulations topiques sécurisées. Des essais cliniques contrôlés seraient nécessaires pour valider scientifiquement son efficacité contre les verrues. Parallèlement, des études écologiques clarifieraient ses exigences habitat et orienteraient les stratégies de conservation.",
+    "nb_articles": "",
     "lien_pubmed": "",
     "lien_scholar": "",
     "lien_tramil": "https://www.tramil.net/en/plant/asclepias-nivea"
@@ -47,12 +47,12 @@
   "references": "Agrawal, A.A. et al. (2012). Toxic cardenolides: chemical ecology and coevolution of specialized plant-herbivore interactions. New Phytologist, 194(1), 28-45. PMID: 22383094. Malcolm, S.B. (1991). Cardenolide-mediated interactions between plants and herbivores. Chemoecology and Plant-Insect Interactions, 251-296. POWO (2024). Plants of the World Online. Kew Science. https://powo.science.kew.org/ TRAMIL (2024). Asclepias nivea. https://www.tramil.net/en/plant/asclepias-nivea",
   "aRetenir": "🟠 À retenir — Zèb mandan bouven : est une plante a toxicite documentee. Tout usage interne non encadre est formellement deconseille. En cas d'ingestion accidentelle, consulter immediatement un service d'urgence. Ces informations sont destinees a l'enseignement et a la recherche uniquement. Les auteurs declinent toute responsabilite quant a un usage inapproprie.",
   "images": {
-    "principale": "images/91_Asclepias_nivea-001.jpg",
+    "principale": "/images/91_Asclepias_nivea-001.jpg",
     "galerie": [
-      "images/91_Asclepias_nivea-001.jpg",
-      "images/91_Asclepias_nivea-002.jpg",
-      "images/91_Asclepias_nivea-003.jpg"
+      "/images/91_Asclepias_nivea-001.jpg",
+      "/images/91_Asclepias_nivea-002.jpg",
+      "/images/91_Asclepias_nivea-003.jpg"
     ]
   },
-  "source": "plantes_full.json"
+  "source": "CSV corrigé 2026-04-11"
 }

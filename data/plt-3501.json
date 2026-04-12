@@ -1,7 +1,7 @@
 {
   "id_plante": "plt-3501",
   "code": "plt-3501",
-  "no_espece": "",
+  "no_espece": "35.1",
   "no_famille": "35",
   "famille": "Cucurbitacées",
   "description_famille": "Dominant les zones tropicales avec plus de 900 espèces réparties en 130 genres, les Cucurbitacées constituent l'une des familles les plus productives sur le plan alimentaire mondial. Ces lianes herbacées annuelles ou vivaces, facilement reconnaissables à leurs vrilles spiralées et leurs fruits charnus, regroupent des genres alimentaires majeurs comme Cucumis (melon, concombre), Cucurbita (courges, citrouilles), Citrullus (pastèque) et Lagenaria (calebasse). Les genres médicinaux incluent notamment Momordica (margose amère), réputé pour ses propriétés antidiabétiques, et Ecballium (concombre d'âne), aux effets purgatifs puissants. Sur le plan phytochimique, cette famille se caractérise par une signature dominée par l'eau, les caroténoïdes, la vitamine C, le potassium et les cucurbitacines — ces dernières étant des triterpènes amers aux propriétés biologiques intenses. Ces composés ciblent préférentiellement les systèmes rénal, digestif et parasitaire. Une vigilance particulière s'impose avec certaines espèces sauvages : les cucurbitacines, présentes en concentrations élevées dans les variétés non cultivées, peuvent provoquer des intoxications graves par leur effet drastiquement purgatif.",
@@ -20,17 +20,17 @@
   },
   "usages": {
     "usages_ethnobotaniques": "Dans le Sud et la Grand'Anse, le melon est documenté principalement comme fruit alimentaire rafraîchissant et boisson diurétique. Le fruit mûr se consomme cru, soit directement à la cuillère, soit transformé en jus additionné d'eau et parfois de citron. En usage médicinal traditionnel, la pulpe fraîche est réputée rafraîchissante et diurétique, particulièrement appréciée en période de chaleur intense ou en cas de rétention hydrique légère. Les graines, moins utilisées, sont parfois séchées et moulues comme vermifuge traditionnel, bien que cette pratique reste peu documentée localement. Les feuilles, rarement employées, peuvent être préparées en tisane légère pour leurs propriétés diurétiques supposées, mais cette utilisation n'est pas standardisée.",
-    "systemes_concernes": "Digestif, Urinaire"
+    "systemes_concernes": "Selon les observations ethnobotaniques du Sud et de la Grand'Anse, le melon cible principalement le système rénal et, secondairement, le système digestif. Les affections traditionnellement traitées incluent la rétention d'eau, les troubles urinaires mineurs et les inconforts digestifs liés à la chaleur. Le mécanisme d'action repose sur plusieurs composants synergiques : la haute teneur en eau (90%) et en potassium (300 mg/100g) favorise la diurèse osmotique et l'élimination hydrosodée. Les caroténoïdes et la vitamine C exercent une protection antioxydante qui pourrait bénéficier à la fonction rénale. Les fibres solubles facilitent le transit intestinal. Cependant, les cucurbitacines, même en traces, peuvent exercer un léger effet irritant sur les muqueuses digestives à fortes doses, expliquant la modération traditionnelle dans les quantités consommées."
   },
   "pharmacologie": {
     "molecules": "Le fruit du melon doit ses propriétés à sa composition exceptionnellement riche en eau (environ 90%), en sucres naturels et en caroténoïdes responsables de sa couleur orange caractéristique. Les variétés à chair orange doivent leur teinte au β-carotène, précurseur de la vitamine A, tandis que les variétés à chair claire contiennent principalement de la lutéine et de la zéaxanthine. Cette richesse en eau et en potassium (environ 300 mg pour 100g de fruit frais) confère au melon ses propriétés diurétiques naturelles. Le fruit contient également de la citrulline, un acide aminé non protéique aux propriétés vasodilatatrices, et de l'acide ascorbique (vitamine C) en quantités variables selon la variété et les conditions de culture (Lester, 2008 — PMID: 18318906). Les principaux composés secondaires identifiés dans C. melo comprennent : des caroténoïdes (β-carotène, lutéine, zéaxanthine), des flavonoïdes (quercétine, kaempférol, apigénine), des cucurbitacines en traces dans le fruit mûr, des saponines triterpéniques et des composés phénoliques divers. Les graines renferment des protéines de qualité, des lipides riches en acides gras insaturés et des phytostérols (Mallek-Ayadi et al., 2018 — PMID: 29409499). Ces molécules remplissent des fonctions de protection précises pour la plante. Les caroténoïdes protègent les graines contre les dommages photo-oxydatifs lors de la maturation du fruit. Les cucurbitacines, bien qu'en faibles concentrations dans le fruit consommé, constituent un système de défense contre les herbivores et les pathogènes. Ces mêmes composés, une fois ingérés par l'humain, produisent les effets biologiques documentés : les caroténoïdes exercent une activité antioxydante systémique, le potassium favorise la diurèse, et la citrulline pourrait contribuer à l'amélioration de la fonction vasculaire, bien que ces observations restent principalement issues d'études in vitro et sur modèles animaux.",
     "posologie": "Aucune posologie cliniquement validée n'est disponible pour C. melo en usage médicinal spécifique. Les pratiques traditionnelles documentées dans le Sud et la Grand'Anse ne sont pas standardisées. En usage alimentaire courant, la consommation varie de 100 à 200 g de fruit frais par jour, quantité généralement bien tolérée et nutritionnellement bénéfique."
   },
   "nutrition": {
-    "introduction": "Cucumis melo L. (syn. Melo sativus) est une liane herbacée annuelle exotique, cultivée de façon limitée dans les Départements du Sud et de la Grand'Anse. Il appartient à la famille des Cucurbitacées, une grande famille tropicale dominée par des lianes productives aux fruits charnus, reconnue mondialement pour ses genres alimentaires majeurs et ses usages médicinaux diversifiés. Au sein de cette famille, Cucumis melo fait partie du genre Cucumis, qui regroupe plusieurs espèces à fort potentiel alimentaire — notamment le concombre (Cucumis sativus) — toutes caractérisées par leur richesse en eau, en potassium et en composés antioxydants. Dans le contexte haïtien, le melon constitue un fruit rafraîchissant apprécié en saison sèche et un remède traditionnel reconnu pour ses propriétés diurétiques et digestives."
+    "valeur": "La valeur économique locale demeure modeste en raison de la production limitée, mais le potentiel de développement existe. Au niveau international, C. melo représente l'une des cultures fruitières les plus importantes économiquement, avec un marché mondial en expansion constante, notamment pour les variétés biologiques et les jus naturels."
   },
   "toxicologie": {
-    "niveau": "",
+    "niveau": "🟡 Précautions requises",
     "details": "Le melon cultivé présente un profil de sécurité excellent pour la majorité de la population. Les précautions concernent principalement les personnes souffrant d'insuffisance rénale sévère, en raison de l'apport potassique significatif qui pourrait aggraver une hyperkaliémie existante. Des réactions allergiques croisées sont possibles chez les personnes sensibles à d'autres Cucurbitacées. L'ingestion de grandes quantités de graines crues est déconseillée chez les jeunes enfants en raison du risque d'obstruction digestive. Il convient d'éviter les fruits amers ou de goût anormal, qui pourraient contenir des concentrations élevées de cucurbitacines irritantes."
   },
   "conservation": {
@@ -38,8 +38,8 @@
     "valeur": "La valeur économique locale demeure modeste en raison de la production limitée, mais le potentiel de développement existe. Au niveau international, C. melo représente l'une des cultures fruitières les plus importantes économiquement, avec un marché mondial en expansion constante, notamment pour les variétés biologiques et les jus naturels."
   },
   "recherche": {
-    "nb_articles": "",
     "details": "Les recherches actuelles se concentrent sur l'optimisation des variétés résistantes à la sécheresse et aux pathogènes, particulièrement pertinentes pour le contexte haïtien. Les propriétés antioxydantes et néphroprotectrices font l'objet d'investigations prometteuses. Le développement de techniques de culture adaptées aux petites exploitations pourrait favoriser l'expansion de cette culture nutritive dans les deux départements.",
+    "nb_articles": "",
     "lien_pubmed": "",
     "lien_scholar": "",
     "lien_tramil": "https://www.tramil.net/en/plant/cucumis-melo"
@@ -47,10 +47,10 @@
   "references": "Lester, G.E. (2008). Antioxidant, sugar, mineral, and phytonutrient concentrations across edible fruit tissues of orange-fleshed honeydew melon. Journal of Agricultural and Food Chemistry. PMID: 18318906. Mallek-Ayadi, S. et al. (2018). Chemical composition and bioactive compounds of Cucumis melo L. seeds: Potential source for new trends of plant oils. Process Safety and Environmental Protection. PMID: 29409499. POWO (2024). Plants of the World Online. Kew Science. http://www.plantsoftheworldonline.org/ TRAMIL (2024). Cucumis melo. https://www.tramil.net/en/plant/cucumis-melo",
   "aRetenir": "🟢 À retenir — Melon : est avant tout un aliment — sa valeur nutritionnelle prime sur ses usages medicinaux. Consommee correctement preparee, elle est sans danger documente. Ses proprietes therapeutiques, reelles mais secondaires, ne remplacent pas un suivi medical. Les auteurs declinent toute responsabilite quant a un usage inapproprie. ATLAS ETHNOBOTANIQUE Plantes médicinales, aromatiques et alimentaires Départements du Sud et de la Grand'Anse — Haïti Bloc 06 — Especes 101 a 120 Jiromon -> Pwa kongo 20 espèces · 4 famille(s) Source : Base de Référence Haïtienne (BRH) — Jardin Botanique des Cayes Validation : PubMed · Google Scholar · TRAMIL · POWO (Kew Science)",
   "images": {
-    "principale": "images/351_Cucumis_melo-001.jpg",
+    "principale": "/images/351_Cucumis_melo-001.jpg",
     "galerie": [
-      "images/351_Cucumis_melo-001.jpg"
+      "/images/351_Cucumis_melo-001.jpg"
     ]
   },
-  "source": "plantes_full.json"
+  "source": "CSV corrigé 2026-04-11"
 }

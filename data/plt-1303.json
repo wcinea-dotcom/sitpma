@@ -1,7 +1,7 @@
 {
   "id_plante": "plt-1303",
   "code": "plt-1303",
-  "no_espece": "",
+  "no_espece": "13.3",
   "no_famille": "13",
   "famille": "Arécacées",
   "description_famille": "",
@@ -20,17 +20,17 @@
   },
   "usages": {
     "usages_ethnobotaniques": "L'usage dominant de R. regia dans le Sud et la Grand'Anse est alimentaire, centré sur la consommation du « chou palmis » — le cœur tendre du palmier récolté après abattage de l'arbre. Cette pratique, documentée dans les inventaires ethnobotaniques régionaux, fait du chou palmis un légume prisé, consommé cru en salade ou cuit dans les ragoûts traditionnels. Les graines servent également à l'engraissement des porcs, usage économique secondaire mais important pour l'élevage local. Dans l'ensemble des Caraïbes, selon les données TRAMIL, l'espèce conserve principalement sa vocation alimentaire, bien que certaines îles rapportent des usages médicinaux des racines en décoction pour traiter l'hypertension et les troubles urinaires. À Cuba, où R. regia constitue l'arbre national, des préparations traditionnelles à base de racines sont utilisées pour les troubles prostatiques chez l'homme âgé.",
-    "systemes_concernes": "Urinaire, Cardiovasculaire"
+    "systemes_concernes": "Selon les données ethnopharmacologiques caribéennes, R. regia ciblerait préférentiellement le système cardiovasculaire et l'appareil génito-urinaire masculin. Les effets hypotenseurs et diurétiques rapportés dans les médecines populaires pourraient s'expliquer par l'action synergique des flavonoïdes et des saponines présents dans les racines. Ces composés favoriseraient potentiellement la vasodilatation périphérique et l'excrétion sodée rénale, mécanismes classiques de régulation tensionnelle. Concernant les troubles prostatiques, l'activité des phytostérols — notamment le β-sitostérol — sur la 5α-réductase et les récepteurs androgéniques constitue une hypothèse mécanistique plausible, par analogie avec d'autres palmiers médicinaux comme Serenoa repens. Les propriétés anti-inflammatoires attribuées à l'espèce résulteraient vraisemblablement de l'inhibition des voies COX et LOX par les composés phénoliques. Néanmoins, ces mécanismes restent hypothétiques pour R. regia, aucun essai clinique humain n'ayant été publié spécifiquement sur cette espèce."
   },
   "pharmacologie": {
     "molecules": "La particularité chimique de Le palmier royal réside dans une composition nutritionnelle riche et équilibrée, particulièrement dans son cœur comestible. Ce « chou palmis » concentre des glucides complexes sous forme d'amidon et de fibres alimentaires, ainsi que des protéines végétales de qualité moyenne. Sa saveur douce et fade résulte d'une faible concentration en composés aromatiques volatils et d'une teneur modérée en sucres simples. Les fruits matures accumulent des acides gras saturés, notamment l'acide laurique et l'acide palmitique, leur conférant une valeur énergétique appréciable pour l'engraissement du bétail, usage documenté dans le Sud et la Grand'Anse. Les microéléments probables incluent le potassium, le magnésium, le calcium, le fer et le zinc, typiques des palmiers tropicaux. Les principaux composés secondaires identifiés dans R. regia comprennent : des flavonoïdes (quercétine, rutine), des saponines triterpéniques, des phytostérols (β-sitostérol, stigmastérol), des tanins condensés et des terpénoïdes (Pharmacia, 2019). Ces molécules s'accumulent préférentiellement dans les racines et les fruits, zones de stockage et de reproduction de la plante. Ces composés remplissent des fonctions de défense essentielles pour le palmier. Les saponines protègent les racines contre les pathogènes telluriques par leur activité antifongique. Les phytostérols contribuent à la stabilité membranaire des cellules face aux stress osmotiques et thermiques des climats tropicaux. Les tanins concentrés dans les fruits immatures dissuadent leur consommation prématurée par les herbivores, garantissant la maturation complète des graines. Ces mêmes composés, une fois ingérés par l'humain, produisent les effets biologiques documentés dans les usages traditionnels caribéens : les saponines pourraient expliquer les propriétés diurétiques rapportées, tandis que les flavonoïdes contribueraient aux effets anti-inflammatoires observés. Toutefois, ces mécanismes restent principalement issus d'études in vitro sur le genre Roystonea.",
     "posologie": "Aucune posologie cliniquement validée n'est disponible pour R. regia dans la littérature médicale. Les données ethnopharmacologiques rapportent l'usage traditionnel de décoctions préparées avec 5 à 10 grammes de racines ou de fragments de fruits par litre d'eau, administrées à raison de 2 à 3 tasses par jour pour les troubles cardiovasculaires et urinaires. Ces dosages, issus des pratiques populaires caribéennes, ne bénéficient d'aucune validation scientifique rigoureuse et doivent être considérés comme purement indicatifs. La variabilité inter-individuelle des réponses et l'absence de standardisation des préparations rendent ces recommendations empiriques peu fiables sur le plan thérapeutique."
   },
   "nutrition": {
-    "introduction": "Roystonea regia (syn. Oreodoxa regia) est un palmier majestueux natif d'Haïti, dominant le paysage des Départements du Sud et de la Grand'Anse. Il appartient à la famille des Arécacées, cette grande famille tropicale de palmiers qui constitue l'épine dorsale de nombreux écosystèmes caribéens. Au sein de cette famille, il fait partie du genre Roystonea, groupe de palmiers élancés des Antilles reconnus pour leur port spectaculaire et leurs multiples usages traditionnels. Dans les deux départements, le palmier royal occupe une place centrale à la fois alimentaire — par son cœur comestible appelé « chou palmis » — et économique, par son bois utilisé en construction. Son abondance locale en fait une ressource précieuse pour les communautés rurales, bien que sa récolte nécessite l'abattage de l'arbre entier."
+    "valeur": "R. regia génère des revenus significatifs pour les communautés locales des deux départements. Le commerce du cœur palmier constitue une source de revenus ponctuelle mais substantielle pour les récolteurs, bien que non durable. Les graines utilisées pour l'engraissement porcin représentent un complément économique appréciable. Au niveau international, l'espèce jouit d'une forte demande ornementale pour l'aménagement paysager tropical, particulièrement en Floride et dans les Antilles, générant un marché horticole spécialisé. Sa valeur symbolique — arbre national de Cuba — lui confère également un statut patrimonial remarquable."
   },
   "toxicologie": {
-    "niveau": "",
+    "niveau": "🟢 Non toxique aux doses usuelles",
     "details": "R. regia présente un profil de sécurité favorable, aucun cas d'intoxication grave n'étant documenté dans la littérature scientifique. Le cœur de palmier consommé alimentairement ne présente aucune toxicité connue aux doses habituelles. Cependant, les préparations médicinales à base de racines exigent certaines précautions : des surdosages pourraient théoriquement provoquer une hypotension excessive chez les personnes déjà traitées pour l'hypertension, ainsi que des troubles digestifs liés aux saponines. Les femmes enceintes et allaitantes devraient éviter les préparations concentrées par mesure de précaution. Des réactions allergiques cutanées restent possibles chez les individus sensibles aux composés phénoliques."
   },
   "conservation": {
@@ -38,8 +38,8 @@
     "valeur": "R. regia génère des revenus significatifs pour les communautés locales des deux départements. Le commerce du cœur palmier constitue une source de revenus ponctuelle mais substantielle pour les récolteurs, bien que non durable. Les graines utilisées pour l'engraissement porcin représentent un complément économique appréciable. Au niveau international, l'espèce jouit d'une forte demande ornementale pour l'aménagement paysager tropical, particulièrement en Floride et dans les Antilles, générant un marché horticole spécialisé. Sa valeur symbolique — arbre national de Cuba — lui confère également un statut patrimonial remarquable."
   },
   "recherche": {
-    "nb_articles": "",
     "details": "Avec environ une centaine d'articles scientifiques référencés, R. regia demeure sous-étudiée sur le plan pharmacologique comparativement à d'autres palmiers médicinaux. Les recherches futures devraient prioritairement évaluer l'activité des extraits de racines sur les modèles d'hypertension et d'hyperplasie prostatique, afin de valider scientifiquement les usages traditionnels caribéens. Des études de biodisponibilité et de pharmacocinétique des principaux composés bioactifs seraient nécessaires pour établir des posologies rationnelles. La caractérisation complète du profil phytochimique, notamment des saponines spécifiques à l'espèce, représente également un axe de recherche prioritaire pour comprendre ses mécanismes d'action distinctifs.",
+    "nb_articles": "",
     "lien_pubmed": "",
     "lien_scholar": "",
     "lien_tramil": "https://www.tramil.net/en/plant/roystonea-regia"
@@ -47,10 +47,10 @@
   "references": "Pharmacia. (2019). Traditional uses and phytochemistry of Roystonea regia: A comprehensive review. Pharmacia, 66(4), 185-192. DOI: 10.3897/pharmacia.66.e36125 Plants For A Future (PFAF). Roystonea regia. Disponible sur : https://pfaf.org/user/Plant.aspx?LatinName=Roystonea+regia TRAMIL. Roystonea regia. Disponible sur : https://www.tramil.net/en/plant/roystonea-regia POWO. (2024). Roystonea regia (O.F.Cook) O.F.Cook. Plants of the World Online, Kew Science. World Flora Online. (2024). Roystonea regia (O.F.Cook) O.F.Cook.",
   "aRetenir": "🟢 À retenir — Palmis : est avant tout un aliment — sa valeur nutritionnelle prime sur ses usages medicinaux. Consommee correctement preparee, elle est sans danger documente. Ses proprietes therapeutiques, reelles mais secondaires, ne remplacent pas un suivi medical. Les auteurs declinent toute responsabilite quant a un usage inapproprie.",
   "images": {
-    "principale": "images/133_Roystonea_regia-001.jpg",
+    "principale": "/images/133_Roystonea_regia-001.jpg",
     "galerie": [
-      "images/133_Roystonea_regia-001.jpg"
+      "/images/133_Roystonea_regia-001.jpg"
     ]
   },
-  "source": "plantes_full.json"
+  "source": "CSV corrigé 2026-04-11"
 }

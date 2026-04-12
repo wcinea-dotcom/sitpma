@@ -1,7 +1,7 @@
 {
   "id_plante": "plt-4707",
   "code": "plt-4707",
-  "no_espece": "",
+  "no_espece": "47.7",
   "no_famille": "47",
   "famille": "Malvacées",
   "description_famille": "",
@@ -20,17 +20,17 @@
   },
   "usages": {
     "usages_ethnobotaniques": "L'usage de P. spinifex en médecine traditionnelle haïtienne est documenté dans le Sud et la Grand'Anse principalement sous deux formes thérapeutiques. La première consiste en bains de santé préparés par décoction des feuilles et jeunes tiges, pratique courante pour traiter les affections cutanées et les douleurs musculo-squelettiques. La seconde application concerne la préparation de tisanes anti-grippales, où les feuilles sont infusées pour obtenir une boisson aux propriétés anti-inflammatoires et antimicrobiennes. Le mode de préparation traditionnel privilégie la décoction, technique qui permet d'extraire efficacement les tanins et mucilages hydrosolubles responsables des effets thérapeutiques. Cette double utilisation — externe et interne — illustre la polyvalence thérapeutique attribuée à l'espèce par les praticiens locaux. Au niveau caribéen, TRAMIL confirme l'usage en bains pour Haïti, tandis que le Brésil documente des applications anti-inflammatoires, suggérant une convergence d'usages thérapeutiques à travers les régions tropicales américaines.",
-    "systemes_concernes": ""
+    "systemes_concernes": "Selon les données ethnobotaniques compilées, P. spinifex cible principalement le système musculo-squelettique et trouve des applications dans le traitement des affections cutanées et des troubles liés à la tension. Les mécanismes d'action probables reposent sur l'astringence des tanins, qui resserrent les tissus et réduisent les inflammations locales, ainsi que sur les effets antimicrobiens et anti-inflammatoires des polyphénols identifiés dans le genre Pavonia. Les saponines triterpéniques pourraient contribuer aux propriétés cicatrisantes observées en usage externe. Cependant, aucune étude mécanistique détaillée n'a été publiée spécifiquement pour P. spinifex. Par analogie avec des espèces proches du genre, une étude sur Pavonia alnifolia a démontré une activité antimicrobienne significative contre plusieurs souches bactériennes pathogènes (Santos et al., 2012 — PMID: 22417662), suggérant que P. spinifex pourrait partager ces propriétés en raison de leur composition chimique similaire. Les propriétés anti-inflammatoires rapportées nécessitent toutefois une confirmation expérimentale spécifique."
   },
   "pharmacologie": {
     "molecules": "La saveur astringente caractéristique de P. spinifex provient principalement de sa richesse en tanins condensés, ces polyphénols complexes qui provoquent une sensation de resserrement en bouche en précipitant les protéines salivaires. Cette astringence constitue un mécanisme de défense efficace contre les herbivores et les pathogènes. Les mucilages, polymères de sucres hydrophiles caractéristiques des Malvacées, confèrent aux tissus leurs propriétés hydratantes et émollientes tout en participant à la rétention d'eau dans les feuilles, adaptation cruciale aux périodes sèches du climat haïtien. Ces mêmes mucilages sont responsables de la texture légèrement visqueuse des décoctions de feuilles. Les principaux composés secondaires identifiés dans le genre Pavonia comprennent : des flavonoïdes (quercétine, kaempférol, rutine), des tanins condensés et hydrolysables, des saponines triterpéniques, des acides phénoliques (acides chlorogénique et caféique), des triterpènes et des alcaloïdes en faibles concentrations (Silva et al., 2010 — doi:10.1016/j.jep.2010.02.026). Une étude brésilienne sur Pavonia alnifolia a confirmé la présence de composés phénoliques bioactifs responsables des activités antimicrobiennes observées (Santos et al., 2012 — PMID: 22417662). Ces molécules remplissent des fonctions défensives précises pour la plante. Les tanins protègent contre l'attaque des insectes phytophages en rendant les tissus moins digestibles, tandis que les flavonoïdes offrent une protection contre les rayonnements UV intenses des régions tropicales et participent à la résistance aux pathogènes fongiques. Les saponines, avec leurs propriétés tensioactives, perturbent les membranes cellulaires des agents pathogènes. Ces mêmes composés, une fois ingérés par l'humain, produisent les effets biologiques documentés : l'astringence des tanins explique l'usage traditionnel pour les affections cutanées, tandis que les flavonoïdes contribuent aux propriétés anti-inflammatoires observées. Les observations restent toutefois principalement issues d'études in vitro et nécessitent une validation clinique approfondie.",
     "posologie": "Selon les pratiques populaires documentées, les infusions de feuilles de P. spinifex sont traditionnellement préparées à raison d'environ 5 grammes de matière végétale par litre d'eau. Cependant, aucune posologie cliniquement validée n'est disponible pour cette espèce. Les pratiques traditionnelles documentées localement ne sont pas standardisées et varient selon les praticiens et les régions. L'absence d'études pharmacocinétiques et de données de biodisponibilité limite la transposition de ces usages empiriques vers des recommandations thérapeutiques précises. Des recherches cliniques seraient nécessaires pour établir des posologies sûres et efficaces."
   },
   "nutrition": {
-    "introduction": "Pavonia spinifex (L.) (syn. Hibiscus spinifex) est un arbuste natif d'Haïti, commun dans les Départements du Sud et de la Grand'Anse. Il appartient à la famille des Malvacées, une famille cosmopolite regroupant plus de 4 000 espèces allant des herbes aux grands arbres tropicaux. Cette famille se distingue par ses genres alimentaires majeurs comme le cacao (Theobroma cacao) et l'okra (Abelmoschus esculentus), ses genres médicinaux traditionnels incluant les hibiscus et les mauves, ainsi que ses genres ornementaux populaires tels que Hibiscus rosa-sinensis. Sur le plan phytochimique, les Malvacées expriment une signature caractérisée par des mucilages hydratants, des flavonoïdes colorés, des anthocyanes comme la malvidine, des tanins astringents et, dans le cas du cacao, des alcaloïdes stimulants comme la théobromine. Ces composés ciblent préférentiellement les systèmes respiratoire, digestif et tégumentaire. Une vigilance particulière s'impose car certaines espèces renferment des principes actifs puissants : la théobromine du cacao peut provoquer des palpitations à forte dose et s'avère toxique pour les chiens, tandis que le gossypol présent dans les graines de coton présente une toxicité pour certains animaux. Au sein de cette famille, P. spinifex fait partie du genre Pavonia, un groupe d'arbustes tropicaux réputés pour leurs propriétés astringentes et anti-inflammatoires. Il est principalement utilisé à des fins médicinales dans les pratiques de santé traditionnelle haïtienne."
+    "valeur": "La valeur économique de P. spinifex reste modeste mais localement significative. Sa valeur médicinale principale réside dans son usage traditionnel par les communautés rurales des Départements du Sud et de la Grand'Anse, contribuant aux systèmes de santé primaire locaux. Son potentiel ornemental, reconnu à l'échelle internationale, pourrait être valorisé dans le contexte de l'horticulture tropicale, bien que cette application reste peu développée en Haïti. L'espèce ne fait pas l'objet d'un commerce significatif, son usage demeurant principalement domestique et communautaire. Le développement de produits phytothérapeutiques standardisés pourrait représenter une opportunité économique future."
   },
   "toxicologie": {
-    "niveau": "",
+    "niveau": "⚠️ Données insuffisantes",
     "details": "P. spinifex présente un profil de sécurité favorable et est classée comme non toxique selon les données disponibles. Les principales précautions concernent les risques d'usage excessif, qui pourrait provoquer des diarrhées ou des irritations digestives dues à la forte teneur en tanins astringents. Ces composés, en excès, peuvent perturber l'absorption des nutriments et provoquer des troubles gastro-intestinaux. Une prudence particulière est recommandée pendant la grossesse et l'allaitement, périodes où les données de sécurité sont insuffisantes. Les personnes souffrant de pathologies chroniques, notamment hépatiques ou rénales, devraient consulter un professionnel de santé avant usage prolongé. Aucune interaction médicamenteuse majeure n'a été rapportée, mais la surveillance reste recommandée en cas d'usage concomitant avec des traitements conventionnels."
   },
   "conservation": {
@@ -38,8 +38,8 @@
     "valeur": "La valeur économique de P. spinifex reste modeste mais localement significative. Sa valeur médicinale principale réside dans son usage traditionnel par les communautés rurales des Départements du Sud et de la Grand'Anse, contribuant aux systèmes de santé primaire locaux. Son potentiel ornemental, reconnu à l'échelle internationale, pourrait être valorisé dans le contexte de l'horticulture tropicale, bien que cette application reste peu développée en Haïti. L'espèce ne fait pas l'objet d'un commerce significatif, son usage demeurant principalement domestique et communautaire. Le développement de produits phytothérapeutiques standardisés pourrait représenter une opportunité économique future."
   },
   "recherche": {
-    "nb_articles": "",
     "details": "Les publications scientifiques spécifiques à P. spinifex demeurent limitées, avec environ une vingtaine d'articles disponibles dans la littérature. Les recherches futures devraient prioritairement se concentrer sur la caractérisation phytochimique complète de l'espèce haïtienne, l'évaluation de sa bioactivité in vitro et in vivo, et la standardisation de ses extraits. Des études cliniques contrôlées seraient nécessaires pour valider scientifiquement les usages traditionnels, particulièrement ses propriétés anti-inflammatoires et antimicrobiennes. L'investigation de son potentiel cosmétologique, en raison de ses propriétés astringentes et cicatrisantes, représente également une piste de recherche prometteuse pour le développement de produits naturels innovants.",
+    "nb_articles": "",
     "lien_pubmed": "",
     "lien_scholar": "",
     "lien_tramil": "https://www.tramil.net/en/plant/pavonia-spinifex"
@@ -47,13 +47,13 @@
   "references": "Silva, M.G. et al. (2010). Ethnopharmacological study of Pavonia species in Brazil. Journal of Ethnopharmacology. doi:10.1016/j.jep.2010.02.026. Santos, L.C. et al. (2012). Antimicrobial activity of Pavonia alnifolia extracts. PMID: 22417662. POWO (2024). Plants of the World Online. Kew Science. https://powo.science.kew.org/ World Flora Online (2024). http://www.worldfloraonline.org/ TRAMIL (2024). Pavonia spinifex. https://www.tramil.net/en/plant/pavonia-spinifex",
   "aRetenir": "🟢 À retenir — Gran kouzen : est utilisee en medecine traditionnelle avec un bon profil de securite aux doses courantes. Les usages presentes reposent sur des donnees ethnobotaniques et scientifiques publiees, mais ne constituent pas une prescription. Consulter un professionnel de sante avant tout usage therapeutique. Les auteurs declinent toute responsabilite quant a un usage inapproprie.",
   "images": {
-    "principale": "images/477_Pavonia_spinifex-001.jpg",
+    "principale": "/images/477_Pavonia_spinifex-001.jpg",
     "galerie": [
-      "images/477_Pavonia_spinifex-001.jpg",
-      "images/477_Pavonia_spinifex-002.jpg",
-      "images/477_Pavonia_spinifex-003.jpg",
-      "images/477_Pavonia_spinifex-004.jpg"
+      "/images/477_Pavonia_spinifex-001.jpg",
+      "/images/477_Pavonia_spinifex-002.jpg",
+      "/images/477_Pavonia_spinifex-003.jpg",
+      "/images/477_Pavonia_spinifex-004.jpg"
     ]
   },
-  "source": "plantes_full.json"
+  "source": "CSV corrigé 2026-04-11"
 }

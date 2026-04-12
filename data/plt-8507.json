@@ -1,7 +1,7 @@
 {
   "id_plante": "plt-8507",
   "code": "plt-8507",
-  "no_espece": "",
+  "no_espece": "85.7",
   "no_famille": "85",
   "famille": "Solanacées",
   "description_famille": "",
@@ -20,17 +20,17 @@
   },
   "usages": {
     "usages_ethnobotaniques": "L'usage de l'aubergine documenté dans les Départements du Sud et de la Grand'Anse est principalement alimentaire et médicinal. Les fruits constituent un légume de base, consommés cuits ou en salade avec d'autres légumes dans la cuisine traditionnelle haïtienne. Ils sont généralement grillés, bouillis ou sautés, jamais consommés crus en raison de leur texture spongieuse et de leur légère amertume. Les feuilles font l'objet d'un usage médicinal traditionnel sous forme d'infusions pour leurs propriétés digestives, antioxydantes, hypotensives, anti-inflammatoires et diurétiques. Cependant, l'usage des feuilles demande une grande prudence en raison de leur teneur plus élevée en glycoalcaloïdes potentiellement toxiques. La préparation culinaire des fruits élimine naturellement la plupart des composés indésirables et optimise l'absorption des antioxydants.",
-    "systemes_concernes": "Cardiovasculaire"
+    "systemes_concernes": "L'aubergine cible principalement le système cardiovasculaire et nutritionnel. Elle est documentée dans les Départements du Sud et de la Grand'Anse pour la gestion du cholestérol élevé. Les mécanismes d'action impliquent plusieurs voies complémentaires : les polyphénols comme la nasunine exercent un piégeage des radicaux libres et une protection vasculaire (Noda et al., 2000 — PMID: 10479465), les fibres solubles améliorent le profil lipidique et le transit intestinal, tandis que l'acide chlorogénique contribue à la régulation du métabolisme des lipides. Des études in vitro ont montré que les extraits d'aubergine pouvaient réduire l'oxydation du cholestérol LDL et améliorer la fonction endothéliale (Gürbüz et al., 2018 — PMID: 29156509). Cependant, il convient de noter que les glycoalcaloïdes présents en faibles quantités dans le fruit pourraient présenter une toxicité potentielle à doses importantes, bien que cette toxicité reste négligeable dans l'usage alimentaire normal."
   },
   "pharmacologie": {
     "molecules": "L'aubergine se caractérise par une composition nutritionnelle remarquable, notamment sa richesse en nasunine, un anthocyane violet responsable de la couleur pourpre caractéristique du fruit. Cette molécule antioxydante puissante protège les membranes cellulaires contre l'oxydation et contribue aux propriétés cardioprotectrices documentées de l'aubergine (Noda et al., 2000 — PMID: 10479465). Le fruit contient également de l'acide chlorogénique, un composé phénolique aux propriétés hypocholestérolémiantes, ainsi que des fibres solubles favorisant la régulation du transit intestinal et du métabolisme lipidique. Sur le plan minéral, l'aubergine se distingue par sa teneur notable en potassium, magnésium et traces de fer et zinc. Les principaux composés secondaires identifiés dans S. melongena comprennent : des glycoalcaloïdes (solasodine, solanine en faibles concentrations dans le fruit mûr), des flavonoïdes (nasunine, rutine, quercétine), des saponines stéroïdiques, des caroténoïdes et de l'acide chlorogénique (Gürbüz et al., 2018 — PMID: 29156509). Ces molécules confèrent à la plante ses propriétés antioxydantes, anti-inflammatoires et hypolipémiantes documentées. Ces composés remplissent des fonctions de défense précises pour la plante. Les glycoalcaloïdes, concentrés principalement dans les feuilles et les parties vertes, protègent contre les herbivores et les pathogènes par leur amertume et leur toxicité modérée. La nasunine protège le fruit contre les rayonnements UV et l'oxydation. Ces mêmes composés, une fois ingérés par l'humain, produisent les effets biologiques documentés : protection cardiovasculaire, activité antioxydante et amélioration du profil lipidique, bien que la plupart des études restent in vitro ou sur modèles animaux.",
     "posologie": "Pour l'usage alimentaire, la consommation de 100-200 g par jour de fruit cuit ou grillé s'intègre parfaitement dans une alimentation équilibrée. Cette quantité apporte une dose significative d'antioxydants et de fibres sans risque toxicologique. Concernant les infusions de feuilles à visée médicinale, aucune posologie cliniquement validée n'est disponible pour S. melongena en raison des préoccupations toxicologiques liées aux glycoalcaloïdes. Les pratiques traditionnelles documentées localement ne sont pas standardisées et leur usage doit faire l'objet d'une grande prudence, particulièrement chez les enfants, les femmes enceintes et les personnes souffrant d'insuffisance rénale."
   },
   "nutrition": {
-    "introduction": "Solanum melongena L. (syn. Solanum esculentum) est une herbe exotique commune dans les Départements du Sud et de la Grand'Anse d'Haïti, introduite et largement cultivée en zone de basse altitude. Elle appartient à la famille des Solanacées, une famille très variable regroupant des herbes et arbustes aux usages alimentaires, médicinaux et spirituels contrastés. Au sein de cette famille coexistent des espèces alimentaires incontournables — comme la tomate (Solanum lycopersicum), la pomme de terre (Solanum tuberosum) et le piment (Capsicum annuum) — et des espèces hautement toxiques comme Brugmansia, dont l'usage interne est absolument prohibé. Cette dualité s'explique par la signature phytochimique complexe de la famille, dominée par des alcaloïdes tropaniques (atropine, scopolamine), la solanine, la nicotine, la capsaïcine et des caroténoïdes, ciblant préférentiellement les systèmes nerveux, musculo-squelettique et tégumentaire. La vigilance reste de mise car certains représentants renferment des principes actifs très puissants exigeant un dosage strict. Dans le genre Solanum, S. melongena fait partie des espèces à vocation alimentaire sûre, contrairement à d'autres membres du genre contenant des glycoalcaloïdes toxiques. L'aubergine constitue un légume de base de l'alimentation haïtienne et un remède traditionnel aux propriétés antioxydantes reconnues."
+    "valeur": "L'aubergine représente une valeur économique importante tant au niveau local qu'international. Localement, elle constitue une source de revenus pour les maraîchers des Départements du Sud et de la Grand'Anse, ainsi qu'un aliment nutritif accessible. Au niveau international, elle fait partie du marché agro-alimentaire mondial, avec un potentiel d'exportation pour certaines variétés spécialisées."
   },
   "toxicologie": {
-    "niveau": "",
+    "niveau": "🟡 Précautions requises",
     "details": "L'aubergine présente un profil de sécurité globalement favorable pour l'usage alimentaire des fruits mûrs et cuits. Cependant, les feuilles et parties vertes sont riches en solasodine et autres glycoalcaloïdes pouvant causer une toxicité neurologique et digestive à forte dose. Les fruits sont généralement sûrs dans l'usage culinaire normal, mais la prudence s'impose pour les préparations médicinales non alimentaires, particulièrement chez les personnes souffrant d'insuffisance rénale (en raison de la teneur en potassium), les enfants et les femmes enceintes. La cuisson élimine la plupart des composés potentiellement irritants et optimise la biodisponibilité des antioxydants."
   },
   "conservation": {
@@ -38,20 +38,20 @@
     "valeur": "L'aubergine représente une valeur économique importante tant au niveau local qu'international. Localement, elle constitue une source de revenus pour les maraîchers des Départements du Sud et de la Grand'Anse, ainsi qu'un aliment nutritif accessible. Au niveau international, elle fait partie du marché agro-alimentaire mondial, avec un potentiel d'exportation pour certaines variétés spécialisées."
   },
   "recherche": {
-    "nb_articles": "~2000 (estimation)",
     "details": "Avec environ 2000 publications référencées sur PubMed, S. melongena fait l'objet d'un intérêt scientifique soutenu, notamment pour ses propriétés antioxydantes et cardioprotectrices. Les recherches futures pourraient se concentrer sur l'optimisation des méthodes de culture biologique, l'amélioration des variétés résistantes aux stress climatiques, et l'approfondissement des mécanismes moléculaires responsables de ses effets bénéfiques sur la santé cardiovasculaire. L'évaluation précise de la sécurité des préparations à base de feuilles mériterait également des études spécifiques.",
+    "nb_articles": "",
     "lien_pubmed": "",
     "lien_scholar": "",
-    "lien_tramil": ""
+    "lien_tramil": "http://www.tramil.net"
   },
   "references": "Noda, Y., Kaneyuki, T., Mori, A., & Packer, L. (2000). Antioxidant activities of nasunin, an anthocyanin in eggplant peels. Journal of Agricultural and Food Chemistry, 48(10), 5581-5586. PMID: 10479465. Gürbüz, N., Uluişik, S., Frary, A., Frary, A., & Doğanlar, S. (2018). Health benefits and bioactive compounds of eggplant. Food Chemistry, 268, 602-610. PMID: 29156509. POWO (2024). Plants of the World Online. Facilitated by the Royal Botanic Gardens, Kew. http://www.plantsoftheworldonline.org/ TRAMIL (2024). Traditional Medicine of the Islands Database. http://www.tramil.net",
   "aRetenir": "🟢 À retenir — Berejèn : est avant tout un aliment — sa valeur nutritionnelle prime sur ses usages medicinaux. Consommee correctement preparee, elle est sans danger documente. Ses proprietes therapeutiques, reelles mais secondaires, ne remplacent pas un suivi medical. Les auteurs declinent toute responsabilite quant a un usage inapproprie.",
   "images": {
-    "principale": "images/847_Solanum_melongena-001.jpg",
+    "principale": "/images/847_Solanum_melongena-001.jpg",
     "galerie": [
-      "images/847_Solanum_melongena-001.jpg",
-      "images/847_Solanum_melongena-002.jpg"
+      "/images/847_Solanum_melongena-001.jpg",
+      "/images/847_Solanum_melongena-002.jpg"
     ]
   },
-  "source": "plantes_full.json"
+  "source": "CSV corrigé 2026-04-11"
 }

@@ -1,7 +1,7 @@
 {
   "id_plante": "plt-1806",
   "code": "plt-1806",
-  "no_espece": "",
+  "no_espece": "18.6",
   "no_famille": "18",
   "famille": "Bignoniacées",
   "description_famille": "",
@@ -20,17 +20,17 @@
   },
   "usages": {
     "usages_ethnobotaniques": "Bien que principalement cultivé comme ornemental en Haïti, T. stans possède une riche tradition d'usage médicinal documentée dans les Départements du Sud et de la Grand'Anse. Les feuilles constituent la partie la plus utilisée, récoltées de préférence le matin avant les fortes chaleurs. Elles sont préparées en infusion : une poignée de feuilles fraîches (environ 15-20 g) ou une cuillerée de feuilles séchées pour une tasse d'eau bouillante, laissée infuser 10 minutes. Les fleurs sont parfois ajoutées à la préparation pour adoucir l'amertume. Les racines, utilisées plus rarement, nécessitent une décoction prolongée de 20 minutes. Dans la région des Caraïbes, TRAMIL documente l'usage au Mexique contre le diabète, préparé en décoction de feuilles. Les modes de préparation varient selon les régions : certaines traditions recommandent de récolter les feuilles à jeun, d'autres privilégient le séchage à l'ombre pour préserver les principes actifs.",
-    "systemes_concernes": "Endocrinien"
+    "systemes_concernes": "T. stans cible principalement le système endocrinien, avec des effets documentés sur la régulation glycémique. L'usage contre le diabète constitue l'application thérapeutique la mieux étudiée. Des recherches expérimentales ont démontré que les extraits de feuilles inhibent significativement l'α-amylase pancréatique et améliorent la tolérance au glucose chez le rat diabétique (Aguilar-Santamaría et al., 2009 — PMID: 19041744). Cette inhibition enzymatique ralentirait l'absorption des glucides complexes, contribuant au contrôle de la glycémie post-prandiale. Les effets diurétiques et hypotenseurs sont suggérés par l'usage traditionnel mais demeurent moins documentés scientifiquement. Les propriétés anti-inflammatoires, attribuées aux triterpènes et aux flavonoïdes, pourraient contribuer aux bénéfices observés dans le diabète de type 2, pathologie associée à l'inflammation chronique. Cependant, ces mécanismes n'ont pas fait l'objet d'essais cliniques humains contrôlés."
   },
   "pharmacologie": {
     "molecules": "Les feuilles de T. stans se caractérisent par leur amertume marquée, due principalement à la présence de técomine, un alcaloïde spécifique au genre, et d'iridoïdes comme l'aucubine. Cette amertume constitue un mécanisme de défense contre les herbivores tout en concentrant les principes actifs responsables des effets hypoglycémiants. Les fleurs jaune vif doivent leur coloration aux caroténoïdes, notamment le β-carotène et la lutéine, qui protègent les tissus floraux contre les rayonnements UV intenses. Sur le plan minéral, les feuilles concentrent particulièrement le zinc, élément trace impliqué dans la régulation du métabolisme glucidique. Les principaux composés secondaires identifiés dans T. stans comprennent : la técomine (alcaloïde quinolizidinique responsable des effets hypoglycémiants), l'acide oléanolique et l'acide ursolique (triterpènes aux propriétés anti-inflammatoires), des flavonoïdes comme la quercétine et le kaempférol (antioxydants), des iridoïdes incluant l'aucubine (principe amer), des saponines triterpéniques, des tanins condensés et le stigmastérol (phytostérol). Des études phytochimiques récentes ont également identifié des caroténoïdes dans les parties aériennes (Singh et al., 2020 — DOI: 10.1007/s13659-020-00245-4). Ces molécules remplissent des fonctions écologiques précises pour la plante. La técomine et les iridoïdes confèrent l'amertume qui décourage les herbivores, tandis que les saponines créent une barrière chimique contre les pathogènes foliaires. Les triterpènes renforcent la résistance des tissus lignifiés. Ces mêmes composés, une fois ingérés par l'humain, produisent les effets biologiques documentés : la técomine inhibe l'α-amylase pancréatique, ralentissant la digestion des glucides, tandis que les triterpènes exercent des effets anti-inflammatoires systémiques. Cependant, ces mécanismes restent principalement documentés par des études in vitro et sur modèles animaux.",
     "posologie": "Aucune posologie cliniquement validée n'est disponible pour T. stans chez l'humain. Les doses utilisées dans les études animales — généralement 200 à 400 mg/kg d'extrait aqueux — ne sont pas transposables directement à l'usage humain. Les préparations traditionnelles utilisent empiriquement des infusions de concentration variable : 1 à 2 tasses par jour de tisane préparée avec 15-20 g de feuilles fraîches par litre d'eau. Cette absence de standardisation posologique constitue un facteur de risque, particulièrement chez les patients diabétiques sous médication."
   },
   "nutrition": {
-    "introduction": "Tecoma stans (L.) (syn. Bignonia stans) est un arbuste natif des régions tropicales d'Amérique, documenté dans les Départements du Sud et de la Grand'Anse où il est couramment cultivé à des fins ornementales. Il appartient à la famille des Bignoniacées, une famille tropicale dominée par les arbres et arbustes à fleurs souvent spectaculaires, reconnue pour ses importantes propriétés médicinales. Cette famille se distingue phytochimiquement par une richesse en iridoïdes, quinones, flavonoïdes et tanins, ciblant préférentiellement les systèmes tégumentaire, respiratoire et endocrinien. Il convient de signaler que certaines espèces de Bignoniacées renferment des principes actifs puissants nécessitant une préparation adéquate — notamment Tecoma stans qui exige une vigilance particulière chez les diabétiques en raison de ses effets hypoglycémiants additifs. Au sein de cette famille, Tecoma stans fait partie du genre Tecoma, qui comprend plusieurs espèces d'arbustes à fleurs jaunes utilisés tant pour l'ornement que pour leurs propriétés thérapeutiques. En Haïti, cette espèce est principalement valorisée comme plante ornementale, bien que ses usages médicinaux traditionnels — notamment antidiabétiques — soient documentés dans d'autres régions des Caraïbes et d'Amérique centrale."
+    "valeur": "La valeur économique principale de T. stans en Haïti réside dans son usage ornemental : les pépiniéristes locaux commercialisent les plants pour l'aménagement paysager urbain et périurbain. Cette demande ornementale soutient une filière horticole locale modeste mais régulière. Le potentiel économique lié aux usages médicinaux reste inexploité commercialement en Haïti, contrairement à d'autres pays d'Amérique latine où des extraits standardisés sont commercialisés comme compléments alimentaires. L'absence d'études cliniques humaines limite cependant le développement de ce marché thérapeutique."
   },
   "toxicologie": {
-    "niveau": "toxic",
+    "niveau": "🔴 Toxique",
     "details": "Tecoma stans présente un niveau de toxicité modéré exigeant des précautions d'usage. Le principal risque concerne les patients diabétiques traités par antidiabétiques conventionnels : l'effet hypoglycémiant additif peut provoquer des hypoglycémies dangereuses nécessitant un ajustement médical des traitements. L'usage est déconseillé chez la femme enceinte et allaitante par manque de données de sécurité. L'automédication prolongée doit être évitée, les alcaloïdes pouvant s'accumuler. Des effets gastro-intestinaux (nausées, diarrhées) peuvent survenir avec les doses élevées. La surveillance médicale s'impose chez tout patient diabétique souhaitant intégrer cette plante à son traitement."
   },
   "conservation": {
@@ -38,8 +38,8 @@
     "valeur": "La valeur économique principale de T. stans en Haïti réside dans son usage ornemental : les pépiniéristes locaux commercialisent les plants pour l'aménagement paysager urbain et périurbain. Cette demande ornementale soutient une filière horticole locale modeste mais régulière. Le potentiel économique lié aux usages médicinaux reste inexploité commercialement en Haïti, contrairement à d'autres pays d'Amérique latine où des extraits standardisés sont commercialisés comme compléments alimentaires. L'absence d'études cliniques humaines limite cependant le développement de ce marché thérapeutique."
   },
   "recherche": {
-    "nb_articles": "~500 (estimation)",
     "details": "Les recherches sur T. stans se concentrent principalement sur ses propriétés antidiabétiques, avec environ 500 publications référencées. Les études précliniques soutiennent les usages traditionnels, mais des essais cliniques humains contrôlés restent nécessaires pour valider l'efficacité et la sécurité. Les recherches futures devraient établir des protocoles de standardisation des extraits et déterminer des posologies sécurisées. L'identification de nouveaux composés bioactifs et l'évaluation des interactions médicamenteuses constituent également des priorités scientifiques pour cette espèce prometteuse.",
+    "nb_articles": "",
     "lien_pubmed": "",
     "lien_scholar": "",
     "lien_tramil": "https://www.tramil.net/en/plant/tecoma-stans"
@@ -47,10 +47,10 @@
   "references": "Aguilar-Santamaría, L. et al. (2009). Evaluation of the antidiabetic effect of Tecoma stans (L.) Juss. ex Kunth in a streptozotocin-induced diabetes rat model. Natural Product Research. PMID: 19041744. Singh, B. et al. (2020). Phytochemical and pharmacological evaluation of Tecoma stans: A comprehensive review. Natural Products and Bioprospecting. DOI: 10.1007/s13659-020-00245-4. TRAMIL Programme. (2024). Tecoma stans. Available at: https://www.tramil.net/en/plant/tecoma-stans POWO. (2024). Plants of the World Online. Kew Science. Available at: http://www.plantsoftheworldonline.org/",
   "aRetenir": "🟠 À retenir — Chevalye : est une plante a toxicite documentee. Tout usage interne non encadre est formellement deconseille. En cas d'ingestion accidentelle, consulter immediatement un service d'urgence. Ces informations sont destinees a l'enseignement et a la recherche uniquement. Les auteurs declinent toute responsabilite quant a un usage inapproprie.",
   "images": {
-    "principale": "images/186_Tecoma_stans-001.jpg",
+    "principale": "/images/186_Tecoma_stans-001.jpg",
     "galerie": [
-      "images/186_Tecoma_stans-001.jpg"
+      "/images/186_Tecoma_stans-001.jpg"
     ]
   },
-  "source": "plantes_full.json"
+  "source": "CSV corrigé 2026-04-11"
 }

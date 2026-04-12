@@ -1,7 +1,7 @@
 {
   "id_plante": "plt-3708",
   "code": "plt-3708",
-  "no_espece": "",
+  "no_espece": "37.8",
   "no_famille": "37",
   "famille": "Euphorbiacées",
   "description_famille": "",
@@ -20,17 +20,17 @@
   },
   "usages": {
     "usages_ethnobotaniques": "L'usage de J. curcas dans le Sud et la Grand'Anse se concentre sur ses propriétés médicinales externes et ses dimensions spirituelles. Les feuilles fraîches sont appliquées directement sur les plaies comme cicatrisant et antimicrobien, ou préparées en cataplasme pour traiter les inflammations cutanées. Dans le domaine spirituel, la plante est utilisée dans des bains rituels contre les « mauvais esprits », pratique qui s'appuie probablement sur les propriétés antiseptiques réelles des feuilles. Historiquement, les graines étaient employées comme purgatif puissant, usage aujourd'hui abandonné en raison des risques toxicologiques majeurs. TRAMIL documente cet usage purgatif traditionnel en Haïti tout en soulignant les dangers associés. Au niveau international, J. curcas connaît un essor considérable dans la production de biodiesel, particulièrement en Inde et en Afrique, où ses graines sont transformées industriellement pour extraire l'huile énergétique.",
-    "systemes_concernes": "Tégumentaire"
+    "systemes_concernes": "J. curcas cible principalement le système tégumentaire par voie externe. Les études publiées confirment l'activité cicatrisante des extraits de feuilles, attribuée à leur richesse en tanins et flavonoïdes qui favorisent la coagulation, stimulent la prolifération cellulaire et exercent une protection antimicrobienne (Thomas et al., 2008 — PMID: 18442461). L'activité antimicrobienne a été démontrée contre diverses souches bactériennes et fongiques, y compris certaines résistantes aux antibiotiques conventionnels (Aiyelaagbe et al., 2007 — PMID: 17292596). Les mécanismes d'action impliquent la déstabilisation des membranes microbiennes par les tanins et l'inhibition enzymatique par les flavonoïdes. En usage interne, les esters de phorbol activent la protéine kinase C, provoquant une activation massive des récepteurs cellulaires et expliquant la toxicité digestive et neurologique observée."
   },
   "pharmacologie": {
     "molecules": "Le profil chimique de J. curcas se caractérise par une dualité remarquable : des composés thérapeutiques dans les feuilles et des toxines puissantes dans les graines et le latex. Les graines contiennent 25 à 40% d'huile riche en acides gras insaturés (acides oléique et linoléique principalement), ainsi que des protéines et des glucides. Cette composition nutritionnelle explique l'intérêt industriel mondial pour la production de biodiesel, mais masque la présence de toxines redoutables (Akbar et al., 2009 — doi: 10.1016/j.rser.2008.09.001). Les principaux composés secondaires identifiés dans J. curcas comprennent : des esters de phorbol hautement toxiques (notamment les 12-désoxy-16-hydroxyphorbol esters), la curcine (lectine toxique), des saponines triterpéniques, des flavonoïdes (vitexine, isovitexine), des tanins condensés, et divers diterpènes (Sabandar et al., 2013 — PMID: 23528339). Les feuilles renferment principalement des composés phénoliques bénéfiques : flavonoïdes (apigénine, vitexine), tanins et saponines, responsables des propriétés cicatrisantes et antimicrobiennes. Ces molécules remplissent des fonctions de défense précises pour la plante. Les esters de phorbol dans les graines et le latex agissent comme des deterrents majeurs contre les herbivores et les pathogènes, provoquant des irritations sévères et des troubles digestifs chez tout organisme qui tenterait de s'en nourrir. La curcine, une lectine cytotoxique, complète cette protection en perturbant les membranes cellulaires des agresseurs. Ces mêmes composés, une fois ingérés par l'humain, produisent les effets biologiques documentés : irritation digestive sévère, vomissements, diarrhées et, à doses élevées, convulsions et coma. À l'inverse, les polyphénols des feuilles, une fois appliqués localement, exercent leurs effets cicatrisants et antimicrobiens sans toxicité systémique significative.",
     "posologie": "Seul l'usage externe des feuilles fraîches en cataplasme direct présente un profil de sécurité acceptable. TRAMIL recommande l'application topique des feuilles broyées pour les affections cutanées, mais déconseille formellement tout usage interne en raison de la toxicité. Aucune posologie standardisée n'existe pour l'usage interne, celui-ci étant contre-indiqué. Les pratiques traditionnelles documentées localement pour l'usage externe ne sont pas standardisées mais restent dans des limites de sécurité raisonnables."
   },
   "nutrition": {
-    "introduction": "Jatropha curcas L. (syn. Curcas purgans) est un arbuste exotique de basse altitude, abondamment cultivé dans les Départements du Sud et de la Grand'Anse. Il appartient à la famille des Euphorbiacées, une famille tropicale de premier plan connue pour ses usages multiples mais aussi pour sa dangerosité potentielle. Cette famille se distingue par la présence généralisée de latex caustique et de composés diterpéniques irritants, notamment les esters de phorbol. Au niveau thérapeutique, les Euphorbiacées ciblent préférentiellement les systèmes digestif, tégumentaire et cutané grâce à leurs tanins, flavonoïdes et diterpènes. Cependant, cette famille exige une vigilance extrême : le mancenillier (Hippomane mancinella) figure parmi les plantes les plus dangereuses au monde, le ricin (Ricinus communis) contient des graines mortelles, et de nombreuses espèces d'Euphorbia sécrètent un latex hautement caustique. Au sein de cette famille, le genre Jatropha regroupe des arbustes tropicaux dont plusieurs espèces sont exploitées pour leurs graines riches en huile, malgré leur toxicité marquée. J. curcas présente un usage médicinal externe documenté dans le Sud et la Grand'Anse, principalement pour ses propriétés cicatrisantes et antimicrobiennes, mais son usage interne reste formellement déconseillé en raison de la haute toxicité de ses graines."
+    "valeur": "La valeur économique de J. curcas s'articule autour de trois axes. Localement, la plante sert de clôture naturelle efficace et de remède traditionnel accessible. Au niveau international, elle représente un enjeu énergétique majeur : ses graines contiennent 25 à 40% d'huile convertible en biodiesel, positionnant l'espèce comme une alternative aux combustibles fossiles. Plusieurs pays développent des filières industrielles dédiées, bien que la rentabilité économique reste variable selon les contextes. La plante présente aussi un potentiel de valorisation des terres marginales impropres aux cultures alimentaires."
   },
   "toxicologie": {
-    "niveau": "toxic",
+    "niveau": "🔴 Toxique",
     "details": "J. curcas présente un profil toxicologique complexe nécessitant une vigilance absolue. Les graines sont hautement toxiques : l'ingestion de seulement 1 à 3 graines peut provoquer des symptômes sévères chez l'enfant, et 5 graines suffisent à déclencher une intoxication grave chez l'adulte. Les symptômes incluent vomissements, diarrhées sanglantes, déshydratation, convulsions et, dans les cas les plus sévères, coma et décès par défaillance cardiorespiratoire. L'huile brute des graines est également dangereuse et ne doit jamais être consommée. Le latex est caustique pour la peau et particulièrement dangereux pour les yeux. L'usage externe des feuilles, bien que généralement sûr, nécessite des précautions chez la femme enceinte et l'enfant en cas d'application prolongée ou sur de grandes surfaces."
   },
   "conservation": {
@@ -38,8 +38,8 @@
     "valeur": "La valeur économique de J. curcas s'articule autour de trois axes. Localement, la plante sert de clôture naturelle efficace et de remède traditionnel accessible. Au niveau international, elle représente un enjeu énergétique majeur : ses graines contiennent 25 à 40% d'huile convertible en biodiesel, positionnant l'espèce comme une alternative aux combustibles fossiles. Plusieurs pays développent des filières industrielles dédiées, bien que la rentabilité économique reste variable selon les contextes. La plante présente aussi un potentiel de valorisation des terres marginales impropres aux cultures alimentaires."
   },
   "recherche": {
-    "nb_articles": "",
     "details": "Les recherches sur J. curcas se concentrent sur trois axes principaux. L'amélioration génétique vise à développer des variétés à plus haut rendement en huile et éventuellement des cultivars détoxifiés pour élargir les usages. L'optimisation des procédés de transformation industrielle cherche à maximiser l'extraction d'huile tout en valorisant les résidus. Enfin, l'évaluation des impacts environnementaux et socioéconomiques des filières biodiesel permet d'orienter les politiques de développement durable. Les propriétés cicatrisantes des feuilles mériteraient des études cliniques plus approfondies pour développer des applications pharmaceutiques standardisées.",
+    "nb_articles": "",
     "lien_pubmed": "",
     "lien_scholar": "",
     "lien_tramil": ""
@@ -47,12 +47,12 @@
   "references": "Akbar, E. et al. (2009). Jatropha curcas as a renewable source for the production of biodiesel: a review. Renewable and Sustainable Energy Reviews. doi: 10.1016/j.rser.2008.09.001 Sabandar, C.W. et al. (2013). Medicinal property, phytochemistry and pharmacology of several Jatropha species. Phytochemistry. PMID: 23528339 Thomas, R. et al. (2008). Evaluation of anti-inflammatory activity of Jatropha curcas leaves. Journal of Ethnopharmacology. PMID: 18442461 Aiyelaagbe, O.O. et al. (2007). Antibacterial activity of Jatropha multifida roots. Fitoterapia. PMID: 17292596 TRAMIL. (2024). Jatropha curcas. www.tramil.net/en/plant/jatropha-curcas POWO. (2024). Jatropha curcas L. Plants of the World Online, Kew Science.",
   "aRetenir": "🟠 À retenir — Medsiyen : est une plante a toxicite documentee. Tout usage interne non encadre est formellement deconseille. En cas d'ingestion accidentelle, consulter immediatement un service d'urgence. Ces informations sont destinees a l'enseignement et a la recherche uniquement. Les auteurs declinent toute responsabilite quant a un usage inapproprie.",
   "images": {
-    "principale": "images/378_Jatropha_curcas-001.jpg",
+    "principale": "/images/378_Jatropha_curcas-001.jpg",
     "galerie": [
-      "images/378_Jatropha_curcas-001.jpg",
-      "images/378_Jatropha_curcas-002.jpg",
-      "images/378_Jatropha_curcas-003.jpg"
+      "/images/378_Jatropha_curcas-001.jpg",
+      "/images/378_Jatropha_curcas-002.jpg",
+      "/images/378_Jatropha_curcas-003.jpg"
     ]
   },
-  "source": "plantes_full.json"
+  "source": "CSV corrigé 2026-04-11"
 }

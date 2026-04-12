@@ -1,7 +1,7 @@
 {
   "id_plante": "plt-0702",
   "code": "plt-0702",
-  "no_espece": "",
+  "no_espece": "7.2",
   "no_famille": "7",
   "famille": "Annonacées",
   "description_famille": "",
@@ -20,17 +20,17 @@
   },
   "usages": {
     "usages_ethnobotaniques": "Dans les Départements du Sud et de la Grand'Anse, A. muricata présente un double usage alimentaire et médicinal parfaitement intégré dans les pratiques locales. Le fruit mûr est principalement consommé sous forme de jus rafraîchissant appelé « kòwòsòl », obtenu en mixant la pulpe avec de l'eau et du sucre. Ce jus constitue une boisson populaire, particulièrement appréciée pour sa saveur acidulée-sucrée caractéristique et ses propriétés rafraîchissantes. Sur le plan médicinal, les feuilles constituent la partie la plus utilisée, principalement sous forme d'infusion. La préparation traditionnelle consiste à faire bouillir 2 à 3 feuilles fraîches dans une tasse d'eau pendant quelques minutes, puis à laisser infuser. Cette tisane est traditionnellement consommée le soir pour favoriser le sommeil et calmer les « nerfs » — terme local désignant l'anxiété et l'agitation. L'écorce, moins fréquemment utilisée, peut être préparée en décoction pour traiter les troubles digestifs et la fièvre. Dans la médecine populaire régionale, des usages anticancéreux traditionnels sont également rapportés, bien qu'aucune posologie standardisée n'existe pour ces applications.",
-    "systemes_concernes": "Digestif, Nerveux, Immunitaire"
+    "systemes_concernes": "Les usages traditionnels d'A. muricata dans les Départements du Sud et de la Grand'Anse ciblent principalement le système nerveux et le système digestif. Les propriétés sédatives des feuilles, largement documentées dans l'usage local pour traiter l'insomnie et l'anxiété, trouvent une explication scientifique dans la présence d'alcaloïdes et de flavonoïdes aux propriétés anxiolytiques démontrées expérimentalement. Sur le plan du système immunitaire et cellulaire, les acétogénines présentes dans toutes les parties de la plante présentent des propriétés cytotoxiques remarquables. Des études in vitro ont démontré que ces composés peuvent inhiber sélectivement la croissance de certaines lignées de cellules tumorales en perturbant leur métabolisme énergétique mitochondrial (Gavamukulya et al., 2017 — PMID: 28653643). Cependant, il convient de souligner qu'aucun essai clinique humain contrôlé n'a validé l'efficacité anticancéreuse de la plante, malgré l'intérêt populaire considérable pour cet usage. Les propriétés anti-inflammatoires et antioxydantes, documentées dans plusieurs études expérimentales, pourraient expliquer les usages traditionnels contre la fièvre et les douleurs (Coria-Téllez et al., 2018 — PMID: 29642433). Le système digestif bénéficie également des propriétés astringentes des tanins et des effets antimicrobiens des acétogénines."
   },
   "pharmacologie": {
     "molecules": "Le corossol incarne une réussite de l'adaptation tropicale : ses tissus synthétisent des acétogénines — annonacine en tête — qui forment un verrou chimique efficace contre les insectes ravageurs, tout en accumulant dans son fruit une richesse nutritionnelle exceptionnelle en vitamine C et en fibres. Ce qui rend le corossol particulièrement remarquable sur le plan chimique, c'est sa production d'acétogénines, des molécules complexes pratiquement uniques à la famille des Annonacées. Ces composés — dont l'annonacine est le représentant le plus étudié — constituent un système de défense chimique sophistiqué contre les insectes et les agents pathogènes. Les acétogénines agissent en perturbant la chaîne respiratoire mitochondriale, privant ainsi les organismes nuisibles de leur énergie cellulaire (Gavamukulya et al., 2017 — PMID: 28653643). Les principaux métabolites secondaires identifiés dans A. muricata comprennent : des acétogénines (annonacine, muricine, annomuricine), des alcaloïdes isoquinoléiques, des flavonoïdes (quercétine, kampférol), des tanins, des saponines et des terpènes volatils responsables de l'arôme caractéristique (Coria-Téllez et al., 2018 — PMID: 29642433). Sur le plan nutritionnel, le fruit est particulièrement riche en vitamine C, en fibres alimentaires et en potassium, avec des teneurs appréciables en magnésium, calcium et fer.",
     "posologie": "Aucune posologie clinique standardisée n'existe pour A. muricata en usage médicinal. Les préparations traditionnelles rapportées dans les Départements du Sud et de la Grand'Anse consistent généralement en infusions de 2 à 3 feuilles fraîches par tasse d'eau, consommées 1 à 2 fois par jour, pendant des périodes n'excédant pas 1 à 2 semaines consécutives. Cette limitation temporelle correspond à une précaution empirique développée par les utilisateurs traditionnels, probablement en réponse à des observations d'effets indésirables lors d'usages prolongés. Pour l'usage alimentaire, le jus de fruit peut être consommé occasionnellement sans restriction particulière, la pulpe étant considérée comme sûre."
   },
   "nutrition": {
-    "introduction": "Annona muricata L. (syn. Annona macrocarpa) est un arbre fruitier exotique, largement cultivé dans les Départements du Sud et de la Grand'Anse. Il appartient à la famille des Annonacées, une famille tropicale principalement composée d'arbres et d'arbustes, reconnue pour ses riches usages alimentaires, médicinaux et aromatiques. Cette famille se distingue par une signature phytochimique dominée par les acétogénines — des molécules complexes aux propriétés cytotoxiques remarquables —, ainsi que par des alcaloïdes, flavonoïdes et composés terpéniques. Sur le plan thérapeutique, les Annonacées ciblent préférentiellement les systèmes digestif, nerveux et cellulaire. Il convient cependant de noter qu'une vigilance particulière s'impose avec cette famille : toutes les espèces renferment des acétogénines neurotoxiques concentrées dans les graines, et l'usage prolongé des feuilles à forte dose peut présenter des risques. Au sein de cette famille, Annona muricata fait partie du genre Annona, qui regroupe plusieurs arbres fruitiers tropicaux — dont le kachiman (Annona reticulata) et l'ata (Annona squamosa) — tous appréciés pour leurs fruits comestibles mais nécessitant des précautions d'usage. Le corossol occupe une place particulière comme aliment-médicament dans les Départements du Sud et de la Grand'Anse, où son jus constitue une boisson rafraîchissante populaire et ses feuilles un remède traditionnel contre l'insomnie."
+    "valeur": "Le corossol présente une valeur économique notable tant au niveau local qu'international. Localement, la vente de fruits frais et de jus représente une source de revenus pour les producteurs ruraux. Au niveau international, l'intérêt croissant pour les propriétés anticancéreuses potentielles de la plante a généré un marché significatif pour les extraits standardisés et les compléments alimentaires, principalement aux États-Unis et en Europe."
   },
   "toxicologie": {
-    "niveau": "",
+    "niveau": "🔴 Toxique",
     "details": "L'usage d'A. muricata nécessite des précautions importantes. Les graines sont formellement toxiques en raison de leur forte concentration en acétogénines neurotoxiques et ne doivent jamais être consommées. Des études épidémiologiques ont suggéré une possible association entre la consommation chronique de préparations de corossol et des troubles neurologiques de type parkinsonien dans certaines populations des Antilles, bien que cette relation causale reste débattue (Caparros-Lefebvre et al., 1999 — PMID: 10408548). Par précaution, l'usage prolongé ou à forte dose des feuilles est déconseillé. Les femmes enceintes et allaitantes devraient éviter l'usage médicinal de la plante. L'usage alimentaire occasionnel du fruit reste considéré comme sûr pour la population générale."
   },
   "conservation": {
@@ -38,8 +38,8 @@
     "valeur": "Le corossol présente une valeur économique notable tant au niveau local qu'international. Localement, la vente de fruits frais et de jus représente une source de revenus pour les producteurs ruraux. Au niveau international, l'intérêt croissant pour les propriétés anticancéreuses potentielles de la plante a généré un marché significatif pour les extraits standardisés et les compléments alimentaires, principalement aux États-Unis et en Europe."
   },
   "recherche": {
-    "nb_articles": "~2000 (estimation)",
     "details": "Avec environ 2000 publications indexées sur PubMed, A. muricata figure parmi les plantes médicinales tropicales les plus étudiées. Les recherches actuelles se concentrent principalement sur l'isolement et la caractérisation de nouvelles acétogénines, l'évaluation de leur potentiel anticancéreux et la compréhension de leurs mécanismes d'action. Des études de toxicologie chronique sont également nécessaires pour clarifier les risques associés à l'usage traditionnel prolongé. Le développement de protocoles de culture durable et de méthodes d'extraction respectueuses de l'environnement constitue également un axe de recherche prometteur.",
+    "nb_articles": "",
     "lien_pubmed": "",
     "lien_scholar": "",
     "lien_tramil": ""
@@ -47,13 +47,13 @@
   "references": "Gavamukulya, Y., Abou-Elella, F., Wamunyokoli, F., & AEl-Shemy, H. (2017). Phytochemical screening, anti-oxidant activity and in vitro anticancer potential of ethanolic and water leaves extracts of Annona muricata (Graviola). Asian Pacific Journal of Tropical Medicine, 10(4), 343-351. PMID: 28653643. Coria-Téllez, A. V., Montalvo-Gónzalez, E., Yahia, E. M., & Obledo-Vázquez, E. N. (2018). Annona muricata: A comprehensive review on its traditional medicinal uses, phytochemicals, pharmacological activities, mechanisms of action and toxicity. Arabian Journal of Chemistry, 11(5), 662-691. PMID: 29642433. Caparros-Lefebvre, D., Reynaud-Maurupt, L., Buffard, C., & Lannuzel, A. (1999). Guadeloupean parkinsonism: a cluster of progressive supranuclear palsy-like tauopathy. Brain, 122(Pt 8), 1437-1448. PMID: 10408548.",
   "aRetenir": "🟡 À retenir — Kowosòl : est une plante a toxicite conditionnelle documentee. Respecter imperativement les precautions indiquees. Ne jamais ingerer les parties toxiques sans encadrement medical. Ces informations sont destinees a l'enseignement et a la documentation. Les auteurs declinent toute responsabilite quant a un usage inapproprie.",
   "images": {
-    "principale": "images/72_Annona_muricata-001.jpg",
+    "principale": "/images/72_Annona_muricata-001.jpg",
     "galerie": [
-      "images/72_Annona_muricata-001.jpg",
-      "images/72_Annona_muricata-002.jpg",
-      "images/72_Annona_muricata-003.jpg",
-      "images/72_Annona_muricata-004.jpg"
+      "/images/72_Annona_muricata-001.jpg",
+      "/images/72_Annona_muricata-002.jpg",
+      "/images/72_Annona_muricata-003.jpg",
+      "/images/72_Annona_muricata-004.jpg"
     ]
   },
-  "source": "plantes_full.json"
+  "source": "CSV corrigé 2026-04-11"
 }

@@ -1,7 +1,7 @@
 {
   "id_plante": "plt-8402",
   "code": "plt-8402",
-  "no_espece": "",
+  "no_espece": "84.2",
   "no_famille": "84",
   "famille": "Simaroubacées",
   "description_famille": "",
@@ -20,17 +20,17 @@
   },
   "usages": {
     "usages_ethnobotaniques": "Dans les Départements du Sud et de la Grand'Anse, S. glauca est documenté principalement comme plante médicinale, utilisé traditionnellement contre la diarrhée et pour calmer la fièvre sous le nom de « Frèn ». Les parties utilisées incluent les feuilles, l'écorce et les graines, chacune ayant des applications spécifiques. Le mode de préparation dominant est la décoction : les feuilles et l'écorce sont bouillies pour extraire les principes actifs hydrosolubles, notamment les quassinoïdes et les tanins. Cette méthode de préparation, transmise par la tradition orale, maximise l'extraction des composés antimicrobiens tout en rendant la préparation plus palatable malgré l'amertume naturelle. La base de données TRAMIL confirme l'usage contre la fièvre en Haïti, tandis que d'autres pays de la région exploitent différents aspects : au Salvador, les graines sont valorisées pour leur huile, et en Inde, l'écorce est traditionnellement utilisée comme antiamibien. Cette diversité d'usages reflète la richesse phytochimique de l'espèce et son potentiel thérapeutique polyvalent.",
-    "systemes_concernes": "Digestif, Immunitaire"
+    "systemes_concernes": "S. glauca cible préférentiellement les systèmes digestif et immunitaire. L'espèce montre une efficacité particulière contre les amibes et les diarrhées, confirmée par des études scientifiques récentes. Les mécanismes d'action identifiés impliquent plusieurs voies : les quassinoïdes exercent une cytotoxicité sélective contre les protozoaires pathogènes, notamment Entamoeba histolytica responsable de la dysenterie amibienne, tout en présentant des propriétés antimalariques contre Plasmodium (Cachet et al., 2009 — doi:10.1016/j.phymed.2008.07.005). Les triterpènes, incluant le squalène, modulent la réponse inflammatoire en inhibant certaines voies de l'inflammation, expliquant l'effet anti-inflammatoire traditionnel. Les polyphénols et flavonoïdes contribuent à l'activité antioxydante et antimicrobienne, renforçant l'action des quassinoïdes. Cette synergie moléculaire explique l'efficacité traditionnelle contre les troubles digestifs d'origine infectieuse et les états fébriles associés. Des études in vitro ont confirmé l'activité antiamibienne significative des extraits d'écorce, validant partiellement l'usage ethnobotanique documenté en Inde et potentiellement applicable au contexte haïtien."
   },
   "pharmacologie": {
     "molecules": "La composition nutritionnelle de S. glauca révèle des caractéristiques distinctives selon les organes. Les graines se distinguent par leur richesse en lipides, incluant des acides gras insaturés et des stérols végétaux. Les feuilles et l'écorce concentrent des microéléments essentiels — potassium (K), magnésium (Mg), calcium (Ca), fer (Fe) et zinc (Zn) — ainsi que des composés responsables de la saveur complexe de l'espèce : des acides organiques conférant l'acidité et des sucres naturels apportant la douceur caractéristique. Les principaux composés secondaires identifiés dans S. glauca comprennent : des quassinoïdes amers (glaucarubine, ailanthone, ailanthinone, glaucarubinone), des flavonoïdes antioxydants, des triterpènes anti-inflammatoires incluant le squalène, des tanins astringents, des saponines et des alcaloïdes en faibles concentrations (Wright et al., 1993 — PMID: 8289451, Cachet et al., 2009 — doi:10.1016/j.phymed.2008.07.005). Ces composés confèrent à la plante ses propriétés biologiques documentées : activités antimicrobienne, anti-inflammatoire, antioxydante et antiprotozoaire. Ces molécules remplissent des fonctions de défense précises pour l'arbre. Les quassinoïdes, particulièrement amers, dissuadent efficacement l'herbivorie et présentent des propriétés antifongiques protégeant l'écorce et le bois contre les pathogènes. Les triterpènes contribuent à la résistance aux stress environnementaux, tandis que les flavonoïdes protègent les tissus foliaires contre les rayonnements UV intenses. Ces mêmes composés, une fois ingérés par l'humain, produisent les effets biologiques documentés : les quassinoïdes exercent une action cytotoxique sélective contre les protozoaires pathogènes, expliquant l'efficacité traditionnelle contre les amibes et la malaria, tandis que les triterpènes modulent la réponse inflammatoire. Il convient de noter que ces observations restent principalement issues d'études in vitro et sur modèles animaux.",
     "posologie": "Selon les pratiques traditionnelles documentées, les décoctions de feuilles ou d'écorce de S. glauca sont préparées à raison de 5 à 10 g de matière végétale par litre d'eau, administrées 1 à 2 fois par jour pour le traitement des diarrhées, dysenteries et épisodes de malaria. Cette posologie, issue des savoirs traditionnels, nécessite cependant une validation clinique rigoureuse. Aucune posologie standardisée n'a fait l'objet d'essais cliniques contrôlés chez l'humain. Les concentrations en quassinoïdes variant selon la provenance, la saison et les parties utilisées, il convient d'adopter une approche prudente, en commençant par des doses faibles et en surveillant la tolérance individuelle."
   },
   "nutrition": {
-    "introduction": "Simarouba glauca DC. (syn. Quassia simarouba) est un arbre natif documenté dans les Départements du Sud et de la Grand'Anse, appartenant à la famille des Simaroubacées. Cette espèce fait partie du genre Simarouba, un groupe d'arbres tropicaux reconnus pour leurs propriétés antiprotozoaires exceptionnelles, particulièrement contre les amibes responsables de dysenteries. Dans la pharmacopée traditionnelle haïtienne, S. glauca — communément appelé « Frèn » — occupe une place importante comme remède contre la diarrhée et la fièvre. Son écorce et ses feuilles constituent des ressources thérapeutiques locales appréciées, tandis que ses graines riches en lipides présentent un potentiel économique émergent. L'espèce se distingue par sa composition en quassinoïdes, des molécules amères aux propriétés antimicrobiennes puissantes, qui expliquent son efficacité traditionnelle contre les troubles digestifs d'origine parasitaire."
+    "valeur": "L'espèce présente une double valeur économique locale et internationale. Localement, elle constitue une ressource médicinale accessible et appréciée dans les Départements du Sud et de la Grand'Anse. À l'échelle internationale, les graines riches en lipides attirent l'attention pour la production d'huiles industrielles, comme documenté au Salvador. Cette valorisation économique émergente des graines pourrait créer des opportunités de revenus complémentaires pour les communautés rurales, tout en incitant à une gestion durable des populations naturelles."
   },
   "toxicologie": {
-    "niveau": "",
+    "niveau": "🟡 Précautions requises",
     "details": "S. glauca présente un profil de sécurité globalement favorable aux doses traditionnelles. Cependant, les quassinoïdes étant des molécules bioactives puissantes, un surdosage peut entraîner des effets indésirables : nausées, diarrhée paradoxale, hypotension et cytotoxicité potentielle. Une prudence particulière est recommandée chez les enfants, les femmes enceintes et allaitantes, ainsi que chez les personnes souffrant de pathologies hépatiques ou rénales, en raison du métabolisme hépatique des quassinoïdes et de leur élimination rénale. La surveillance médicale est conseillée lors d'un usage prolongé, et l'automédication doit être évitée en cas de diarrhée persistante nécessitant un diagnostic médical précis."
   },
   "conservation": {
@@ -38,8 +38,8 @@
     "valeur": "L'espèce présente une double valeur économique locale et internationale. Localement, elle constitue une ressource médicinale accessible et appréciée dans les Départements du Sud et de la Grand'Anse. À l'échelle internationale, les graines riches en lipides attirent l'attention pour la production d'huiles industrielles, comme documenté au Salvador. Cette valorisation économique émergente des graines pourrait créer des opportunités de revenus complémentaires pour les communautés rurales, tout en incitant à une gestion durable des populations naturelles."
   },
   "recherche": {
-    "nb_articles": "~500 (estimation)",
     "details": "Avec environ 500 publications scientifiques référencées, S. glauca bénéficie d'un intérêt de recherche soutenu, particulièrement dans le domaine des propriétés antiprotozoaires des quassinoïdes. Les perspectives de recherche incluent l'optimisation de l'extraction des principes actifs, les études de bioéquivalence entre différentes populations géographiques, et surtout la réalisation d'essais cliniques rigoureux pour valider les usages traditionnels. L'exploration du potentiel des graines en biocarburants et cosmétiques représente également un axe prometteur pour la valorisation économique durable de l'espèce.",
+    "nb_articles": "",
     "lien_pubmed": "",
     "lien_scholar": "",
     "lien_tramil": "https://www.tramil.net/en/plant/simarouba-glauca"
@@ -47,13 +47,13 @@
   "references": "Cachet, N., et al. (2009). Antimalarial activity of simalikalactone E, a new quassinoid from Quassia amara L. (Simaroubaceae). Phytomedicine, 16(1), 33-40. doi:10.1016/j.phymed.2008.07.005 Wright, C. W., et al. (1993). Quassinoids exhibit greater selectivity against Plasmodium falciparum than against Entamoeba histolytica in vitro. Antimicrobial Agents and Chemotherapy, 37(5), 1072-1077. PMID: 8289451 TRAMIL. Simarouba glauca. https://www.tramil.net/en/plant/simarouba-glauca POWO. Simarouba glauca DC. Plants of the World Online, Kew Science.",
   "aRetenir": "🟢 À retenir — Frèn : est utilisee en medecine traditionnelle avec un bon profil de securite aux doses courantes. Les usages presentes reposent sur des donnees ethnobotaniques et scientifiques publiees, mais ne constituent pas une prescription. Consulter un professionnel de sante avant tout usage therapeutique. Les auteurs declinent toute responsabilite quant a un usage inapproprie.",
   "images": {
-    "principale": "images/832_Simarouba_glauca-001.jpg",
+    "principale": "/images/832_Simarouba_glauca-001.jpg",
     "galerie": [
-      "images/832_Simarouba_glauca-001.jpg",
-      "images/832_Simarouba_glauca-002.jpg",
-      "images/832_Simarouba_glauca-003.jpg",
-      "images/832_Simarouba_glauca-004.jpg"
+      "/images/832_Simarouba_glauca-001.jpg",
+      "/images/832_Simarouba_glauca-002.jpg",
+      "/images/832_Simarouba_glauca-003.jpg",
+      "/images/832_Simarouba_glauca-004.jpg"
     ]
   },
-  "source": "plantes_full.json"
+  "source": "CSV corrigé 2026-04-11"
 }

@@ -1,7 +1,7 @@
 {
   "id_plante": "plt-4209",
   "code": "plt-4209",
-  "no_espece": "",
+  "no_espece": "42.9",
   "no_famille": "42",
   "famille": "Lamiacées",
   "description_famille": "",
@@ -20,17 +20,17 @@
   },
   "usages": {
     "usages_ethnobotaniques": "Dans les Départements du Sud et de la Grand'Anse, le thym est documenté principalement comme épice culinaire et plante médicinale respiratoire. Les feuilles et jeunes tiges sont utilisées fraîches ou séchées pour l'assaisonnement des plats, apportant une saveur amère caractéristique très appréciée. En usage thérapeutique, la préparation traditionnelle consiste en une infusion de feuilles séchées, consommée comme thé pour traiter la toux et stimuler l'appétit. Cette utilisation fait écho aux recommandations TRAMIL pour Haïti, qui documenten le thym spécifiquement pour le traitement de la toux. Les modes de préparation incluent l'infusion simple, parfois associée à d'autres plantes aromatiques locales, et l'incorporation directe dans l'alimentation comme condiment antiseptique.",
-    "systemes_concernes": "Respiratoire, Immunitaire"
+    "systemes_concernes": "Le thym cible préférentiellement les systèmes respiratoire et immunitaire. Dans le contexte local haïtien, il est principalement utilisé pour traiter la toux, les affections respiratoires mineures et comme stimulant de l'appétit. Les mécanismes d'action reposent sur les propriétés du thymol et du carvacrol, qui présentent une activité antimicrobienne puissante contre de nombreuses bactéries et champignons pathogènes (Nabavi et al., 2015 — PMID: 26142730). Ces composés agissent également comme spasmolytiques sur les muscles lisses bronchiques, expliquant leur effet antitussif et expectorant. L'acide rosmarinique et les flavonoïdes contribuent aux effets anti-inflammatoires et antioxydants, soutenant la fonction immunitaire. Des études cliniques ont confirmé l'efficacité de préparations standardisées de thym dans le traitement de la bronchite aiguë et de la toux (Kemmerich et al., 2006 — PMID: 16628544)."
   },
   "pharmacologie": {
     "molecules": "La richesse chimique de Thymus vulgaris tient à sa remarquable richesse en huiles essentielles, principalement concentrées dans les glandes oléifères des feuilles. Ces huiles, représentant 1 à 4% du poids sec, sont dominées par des monoterpènes phénoliques — thymol (20-55%) et carvacrol (2-15%) — responsables de l'odeur caractéristique et de la saveur amère intense de la plante (Rota et al., 2008 — PMID: 18537022). Les feuilles contiennent également des flavonoïdes (apigénine, lutéoline), des acides phénoliques (acide rosmarinique, acide caféique) et des tanins condensés, conférant à la plante ses propriétés antioxydantes remarquables. Sur le plan nutritionnel, le thym apporte de modestes quantités de vitamine K, vitamine C, fer, calcium et magnésium. Les principaux composés secondaires identifiés dans T. vulgaris comprennent : des monoterpènes phénoliques (thymol, carvacrol), des monoterpènes non phénoliques (p-cymène, γ-terpinène, linalol), des flavonoïdes (apigénine, lutéoline, naringénine), des acides phénoliques (acide rosmarinique, acide caféique), des triterpènes (acide ursolique, acide oléanolique) et des tanins condensés (Borugă et al., 2014 — PMID: 25050943). Ces molécules remplissent des fonctions de défense précises pour la plante. Le thymol et le carvacrol agissent comme de puissants antimicrobiens protégeant les tissus foliaires contre les pathogènes bactériens et fongiques, particulièrement importants dans les conditions humides d'altitude. Les flavonoïdes protègent contre les rayonnements UV intenses des hautes altitudes, tandis que les tanins découragent l'herbivorie. Ces mêmes composés, une fois ingérés par l'humain, produisent les effets biologiques documentés : activité antimicrobienne, expectorante, spasmolytique et antioxydante. Il convient de noter que la plupart des études pharmacologiques restent principalement issues d'études in vitro et sur modèles animaux.",
     "posologie": "La posologie traditionnelle documentée consiste en une tisane préparée avec 1 à 2 g de feuilles séchées par tasse d'eau bouillante, à consommer 2 à 3 fois par jour (European Medicines Agency, 2013). En phytothérapie européenne, les extraits standardisés de thym sont utilisés sous forme de sirops expectorants à des dosages cliniquement validés pour les adultes et enfants de plus de 2 ans, selon les spécialités pharmaceutiques. Ces posologies ont fait l'objet d'évaluations cliniques confirmant leur efficacité et leur sécurité d'emploi dans le cadre d'un usage de courte durée."
   },
   "nutrition": {
-    "introduction": "Thymus vulgaris L. (syn. Thymus ilerdensis) est une herbe aromatique exotique, cultivée en haute altitude dans les Départements du Sud et de la Grand'Anse. Il appartient à la famille des Lamiacées, une famille incontournable composée majoritairement d'herbes et d'arbustes, reconnue mondialement pour ses riches usages médicinaux, aromatiques et spirituels. Au sein de cette famille, Thymus vulgaris fait partie du genre Thymus, qui regroupe plusieurs espèces à fort potentiel thérapeutique — dont le thym des jardins et le serpolet — toutes caractérisées par leurs huiles essentielles riches en monoterpènes phénoliques. Thymus vulgaris est une plante à usage principalement aromatique et médicinal : elle constitue l'une des épices de référence de la cuisine méditerranéenne adaptée en Haïti et un remède respiratoire traditionnel utilisé dans les deux départements."
+    "valeur": "Sur le plan international, T. vulgaris représente une valeur pharmaceutique considérable, étant l'une des plantes aromatiques les plus étudiées et commercialisées mondialement. Localement, sa valeur reste principalement aromatique, limitée par sa rareté et la méconnaissance de ses potentialités. Le développement de sa culture en haute altitude pourrait représenter une opportunité économique intéressante pour les communautés montagnardes, tant pour l'usage local que pour l'exportation potentielle d'huiles essentielles de qualité."
   },
   "toxicologie": {
-    "niveau": "",
+    "niveau": "🟢 Non toxique aux doses usuelles",
     "details": "Thymus vulgaris présente un profil de sécurité favorable aux doses alimentaires et médicinales traditionnelles. Les précautions concernent principalement l'usage des huiles essentielles concentrées, qui peuvent être irritantes pour les muqueuses et la peau à forte dose. Une vigilance particulière est recommandée chez les femmes enceintes, les personnes asthmatiques et les enfants de moins de 5 ans, en raison du risque de spasme laryngé avec les huiles essentielles concentrées. L'usage culinaire et en tisane ne présente pas de contre-indication majeure chez les individus en bonne santé."
   },
   "conservation": {
@@ -38,8 +38,8 @@
     "valeur": "Sur le plan international, T. vulgaris représente une valeur pharmaceutique considérable, étant l'une des plantes aromatiques les plus étudiées et commercialisées mondialement. Localement, sa valeur reste principalement aromatique, limitée par sa rareté et la méconnaissance de ses potentialités. Le développement de sa culture en haute altitude pourrait représenter une opportunité économique intéressante pour les communautés montagnardes, tant pour l'usage local que pour l'exportation potentielle d'huiles essentielles de qualité."
   },
   "recherche": {
-    "nb_articles": "~5000 (estimation)",
     "details": "Avec environ 5000 publications scientifiques répertoriées, T. vulgaris figure parmi les plantes les mieux documentées sur le plan pharmacologique. Les recherches actuelles se concentrent sur l'optimisation des extraits standardisés, l'évaluation de nouvelles applications thérapeutiques et le développement de formulations innovantes. Dans le contexte haïtien, les perspectives de recherche incluent l'adaptation variétale aux conditions tropicales d'altitude, l'évaluation de la qualité des huiles essentielles produites localement et le développement de protocoles de culture adaptés au contexte socio-économique local.",
+    "nb_articles": "",
     "lien_pubmed": "",
     "lien_scholar": "",
     "lien_tramil": ""
@@ -47,10 +47,10 @@
   "references": "Borugă, O. et al. (2014). Thymus vulgaris essential oil: chemical composition and antimicrobial activity. Journal of Medicine and Life. PMID: 25050943. European Medicines Agency. (2013). Assessment report on Thymus vulgaris L., herbal substance(s). EMA/HMPC/342334/2013. Kemmerich, B. et al. (2006). Efficacy and tolerability of a fluid extract combination of thyme herb and ivy leaves and matched placebo in adults suffering from acute bronchitis with productive cough. Arzneimittelforschung. PMID: 16628544. Nabavi, S.M. et al. (2015). Thymol: a promising inhibitor of human low density lipoprotein oxidation. Food Chemistry. PMID: 26142730. Rota, M.C. et al. (2008). Antimicrobial activity and chemical composition of Thymus vulgaris, Thymus zygis and Thymus hyemalis essential oils. Food Control. DOI: 10.1016/j.foodcont.2007.07.007. TRAMIL. Thymus vulgaris. www.tramil.net/en/plant/thymus-vulgaris.",
   "aRetenir": "🟢 À retenir — Ten : est utilisee en medecine traditionnelle avec un bon profil de securite aux doses courantes. Les usages presentes reposent sur des donnees ethnobotaniques et scientifiques publiees, mais ne constituent pas une prescription. Consulter un professionnel de sante avant tout usage therapeutique. Les auteurs declinent toute responsabilite quant a un usage inapproprie.",
   "images": {
-    "principale": "images/429_Thymus_vulgaris-001.jpg",
+    "principale": "/images/429_Thymus_vulgaris-001.jpg",
     "galerie": [
-      "images/429_Thymus_vulgaris-001.jpg"
+      "/images/429_Thymus_vulgaris-001.jpg"
     ]
   },
-  "source": "plantes_full.json"
+  "source": "CSV corrigé 2026-04-11"
 }

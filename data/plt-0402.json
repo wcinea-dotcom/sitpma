@@ -1,7 +1,7 @@
 {
   "id_plante": "plt-0402",
   "code": "plt-0402",
-  "no_espece": "",
+  "no_espece": "4.2",
   "no_famille": "4",
   "famille": "Amaranthacées",
   "description_famille": "",
@@ -20,17 +20,17 @@
   },
   "usages": {
     "usages_ethnobotaniques": "L'usage alimentaire constitue l'utilisation principale documentée dans le Sud et la Grand'Anse. Les graines, récoltées à maturité, sont préparées par grillage ou cuisson et consommées comme pseudo-céréale nutritive, particulièrement recommandée en cas d'anémie ou de fatigue. Les jeunes feuilles tendres sont cuisinées comme légumes-feuilles avec les vivres, apportant vitamines A et C à l'alimentation locale. La plante trouve également un usage ornemental apprécié pour ses spectaculaires inflorescences colorées. L'usage médicinal, bien que moins documenté localement, repose sur les propriétés antioxydantes et de soutien cardiovasculaire. Les modes de préparation incluent la cuisson simple des graines (comme céréale) et le grillage léger qui développe une saveur de noisette appréciée. Les feuilles sont préparées comme tout légume-feuille traditionnel. Internationally, au Pérou, les graines sont connues sous le nom de « kiwicha » et constituent un super-aliment traditionnel des populations andines.",
-    "systemes_concernes": "Immunitaire"
+    "systemes_concernes": "A. caudatus cible préférentiellement les systèmes sanguin et immunitaire. L'usage traditionnel documente son emploi pour l'énergie et comme antioxydant, applications cohérentes avec sa composition nutritionnelle et phytochimique exceptionnelle. Les mécanismes d'action scientifiquement étudiés impliquent plusieurs voies. Les polyphénols, bétalaïnes et fibres contribuent à la modulation des lipides sanguins et à la réduction du stress oxydatif cellulaire. Des études in vitro ont démontré une forte activité antioxydante des extraits d'A. caudatus, corrélée à leur teneur en bétalaïnes et composés phénoliques (Cai et al., 2003 — Journal of Agricultural and Food Chemistry — DOI: 10.1021/jf0304770). Les protéines de haute qualité biologiques soutiennent la synthèse protéique et la récupération énergétique. La richesse en fer biodisponible et en vitamine C des feuilles explique l'usage traditionnel contre l'anémie. Quelques essais nutritionnels humains ont exploré l'impact de la consommation d'amarante sur les profils lipidiques, suggérant un potentiel bénéfique sur le métabolisme, bien que des études cliniques plus approfondies soient nécessaires pour confirmer ces effets."
   },
   "pharmacologie": {
     "molecules": "Les inflorescences rouge-pourpre éclatantes de l'amarante queue-de-renard trahissent la présence de bétalaïnes, des pigments azotés exceptionnellement rares dans le règne végétal, concentrés ici à des niveaux remarquables aux côtés d'un profil protéique complet. Les principaux métabolites secondaires identifiés dans A. caudatus comprennent : les bétalaïnes (bétacyanines et bétaxanthines responsables des couleurs rouge-pourpre des inflorescences), les flavonoïdes (quercétine, kaempférol), les acides phénoliques (acide férulique, acide caféique), les saponines triterpéniques, les caroténoïdes et les tocotriénols (forme de vitamine E). Ces composés remplissent des fonctions de défense précises. Les bétalaïnes, uniques aux Amaranthacées et aux Cactacées, protègent contre le stress oxydatif intense et les rayonnements UV, tout en conférant les propriétés antioxydantes documentées de la plante. Les saponines triterpéniques forment une barrière chimique contre les pathogènes du sol et les insectes herbivores. Les tocotriénols participent à la protection membranaire contre l'oxydation. Sur le plan nutritionnel, la composition exceptionnelle des graines comprend : 13-18% de protéines complètes (contenant tous les acides aminés essentiels, notamment la lysine souvent déficitaire dans les céréales), 6-8% de lipides riches en squalène et acides gras insaturés, et des microéléments (fer, magnésium, calcium, potassium) à des teneurs remarquables.",
     "posologie": "En usage alimentaire, les populations andines consomment traditionnellement environ 50 à 100 g par jour de graines comme céréale de base. Pour les jeunes feuilles, la consommation suit les portions habituelles des légumes-feuilles locaux. Aucune posologie médicinale officielle n'est établie, l'usage thérapeutique s'appuyant principalement sur l'incorporation alimentaire régulière. Les préparations traditionnelles privilégient la cuisson complète des graines et la préparation culinaire classique des feuilles."
   },
   "nutrition": {
-    "introduction": "Amaranthus caudatus L. (syn. Amaranthus edulis) est une herbe annuelle exotique, commune dans les Départements du Sud et de la Grand'Anse. Elle appartient à la famille des Amaranthacées, une famille majoritairement composée d'herbes, incontournable dans la flore du grand Sud d'Haïti. Cette famille se distingue par ses riches usages alimentaires et médicinaux, comprenant des genres nutritionnels majeurs comme Amaranthus et Beta (betterave), ainsi que des genres médicinaux comme Achyranthes et Alternanthera. Sur le plan phytochimique, elle exprime une signature dominée par les bétalaïnes (pigments colorés), les saponines à acide oléanolique, l'achyranthine et des teneurs importantes en potassium. Cliniquement, cette famille cible préférentiellement les systèmes urinaire, cutané et sanguin. Il convient cependant de noter qu'attention particulière s'impose : certaines espèces renferment des principes actifs très puissants — notamment Dysphania ambrosioides qui contient de l'ascaridol toxique — ou présentent des teneurs élevées en oxalates exigeant une préparation adéquate. Au sein de cette famille, Amaranthus caudatus fait partie du genre Amaranthus, regroupant des pseudo-céréales nutritionnelles d'importance mondiale, caractérisées par leurs graines riches en protéines complètes et leurs inflorescences spectaculaires. Cette espèce présente un double usage alimentaire et médicinal documenté dans le Sud et la Grand'Anse, valorisant tant ses graines nutritives que ses jeunes feuilles comestibles."
+    "valeur": "A. caudatus présente une double valeur économique locale et internationale. Localement, elle constitue une culture ornementale appréciée et une source alimentaire nutritive accessible. Internationalement, la demande croissante pour les super-aliments et pseudo-céréales sans gluten offre des perspectives commerciales intéressantes pour les graines d'amarante. Le potentiel d'exportation vers les marchés de niche reste à développer en Haïti."
   },
   "toxicologie": {
-    "niveau": "",
+    "niveau": "🟢 Non toxique aux doses usuelles",
     "details": "A. caudatus présente un excellent profil de sécurité en usage alimentaire normal. La principale précaution concerne la présence d'oxalates dans les feuilles, nécessitant une prudence chez les personnes prédisposées aux calculs rénaux. La cuisson réduit significativement la teneur en oxalates. Les graines sont généralement bien tolérées, même en consommation régulière. Aucune toxicité significative n'est rapportée dans la littérature pour cette espèce, contrairement à d'autres Amaranthacées comme Dysphania ambrosioides. L'usage est considéré comme sûr chez l'adulte en bonne santé."
   },
   "conservation": {
@@ -38,8 +38,8 @@
     "valeur": "A. caudatus présente une double valeur économique locale et internationale. Localement, elle constitue une culture ornementale appréciée et une source alimentaire nutritive accessible. Internationalement, la demande croissante pour les super-aliments et pseudo-céréales sans gluten offre des perspectives commerciales intéressantes pour les graines d'amarante. Le potentiel d'exportation vers les marchés de niche reste à développer en Haïti."
   },
   "recherche": {
-    "nb_articles": "~1000 (estimation)",
     "details": "Environ 1000 publications scientifiques documentent A. caudatus, reflétant l'intérêt international pour ses propriétés nutritionnelles et fonctionnelles. Les recherches actuelles explorent notamment l'optimisation des conditions de culture, l'amélioration des variétés, et l'approfondissement des mécanismes d'action santé. Les perspectives incluent le développement d'applications nutraceutiques, l'étude de nouvelles bioactivités et l'optimisation des procédés de transformation post-récolte.",
+    "nb_articles": "",
     "lien_pubmed": "https://pubmed.ncbi.nlm.nih.gov/?term=Amaranthus+caudatus",
     "lien_scholar": "",
     "lien_tramil": ""
@@ -47,11 +47,11 @@
   "references": "Cai Y. et al. (2003). Antioxidant activity and phenolic compounds of 112 traditional Chinese medicinal plants associated with anticancer. Journal of Agricultural and Food Chemistry. DOI: 10.1021/jf0304770. PubMed search: https://pubmed.ncbi.nlm.nih.gov/?term=Amaranthus+caudatus POWO (2026). Plants of the World Online. Kew Science. World Flora Online (2026). www.worldfloraonline.org",
   "aRetenir": "🟢 À retenir — Zepina : est avant tout un aliment — sa valeur nutritionnelle prime sur ses usages medicinaux. Consommee correctement preparee, elle est sans danger documente. Ses proprietes therapeutiques, reelles mais secondaires, ne remplacent pas un suivi medical. Les auteurs declinent toute responsabilite quant a un usage inapproprie.",
   "images": {
-    "principale": "images/42_Amaranthus_caudatus-001.jpg",
+    "principale": "/images/42_Amaranthus_caudatus-001.jpg",
     "galerie": [
-      "images/42_Amaranthus_caudatus-001.jpg",
-      "images/42_Amaranthus_caudatus-002.jpg"
+      "/images/42_Amaranthus_caudatus-001.jpg",
+      "/images/42_Amaranthus_caudatus-002.jpg"
     ]
   },
-  "source": "plantes_full.json"
+  "source": "CSV corrigé 2026-04-11"
 }

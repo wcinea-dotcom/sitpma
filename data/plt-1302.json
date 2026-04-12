@@ -1,7 +1,7 @@
 {
   "id_plante": "plt-1302",
   "code": "plt-1302",
-  "no_espece": "",
+  "no_espece": "13.2",
   "no_famille": "13",
   "famille": "Arécacées",
   "description_famille": "",
@@ -20,17 +20,17 @@
   },
   "usages": {
     "usages_ethnobotaniques": "Dans les Départements du Sud et de la Grand'Anse, l'utilisation du cocotier s'articule autour de trois produits principaux. L'eau de coco est consommée directement comme boisson rafraîchissante et remède traditionnel pour « les reins », reflétant une compréhension empirique de ses propriétés diurétiques et réhydratantes. La pulpe fraîche est râpée et pressée pour extraire le lait de coco, ingrédient fondamental de la cuisine haïtienne utilisé pour enrichir les sauces, les desserts et les plats de résistance. L'huile de coco, obtenue par pression à froid ou chauffage de la pulpe séchée (coprah), est employée tant en cuisine qu'en application topique pour les soins cutanés et capillaires. Les préparations sont généralement simples : consommation directe pour l'eau, râpage manuel pour le lait, et extraction artisanale pour l'huile. Cette simplicité de préparation explique en partie l'adoption massive de ces usages dans les communautés rurales.",
-    "systemes_concernes": "Digestif, Tégumentaire"
+    "systemes_concernes": "Les usages documentés dans le Sud et la Grand'Anse ciblent principalement les systèmes digestif, rénal et tégumentaire. L'eau de coco agirait comme diurétique léger et agent réhydratant, particulièrement appréciée lors d'épisodes de déshydratation ou de troubles digestifs mineurs. Le mécanisme d'action reposerait sur la correction partielle du volume plasmatique et de l'équilibre électrolytique grâce à sa composition en potassium, magnésium et sucres naturels (Kalman et al., 2012 — PMID: 22796944). L'huile de coco présenterait des propriétés anti-inflammatoires et cicatrisantes en application topique, attribuables aux acides gras à chaînes moyennes et aux composés phénoliques. Des études in vitro ont démontré l'activité antimicrobienne de l'acide laurique contre plusieurs pathogènes cutanés (Nakatsuji et al., 2009 — PMID: 19585478). Cependant, ces mécanismes restent principalement documentés par des études précliniques, les essais cliniques chez l'humain demeurant limités."
   },
   "pharmacologie": {
     "molecules": "Le cocotier produit des composés nutritionnels remarquables qui expliquent sa valeur alimentaire et thérapeutique exceptionnelle. L'eau de coco constitue une solution naturelle riche en électrolytes, contenant principalement du potassium (250-300 mg/100mL), du magnésium, du calcium et des sucres naturels (glucose, fructose, saccharose) dans des proportions quasi-isotoniques au plasma sanguin. Cette composition unique résulte de l'accumulation progressive de minéraux puisés par le système racinaire du palmier et concentrés dans l'endosperme liquide. La pulpe, quant à elle, accumule massivement des triglycérides à chaînes moyennes, notamment l'acide laurique (45-50% des acides gras totaux), lui conférant ses propriétés énergétiques et antimicrobiennes distinctives. Les principaux composés secondaires identifiés dans C. nucifera comprennent : des flavonoïdes (catéchines, épicatéchines), des composés phénoliques, des tanins condensés, des cytokinines (zéatine, kinétine) dans l'eau de coco, et des tocophérols (vitamine E) dans l'huile (Prades et al., 2012 — DOI: 10.1007/s13197-011-0378-z). Ces molécules remplissent des fonctions de protection essentielles pour la plante. L'acide laurique et les autres acides gras à chaînes moyennes protègent l'embryon contre les pathogènes fongiques et bactériens durant la longue période de maturation. Les composés phénoliques et les tanins conferent une résistance aux attaques d'insectes et aux stress oxydatifs liés à l'exposition solaire intense des environnements côtiers. Ces mêmes composés, une fois ingérés par l'humain, produisent les effets biologiques documentés : l'acide laurique présente une activité antimicrobienne contre diverses souches pathogènes, les électrolytes de l'eau de coco facilitent la réhydratation, et les antioxydants phénoliques contribuent à la protection contre le stress oxydatif cellulaire.",
     "posologie": "Plusieurs études cliniques ont évalué la consommation d'eau de coco. Une étude randomisée contrôlée a testé 200-300 mL d'eau de coco par jour comme boisson de réhydratation chez des athlètes, montrant une efficacité comparable aux boissons sportives commerciales (Kalman et al., 2012 — PMID: 22796944). Pour l'huile de coco par voie orale, les études nutritionnelles utilisent généralement 15-30 mL par jour dans le cadre de l'apport lipidique quotidien (Eyres et al., 2016 — PMID: 27679934). En application topique, aucune posologie standardisée n'est établie, les études dermatologiques utilisant des applications bi-quotidiennes sur les zones affectées. Ces dosages restent indicatifs et nécessitent une adaptation selon le contexte clinique et les objectifs thérapeutiques."
   },
   "nutrition": {
-    "introduction": "Cocos nucifera L. (syn. Palma cocos) est un palmier pantropical exotique, largement cultivé et naturalisé dans les Départements du Sud et de la Grand'Anse. Cette espèce appartient à la famille des Arécacées, une famille majeure composée principalement de palmiers, reconnue pour ses multiples applications alimentaires, médicinales et artisanales. Le cocotier fait partie du genre monotypique Cocos, ce qui signifie qu'il constitue la seule espèce de ce genre. Dans les deux départements, le cocotier représente l'une des ressources végétales les plus polyvalentes : alimentaire par sa pulpe et son eau, médicinale par ses propriétés réhydratantes et anti-inflammatoires, et économique par ses nombreux sous-produits. Sa présence abondante le long des côtes en fait une ressource facilement accessible aux communautés locales."
+    "valeur": "Le cocotier constitue une ressource économique majeure pour les communautés des Départements du Sud et de la Grand'Anse. La vente d'eau de coco fraîche génère des revenus directs pour de nombreuses familles, particulièrement sur les marchés locaux et zones touristiques. L'huile de coco artisanale trouve des débouchés croissants, tant pour l'usage domestique que pour la commercialisation. Les sous-produits (fibres de coque, tourbe de coco, charbon de coque) offrent des opportunités de valorisation complémentaires. Au niveau international, Haïti pourrait développer une filière d'exportation d'huile de coco vierge, produit à forte valeur ajoutée sur les marchés nord-américains et européens."
   },
   "toxicologie": {
-    "niveau": "",
+    "niveau": "🟢 Non toxique aux doses usuelles",
     "details": "Cocos nucifera présente un excellent profil de sécurité. L'eau de coco est généralement bien tolérée, mais les personnes diabétiques doivent tenir compte de sa teneur en sucres naturels (4-5g/100mL). L'huile de coco, très calorique (900 kcal/100g), nécessite une consommation modérée chez les personnes suivant un régime hypocalorique. Des allergies à la noix de coco, bien que rares, peuvent survenir et se manifestent par des réactions cutanées ou digestives. Les personnes souffrant d'insuffisance rénale doivent limiter la consommation d'eau de coco en raison de sa richesse en potassium. Aucune interaction médicamenteuse majeure n'est documentée, mais la prudence est recommandée chez les patients sous diurétiques épargneurs de potassium."
   },
   "conservation": {
@@ -38,8 +38,8 @@
     "valeur": "Le cocotier constitue une ressource économique majeure pour les communautés des Départements du Sud et de la Grand'Anse. La vente d'eau de coco fraîche génère des revenus directs pour de nombreuses familles, particulièrement sur les marchés locaux et zones touristiques. L'huile de coco artisanale trouve des débouchés croissants, tant pour l'usage domestique que pour la commercialisation. Les sous-produits (fibres de coque, tourbe de coco, charbon de coque) offrent des opportunités de valorisation complémentaires. Au niveau international, Haïti pourrait développer une filière d'exportation d'huile de coco vierge, produit à forte valeur ajoutée sur les marchés nord-américains et européens."
   },
   "recherche": {
-    "nb_articles": "~5000 (estimation)",
     "details": "Avec environ 5000 publications référencées sur PubMed, Cocos nucifera figure parmi les espèces végétales les plus étudiées scientifiquement. Les recherches actuelles explorent notamment les propriétés prébiotiques de l'eau de coco, les applications dermatologiques de l'huile vierge, et l'optimisation des procédés d'extraction des composés bioactifs. Des études cliniques récentes évaluent l'effet de l'huile de coco sur le profil lipidique et la fonction cognitive. Pour Haïti, les priorités de recherche incluent la caractérisation des variétés locales, l'amélioration des techniques de transformation artisanale, et l'évaluation de la résistance aux stress climatiques. Le développement de protocoles de multiplication in vitro pourrait faciliter la conservation ex situ des génotypes traditionnels.",
+    "nb_articles": "",
     "lien_pubmed": "",
     "lien_scholar": "",
     "lien_tramil": "https://www.tramil.net/en/plant/cocos-nucifera"
@@ -47,13 +47,13 @@
   "references": "Eyres L et al. (2016). Coconut oil consumption and cardiovascular risk factors in humans. Nutr Rev. PMID: 27679934. Kalman DS et al. (2012). Comparison of coconut water and a carbohydrate-electrolyte sport drink on measures of hydration and physical performance in exercise-trained men. J Int Soc Sports Nutr. PMID: 22796944. Nakatsuji T et al. (2009). Antimicrobials from human sebocytes and sweat have selective antimicrobial effects. J Invest Dermatol. PMID: 19585478. Prades A et al. (2012). Coconut water uses, composition and properties: a review. Fruits. DOI: 10.1007/s13197-011-0378-z. POWO (2024). Plants of the World Online. Kew Science. https://powo.science.kew.org/ TRAMIL (2024). Cocos nucifera. https://www.tramil.net/en/plant/cocos-nucifera World Flora Online (2024). Cocos nucifera L. http://www.worldfloraonline.org/",
   "aRetenir": "🟢 À retenir — Kokoye : est avant tout un aliment — sa valeur nutritionnelle prime sur ses usages medicinaux. Consommee correctement preparee, elle est sans danger documente. Ses proprietes therapeutiques, reelles mais secondaires, ne remplacent pas un suivi medical. Les auteurs declinent toute responsabilite quant a un usage inapproprie.",
   "images": {
-    "principale": "images/132_Cocos_nucifera-002.jpg",
+    "principale": "/images/132_Cocos_nucifera-002.jpg",
     "galerie": [
-      "images/132_Cocos_nucifera-002.jpg",
-      "images/132_Cocos_nucifera-003.jpg",
-      "images/132_Cocos_nucifera-004.jpg",
-      "images/132_Cocos_nucifera-005.jpg"
+      "/images/132_Cocos_nucifera-002.jpg",
+      "/images/132_Cocos_nucifera-003.jpg",
+      "/images/132_Cocos_nucifera-004.jpg",
+      "/images/132_Cocos_nucifera-005.jpg"
     ]
   },
-  "source": "plantes_full.json"
+  "source": "CSV corrigé 2026-04-11"
 }

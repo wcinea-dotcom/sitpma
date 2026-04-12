@@ -1,7 +1,7 @@
 {
   "id_plante": "plt-3302",
   "code": "plt-3302",
-  "no_espece": "",
+  "no_espece": "33.2",
   "no_famille": "33",
   "famille": "Convolvulacées",
   "description_famille": "",
@@ -20,17 +20,17 @@
   },
   "usages": {
     "usages_ethnobotaniques": "Documentée dans le Sud et la Grand'Anse, la patate douce occupe une place centrale dans l'alimentation traditionnelle haïtienne. Les tubercules constituent l'un des \"vivres\" de base, consommés bouillis, grillés, frits ou transformés en \"pain patate\", une pâtisserie traditionnelle sucrée très appréciée. Les feuilles jeunes sont parfois consommées comme légume-feuille ou préparées en tisane pour leurs propriétés nutritives. La préparation principale reste la cuisson simple : les tubercules sont pelés et bouillis jusqu'à tendreté, puis consommés nature ou assaisonnés. Selon TRAMIL, les feuilles sont utilisées en Haïti pour le diabète, préparées en décoction. La plante sert également de fourrage pour l'alimentation animale, les tiges et feuilles étant données aux porcs et aux bovins.",
-    "systemes_concernes": "Immunitaire, Oculaire"
+    "systemes_concernes": "Le système principalement concerné est le système nutritionnel, avec des effets documentés sur le métabolisme glucidique et la protection antioxydante. Les polysaccharides complexes et les fibres alimentaires de la patate douce modulent l'absorption intestinale du glucose, contribuant à une libération plus progressive des sucres dans le sang. Les anthocyanes et composés phénoliques exercent une action antioxydante et anti-inflammatoire, particulièrement au niveau intestinal et systémique (Ludvik et al., 2004 — PMID: 15149153). Les caroténoïdes, une fois convertis en vitamine A, soutiennent la fonction immunitaire et la santé oculaire. Les mécanismes d'action impliquent une inhibition partielle de l'alpha-amylase et de l'alpha-glucosidase, enzymes de digestion des glucides, ainsi qu'une modulation du stress oxydatif cellulaire."
   },
   "pharmacologie": {
     "molecules": "Ce qui rend la patate douce nutritionnellement remarquable, c'est sa richesse en composés bioactifs responsables de ses couleurs vives et de sa valeur alimentaire. Les tubercules à chair orange doivent leur couleur aux caroténoïdes, principalement le bêta-carotène (provitamine A), tandis que les variétés violettes contiennent des anthocyanes, pigments antioxydants puissants. Les tubercules renferment également des quantités notables de vitamine C, de fibres alimentaires et d'amidon facilement digestible. Les feuilles concentrent des protéines végétales de bonne qualité, du fer, du calcium et diverses vitamines (Bovell-Benjamin, 2007 — PMID: 17995374). Les principaux composés secondaires identifiés dans I. batatas comprennent : des anthocyanes (cyanidin-3-glucoside, péonidin-3-glucoside dans les variétés violettes), des caroténoïdes (bêta-carotène, lutéine, zéaxanthine dans les variétés orange), des flavonoïdes (quercétine, kaempférol), des acides phénoliques (acide chlorogénique, acide caféique), des saponines et des polysaccharides complexes (Oki et al., 2002 — PMID: 12428975). Ces molécules remplissent des fonctions de défense précises pour la plante. Les anthocyanes et caroténoïdes protègent les tissus contre les dommages oxydatifs causés par les rayonnements UV et les stress environnementaux. Les composés phénoliques agissent comme défenses chimiques contre les pathogènes du sol et les herbivores. Ces mêmes composés, une fois ingérés par l'humain, produisent les effets biologiques documentés : activité antioxydante, modulation glycémique et soutien nutritionnel. Il convient de noter que la plupart des études pharmacologiques restent principalement in vitro ou sur modèles animaux.",
     "posologie": "En usage alimentaire, les recommandations nutritionnelles suggèrent une consommation de 100 à 200 grammes de tubercule cuit par jour comme source de glucides complexes et de provitamine A. Pour les feuilles utilisées comme légume, 50 à 100 grammes de feuilles fraîches cuites apportent un complément protéique et vitaminique intéressant. Aucune posologie thérapeutique standardisée n'est établie pour un usage strictement médicinal, les bénéfices étant principalement nutritionnels. Les pratiques traditionnelles documentées localement ne sont pas standardisées cliniquement."
   },
   "nutrition": {
-    "introduction": "Ipomoea batatas (L.) Lam. (syn. Convolvulus batatas L.) est une herbe tubéreuse exotique pantropicale, cultivée de manière intensive dans les Départements du Sud et de la Grand'Anse. Elle appartient à la famille des Convolvulacées, une famille principalement composée de lianes et d'herbes grimpantes, reconnue pour ses usages alimentaires majeurs et ses propriétés médicinales variées. Au sein de cette famille, Ipomoea batatas fait partie du genre Ipomoea, qui regroupe plus de 600 espèces à travers le monde, incluant des espèces ornementales comme les belles-de-jour et d'autres à usages traditionnels. La patate douce constitue l'un des vivres alimentaires les plus importants d'Haïti, particulièrement appréciée pour sa richesse nutritionnelle et sa facilité de culture en conditions tropicales."
+    "valeur": "La patate douce représente une valeur économique considérable dans les Départements du Sud et de la Grand'Anse, tant pour la sécurité alimentaire des ménages que pour les revenus agricoles. Sa facilité de culture, sa productivité élevée et sa capacité de conservation en font une culture de subsistance et de rente accessible aux petits producteurs. Le marché local absorbe la production sous forme fraîche, et les transformations artisanales (pain patate, chips) génèrent une valeur ajoutée appréciable."
   },
   "toxicologie": {
-    "niveau": "",
+    "niveau": "🟡 Précautions requises",
     "details": "I. batatas présente un excellent profil de sécurité alimentaire. Aucune toxicité significative n'est rapportée pour les tubercules aux doses alimentaires normales. Les feuilles contiennent des oxalates en quantités modérées, nécessitant une prudence chez les personnes prédisposées aux lithiases oxaliques. Chez les diabétiques sous traitement médicamenteux, il convient d'ajuster la prise en compte de la charge glucidique globale pour éviter les variations glycémiques. Les interactions médicamenteuses sont exceptionnelles aux doses alimentaires."
   },
   "conservation": {
@@ -38,8 +38,8 @@
     "valeur": "La patate douce représente une valeur économique considérable dans les Départements du Sud et de la Grand'Anse, tant pour la sécurité alimentaire des ménages que pour les revenus agricoles. Sa facilité de culture, sa productivité élevée et sa capacité de conservation en font une culture de subsistance et de rente accessible aux petits producteurs. Le marché local absorbe la production sous forme fraîche, et les transformations artisanales (pain patate, chips) génèrent une valeur ajoutée appréciable."
   },
   "recherche": {
-    "nb_articles": "~2000 (estimation)",
     "details": "Avec environ 2000 publications indexées sur PubMed, I. batatas fait l'objet d'un intérêt scientifique soutenu, particulièrement pour ses propriétés antioxydantes et son potentiel dans la prévention du diabète de type 2. Les recherches actuelles s'orientent vers l'optimisation des teneurs en composés bioactifs par sélection variétale, et vers la valorisation des co-produits (feuilles, tiges) comme sources de protéines et de molécules d'intérêt. Les perspectives incluent le développement de variétés enrichies et l'exploration des applications nutraceutiques.",
+    "nb_articles": "",
     "lien_pubmed": "",
     "lien_scholar": "",
     "lien_tramil": "https://www.tramil.net/en/plant/ipomoea-batatas"
@@ -47,11 +47,11 @@
   "references": "Bovell-Benjamin, A.C. (2007). Sweet potato: a review of its past, present, and future role in human nutrition. Advances in Food and Nutrition Research 52, 1-59. PMID: 17995374. Oki, T. et al. (2002). Colors and radical scavenging activities of anthocyanins in Ipomoea batatas purple sweet potato. Food Science and Technology Research 8(1), 45-51. Ludvik, B. et al. (2004). Improved metabolic control by Ipomoea batatas (Caiapo) is associated with increased adiponectin and decreased fibrinogen levels in type 2 diabetic subjects. Diabetes, Obesity and Metabolism 6(5), 335-340. PMID: 15149153. TRAMIL. Ipomoea batatas. https://www.tramil.net/en/plant/ipomoea-batatas",
   "aRetenir": "🟢 À retenir — Patat : est avant tout un aliment — sa valeur nutritionnelle prime sur ses usages medicinaux. Consommee correctement preparee, elle est sans danger documente. Ses proprietes therapeutiques, reelles mais secondaires, ne remplacent pas un suivi medical. Les auteurs declinent toute responsabilite quant a un usage inapproprie.",
   "images": {
-    "principale": "images/332_Ipomoea_batatas-001.jpg",
+    "principale": "/images/332_Ipomoea_batatas-001.jpg",
     "galerie": [
-      "images/332_Ipomoea_batatas-001.jpg",
-      "images/332_Ipomoea_batatas-002.jpg"
+      "/images/332_Ipomoea_batatas-001.jpg",
+      "/images/332_Ipomoea_batatas-002.jpg"
     ]
   },
-  "source": "plantes_full.json"
+  "source": "CSV corrigé 2026-04-11"
 }

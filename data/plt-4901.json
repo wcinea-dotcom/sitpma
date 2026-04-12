@@ -1,7 +1,7 @@
 {
   "id_plante": "plt-4901",
   "code": "plt-4901",
-  "no_espece": "",
+  "no_espece": "49.1",
   "no_famille": "49",
   "famille": "Menispermacées",
   "description_famille": "Les Menispermacées constituent une famille tropicale remarquable de lianes grimpantes, comptant environ 550 espèces réparties dans plus de 70 genres à travers les régions chaudes du globe. Reconnaissables par leur port lianescent caractéristique, ces plantes colonisent efficacement les lisières forestières, les haies et les bosquets des régions tropicales. La famille se distingue par une riche tradition médicinale, particulièrement développée dans les systèmes de médecine traditionnelle asiatique et américaine. Sur le plan phytochimique, les Menispermacées expriment une signature chimique dominée par des alcaloïdes isoquinoléiques puissants — notamment l'hayatine (curine), la berbérine et la cissampeline — qui confèrent à ces plantes leurs propriétés myorelaxantes et antispasmodiques remarquables. Ces composés ciblent préférentiellement les systèmes reproducteur féminin et musculaire, expliquant leur usage traditionnel contre les dysménorrhées et les spasmes. La famille nécessite une vigilance particulière car plusieurs genres contiennent des alcaloïdes aux effets neuromusculaires puissants, exigeant une utilisation experte et des précautions strictes, notamment chez les femmes enceintes.",
@@ -20,17 +20,17 @@
   },
   "usages": {
     "usages_ethnobotaniques": "Dans les Départements du Sud et de la Grand'Anse, C. pareira est documentée principalement pour le traitement des crampes menstruelles, des douleurs musculaires et la prévention des fausses couches. Les racines constituent la partie la plus recherchée, préparées soit en infusion (décoction légère de racines séchées), soit sous forme de poudre fine incorporée dans des tisanes. Les lianes et feuilles sont également utilisées, généralement en préparations moins concentrées. Les modes de préparation traditionnels respectent généralement des dosages prudents, témoignant d'une connaissance empirique de la puissance des principes actifs. La plante est référencée dans TRAMIL, bien que son usage y soit signalé comme limité en raison de considérations toxicologiques.",
-    "systemes_concernes": "Reproducteur"
+    "systemes_concernes": "C. pareira cible préférentiellement les systèmes reproducteur féminin et musculaire. Les principales indications documentées comprennent la dysménorrhée (règles douloureuses), les spasmes utérins et les contractures musculaires diverses. Le mécanisme d'action repose principalement sur l'hayatine, qui agit comme un bloqueur neuromusculaire non dépolarisant au niveau des plaques motrices, produisant une relaxation des muscles lisses et striés (Bowman & Savage, 1981 — PMID: 7026545). Les études pharmacologiques confirment cette action relaxante sur les muscles lisses, validant partiellement les usages traditionnels. Cependant, les mécanismes précis d'action sur l'utérus et leur sécurité pendant la grossesse nécessitent des études cliniques approfondies."
   },
   "pharmacologie": {
     "molecules": "C. pareira se distingue par la production d'alcaloïdes isoquinoléiques particulièrement puissants qui confèrent à ses racines des propriétés myorelaxantes exceptionnelles. L'hayatine (également appelée curine), principal alcaloïde de la plante, agit comme un bloqueur neuromusculaire non dépolarisant, expliquant l'efficacité traditionnelle de la plante contre les crampes menstruelles et les spasmes musculaires (Bowman & Savage, 1981 — PMID: 7026545). La berbérine, second composé majeur, contribue aux propriétés anti-inflammatoires et antimicrobiennes de la plante (Kumar et al., 2015 — PMID: 25824404). Les principaux composés secondaires identifiés dans C. pareira comprennent : des alcaloïdes isoquinoléiques (hayatine/curine, berbérine, cissampeline, pareirine), des alcaloïdes bis-benzylisoquinoléiques, des saponines triterpéniques et des tanins (Barbosa-Filho et al., 2000 — PMID: 11131302). Ces alcaloïdes présentent une structure chimique complexe leur conférant une affinité spécifique pour les récepteurs neuromusculaires et les canaux ioniques des muscles lisses. Ces molécules remplissent des fonctions de défense chimique sophistiquées pour la plante. Les alcaloïdes isoquinoléiques protègent efficacement contre l'herbivorie en perturbant le système nerveux des animaux qui tentent de consommer la plante. La berbérine offre une protection antimicrobienne contre les pathogènes du sol et de l'air. Ces mêmes composés, une fois ingérés par l'humain à doses thérapeutiques appropriées, produisent les effets myorelaxants et antispasmodiques documentés dans les pratiques traditionnelles, bien que leur puissance exige une utilisation experte et prudente.",
     "posologie": "Les données de posologie cliniquement validées sont limitées pour C. pareira. Les références de médecine ayurvédique mentionnent généralement 1-2g de poudre de racine, mais ces dosages ne sont pas standardisés selon les critères pharmaceutiques modernes (Khare, 2007). Aucune posologie cliniquement validée n'est disponible pour les préparations spécifiquement haïtiennes. Les pratiques traditionnelles documentées localement ne sont pas standardisées et varient considérablement selon les préparateurs et les indications. La puissance des alcaloïdes contenus exige une expertise particulière pour déterminer des dosages sûrs et efficaces."
   },
   "nutrition": {
-    "introduction": "Cissampelos pareira L. (syn. Cissampelos microcarpa DC.) est une liane native documentée dans les Départements du Sud et de la Grand'Anse, où elle porte les noms créoles de « Pat shwal » et « Lyan mòl ». Elle appartient à la famille des Menispermacées, une famille tropicale de lianes reconnue pour ses puissants alcaloïdes isoquinoléiques aux propriétés myorelaxantes. Au sein de cette famille, elle fait partie du genre Cissampelos, qui regroupe environ 30 espèces de lianes tropicales réputées dans les médecines traditionnelles du monde entier. Son usage principal dans les deux départements est médicinal, spécifiquement orienté vers la santé reproductive féminine et le traitement des douleurs musculaires. Cette espèce occupe une place importante dans la pharmacopée féminine traditionnelle haïtienne, bien que sa rareté croissante sur le territoire nécessite une attention particulière."
+    "valeur": "C. pareira représente une ressource de santé publique importante pour la médecine locale, accessible gratuitement à la majorité de la population rurale des deux départements. Son usage dans la pharmacopée féminine traditionnelle lui confère une valeur sociale considérable, particulièrement dans les zones où l'accès aux soins gynécologiques modernes est limité. Sur le plan commercial, la plante ne fait pas l'objet d'un commerce significatif en Haïti, contrairement à d'autres régions où elle alimente des filières de médecine traditionnelle organisées. Son potentiel économique reste sous-exploité, en partie en raison des contraintes toxicologiques qui limitent son usage."
   },
   "toxicologie": {
-    "niveau": "toxic",
+    "niveau": "🟡 Précautions requises",
     "details": "C. pareira présente un profil toxicologique préoccupant en raison de ses alcaloïdes isoquinoléiques puissants. L'hayatine, principal principe actif, agit comme un bloqueur neuromusculaire et peut provoquer une paralysie respiratoire à doses excessives. La plante est formellement déconseillée aux femmes enceintes et allaitantes, malgré son usage traditionnel controversé pour la prévention des fausses couches. Les symptômes de surdosage peuvent inclure faiblesse musculaire, difficultés respiratoires et troubles cardiovasculaires. Son utilisation nécessite impérativement un encadrement expert et le respect strict de dosages prudents. La variabilité de concentration des principes actifs selon les conditions de récolte et de préparation complique l'établissement de dosages sûrs."
   },
   "conservation": {
@@ -38,8 +38,8 @@
     "valeur": "C. pareira représente une ressource de santé publique importante pour la médecine locale, accessible gratuitement à la majorité de la population rurale des deux départements. Son usage dans la pharmacopée féminine traditionnelle lui confère une valeur sociale considérable, particulièrement dans les zones où l'accès aux soins gynécologiques modernes est limité. Sur le plan commercial, la plante ne fait pas l'objet d'un commerce significatif en Haïti, contrairement à d'autres régions où elle alimente des filières de médecine traditionnelle organisées. Son potentiel économique reste sous-exploité, en partie en raison des contraintes toxicologiques qui limitent son usage."
   },
   "recherche": {
-    "nb_articles": "",
     "details": "Les recherches sur C. pareira se concentrent principalement sur la caractérisation de ses alcaloïdes et l'évaluation de leur activité myorelaxante. Des études récentes explorent le potentiel de l'hayatine comme agent myorelaxant en anesthésie, bien que sa marge thérapeutique étroite limite les applications cliniques. Les perspectives de recherche incluent le développement de méthodes d'extraction standardisées, l'évaluation de la sécurité reproductive et l'identification de composés analogues moins toxiques. Des études ethnopharmacologiques approfondies dans les Départements du Sud et de la Grand'Anse pourraient révéler des modes de préparation traditionnels optimisant l'efficacité tout en minimisant les risques.",
+    "nb_articles": "",
     "lien_pubmed": "",
     "lien_scholar": "",
     "lien_tramil": ""
@@ -47,12 +47,12 @@
   "references": "Barbosa-Filho JM et al. (2000). Alkaloids from Cissampelos pareira: antiplasmodial activity and cytotoxicity. Planta Med. PMID: 11131302. Bowman WC, Savage DS. (1981). Pharmacological actions of aminosteroid neuromuscular blocking drugs. Br J Anaesth. PMID: 7026545. Khare CP. (2007). Indian Medicinal Plants: An Illustrated Dictionary. Springer-Verlag Berlin Heidelberg. Kumar A et al. (2015). Current knowledge and pharmacological profile of berberine: An update. Eur J Pharmacol. PMID: 25824404. TRAMIL. Cissampelos pareira. www.tramil.net/en/plant/cissampelos-pareira POWO. (2024). Plants of the World Online. Kew Science. www.plantsoftheworldonline.org",
   "aRetenir": "🟠 À retenir — Pat shwal : est une plante a toxicite documentee. Tout usage interne non encadre est formellement deconseille. En cas d'ingestion accidentelle, consulter immediatement un service d'urgence. Ces informations sont destinees a l'enseignement et a la recherche uniquement. Les auteurs declinent toute responsabilite quant a un usage inapproprie.",
   "images": {
-    "principale": "images/491_Cissampelos_pareira-001.jpg",
+    "principale": "/images/491_Cissampelos_pareira-001.jpg",
     "galerie": [
-      "images/491_Cissampelos_pareira-001.jpg",
-      "images/491_Cissampelos_pareira-002.jpg",
-      "images/491_Cissampelos_pareira-003.jpg"
+      "/images/491_Cissampelos_pareira-001.jpg",
+      "/images/491_Cissampelos_pareira-002.jpg",
+      "/images/491_Cissampelos_pareira-003.jpg"
     ]
   },
-  "source": "plantes_full.json"
+  "source": "CSV corrigé 2026-04-11"
 }

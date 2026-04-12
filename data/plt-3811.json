@@ -1,7 +1,7 @@
 {
   "id_plante": "plt-3811",
   "code": "plt-3811",
-  "no_espece": "",
+  "no_espece": "38.11",
   "no_famille": "38",
   "famille": "Fabacées",
   "description_famille": "",
@@ -20,17 +20,17 @@
   },
   "usages": {
     "usages_ethnobotaniques": "Dans les Départements du Sud et de la Grand'Anse, P. juliflora est documenté principalement pour deux usages majeurs. Le premier, économique, consiste en la production de charbon de bois de haute qualité — le bois dense et riche en lignine de l'espèce produit un charbon à pouvoir calorifique élevé très apprécié localement. Le second usage concerne l'alimentation animale : les gousses riches en sucres constituent un fourrage nutritif pour le bétail, particulièrement précieux en saison sèche. L'usage médicinal, bien que moins dominant, reste présent : les feuilles et l'écorce sont préparées en décoctions pour leurs propriétés antimicrobiennes et anti-inflammatoires traditionnelles. TRAMIL documente spécifiquement en Haïti l'usage de sirop à base de P. juliflora contre la toux. La préparation implique généralement une décoction concentrée de l'écorce ou des feuilles, parfois combinée avec du miel. Les modes de préparation documentés incluent également la carbonisation contrôlée pour la production de charbon et le séchage des gousses pour le fourrage.",
-    "systemes_concernes": "Respiratoire, Tégumentaire"
+    "systemes_concernes": "Les usages thérapeutiques documentés de P. juliflora concernent principalement les systèmes respiratoire et tégumentaire. Au niveau respiratoire, l'espèce est employée traditionnellement contre la toux et les infections des voies respiratoires supérieures. Pour le système tégumentaire, les applications externes d'extraits d'écorce sont rapportées contre les mycoses cutanées. Les mécanismes d'action proposés reposent sur l'activité antimicrobienne des tanins condensés et des alcaloïdes indolizidiques, qui inhibent la croissance des pathogènes microbiens par dénaturation protéique et perturbation membranaire. Des études in vitro sur des espèces du genre Prosopis ont démontré une inhibition significative de l'α-glucosidase, suggérant un potentiel antidiabétique par ralentissement de l'absorption des glucides (Ahmad et al., 2014 — PMID: 25242041). L'activité anti-inflammatoire observée pourrait s'expliquer par l'inhibition de médiateurs pro-inflammatoires par les flavonoïdes, notamment la quercétine. Cependant, ces mécanismes restent largement théoriques pour P. juliflora et nécessitent validation par des essais cliniques contrôlés."
   },
   "pharmacologie": {
     "molecules": "Les gousses de P. juliflora se distinguent par leur richesse en sucres solubles — principalement saccharose, glucose et fructose — qui leur confèrent une saveur sucrée appréciée du bétail. Cette concentration en glucides simples représente une stratégie évolutive pour attirer les animaux disperseurs de graines. Les graines elles-mêmes accumulent des protéines de réserve (15-35% du poids sec) et des fibres insolubles, tandis que l'écorce concentre des tanins condensés responsables de sa saveur amère et de ses propriétés astringentes. Les feuilles contiennent des minéraux essentiels, notamment du potassium facilitant l'osmorégulation en milieu aride, du calcium structurel et du magnésium chlorophyllien. Les principaux composés secondaires identifiés dans P. juliflora comprennent : des alcaloïdes indolizidiques (juliflorine, julifloridine, juliflorinine), des flavonoïdes (quercétine, kaempférol, apigénine), des tanins condensés (proanthocyanidines), des saponines triterpéniques, des terpénoïdes volatils et des glycosides phénoliques (Mohammadi et al., 2019 — DOI: 10.1007/s13205-019-1998-6). Une étude phytochimique complète a également révélé la présence de composés antimicrobiens spécifiques dans l'écorce (Pasiecznik et al., 2001). Ces molécules remplissent des fonctions de survie cruciales pour l'arbre en milieu aride. Les alcaloïdes et les tanins protègent contre l'herbivorie — leur amertume dissuade la consommation excessive tout en permettant une dispersion contrôlée des graines. Les saponines dans l'écorce créent une barrière chimique contre les pathogènes fongiques et bactériens. Les flavonoïdes des feuilles filtrent les rayonnements UV intenses des régions sèches. Ces mêmes composés, une fois utilisés par l'humain, produisent les effets biologiques documentés : activité antimicrobienne des tanins et alcaloïdes, propriétés anti-inflammatoires des flavonoïdes, et activité antidiabétique potentielle par inhibition de l'α-glucosidase. Il convient de noter que la plupart de ces observations restent issues d'études in vitro et nécessitent confirmation clinique.",
     "posologie": "Aucune posologie cliniquement validée n'est disponible pour P. juliflora. Les pratiques traditionnelles documentées dans diverses régions arides utilisent des tisanes et décoctions empiriques, mais sans standardisation posologique. TRAMIL mentionne l'usage en sirop contre la toux sans préciser de dosage standardisé. Cette absence de données posologiques cliniques constitue une limitation importante pour l'usage thérapeutique sécurisé de l'espèce."
   },
   "nutrition": {
-    "introduction": "Prosopis juliflora (syn. Mimosa juliflora) est un arbre natif des régions arides d'Amérique tropicale, aujourd'hui largement répandu dans les Caraïbes et naturalisé dans les Départements du Sud et de la Grand'Anse d'Haïti. Il appartient à la famille des Fabacées, cette vaste famille de légumineuses qui comprend plus de 19 000 espèces mondiales — des herbes aux grands arbres tropicaux. Cette famille se distingue par sa capacité unique à fixer l'azote atmosphérique grâce à des bactéries symbiotiques logées dans des nodules racinaires, enrichissant ainsi les sols pauvres. Au niveau alimentaire, elle nous offre les légumineuses essentielles : haricots (Phaseolus), lentilles (Lens), pois chiches (Cicer) et arachides (Arachis). Sur le plan médicinal, elle regroupe des genres thérapeutiques majeurs comme Senna (purgatif), Glycyrrhiza (réglisse), Cassia et Tamarindus. Phytochimiquement, les Fabacées se caractérisent par une richesse en protéines, flavonoïdes — notamment les isoflavones aux propriétés œstrogène-like —, tanins condensés, saponines triterpéniques et alcaloïdes spécifiques comme la lupinine et la spartéine. Ces composés ciblent préférentiellement les systèmes digestif, cutané et nerveux. Attention toutefois : cette famille recèle des espèces extrêmement dangereuses, notamment Abrus precatorius dont les graines contiennent l'abrine — une toxine mortelle — et plusieurs genres comme Senna ou Spigelia exigeant des précautions strictes de dosage."
+    "valeur": "L'espèce présente une valeur économique significative pour les communautés rurales du Sud et de la Grand'Anse. La production de charbon de bois constitue une source de revenus importante, le charbon de P. juliflora étant réputé pour sa qualité calorifique supérieure. L'usage fourrager des gousses représente une ressource alimentaire précieuse pour l'élevage en saison sèche. Au niveau international, l'espèce suscite un intérêt croissant pour la bioénergie et la restauration des sols dégradés en zones arides. Cependant, les coûts de gestion de son caractère envahissant peuvent contrebalancer ces bénéfices économiques."
   },
   "toxicologie": {
-    "niveau": "",
+    "niveau": "🟢 Non toxique aux doses usuelles",
     "details": "P. juliflora présente un profil de sécurité généralement favorable pour les usages traditionnels documentés. Cependant, certaines précautions s'imposent. L'usage intensif des racines et de l'écorce à forte dose peut entraîner des troubles digestifs dus à la concentration en tanins et alcaloïdes. La grossesse constitue une contre-indication par précaution, les alcaloïdes indolizidiques pouvant présenter des risques tératogènes théoriques. Il convient également de noter que certaines espèces de Prosopis peuvent bioaccumuler des contaminants du sol, nécessitant une vigilance sur la qualité des sites de récolte. Enfin, bien que non toxique aux doses traditionnelles, l'espèce peut présenter des variations de concentration en principes actifs selon les conditions environnementales."
   },
   "conservation": {
@@ -38,8 +38,8 @@
     "valeur": "L'espèce présente une valeur économique significative pour les communautés rurales du Sud et de la Grand'Anse. La production de charbon de bois constitue une source de revenus importante, le charbon de P. juliflora étant réputé pour sa qualité calorifique supérieure. L'usage fourrager des gousses représente une ressource alimentaire précieuse pour l'élevage en saison sèche. Au niveau international, l'espèce suscite un intérêt croissant pour la bioénergie et la restauration des sols dégradés en zones arides. Cependant, les coûts de gestion de son caractère envahissant peuvent contrebalancer ces bénéfices économiques."
   },
   "recherche": {
-    "nb_articles": "~1000 (estimation)",
     "details": "Avec environ 1000 publications indexées sur PubMed, P. juliflora fait l'objet d'un intérêt scientifique soutenu, principalement orienté vers ses propriétés antimicrobiennes, antioxydantes et son potentiel bioénergétique. Les perspectives de recherche prioritaires incluent l'évaluation clinique de son potentiel antidiabétique, la standardisation des extraits thérapeutiques et le développement de protocoles de gestion durable de son caractère envahissant. Des études pharmacocinétiques humaines restent nécessaires pour établir des posologies thérapeutiques sécurisées. L'optimisation de la production de biocarburants à partir de ses gousses constitue également un axe de recherche prometteur pour la valorisation énergétique durable.",
+    "nb_articles": "",
     "lien_pubmed": "",
     "lien_scholar": "",
     "lien_tramil": ""
@@ -47,13 +47,13 @@
   "references": "Ahmad, I., et al. (2014). α-Glucosidase inhibitory activity of Prosopis juliflora. Natural Product Research, 29(10), 1891-1894. PMID: 25242041 Mohammadi, S., et al. (2019). Phytochemical analysis and biological activities of Prosopis juliflora bark extract. 3 Biotech, 9, 456. DOI: 10.1007/s13205-019-1998-6 Pasiecznik, N.M., et al. (2001). The Prosopis juliflora - Prosopis pallida Complex: A Monograph. HDRA, Coventry, UK. TRAMIL (2026). Prosopis juliflora. www.tramil.net/en/plant/prosopis-juliflora World Flora Online (2026). Prosopis juliflora. www.worldfloraonline.org",
   "aRetenir": "🟢 À retenir — Bayawonn : est utilisee en medecine traditionnelle avec un bon profil de securite aux doses courantes. Les usages presentes reposent sur des donnees ethnobotaniques et scientifiques publiees, mais ne constituent pas une prescription. Consulter un professionnel de sante avant tout usage therapeutique. Les auteurs declinent toute responsabilite quant a un usage inapproprie.",
   "images": {
-    "principale": "images/3811_Prosopis_juliflora-001.jpg",
+    "principale": "/images/3811_Prosopis_juliflora-001.jpg",
     "galerie": [
-      "images/3811_Prosopis_juliflora-001.jpg",
-      "images/3811_Prosopis_juliflora-002.jpg",
-      "images/3811_Prosopis_juliflora-003.jpg",
-      "images/3811_Prosopis_juliflora-004.jpg"
+      "/images/3811_Prosopis_juliflora-001.jpg",
+      "/images/3811_Prosopis_juliflora-002.jpg",
+      "/images/3811_Prosopis_juliflora-003.jpg",
+      "/images/3811_Prosopis_juliflora-004.jpg"
     ]
   },
-  "source": "plantes_full.json"
+  "source": "CSV corrigé 2026-04-11"
 }

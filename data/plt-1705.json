@@ -1,7 +1,7 @@
 {
   "id_plante": "plt-1705",
   "code": "plt-1705",
-  "no_espece": "",
+  "no_espece": "17.5",
   "no_famille": "17",
   "famille": "Astéracées",
   "description_famille": "",
@@ -20,17 +20,17 @@
   },
   "usages": {
     "usages_ethnobotaniques": "Dans les Départements du Sud et de la Grand'Anse, M. micrantha est exclusivement utilisée à des fins médicinales. Les praticiens traditionnels emploient principalement les feuilles et les tiges pour traiter la toux (« Gwenb ») et les éruptions cutanées. Le mode de préparation dominant consiste en une infusion des parties aériennes, préparée selon les techniques traditionnelles de la pharmacopée populaire haïtienne. Pour les affections cutanées, les feuilles sont également utilisées en application externe sous forme d'emplâtres ou de cataplasmes. Les usages documentés dans la région TRAMIL mentionnent son emploi contre la toux en Dominique, tandis qu'en Jamaïque, elle est traditionnellement utilisée contre les envenimations. En Inde, des recherches ont exploré ses propriétés antimicrobiennes, élargissant le spectre de ses applications potentielles.",
-    "systemes_concernes": "Respiratoire"
+    "systemes_concernes": "M. micrantha cible préférentiellement le système respiratoire, avec une efficacité documentée contre la toux et les affections bronchiques. Les mécanismes d'action proposés reposent sur l'inhibition de certains marqueurs de l'inflammation et la stimulation des processus de cicatrisation, attribuées principalement aux sesquiterpènes lactones et aux flavonoïdes. Les effets diurétiques et hypotenseurs mentionnés dans certaines sources restent peu documentés scientifiquement et nécessiteraient des études complémentaires. Pour les applications cutanées, les propriétés cicatrisantes et anti-inflammatoires des coumarines et des tanins expliqueraient l'efficacité traditionnelle de la plante dans le traitement des éruptions et des plaies superficielles. Ces mécanismes demeurent hypothétiques en l'absence d'essais cliniques contrôlés chez l'humain."
   },
   "pharmacologie": {
     "molecules": "La saveur amère caractéristique de M. micrantha provient principalement des sesquiterpènes lactones, molécules de défense spécialisées qui protègent la plante contre l'herbivorie. Cette amertume constitue un mécanisme de dissuasion efficace contre les herbivores tout en concentrant les principes actifs recherchés en phytothérapie. La plante accumule également des flavonoïdes responsables de ses propriétés antioxydantes, ainsi que des coumarines volatiles qui contribuent à son arôme particulier et à ses effets biologiques. Les principaux composés secondaires identifiés dans M. micrantha comprennent : des sesquiterpènes lactones (responsables de l'amertume et des effets anti-inflammatoires), des flavonoïdes (quercétine, kaempférol), des coumarines, des terpénoïdes, des saponines triterpéniques et des tanins condensés. L'acide kaurénoïque, un diterpène spécifique, et le stigmastérol, un phytostérol, complètent ce profil chimique complexe (Pharmacia, Pensoft). Ces molécules remplissent des fonctions de défense précises pour la liane. Les sesquiterpènes lactones agissent comme répulsifs contre les insectes phytophages et les champignons pathogènes. Les coumarines protègent contre les pathogènes du sol et facilitent l'allélopathie — la capacité de la plante à inhiber chimiquement la croissance d'autres espèces végétales concurrentes. Ces mêmes composés, une fois utilisés par l'humain, produisent les effets biologiques documentés : inhibition de certains marqueurs de l'inflammation et stimulation de la cicatrisation. Les observations restent principalement issues d'études in vitro, nécessitant des recherches cliniques pour confirmation.",
     "posologie": "La posologie traditionnelle documentée consiste en une infusion préparée avec environ 5 grammes de feuilles séchées par litre d'eau, à raison d'une à deux prises par jour selon l'usage populaire. Pour les applications externes, les emplâtres de feuilles fraîches sont appliqués directement sur les plaies ou les zones affectées. Ces dosages, issus de l'usage traditionnel, ne bénéficient pas de validation clinique formelle et doivent être considérés avec prudence (Pharmacia, Pensoft)."
   },
   "nutrition": {
-    "introduction": "Mikania micrantha Kunth (syn. Mikania orinocensis) est une liane volubile native d'Haïti, documentée dans les Départements du Sud et de la Grand'Anse. Elle appartient à la famille des Astéracées, une famille très évoluée morphologiquement et biochimiquement, particulièrement riche en métabolites secondaires bioactifs. Au sein de cette famille, elle fait partie du genre Mikania, un groupe de lianes grimpantes tropicales reconnues pour leurs propriétés anti-inflammatoires et cicatrisantes, principalement dues aux sesquiterpènes lactones caractéristiques du genre. Son usage dans les départements étudiés est strictement médicinal, notamment pour traiter la toux et les affections cutanées par voie externe. Malgré son statut d'espèce native, M. micrantha présente un caractère envahissant qui nécessite une attention particulière du point de vue écologique."
+    "valeur": "La valeur économique de M. micrantha dans les départements étudiés reste limitée au secteur de la médecine traditionnelle locale. Son abondance relative et son caractère envahissant réduisent sa valeur marchande en tant que plante médicinale. Cependant, son potentiel de recherche pharmaceutique, avec environ 500 publications scientifiques recensées, pourrait ouvrir des perspectives économiques futures dans le développement de nouveaux médicaments anti-inflammatoires ou cicatrisants naturels."
   },
   "toxicologie": {
-    "niveau": "",
+    "niveau": "🟢 Non toxique aux doses usuelles",
     "details": "M. micrantha présente un profil de sécurité favorable aux doses traditionnelles, justifiant sa classification comme plante non toxique. Néanmoins, certaines précautions s'imposent : la prudence est recommandée pendant la grossesse en raison du manque de données spécifiques sur cette population. Le surdosage pourrait entraîner des effets indésirables incluant une hypotension, des diarrhées et des irritations gastro-intestinales dues aux saponines et aux sesquiterpènes lactones concentrés. L'usage externe prolongé devrait également être surveillé pour éviter les phénomènes de sensibilisation cutanée."
   },
   "conservation": {
@@ -38,19 +38,19 @@
     "valeur": "La valeur économique de M. micrantha dans les départements étudiés reste limitée au secteur de la médecine traditionnelle locale. Son abondance relative et son caractère envahissant réduisent sa valeur marchande en tant que plante médicinale. Cependant, son potentiel de recherche pharmaceutique, avec environ 500 publications scientifiques recensées, pourrait ouvrir des perspectives économiques futures dans le développement de nouveaux médicaments anti-inflammatoires ou cicatrisants naturels."
   },
   "recherche": {
-    "nb_articles": "",
     "details": "Les recherches futures sur M. micrantha devraient prioritairement se concentrer sur la validation clinique de ses effets traditionnellement rapportés, notamment pour le traitement de la toux et la cicatrisation cutanée. Des études pharmacocinétiques permettraient d'établir des posologies standardisées et sécurisées. L'exploration de son potentiel antimicrobien, suggérée par les recherches indiennes, mériterait également des investigations approfondies. Enfin, des études écologiques sur son impact sur la biodiversité locale contribueraient à mieux gérer son caractère envahissant.",
+    "nb_articles": "",
     "lien_pubmed": "",
     "lien_scholar": "",
-    "lien_tramil": ""
+    "lien_tramil": "https://www.tramil.net"
   },
   "references": "Pharmacia (Pensoft). Mikania micrantha ethnopharmacology and phytochemistry. DOI: 10.3897/pharmacia. POWO (2024). Plants of the World Online. Kew Science. https://powo.science.kew.org/ World Flora Online (2024). http://www.worldfloraonline.org TRAMIL (2024). Traditional Medicine in the Caribbean. https://www.tramil.net",
   "aRetenir": "🟢 À retenir — Lyan franswaz : est utilisee en medecine traditionnelle avec un bon profil de securite aux doses courantes. Les usages presentes reposent sur des donnees ethnobotaniques et scientifiques publiees, mais ne constituent pas une prescription. Consulter un professionnel de sante avant tout usage therapeutique. Les auteurs declinent toute responsabilite quant a un usage inapproprie.",
   "images": {
-    "principale": "images/175_Mikania_micrantha-001.jpg",
+    "principale": "/images/175_Mikania_micrantha-001.jpg",
     "galerie": [
-      "images/175_Mikania_micrantha-001.jpg"
+      "/images/175_Mikania_micrantha-001.jpg"
     ]
   },
-  "source": "plantes_full.json"
+  "source": "CSV corrigé 2026-04-11"
 }

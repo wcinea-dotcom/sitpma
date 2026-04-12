@@ -1,7 +1,7 @@
 {
   "id_plante": "plt-3810",
   "code": "plt-3810",
-  "no_espece": "",
+  "no_espece": "38.10",
   "no_famille": "38",
   "famille": "Fabacées",
   "description_famille": "",
@@ -20,17 +20,17 @@
   },
   "usages": {
     "usages_ethnobotaniques": "Dans les Départements du Sud et de la Grand'Anse, le « pwa souch » est documenté comme aliment protéique de base et remède traditionnel aux propriétés antioxydantes. Les graines constituent l'usage principal : elles sont toujours soigneusement cuites — bouillies, mijotées avec les vivres (igname, patate douce, banane plantain) ou transformées en purée épaisse. Cette cuisson prolongée est essentielle pour neutraliser les lectines toxiques et la linamarine. Les jeunes feuilles sont parfois préparées en tisane, bien que cet usage soit moins documenté et requière des précautions. Selon TRAMIL, l'usage alimentaire du haricot de Lima est confirmé en Haïti, où il contribue significativement à l'apport protéique de la population rurale.",
-    "systemes_concernes": ""
+    "systemes_concernes": "Le pwa souch cible préférentiellement le système nutritionnel, contribuant à la prévention des carences protéiques et minérales documentées dans les Départements du Sud et de la Grand'Anse. Les mécanismes d'action suggérés incluent la modulation de la glycémie post-prandiale par les fibres solubles, qui ralentissent l'absorption des glucides simples (Monk et al., 2013 — PMID: 23595206). Les effets antidiabétiques et diurétiques mentionnés dans les pratiques locales pourraient s'expliquer par l'activité des flavonoïdes sur la sensibilité à l'insuline et la fonction rénale, bien que ces mécanismes nécessitent confirmation par des essais cliniques spécifiques à P. lunatus. L'activité antioxydante des composés phénoliques contribuerait à la protection contre le stress oxydatif associé aux maladies métaboliques."
   },
   "pharmacologie": {
     "molecules": "Phaseolus lunatus concentre dans ses tissus sa richesse en protéines végétales de qualité, contenant tous les acides aminés essentiels bien qu'en proportions variables. Les graines accumulent des amidons complexes à libération lente, des fibres solubles et insolubles, ainsi que des minéraux essentiels comme le potassium (1200-1400 mg/100g), le magnésium (70-90 mg/100g) et le fer (6-8 mg/100g). Elles renferment également des folates (vitamine B9) et des caroténoïdes responsables des nuances colorées de certaines variétés. Cependant, les graines crues contiennent de la linamarine, un glycoside cyanogène qui libère de l'acide cyanhydrique toxique, et des lectines qui perturbent la digestion — molécules neutralisées par une cuisson prolongée. Les principaux composés secondaires identifiés dans P. lunatus comprennent : des flavonoïdes (quercétine, kaempférol, anthocyanes), des saponines, des tanins condensés, des lectines (phytohémagglutinines), des alcaloïdes en traces, et des composés phénoliques variés (Singh et al., 2017 — doi:10.1007/s13197-017-2668-4). Les graines contiennent également des inhibiteurs de trypsine et des phytates qui peuvent réduire la biodisponibilité de certains minéraux. Ces molécules remplissent des fonctions défensives précises pour la plante. Les lectines et inhibiteurs enzymatiques protègent les graines contre la prédation par les insectes et les mammifères, tandis que les composés phénoliques préviennent l'oxydation des réserves lipidiques et protéiques. Ces mêmes composés, une fois ingérés par l'humain après cuisson appropriée, produisent les effets biologiques documentés : les fibres ralentissent l'absorption du glucose, les flavonoïdes exercent une activité antioxydante, et les protéines contribuent à la satiété et au maintien de la masse musculaire.",
     "posologie": "Aucune posologie thérapeutique cliniquement validée n'est disponible pour P. lunatus en usage médicinal. Les portions alimentaires typiques documentées varient de 50 à 100 g de graines cuites par jour dans le cadre d'une alimentation équilibrée. Pour les infusions de feuilles mentionnées localement, aucune standardisation n'existe dans la littérature scientifique, et cette pratique reste peu documentée comparativement à l'usage alimentaire des graines."
   },
   "nutrition": {
-    "introduction": "Phaseolus lunatus L. (syn. Phaseolus inamoenus) est une herbe annuelle ou bisannuelle exotique, largement cultivée dans les Départements du Sud et de la Grand'Anse pour ses graines nutritives. Elle appartient à la famille des Fabacées, reconnue pour sa capacité remarquable à fixer l'azote atmosphérique grâce à des bactéries symbiotiques du genre Rhizobium, ce qui enrichit les sols et fait de ces plantes des alliées précieuses de l'agriculture durable. Au sein de cette vaste famille, P. lunatus fait partie du genre Phaseolus, qui regroupe les haricots cultivés les plus répandus au monde, dont le haricot commun (Phaseolus vulgaris). Le « pwa souch » constitue une source alimentaire importante en Haïti, consommé traditionnellement avec les vivres ou transformé en purée, tout en présentant des propriétés nutritionnelles et potentiellement thérapeutiques documentées."
+    "valeur": "La valeur économique du pwa souch reste principalement locale et alimentaire dans les Départements du Sud et de la Grand'Anse, contribuant à la sécurité alimentaire des ménages ruraux. Sur le marché international, P. lunatus représente une culture agro-alimentaire significative, particulièrement valorisée pour ses qualités nutritionnelles et sa capacité d'adaptation aux sols pauvres. Son potentiel d'amélioration des sols par fixation d'azote lui confère une valeur écologique croissante."
   },
   "toxicologie": {
-    "niveau": "",
+    "niveau": "🔴 Toxique",
     "details": "Les graines crues ou insuffisamment cuites présentent une toxicité modérée due aux lectines et à la linamarine, pouvant provoquer nausées, vomissements et diarrhée dans les heures suivant l'ingestion (Liener, 1994 — PMID: 8409071). Une cuisson prolongée (minimum 15-20 minutes à ébullition) neutralise ces composés toxiques. Les personnes souffrant du syndrome de l'intestin irritable ou présentant un déficit en glucose-6-phosphate déshydrogénase (G6PD) doivent consommer les légumineuses avec prudence. La linamarine peut libérer de l'acide cyanhydrique si les graines sont consommées en grande quantité à l'état cru."
   },
   "conservation": {
@@ -38,8 +38,8 @@
     "valeur": "La valeur économique du pwa souch reste principalement locale et alimentaire dans les Départements du Sud et de la Grand'Anse, contribuant à la sécurité alimentaire des ménages ruraux. Sur le marché international, P. lunatus représente une culture agro-alimentaire significative, particulièrement valorisée pour ses qualités nutritionnelles et sa capacité d'adaptation aux sols pauvres. Son potentiel d'amélioration des sols par fixation d'azote lui confère une valeur écologique croissante."
   },
   "recherche": {
-    "nb_articles": "~500 (estimation)",
     "details": "Avec environ 500 publications indexées, P. lunatus bénéficie d'un corpus scientifique solide, principalement orienté vers la nutrition et l'amélioration variétale. Les recherches actuelles se concentrent sur l'optimisation de la digestibilité des protéines, la réduction des facteurs anti-nutritionnels et le développement de variétés résistantes aux stress climatiques. L'investigation des propriétés antidiabétiques suggérées par les usages traditionnels haïtiens mériterait des études cliniques contrôlées.",
+    "nb_articles": "",
     "lien_pubmed": "",
     "lien_scholar": "",
     "lien_tramil": "https://www.tramil.net/en/plant/phaseolus-lunatus"
@@ -47,11 +47,11 @@
   "references": "Singh, B. et al. (2017). Phaseolus lunatus Linn: A complete review on its ethnobotany, phytochemistry and pharmacology. Journal of Food Science and Technology. doi:10.1007/s13197-017-2668-4 Monk, J.M. et al. (2013). Navy and black bean supplementation primes the colonic mucosal microenvironment to improve gut health. Journal of Nutritional Biochemistry. PMID: 23595206 Liener, I.E. (1994). Implications of antinutritional components in soybean foods. Critical Reviews in Food Science and Nutrition. PMID: 8409071 POWO (2024). Phaseolus lunatus L. Plants of the World Online, Kew Science. https://powo.science.kew.org/ TRAMIL (2024). Phaseolus lunatus. https://www.tramil.net/en/plant/phaseolus-lunatus",
   "aRetenir": "🟡 À retenir — Pwa souch : est une plante a toxicite conditionnelle documentee. Respecter imperativement les precautions indiquees. Ne jamais ingerer les parties toxiques sans encadrement medical. Ces informations sont destinees a l'enseignement et a la documentation. Les auteurs declinent toute responsabilite quant a un usage inapproprie.",
   "images": {
-    "principale": "images/3810_Phaseolus_lunatus-001.jpg",
+    "principale": "/images/3810_Phaseolus_lunatus-001.jpg",
     "galerie": [
-      "images/3810_Phaseolus_lunatus-001.jpg",
-      "images/3810_Phaseolus_lunatus-002.jpg"
+      "/images/3810_Phaseolus_lunatus-001.jpg",
+      "/images/3810_Phaseolus_lunatus-002.jpg"
     ]
   },
-  "source": "plantes_full.json"
+  "source": "CSV corrigé 2026-04-11"
 }

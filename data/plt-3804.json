@@ -1,7 +1,7 @@
 {
   "id_plante": "plt-3804",
   "code": "plt-3804",
-  "no_espece": "",
+  "no_espece": "38.4",
   "no_famille": "38",
   "famille": "Fabacées",
   "description_famille": "",
@@ -20,26 +20,26 @@
   },
   "usages": {
     "usages_ethnobotaniques": "Le « Pwa kongo » occupe une place centrale dans la cuisine traditionnelle haïtienne des Départements du Sud et de la Grand'Anse. Les graines constituent l'ingrédient de base de nombreux plats : cuites seules comme légumineuse d'accompagnement, associées au riz dans le classique « diri ak pwa », ou intégrées dans des ragoûts de légumes. La préparation traditionnelle implique un trempage préalable des graines sèches suivi d'une cuisson prolongée, méthode qui élimine complètement les lectines antinutritionnelles tout en préservant la valeur nutritive. Les feuilles fraîches sont occasionnellement utilisées en décoction dans la médecine populaire locale pour leurs propriétés antidiabétiques présumées, bien que cet usage reste moins documenté que l'usage alimentaire principal.",
-    "systemes_concernes": ""
+    "systemes_concernes": "Sur le plan nutritionnel, C. cajan cible principalement les déficits protéo-énergétiques et les carences en micronutriments, particulièrement fréquents dans les populations vulnérables d'Haïti. Sa richesse en fer biodisponible et en folates en fait un aliment de choix dans la prévention de l'anémie ferriprive et mégaloblastique. Les études pharmacologiques, principalement menées sur des modèles animaux, suggèrent des propriétés antidiabétiques : les extraits de feuilles inhibent l'α-glucosidase intestinale, enzyme clé de la digestion des glucides, réduisant ainsi l'absorption du glucose et la glycémie postprandiale (Kumar et al., 2019 — PMID: 31247155). Les mécanismes antioxydants sont attribués aux flavonoïdes et polyphénols qui piègent les radicaux libres et réduisent le stress oxydatif cellulaire, processus impliqués dans de nombreuses pathologies chroniques."
   },
   "pharmacologie": {
     "molecules": "Les graines de Cajanus cajan se distinguent par leur richesse exceptionnelle en protéines complètes (20-25% du poids sec), en amidon complexe (50-60%), et en micronutriments essentiels. Elles concentrent particulièrement le fer (5-8 mg/100g), le zinc, le magnésium, le potassium et les folates (vitamine B9), nutriments souvent déficitaires dans l'alimentation haïtienne. Cette composition nutritionnelle exceptionnelle s'explique par la fonction biologique de la graine : elle doit contenir toutes les ressources nécessaires au développement de la plantule, d'où sa densité en protéines de stockage et en minéraux. Les graines contiennent également des lectines dans leur forme crue — protéines de défense contre les pathogènes — qui se dénaturent complètement par la cuisson, rendant les graines parfaitement digestibles. Les principaux composés secondaires identifiés dans C. cajan comprennent : des flavonoïdes (quercétine, kaempférol, génistéine), des stilbènes (cajaninstilbène), des saponines triterpéniques, des tanins condensés, des alcaloïdes quinolizidiniques et des lectines dans les graines crues (Saxena et al., 2017 — PMID: 28847636). Les feuilles renferment une concentration particulièrement élevée en composés phénoliques totaux et en flavonoïdes antioxydants (Kumari et al., 2020 — PMID: 32351154). Ces molécules remplissent des rôles de défense spécifiques pour la plante. Les flavonoïdes protègent contre les rayonnements UV et les pathogènes fongiques, particulièrement important sous le climat tropical intense d'Haïti. Les saponines dans les racines et feuilles découragent les herbivores par leur goût amer. Le cajaninstilbène, stilbène spécifique au genre Cajanus, présente des propriétés antimicrobiennes protégeant la plante contre les infections bactériennes et fongiques. Ces mêmes composés, une fois ingérés par l'humain, produisent les effets biologiques documentés : les extraits méthanoliques de feuilles inhibent l'α-glucosidase et réduisent la glycémie chez l'animal, tandis que les polyphénols piègent efficacement les radicaux libres (Kumari et al., 2020 — PMID: 32351154).",
     "posologie": "Sur le plan alimentaire, la consommation habituelle se situe entre 50 et 100 grammes de graines cuites par jour en accompagnement. Pour les applications thérapeutiques potentielles, les études animales utilisent des doses de 200 à 600 mg/kg de poids corporel d'extraits de feuilles, mais aucune extrapolation directe à l'humain n'est validée cliniquement (Kumari et al., 2020 — PMID: 32351154). Les pratiques traditionnelles documentées localement ne suivent pas de standardisation posologique précise, se limitant généralement à des décoctions légères de feuilles occasionnelles."
   },
   "nutrition": {
-    "introduction": "Cajanus cajan (L.) (syn. Cajanus indicus, Cytisus cajan) est un arbuste exotique pantropical, cultivé abondamment dans les Départements du Sud et de la Grand'Anse. Il appartient à la famille des Fabacées, une vaste famille dominée par les légumineuses, reconnue mondialement pour sa capacité unique à fixer l'azote atmosphérique grâce à ses nodules racinaires symbiotiques et pour sa richesse exceptionnelle en protéines végétales. Au sein de cette famille, Cajanus cajan fait partie du genre Cajanus, un petit groupe d'arbustes tropicaux à graines comestibles. Le « Pwa kongo » constitue l'un des piliers de la sécurité alimentaire haïtienne : ses graines riches en protéines, fer et folates représentent une source nutritionnelle majeure, particulièrement précieuse dans un contexte où l'accès aux protéines animales reste limité."
+    "valeur": "Le « Pwa kongo » représente un pilier économique pour de nombreuses familles rurales du Sud et de la Grand'Anse. Sa culture nécessite peu d'intrants externes grâce à sa capacité de fixation d'azote, offrant un ratio coût/bénéfice favorable aux petits producteurs. Sur les marchés locaux, les graines sèches atteignent des prix attractifs, particulièrement en période de soudure alimentaire. Au niveau international, C. cajan fait l'objet d'un commerce significatif, notamment vers l'Inde où il constitue un « dal » traditionnel très apprécié."
   },
   "toxicologie": {
-    "niveau": "",
-    "details": "C. cajan présente un excellent profil de sécurité lorsque les graines sont correctement cuites. Les graines crues contiennent des lectines potentiellement toxiques qui provoquent des troubles digestifs, mais la cuisson complète les dénature totalement. Une précaution s'impose chez les personnes diabétiques sous traitement médicamenteux : l'effet hypoglycémiant présumé des extraits de feuilles pourrait théoriquement s'additionner aux antidiabétiques, nécessitant une surveillance glycémique renforcée, bien qu'aucun cas d'interaction ne soit documenté dans la littérature."
+    "niveau": "🔴 Toxique",
+    "details": "C. cajan présente un excellent profil de sécurité lorsque les graines sont correctement cuites. Les graines crues contiennent des lectines potentiellement toxiques qui provoquent des troubles digestifs, mais la cuisson complète les dénature totalement. Une précaution s'impose chez les personnes diabétiques sous traitement médicamenteux : l'effet hypoglycémiant suggéré des extraits de feuilles pourrait théoriquement s'additionner aux antidiabétiques, nécessitant une surveillance glycémique renforcée, bien qu'aucun cas d'interaction ne soit documenté dans la littérature."
   },
   "conservation": {
     "menaces": "Bien que l'espèce ne soit pas menacée globalement, la conservation des variétés locales traditionnelles cultivées dans le Sud et la Grand'Anse mérite attention. L'introduction de variétés commerciales uniformes pourrait éroder la diversité génétique locale, adaptée aux conditions pédoclimatiques spécifiques de ces départements. Le maintien des pratiques semencières traditionnelles et l'échange de semences entre agriculteurs constituent des enjeux importants pour préserver cette diversité.",
     "valeur": "Le « Pwa kongo » représente un pilier économique pour de nombreuses familles rurales du Sud et de la Grand'Anse. Sa culture nécessite peu d'intrants externes grâce à sa capacité de fixation d'azote, offrant un ratio coût/bénéfice favorable aux petits producteurs. Sur les marchés locaux, les graines sèches atteignent des prix attractifs, particulièrement en période de soudure alimentaire. Au niveau international, C. cajan fait l'objet d'un commerce significatif, notamment vers l'Inde où il constitue un « dal » traditionnel très apprécié."
   },
   "recherche": {
-    "nb_articles": "",
     "details": "Les recherches contemporaines sur C. cajan se concentrent sur l'optimisation de sa valeur nutritionnelle, l'amélioration de ses propriétés antioxydantes et l'exploration de ses potentialités thérapeutiques. Des études récentes explorent son rôle dans la prévention des maladies cardiovasculaires et du diabète de type 2, ouvrant des perspectives prometteuses pour la valorisation scientifique de ce légume-grain traditionnel. Les travaux sur les variétés résistantes à la sécheresse revêtent une importance particulière dans le contexte du changement climatique affectant Haïti.",
+    "nb_articles": "",
     "lien_pubmed": "",
     "lien_scholar": "",
     "lien_tramil": "https://www.tramil.net/en/plant/cajanus-cajan"
@@ -47,13 +47,13 @@
   "references": "Kumari, A. et al. (2020). Antidiabetic activity of Cajanus cajan leaves in streptozotocin induced diabetic rats. Journal of Traditional and Complementary Medicine, 10(4), 325-332. PMID: 32351154. Kumar, S. et al. (2019). α-Glucosidase inhibitory activity and antioxidant potential of Cajanus cajan leaf extracts. Food and Chemical Toxicology, 127, 12-19. PMID: 31247155. Saxena, M. et al. (2017). Phytochemical screening and biological activities of Cajanus cajan: A comprehensive review. Pharmacognosy Reviews, 11(21), 25-31. PMID: 28847636. POWO (2024). Plants of the World Online. Kew Science. https://powo.science.kew.org/ TRAMIL (2024). Cajanus cajan. https://www.tramil.net/en/plant/cajanus-cajan",
   "aRetenir": "🟢 À retenir — Pwa kongo : est avant tout un aliment — sa valeur nutritionnelle prime sur ses usages medicinaux. Consommee correctement preparee, elle est sans danger documente. Ses proprietes therapeutiques, reelles mais secondaires, ne remplacent pas un suivi medical. Les auteurs declinent toute responsabilite quant a un usage inapproprie. ATLAS ETHNOBOTANIQUE Plantes médicinales, aromatiques et alimentaires Départements du Sud et de la Grand'Anse — Haïti Bloc 07 — Especes 121 a 140 Kanpèch -> Gwo ten 20 espèces · 5 famille(s) Source : Base de Référence Haïtienne (BRH) — Jardin Botanique des Cayes Validation : PubMed · Google Scholar · TRAMIL · POWO (Kew Science)",
   "images": {
-    "principale": "images/384_Cajanus_cajan-001.jpg",
+    "principale": "/images/384_Cajanus_cajan-001.jpg",
     "galerie": [
-      "images/384_Cajanus_cajan-001.jpg",
-      "images/384_Cajanus_cajan-002.jpg",
-      "images/384_Cajanus_cajan-003.jpg",
-      "images/384_Cajanus_cajan-004.jpg"
+      "/images/384_Cajanus_cajan-001.jpg",
+      "/images/384_Cajanus_cajan-002.jpg",
+      "/images/384_Cajanus_cajan-003.jpg",
+      "/images/384_Cajanus_cajan-004.jpg"
     ]
   },
-  "source": "plantes_full.json"
+  "source": "CSV corrigé 2026-04-11"
 }

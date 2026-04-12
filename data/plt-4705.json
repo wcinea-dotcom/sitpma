@@ -1,7 +1,7 @@
 {
   "id_plante": "plt-4705",
   "code": "plt-4705",
-  "no_espece": "",
+  "no_espece": "47.5",
   "no_famille": "47",
   "famille": "Malvacées",
   "description_famille": "",
@@ -20,17 +20,17 @@
   },
   "usages": {
     "usages_ethnobotaniques": "Dans les Départements du Sud et de la Grand'Anse, Guazuma ulmifolia est documenté pour deux usages principaux : les soins capillaires et le traitement de la diarrhée. Les feuilles et l'écorce sont préparées en décoction selon les pratiques locales traditionnelles. Pour les soins capillaires, les décoctions de feuilles sont utilisées en rinçage, exploitant les propriétés émollientes des mucilages et l'action astringente des tanins pour fortifier et donner de la brillance aux cheveux. Contre la diarrhée, les décoctions d'écorce sont consommées par voie orale, tirant parti de l'effet astringent des proanthocyanidines qui resserrent les muqueuses intestinales. Ces usages s'inscrivent dans un contexte plus large d'utilisation à travers l'Amérique latine, où TRAMIL documente des usages similaires dans diverses îles des Caraïbes, et où des études ethnobotaniques au Mexique rapportent un usage traditionnel contre le diabète.",
-    "systemes_concernes": "Digestif, Tégumentaire"
+    "systemes_concernes": "G. ulmifolia cible préférentiellement les systèmes tégumentaire et digestif. Les études disponibles suggèrent que les tanins condensés sont responsables de l'effet antidiarrhéique par leur action astringente sur les muqueuses intestinales, réduisant la perméabilité et les sécrétions excessives. Les polyphénols présents dans la plante présentent une activité antioxydante modérée et pourraient exercer une inhibition partielle de l'α-glucosidase, enzyme impliquée dans la digestion des glucides, ce qui expliquerait l'usage traditionnel mexicain contre le diabète (Andrade-Cetto & Heinrich, 2005 — PMID: 16125362). Une activité antibactérienne modérée a également été documentée in vitro, particulièrement contre certaines bactéries pathogènes intestinales. Les mécanismes d'action restent partiellement élucidés et nécessitent des études cliniques approfondies pour confirmer l'efficacité chez l'humain."
   },
   "pharmacologie": {
     "molecules": "Guazuma ulmifolia produit des composés primaires spécifiques qui expliquent ses propriétés distinctives. La saveur amère caractéristique de ses feuilles et de son écorce provient principalement de la présence de tanins condensés et d'alcaloïdes en faibles concentrations. Les fibres et mucilages abondants dans les tissus végétaux contribuent aux propriétés émollientes et protectrices de l'écorce. La plante accumule également des glucides complexes et des protéines végétales, particulièrement dans les feuilles qui servent parfois de fourrage. Les microéléments restent peu documentés pour cette espèce spécifique. Les principaux composés secondaires identifiés dans G. ulmifolia comprennent : des proanthocyanidines (tanins condensés responsables de l'astringence), des flavonoïdes (quercétine, kaempférol), des saponines triterpéniques, des mucilages et des traces d'alcaloïdes (Argueta et al., 1994 — Biblioteca Digital de la Medicina Tradicional Mexicana, Alonso-Castro et al., 2011 — PMID: 21352618). Des études phytochimiques ont également identifié la présence de composés phénoliques totaux et d'acides hydroxycinnamiques contribuant à l'activité antioxydante de la plante. Ces molécules remplissent des fonctions de défense essentielles pour G. ulmifolia. Les tanins condensés protègent les tissus contre l'herbivorie en créant une astringence désagréable et en précipitant les protéines digestives des herbivores. Les flavonoïdes offrent une protection contre les rayonnements UV et participent à la résistance aux pathogènes. Les saponines agissent comme détergents naturels défensifs contre les insectes et champignons. Ces mêmes composés, une fois ingérés par l'humain, produisent les effets biologiques documentés : l'astringence des tanins resserre les muqueuses intestinales (effet antidiarrhéique), les flavonoïdes exercent une activité antioxydante systémique, et l'ensemble contribue aux propriétés cicatrisantes observées. Les observations restent principalement issues d'études in vitro et d'usage traditionnel.",
     "posologie": "Aucune posologie cliniquement validée n'est disponible pour Guazuma ulmifolia. Les pratiques traditionnelles documentées localement ne sont pas standardisées. La littérature ethnobotanique mentionne l'usage d'infusions ou décoctions préparées avec approximativement 5 grammes de matériel végétal par litre d'eau, consommées une à deux fois par jour, mais ces indications proviennent d'observations ethnographiques et non d'essais cliniques contrôlés. La variabilité des préparations traditionnelles et l'absence de standardisation pharmaceutique rendent nécessaire une approche prudente dans l'utilisation thérapeutique."
   },
   "nutrition": {
-    "introduction": "Guazuma ulmifolia Lam. (syn. Guazuma tomentosa) est un arbre natif documenté dans les Départements du Sud et de la Grand'Anse. Il appartient à la famille des Malvacées, une vaste famille botanique composée majoritairement d'herbes, d'arbustes et d'arbres, incontournable dans la flore du grand Sud d'Haïti. Cette famille se distingue par de riches usages alimentaires et médicinaux, avec une signature phytochimique dominée par les mucilages, flavonoïdes, tanins et cellulose, ciblant préférentiellement les systèmes respiratoire, digestif et tégumentaire. Au sein de cette famille, le genre Guazuma regroupe des arbres tropicaux américains reconnus pour leurs propriétés astringentes et leur bois de qualité. Guazuma ulmifolia est principalement utilisé dans les Départements du Sud et de la Grand'Anse pour les soins capillaires et le traitement de la diarrhée, illustrant parfaitement la polyvalence thérapeutique caractéristique des Malvacées."
+    "valeur": "L'espèce présente une valeur économique multifacette. Localement, le bois de G. ulmifolia est apprécié pour la construction légère et l'artisanat, offrant une ressource accessible aux communautés rurales. Les feuilles servent occasionnellement de fourrage pour le bétail, particulièrement en saison sèche. Sur le plan international, l'espèce suscite un intérêt croissant pour la restauration écologique des zones dégradées, grâce à sa croissance rapide et sa capacité à améliorer la fertilité des sols. Le potentiel thérapeutique documenté pourrait également ouvrir des perspectives de valorisation phytopharmaceutique."
   },
   "toxicologie": {
-    "niveau": "",
+    "niveau": "🟢 Non toxique aux doses usuelles",
     "details": "Guazuma ulmifolia présente un profil de sécurité favorable selon les données disponibles. Aucune toxicité majeure n'est rapportée dans la littérature scientifique. Cependant, un surdosage pourrait théoriquement provoquer une diarrhée paradoxale due à l'excès de tanins, ou une hypoglycémie chez les personnes diabétiques sous traitement médicamenteux, en raison de l'activité inhibitrice potentielle sur l'α-glucosidase. Par précaution, l'usage est déconseillé pendant la grossesse et l'allaitement en l'absence de données de sécurité spécifiques. Les personnes sous traitement antidiabétique devraient consulter un professionnel de santé avant utilisation."
   },
   "conservation": {
@@ -38,8 +38,8 @@
     "valeur": "L'espèce présente une valeur économique multifacette. Localement, le bois de G. ulmifolia est apprécié pour la construction légère et l'artisanat, offrant une ressource accessible aux communautés rurales. Les feuilles servent occasionnellement de fourrage pour le bétail, particulièrement en saison sèche. Sur le plan international, l'espèce suscite un intérêt croissant pour la restauration écologique des zones dégradées, grâce à sa croissance rapide et sa capacité à améliorer la fertilité des sols. Le potentiel thérapeutique documenté pourrait également ouvrir des perspectives de valorisation phytopharmaceutique."
   },
   "recherche": {
-    "nb_articles": "",
     "details": "Les recherches sur Guazuma ulmifolia s'orientent principalement vers la validation des usages traditionnels et l'identification de nouvelles applications thérapeutiques. Des études récentes explorent son potentiel antiviral, particulièrement prometteeur selon des travaux mexicains. L'optimisation des méthodes d'extraction des composés actifs et la standardisation des préparations constituent des axes de recherche prioritaires. L'évaluation de l'innocuité à long terme et la détermination de posologies cliniquement validées représentent des besoins urgents pour une utilisation thérapeutique sécurisée.",
+    "nb_articles": "",
     "lien_pubmed": "",
     "lien_scholar": "",
     "lien_tramil": ""
@@ -47,11 +47,11 @@
   "references": "Alonso-Castro AJ et al. (2011). The medicinal properties of Guazuma ulmifolia Lam. are mediated by the inhibition of cyclooxygenase-1 and 2. J Ethnopharmacol. PMID: 21352618. Andrade-Cetto A, Heinrich M. (2005). Mexican plants with hypoglycaemic effect used in the treatment of diabetes. J Ethnopharmacol. PMID: 16125362. Argueta A et al. (1994). Atlas de las Plantas de la Medicina Tradicional Mexicana. Instituto Nacional Indigenista, Mexico. TRAMIL. Guazuma ulmifolia. www.tramil.net/en/plant/guazuma-ulmifolia POWO. Plants of the World Online, Kew Science. www.plantsoftheworldonline.org",
   "aRetenir": "🟢 À retenir — Bwa dòm : est utilisee en medecine traditionnelle avec un bon profil de securite aux doses courantes. Les usages presentes reposent sur des donnees ethnobotaniques et scientifiques publiees, mais ne constituent pas une prescription. Consulter un professionnel de sante avant tout usage therapeutique. Les auteurs declinent toute responsabilite quant a un usage inapproprie.",
   "images": {
-    "principale": "images/475_Guazuma_ulmifolia-001.jpg",
+    "principale": "/images/475_Guazuma_ulmifolia-001.jpg",
     "galerie": [
-      "images/475_Guazuma_ulmifolia-001.jpg",
-      "images/475_Guazuma_ulmifolia-002.jpg"
+      "/images/475_Guazuma_ulmifolia-001.jpg",
+      "/images/475_Guazuma_ulmifolia-002.jpg"
     ]
   },
-  "source": "plantes_full.json"
+  "source": "CSV corrigé 2026-04-11"
 }

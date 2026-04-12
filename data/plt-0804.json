@@ -1,7 +1,7 @@
 {
   "id_plante": "plt-0804",
   "code": "plt-0804",
-  "no_espece": "",
+  "no_espece": "8.4",
   "no_famille": "8",
   "famille": "Apiacées",
   "description_famille": "",
@@ -20,17 +20,17 @@
   },
   "usages": {
     "usages_ethnobotaniques": "Dans les Départements du Sud et de la Grand'Anse, le « Koulan » occupe une place centrale dans la pharmacopée familiale et la cuisine traditionnelle. Les feuilles fraîches constituent l'épice aromatique de référence pour de nombreux plats, particulièrement les soupes, les ragoûts et les préparations à base de légumineuses. En usage médicinal, on prépare principalement une décoction des feuilles et des jeunes tiges pour traiter les affections respiratoires, notamment la grippe et les refroidissements. La préparation traditionnelle consiste à faire bouillir 2 à 5 grammes de feuilles fraîches dans un litre d'eau pendant 10 à 15 minutes, puis à consommer cette tisane chaude, une à trois fois par jour. Les feuilles peuvent également être mâchées fraîches en cas de troubles digestifs légers ou appliquées localement sous forme de cataplasme pour leurs propriétés anti-inflammatoires. L'usage en infusion contre la grippe est également documenté en Jamaïque selon les données TRAMIL, confirmant la cohérence régionale de cet usage traditionnel.",
-    "systemes_concernes": "Digestif, Respiratoire"
+    "systemes_concernes": "Les usages traditionnels d'E. foetidum ciblent préférentiellement les systèmes digestif et respiratoire. Les propriétés digestives de la plante reposeraient sur l'activité des huiles essentielles et des composés phénoliques qui favoriseraient la motilité gastro-intestinale et exerceraient un effet carminatif. Pour les affections respiratoires, les mécanismes d'action impliqueraient l'activité antimicrobienne de l'éryngial et des phénols contre les agents pathogènes responsables des infections des voies respiratoires supérieures. Des études in vitro ont confirmé l'inhibition de la croissance de plusieurs bactéries et champignons par les huiles essentielles et les composés phénoliques de la plante. Les propriétés anti-inflammatoires observées seraient liées à la réduction de marqueurs inflammatoires, bien que les mécanismes précis impliquant les voies COX et les cytokines restent partiellement décrits. Ces données, issues principalement d'études expérimentales, demandent validation par des essais cliniques contrôlés."
   },
   "pharmacologie": {
     "molecules": "Ce qui confère à E. foetidum son caractère aromatique exceptionnel, c'est sa richesse en composés volatils spécifiques. Les feuilles concentrent des huiles essentielles dominées par l'éryngial, un aldéhyde terpénique responsable de l'arôme si particulier de la plante — plus intense et complexe que celui de la coriandre commune. Cette signature aromatique s'accompagne d'une composition nutritionnelle remarquable : les feuilles sont particulièrement riches en vitamine C (acide ascorbique), en caroténoïdes comme la lutéine et le β-carotène — responsables de la couleur verte intense des feuilles et de leur activité antioxydante —, ainsi qu'en minéraux essentiels comme le potassium, le calcium et le fer. Cette composition explique l'utilisation traditionnelle de la plante comme tonique général. Les principaux composés secondaires identifiés dans E. foetidum comprennent : des phénols (acides chlorogénique, caféique et rosmarinique), des flavonoïdes, des terpénoïdes, des saponines, des coumarines et des huiles essentielles riches en éryngial. Des études phytochimiques ont confirmé la présence de ces composés bioactifs et leur contribution aux propriétés biologiques de la plante (Paul et al., 2011 — DOI: 10.1016/j.foodchem.2010.12.086). Ces molécules remplissent des fonctions de défense essentielles pour E. foetidum. L'éryngial et les autres composés volatils protègent la plante contre les herbivores et les pathogènes microbiens. Les saponines confèrent une protection supplémentaire contre les champignons du sol, tandis que les composés phénoliques neutralisent les radicaux libres générés par les stress environnementaux. Ces mêmes composés, une fois ingérés par l'humain, produisent les effets biologiques documentés : l'éryngial et les phénols exercent une activité antimicrobienne contre diverses bactéries et champignons, les flavonoïdes contribuent aux effets anti-inflammatoires, et les saponines peuvent favoriser l'expectoration. Les observations restent toutefois principalement issues d'études in vitro et d'analyses phytochimiques.",
     "posologie": "La posologie traditionnelle pour l'usage médicinal d'E. foetidum consiste en une infusion de feuilles fraîches à raison d'environ 2 à 5 grammes par litre d'eau, consommée une à trois fois par jour. En usage alimentaire, les feuilles sont utilisées fraîches selon les besoins culinaires, généralement quelques feuilles par portion. Cependant, aucune posologie cliniquement standardisée n'est disponible dans la littérature scientifique pour les applications thérapeutiques spécifiques. Les recommandations reposent essentiellement sur les pratiques traditionnelles et l'expérience empirique des utilisateurs. Des études pharmacocinétiques et de détermination de doses efficaces seraient nécessaires pour établir des protocoles thérapeutiques précis."
   },
   "nutrition": {
-    "introduction": "Eryngium foetidum L. (syn. Eryngium antihystericum) est une herbe native des Départements du Sud et de la Grand'Anse, où elle est connue sous le nom créole de « Koulan ». Cette espèce appartient à la famille des Apiacées et au genre Eryngium, un groupe particulier de cette famille qui se distingue par ses inflorescences en capitules épineux plutôt qu'en ombelles typiques. Contrairement à la plupart des Apiacées qui privilégient les climats tempérés, E. foetidum s'épanouit dans les zones tropicales humides de basse altitude. Son usage principal dans la région est aromatique — elle constitue l'une des épices fondamentales de la cuisine haïtienne — mais elle possède également des applications médicinales traditionnelles, particulièrement pour les affections respiratoires et digestives. Bien que rare dans son état naturel, cette plante est largement cultivée pour ses qualités culinaires exceptionnelles."
+    "valeur": "Le « Koulan » possède une valeur économique significative à l'échelle locale et régionale. En tant qu'épice fondamentale de la cuisine haïtienne, il génère des revenus importants pour les producteurs familiaux et les maraîchers spécialisés. Les feuilles fraîches se vendent sur les marchés locaux à des prix relativement élevés en raison de leur demande constante et de leur caractère périssable. Au niveau international, E. foetidum alimente un marché ethnique spécialisé, particulièrement dans les communautés caribéennes et latino-américaines d'Amérique du Nord et d'Europe. Cette demande internationale offre des perspectives d'exportation intéressantes pour les producteurs haïtiens, à condition de respecter les standards de qualité et de traçabilité requis."
   },
   "toxicologie": {
-    "niveau": "",
+    "niveau": "🟢 Non toxique aux doses usuelles",
     "details": "E. foetidum présente un profil de sécurité favorable en usage traditionnel et alimentaire. Aucune toxicité majeure n'a été rapportée dans la littérature scientifique aux doses habituellement consommées. Cependant, certaines précautions s'imposent : la prudence est recommandée pendant la grossesse en raison du manque de données spécifiques sur l'innocuité dans cette population. À fortes doses, la plante pourrait occasionner des troubles digestifs légers ou des réactions allergiques chez les personnes sensibles. L'usage de l'huile essentielle pure concentrée doit être évité en raison du risque de surdosage et d'irritation. Comme pour toutes les plantes aromatiques puissantes, il convient de respecter les dosages traditionnels et d'être attentif aux réactions individuelles."
   },
   "conservation": {
@@ -38,8 +38,8 @@
     "valeur": "Le « Koulan » possède une valeur économique significative à l'échelle locale et régionale. En tant qu'épice fondamentale de la cuisine haïtienne, il génère des revenus importants pour les producteurs familiaux et les maraîchers spécialisés. Les feuilles fraîches se vendent sur les marchés locaux à des prix relativement élevés en raison de leur demande constante et de leur caractère périssable. Au niveau international, E. foetidum alimente un marché ethnique spécialisé, particulièrement dans les communautés caribéennes et latino-américaines d'Amérique du Nord et d'Europe. Cette demande internationale offre des perspectives d'exportation intéressantes pour les producteurs haïtiens, à condition de respecter les standards de qualité et de traçabilité requis."
   },
   "recherche": {
-    "nb_articles": "~500 (estimation)",
     "details": "Les recherches sur E. foetidum se concentrent principalement sur la caractérisation phytochimique et l'évaluation des activités biologiques in vitro. Environ 500 publications scientifiques traitent de cette espèce, témoignant de l'intérêt croissant de la communauté scientifique. Les perspectives de recherche incluent des études cliniques contrôlées pour valider les usages traditionnels, des recherches sur l'optimisation des conditions de culture et de conservation post-récolte, ainsi que le développement de produits dérivés standardisés. L'amélioration génétique pour augmenter la teneur en composés bioactifs et la résistance aux maladies constitue également un axe prometteur. Ces développements pourraient renforcer la position commerciale de la plante tout en validant scientifiquement ses applications thérapeutiques traditionnelles.",
+    "nb_articles": "",
     "lien_pubmed": "",
     "lien_scholar": "",
     "lien_tramil": "https://www.tramil.net/en/plant/eryngium-foetidum"
@@ -47,11 +47,11 @@
   "references": "Paul, J.H.A. et al. (2011). Chemical composition and antimicrobial activity of the essential oil of Eryngium foetidum L. Food Chemistry. DOI: 10.1016/j.foodchem.2010.12.086. World Flora Online (2024). Eryngium foetidum L. Consulté sur http://www.worldfloraonline.org TRAMIL (2024). Eryngium foetidum. Consulté sur https://www.tramil.net/en/plant/eryngium-foetidum",
   "aRetenir": "🟢 À retenir — Koulan : est avant tout un aliment — sa valeur nutritionnelle prime sur ses usages medicinaux. Consommee correctement preparee, elle est sans danger documente. Ses proprietes therapeutiques, reelles mais secondaires, ne remplacent pas un suivi medical. Les auteurs declinent toute responsabilite quant a un usage inapproprie.",
   "images": {
-    "principale": "images/84_Eryngium_foetidum-001.jpg",
+    "principale": "/images/84_Eryngium_foetidum-001.jpg",
     "galerie": [
-      "images/84_Eryngium_foetidum-001.jpg",
-      "images/84_Eryngium_foetidum-002.jpg"
+      "/images/84_Eryngium_foetidum-001.jpg",
+      "/images/84_Eryngium_foetidum-002.jpg"
     ]
   },
-  "source": "plantes_full.json"
+  "source": "CSV corrigé 2026-04-11"
 }

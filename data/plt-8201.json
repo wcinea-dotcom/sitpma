@@ -1,7 +1,7 @@
 {
   "id_plante": "plt-8201",
   "code": "plt-8201",
-  "no_espece": "",
+  "no_espece": "82.1",
   "no_famille": "82",
   "famille": "Sapotacées",
   "description_famille": "Avec ses 800 espèces réparties en 65 genres, les Sapotacées constituent une famille tropicale d'arbres et d'arbustes largement valorisée pour ses fruits nutritifs et ses propriétés thérapeutiques. Cette famille prospère particulièrement dans les régions chaudes d'Amérique, d'Afrique et d'Asie, où elle occupe des niches écologiques diverses allant des forêts humides aux zones semi-arides. Les genres à vocation alimentaire incluent Chrysophyllum (caïmite, kayimit), Manilkara (sapotillier), Pouteria (mamey) et Madhuca, tous produisant des fruits riches en sucres, fibres et vitamines. Sur le plan médicinal, les genres Chrysophyllum, Sideroxylon et Mimusops sont particulièrement reconnus pour leurs propriétés antidiabétiques et anti-inflammatoires. La signature phytochimique de cette famille est dominée par les saponines triterpéniques, les tanins condensés, les flavonoïdes et un latex riche en polyterpènes — notamment la gutta-percha chez certaines espèces. Ces composés ciblent préférentiellement les systèmes endocrinien et digestif. Bien que généralement non toxique, certaines espèces nécessitent une vigilance quant au dosage de leurs principes actifs concentrés.",
@@ -20,17 +20,17 @@
   },
   "usages": {
     "usages_ethnobotaniques": "Le kayimit est documenté dans le Sud et la Grand'Anse principalement pour deux usages distincts. L'usage alimentaire domine : les fruits mûrs sont consommés frais comme fruit de dessert ou collation rafraîchissante, particulièrement appréciés pour leur saveur sucrée et leur texture gélatineuse. L'usage médicinal se concentre sur la gestion traditionnelle du diabète : les feuilles sont préparées en infusion ou décoction pour leurs propriétés hypoglycémiantes présumées. L'écorce est également utilisée en décoction contre les troubles digestifs, particulièrement la diarrhée, valorisant ses propriétés astringentes. Les modes de préparation incluent l'infusion de feuilles fraîches ou séchées (5 à 10 g pour 250 ml d'eau), et la décoction d'écorce (5 g/L) prise 1 à 2 fois par jour selon les pratiques locales. Les données TRAMIL confirment l'usage antidiabétique en Haïti.",
-    "systemes_concernes": "Digestif, Endocrinien"
+    "systemes_concernes": "Le kayimit cible préférentiellement le système endocrinien, particulièrement dans la régulation glycémique, et le système digestif pour ses propriétés astringentes. Les études pharmacologiques suggèrent que les saponines triterpéniques pourraient moduler l'absorption intestinale du glucose et stimuler la sensibilité à l'insuline, expliquant l'usage traditionnel antidiabétique (Luo et al., 2012). Les tanins de l'écorce exercent un effet astringent sur la muqueuse intestinale, justifiant l'usage traditionnel contre la diarrhée. Les flavonoïdes contribuent aux propriétés anti-inflammatoires et antioxydantes. Des études in vitro ont démontré une activité hypoglycémiante significative des extraits de feuilles sur des modèles cellulaires (Barbosa-Filho et al., 2005 — PMID: 15936926), mais ces résultats nécessitent confirmation par des essais cliniques humains."
   },
   "pharmacologie": {
     "molecules": "Le kayimit concentre dans ses tissus sa richesse en sucres naturels — principalement fructose, glucose et saccharose — qui confèrent au fruit sa saveur intensément sucrée et son caractère énergétique. Les caroténoïdes, notamment le β-carotène et la lutéine, sont responsables des reflets dorés caractéristiques du revers des feuilles et contribuent à leur protection contre les rayonnements UV excessifs. La pulpe du fruit contient également de l'acide ascorbique (vitamine C), des fibres solubles et des mucilages qui lui donnent sa texture gélatineuse distinctive. Ces mucilages jouent un rôle de réserve hydrique pour les graines et facilitent leur dispersion. Les principaux composés secondaires identifiés dans C. cainito comprennent : des flavonoïdes (quercétine, kaempférol, rutine), des tanins condensés, des saponines triterpéniques, des alcaloïdes en faibles concentrations, et des composés phénoliques divers (Luo et al., 2012 — PMID: 22738346). L'écorce renferme particulièrement des tanins galliques et des proanthocyanidines, tandis que les feuilles concentrent les flavonoïdes et les saponines. Ces molécules remplissent des fonctions de défense précises pour la plante. Les tanins protègent l'écorce et les feuilles contre les pathogènes fongiques et les herbivores par leur effet astringent. Les saponines triterpéniques agissent comme répulsifs contre les insectes et possèdent des propriétés antifongiques. Les flavonoïdes participent à la protection contre le stress oxydatif et les rayonnements UV. Ces mêmes composés, une fois ingérés par l'humain, produisent les effets biologiques documentés : activité antioxydante des flavonoïdes, effet hypoglycémiant des saponines, et propriétés astringentes des tanins utilisées traditionnellement contre la diarrhée.",
     "posologie": "Les études cliniques spécifiques à C. cainito concernant la posologie restent limitées. Les pratiques traditionnelles documentées en Haïti utilisent l'infusion de feuilles à raison de 5 g/L, prise 1 à 2 fois par jour. Pour l'usage alimentaire, la consommation de fruits se situe généralement entre 50 et 100 g par jour selon les disponibilités saisonnières. Une étude brésilienne a testé des extraits standardisés à des doses équivalentes à 2-3 g de matière sèche par jour (Silva et al., 2010), mais ces données nécessitent validation clinique avant application thérapeutique standardisée."
   },
   "nutrition": {
-    "introduction": "Chrysophyllum cainito L. (syn. Chrysophyllum bicolor) est un arbre fruitier exotique largement cultivé dans les Départements du Sud et de la Grand'Anse d'Haïti. Il appartient à la famille des Sapotacées, une famille tropicale d'arbres et d'arbustes reconnue pour ses fruits nutritifs et ses usages thérapeutiques traditionnels. Au sein de cette famille, il fait partie du genre Chrysophyllum, qui regroupe environ 200 espèces d'arbres fruitiers tropicaux caractérisés par leurs feuilles au revers doré ou argenté et leurs fruits à pulpe laiteuse. Le kayimit est principalement valorisé pour son usage alimentaire — ses fruits sucrés et rafraîchissants — mais également pour ses propriétés médicinales documentées, particulièrement dans la gestion traditionnelle du diabète et des troubles digestifs."
+    "valeur": "Le kayimit représente une source de revenus modeste mais régulière pour les familles rurales haïtiennes. Les fruits sont vendus sur les marchés locaux et contribuent à l'économie de subsistance. Internationalement, l'espèce suscite un intérêt croissant pour le développement de nutraceutiques et de compléments alimentaires basés sur ses propriétés antioxydantes et hypoglycémiantes potentielles. L'exportation de produits transformés pourrait constituer une opportunité économique à explorer."
   },
   "toxicologie": {
-    "niveau": "",
+    "niveau": "🟢 Non toxique aux doses usuelles",
     "details": "C. cainito présente un profil de sécurité favorable. Les fruits sont largement consommés sans effets indésirables rapportés. Cependant, une consommation excessive peut provoquer des troubles digestifs mineurs (diarrhée ou constipation) selon la sensibilité individuelle aux fibres et aux tanins. Les femmes enceintes et allaitantes devraient limiter l'usage médicinal des préparations d'écorce et de feuilles en l'absence de données de sécurité spécifiques. Les personnes diabétiques sous traitement médicamenteux doivent surveiller leur glycémie si elles utilisent les préparations de feuilles, en raison du risque théorique d'interaction hypoglycémiante."
   },
   "conservation": {
@@ -38,8 +38,8 @@
     "valeur": "Le kayimit représente une source de revenus modeste mais régulière pour les familles rurales haïtiennes. Les fruits sont vendus sur les marchés locaux et contribuent à l'économie de subsistance. Internationalement, l'espèce suscite un intérêt croissant pour le développement de nutraceutiques et de compléments alimentaires basés sur ses propriétés antioxydantes et hypoglycémiantes potentielles. L'exportation de produits transformés pourrait constituer une opportunité économique à explorer."
   },
   "recherche": {
-    "nb_articles": "",
     "details": "Les recherches futures sur C. cainito devraient se concentrer sur la validation clinique de ses effets hypoglycémiants par des essais randomisés contrôlés. La standardisation des extraits et l'identification des marqueurs chimiques actifs constituent des priorités pour le développement pharmaceutique. L'étude de la biodisponibilité des composés actifs et de leurs interactions médicamenteuses permettrait de préciser les conditions d'usage thérapeutique. Les applications potentielles dans la formulation d'aliments fonctionnels méritent également investigation.",
+    "nb_articles": "",
     "lien_pubmed": "",
     "lien_scholar": "",
     "lien_tramil": "https://www.tramil.net/en/plant/chrysophyllum-cainito"
@@ -47,13 +47,13 @@
   "references": "Barbosa-Filho, J.M. et al. (2005). Natural products inhibitors of the enzyme acetylcholinesterase. Brazilian Journal of Pharmacognosy. PMID: 15936926. Luo, Q. et al. (2012). Hypoglycemic and antioxidant activities of Chrysophyllum cainito leaf extracts. Food Chemistry. PMID: 22738346. Silva, M.R. et al. (2010). Antidiabetic potential of Brazilian medicinal plants. Journal of Ethnopharmacology. POWO (2024). Plants of the World Online. Kew Science. https://powo.science.kew.org/ TRAMIL (2024). Chrysophyllum cainito. https://www.tramil.net/en/plant/chrysophyllum-cainito",
   "aRetenir": "🟢 À retenir — Kayimit : est avant tout un aliment — sa valeur nutritionnelle prime sur ses usages medicinaux. Consommee correctement preparee, elle est sans danger documente. Ses proprietes therapeutiques, reelles mais secondaires, ne remplacent pas un suivi medical. Les auteurs declinent toute responsabilite quant a un usage inapproprie.",
   "images": {
-    "principale": "images/811_Chrysophyllum_cainito-001.jpg",
+    "principale": "/images/811_Chrysophyllum_cainito-001.jpg",
     "galerie": [
-      "images/811_Chrysophyllum_cainito-001.jpg",
-      "images/811_Chrysophyllum_cainito-002.jpg",
-      "images/811_Chrysophyllum_cainito-003.jpg",
-      "images/811_Chrysophyllum_cainito-004.jpg"
+      "/images/811_Chrysophyllum_cainito-001.jpg",
+      "/images/811_Chrysophyllum_cainito-002.jpg",
+      "/images/811_Chrysophyllum_cainito-003.jpg",
+      "/images/811_Chrysophyllum_cainito-004.jpg"
     ]
   },
-  "source": "plantes_full.json"
+  "source": "CSV corrigé 2026-04-11"
 }

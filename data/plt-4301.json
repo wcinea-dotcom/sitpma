@@ -1,7 +1,7 @@
 {
   "id_plante": "plt-4301",
   "code": "plt-4301",
-  "no_espece": "",
+  "no_espece": "43.1",
   "no_famille": "43",
   "famille": "Lauracées",
   "description_famille": "Dominant les forêts tropicales humides, les Lauracées regroupent environ 2500 espèces réparties en 50 genres, principalement des arbres et arbustes aromatiques. Cette famille tropicale et subtropicale se distingue par sa remarquable diversité d'usages : alimentaires avec l'avocat (Persea americana), aromatiques avec la cannelle (Cinnamomum verum) et le laurier (Laurus nobilis), et médicinaux avec de nombreuses espèces amazoniennes. Les genres Persea, Cinnamomum et Ocotea constituent les piliers de cette famille en Haïti. Sur le plan phytochimique, les Lauracées se caractérisent par une signature dominée par des huiles essentielles riches en cinnamaldéhyde, eugénol et linalol, des flavonoïdes, des tanins et des acides gras spécifiques comme l'acide laurique. Ces composés ciblent préférentiellement les systèmes digestif, métabolique et cardiovasculaire. Une vigilance particulière s'impose avec certaines espèces du genre Cinnamomum, dont les huiles concentrées peuvent être irritantes pour les muqueuses, et les feuilles d'avocat, toxiques pour les animaux domestiques.",
@@ -20,17 +20,17 @@
   },
   "usages": {
     "usages_ethnobotaniques": "Dans les Départements du Sud et de la Grand'Anse, la cannelle est principalement utilisée comme épice alimentaire et plante médicinale. L'écorce séchée, en bâtons ou réduite en poudre, parfume les thés, les tisanes et certains plats traditionnels. En médecine populaire, elle est documentée comme antidiabétique adjuvant, digestif, antimicrobien et antioxydant. Le mode de préparation privilégié consiste en une décoction légère (1-2 g d'écorce pour une tasse d'eau chaude, infusée 10-15 minutes) consommée 1 à 2 fois par jour. Les feuilles, moins concentrées en principes actifs, sont parfois utilisées en infusion pour des applications plus douces. Selon la base TRAMIL, l'usage contre la diarrhée est également documenté en Haïti, reflétant les propriétés astringentes et antimicrobiennes de la plante.",
-    "systemes_concernes": "Digestif, Cardiovasculaire"
+    "systemes_concernes": "La cannelle cible principalement les systèmes digestif et métabolique. Les études scientifiques suggèrent que le cinnamaldéhyde pourrait améliorer la sensibilité à l'insuline en activant certains récepteurs cellulaires et en inhibant des enzymes impliquées dans le métabolisme glucidique (Qin et al., 2010 — PMC2901047). Les tanins et polyphénols exerceraient une action astringente bénéfique contre la diarrhée, tandis que l'activité antimicrobienne documentée in vitro pourrait expliquer l'usage traditionnel contre les vers intestinaux. L'effet antioxydant des proanthocyanidines contribuerait à la protection cardiovasculaire observée dans certaines études épidémiologiques. Cependant, la plupart de ces mécanismes restent à confirmer par des essais cliniques rigoureux chez l'humain, les données actuelles provenant principalement d'études in vitro et animales."
   },
   "pharmacologie": {
     "molecules": "Cinnamomum verum se caractérise par une composition chimique remarquable qui explique à la fois son arôme distinctif et ses propriétés biologiques. L'écorce concentre notamment le cinnamaldéhyde (65-75% de l'huile essentielle), responsable de la saveur chaude et légèrement piquante, accompagné d'eugénol (7-10%) qui apporte les notes aromatiques plus douces. Ces composés volatils donnent également à l'écorce sa couleur cannelle caractéristique lors du séchage. Sur le plan nutritionnel, l'écorce fournit des fibres, du calcium, du manganèse et du fer, bien qu'elle soit consommée en quantités limitées comme épice. Les principaux composés secondaires identifiés dans C. verum comprennent : des huiles essentielles dominées par le cinnamaldéhyde (65-75%) et l'eugénol (7-10%), des tanins condensés (proanthocyanidines), des flavonoïdes (principalement rutine et catéchines), de l'acétate de cinnamyle, et de faibles taux de coumarine comparativement à C. cassia (Ranasinghe et al., 2013 — PMC3854496). Des études récentes ont également identifié des polyphénols spécifiques incluant l'acide cinnamique et ses dérivés (Gruenwald et al., 2010 — Phytother Res). Ces molécules remplissent des fonctions défensives cruciales pour l'arbre. Le cinnamaldéhyde et l'eugénol protègent l'écorce contre les pathogènes fongiques et bactériens, ainsi que contre les insectes foreurs. Les tanins condensés renforcent cette protection en complexant les protéines des agents pathogènes. Ces mêmes composés, une fois ingérés par l'humain, produisent les effets biologiques documentés : le cinnamaldéhyde modulerait la sensibilité à l'insuline via l'activation de certains récepteurs cellulaires, tandis que les polyphénols exercent une activité antioxydante et antimicrobienne. Ces propriétés restent toutefois principalement documentées par des études in vitro et chez l'animal.",
     "posologie": "Les études cliniques humaines disponibles ont principalement testé des doses de 1 à 6 g par jour de cannelle en poudre, souvent avec Cinnamomum cassia plutôt que C. verum (Baker et al., 2008 — Diabetes Care). Pour les préparations traditionnelles haïtiennes, la posologie empirique correspond approximativement à 1-2 g d'écorce par tasse d'eau, consommée 1 à 2 fois par jour. Cette posologie reste dans la fourchette considérée comme sûre, compte tenu de la faible teneur en coumarine de C. verum comparativement à C. cassia. Cependant, aucune posologie cliniquement standardisée n'existe spécifiquement pour C. verum dans le contexte thérapeutique haïtien."
   },
   "nutrition": {
-    "introduction": "Cinnamomum verum J.Presl (syn. Cinnamomum zeylanicum Blume) est un arbre exotique d'altitude moyenne, cultivé dans les Départements du Sud et de la Grand'Anse où il demeure rare. Connu sous le nom créole de « Kannèl », il appartient à la famille des Lauracées et constitue l'une des épices les plus précieuses au monde. Au sein du genre Cinnamomum, qui comprend plusieurs espèces productrices d'épices — notamment C. cassia — C. verum se distingue par sa teneur plus faible en coumarine, le rendant plus sûr pour un usage alimentaire prolongé. Son usage dominant en Haïti est aromatique et thérapeutique, particulièrement apprécié en infusion chaude contre les refroidissements et comme adjuvant antidiabétique."
+    "valeur": "La cannelle de Ceylan représente l'une des épices les plus valorisées sur le marché international, avec un prix au kilogramme dépassant souvent celui de nombreuses autres épices. En Haïti, la production locale reste marginale, mais pourrait constituer une niche économique intéressante compte tenu de la demande croissante pour les épices de qualité et l'engouement pour les produits naturels antidiabétiques. Le développement d'une filière cannelle nécessiterait cependant des investissements en formation technique et en équipements de transformation."
   },
   "toxicologie": {
-    "niveau": "",
+    "niveau": "🟢 Non toxique aux doses usuelles",
     "details": "Cinnamomum verum présente un profil de sécurité favorable aux doses alimentaires usuelles. Sa teneur naturellement faible en coumarine (0,004-0,021 mg/g) la rend beaucoup plus sûre que C. cassia pour un usage prolongé (Blahova et al., 2012 — Food Chem Toxicol). Néanmoins, certaines précautions s'imposent : l'huile essentielle concentrée peut irriter les muqueuses, et la prudence est recommandée chez les femmes enceintes ainsi que chez les personnes sous traitement anticoagulant ou antidiabétique en raison d'interactions potentielles. Les doses thérapeutiques élevées et prolongées nécessitent un suivi médical."
   },
   "conservation": {
@@ -38,19 +38,19 @@
     "valeur": "La cannelle de Ceylan représente l'une des épices les plus valorisées sur le marché international, avec un prix au kilogramme dépassant souvent celui de nombreuses autres épices. En Haïti, la production locale reste marginale, mais pourrait constituer une niche économique intéressante compte tenu de la demande croissante pour les épices de qualité et l'engouement pour les produits naturels antidiabétiques. Le développement d'une filière cannelle nécessiterait cependant des investissements en formation technique et en équipements de transformation."
   },
   "recherche": {
-    "nb_articles": "~5000 (estimation)",
     "details": "La recherche internationale sur C. verum connaît un dynamisme important, avec environ 5000 publications indexées couvrant ses propriétés antidiabétiques, antioxydantes et antimicrobiennes. Les perspectives incluent le développement d'extraits standardisés, l'évaluation de son potentiel neuroprotecteur, et l'optimisation des méthodes d'extraction des composés bioactifs. Dans le contexte haïtien, des études sur l'adaptation variétale aux conditions locales et sur la standardisation des préparations traditionnelles seraient particulièrement pertinentes pour valoriser cette ressource.",
+    "nb_articles": "",
     "lien_pubmed": "",
     "lien_scholar": "",
-    "lien_tramil": ""
+    "lien_tramil": "https://www.tramil.net/"
   },
   "references": "Ranasinghe P. et al. (2013). Medicinal properties of 'true' cinnamon (Cinnamomum zeylanicum): a systematic review. BMC Complement Altern Med. PMID: 24219098. Gruenwald J. et al. (2010). Cinnamon and health. Crit Rev Food Sci Nutr. PMID: 20924865. Qin B. et al. (2010). Cinnamon extract prevents the insulin resistance induced by a high-fructose diet. Horm Metab Res. PMC: PMC2901047. Baker W.L. et al. (2008). Effect of cinnamon on glucose control and lipid parameters. Diabetes Care. PMID: 18056890. Blahova J. et al. (2012). Assessment of coumarin levels in ground cinnamon available in the Czech retail market. Food Chem Toxicol. PMID: 22521445. POWO (2024). Plants of the World Online. Kew Science. https://powo.science.kew.org/ TRAMIL (2024). Pharmacopée végétale caribéenne. https://www.tramil.net/",
   "aRetenir": "🟢 À retenir — Kannèl : est avant tout un aliment — sa valeur nutritionnelle prime sur ses usages medicinaux. Consommee correctement preparee, elle est sans danger documente. Ses proprietes therapeutiques, reelles mais secondaires, ne remplacent pas un suivi medical. Les auteurs declinent toute responsabilite quant a un usage inapproprie.",
   "images": {
-    "principale": "images/431_Cinnamomum_verum-001.jpg",
+    "principale": "/images/431_Cinnamomum_verum-001.jpg",
     "galerie": [
-      "images/431_Cinnamomum_verum-001.jpg"
+      "/images/431_Cinnamomum_verum-001.jpg"
     ]
   },
-  "source": "plantes_full.json"
+  "source": "CSV corrigé 2026-04-11"
 }

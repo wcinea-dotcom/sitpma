@@ -1,7 +1,7 @@
 {
   "id_plante": "plt-6806",
   "code": "plt-6806",
-  "no_espece": "",
+  "no_espece": "68.6",
   "no_famille": "68",
   "famille": "Poacées",
   "description_famille": "",
@@ -20,17 +20,17 @@
   },
   "usages": {
     "usages_ethnobotaniques": "Le maïs occupe une place centrale dans l'alimentation haïtienne des Départements du Sud et de la Grand'Anse, documenté comme aliment de base consommé sous toutes ses formes : grillé (\"mayi boukannen\"), bouilli, transformé en farine pour la préparation du pain et des bouillies. Les stigmates sont traditionnellement préparés en tisane diurétique, particulièrement appréciée pour les troubles urinaires légers. Les feuilles sèches servent parfois d'emballage naturel pour la conservation et la cuisson d'autres aliments. Cette polyvalence d'usage témoigne de l'adaptation remarquable de cette espèce exotique aux pratiques culinaires et thérapeutiques locales.",
-    "systemes_concernes": "Urinaire"
+    "systemes_concernes": "Le maïs cible principalement les systèmes nutritionnel et urinaire documentés dans le Sud et la Grand'Anse. Les grains fournissent une base énergétique stable grâce à leur richesse en glucides complexes, soutenant les besoins métaboliques quotidiens. Les stigmates exercent une action diurétique via l'augmentation de la filtration glomérulaire, probablement médiée par les sels de potassium et les flavonoïdes qui modulent les transporteurs rénaux (Hasanudin et al., 2012 — PMID: 23055547). Les caroténoïdes des grains, une fois métabolisés, s'accumulent dans la rétine où ils filtrent la lumière bleue nocive et neutralisent les radicaux libres, contribuant à la prévention de la dégénérescence maculaire. L'effet anti-inflammatoire des polyphénols sur les voies urinaires complète l'action diurétique des stigmates."
   },
   "pharmacologie": {
     "molecules": "Le maïs présente une sa richesse exceptionnelle en amidon dans les grains, représentant 60-70% du poids sec, accompagné de protéines (8-12%) et de lipides (3-5%). Les grains contiennent des caroténoïdes remarquables, principalement la lutéine et la zéaxanthine, responsables de la couleur jaune-orangée de certaines variétés et reconnus pour leur rôle protecteur de la rétine humaine. Les variétés à grains colorés accumulent également des anthocyanes (pigments rouges-violets) aux propriétés antioxydantes. Les stigmates concentrent des sels de potassium et des polyphénols, expliquant leur effet diurétique traditionnel. Les principaux composés secondaires identifiés dans Z. mays comprennent : des flavonoïdes (maysine, orientine, isoorientine), des caroténoïdes (lutéine, zéaxanthine, β-carotène), des phytostérols (sitostérol, stigmastérol), des saponines, des tanins condensés et des acides phénoliques (acide férulique, acide p-coumarique). Les stigmates renferment spécifiquement des flavonoïdes glycosylés et des sels de potassium en concentration élevée (Ebrahimzadeh et al., 2008 — PMID: 18950729). Ces molécules remplissent des fonctions de défense et de signalisation pour la plante. Les caroténoïdes protègent l'appareil photosynthétique contre les stress oxydatifs lumineux. Les composés phénoliques défendent contre les pathogènes fongiques et bactériens. Les flavonoïdes des stigmates facilitent la capture du pollen en période de reproduction. Ces mêmes composés, une fois ingérés par l'humain, produisent les effets biologiques documentés : les caroténoïdes soutiennent la santé oculaire, les flavonoïdes des stigmates exercent un effet diurétique et anti-inflammatoire sur les voies urinaires, tandis que l'amidon fournit une source énergétique stable.",
     "posologie": "Les tisanes de stigmates à raison de 4-10 g/L, prises 2 à 3 fois par jour, sont largement utilisées en urologie douce selon les données cliniques publiées. Cette posologie s'avère efficace pour stimuler la diurèse sans effet indésirable majeur chez les sujets sains (Maksimović et al., 2004 — PMID: 15369717). En tant qu'aliment, une consommation de 100-200 g de grains par jour s'intègre naturellement dans un régime équilibré et fournit une part significative des besoins énergétiques et en micronutriments."
   },
   "nutrition": {
-    "introduction": "Zea mays L. (syn. Zea americana) est une herbe annuelle exotique, cultivée de manière intensive dans les Départements du Sud et de la Grand'Anse. Elle appartient à la famille des Poacées, une famille dominante de l'agriculture mondiale, reconnue pour ses usages alimentaires fondamentaux et ses propriétés médicinales complémentaires. Au sein de cette famille, elle fait partie du genre Zea, dont elle est l'unique espèce cultivée, constituant l'une des trois céréales majeures de l'humanité avec le blé et le riz. Zea mays est une plante à usage prioritairement alimentaire et secondairement médicinal : elle forme la base nutritionnelle de millions d'Haïtiens et ses stigmates sont employés en médecine traditionnelle pour leurs vertus diurétiques et anti-inflammatoires."
+    "valeur": "Le maïs représente une valeur économique considérable à l'échelle locale et internationale. Localement, il constitue une source de revenus directe pour de nombreux agriculteurs des deux départements et un aliment accessible économiquement pour les populations. À l'échelle mondiale, Z. mays génère un marché de plusieurs centaines de milliards de dollars, englobant l'alimentation humaine, l'alimentation animale et les applications industrielles multiples."
   },
   "toxicologie": {
-    "niveau": "",
+    "niveau": "🟡 Précautions requises",
     "details": "Zea mays présente un profil de sécurité excellent en usage alimentaire et thérapeutique modéré. L'effet diurétique marqué des stigmates peut néanmoins entraîner une déshydratation et une hypotension en cas de consommation excessive, particulièrement chez les personnes prenant des diurétiques ou des antihypertenseurs. Une surveillance est recommandée chez les patients sous traitement cardiovasculaire. Les données concernant l'usage des stigmates pendant la grossesse restent limitées, justifiant une prudence particulière chez les femmes enceintes."
   },
   "conservation": {
@@ -38,8 +38,8 @@
     "valeur": "Le maïs représente une valeur économique considérable à l'échelle locale et internationale. Localement, il constitue une source de revenus directe pour de nombreux agriculteurs des deux départements et un aliment accessible économiquement pour les populations. À l'échelle mondiale, Z. mays génère un marché de plusieurs centaines de milliards de dollars, englobant l'alimentation humaine, l'alimentation animale et les applications industrielles multiples."
   },
   "recherche": {
-    "nb_articles": "~5000 (estimation)",
     "details": "Avec environ 5000 publications indexées sur PubMed, Z. mays figure parmi les espèces végétales les plus étudiées scientifiquement. Les recherches actuelles se concentrent sur l'optimisation nutritionnelle (biofortification en vitamines et minéraux), les propriétés fonctionnelles des caroténoïdes pour la santé oculaire, et le potentiel thérapeutique des extraits de stigmates en néphrologie. Les études émergentes sur les anthocyanes des variétés colorées ouvrent des perspectives prometteuses en nutrition-santé.",
+    "nb_articles": "",
     "lien_pubmed": "",
     "lien_scholar": "",
     "lien_tramil": ""
@@ -47,11 +47,11 @@
   "references": "Ebrahimzadeh MA et al. (2008). Antioxidant and free radical scavenging activity of H. officinalis L. var. angustifolius, V. odorata, B. hyrcana and C. speciosum. Pak J Pharm Sci. PMID: 18950729. Hasanudin K et al. (2012). Corn silk (Stigma maydis) in healthcare: a phytochemical and pharmacological review. Molecules. PMID: 23055547. Maksimović Z et al. (2004). Diuretic activity of Maydis stigma extract in rats. Pharmazie. PMID: 15369717. POWO (2024). Plants of the World Online. Kew Science. https://powo.science.kew.org/ TRAMIL (2024). Zea mays. www.tramil.net/en/plant/zea-mays World Flora Online (2024). WFO Plant List. http://worldfloraonline.org/",
   "aRetenir": "🟢 À retenir — Mayi : est avant tout un aliment — sa valeur nutritionnelle prime sur ses usages medicinaux. Consommee correctement preparee, elle est sans danger documente. Ses proprietes therapeutiques, reelles mais secondaires, ne remplacent pas un suivi medical. Les auteurs declinent toute responsabilite quant a un usage inapproprie.",
   "images": {
-    "principale": "images/676_Zea_mays-001.jpg",
+    "principale": "/images/676_Zea_mays-001.jpg",
     "galerie": [
-      "images/676_Zea_mays-001.jpg",
-      "images/676_Zea_mays-002.jpg"
+      "/images/676_Zea_mays-001.jpg",
+      "/images/676_Zea_mays-002.jpg"
     ]
   },
-  "source": "plantes_full.json"
+  "source": "CSV corrigé 2026-04-11"
 }

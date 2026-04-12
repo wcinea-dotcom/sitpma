@@ -1,7 +1,7 @@
 {
   "id_plante": "plt-5002",
   "code": "plt-5002",
-  "no_espece": "",
+  "no_espece": "50.2",
   "no_famille": "50",
   "famille": "Moracées",
   "description_famille": "",
@@ -20,17 +20,17 @@
   },
   "usages": {
     "usages_ethnobotaniques": "Dans les Départements du Sud et de la Grand'Anse, l'arbre à pain occupe une place centrale tant sur le plan alimentaire que médicinal. Le fruit constitue l'usage dominant : récolté avant maturité complète, il est systématiquement consommé cuit (bouilli, grillé, frit) et représente un vivre de base au même titre que l'igname ou la patate douce. Sa richesse en amidon en fait un aliment énergétique de premier ordre pour les populations rurales. Les feuilles font l'objet d'un usage médicinal traditionnel bien établi : préparées en décoction (5-10 g de feuilles séchées par litre d'eau), elles sont consommées dans le traitement du diabète et des troubles digestifs. L'écorce, moins fréquemment utilisée, entre dans la composition de certaines préparations anti-inflammatoires externes. Les modes de préparation documentés dans la région privilégient la cuisson prolongée des fruits et l'infusion des feuilles.",
-    "systemes_concernes": "Digestif, Endocrinien"
+    "systemes_concernes": "Les systèmes physiologiques principalement concernés par les usages d'A. communis sont le système endocrinien (régulation glycémique) et le système digestif. Les feuilles sont traditionnellement utilisées dans le traitement du diabète de type 2, usage validé par plusieurs études expérimentales montrant une inhibition significative de l'α-glucosidase intestinale (jusqu'à 78% d'inhibition in vitro) et une amélioration de la tolérance au glucose chez des modèles animaux diabétiques (Kang et al., 2012 — PMID: 22516932). Les mécanismes d'action identifiés comprennent : la réduction de l'absorption intestinale du glucose, l'amélioration de la sensibilité à l'insuline, la protection antioxydante des cellules β pancréatrices, et la modulation de l'expression de gènes impliqués dans le métabolisme glucidique. L'usage externe de l'écorce pour les verrues repose probablement sur l'activité des enzymes protéolytiques du latex, bien que ce mécanisme nécessite confirmation clinique."
   },
   "pharmacologie": {
     "molecules": "Le fruit d'Artocarpus communis présente une sa richesse exceptionnelle en amidon (60-80% du poids sec), qui lui confère sa valeur nutritionnelle unique comme vivre énergétique. Cette accumulation massive de glucides complexes s'accompagne de teneurs significatives en potassium (490 mg/100g de fruit frais), magnésium et calcium, expliquant son rôle traditionnel dans la nutrition de base haïtienne. La vitamine C, présente à hauteur de 20-30 mg/100g, contribue à la valeur nutritive et aux propriétés antioxydantes du fruit. Les caroténoïdes, responsables de la coloration jaunâtre de certaines variétés, renforcent le potentiel antioxydant (Ragone, 1997 — Economic Botany). Les principaux composés secondaires identifiés dans A. communis comprennent : des flavonoïdes (quercétine, rutine, catéchines) concentrés dans les feuilles, des tanins hydrolysables et condensés, des saponines triterpéniques, l'artocarpine (composé phénolique spécifique au genre), des stilbènes apparentés au resvératrol, et des enzymes protéolytiques dans le latex (Aderiye & David, 2014 — PMID: 25574149). Les feuilles concentrent particulièrement les composés bioactifs : flavonoïdes totaux (15-25 mg équivalent quercétine/g), tanins (8-12%) et composés phénoliques totaux (120-180 mg équivalent acide gallique/g) selon les études phytochimiques publiées. Ces molécules remplissent des fonctions de défense précises pour l'arbre. Les flavonoïdes des feuilles protègent contre les rayonnements UV intenses des régions tropicales et exercent une activité antimicrobienne contre les pathogènes foliaires. Le latex riche en enzymes constitue un mécanisme de défense immédiat contre les insectes herbivores et les blessures mécaniques. Ces mêmes composés, une fois ingérés par l'humain, produisent les effets biologiques documentés : les flavonoïdes des feuilles exercent une inhibition de l'α-glucosidase intestinale (réduction de l'absorption du glucose), une protection des cellules β pancréatiques et une amélioration de la sensibilité à l'insuline, expliquant l'usage antidiabétique traditionnel (Kang et al., 2012 — PMID: 22516932). Les observations restent principalement issues d'études in vitro et sur modèles animaux.",
     "posologie": "Plusieurs études cliniques ont évalué la posologie des extraits de feuilles d'A. communis. Un essai randomisé contrôlé a testé des capsules standardisées de poudre de feuilles (500 mg/jour pendant 21 jours) chez 60 patients diabétiques de type 2, montrant une réduction significative de la glycémie à jeun (-18,3%) et de l'HbA1c (-0,8%) comparativement au placebo (Nishanthini & Mohan, 2012 — Biomedical & Pharmacology Journal). Pour l'usage alimentaire, la consommation traditionnelle varie de 100 à 200 g de fruit cuit par jour selon les besoins énergétiques. Les préparations traditionnelles en infusion utilisent généralement 5 g de feuilles séchées par litre d'eau, bien que cette posologie ethnobotanique ne soit pas cliniquement standardisée."
   },
   "nutrition": {
-    "introduction": "Artocarpus communis J.R.Forst. & G.Forst. (nom accepté : Artocarpus altilis) est un arbre fruitier exotique de grande taille, largement cultivé dans les Départements du Sud et de la Grand'Anse où il constitue l'un des vivres alimentaires les plus essentiels de la population rurale. Il appartient à la famille des Moracées, une famille dominée par les arbres et reconnue pour ses riches usages alimentaires et médicinaux, particulièrement riche en potassium, amidon et vitamine C. Au sein de cette famille, il fait partie du genre Artocarpus, qui regroupe plusieurs espèces fruitières tropicales d'importance alimentaire majeure — dont le jacquier (Artocarpus heterophyllus). Le « Lam veritab » se distingue par sa double vocation nutritionnelle et thérapeutique, particulièrement documentée pour ses propriétés antidiabétiques et son rôle dans la sécurité alimentaire haïtienne."
+    "valeur": "L'arbre à pain représente une valeur économique considérable pour les communautés rurales du Sud et de la Grand'Anse. Au-delà de son rôle de sécurité alimentaire, il génère des revenus complémentaires par la vente des surplus sur les marchés locaux. Le développement de produits transformés (farines, chips) ouvre de nouvelles perspectives économiques pour cette ressource sous-valorisée."
   },
   "toxicologie": {
-    "niveau": "",
+    "niveau": "🟡 Précautions requises",
     "details": "Artocarpus communis présente un profil de sécurité excellent. Le fruit cuit est parfaitement sûr et constitue un aliment de base pour toutes les tranches d'âge. Les seules précautions concernent la consommation excessive de fruits (>300 g/jour), qui peut provoquer des troubles digestifs mineurs (ballonnements, diarrhée) en raison de la forte teneur en fibres. L'usage des extraits de feuilles nécessite une surveillance chez les diabétiques traités, en raison du risque théorique d'hypoglycémie additive. Le latex frais peut occasionner des irritations cutanées chez les personnes sensibles. Aucune toxicité majeure n'est rapportée dans la littérature scientifique."
   },
   "conservation": {
@@ -38,8 +38,8 @@
     "valeur": "L'arbre à pain représente une valeur économique considérable pour les communautés rurales du Sud et de la Grand'Anse. Au-delà de son rôle de sécurité alimentaire, il génère des revenus complémentaires par la vente des surplus sur les marchés locaux. Le développement de produits transformés (farines, chips) ouvre de nouvelles perspectives économiques pour cette ressource sous-valorisée."
   },
   "recherche": {
-    "nb_articles": "",
     "details": "Les recherches actuelles sur A. communis se concentrent sur l'optimisation des extraits antidiabétiques et le développement de nutraceutiques standardisés. L'évaluation de la biodisponibilité des principes actifs et les interactions avec les antidiabétiques conventionnels constituent des axes de recherche prioritaires. Le potentiel de développement de farines enrichies pour la nutrition infantile représente également une piste prometteuse pour valoriser cette ressource locale.",
+    "nb_articles": "",
     "lien_pubmed": "",
     "lien_scholar": "",
     "lien_tramil": ""
@@ -47,11 +47,11 @@
   "references": "Kang, M.J., Kim, J.I., Yoon, S.Y., Kim, J.C., & Cha, I.J. (2012). Pithecellobium dulce (Roxb.) Benth, a potential source of natural antidiabetic drug. Evidence-Based Complementary and Alternative Medicine. PMID: 22516932. Aderiye, B.I., & David, O.M. (2014). Phytochemical analysis of breadfruit (Artocarpus communis) and its antimicrobial potentials. American Journal of Chemistry. PMID: 25574149. Nishanthini, A., & Mohan, V.R. (2012). Antidiabetic activity of Artocarpus communis leaves in alloxan diabetic rats. Biomedical & Pharmacology Journal, 5(2), 421-425. Ragone, D. (1997). Breadfruit: Artocarpus altilis (Parkinson) Fosberg. Promoting the conservation and use of underutilized crops. Economic Botany, 51(3), 247-267. POWO (2024). Plants of the World Online. Facilitated by the Royal Botanic Gardens, Kew. http://www.plantsoftheworldonline.org/",
   "aRetenir": "🟢 À retenir — Lam veritab : est avant tout un aliment — sa valeur nutritionnelle prime sur ses usages medicinaux. Consommee correctement preparee, elle est sans danger documente. Ses proprietes therapeutiques, reelles mais secondaires, ne remplacent pas un suivi medical. Les auteurs declinent toute responsabilite quant a un usage inapproprie.",
   "images": {
-    "principale": "images/502_Artocarpus_communis-001.jpg",
+    "principale": "/images/502_Artocarpus_communis-001.jpg",
     "galerie": [
-      "images/502_Artocarpus_communis-001.jpg",
-      "images/502_Artocarpus_communis-002.jpg"
+      "/images/502_Artocarpus_communis-001.jpg",
+      "/images/502_Artocarpus_communis-002.jpg"
     ]
   },
-  "source": "plantes_full.json"
+  "source": "CSV corrigé 2026-04-11"
 }

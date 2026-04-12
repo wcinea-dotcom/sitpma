@@ -1,7 +1,7 @@
 {
   "id_plante": "plt-3101",
   "code": "plt-3101",
-  "no_espece": "",
+  "no_espece": "31.1",
   "no_famille": "31",
   "famille": "Combrétacées",
   "description_famille": "Dominant les zones côtières tropicales, les Combrétacées rassemblent environ 600 espèces réparties dans une vingtaine de genres, principalement composées d'arbres et d'arbustes. Cette famille se distingue par sa remarquable adaptation aux environnements littoraux et par ses riches usages alimentaires et médicinaux. Plusieurs genres présentent un intérêt alimentaire notable : Terminalia produit des fruits comestibles comme l'amande tropicale (T. catappa), tandis que certaines espèces de Combretum offrent des fruits consommés localement. Sur le plan médicinal, la famille excelle particulièrement dans le traitement des troubles digestifs et cardiovasculaires, grâce à une signature phytochimique dominée par les tanins condensés, l'acide gallique, l'acide ellagique et les flavonoïdes. Ces composés confèrent aux Combrétacées leurs propriétés astringentes, anti-inflammatoires et antioxydantes remarquables, ciblant préférentiellement les systèmes digestif et cardiovasculaire. Une vigilance s'impose cependant avec certaines espèces du genre Combretum qui renferment des principes actifs puissants nécessitant une préparation adéquate et un dosage strict.",
@@ -20,17 +20,17 @@
   },
   "usages": {
     "usages_ethnobotaniques": "Dans le Sud et la Grand'Anse, C. erectus est principalement utilisé en médecine traditionnelle sous le nom de « Mangliye ». L'usage dominant consiste à préparer une décoction d'écorce pour traiter la diarrhée, pratique documentée localement sous le terme « Mang ». Cette préparation s'obtient par ébullition prolongée de fragments d'écorce dans l'eau, jusqu'à obtention d'un liquide brunâtre au goût astringent prononcé. Les feuilles, utilisées en complément, se préparent en infusion plus légère pour des applications anti-inflammatoires et cicatrisantes externes. Les applications documentées incluent également l'usage comme antimicrobien pour nettoyer les plaies et parfois comme hypotenseur, bien que ce dernier usage reste moins systématisé. La rareté croissante de l'espèce limite aujourd'hui ces pratiques traditionnelles et encourage la recherche de substituts thérapeutiques.",
-    "systemes_concernes": "Digestif, Cardiovasculaire"
+    "systemes_concernes": "C. erectus cible préférentiellement le système digestif, avec une efficacité documentée contre les troubles diarrhéiques. Les mécanismes d'action reposent principalement sur les propriétés astringentes des tanins condensés, qui resserrent les muqueuses intestinales et réduisent les sécrétions excessives responsables de la diarrhée (Martínez et al., 2012 — PMID: 22659449). L'activité antimicrobienne des acides phénoliques contribue à contrôler les infections digestives sous-jacentes. Sur le système cardiovasculaire, les effets hypotenseurs rapportés traditionnellement pourraient s'expliquer par l'activité diurétique légère des saponines et l'effet vasorelaxant des flavonoïdes, bien que ces mécanismes restent peu étudiés spécifiquement pour cette espèce. Les propriétés cicatrisantes et anti-inflammatoires, documentées pour les applications externes, résultent de l'action synergique des tanins (effet astringent favorisant la coagulation), des flavonoïdes (anti-inflammatoire) et des triterpènes (cicatrisant). Ces observations demeurent principalement empiriques, des études cliniques contrôlées étant nécessaires pour valider scientifiquement ces mécanismes."
   },
   "pharmacologie": {
     "molecules": "C. erectus se caractérise par une production importante de composés phénoliques défensifs, adaptation directe à son environnement littoral hostile. La saveur fade des parties aériennes contraste avec l'amertume astringente de l'écorce, révélatrice d'une concentration élevée en tanins condensés. Ces tanins, responsables de la coloration brunâtre de l'écorce et de ses propriétés astringentes, constituent la principale signature chimique de l'espèce. L'absence d'arôme particulier suggère une production limitée de composés volatils, énergie métabolique plutôt dirigée vers la synthèse de molécules de défense non-volatiles contre le stress salin et les pathogènes côtiers. Les principaux composés secondaires identifiés dans C. erectus comprennent : des tanins condensés (procyanidines et prodelphinidines), de l'acide gallique, de l'acide ellagique, des flavonoïdes (quercétine, catéchine), des triterpènes, des saponines et quelques alcaloïdes en faible concentration (Martínez et al., 2012 — PMID: 22659449, Rojas et al., 2006 — PMID: 16618374). Ces molécules remplissent des fonctions de survie cruciales dans l'environnement côtier. Les tanins condensés protègent l'écorce contre les pathogènes fongiques et bactériens favorisés par l'humidité marine, tout en conférant une résistance aux herbivores par leur astringence. L'acide gallique et l'acide ellagique renforcent cette protection antimicrobienne tout en neutralisant les radicaux libres générés par le stress salin. Les flavonoïdes contribuent à la protection contre les rayonnements UV intenses du littoral. Ces mêmes composés, une fois ingérés par l'humain, produisent les effets biologiques documentés : les tanins resserrent les muqueuses digestives (effet antidiarrhéique), while les acides phénoliques et flavonoïdes exercent des activités anti-inflammatoires et cicatrisantes. Les observations restent principalement issues d'études in vitro et d'usage traditionnel, les essais cliniques humains demeurant limités.",
     "posologie": "Aucune posologie cliniquement validée n'est disponible pour C. erectus. Les pratiques traditionnelles documentées dans le Sud et la Grand'Anse reposent sur des préparations empiriques non standardisées : décoctions d'écorce préparées « au jugé » selon l'intensité de couleur et d'amertume souhaitées, généralement consommées en petites quantités plusieurs fois par jour lors d'épisodes diarrhéiques aigus. Cette absence de standardisation constitue une limite importante à l'usage sécurisé de l'espèce et souligne le besoin d'études pharmacocinétiques appropriées."
   },
   "nutrition": {
-    "introduction": "Conocarpus erectus L. (syn. Conocarpus acutifolius) est un arbre natif des zones littorales, documenté dans le Sud et la Grand'Anse d'Haïti où il est devenu très rare. Il appartient à la famille des Combrétacées, une famille tropicale adaptée aux environnements côtiers, reconnue pour ses propriétés astringentes et anti-inflammatoires. Au sein de cette famille, il fait partie du genre Conocarpus, un petit groupe d'arbres de mangrove caractérisés par leur résistance au sel et leur richesse en tanins. Son usage principal dans les Départements du Sud et de la Grand'Anse est médicinal, particulièrement comme antidiarrhéique par décoction de l'écorce, bien que son statut de conservation critique limite aujourd'hui sa disponibilité."
+    "valeur": "Localement, C. erectus présente une valeur économique double : son bois dense et résistant au sel est apprécié pour la construction marine et la production de charbon de qualité, tandis que ses propriétés médicinales en font une ressource thérapeutique traditionnelle recherchée. Internationalement, l'espèce trouve des applications en paysagisme côtier et en restoration d'écosystèmes littoraux, particulièrement en Floride où son bois est valorisé commercialement. Cette valeur économique multiple pourrait constituer un levier pour la conservation, à condition de développer une gestion durable des populations restantes."
   },
   "toxicologie": {
-    "niveau": "",
+    "niveau": "🟡 Précautions requises",
     "details": "C. erectus présente un profil de sécurité globalement favorable selon les données disponibles. Cependant, sa richesse en tanins impose certaines précautions : un usage prolongé ou à fortes doses peut provoquer une constipation par excès d'astringence, des irritations gastriques chez les personnes sensibles, ou des interactions avec l'absorption de fer et de certains médicaments. La prudence est recommandée pendant la grossesse en l'absence d'études spécifiques sur cette période. Les effets hypotenseurs documentés traditionnellement suggèrent également une vigilance chez les personnes sous traitement antihypertenseur, bien que ces interactions restent théoriques faute d'études cliniques dédiées."
   },
   "conservation": {
@@ -38,8 +38,8 @@
     "valeur": "Localement, C. erectus présente une valeur économique double : son bois dense et résistant au sel est apprécié pour la construction marine et la production de charbon de qualité, tandis que ses propriétés médicinales en font une ressource thérapeutique traditionnelle recherchée. Internationalement, l'espèce trouve des applications en paysagisme côtier et en restoration d'écosystèmes littoraux, particulièrement en Floride où son bois est valorisé commercialement. Cette valeur économique multiple pourrait constituer un levier pour la conservation, à condition de développer une gestion durable des populations restantes."
   },
   "recherche": {
-    "nb_articles": "",
     "details": "Avec environ une centaine de publications scientifiques, C. erectus bénéficie d'un niveau de recherche correct mais inégalement réparti. Les études se concentrent principalement sur ses propriétés antimicrobiennes et antioxydantes, confirmant partiellement les usages traditionnels. Les recherches futures devraient prioritairement explorer ses mécanismes hypotenseurs, développer des protocoles de propagation pour la conservation ex situ, et établir des posologies cliniquement validées pour sécuriser son usage thérapeutique. L'évaluation de son potentiel hépatoprotecteur, documenté au Mexique, mériterait également des investigations approfondies.",
+    "nb_articles": "",
     "lien_pubmed": "",
     "lien_scholar": "",
     "lien_tramil": "https://www.tramil.net/en/plant/conocarpus-erectus"
@@ -47,13 +47,13 @@
   "references": "Martínez, M.J., et al. (2012). Antimicrobial activity of extracts from Conocarpus erectus L. and identification of their active compounds. PMID: 22659449. Rojas, R., et al. (2006). Screening for antimicrobial activity of ten medicinal plants used in Colombian folkloric medicine. PMID: 16618374. POWO (2024). Plants of the World Online. Facilitated by the Royal Botanic Gardens, Kew. http://www.plantsoftheworldonline.org/ TRAMIL (2024). Traditional Medicine in the Islands. https://www.tramil.net/en/plant/conocarpus-erectus",
   "aRetenir": "🟢 À retenir — Mangliye : est une espece peu ou non etudiee scientifiquement. Les proprietes presentees reposent sur des analogies avec des especes proches et les usages traditionnels documentes localement. La conservation de cette espece prime sur toute valorisation. Les auteurs declinent toute responsabilite quant a un usage inapproprie.",
   "images": {
-    "principale": "images/311_Conocarpus_erectus-001.jpg",
+    "principale": "/images/311_Conocarpus_erectus-001.jpg",
     "galerie": [
-      "images/311_Conocarpus_erectus-001.jpg",
-      "images/311_Conocarpus_erectus-002.jpg",
-      "images/311_Conocarpus_erectus-003.jpg",
-      "images/311_Conocarpus_erectus-004.jpg"
+      "/images/311_Conocarpus_erectus-001.jpg",
+      "/images/311_Conocarpus_erectus-002.jpg",
+      "/images/311_Conocarpus_erectus-003.jpg",
+      "/images/311_Conocarpus_erectus-004.jpg"
     ]
   },
-  "source": "plantes_full.json"
+  "source": "CSV corrigé 2026-04-11"
 }

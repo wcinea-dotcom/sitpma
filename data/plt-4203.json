@@ -1,7 +1,7 @@
 {
   "id_plante": "plt-4203",
   "code": "plt-4203",
-  "no_espece": "",
+  "no_espece": "42.3",
   "no_famille": "42",
   "famille": "Lamiacées",
   "description_famille": "",
@@ -20,17 +20,17 @@
   },
   "usages": {
     "usages_ethnobotaniques": "La mélisse est documentée dans le Sud et la Grand'Anse principalement comme plante calmante pour les troubles nerveux. Les feuilles fraîches ou séchées sont préparées en infusion — « on boit ce thé doux comme calmant pour les nerfs » selon la documentation locale. Cette préparation simple consiste à verser de l'eau chaude sur les feuilles et à laisser infuser quelques minutes avant de filtrer et de consommer. L'usage s'inscrit dans la pharmacopée domestique haïtienne, où les tisanes occupent une place centrale pour traiter les maux du quotidien. La base de données TRAMIL confirme son utilisation en Haïti spécifiquement pour la nervosité, témoignant de la cohérence de cet usage traditionnel à l'échelle caribéenne. Au niveau international, la mélisse est largement utilisée en Europe comme tisane du soir pour favoriser la détente et le sommeil, usage qui se rapproche de la tradition haïtienne.",
-    "systemes_concernes": "Digestif, Nerveux"
+    "systemes_concernes": "La mélisse cible préférentiellement le système nerveux, avec des applications documentées pour l'anxiété, l'agitation, les troubles du sommeil et les spasmes digestifs d'origine nerveuse. Dans les Départements du Sud et de la Grand'Anse, elle est utilisée comme antispasmodique digestif et sédatif doux, cohérent avec ses mécanismes d'action établis. L'acide rosmarinique, composé majeur de la plante, inhibe la GABA-transaminase et augmente la transmission GABAergique, expliquant ses effets anxiolytiques. Les polyphénols présents modulent également les médiateurs inflammatoires, contribuant aux effets antispasmodiques. Des études in vitro ont également démontré une activité antivirale légère, particulièrement contre le virus de l'herpès simplex, via l'inhibition de l'attachement et de la réplication virale (Schnitzler et al., 2008 — PMID: 18693101). Ces mécanismes multiples expliquent la polyvalence thérapeutique traditionnellement attribuée à la plante, bien que les preuves cliniques chez l'humain demeurent limitées."
   },
   "pharmacologie": {
     "molecules": "Ce qui caractérise particulièrement M. officinalis, c'est sa richesse en composés aromatiques volatils responsables de son parfum citronné si distinctif. Les feuilles contiennent notamment du citral et du citronellal, deux aldéhydes terpéniques qui confèrent cette odeur caractéristique de citron. Cette signature aromatique s'accompagne d'une teneur remarquable en acide rosmarinique, un composé phénolique qui peut représenter jusqu'à 4% du poids sec des feuilles et qui leur confère leurs propriétés antioxydantes puissantes (Shakeri et al., 2016 — PMID: 27888213). Sur le plan nutritionnel, comme la plupart des plantes consommées en tisane, la mélisse apporte principalement de l'eau et de faibles quantités de minéraux comme le potassium, le calcium et le magnésium. Les principaux composés secondaires identifiés dans M. officinalis comprennent : des huiles essentielles à dominante aldéhydique (citral, citronellal, géranial, néral), des acides phénoliques (acide rosmarinique, acide caféique, acide chlorogénique), des flavonoïdes (lutéoline, apigénine, quercétine), des triterpènes (acide ursolique, acide oléanolique) et des tanins condensés (Miraj et al., 2017 — PMID: 28443244). Ces molécules remplissent des fonctions de défense précises pour la plante. Les huiles essentielles volatiles protègent contre les herbivores et les pathogènes fongiques, tandis que l'acide rosmarinique offre une protection antioxydante contre les stress environnementaux, particulièrement les rayonnements UV intenses des moyennes altitudes tropicales. Ces mêmes composés, une fois ingérés par l'humain, produisent les effets biologiques documentés : l'acide rosmarinique inhibe la GABA-transaminase et augmente la transmission GABAergique, expliquant les effets calmants, les flavonoïdes modulent les médiateurs inflammatoires, les huiles essentielles présentent une activité antivirale in vitro, notamment contre le virus de l'herpès simplex. Il convient cependant de noter que la plupart de ces mécanismes restent principalement documentés par des études in vitro et sur modèles animaux.",
     "posologie": "La posologie cliniquement étudiée pour M. officinalis varie selon la forme d'administration. Pour l'usage en tisane, les recommandations européennes suggèrent 2 à 3 grammes de feuilles sèches par tasse, à prendre 2 à 3 fois par jour. Les essais cliniques ont utilisé des doses de 300 à 600 mg par jour d'extrait sec standardisé, ou environ 3 grammes par jour de poudre de feuilles en capsules (Cases et al., 2011 — PMID: 21396512). Ces dosages correspondent approximativement aux pratiques traditionnelles haïtiennes, où la tisane est préparée « au goût » et consommée selon les besoins. Il convient de noter que la standardisation des préparations traditionnelles reste difficile en l'absence de contrôle de la teneur en principes actifs."
   },
   "nutrition": {
-    "introduction": "Melissa officinalis L. (syn. Mutelia officinalis) est une herbe vivace exotique, cultivée à moyenne altitude dans les Départements du Sud et de la Grand'Anse, où elle demeure relativement rare. Elle appartient à la famille des Lamiacées, reconnue mondialement pour ses huiles essentielles thérapeutiques et ses propriétés aromatiques remarquables. Au sein de cette famille, elle fait partie du genre Melissa, qui ne compte que quelques espèces méditerranéennes, toutes caractérisées par leur parfum citronné distinctif et leurs propriétés calmantes. Son usage principal en Haïti est médicinal, particulièrement comme tisane apaisante pour les troubles nerveux — d'où son nom créole « Melis » dérivé directement du nom scientifique."
+    "valeur": "La valeur économique locale de la mélisse reste modeste en raison de sa rareté, mais son potentiel est significatif. Au niveau international, elle représente un marché important en phytothérapie et aromathérapie, avec une demande croissante pour les produits naturels anxiolytiques. Le développement de sa culture dans les deux départements pourrait offrir des opportunités économiques intéressantes, particulièrement pour l'export vers les marchés nord-américains et européens où elle est très demandée."
   },
   "toxicologie": {
-    "niveau": "",
+    "niveau": "🟡 Précautions requises",
     "details": "Melissa officinalis présente un excellent profil de sécurité aux doses thérapeutiques habituelles. Les effets indésirables rapportés sont rares et généralement bénins : possible somnolence et baisse de vigilance, particulièrement en début de traitement. Une prudence est recommandée en cas d'association avec des sédatifs ou des antihypertenseurs en raison d'effets synergiques possibles. Les données concernant la grossesse et l'allaitement demeurent limitées, imposant une prudence d'usage chez ces populations. L'usage traditionnel en tisane aux doses habituelles ne présente pas de contre-indications majeures connues."
   },
   "conservation": {
@@ -38,8 +38,8 @@
     "valeur": "La valeur économique locale de la mélisse reste modeste en raison de sa rareté, mais son potentiel est significatif. Au niveau international, elle représente un marché important en phytothérapie et aromathérapie, avec une demande croissante pour les produits naturels anxiolytiques. Le développement de sa culture dans les deux départements pourrait offrir des opportunités économiques intéressantes, particulièrement pour l'export vers les marchés nord-américains et européens où elle est très demandée."
   },
   "recherche": {
-    "nb_articles": "~500 (estimation)",
     "details": "Avec environ 500 publications indexées sur PubMed, M. officinalis figure parmi les plantes médicinales les mieux étudiées scientifiquement. Les recherches actuelles s'orientent vers l'optimisation des extraits standardisés, l'évaluation des synergies avec d'autres plantes calmantes, et le développement de formulations innovantes. Dans le contexte haïtien, des études sur l'adaptation de la culture aux conditions locales et l'évaluation de la qualité des préparations traditionnelles seraient particulièrement pertinentes pour optimiser son usage thérapeutique.",
+    "nb_articles": "",
     "lien_pubmed": "",
     "lien_scholar": "",
     "lien_tramil": ""
@@ -47,11 +47,11 @@
   "references": "Cases, J. et al. (2011). Pilot trial of Melissa officinalis L. leaf extract in the treatment of volunteers suffering from mild-to-moderate anxiety disorders and sleep disturbances. Mediterranean Journal of Nutrition and Metabolism. PMID: 21396512. Miraj, S. et al. (2017). Melissa officinalis L: A Review Study With an Antioxidant Prospective. Journal of Evidence-Based Complementary & Alternative Medicine. PMID: 28443244. Schnitzler, P. et al. (2008). Melissa officinalis oil affects infectivity of enveloped herpesviruses. Phytomedicine. PMID: 18693101. Shakeri, A. et al. (2016). Melissa officinalis L. - A review of its traditional uses, phytochemistry and pharmacology. Journal of Ethnopharmacology. PMID: 27888213. TRAMIL. Melissa officinalis. www.tramil.net/en/plant/melissa-officinalis World Flora Online. Melissa officinalis L. www.worldfloraonline.org",
   "aRetenir": "🟢 À retenir — Melis : est utilisee en medecine traditionnelle avec un bon profil de securite aux doses courantes. Les usages presentes reposent sur des donnees ethnobotaniques et scientifiques publiees, mais ne constituent pas une prescription. Consulter un professionnel de sante avant tout usage therapeutique. Les auteurs declinent toute responsabilite quant a un usage inapproprie.",
   "images": {
-    "principale": "images/423_Melissa_officinalis-001.jpg",
+    "principale": "/images/423_Melissa_officinalis-001.jpg",
     "galerie": [
-      "images/423_Melissa_officinalis-001.jpg",
-      "images/423_Melissa_officinalis-002.jpg"
+      "/images/423_Melissa_officinalis-001.jpg",
+      "/images/423_Melissa_officinalis-002.jpg"
     ]
   },
-  "source": "plantes_full.json"
+  "source": "CSV corrigé 2026-04-11"
 }

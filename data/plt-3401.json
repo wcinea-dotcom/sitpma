@@ -1,7 +1,7 @@
 {
   "id_plante": "plt-3401",
   "code": "plt-3401",
-  "no_espece": "",
+  "no_espece": "34.1",
   "no_famille": "34",
   "famille": "Crassulacées",
   "description_famille": "Avec ses 1 400 espèces réparties en 35 genres, les Crassulacées constituent une famille remarquable d'herbes succulentes adaptées aux milieux arides et semi-arides. Cette famille tropicale et subtropicale se distingue par ses feuilles charnues capables de stocker l'eau et ses propriétés médicinales exceptionnelles. Parmi les genres alimentaires, Sedum fournit des légumes-feuilles dans certaines régions tempérées, tandis que plusieurs espèces de Crassula sont cultivées comme plantes ornementales. Sur le plan thérapeutique, le genre Kalanchoe domine avec ses puissantes propriétés anti-inflammatoires et cicatrisantes, largement exploitées dans les médecines traditionnelles pantropicales. La signature phytochimique de cette famille repose sur des bufadiénolides cardiotoniques, des flavonoïdes comme la quercétine, l'acide malique et des concentrations élevées de calcium — des composés ciblant préférentiellement les systèmes cardiovasculaire et nerveux. Une vigilance particulière s'impose avec certaines espèces du genre Kalanchoe, dont les bufadiénolides peuvent provoquer des troubles cardiaques graves en cas de surdosage, nécessitant un dosage rigoureux et une préparation appropriée.",
@@ -20,17 +20,17 @@
   },
   "usages": {
     "usages_ethnobotaniques": "Dans le Sud et la Grand'Anse, K. pinnata est documentée comme anti-inflammatoire, cicatrisant, diurétique, antihypertensif traditionnel et antimicrobien. Les feuilles constituent la partie principalement utilisée, préparées sous forme de jus frais obtenu par écrasement des feuilles charnues. Les praticiens traditionnels emploient ce jus pour traiter les calculs rénaux et réduire la tension artérielle. L'usage s'étend également aux applications topiques pour les plaies, les brûlures mineures et les inflammations cutanées. Dans les Caraïbes, TRAMIL documente son usage en Martinique pour les maux de tête, tandis qu'au Brésil elle est surnommée « plante miracle » en raison de ses multiples applications thérapeutiques.",
-    "systemes_concernes": "Nerveux, Cardiovasculaire"
+    "systemes_concernes": "K. pinnata cible principalement les systèmes cardiovasculaire et nerveux. Les applications traditionnelles concernent l'hypertension artérielle, les troubles rénaux (particulièrement les calculs), les inflammations et les problèmes de cicatrisation. Les mécanismes d'action reposent sur plusieurs composés : les polyphénols expliquent une partie de l'activité anti-inflammatoire et cicatrisante par inhibition des médiateurs pro-inflammatoires, tandis que les bufadiénolides agissent comme glycosides cardiotoniques pouvant influencer la contractilité cardiaque et la pression artérielle. Cependant, ces mêmes bufadiénolides présentent un risque de troubles du rythme cardiaque, expliquant la nécessité de précautions strictes (Supratman et al., 2001 — PMID: 11397439)."
   },
   "pharmacologie": {
     "molecules": "Kalanchoe pinnata se caractérise par sa richesse en eau stockée dans ses tissus succulents, associée à des mucilages qui confèrent aux feuilles leur texture douce et farineuse. Cette composition permet à la plante de maintenir son hydratation pendant les périodes sèches tout en offrant un effet apaisant lors d'applications topiques. Les feuilles concentrent également du calcium, du potassium et du magnésium — des minéraux essentiels au métabolisme de stockage hydrique et aux fonctions cellulaires de la plante (Muzitano et al., 2006 — PMID: 16563745). Les principaux composés secondaires identifiés dans K. pinnata comprennent : des bufadiénolides cardiotoniques (bryophylline A, bersaldegenin), des flavonoïdes (quercétine, kaempférol, rutine), des triterpènes, des saponines stéroïdales, des tanins et l'acide malique (Gaind & Gupta, 1971 — doi: 10.1016/S0031-9422(00)97396-8, Supratman et al., 2001 — PMID: 11397439). Ces composés présentent des activités biologiques documentées : propriétés anti-inflammatoires, cicatrisantes et antimicrobiennes pour les flavonoïdes et triterpènes, effets cardiotoniques pour les bufadiénolides. Ces mêmes composés, une fois appliqués ou ingérés par l'humain, produisent les effets biologiques documentés dans les pratiques traditionnelles. Les bufadiénolides agissent comme des glycosides cardiotoniques similaires à la digitaline, expliquant à la fois les effets thérapeutiques cardiovasculaires et les risques de toxicité cardiaque (Supratman et al., 2001). Les polyphénols contribuent aux propriétés anti-inflammatoires et cicatrisantes observées lors d'applications topiques. Cependant, ces observations restent principalement issues d'études in vitro et sur modèles animaux, nécessitant des investigations cliniques plus approfondies.",
     "posologie": "Aucune posologie orale sûre n'est cliniquement établie pour K. pinnata. Les études disponibles recommandent principalement l'usage topique ou l'utilisation en très petites doses dans certaines traditions, mais sans standardisation scientifique rigoureuse. La variabilité de concentration en bufadiénolides selon les conditions de culture et la partie de plante utilisée rend difficile l'établissement d'une posologie sécurisée. Les pratiques traditionnelles documentées localement ne sont pas standardisées et nécessitent une supervision médicale appropriée."
   },
   "nutrition": {
-    "introduction": "Kalanchoe pinnata (syn. Bryophyllum pinnatum) est une herbe succulente exotique largement répandue dans les Départements du Sud et de la Grand'Anse d'Haïti, où elle est connue sous le nom créole de « Fèy lougarou ». Cette espèce appartient à la famille des Crassulacées, reconnue pour ses adaptations remarquables aux milieux secs et ses propriétés médicinales puissantes. Au sein de cette famille, K. pinnata fait partie du genre Kalanchoe, un groupe d'herbes et d'arbustes succulents particulièrement valorisés en médecine traditionnelle pour leurs vertus anti-inflammatoires et cicatrisantes. L'espèce est devenue pantropicale par introduction humaine et constitue l'une des plantes médicinales les plus utilisées dans les Caraïbes, malgré les précautions nécessaires liées à sa toxicité potentielle."
+    "valeur": "K. pinnata présente une valeur économique significative tant au niveau local qu'international. Localement, elle constitue une ressource médicinale accessible et gratuite pour les populations rurales des Départements du Sud et de la Grand'Anse. Internationalement, elle fait l'objet de recherches pharmaceutiques intensives pour le développement de nouveaux médicaments anti-inflammatoires et cardiovasculaires, représentant un potentiel économique considérable pour l'industrie des substances naturelles."
   },
   "toxicologie": {
-    "niveau": "",
+    "niveau": "🟢 Non toxique aux doses usuelles",
     "details": "K. pinnata présente une toxicité conditionnelle nécessitant une prudence majeure en usage interne. Les bufadiénolides peuvent provoquer des troubles cardiaques graves : arythmies, bradycardie, arrêt cardiaque en cas de surdosage. L'espèce est particulièrement contre-indiquée chez les sujets cardiaques, les femmes enceintes, les enfants et pendant l'allaitement. Elle présente également une toxicité documentée pour les animaux domestiques. L'usage externe reste généralement bien toléré, mais l'ingestion même de petites quantités nécessite une surveillance médicale stricte."
   },
   "conservation": {
@@ -38,8 +38,8 @@
     "valeur": "K. pinnata présente une valeur économique significative tant au niveau local qu'international. Localement, elle constitue une ressource médicinale accessible et gratuite pour les populations rurales des Départements du Sud et de la Grand'Anse. Internationalement, elle fait l'objet de recherches pharmaceutiques intensives pour le développement de nouveaux médicaments anti-inflammatoires et cardiovasculaires, représentant un potentiel économique considérable pour l'industrie des substances naturelles."
   },
   "recherche": {
-    "nb_articles": "",
     "details": "Les recherches actuelles sur K. pinnata se concentrent sur l'isolement et la caractérisation de ses bufadiénolides, l'optimisation de leur extraction et l'évaluation de leur sécurité d'emploi. Des études cliniques contrôlées sont nécessaires pour valider scientifiquement ses usages traditionnels tout en établissant des protocoles de dosage sécurisés. Le développement de formes galéniques standardisées pourrait permettre une utilisation thérapeutique plus sûre de cette espèce prometteuse.",
+    "nb_articles": "",
     "lien_pubmed": "",
     "lien_scholar": "",
     "lien_tramil": ""
@@ -47,12 +47,12 @@
   "references": "Gaind, K.N. & Gupta, R.L. (1971). Flavonoid glycosides from Kalanchoe pinnata. Phytochemistry. doi: 10.1016/S0031-9422(00)97396-8. Muzitano, M.F. et al. (2006). The antiviral activity of phenolic compounds from Kalanchoe pinnata. Natural Product Communications. PMID: 16563745. Supratman, U. et al. (2001). Anti-tumor promoting activity of bufadienolides from Kalanchoe pinnata. Bioscience, Biotechnology, and Biochemistry. PMID: 11397439. TRAMIL. Kalanchoe pinnata. www.tramil.net. POWO. Plants of the World Online. Kew Science.",
   "aRetenir": "🟡 À retenir — Fèy lougarou : est une plante a toxicite conditionnelle documentee. Respecter imperativement les precautions indiquees. Ne jamais ingerer les parties toxiques sans encadrement medical. Ces informations sont destinees a l'enseignement et a la documentation. Les auteurs declinent toute responsabilite quant a un usage inapproprie.",
   "images": {
-    "principale": "images/341_Kalanchoe_pinnata-001.jpg",
+    "principale": "/images/341_Kalanchoe_pinnata-001.jpg",
     "galerie": [
-      "images/341_Kalanchoe_pinnata-001.jpg",
-      "images/341_Kalanchoe_pinnata-002.jpg",
-      "images/341_Kalanchoe_pinnata-003.jpg"
+      "/images/341_Kalanchoe_pinnata-001.jpg",
+      "/images/341_Kalanchoe_pinnata-002.jpg",
+      "/images/341_Kalanchoe_pinnata-003.jpg"
     ]
   },
-  "source": "plantes_full.json"
+  "source": "CSV corrigé 2026-04-11"
 }

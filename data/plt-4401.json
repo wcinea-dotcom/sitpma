@@ -1,7 +1,7 @@
 {
   "id_plante": "plt-4401",
   "code": "plt-4401",
-  "no_espece": "",
+  "no_espece": "44.1",
   "no_famille": "44",
   "famille": "Loganiacées",
   "description_famille": "Réunissant environ 15 genres et 200 espèces principalement tropicales, les Loganiacées constituent une famille de plantes herbacées et ligneuses aux propriétés pharmacologiques remarquables. Cette famille se distingue par sa richesse en alcaloïdes indoliques puissants — notamment la spigéline, la strychnine et la brucine — qui confèrent à plusieurs de ses représentants des activités thérapeutiques ciblées mais également une toxicité significative. Les genres Spigelia et Strychnos dominent les usages médicinaux traditionnels, le premier étant reconnu pour ses propriétés anthelminthiques dans les Caraïbes et l'Amérique tropicale, tandis que le second produit des alcaloïdes d'une puissance exceptionnelle utilisés en pharmacologie moderne. Sur le plan phytochimique, la famille présente une signature caractérisée par des alcaloïdes indoliques, des iridoïdes et des flavonoïdes, ciblant préférentiellement les systèmes nerveux et parasitaire. Cette combinaison moléculaire exige une vigilance absolue : la marge thérapeutique est particulièrement étroite, et les surdosages peuvent provoquer convulsions, troubles cardiaques et intoxications graves.",
@@ -20,17 +20,17 @@
   },
   "usages": {
     "usages_ethnobotaniques": "Dans les Départements du Sud et de la Grand'Anse, S. anthelmia est documentée comme anthelminthique traditionnel sous le nom créole « Zèb vè ». Les praticiens traditionnels utilisent principalement les feuilles en décoction, préparant une infusion appelée « Brak » destinée à chasser les vers intestinaux. Les racines, bien que plus puissantes, sont généralement évitées en raison de leur toxicité élevée. Le mode de préparation traditionnel consiste à faire bouillir les feuilles dans l'eau pendant plusieurs minutes, puis à laisser refroidir avant consommation. Cette pratique s'inscrit dans un usage plus large documenté à travers les Caraïbes, où l'espèce est reconnue comme vermifuge par TRAMIL, réseau de recherche sur la pharmacopée caribéenne.",
-    "systemes_concernes": "Nerveux"
+    "systemes_concernes": "Spigelia anthelmia cible principalement le système parasitaire, avec une activité documentée contre les helminthes intestinaux, et secondairement le système cardiaque en raison de la cardiotoxicité de ses alcaloïdes. L'usage traditionnel concerne spécifiquement le traitement des parasitoses intestinales et, occasionnellement, des diarrhées infectieuses. Les mécanismes d'action reposent sur la spigéline et les alcaloïdes apparentés, qui paralysent le système nerveux des parasites en bloquant les canaux ioniques voltage-dépendants, provoquant ainsi leur détachement de la paroi intestinale et leur expulsion (Singh & Mann, 2003). Cependant, ces mêmes alcaloïdes peuvent affecter le système nerveux central humain à dose élevée, provoquant nausées, vertiges et troubles du rythme cardiaque."
   },
   "pharmacologie": {
     "molecules": "Spigelia anthelmia se caractérise par sa production d'alcaloïdes indoliques hautement spécialisés, au premier rang desquels figure la spigéline, molécule responsable à la fois de l'activité anthelminthique recherchée et de la toxicité redoutable de la plante. Cette spigéline, concentrée principalement dans les racines, agit comme un puissant paralysant du système nerveux des parasites intestinaux, provoquant leur expulsion. La plante synthétise également des tanins astringents qui contribuent à son action antimicrobienne et des glucides de réserve sous forme de cellulose et d'amidon dans ses tissus racinaires. Les principaux composés secondaires identifiés dans S. anthelmia comprennent : la spigéline et d'autres alcaloïdes indoliques (responsables de l'activité antiparasitaire et de la toxicité neurologique), des saponines triterpéniques (contribuant à l'activité antimicrobienne), des tanins (astringents et antimicrobiens), des flavonoïdes (antioxydants et anti-inflammatoires), et des terpénoïdes volatils (Meckes et al., 2004 — PMID: 15567242, Singh & Mann, 2003). Ces molécules remplissent des fonctions de défense cruciales pour la plante. La spigéline et les alcaloïdes apparentés protègent efficacement contre l'herbivorie en rendant les tissus toxiques pour les mammifères et les insectes phytophages. Les saponines créent une barrière chimique contre les pathogènes fongiques du sol. Ces mêmes composés, une fois ingérés par l'humain, produisent les effets biologiques documentés : paralysie du système nerveux des helminthes à faible dose, mais intoxication du système nerveux central humain en cas de surdosage, avec risques de convulsions et troubles cardiaques graves.",
     "posologie": "Aucune posologie cliniquement validée n'est disponible pour Spigelia anthelmia en usage interne. Les pharmacopées anciennes mentionnent des décoctions racinaires de très faible dose (2-5 g par jour de drogue sèche), mais ces préparations ne sont plus recommandées en phytothérapie moderne en raison du risque de surdosage fatal. Les praticiens traditionnels utilisent les feuilles en décoction légère, mais sans standardisation posologique, ce qui maintient un risque toxicologique significatif même avec cette partie moins concentrée en alcaloïdes."
   },
   "nutrition": {
-    "introduction": "Spigelia anthelmia L. (syn. Anthelmenthia quadraphyllia) est une herbe native très rare, documentée dans les Départements du Sud et de la Grand'Anse. Elle appartient à la famille des Loganiacées, une famille tropicale reconnue pour ses alcaloïdes puissants et ses propriétés médicinales ciblées. Au sein de cette famille, elle fait partie du genre Spigelia, qui regroupe une trentaine d'espèces d'herbes et d'arbustes des régions chaudes des Amériques, toutes caractérisées par leur richesse en alcaloïdes indoliques — notamment la spigéline — et leurs usages anthelminthiques traditionnels. Dans les Départements étudiés, S. anthelmia constitue un remède traditionnel antiparasitaire, bien que son statut de plante très rare et sa toxicité significative limitent considérablement son usage contemporain."
+    "valeur": "Bien que S. anthelmia possède une valeur médicinale reconnue localement, sa forte toxicité et sa rareté limitent considérablement son potentiel économique direct. À l'échelle internationale, elle conserve un intérêt en homéopathie, où elle est utilisée sous forme de dilutions extrêmes, et en recherche pharmacologique pour l'étude de ses alcaloïdes. Sa valeur patrimoniale en tant qu'espèce native rare dépasse largement sa valeur marchande."
   },
   "toxicologie": {
-    "niveau": "toxic",
+    "niveau": "🔴 Toxique",
     "details": "Spigelia anthelmia présente une forte toxicité, particulièrement au niveau des racines, avec un risque élevé de surdosage accidentel. Les symptômes d'intoxication comprennent convulsions, vomissements, arythmies cardiaques et troubles neurologiques graves pouvant conduire au coma. La marge thérapeutique est extrêmement étroite, rendant l'usage interne fortement déconseillé sans encadrement médical strict. La plante est formellement contre-indiquée chez la femme enceinte, l'enfant et les personnes présentant des troubles cardiovasculaires. Même l'usage des feuilles, réputées moins toxiques, nécessite une prudence absolue."
   },
   "conservation": {
@@ -38,8 +38,8 @@
     "valeur": "Bien que S. anthelmia possède une valeur médicinale reconnue localement, sa forte toxicité et sa rareté limitent considérablement son potentiel économique direct. À l'échelle internationale, elle conserve un intérêt en homéopathie, où elle est utilisée sous forme de dilutions extrêmes, et en recherche pharmacologique pour l'étude de ses alcaloïdes. Sa valeur patrimoniale en tant qu'espèce native rare dépasse largement sa valeur marchande."
   },
   "recherche": {
-    "nb_articles": "",
     "details": "Les recherches sur Spigelia anthelmia portent principalement sur la caractérisation de ses alcaloïdes et l'évaluation de leur potentiel thérapeutique dans un cadre sécurisé. Des études récentes explorent la possibilité d'isoler et de purifier la spigéline pour des applications pharmaceutiques contrôlées, évitant ainsi les risques du totum végétal. Les perspectives incluent également des recherches sur la conservation ex situ et la propagation contrôlée de l'espèce pour préserver cette ressource génétique unique.",
+    "nb_articles": "",
     "lien_pubmed": "",
     "lien_scholar": "",
     "lien_tramil": "https://www.tramil.net/en/plant/spigelia-anthelmia"
@@ -47,10 +47,10 @@
   "references": "Meckes M et al. (2004). Phytochemical and pharmacological studies on Spigelia anthelmia. J Ethnopharmacol. PMID: 15567242. Singh B, Mann BK (2003). An illustrated study of anthelmintic plants. Phytother Res 17: 821-826. POWO (2024). Plants of the World Online. Kew Science. https://powo.science.kew.org/ TRAMIL (2024). Spigelia anthelmia. https://www.tramil.net/en/plant/spigelia-anthelmia",
   "aRetenir": "🟠 À retenir — Zèb vè : est une plante a toxicite documentee. Tout usage interne non encadre est formellement deconseille. En cas d'ingestion accidentelle, consulter immediatement un service d'urgence. Ces informations sont destinees a l'enseignement et a la recherche uniquement. Les auteurs declinent toute responsabilite quant a un usage inapproprie.",
   "images": {
-    "principale": "images/441_Spigelia_anthelmia-001.jpg",
+    "principale": "/images/441_Spigelia_anthelmia-001.jpg",
     "galerie": [
-      "images/441_Spigelia_anthelmia-001.jpg"
+      "/images/441_Spigelia_anthelmia-001.jpg"
     ]
   },
-  "source": "plantes_full.json"
+  "source": "CSV corrigé 2026-04-11"
 }

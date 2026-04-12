@@ -1,7 +1,7 @@
 {
   "id_plante": "plt-0801",
   "code": "plt-0801",
-  "no_espece": "",
+  "no_espece": "8.1",
   "no_famille": "8",
   "famille": "Apiacées",
   "description_famille": "Dominant les écosystèmes tempérés et méditerranéens avec plus de 3 700 espèces réparties en 434 genres, les Apiacées constituent l'une des familles les plus reconnaissables du règne végétal grâce à leurs inflorescences caractéristiques en ombelles. Cette vaste famille rassemble principalement des herbes annuelles et vivaces, incluant de nombreuses espèces d'importance culinaire majeure comme le persil (Petroselinum crispum), la carotte (Daucus carota), le fenouil (Foeniculum vulgare) et la coriandre (Coriandrum sativum). Sur le plan médicinal, elle offre des genres thérapeutiques de premier plan : Centella pour la cicatrisation et la circulation, Daucus pour les affections urinaires, et Foeniculum pour les troubles digestifs. Les Apiacées se distinguent par une richesse phytochimique exceptionnelle dominée par les huiles essentielles terpéniques, les flavonoïdes (particulièrement l'apigénine), les coumarines et les polyacétylènes, ciblant préférentiellement les systèmes urinaire, digestif et tégumentaire. Cependant, cette famille exige une vigilance absolue : certains genres comme Conium et Cicuta renferment des alcaloïdes mortels, rendant l'identification botanique rigoureuse indispensable avant tout usage.",
@@ -20,17 +20,17 @@
   },
   "usages": {
     "usages_ethnobotaniques": "Dans les Départements du Sud et de la Grand'Anse, le céleri est documenté principalement comme plante aromatique et médicinale. Les feuilles fraîches constituent la partie la plus utilisée, intégrées comme épice dans la cuisine locale pour parfumer les bouillons, les sauces et les plats de légumes. L'usage médicinal traditionnel privilégie la préparation en infusion : les feuilles séchées ou fraîches sont infusées pour obtenir une tisane amère consommée principalement pour « faire baisser la tension artérielle ». Les graines, moins fréquemment disponibles, sont parfois utilisées en décoction pour leurs propriétés diurétiques. Les racines, bien que mentionnées dans les pratiques traditionnelles pour les « troubles de reins », demeurent d'usage marginal. Le mode de préparation le plus courant reste l'infusion simple, parfois associée à d'autres plantes hypotensives locales.",
-    "systemes_concernes": "Digestif, Urinaire, Cardiovasculaire"
+    "systemes_concernes": "Les usages traditionnels du céleri dans le Sud et la Grand'Anse ciblent préférentiellement le système cardiovasculaire et le système urinaire. L'indication principale documentée concerne l'hypertension artérielle, pour laquelle la plante est réputée exercer un effet hypotenseur doux. Les mécanismes d'action proposés incluent la vasodilatation induite par le 3-n-butylphtalide et l'effet diurétique des flavonoïdes et des saponines, favorisant l'élimination sodique. Des études préliminaires suggèrent également des propriétés anti-inflammatoires et antioxydantes, particulièrement attribuées à l'apigénine (Kooti & Daraei, 2017). Les « troubles digestifs » mentionnés dans les usages locaux pourraient s'expliquer par l'activité spasmolytique des huiles essentielles sur la musculature lisse intestinale. Concernant la « prévention traditionnelle des calculs urinaires », l'effet diurétique et la richesse en potassium pourraient contribuer à une meilleure élimination des déchets métaboliques, bien que ces mécanismes restent à valider cliniquement."
   },
   "pharmacologie": {
     "molecules": "Ce qui caractérise Le céleri, c'est une composition nutritionnelle remarquable, dominée par une teneur exceptionnellement élevée en potassium (jusqu'à 260 mg/100g de matière fraîche) et en nitrates naturels, responsables de sa saveur salée caractéristique et de ses effets cardiovasculaires. Ces nitrates, une fois ingérés, se transforment en oxyde nitrique dans l'organisme, induisant une vasodilatation et contribuant à l'effet hypotenseur traditionnel observé. La plante accumule également des quantités significatives de sodium, calcium, magnésium et fer, ainsi que de la vitamine K et des fibres alimentaires (Kooti & Daraei, 2017 — PMID: 28539716). Les principaux composés secondaires identifiés dans A. graveolens comprennent : des phtalides aromatiques (notamment le 3-n-butylphtalide, responsable de l'odeur caractéristique), des flavonoïdes (apigénine, lutéoline, apiine), des coumarines (bergaptène, xanthotoxine), des saponines triterpéniques et des huiles essentielles riches en limonène et en sélinène (Powanda & Rainsford, 2011 — PMID: 21675315). Le 3-n-butylphtalide, composé signature de l'espèce, se concentre particulièrement dans les graines et constitue le marqueur chimique principal du céleri. Ces molécules remplissent des fonctions de défense essentielles pour la plante. Les phtalides et les huiles essentielles protègent contre les pathogènes fongiques et bactériens, particulièrement importants dans les environnements humides où croît naturellement l'espèce. Les coumarines offrent une protection contre les herbivores et certains insectes ravageurs. Ces mêmes composés, une fois ingérés par l'humain, produisent les effets biologiques documentés : vasodilatation par le 3-n-butylphtalide, activité diurétique par les flavonoïdes et les saponines, et effets anti-inflammatoires par l'apigénine. Il convient de noter que ces observations reposent principalement sur des études in vitro et sur modèles animaux, les essais cliniques humains demeurant limités.",
     "posologie": "Les posologies traditionnelles pratiquées dans les Départements du Sud et de la Grand'Anse reposent sur des préparations empiriques non standardisées. L'infusion de feuilles se prépare généralement avec 2 à 5 g de matière végétale par tasse d'eau bouillante, consommée 1 à 2 fois par jour. Cependant, aucune posologie cliniquement validée n'est disponible dans la littérature scientifique pour A. graveolens en usage thérapeutique. Les quelques études cliniques publiées utilisent des extraits standardisés avec des dosages variant considérablement selon la préparation et l'indication (Kooti & Daraei, 2017), rendant impossible l'établissement d'une posologie thérapeutique fiable pour les préparations traditionnelles."
   },
   "nutrition": {
-    "introduction": "Apium graveolens L. (syn. Apium vulgare) est une herbe bisannuelle exotique, cultivée de manière sporadique dans les Départements du Sud et de la Grand'Anse où elle demeure rare. Cette espèce appartient à la famille des Apiacées, une vaste famille principalement herbacée reconnue pour ses riches applications culinaires et thérapeutiques. Au sein de cette famille, elle fait partie du genre Apium, un petit groupe d'herbes aromatiques des zones humides, caractérisées par leurs propriétés diurétiques et leur saveur salée distinctive. Le céleri constitue à la fois une épice aromatique appréciée dans la cuisine haïtienne et un remède traditionnel utilisé principalement pour ses effets hypotenseurs et diurétiques dans les deux départements."
+    "valeur": "La valeur économique locale du céleri reste limitée par sa production sporadique. Sur le plan international, l'espèce représente un marché significatif tant alimentaire que nutraceutique, avec un intérêt croissant pour ses extraits standardisés en 3-n-butylphtalide dans l'industrie des compléments alimentaires cardiovasculaires."
   },
   "toxicologie": {
-    "niveau": "",
+    "niveau": "🟢 Non toxique aux doses usuelles",
     "details": "Apium graveolens présente un profil de sécurité favorable aux dosages alimentaires traditionnels. Les principales précautions concernent les femmes enceintes, certaines sources évoquant un possible effet utérotonique nécessitant la prudence durant la grossesse. Le surdosage peut induire une hypotension excessive, particulièrement chez les personnes déjà sous traitement antihypertenseur. Des réactions allergiques cutanées ou respiratoires demeurent possibles chez les sujets sensibles aux Apiacées. La présence de coumarines naturelles peut occasionner des phénomènes de photosensibilisation chez certains individus exposés au soleil après consommation importante. L'interaction avec les anticoagulants reste théoriquement possible en raison de la teneur en vitamine K des feuilles."
   },
   "conservation": {
@@ -38,8 +38,8 @@
     "valeur": "La valeur économique locale du céleri reste limitée par sa production sporadique. Sur le plan international, l'espèce représente un marché significatif tant alimentaire que nutraceutique, avec un intérêt croissant pour ses extraits standardisés en 3-n-butylphtalide dans l'industrie des compléments alimentaires cardiovasculaires."
   },
   "recherche": {
-    "nb_articles": "",
     "details": "Les recherches actuelles sur A. graveolens se concentrent sur l'optimisation de l'extraction du 3-n-butylphtalide et l'évaluation de son potentiel thérapeutique cardiovasculaire. Des études cliniques contrôlées seraient nécessaires pour valider scientifiquement les usages traditionnels haïtiens, particulièrement concernant l'effet hypotenseur. La caractérisation phytochimique des populations haïtiennes pourrait révéler des spécificités compositionnelles liées aux conditions de culture en altitude tropicale.",
+    "nb_articles": "",
     "lien_pubmed": "",
     "lien_scholar": "",
     "lien_tramil": ""
@@ -47,10 +47,10 @@
   "references": "Kooti, W. & Daraei, N. (2017). A Review of the Antioxidant Activity of Celery (Apium graveolens L). Journal of Evidence-Based Complementary & Alternative Medicine, 22(4), 1029-1034. PMID: 28539716. Powanda, M.C. & Rainsford, K.D. (2011). A toxicological investigation of a celery seed extract having anti-inflammatory activity. Inflammopharmacology, 19(4), 227-233. PMID: 21675315. POWO (2024). Plants of the World Online. Facilitated by the Royal Botanic Gardens, Kew. http://www.plantsoftheworldonline.org/",
   "aRetenir": "🟢 À retenir — Seleri : est utilisee en medecine traditionnelle avec un bon profil de securite aux doses courantes. Les usages presentes reposent sur des donnees ethnobotaniques et scientifiques publiees, mais ne constituent pas une prescription. Consulter un professionnel de sante avant tout usage therapeutique. Les auteurs declinent toute responsabilite quant a un usage inapproprie.",
   "images": {
-    "principale": "images/81_Apium_graveolens-001.jpg",
+    "principale": "/images/81_Apium_graveolens-001.jpg",
     "galerie": [
-      "images/81_Apium_graveolens-001.jpg"
+      "/images/81_Apium_graveolens-001.jpg"
     ]
   },
-  "source": "plantes_full.json"
+  "source": "CSV corrigé 2026-04-11"
 }

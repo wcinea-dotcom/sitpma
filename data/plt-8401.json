@@ -1,7 +1,7 @@
 {
   "id_plante": "plt-8401",
   "code": "plt-8401",
-  "no_espece": "",
+  "no_espece": "84.1",
   "no_famille": "84",
   "famille": "Simaroubacées",
   "description_famille": "Dominant les écosystèmes forestiers tropicaux, les Simaroubacées rassemblent environ 170 espèces réparties en 32 genres, principalement sous forme d'arbustes et d'arbres à croissance lente. Cette famille se distingue par une signature chimique remarquable dominée par les quassinoïdes — des composés triterpénoïdes au goût intensément amer — accompagnés de limonoïdes, de triterpènes et d'anthraquinones. En Haïti, les genres Picramnia et Quassia constituent les représentants médicinaux les plus utilisés, particulièrement pour leurs propriétés fébrifuges et digestives. Sur le plan thérapeutique, cette famille cible préférentiellement les systèmes immunitaire et digestif, avec des applications traditionnelles contre la fièvre, le paludisme et les troubles gastro-intestinaux. L'amertume caractéristique de ces plantes, due aux quassinoïdes, stimule naturellement la sécrétion digestive tout en conférant des propriétés antimicrobiennes. Une vigilance particulière s'impose car certaines espèces — notamment du genre Simarouba — renferment des principes actifs très concentrés nécessitant un dosage strict et une préparation contrôlée.",
@@ -20,17 +20,17 @@
   },
   "usages": {
     "usages_ethnobotaniques": "Dans la tradition médicale haïtienne, P. pentandra occupe une place centrale comme remède fébrifuge. La préparation la plus répandue consiste en une décoction amère appelée « Bwa moudong », préparée à partir des feuilles, de l'écorce ou des racines. Cette décoction se consomme chaude lors d'épisodes fébriles, particulièrement dans les cas de paludisme suspecté. Les usages documentés dans les Départements du Sud et de la Grand'Anse incluent également des applications comme antimicrobien, antioxydant, anti-inflammatoire, digestif et diurétique selon la tradition locale. Les données TRAMIL confirment l'usage fébrifuge en Haïti, tandis que l'usage antipaludéen est documenté dans d'autres régions des Caraïbes.",
-    "systemes_concernes": "Immunitaire"
+    "systemes_concernes": "P. pentandra cible principalement le système immunitaire dans sa fonction de réponse fébrile et inflammatoire. Les mécanismes d'action proposés reposent sur les propriétés combinées de ses métabolites secondaires : les tanins et flavonoïdes agissent comme antioxydants et antibactériens, contribuant à réduire l'inflammation , les triterpènes et saponines présentent des propriétés anti-inflammatoires et diurétiques documentées , l'amertume intense stimule les sécrétions digestives et peut favoriser l'appétit lors de convalescence. Ces mécanismes expliqueraient l'efficacité traditionnelle contre la fièvre et les états inflammatoires, bien que des études cliniques spécifiques soient nécessaires pour valider ces hypothèses."
   },
   "pharmacologie": {
     "molecules": "L'amertume caractéristique de P. pentandra résulte de la présence de quassinoïdes, des triterpénoïdes hautement amers qui constituent la signature chimique défensive de cette espèce. Ces composés, accompagnés d'anthraquinones responsables de la coloration rougeâtre de certains tissus, forment un système de défense chimique particulièrement efficace contre les herbivores et les pathogènes. La plante accumule également des tanins condensés qui contribuent à l'astringence et renforcent la protection contre l'oxydation, ainsi que des minéraux essentiels comme le potassium, le magnésium et le calcium qui soutiennent ses fonctions physiologiques de base. Les principaux composés secondaires identifiés dans P. pentandra comprennent : des quassinoïdes (notamment des dérivés de la simaroubine), des triterpènes pentacycliques, des anthraquinones, des flavonoïdes (quercétine, kaempférol), des saponines triterpénoïdes, des tanins condensés et des alcaloïdes en faible concentration. Ces composés ont été caractérisés dans plusieurs études phytochimiques portant sur le genre Picramnia, bien que les données spécifiques à P. pentandra restent limitées (Williams et al., 1987 — Phytochemistry). Ces molécules remplissent des fonctions de défense précises pour la plante. Les quassinoïdes protègent efficacement contre la prédation grâce à leur goût répulsif intense, tandis que les anthraquinones et les tanins confèrent une résistance aux infections fongiques et bactériennes. Les saponines contribuent à la défense contre les insectes foreurs. Ces mêmes composés, une fois ingérés par l'humain, produisent les effets biologiques documentés : stimulation de la sécrétion gastrique par l'amertume, activité anti-inflammatoire des triterpènes et propriétés antioxydantes des flavonoïdes, expliquant l'efficacité traditionnelle contre la fièvre.",
     "posologie": "La posologie traditionnelle documentée dans les Départements du Sud et de la Grand'Anse consiste en une infusion de feuilles à raison de 5 g par litre d'eau, consommée 1 à 2 fois par jour selon la tradition locale. Cependant, aucune posologie cliniquement validée n'est disponible pour P. pentandra dans la littérature scientifique indexée. Les pratiques traditionnelles ne sont pas standardisées et peuvent varier selon les praticiens et les régions."
   },
   "nutrition": {
-    "introduction": "Picramnia pentandra Sw. (syn. Tariri pentandra) est un arbuste natif des Caraïbes, commun dans les Départements du Sud et de la Grand'Anse d'Haïti. Il appartient à la famille des Simaroubacées, une famille tropicale d'arbres et d'arbustes reconnue pour ses puissants composés amers et ses usages médicinaux ancestraux. Au sein de cette famille, le genre Picramnia regroupe une quinzaine d'espèces américaines caractérisées par leur saveur intensément amère et leurs propriétés fébrifuges. Dans la pharmacopée traditionnelle haïtienne, P. pentandra est l'une des plantes les plus respectées pour combattre la fièvre, d'où son usage répandu sous le nom de « Bwa moudong » — une décoction amère consommée lors d'épisodes fébriles."
+    "valeur": "La valeur économique de P. pentandra reste principalement locale et médicinale. Elle ne fait l'objet d'aucun commerce international significatif, contrairement à d'autres Simaroubacées comme Quassia amara. Son importance économique se limite aux revenus générés par la récolte et la vente locale de matériel végétal séché pour les préparations traditionnelles."
   },
   "toxicologie": {
-    "niveau": "",
+    "niveau": "🟡 Précautions requises",
     "details": "La toxicité de P. pentandra n'est pas documentée dans la littérature scientifique, d'où le statut « non documenté ». Cependant, l'usage traditionnel suggère des précautions : les excès peuvent provoquer diarrhée, hypotension et irritation gastrique en raison de la forte concentration en composés amers et en saponines. Une prudence particulière est recommandée pendant la grossesse et en cas d'insuffisance rénale, en l'absence de données toxicologiques détaillées. L'amertume intense constitue naturellement un garde-fou contre les surdosages accidentels."
   },
   "conservation": {
@@ -38,8 +38,8 @@
     "valeur": "La valeur économique de P. pentandra reste principalement locale et médicinale. Elle ne fait l'objet d'aucun commerce international significatif, contrairement à d'autres Simaroubacées comme Quassia amara. Son importance économique se limite aux revenus générés par la récolte et la vente locale de matériel végétal séché pour les préparations traditionnelles."
   },
   "recherche": {
-    "nb_articles": "",
     "details": "Les publications scientifiques spécifiques à P. pentandra demeurent limitées, avec environ une vingtaine d'articles référencés. Les recherches futures devraient se concentrer sur l'isolation et la caractérisation des quassinoïdes spécifiques, l'évaluation de l'activité antipaludéenne suggérée par l'usage traditionnel, et la standardisation des extraits pour un développement pharmaceutique potentiel. Des études de toxicologie aiguë et chronique sont également nécessaires pour sécuriser l'usage traditionnel.",
+    "nb_articles": "",
     "lien_pubmed": "",
     "lien_scholar": "",
     "lien_tramil": "https://www.tramil.net/en/plant/picramnia-pentandra"
@@ -47,11 +47,11 @@
   "references": "Williams, L.A.D. et al. (1987). Phytochemical analysis of Picramnia species. Phytochemistry, 26(8), 2207-2210. TRAMIL. (2024). Picramnia pentandra. Disponible sur : https://www.tramil.net/en/plant/picramnia-pentandra POWO. (2024). Picramnia pentandra Sw. Plants of the World Online, Kew Science. Royal Botanic Gardens, Kew.",
   "aRetenir": "🟡 À retenir — Ti gason : est une plante a toxicite conditionnelle documentee. Respecter imperativement les precautions indiquees. Ne jamais ingerer les parties toxiques sans encadrement medical. Ces informations sont destinees a l'enseignement et a la documentation. Les auteurs declinent toute responsabilite quant a un usage inapproprie.",
   "images": {
-    "principale": "images/831_Picramnia_pentandra-001.jpg",
+    "principale": "/images/831_Picramnia_pentandra-001.jpg",
     "galerie": [
-      "images/831_Picramnia_pentandra-001.jpg",
-      "images/831_Picramnia_pentandra-002.jpg"
+      "/images/831_Picramnia_pentandra-001.jpg",
+      "/images/831_Picramnia_pentandra-002.jpg"
     ]
   },
-  "source": "plantes_full.json"
+  "source": "CSV corrigé 2026-04-11"
 }

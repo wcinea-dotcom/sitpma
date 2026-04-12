@@ -1,7 +1,7 @@
 {
   "id_plante": "plt-3003",
   "code": "plt-3003",
-  "no_espece": "",
+  "no_espece": "30.3",
   "no_famille": "30",
   "famille": "Clusiacées",
   "description_famille": "",
@@ -20,17 +20,17 @@
   },
   "usages": {
     "usages_ethnobotaniques": "L'espèce est documentée dans le Sud et la Grand'Anse principalement pour ses usages médicinaux, bien que sa rareté limite considérablement son utilisation traditionnelle. Les parties employées comprennent l'écorce, les fruits et les feuilles, préparées principalement en décoction. L'écorce constitue la partie la plus utilisée en médecine traditionnelle, préparée en décoction pour ses propriétés digestives et antimicrobiennes présumées. Les fruits, malgré leur saveur grasse distinctive, sont occasionnellement consommés frais ou transformés, bien que leur usage alimentaire reste marginal en raison de la rareté de l'espèce. Les feuilles sont parfois intégrées aux préparations médicinales, généralement associées à d'autres plantes dans des mélanges complexes. L'usage traditionnel privilégie les préparations aqueuses (décoctions, infusions) plutôt que les applications externes.",
-    "systemes_concernes": "Digestif"
+    "systemes_concernes": "Les usages ethnobotaniques documentés dans la région concernent principalement le système digestif, avec un usage traditionnel contre la diarrhée. Par analogie avec d'autres espèces du genre Garcinia, G. barkeriana pourrait présenter des propriétés antioxydantes via ses xanthones et flavonoïdes, ainsi que des effets anti-inflammatoires et hypotenseurs potentiels, mais ces mécanismes n'ont pas été étudiés spécifiquement pour cette espèce endémique. Les tanins de l'écorce pourraient expliquer l'usage traditionnel contre la diarrhée par leur effet astringent sur les muqueuses intestinales. Les xanthones présentes par analogie avec le genre pourraient contribuer aux effets antimicrobiens observés empiriquement. Cependant, les mécanismes d'action précis restent hypothétiques et nécessitent confirmation par des études pharmacologiques spécifiques à G. barkeriana."
   },
   "pharmacologie": {
-    "molecules": "Ce qui distingue G. barkeriana des autres Garcinia est la composition particulière de ses fruits, qui présentent une saveur grasse rappelant l'amande plutôt que l'acidité habituelle du genre. Cette caractéristique unique suggère une teneur élevée en lipides spécialisés, probablement des acides gras à chaîne moyenne, ainsi qu'une concentration réduite en acides organiques comme l'acide citrique — composé dominant chez la plupart des Garcinia. Les fruits contiennent également des glucides complexes, des fibres et potentiellement de la vitamine C, bien qu'en quantités moindres que chez les espèces acides du genre. Les principaux composés secondaires identifiés dans G. barkeriana, par analogie avec le genre Garcinia, comprennent : des xanthones (α-mangostine, β-mangostine, garcinone), des benzophénones, des flavonoïdes (quercétine, catéchine), des tanins condensés, des saponines triterpéniques et des acides phénoliques. Le profil phytochimique spécifique de cette espèce endémique reste cependant peu documenté, nécessitant des études approfondies. Ces molécules remplissent des fonctions de défense essentielles pour l'arbre. Les xanthones et benzophénones du latex protègent efficacement contre les pathogènes fongiques et bactériens. Des études sur Garcinia mangostana ont montré que l'α-mangostine présente une remarquable activité antimicrobienne contre Staphylococcus aureus résistant à la méthicilline (PMID: 19735935). Les tanins de l'écorce offrent une protection contre les herbivores par leur astringence. Ces mêmes composés, une fois ingérés par l'humain, produisent les effets biologiques documentés en médecine traditionnelle : activité antioxydante, antimicrobienne et potentiellement anti-inflammatoire, bien que les observations restent principalement issues d'études sur d'autres espèces du genre.",
+    "molecules": "Aucune étude phytochimique publiée spécifiquement pour Garcinia barkeriana. Le genre Garcinia contient des espèces pour lesquelles des métabolites secondaires ont été documentés, mais aucune donnée ne peut être extrapolée sans étude directe. Recherche phytochimique prioritaire recommandée.",
     "posologie": "Aucune posologie cliniquement validée n'est disponible pour G. barkeriana. Les publications scientifiques spécifiques à cette espèce sont rares, et aucune étude clinique contrôlée n'a établi de dosages standardisés. Les pratiques traditionnelles documentées localement utilisent des infusions et décoctions empiriques d'écorce, mais ces préparations ne sont pas standardisées en termes de concentration ou de fréquence d'administration. Cette absence de données posologiques constitue un obstacle majeur à l'utilisation thérapeutique sécurisée de l'espèce."
   },
   "nutrition": {
-    "introduction": "Garcinia barkeriana (syn. Rheedia barkeriana) est un arbre endémique d'Haïti, confiné au Massif de la Hotte dans le département de la Grand'Anse. Il appartient à la famille des Clusiacées, une famille d'arbres et d'arbustes tropicaux reconnue pour ses riches usages alimentaires et médicinaux. Au sein de cette famille, il fait partie du genre Garcinia, un groupe d'arbres fruitiers tropicaux comprenant le mangoustan (Garcinia mangostana) et plusieurs autres espèces productrices de fruits comestibles. Son usage dans les Départements du Sud et de la Grand'Anse est principalement médicinal, bien que ses fruits soient occasionnellement consommés. En raison de sa rareté extrême et de son statut d'endémique strict, la conservation de cette espèce constitue une priorité absolue."
+    "valeur": "La valeur économique de G. barkeriana reste inconnue en raison de sa rareté extrême. Aucune filière commerciale n'exploite actuellement cette espèce, ce qui constitue paradoxalement un facteur de protection. Sa valeur réside principalement dans sa contribution à la biodiversité endémique haïtienne et son potentiel scientifique inexploré. Le développement d'une éventuelle valorisation économique devrait impérativement s'accompagner de mesures strictes de conservation et de multiplication de l'espèce."
   },
   "toxicologie": {
-    "niveau": "",
+    "niveau": "🟡 Précautions requises",
     "details": "Le profil toxicologique de G. barkeriana n'est pas documenté dans la littérature scientifique. En l'absence de données spécifiques, la prudence s'impose, particulièrement chez les femmes enceintes et allaitantes. Par analogie avec d'autres Garcinia, un surdosage pourrait théoriquement entraîner une acidité gastrique excessive et des troubles digestifs, bien que cette espèce présente une saveur grasse plutôt qu'acide. Des interactions théoriques avec des médicaments hypotenseurs sont possibles si l'espèce partage les propriétés cardiovasculaires d'autres membres du genre. L'usage traditionnel semble globalement sûr aux doses employées empiriquement, mais l'absence d'études toxicologiques formelles impose une vigilance particulière."
   },
   "conservation": {
@@ -38,8 +38,8 @@
     "valeur": "La valeur économique de G. barkeriana reste inconnue en raison de sa rareté extrême. Aucune filière commerciale n'exploite actuellement cette espèce, ce qui constitue paradoxalement un facteur de protection. Sa valeur réside principalement dans sa contribution à la biodiversité endémique haïtienne et son potentiel scientifique inexploré. Le développement d'une éventuelle valorisation économique devrait impérativement s'accompagner de mesures strictes de conservation et de multiplication de l'espèce."
   },
   "recherche": {
-    "nb_articles": "",
     "details": "Les recherches sur G. barkeriana sont dramatiquement insuffisantes. Des études phytochimiques approfondies sont nécessaires pour caractériser ses composés uniques, notamment ceux responsables de la saveur grasse inhabituelle des fruits. Des investigations pharmacologiques pourraient révéler des propriétés thérapeutiques spécifiques à cette espèce endémique. La priorité absolue reste cependant la conservation : études populationnelles, techniques de multiplication, conservation des graines et établissement de collections ex situ sont indispensables pour éviter la disparition de cette espèce remarquable.",
+    "nb_articles": "",
     "lien_pubmed": "",
     "lien_scholar": "",
     "lien_tramil": ""
@@ -47,11 +47,11 @@
   "references": "Cette espèce endémique souffre d'un manque critique de documentation scientifique. Les quelques références disponibles concernent principalement des inventaires floristiques généraux du Massif de la Hotte. [RETENIR — 🟢_endemique] Garcinia barkeriana, arbre endémique du Massif de la Hotte, produit des fruits à saveur grasse unique parmi les Garcinia. Usage médicinal traditionnel contre la diarrhée via les tanins de l'écorce. Espèce en danger critique nécessitant conservation urgente. Potentiel phytochimique inexploré.",
   "aRetenir": "🟢 À retenir — Garcinia : est une espece peu ou non etudiee scientifiquement. Les proprietes presentees reposent sur des analogies avec des especes proches et les usages traditionnels documentes localement. La conservation de cette espece prime sur toute valorisation. Les auteurs declinent toute responsabilite quant a un usage inapproprie.",
   "images": {
-    "principale": "images/303_Garcinia_barkeriana-001.jpg",
+    "principale": "/images/303_Garcinia_barkeriana-001.jpg",
     "galerie": [
-      "images/303_Garcinia_barkeriana-001.jpg",
-      "images/303_Garcinia_barkeriana-002.jpg"
+      "/images/303_Garcinia_barkeriana-001.jpg",
+      "/images/303_Garcinia_barkeriana-002.jpg"
     ]
   },
-  "source": "plantes_full.json"
+  "source": "CSV corrigé 2026-04-11"
 }

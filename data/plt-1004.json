@@ -1,7 +1,7 @@
 {
   "id_plante": "plt-1004",
   "code": "plt-1004",
-  "no_espece": "",
+  "no_espece": "10.4",
   "no_famille": "10",
   "famille": "Aracées",
   "description_famille": "",
@@ -20,17 +20,17 @@
   },
   "usages": {
     "usages_ethnobotaniques": "Dans les Départements du Sud et de la Grand'Anse, l'usage principal documenté de « Lèti dlo » concerne la préparation de bains thérapeutiques contre les démangeaisons et irritations cutanées. Les feuilles fraîches et les racines sont récoltées dans des eaux les plus propres possibles, puis utilisées en cataplasme direct ou incorporées dans des bains tièdes. Cette application externe permet de bénéficier des propriétés apaisantes et antimicrobiennes de la plante tout en évitant les risques liés à l'ingestion des polluants bioaccumulés. Dans la pharmacopée TRAMIL, l'usage contre les dermatoses est également documenté en Haïti, confirmant la cohérence de cette tradition thérapeutique régionale.",
-    "systemes_concernes": "Tégumentaire"
+    "systemes_concernes": "P. stratiotes cible préférentiellement le système tégumentaire par voie externe. Les applications documentées concernent diverses dermatoses : eczémas, démangeaisons, irritations cutanées et infections superficielles. Les mécanismes d'action reposeraient sur l'activité synergique des polyphénols et des saponines, conférant des propriétés antimicrobiennes et antioxydantes locales. Les flavonoïdes contribueraient à réduire l'inflammation cutanée, tandis que les tanins exerceraient un effet astringent bénéfique sur les lésions suintantes. Ces mécanismes demeurent toutefois hypothétiques, aucune étude clinique contrôlée n'ayant validé ces effets chez l'humain."
   },
   "pharmacologie": {
     "molecules": "Les feuilles charnues de P. stratiotes accumulent principalement des glucides de stockage, des fibres structurales et des protéines enzymatiques liées à son métabolisme aquatique particulier. La plante concentre naturellement le potassium (K), le calcium (Ca) et le magnésium (Mg) présents dans l'eau, mais également — et c'est là son caractère problématique — tous les polluants dissous : métaux lourds (cadmium, plomb), pesticides et autres contaminants environnementaux. Cette capacité de bioaccumulation, initialement mécanisme de survie en milieu aquatique pollué, devient un facteur de risque majeur pour tout usage interne. Les principaux composés secondaires identifiés dans P. stratiotes comprennent : des flavonoïdes (quercétine, kaempférol, rutine) aux propriétés antioxydantes, des saponines triterpéniques responsables des propriétés détergentes et antimicrobiennes, des tanins hydrolysables conférant une astringence naturelle, des terpénoïdes volatils, des polyphénols divers, ainsi que des stérols végétaux comme le stigmastérol et le β-sitostérol (Singh et al., 2012 — DOI: 10.1016/j.aquabot.2012.01.002). Ces composés remplissent des fonctions défensives spécifiques pour la plante aquatique. Les flavonoïdes et polyphénols la protègent contre les rayonnements UV intenses réfléchis par la surface de l'eau. Les saponines créent une barrière chimique contre les pathogènes aquatiques et les herbivores. Les tanins confèrent une résistance aux attaques fongiques dans le milieu humide permanent. Ces mêmes composés, une fois appliqués sur la peau humaine, produisent les effets biologiques documentés : activité antimicrobienne, propriétés astringentes et effet apaisant sur les inflammations cutanées, bien que ces observations restent principalement issues d'études in vitro et de l'usage traditionnel.",
     "posologie": "Aucune posologie cliniquement validée n'est disponible pour P. stratiotes. Les descriptions ethnobotaniques mentionnent des préparations en bains ou cataplasmes avec les parties fraîches, mais l'usage interne est formellement déconseillé en raison des risques de bioaccumulation. Les quelques références à des infusions ou décoctions (5-10 g/L) dans certains contextes internationaux ne présentent aucune garantie de sécurité et ne sauraient être recommandées."
   },
   "nutrition": {
-    "introduction": "Pistia stratiotes L. (syn. Pistia occidentalis, Zala asiatica) est une herbe aquatique flottante native d'Haïti, commune dans les eaux douces des Départements du Sud et de la Grand'Anse. Elle appartient à la famille des Aracées, une famille principalement composée d'herbes et de lianes reconnue pour sa richesse en usages alimentaires et médicinaux. Cette famille se distingue par ses composés phytochimiques dominants — oxalates de calcium, amidon, flavonoïdes et saponines — ciblant préférentiellement les systèmes tégumentaire et musculo-squelettique. Au sein de cette famille, P. stratiotes fait partie du genre Pistia, genre monotypique remarquable par sa capacité de prolifération rapide et ses propriétés de phytoremédiation. Son usage principal documenté dans les deux départements concerne les affections cutanées par application externe, bien que sa capacité de bioaccumulation de polluants exige une vigilance particulière quant à sa provenance."
+    "valeur": "La valeur économique locale de P. stratiotes reste limitée aux usages médicinaux traditionnels en bains thérapeutiques. Internationalement, elle présente un intérêt croissant en aquariophilie comme plante décorative flottante et en phytoremédiation pour le traitement des eaux usées. Son potentiel de bioaccumulation en fait un outil précieux pour la dépollution aquatique, bien que cette même propriété limite ses applications thérapeutiques directes."
   },
   "toxicologie": {
-    "niveau": "toxic",
+    "niveau": "🔴 Toxique",
     "details": "P. stratiotes présente un profil toxicologique complexe lié à sa capacité exceptionnelle de bioaccumulation. La plante agit comme un « filtre vivant » concentrant métaux lourds (cadmium, plomb, mercure), pesticides et autres polluants présents dans son milieu aquatique. Cette caractéristique, utile pour la phytoremédiation, devient dangereuse pour l'usage thérapeutique, particulièrement par voie interne. L'ingestion est formellement contre-indiquée, surtout chez les femmes enceintes et allaitantes. Même par voie externe, il convient de s'assurer de la provenance de la plante et de la qualité de l'eau où elle a été récoltée."
   },
   "conservation": {
@@ -38,8 +38,8 @@
     "valeur": "La valeur économique locale de P. stratiotes reste limitée aux usages médicinaux traditionnels en bains thérapeutiques. Internationalement, elle présente un intérêt croissant en aquariophilie comme plante décorative flottante et en phytoremédiation pour le traitement des eaux usées. Son potentiel de bioaccumulation en fait un outil précieux pour la dépollution aquatique, bien que cette même propriété limite ses applications thérapeutiques directes."
   },
   "recherche": {
-    "nb_articles": "~500 (estimation)",
     "details": "Les recherches sur P. stratiotes se concentrent principalement sur ses capacités de phytoremédiation et ses propriétés antimicrobiennes in vitro. Environ 500 publications scientifiques abordent cette espèce, majoritairement dans les domaines de l'écologie aquatique et du traitement des eaux. Les perspectives thérapeutiques nécessiteraient des études approfondies sur la sélectivité de la bioaccumulation et le développement de protocoles de purification permettant de conserver les principes actifs tout en éliminant les contaminants.",
+    "nb_articles": "",
     "lien_pubmed": "https://pubmed.ncbi.nlm.nih.gov/?term=Pistia+stratiotes",
     "lien_scholar": "",
     "lien_tramil": ""
@@ -47,12 +47,12 @@
   "references": "Singh, S. et al. (2012). Phytochemical analysis of Pistia stratiotes L. Aquatic Botany. DOI: 10.1016/j.aquabot.2012.01.002 TRAMIL. Pistia stratiotes. www.tramil.net/en/plant/pistia-stratiotes PubMed. Pistia stratiotes research. https://pubmed.ncbi.nlm.nih.gov/?term=Pistia+stratiotes",
   "aRetenir": "🟠 À retenir — Lèti dlo : est une plante a toxicite documentee. Tout usage interne non encadre est formellement deconseille. En cas d'ingestion accidentelle, consulter immediatement un service d'urgence. Ces informations sont destinees a l'enseignement et a la recherche uniquement. Les auteurs declinent toute responsabilite quant a un usage inapproprie.",
   "images": {
-    "principale": "images/104_Pistia_stratiotes-001.jpg",
+    "principale": "/images/104_Pistia_stratiotes-001.jpg",
     "galerie": [
-      "images/104_Pistia_stratiotes-001.jpg",
-      "images/104_Pistia_stratiotes-002.jpg",
-      "images/104_Pistia_stratiotes-003.jpg"
+      "/images/104_Pistia_stratiotes-001.jpg",
+      "/images/104_Pistia_stratiotes-002.jpg",
+      "/images/104_Pistia_stratiotes-003.jpg"
     ]
   },
-  "source": "plantes_full.json"
+  "source": "CSV corrigé 2026-04-11"
 }

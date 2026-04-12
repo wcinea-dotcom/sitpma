@@ -1,7 +1,7 @@
 {
   "id_plante": "plt-3701",
   "code": "plt-3701",
-  "no_espece": "",
+  "no_espece": "37.1",
   "no_famille": "37",
   "famille": "Euphorbiacées",
   "description_famille": "Dominant les écosystèmes tropicaux avec plus de 7 000 espèces réparties en 300 genres, les Euphorbiacées constituent l'une des familles les plus diversifiées et économiquement importantes de la flore haïtienne. Cette famille rassemble principalement des herbes, arbustes et arbres caractérisés par leur latex blanc souvent abondant et leurs inflorescences en cyathes. Les genres à vocation alimentaire comprennent Manihot (manioc), base nutritionnelle fondamentale en Haïti, et Cnidoscolus (chaya). Les genres médicinaux incluent Acalypha, Croton, Euphorbia et Phyllanthus, largement utilisés dans la pharmacopée traditionnelle des Départements du Sud et de la Grand'Anse. Sur le plan phytochimique, cette famille se distingue par sa richesse en diterpènes irritants (phorbols, ingols), latex caustique, tanins, flavonoïdes et triterpènes, ciblant préférentiellement les systèmes digestif, tégumentaire et cutané. Une vigilance extrême s'impose car plusieurs genres — Jatropha, Ricinus, Hura et particulièrement Hippomane — renferment des principes actifs mortels, faisant des Euphorbiacées une famille à très haut risque toxicologique.",
@@ -20,17 +20,17 @@
   },
   "usages": {
     "usages_ethnobotaniques": "Dans les Départements du Sud et de la Grand'Anse, A. alopecuroides est exclusivement utilisée comme plante médicinale. Les feuilles, tiges et racines sont employées pour leurs propriétés anti-inflammatoires, diurétiques, antimicrobiennes et cicatrisantes. Le mode de préparation principal consiste en une infusion : « On prépare un thé amer de la plante contre l'indigestion et les gaz », selon les pratiques locales documentées. Cette préparation traditionnelle s'inscrit dans un usage caribéen plus large, où l'espèce est reconnue comme thé digestif. Les données TRAMIL confirment son utilisation en Haïti spécifiquement contre l'indigestion. Au niveau international, des études menées au Mexique ont documenté ses propriétés antibactériennes, élargissant le spectre de ses applications potentielles.",
-    "systemes_concernes": "Digestif"
+    "systemes_concernes": "A. alopecuroides cible principalement le système digestif, avec une efficacité documentée contre l'indigestion, les gaz intestinaux et la toux. Les mécanismes d'action reposent sur la synergie de ses composés bioactifs : les tanins exercent une action astringente sur les muqueuses digestives, réduisant l'inflammation et les sécrétions excessives , les saponines présentent des propriétés anti-inflammatoires et antimicrobiennes qui pourraient expliquer l'effet bénéfique sur les troubles digestifs d'origine infectieuse. Cependant, les mécanismes précis d'inhibition de la cyclo-oxygénase (COX) ou d'action sur l'équilibre ionique rénal ne sont pas démontrés spécifiquement pour cette espèce. Les propriétés diurétiques mentionnées dans les usages traditionnels nécessitent confirmation par des études pharmacologiques contrôlées."
   },
   "pharmacologie": {
     "molecules": "Ce qui caractérise particulièrement A. alopecuroides, c'est sa saveur aromatique distinctive, résultant de la présence d'huiles essentielles volatiles dans ses tissus foliaires. Ces composés volatils, principalement des monoterpènes et sesquiterpènes, sont responsables de l'odeur caractéristique perçue au froissement des feuilles. La plante accumule également des tanins en quantité notable, lui conférant une astringence marquée et expliquant l'amertume de l'infusion traditionnellement préparée. Sur le plan nutritionnel, comme la plupart des herbes médicinales, elle contient principalement des glucides structuraux (cellulose, hémicellulose), des fibres et de faibles quantités de protéines et lipides. Les principaux composés secondaires identifiés dans A. alopecuroides comprennent : des flavonoïdes (quercétine, kaempférol), des saponines triterpéniques, des tanins condensés et hydrolysables, des triterpènes (β-sitostérol), des alcaloïdes en faible concentration, et des huiles essentielles à dominante terpénique (Kumar et al., 2014 — doi:10.1016/j.jep.2014.03.021). Des études sur le genre Acalypha ont également révélé la présence de diterpènes spécifiques et de composés phénoliques bioactifs (Govaerts et al., 2000 — Kew Bull). Ces molécules remplissent des fonctions de défense précises pour la plante. Les tanins protègent contre l'herbivorie en réduisant la digestibilité des tissus végétaux. Les saponines confèrent des propriétés antimicrobiennes et antifongiques, protégeant la plante des pathogènes du sol. Les huiles essentielles agissent comme répulsifs contre les insectes herbivores. Ces mêmes composés, une fois ingérés par l'humain, produisent les effets biologiques documentés : les tanins exercent une action astringente sur les muqueuses digestives, les saponines présentent des propriétés anti-inflammatoires et antimicrobiennes, tandis que les flavonoïdes contribuent à l'activité antioxydante. Ces observations restent principalement issues d'études in vitro et nécessitent confirmation par des essais cliniques contrôlés.",
     "posologie": "Aucune posologie cliniquement validée n'est disponible pour A. alopecuroides. Les pratiques traditionnelles documentées dans les Départements du Sud et de la Grand'Anse ne sont pas standardisées et reposent uniquement sur des infusions et décoctions empiriques rapportées en médecine populaire. L'absence d'essais cliniques contrôlés limite considérablement les recommandations posologiques précises pour cette espèce."
   },
   "nutrition": {
-    "introduction": "Acalypha alopecuroides (syn. Ricinocarpus alopecuroides, Acalypha alopecuroidea) est une herbe native commune des Caraïbes et d'Amérique tropicale, documentée dans les Départements du Sud et de la Grand'Anse d'Haïti. Elle appartient à la famille des Euphorbiacées, cette vaste famille tropicale de plus de 7 000 espèces reconnue pour ses riches usages alimentaires et médicinaux, mais aussi pour ses risques toxicologiques élevés. Au sein de cette famille, elle fait partie du genre Acalypha, un groupe d'herbes et arbustes largement distribués dans les régions chaudes du globe, réputés pour leurs propriétés anti-inflammatoires et antimicrobiennes. Son nom créole « Ti ponpon » évoque probablement l'aspect de ses inflorescences dressées. Dans les Départements du Sud et de la Grand'Anse, elle est principalement utilisée comme plante médicinale digestive, particulièrement appréciée pour traiter l'indigestion et les gaz intestinaux sous forme d'infusion amère."
+    "valeur": "La valeur économique d'A. alopecuroides reste limitée au niveau local, circonscrite à son usage médicinal traditionnel dans les Départements du Sud et de la Grand'Anse. Elle ne présente aucune valeur commerciale internationale significative. Son potentiel économique pourrait évoluer si ses propriétés antimicrobiennes étaient confirmées par des études cliniques, ouvrant des perspectives en phytothérapie standardisée."
   },
   "toxicologie": {
-    "niveau": "",
+    "niveau": "🟢 Non toxique aux doses usuelles",
     "details": "A. alopecuroides est classée comme non toxique dans les conditions d'usage traditionnel. Cependant, la présence d'alcaloïdes en faible concentration impose une surveillance des signes digestifs et neurologiques en cas d'usage prolongé ou à forte dose. Par prudence, l'usage est déconseillé pendant la grossesse et l'allaitement en l'absence de données de sécurité spécifiques. Comme pour toutes les Euphorbiacées, une vigilance particulière s'impose lors de la manipulation de la plante fraîche en raison du latex potentiellement irritant."
   },
   "conservation": {
@@ -38,8 +38,8 @@
     "valeur": "La valeur économique d'A. alopecuroides reste limitée au niveau local, circonscrite à son usage médicinal traditionnel dans les Départements du Sud et de la Grand'Anse. Elle ne présente aucune valeur commerciale internationale significative. Son potentiel économique pourrait évoluer si ses propriétés antimicrobiennes étaient confirmées par des études cliniques, ouvrant des perspectives en phytothérapie standardisée."
   },
   "recherche": {
-    "nb_articles": "~50 (estimation)",
     "details": "Les recherches sur A. alopecuroides demeurent limitées, avec environ 50 publications scientifiques indexées selon les estimations PubMed. Les études futures devraient se concentrer sur la validation clinique de ses propriétés digestives traditionnellement reconnues, l'établissement d'une posologie standardisée et l'évaluation de sa sécurité d'emploi à long terme. L'investigation de ses mécanismes d'action antimicrobiens pourrait également révéler des applications thérapeutiques nouvelles, particulièrement dans le contexte de résistance aux antibiotiques conventionnels.",
+    "nb_articles": "",
     "lien_pubmed": "",
     "lien_scholar": "",
     "lien_tramil": ""
@@ -47,10 +47,10 @@
   "references": "Kumar, S. et al. (2014). Phytochemical and pharmacological profile of Acalypha species: A review. Journal of Ethnopharmacology. doi:10.1016/j.jep.2014.03.021. Govaerts, R. et al. (2000). World Checklist and Bibliography of Euphorbiaceae. Kew Bulletin. POWO (2024). Plants of the World Online. Kew Science. https://powo.science.kew.org/ TRAMIL (2024). Acalypha alopecuroides. www.tramil.net",
   "aRetenir": "🟢 À retenir — Ti ponpon : est utilisee en medecine traditionnelle avec un bon profil de securite aux doses courantes. Les usages presentes reposent sur des donnees ethnobotaniques et scientifiques publiees, mais ne constituent pas une prescription. Consulter un professionnel de sante avant tout usage therapeutique. Les auteurs declinent toute responsabilite quant a un usage inapproprie.",
   "images": {
-    "principale": "images/371_Acalypha_alopecuroides-001.jpg",
+    "principale": "/images/371_Acalypha_alopecuroides-001.jpg",
     "galerie": [
-      "images/371_Acalypha_alopecuroides-001.jpg"
+      "/images/371_Acalypha_alopecuroides-001.jpg"
     ]
   },
-  "source": "plantes_full.json"
+  "source": "CSV corrigé 2026-04-11"
 }
