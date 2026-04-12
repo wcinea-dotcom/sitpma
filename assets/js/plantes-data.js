@@ -1,7 +1,7 @@
 // Auto-generated — enriched database
-// 270 plantes — Atlas PMAA
-// Dernière mise à jour : 2026-04-11
-// Chemins images : /images/
+// 271 plantes — Atlas PMAA
+// Dernière mise à jour : 2026-04-12
+// Systèmes et toxicité corrigés
 const plantesData = [
   {
     "id": 1,
@@ -21,10 +21,10 @@ const plantesData = [
       "ht": "Pèpèt"
     },
     "systeme": {
-      "fr": "R. tuberosa cible principalement les systèmes digestif et urinaire, conformément à la signature thér"
+      "fr": "Digestif, Urinaire"
     },
-    "toxicite": "unknown",
-    "toxiciteLevel": "unknown",
+    "toxicite": null,
+    "toxiciteLevel": "safe",
     "sections": {
       "introduction": "Ruellia tuberosa L. (syn. Cryphiacanthus barbadensis) est une herbe vivace native, commune dans les Départements du Sud et de la Grand’Anse. Elle appartient à la famille des Acanthacées, une grande famille tropicale principalement composée d’herbes et d’arbustes, reconnue pour ses importants usages médicinaux. Cette famille se distingue par une signature phytochimique dominée par les flavonoïdes, les iridoïdes et les composés phénoliques, ciblant préférentiellement les systèmes digestif et urinaire. Au sein de cette famille, Ruellia tuberosa fait partie du genre Ruellia, qui regroupe plus de 250 espèces d’herbes tropicales, dont plusieurs sont utilisées en médecine traditionnelle pour leurs propriétés diurétiques et anti-inflammatoires. L’espèce est documentée dans le Sud et la Grand’Anse comme plante médicinale, particulièrement appréciée pour ses effets sur les reins et le système urinaire.",
       "description": "R. tuberosa est une herbe vivace de basse altitude, facilement reconnaissable par ses caractéristiques morphologiques distinctives (POWO, Kew Science , World Flora Online, 2026). Racines. Le système racinaire comprend des racines tubérisées — d'où l'épithète spécifique « tuberosa » — qui constituent des organes de réserve permettant à la plante de survivre aux périodes de sécheresse. Ces racines charnues sont également la partie la plus utilisée en médecine traditionnelle. Tiges. Les tiges sont herbacées, dressées, pouvant atteindre 60 à 100 cm de hauteur, souvent ramifiées et légèrement poilues. Feuilles. Les feuilles sont opposées, simples, ovales à elliptiques, de couleur vert foncé, avec des nervures bien marquées. Elles dégagent une odeur légèrement herbacée au froissement. Fleurs. Les fleurs sont tubulaires, de couleur violette à bleue, disposées en épis terminaux ou axillaires. Elles présentent la structure caractéristique des Acanthacées avec une corolle bilabiée. Fruit. Le fruit est une capsule qui s'ouvre de manière explosive à maturité, propulsant les graines à distance — mécanisme de dispersion typique de la famille. Les parties utilisées sont principalement les racines, les feuilles et les tiges.",
@@ -50,8 +50,10 @@ const plantesData = [
     "familleDescription": "Les Acanthacées constituent une famille tropicale et subtropicale de près de 4 000 espèces réparties en 250 genres, principalement représentée par des herbes, des arbustes et quelques lianes. Cette famille se distingue par d'importants usages médicinaux à travers le monde, particulièrement dans les pharmacopées traditionnelles d'Afrique, d'Asie et d'Amérique tropicale. Les genres alimentaires sont rares dans cette famille, à l'exception de quelques espèces de Justicia utilisées comme légumes-feuilles en Afrique. Les genres médicinaux principaux incluent Andrographis (chirette verte), Justicia, Ruellia et Barleria, largement employés contre les troubles digestifs, urinaires et inflammatoires. Sur le plan ornemental, de nombreuses espèces sont cultivées pour leurs fleurs colorées. La signature phytochimique commune comprend des flavonoïdes (apigénine, lutéoline), des iridoïdes, des acanthosides et des composés phénoliques, ciblant préférentiellement les systèmes digestif et urinaire. Certaines espèces renferment des principes actifs puissants exigeant une préparation adéquate, bien que la famille soit généralement non toxique aux doses usuelles.",
     "familleImage": "",
     "familleNum": "1",
-    "toxBadgeColor": "yellow",
-    "toxBadgeText": "Données insuffisantes"
+    "toxBadgeColor": "green",
+    "toxBadgeText": "Non toxique",
+    "usageType": "Médicinale",
+    "maladieSummary": "Digestif, Urinaire"
   },
   {
     "id": 2,
@@ -69,10 +71,10 @@ const plantesData = [
       "ht": "Siwo"
     },
     "systeme": {
-      "fr": "S. simpsonii cible principalement les systèmes respiratoire et immunitaire. Les affections traitées "
+      "fr": "Respiratoire, Immunitaire"
     },
-    "toxicite": "toxic",
-    "toxiciteLevel": "toxic",
+    "toxicite": null,
+    "toxiciteLevel": "caution",
     "sections": {
       "introduction": "Sambucus simpsonii Rehd. (syn. Sambucus canadensis, Sambucus nigra subsp. canadensis) est un arbuste exotique naturalisé, documenté dans les Départements du Sud et de la Grand'Anse à haute altitude. Il appartient à la famille des Adoxacées, principalement composée d'arbustes et de petits arbres comptant environ 200 espèces des régions tempérées et subtropicales. Cette famille se distingue par une signature phytochimique dominée par les anthocyanes — particulièrement la sambucine — les flavonoïdes comme la rutine, la vitamine C et divers acides phénoliques, ciblant les systèmes respiratoire et immunitaire. Une vigilance s'impose : si les fruits mûrs sont comestibles et médicinaux, les parties vertes contiennent des glycosides cyanogéniques toxiques. Au sein de cette famille, Sambucus constitue un genre d'importance pharmaceutique mondiale, regroupant les sureaux utilisés depuis l'Antiquité contre les affections respiratoires. S. simpsonii est principalement utilisé à des fins médicinales dans les deux départements, notamment pour la préparation du « Siwo Sigo », sirop pectoral traditionnel contre la grippe et la fièvre.",
       "description": "S. simpsonii est un arbuste de taille modeste, adapté aux altitudes élevées des massifs montagneux haïtiens (POWO, Kew Science , World Flora Online, 2026). Tiges et écorce. Les tiges sont ligneuses, dressées à légèrement arquées, avec une écorce brunâtre rugueuse sur les parties âgées et une moelle blanche caractéristique du genre Sambucus. Feuilles. Les feuilles sont composées, opposées, formées de folioles dentées de forme ovale à elliptique. Leur texture est légèrement rugueuse et leur couleur vert foncé. Comme toutes les parties vertes de la plante, elles contiennent des glycosides cyanogéniques et ne doivent pas être consommées crues. Fleurs. Les fleurs sont regroupées en corymbes terminaux aplatis, de couleur blanc crème, très parfumées et mellifères. C'est la partie principalement utilisée pour les préparations médicinales traditionnelles. Fruits. Les fruits sont de petites baies sphériques, d'abord vertes puis devenant noires à maturité, regroupées en grappes. Seuls les fruits complètement mûrs sont comestibles et utilisés. Les parties utilisées sont principalement les fleurs, et occasionnellement les fruits mûrs.",
@@ -98,8 +100,10 @@ const plantesData = [
     "familleDescription": "La famille des Adoxacées est principalement composée d'arbustes et de petits arbres, comptant environ 200 espèces réparties dans les régions tempérées et subtropicales du globe. Cette famille se distingue par des genres d'importance économique notable, notamment Sambucus (sureaux) largement utilisé en pharmacie traditionnelle et industrielle, et Viburnum, apprécié en horticulture ornementale. Les Adoxacées présentent une signature phytochimique remarquable dominée par les anthocyanes — particulièrement la sambucine — les flavonoïdes comme la rutine, la vitamine C en concentrations élevées, et divers acides phénoliques. Cette composition leur confère des propriétés biologiques ciblant préférentiellement les systèmes respiratoire et immunitaire, avec des activités antivirales et anti-inflammatoires documentées. Il convient toutefois d'exercer une vigilance particulière avec cette famille : si les fruits mûrs sont généralement comestibles et médicinaux, les parties vertes — feuilles, écorces, graines et baies immatures — contiennent des glycosides cyanogéniques potentiellement toxiques, exigeant une préparation adéquate et un dosage strict pour éviter tout risque d'intoxication.",
     "familleImage": "",
     "familleNum": "2",
-    "toxBadgeColor": "red",
-    "toxBadgeText": "Toxique"
+    "toxBadgeColor": "yellow",
+    "toxBadgeText": "Conditionnel",
+    "usageType": "Médicinale",
+    "maladieSummary": "Respiratoire, Immunitaire"
   },
   {
     "id": 3,
@@ -120,10 +124,10 @@ const plantesData = [
       "ht": "Koupye lanmè"
     },
     "systeme": {
-      "fr": "S. portulacastrum cible préférentiellement les systèmes rénal et digestif. Les données publiées docu"
+      "fr": "Digestif, Urinaire"
     },
-    "toxicite": "unknown",
-    "toxiciteLevel": "unknown",
+    "toxicite": null,
+    "toxiciteLevel": "safe",
     "sections": {
       "introduction": "Sesuvium portulacastrum (L.) (syn. Portulaca portulacastrum L.) est une herbe succulente native documentée dans les Départements du Sud et de la Grand'Anse. Elle appartient à la famille des Aizoacées, une famille cosmopolite remarquable par ses adaptations aux milieux salins et arides. Au sein de cette famille, elle fait partie du genre Sesuvium, qui regroupe des herbes halophytes spécialisées dans la colonisation des substrats salés côtiers. Son usage dominant dans les deux départements est à la fois alimentaire et médicinal : elle constitue un légume traditionnel de bord de mer apprécié pour ses qualités nutritionnelles et purificatrices.",
       "description": "S. portulacastrum est une herbe succulente prostée à semi-dressée, formant des tapis denses sur les substrats sablonneux et rocheux du littoral (POWO, Kew Science , World Flora Online, 2026). Tiges. Les tiges sont charnues, cylindriques, souvent rougeâtres, rampantes ou ascendantes, pouvant s'étendre sur plusieurs mètres. Elles s'enracinent facilement aux nœuds, permettant une propagation végétative efficace. Feuilles. Les feuilles sont opposées, sessiles, charnues et succulentes, de forme oblongue à spatulée. Leur couleur varie du vert au rouge-pourpre selon l'exposition saline et lumineuse. Elles présentent une saveur caractéristiquement salée due à l'accumulation de chlorure de sodium. Fleurs. Les fleurs sont petites, solitaires ou groupées, de couleur rose à pourpre, s'épanouissant principalement le matin. Elles présentent cinq pétales et de nombreuses étamines roses caractéristiques de la famille. Racines. Le système racinaire est pivotant et étendu, permettant une ancrage solide dans les substrats mobiles et une exploration efficace des nappes d'eau douce sous-jacentes. Les parties utilisées sont les feuilles, les tiges et les racines.",
@@ -149,8 +153,10 @@ const plantesData = [
     "familleDescription": "Les Aizoacées constituent une famille cosmopolite de plus de 2 000 espèces, principalement composée d'herbes succulentes adaptées aux environnements arides et salins. Cette famille présente une distribution remarquable dans les zones côtières tropicales et subtropicales, avec des concentrations importantes en Afrique du Sud et dans les régions méditerranéennes. Sur le plan alimentaire, plusieurs genres comme Sesuvium et Tetragonia fournissent des légumes-feuilles nutritifs, particulièrement appréciés dans les cuisines côtières. Les genres Mesembryanthemum et Carpobrotus sont valorisés pour leurs propriétés médicinales traditionnelles, notamment dans le traitement des affections cutanées et digestives. La signature phytochimique des Aizoacées se caractérise par une forte concentration en sodium et minéraux marins, des ecdystéroïdes uniques, des flavonoïdes, des caroténoïdes et des acides gras essentiels, ciblant préférentiellement les systèmes rénal et digestif. Cette accumulation de sel constitue une adaptation remarquable à la vie littorale mais impose des précautions d'usage chez les personnes souffrant d'hypertension ou d'insuffisance rénale.",
     "familleImage": "",
     "familleNum": "3",
-    "toxBadgeColor": "yellow",
-    "toxBadgeText": "Données insuffisantes"
+    "toxBadgeColor": "green",
+    "toxBadgeText": "Non toxique",
+    "usageType": "Alimentaire et Médicinale",
+    "maladieSummary": "Digestif, Urinaire"
   },
   {
     "id": 4,
@@ -171,7 +177,7 @@ const plantesData = [
       "ht": "Ke rat"
     },
     "systeme": {
-      "fr": "A. aspera cible principalement les systèmes urinaire et cutané. Les recherches pharmacologiques ont "
+      "fr": "Urinaire, Cutané"
     },
     "toxicite": null,
     "toxiciteLevel": "safe",
@@ -201,7 +207,9 @@ const plantesData = [
     "familleImage": "",
     "familleNum": "4",
     "toxBadgeColor": "green",
-    "toxBadgeText": "Non toxique"
+    "toxBadgeText": "Non toxique",
+    "usageType": "Médicinale",
+    "maladieSummary": "Urinaire, Cutané"
   },
   {
     "id": 5,
@@ -220,10 +228,10 @@ const plantesData = [
       "ht": "Zepina"
     },
     "systeme": {
-      "fr": "A. caudatus cible préférentiellement les systèmes sanguin et immunitaire. L'usage traditionnel docum"
+      "fr": "Immunitaire, Sanguin"
     },
-    "toxicite": "caution",
-    "toxiciteLevel": "caution",
+    "toxicite": null,
+    "toxiciteLevel": "safe",
     "sections": {
       "introduction": "Amaranthus caudatus L. (syn. Amaranthus edulis) est une herbe annuelle exotique, commune dans les Départements du Sud et de la Grand'Anse. Elle appartient à la famille des Amaranthacées, une famille majoritairement composée d'herbes, incontournable dans la flore du grand Sud d'Haïti. Cette famille se distingue par ses riches usages alimentaires et médicinaux, comprenant des genres nutritionnels majeurs comme Amaranthus et Beta (betterave), ainsi que des genres médicinaux comme Achyranthes et Alternanthera. Sur le plan phytochimique, elle exprime une signature dominée par les bétalaïnes (pigments colorés), les saponines à acide oléanolique, l'achyranthine et des teneurs importantes en potassium. Cliniquement, cette famille cible préférentiellement les systèmes urinaire, cutané et sanguin. Il convient cependant de noter qu'attention particulière s'impose : certaines espèces renferment des principes actifs très puissants — notamment Dysphania ambrosioides qui contient de l'ascaridol toxique — ou présentent des teneurs élevées en oxalates exigeant une préparation adéquate. Au sein de cette famille, Amaranthus caudatus fait partie du genre Amaranthus, regroupant des pseudo-céréales nutritionnelles d'importance mondiale, caractérisées par leurs graines riches en protéines complètes et leurs inflorescences spectaculaires. Cette espèce présente un double usage alimentaire et médicinal documenté dans le Sud et la Grand'Anse, valorisant tant ses graines nutritives que ses jeunes feuilles comestibles.",
       "description": "A. caudatus est une herbe annuelle dressée, pouvant atteindre 1 à 2 mètres de hauteur, remarquable par ses inflorescences pendantes caractéristiques (POWO, Kew Science , World Flora Online, 2026). Tiges. Les tiges sont robustes, dressées, ramifiées, de couleur verte à rougeâtre selon les variétés, capables de supporter le poids des lourdes inflorescences grainières. Feuilles. Les feuilles sont alternes, ovales à lancéolées, de couleur vert vif, avec un pétiole bien développé. Les jeunes feuilles tendres constituent la partie végétative consommée. Fleurs. L'inflorescence terminale est spectaculaire : une panicule dense, pendante, en forme de queue (d'où le nom « queue-de-renard »), composée de nombreuses petites fleurs unisexuées, de couleur rouge, pourpre ou dorée selon les variétés. Fruit et graines. Le fruit est une capsule contenant une graine lenticulaire, brillante, de couleur crème à noire. Ces graines constituent la partie principale d'usage alimentaire et représentent la pseudo-céréale « kiwicha » valorisée internationalement. Les parties utilisées sont principalement les graines mûres et les jeunes feuilles tendres.",
@@ -249,8 +257,10 @@ const plantesData = [
     "familleDescription": "",
     "familleImage": "",
     "familleNum": "4",
-    "toxBadgeColor": "yellow",
-    "toxBadgeText": "Précautions"
+    "toxBadgeColor": "green",
+    "toxBadgeText": "Non toxique",
+    "usageType": "Alimentaire et Médicinale",
+    "maladieSummary": "Immunitaire, Sanguin"
   },
   {
     "id": 6,
@@ -270,10 +280,10 @@ const plantesData = [
       "ht": "Bètrav"
     },
     "systeme": {
-      "fr": "Les usages traditionnels haïtiens ciblent principalement le système cardiovasculaire, avec des appli"
+      "fr": "Cardiovasculaire"
     },
-    "toxicite": "toxic",
-    "toxiciteLevel": "toxic",
+    "toxicite": null,
+    "toxiciteLevel": "safe",
     "sections": {
       "introduction": "Beta vulgaris L. (syn. Beta maritima, Beta cicla) est une herbe exotique cultivée en haute altitude dans les Départements du Sud et de la Grand'Anse, où elle est documentée comme plante à la fois alimentaire et médicinale. Elle appartient à la famille des Amaranthacées, une grande famille principalement composée d'herbes, incontournable dans la flore du grand Sud d'Haïti. Cette famille se distingue par de riches usages alimentaires et médicinaux, incluant des genres comme Amaranthus (zepina), Chenopodium (ke rat) et Dysphania (simenkontra). Sur le plan phytochimique, les Amaranthacées expriment une signature dominée par les bétalaïnes, les saponines (acide oléanolique), l'achyranthine et le potassium, ciblant préférentiellement les systèmes urinaire, cutané et sanguin. Il convient de noter une vigilance particulière car certaines espèces de cette famille — notamment Dysphania ambrosioides — renferment des principes actifs très puissants ou potentiellement toxiques, exigeant une préparation adéquate ou un dosage strict. Au sein de cette famille, Beta vulgaris constitue l'une des espèces à double usage les plus remarquables, reconnue mondialement pour ses propriétés nutritionnelles et cardiovasculaires.",
       "description": "B. vulgaris est une herbe bisannuelle robuste, cultivée généralement comme plante annuelle dans les jardins de montagne haïtiens (POWO, Kew Science , World Flora Online, 2026). Racines. La racine pivotante charnue constitue l'organe principal de stockage : elle peut être cylindrique ou globuleuse selon la variété, de couleur rouge pourpre, jaune ou blanche. Cette racine accumule des sucres et des pigments bétalaïniques responsables de sa couleur caractéristique et de sa saveur douce terreux. Tiges. La première année, la plante développe une rosette de feuilles basales. La deuxième année, une tige florale dressée peut atteindre 1 à 2 mètres de hauteur, portant l'inflorescence terminale. Feuilles. Les feuilles sont alternes, pétiolées, de forme ovale à cordée, avec des nervures proéminentes. Les feuilles basales forment une rosette dense. Elles présentent souvent des teintes rougeâtres dues aux bétalaïnes. Fleurs. Les fleurs sont petites, verdâtres, regroupées en glomérules le long de l'inflorescence spiciforme. Elles sont hermaphrodites et anémogames. Fruit. Le fruit est un akène entouré d'un péricarpe durci, souvent aggloméré avec d'autres fruits pour former une « graine » composée. Les parties utilisées sont principalement les racines et les feuilles, documentées dans le Sud et la Grand'Anse.",
@@ -299,8 +309,10 @@ const plantesData = [
     "familleDescription": "",
     "familleImage": "",
     "familleNum": "4",
-    "toxBadgeColor": "red",
-    "toxBadgeText": "Toxique"
+    "toxBadgeColor": "green",
+    "toxBadgeText": "Non toxique",
+    "usageType": "Alimentaire et Médicinale",
+    "maladieSummary": "Cardiovasculaire"
   },
   {
     "id": 7,
@@ -319,10 +331,10 @@ const plantesData = [
       "ht": "Simenkontra"
     },
     "systeme": {
-      "fr": "D. ambrosioides cible principalement le système digestif et, par extension, le système nerveux en ca"
+      "fr": "Digestif, Respiratoire, Nerveux"
     },
-    "toxicite": "toxic",
-    "toxiciteLevel": "toxic",
+    "toxicite": null,
+    "toxiciteLevel": "caution",
     "sections": {
       "introduction": "Dysphania ambrosioides (L.) Mosyakin & Clemants (syn. Chenopodium ambrosioides L.) est une herbe native des Amériques, documentée dans le Sud et la Grand'Anse comme plante médicinale d'usage délicat. Elle appartient à la famille des Amaranthacées, composée majoritairement d'herbes largement représentées dans la flore du grand Sud d'Haïti. Cette famille se distingue par de riches usages alimentaires et médicinaux, avec des genres nutritionnels majeurs comme Amaranthus (zépina, épinard tropical) et Beta (betterave), des genres médicinaux comme Alternanthera et Gomphrena, et des espèces aromatiques comme Dysphania. Sur le plan phytochimique, les Amaranthacées expriment une signature dominée par les bétalaïnes (pigments rouges et jaunes), les saponines triterpéniques, les oxalates de calcium et des teneurs élevées en potassium, ciblant préférentiellement les systèmes urinaire, cutané et sanguin. Il convient cependant de noter qu'un genre de cette famille — Dysphania — renferme des composés terpéniques puissants comme l'ascaridol, exigeant une vigilance particulière quant aux dosages et aux contre-indications, notamment chez la femme enceinte et l'enfant.",
       "description": "D. ambrosioides est une herbe annuelle ou pérenne à courte durée de vie, pouvant atteindre 60 à 120 cm de hauteur, à saveur piquante et amère caractéristique (POWO, Kew Science , World Flora Online, 2026). Tiges. Les tiges sont dressées, ramifiées, généralement glabres ou légèrement pubescentes, de section angulaire à cylindrique. Elles dégagent une odeur forte et caractéristique lorsqu'on les froisse, signe distinctif de la présence d'huiles essentielles. Feuilles. Les feuilles sont alternes, pétiolées, de forme très variable : les inférieures sont généralement ovales à lancéolées avec des bords dentés ou lobés, tandis que les supérieures deviennent progressivement plus étroites et entières. Leur surface est souvent glanduleuse-ponctuée, responsable de l'arôme puissant. Fleurs. Les inflorescences sont constituées de glomérules denses de petites fleurs verdâtres, bisexuées ou unisexuées, disposées en épis ou en panicules terminales et axillaires. Les fleurs sont apérianthées ou pourvues d'un périanthe simple à 3-5 segments. Fruit et graines. Le fruit est un akène entouré par le périanthe persistant. Les graines sont lenticulaires, noires et brillantes, de petite taille. Les parties utilisées sont principalement les feuilles et les tiges, parfois les graines.",
@@ -348,8 +360,10 @@ const plantesData = [
     "familleDescription": "",
     "familleImage": "",
     "familleNum": "4",
-    "toxBadgeColor": "red",
-    "toxBadgeText": "Toxique"
+    "toxBadgeColor": "yellow",
+    "toxBadgeText": "Conditionnel",
+    "usageType": "Médicinale",
+    "maladieSummary": "Digestif, Respiratoire, Nerveux"
   },
   {
     "id": 8,
@@ -367,7 +381,7 @@ const plantesData = [
       "ht": "Zonyon"
     },
     "systeme": {
-      "fr": "Les données scientifiques confirment les usages traditionnels de l'oignon sur les systèmes respirato"
+      "fr": "Digestif, Respiratoire, Cardiovasculaire"
     },
     "toxicite": null,
     "toxiciteLevel": "safe",
@@ -397,7 +411,9 @@ const plantesData = [
     "familleImage": "",
     "familleNum": "5",
     "toxBadgeColor": "green",
-    "toxBadgeText": "Non toxique"
+    "toxBadgeText": "Non toxique",
+    "usageType": "Alimentaire et Médicinale",
+    "maladieSummary": "Digestif, Respiratoire, Cardiovasculaire"
   },
   {
     "id": 9,
@@ -416,10 +432,10 @@ const plantesData = [
       "ht": "Poro"
     },
     "systeme": {
-      "fr": "Le poireau cible principalement les systèmes digestif et urinaire dans les pratiques documentées du "
+      "fr": "Digestif, Urinaire, Cardiovasculaire"
     },
-    "toxicite": "toxic",
-    "toxiciteLevel": "toxic",
+    "toxicite": null,
+    "toxiciteLevel": "safe",
     "sections": {
       "introduction": "Allium porrum L. (syn. Allium ampeloprasum var. porrum) est une herbe bisannuelle exotique, cultivée dans les Départements du Sud et de la Grand'Anse à haute altitude. Elle appartient à la famille des Amaryllidacées, reconnue pour ses riches usages alimentaires et médicinaux. Cette famille se distingue par une signature phytochimique dominée par la quercétine, les composés soufrés, les fructanes et la vitamine C, ciblant préférentiellement les systèmes digestif, respiratoire et urinaire. Au sein de cette famille, Allium porrum fait partie du genre Allium, qui regroupe plusieurs espèces culinaires et thérapeutiques caractérisées par leurs composés organosoufrés volatils. Dans les Départements du Sud et de la Grand'Anse, le poireau constitue un légume digestif utilisé dans les soupes pour ses vertus diurétiques douces et sa valeur nutritionnelle.",
       "description": "A. porrum est une herbe bisannuelle pouvant atteindre 60 à 80 cm de hauteur, cultivée généralement comme plante annuelle pour ses qualités culinaires (POWO, Kew Science , World Flora Online, 2026). Bulbe et racines. La base de la plante forme un pseudo-bulbe allongé, blanc et charnu, qui constitue la partie la plus tendre et recherchée. Le système racinaire fasciculé s'étend modérément dans le sol. Feuilles. Les feuilles sont caractéristiques : larges, plates, d'un vert bleuâtre, disposées en éventail et gainant la tige sur une grande longueur. Contrairement aux autres Allium, elles ne sont pas cylindriques mais aplaties, ce qui distingue facilement le poireau de ses congénères. Fleurs et reproduction. La deuxième année, la plante produit une hampe florale robuste terminée par une ombelle sphérique dense, composée de nombreuses petites fleurs blanc-verdâtre à six tépales. Cette inflorescence attire divers insectes pollinisateurs. Fruit et graines. Le fruit est une capsule triloculaire contenant des graines noires anguleuses, similaires à celles de l'oignon mais généralement plus grosses. Les parties utilisées sont principalement le pseudo-bulbe blanc et les feuilles tendres.",
@@ -445,8 +461,10 @@ const plantesData = [
     "familleDescription": "",
     "familleImage": "",
     "familleNum": "5",
-    "toxBadgeColor": "red",
-    "toxBadgeText": "Toxique"
+    "toxBadgeColor": "green",
+    "toxBadgeText": "Non toxique",
+    "usageType": "Alimentaire et Médicinale",
+    "maladieSummary": "Digestif, Urinaire, Cardiovasculaire"
   },
   {
     "id": 10,
@@ -467,10 +485,10 @@ const plantesData = [
       "ht": "Lay"
     },
     "systeme": {
-      "fr": "Les systèmes principalement ciblés sont cardiovasculaire et immunitaire. L'ail est documenté scienti"
+      "fr": "Immunitaire, Cardiovasculaire"
     },
-    "toxicite": "caution",
-    "toxiciteLevel": "caution",
+    "toxicite": null,
+    "toxiciteLevel": "safe",
     "sections": {
       "introduction": "Allium sativum L. (syn. Porrum sativum) est une herbe vivace exotique cultivée dans les Départements du Sud et de la Grand'Anse, bien qu'en production rare selon l'inventaire BRH. Elle appartient à la famille des Amaryllidacées, reconnue pour ses riches usages alimentaires et médicinaux, avec une signature phytochimique dominée par la quercétine, les composés soufrés, les fructanes et la vitamine C. Au sein de cette famille, A. sativum fait partie du genre Allium, qui regroupe plusieurs espèces à fort potentiel culinaire et thérapeutique caractérisées par leurs composés organosoufrés volatils. L'ail constitue l'une des plantes médicinales les plus étudiées scientifiquement au monde, avec environ 2000 publications référencées, et représente un pilier de la pharmacopée traditionnelle haïtienne pour le soutien cardiovasculaire et la lutte contre les infections.",
       "description": "A. sativum est une herbe bulbeuse vivace, généralement cultivée comme plante annuelle, pouvant atteindre 60 à 90 cm de hauteur (POWO, Kew Science , World Flora Online, 2026). Bulbe. Le bulbe constitue l'organe principal de stockage et de reproduction : il est formé de 6 à 20 gousses (caïeux) enveloppées dans une tunique papyracée blanche à rosée. Chaque gousse est elle-même protégée par une pellicule fine. C'est la partie principalement utilisée en alimentation et en médecine. Feuilles. Les feuilles sont linéaires, plates, de couleur vert glauque, émergent directement du bulbe et sont également comestibles à l'état jeune. Elles peuvent atteindre 30 à 60 cm de longueur. Fleurs. La hampe florale, lorsqu'elle se développe, porte une ombelle terminale sphérique composée de petites fleurs blanches à rosées, souvent accompagnée de bulbilles aériennes permettant la reproduction végétative. Les parties utilisées sont principalement les bulbes (gousses), et occasionnellement les feuilles jeunes.",
@@ -496,8 +514,10 @@ const plantesData = [
     "familleDescription": "",
     "familleImage": "",
     "familleNum": "5",
-    "toxBadgeColor": "yellow",
-    "toxBadgeText": "Précautions"
+    "toxBadgeColor": "green",
+    "toxBadgeText": "Non toxique",
+    "usageType": "Alimentaire et Médicinale",
+    "maladieSummary": "Immunitaire, Cardiovasculaire"
   },
   {
     "id": 11,
@@ -517,10 +537,10 @@ const plantesData = [
       "ht": "Lis, Bèl nwit"
     },
     "systeme": {
-      "fr": "Sur le plan des systèmes physiologiques, Hippeastrum puniceum présente des affinités documentées pou"
+      "fr": "Nerveux, Cutané"
     },
-    "toxicite": "toxic",
-    "toxiciteLevel": "toxic",
+    "toxicite": null,
+    "toxiciteLevel": "caution",
     "sections": {
       "introduction": "Hippeastrum puniceum (Lam.) Voss (syn. Amaryllis punicea) est une herbe bulbeuse exotique, très commune dans les jardins des Départements du Sud et de la Grand'Anse. Elle appartient à la famille des Amaryllidacées, reconnue pour ses riches usages alimentaires et médicinaux mais aussi pour abriter des genres ornementaux potentiellement dangereux. Au sein de cette famille, Hippeastrum puniceum fait partie du genre Hippeastrum, un groupe de bulbes ornementaux originaires d'Amérique du Sud, particulièrement appréciés pour leurs spectaculaires floraisons mais redoutés pour leur toxicité. Contrairement aux Allium alimentaires de la même famille, les Hippeastrum renferment des alcaloïdes puissants comme la lycorine, exigeant une vigilance absolue quant à toute confusion ou ingestion accidentelle. L'usage principal de cette espèce dans les deux départements est ornemental, bien qu'elle soit parfois utilisée traditionnellement en application externe pour les plaies.",
       "description": "H. puniceum est une herbe bulbeuse pouvant atteindre 40 à 60 cm de hauteur lors de la floraison (POWO, Kew Science , World Flora Online, 2026). Bulbe. Le bulbe constitue l'organe de stockage principal : volumineux, ovoïde, pouvant dépasser 8 cm de diamètre, recouvert de tuniques brunes. C'est dans cet organe que se concentrent les alcaloïdes toxiques de la plante, particulièrement la lycorine. Feuilles. Les feuilles sont rubanées, charnues, vert foncé, disposées en rosette basale. Elles émergent du bulbe après la floraison et persistent plusieurs mois avant d'entrer en dormance. Fleurs. Les fleurs constituent l'attrait ornemental majeur de la plante : grandes, en forme de trompette, rouge écarlate à rouge orangé, groupées par 2 à 4 au sommet d'une hampe florale robuste et creuse. Chaque fleur mesure 10 à 15 cm de diamètre, avec six tépales étalés et des étamines proéminentes. Fruit et graines. Le fruit est une capsule à trois loges contenant des graines plates et noires, utilisées pour la multiplication de l'espèce. Les parties utilisées sont principalement le bulbe en usage externe strict.",
@@ -546,8 +566,10 @@ const plantesData = [
     "familleDescription": "",
     "familleImage": "",
     "familleNum": "5",
-    "toxBadgeColor": "red",
-    "toxBadgeText": "Toxique"
+    "toxBadgeColor": "yellow",
+    "toxBadgeText": "Conditionnel",
+    "usageType": "Médicinale",
+    "maladieSummary": "Nerveux, Cutané"
   },
   {
     "id": 12,
@@ -567,10 +589,10 @@ const plantesData = [
       "ht": "Ponm kajou/ nwa"
     },
     "systeme": {
-      "fr": "A. occidentale cible préférentiellement les systèmes digestif et cutané, avec des effets bénéfiques "
+      "fr": "Digestif, Immunitaire, Cardiovasculaire"
     },
-    "toxicite": "unknown",
-    "toxiciteLevel": "unknown",
+    "toxicite": null,
+    "toxiciteLevel": "caution",
     "sections": {
       "introduction": "Anacardium occidentale L. (syn. Cassuvium pomiferum) est un arbre exotique abondant, cultivé et naturalisé dans les Départements du Sud et de la Grand'Anse. Il appartient à la famille des Anacardiacées, une grande famille tropicale d'environ 800 espèces reconnue pour ses riches usages alimentaires et médicinaux mondiaux. Cette famille se distingue par une signature phytochimique dominée par les tanins condensés, les acides anacardiques, les cardanols et les flavonoïdes, ciblant préférentiellement les systèmes digestif, tégumentaire et cutané. Il convient de noter que certains membres de cette famille — notamment les genres Comocladia et Metopium présents en Haïti — renferment des résines urushiol extrêmement caustiques, exigeant une vigilance absolue quant aux confusions possibles. Au sein de cette famille, Anacardium occidentale constitue l'une des espèces économiquement les plus importantes au niveau mondial, tant pour ses fruits que pour ses noix. Dans les deux départements, cet arbre présente un usage mixte alimentaire et médicinal majeur.",
       "description": "A. occidentale est un arbre de taille moyenne pouvant atteindre 10 à 15 mètres de hauteur, à port étalé et ramification basse, adapté aux climats tropicaux de basse altitude (POWO, Kew Science , World Flora Online, 2026). Tiges et écorce. Le tronc est court et trapu, se ramifiant rapidement en grosses branches horizontales. L'écorce est rugueuse, de couleur gris-brun, et contient des tanins astringents utilisés traditionnellement pour les soins dentaires. Feuilles. Les feuilles sont simples, alternes, obovales à oblongues, coriaces et persistantes, mesurant 8 à 20 cm de longueur. Elles présentent une nervation pennée bien marquée et une surface lisse et brillante. Fleurs. Les inflorescences sont des panicules terminales portant de nombreuses petites fleurs polygames, blanc-rosé, parfumées et mellifères. Fruit. Le fruit véritable est la noix réniforme gris-brun qui surmonte le faux-fruit charnu appelé « pomme cajou ». Ce dernier, de couleur jaune à rouge selon la variété, est juteux et riche en vitamine C. La coque de la noix contient un liquide caustique riche en cardol et acides anacardiques. Les parties utilisées sont les feuilles, l'écorce, les fruits (pomme cajou) et les noix (amande).",
@@ -597,7 +619,9 @@ const plantesData = [
     "familleImage": "",
     "familleNum": "6",
     "toxBadgeColor": "yellow",
-    "toxBadgeText": "Données insuffisantes"
+    "toxBadgeText": "Conditionnel",
+    "usageType": "Alimentaire et Médicinale",
+    "maladieSummary": "Digestif, Immunitaire, Cardiovasculaire"
   },
   {
     "id": 13,
@@ -616,10 +640,10 @@ const plantesData = [
       "ht": "Bwa panyòl"
     },
     "systeme": {
-      "fr": "Les usages traditionnels de C. pinnatifolia ciblent principalement le système tégumentaire, avec des"
+      "fr": "Cutané"
     },
-    "toxicite": "unknown",
-    "toxiciteLevel": "unknown",
+    "toxicite": null,
+    "toxiciteLevel": "caution",
     "sections": {
       "introduction": "Comocladia pinnatifolia L. (syn. Comocladia integrifolia) est un arbre natif documenté dans les Départements du Sud et de la Grand'Anse. Il appartient à la famille des Anacardiacées, une famille tropicale majoritairement composée d'arbres, incontournable dans la flore du grand sud d'Haïti avec ses riches usages alimentaires et médicinaux. Cette famille se distingue par sa signature phytochimique dominée par les tanins condensés, les acides anacardiques, les cardanols, les flavonoïdes et les terpènes, ciblant préférentiellement les systèmes digestif, tégumentaire et cutané. Il convient de noter une vigilance particulière car certaines espèces de cette famille — notamment le genre Comocladia — renferment des principes actifs très puissants incluant l'urushiol, une résine hautement allergisante, exigeant une préparation adéquate et des précautions strictes lors de toute manipulation. Au sein de cette famille, C. pinnatifolia fait partie du genre Comocladia, reconnu dans toute la Caraïbe pour sa sève extrêmement irritante et ses propriétés défensives remarquables. Son usage local reste principalement utilitaire pour les clôtures et occasionnellement médicinal par voie externe, malgré les risques inhérents.",
       "description": "C. pinnatifolia est un arbre de basse altitude, abondant dans son aire de distribution naturelle (POWO, Kew Science , World Flora Online, 2026). Tiges et écorce. Le tronc développe une écorce rugueuse et fissurée avec l'âge. Les branches produisent une sève laiteuse particulièrement caustique au contact de toute blessure mécanique — propriété défensive caractéristique du genre Comocladia et responsable de la réputation de toxicité de la plante. Cette sève constitue le principal danger lors de la manipulation. Feuilles. Les feuilles sont composées pennées, persistantes et coriaces, adaptées aux conditions climatiques tropicales. Leur surface peut sécréter des composés irritants par simple contact, particulièrement par temps chaud et humide. Fleurs. La plante produit de petites fleurs discrètes, organisées en inflorescences terminales, suivant le patron floral typique des Anacardiacées. Fruit. Le fruit est une petite drupe qui contient une graine unique, permettant la reproduction et la dissémination de l'espèce. Les parties utilisées dans les pratiques locales sont les feuilles et l'écorce, toujours avec d'extrêmes précautions.",
@@ -646,7 +670,9 @@ const plantesData = [
     "familleImage": "",
     "familleNum": "6",
     "toxBadgeColor": "yellow",
-    "toxBadgeText": "Données insuffisantes"
+    "toxBadgeText": "Conditionnel",
+    "usageType": "Médicinale",
+    "maladieSummary": "Cutané"
   },
   {
     "id": 14,
@@ -665,10 +691,10 @@ const plantesData = [
       "ht": "Pye mango"
     },
     "systeme": {
-      "fr": "Les systèmes principalement concernés par les usages traditionnels de M. indica sont les systèmes im"
+      "fr": "Digestif, Immunitaire, Oculaire"
     },
-    "toxicite": "unknown",
-    "toxiciteLevel": "unknown",
+    "toxicite": null,
+    "toxiciteLevel": "safe",
     "sections": {
       "introduction": "Mangifera indica L. (syn. Mangifera domestica) est un arbre fruitier exotique largement cultivé dans les Départements du Sud et de la Grand'Anse. Il appartient à la famille des Anacardiacées, une famille composée majoritairement d'arbres, incontournable dans la flore du grand sud d'Haïti. Cette famille se distingue par de riches usages alimentaires et médicinaux, avec une signature phytochimique dominée par les tanins condensés, les acides anacardiques, les cardanols, les flavonoïdes et les terpènes, ciblant préférentiellement les systèmes digestif, tégumentaire et cutané. Il convient de noter qu'il faut être vigilant avec certaines espèces de cette famille qui renferment des principes actifs très puissants — notamment les résines urushiol allergisantes du cajou ou la sève très irritante du Comocladia. Au sein de cette famille, Mangifera indica fait partie du genre Mangifera, qui regroupe plusieurs espèces d'arbres tropicaux réputés pour leurs fruits comestibles et leurs propriétés médicinales. Le manguier constitue l'un des arbres fruitiers les plus importants d'Haïti, combinant une valeur alimentaire majeure avec des usages thérapeutiques traditionnels bien documentés dans le Sud et la Grand'Anse.",
       "description": "M. indica est un arbre de grande taille, pouvant atteindre 15 à 30 mètres de hauteur, à croissance relativement rapide et à longévité remarquable — certains spécimens peuvent vivre plusieurs siècles (POWO, Kew Science , World Flora Online, 2026). Tiges et écorce. Le tronc est droit, pouvant atteindre un diamètre considérable avec l'âge. L'écorce est rugueuse, de couleur gris-brun, et se fissure longitudinalement. Elle sécrète une résine collante lorsqu'elle est blessée, caractéristique défensive de la famille des Anacardiacées. Feuilles. Les feuilles sont simples, alternes, persistantes, de forme oblongue-lancéolée, mesurant 15 à 30 cm de longueur. Elles sont coriaces, d'un vert foncé brillant sur la face supérieure et plus pâles en dessous. Les jeunes feuilles présentent souvent une teinte rougeâtre caractéristique. Fleurs. Les inflorescences sont des panicules terminales dressées, pouvant porter plusieurs centaines de petites fleurs blanches à jaunâtres, mellifères et légèrement parfumées. La floraison s'étale généralement sur plusieurs semaines. Fruit. Le fruit est une drupe charnue de forme variable selon les cultivars, pesant de 100 g à plus de 1 kg. La chair est juteuse, sucrée, de couleur jaune-orange, entourant un gros noyau fibreux aplati. Les parties utilisées sont les fruits (alimentation), les feuilles et l'écorce (usage médicinal traditionnel).",
@@ -694,8 +720,10 @@ const plantesData = [
     "familleDescription": "",
     "familleImage": "",
     "familleNum": "6",
-    "toxBadgeColor": "yellow",
-    "toxBadgeText": "Données insuffisantes"
+    "toxBadgeColor": "green",
+    "toxBadgeText": "Non toxique",
+    "usageType": "Alimentaire et Médicinale",
+    "maladieSummary": "Digestif, Immunitaire, Oculaire"
   },
   {
     "id": 15,
@@ -715,10 +743,10 @@ const plantesData = [
       "ht": "Monben"
     },
     "systeme": {
-      "fr": "S. mombin cible préférentiellement les systèmes digestif et tégumentaire. Sur le plan digestif, l'es"
+      "fr": "Digestif"
     },
-    "toxicite": "unknown",
-    "toxiciteLevel": "unknown",
+    "toxicite": null,
+    "toxiciteLevel": "safe",
     "sections": {
       "introduction": "Spondias mombin L. (syn. Spondias lutea L.) est un arbre fruitier natif d'Amérique tropicale, commun dans les Départements du Sud et de la Grand'Anse d'Haïti. Il appartient à la famille des Anacardiacées, une famille composée majoritairement d'arbres, incontournable dans la flore du grand sud. Cette famille se distingue par de riches usages alimentaires et médicinaux, avec une signature phytochimique dominée par les tanins condensés, les acides anacardiques, les cardanols, les flavonoïdes et les terpènes, ciblant préférentiellement les systèmes digestif, tégumentaire et cutané. Il convient de noter que certaines espèces de cette famille — notamment le Comocladia — renferment des principes actifs très puissants ou potentiellement toxiques, comme les résines d'urushiol allergisantes, exigeant une préparation adéquate. Au sein de cette famille, Spondias mombin fait partie du genre Spondias, qui regroupe plusieurs espèces fruitières tropicales à fort potentiel alimentaire et thérapeutique. Le monben constitue à la fois un fruit apprécié pour sa richesse en vitamine C et un remède traditionnel documenté dans le Sud et la Grand'Anse pour les troubles digestifs, respiratoires et cutanés.",
       "description": "S. mombin est un arbre de taille moyenne à grande, pouvant atteindre 15 à 25 mètres de hauteur, adapté aux basses altitudes tropicales (POWO, Kew Science , World Flora Online, 2026). Tiges et tronc. Le tronc est droit, cylindrique, avec une écorce grisâtre et rugueuse. Les branches sont étalées et forment une couronne arrondie. L'écorce, utilisée en médecine traditionnelle, contient des tanins responsables de ses propriétés astringentes. Feuilles. Les feuilles sont composées, pennées, avec 7 à 17 folioles oblongues ou elliptiques, à bord entier ou légèrement denté. Elles sont alternes, caduques pendant la saison sèche, et dégagent une odeur caractéristique lorsqu'on les froisse. Fleurs. Les fleurs sont petites, blanches ou jaunâtres, regroupées en panicules terminales ou axillaires. Elles sont généralement polygames, avec des fleurs mâles, femelles et hermaphrodites sur le même arbre. Fruit. Le fruit est une drupe ovoïde ou ellipsoïde, de 2 à 4 cm de long, de couleur jaune à maturité. La pulpe est juteuse, de saveur acide et astringente, entourant un noyau dur contenant 2 à 5 graines. C'est la partie principalement consommée et transformée en jus. Les parties utilisées sont les fruits, les feuilles et l'écorce.",
@@ -744,8 +772,10 @@ const plantesData = [
     "familleDescription": "",
     "familleImage": "",
     "familleNum": "6",
-    "toxBadgeColor": "yellow",
-    "toxBadgeText": "Données insuffisantes"
+    "toxBadgeColor": "green",
+    "toxBadgeText": "Non toxique",
+    "usageType": "Alimentaire et Médicinale",
+    "maladieSummary": "Digestif"
   },
   {
     "id": 16,
@@ -763,10 +793,10 @@ const plantesData = [
       "ht": "Siwèl"
     },
     "systeme": {
-      "fr": "Selon les données scientifiques disponibles, S. purpurea cible principalement les systèmes digestif "
+      "fr": "Digestif, Immunitaire"
     },
-    "toxicite": "toxic",
-    "toxiciteLevel": "toxic",
+    "toxicite": null,
+    "toxiciteLevel": "safe",
     "sections": {
       "introduction": "Spondias purpurea L. (syn. Spondias cirouella) est un arbre natif documenté dans les Départements du Sud et de la Grand'Anse. Il appartient à la famille des Anacardiacées, une grande famille tropicale composée majoritairement d'arbres, particulièrement riche en espèces alimentaires et médicinales. Cette famille se caractérise par une signature phytochimique dominée par les tanins condensés, les acides anacardiques, les cardanols, les flavonoïdes et les terpènes, ciblant préférentiellement les systèmes digestif, tégumentaire et cutané. Il convient de noter que certaines espèces de cette famille — notamment le genre Comocladia — renferment des principes très irritants dans leur sève, exigeant une vigilance particulière quant aux confusions possibles. Au sein de cette famille, S. purpurea fait partie du genre Spondias, qui regroupe plusieurs espèces fruitières tropicales à fort potentiel alimentaire et thérapeutique. Le Siwèl est principalement valorisé pour ses fruits comestibles et ses propriétés apaisantes pour les maux de gorge.",
       "description": "S. purpurea est un arbre de taille moyenne, pouvant atteindre 8 à 15 mètres de hauteur, adapté aux basses altitudes tropicales (POWO, Kew Science , World Flora Online, 2026). Tiges et tronc. Le tronc présente une écorce lisse à légèrement rugueuse, de couleur gris-brun. Les jeunes rameaux sont lisses et portent des cicatrices foliaires caractéristiques. Feuilles. Les feuilles sont composées, pennées, caduques pendant la saison sèche. Elles comptent généralement 7 à 21 folioles ovales à elliptiques, de couleur vert brillant, à marge légèrement dentée. Cette caractéristique caduque permet à l'arbre de résister aux périodes de sécheresse. Fleurs. Les fleurs sont petites, blanches à jaunâtres, regroupées en panicules terminales. Elles apparaissent souvent avant ou en même temps que les nouvelles feuilles, généralement en début de saison des pluies. Fruit. Le fruit est une drupe ovoïde de 2 à 4 cm de long, de couleur rouge à pourpre à maturité. La chair est juteuse, de saveur douce à acidulée, entourant un noyau dur contenant généralement 1 à 5 graines. C'est la partie principalement consommée et appréciée. Les parties utilisées sont les fruits frais et les feuilles.",
@@ -792,8 +822,10 @@ const plantesData = [
     "familleDescription": "",
     "familleImage": "",
     "familleNum": "6",
-    "toxBadgeColor": "red",
-    "toxBadgeText": "Toxique"
+    "toxBadgeColor": "green",
+    "toxBadgeText": "Non toxique",
+    "usageType": "Alimentaire et Médicinale",
+    "maladieSummary": "Digestif, Immunitaire"
   },
   {
     "id": 17,
@@ -819,10 +851,10 @@ const plantesData = [
       "ht": "Kachiman maron"
     },
     "systeme": {
-      "fr": "Les usages médicinaux d'A. glabra ciblent principalement les systèmes digestif et cellulaire. Au niv"
+      "fr": "Digestif, Respiratoire"
     },
-    "toxicite": "toxic",
-    "toxiciteLevel": "toxic",
+    "toxicite": null,
+    "toxiciteLevel": "caution",
     "sections": {
       "introduction": "Annona glabra L. (syn. Annona palustris) est un arbre natif d'Haïti connu sous le nom créole de « Kachiman maron ». Il appartient à la famille des Annonacées, une grande famille tropicale principalement composée d'arbres, reconnue pour ses riches usages alimentaires, médicinaux et aromatiques. Cette famille se distingue par une signature phytochimique unique dominée par les acétogénines — des composés bioactifs puissants — accompagnées d'alcaloïdes, de flavonoïdes et de terpènes, ciblant préférentiellement les systèmes digestif, nerveux et cellulaire. Il convient de souligner que toutes les graines des Annonacées contiennent des acétogénines neurotoxiques, exigeant une prudence particulière. Au sein de cette famille, Annona glabra fait partie du genre Annona, qui regroupe les espèces productrices de fruits tropicaux les plus appréciés — corossol, pomme cannelle, cachimant — tous caractérisés par leur pulpe crémeuse et leurs propriétés bioactives. Dans les Départements du Sud et de la Grand'Anse, cette espèce très rare présente un usage polyvalent : alimentaire occasionnel, médicinal traditionnel et artisanal pour la pêche.",
       "description": "A. glabra est un arbre de basse altitude, adapté aux zones humides et aux environnements de mangrove, pouvant atteindre 8 à 15 mètres de hauteur (POWO, Kew Science , World Flora Online, 2026). Sa tolérance à l'inondation le distingue nettement des autres espèces du genre Annona. Tiges et racines. Le tronc développe un système racinaire particulièrement adapté aux sols gorgés d'eau. Les racines produisent un bois très léger, spongieux, utilisé localement pour confectionner des flotteurs de filets de pêche. L'écorce est lisse à légèrement fissurée, de couleur gris-brun. Feuilles. Les feuilles sont simples, alternes, entières, de forme oblongue à elliptique, mesurant 8 à 20 cm de longueur. Elles sont coriaces, d'un vert foncé brillant sur la face supérieure et plus pâles en dessous. Le limbe est glabre, ce que reflète l'épithète spécifique « glabra ». Fleurs. Les fleurs sont solitaires ou groupées par 2-3, de couleur jaune-verdâtre, mesurant environ 2-3 cm de diamètre. Elles présentent la structure typique des Annonacées avec trois sépales et six pétales disposés en deux verticilles. Fruit. Le fruit est un syncarpe globuleux à ovoïde, de 5 à 15 cm de diamètre, à surface lisse ou légèrement bosselée, de couleur jaune à maturité. La pulpe blanchâtre à jaunâtre, comestible mais moins savoureuse que celle d'autres Annona, contient de nombreuses graines noires toxiques. Les parties utilisées sont les feuilles, les fruits mûrs (pulpe uniquement) et le bois des racines.",
@@ -848,8 +880,10 @@ const plantesData = [
     "familleDescription": "Les Annonacées forment une famille tropicale de plus de 2 400 espèces réparties en 135 genres, principalement représentée par des arbres et arbustes des régions chaudes du globe. Cette famille revêt une importance économique majeure avec des genres alimentaires de premier plan comme Annona (corossol, pomme cannelle, cachimant), ainsi que des espèces aromatiques précieuses telles qu'Ylang-ylang (Cananga odorata). Sur le plan médicinal, elle se distingue par une signature phytochimique unique dominée par les acétogénines — des composés bioactifs puissants ciblant préférentiellement les systèmes digestif, nerveux et cellulaire. Ces molécules s'accompagnent d'alcaloïdes isoquinoléiques, de flavonoïdes et de composés terpéniques volatils responsables des arômes caractéristiques. Cependant, cette richesse chimique exige une vigilance particulière : toutes les graines de la famille contiennent des acétogénines neurotoxiques potentiellement dangereuses, et certaines espèces comme Annona glabra présentent des risques de toxicité neurologique en cas d'usage prolongé ou mal dosé.",
     "familleImage": "",
     "familleNum": "7",
-    "toxBadgeColor": "red",
-    "toxBadgeText": "Toxique"
+    "toxBadgeColor": "yellow",
+    "toxBadgeText": "Conditionnel",
+    "usageType": "Alimentaire et Médicinale",
+    "maladieSummary": "Digestif, Respiratoire"
   },
   {
     "id": 18,
@@ -870,10 +904,10 @@ const plantesData = [
       "ht": "Kowosòl"
     },
     "systeme": {
-      "fr": "Les usages traditionnels d'A. muricata dans les Départements du Sud et de la Grand'Anse ciblent prin"
+      "fr": "Digestif, Immunitaire, Nerveux"
     },
-    "toxicite": "toxic",
-    "toxiciteLevel": "toxic",
+    "toxicite": null,
+    "toxiciteLevel": "caution",
     "sections": {
       "introduction": "Annona muricata L. (syn. Annona macrocarpa) est un arbre fruitier exotique, largement cultivé dans les Départements du Sud et de la Grand'Anse. Il appartient à la famille des Annonacées, une famille tropicale principalement composée d'arbres et d'arbustes, reconnue pour ses riches usages alimentaires, médicinaux et aromatiques. Cette famille se distingue par une signature phytochimique dominée par les acétogénines — des molécules complexes aux propriétés cytotoxiques remarquables —, ainsi que par des alcaloïdes, flavonoïdes et composés terpéniques. Sur le plan thérapeutique, les Annonacées ciblent préférentiellement les systèmes digestif, nerveux et cellulaire. Il convient cependant de noter qu'une vigilance particulière s'impose avec cette famille : toutes les espèces renferment des acétogénines neurotoxiques concentrées dans les graines, et l'usage prolongé des feuilles à forte dose peut présenter des risques. Au sein de cette famille, Annona muricata fait partie du genre Annona, qui regroupe plusieurs arbres fruitiers tropicaux — dont le kachiman (Annona reticulata) et l'ata (Annona squamosa) — tous appréciés pour leurs fruits comestibles mais nécessitant des précautions d'usage. Le corossol occupe une place particulière comme aliment-médicament dans les Départements du Sud et de la Grand'Anse, où son jus constitue une boisson rafraîchissante populaire et ses feuilles un remède traditionnel contre l'insomnie.",
       "description": "A. muricata est un arbre de taille moyenne, pouvant atteindre 8 à 12 mètres de hauteur, à croissance relativement rapide et à port étalé (POWO, Kew Science , World Flora Online, 2026). Tronc et écorce. Le tronc est droit, de diamètre modeste, recouvert d'une écorce lisse à rugueuse, de couleur gris-brun. L'écorce dégage une odeur caractéristique lorsqu'elle est entaillée et fait partie des parties utilisées en médecine traditionnelle. Feuilles. Les feuilles sont simples, alternes, de forme oblongue-elliptique, mesurant 8 à 15 cm de longueur. Elles sont coriaces, d'un vert brillant sur la face supérieure et plus pâles en dessous. Lorsqu'on les froisse, elles dégagent une odeur aromatique distinctive. Fleurs. Les fleurs sont solitaires, de couleur jaune-verdâtre, composées de trois sépales et six pétales charnus disposés en deux verticilles. Elles apparaissent directement sur le tronc et les branches principales (cauliflorie), phénomène caractéristique du genre Annona. Fruit. Le fruit est l'élément le plus remarquable de la plante : volumineux (jusqu'à 30 cm de longueur), de forme ovoïde à cordiforme, recouvert d'une peau verte garnie d'épines molles. La pulpe blanche, crémeuse et très parfumée, entoure de nombreuses graines noires brillantes. C'est cette pulpe qui constitue la partie alimentaire de la plante. Les parties utilisées sont les feuilles (usage médicinal), les fruits (usage alimentaire et médicinal), l'écorce et exceptionnellement les racines. Les graines ne sont jamais utilisées en raison de leur toxicité.",
@@ -899,8 +933,10 @@ const plantesData = [
     "familleDescription": "",
     "familleImage": "",
     "familleNum": "7",
-    "toxBadgeColor": "red",
-    "toxBadgeText": "Toxique"
+    "toxBadgeColor": "yellow",
+    "toxBadgeText": "Conditionnel",
+    "usageType": "Alimentaire et Médicinale",
+    "maladieSummary": "Digestif, Immunitaire, Nerveux"
   },
   {
     "id": 19,
@@ -919,10 +955,10 @@ const plantesData = [
       "ht": "Kachiman kè bèf"
     },
     "systeme": {
-      "fr": "A. reticulata cible principalement les systèmes digestif et parasitaire, avec des applications docum"
+      "fr": "Digestif"
     },
-    "toxicite": "unknown",
-    "toxiciteLevel": "unknown",
+    "toxicite": null,
+    "toxiciteLevel": "caution",
     "sections": {
       "introduction": "Annona reticulata L. (syn. Annona longifolia) est un arbre fruitier exotique, largement cultivé dans les Départements du Sud et de la Grand'Anse. Il appartient à la famille des Annonacées, une famille tropicale principalement arborescente qui se distingue par de riches usages alimentaires, médicinaux et aromatiques. Cette famille exprime une signature phytochimique dominée par les acétogénines, les alcaloïdes et les flavonoïdes, ciblant préférentiellement les systèmes digestif, nerveux et cellulaire. Il convient de noter une vigilance particulière : les graines de toutes les espèces de cette famille renferment des acétogénines neurotoxiques, exigeant une préparation adéquate et des dosages stricts. Au sein de cette famille, A. reticulata fait partie du genre Annona, qui regroupe plusieurs arbres fruitiers tropicaux — dont le corossol (Annona muricata) et l'atemoya (Annona cherimola × A. squamosa) — tous appréciés pour leurs fruits sucrés et leurs propriétés thérapeutiques traditionnelles. Cette espèce est documentée dans le Sud et la Grand'Anse principalement comme plante alimentaire et antidiarrhéique.",
       "description": "A. reticulata est un arbre de taille moyenne, typique des zones tropicales de basse altitude, pouvant atteindre 8 à 10 mètres de hauteur (POWO, Kew Science). Tronc et branches. Le tronc est droit, à écorce lisse et grisâtre. Les branches s'étalent horizontalement, formant une couronne arrondie et ombragée. Le bois est tendre et de couleur claire. Feuilles. Les feuilles sont simples, alternes, oblongues à elliptiques, mesurant 10 à 20 cm de longueur. Elles sont coriaces, vert foncé sur la face supérieure et plus pâles dessous, avec une nervation réticulée bien visible — d'où le nom spécifique « reticulata ». Leur saveur est légèrement amère. Fleurs. Les fleurs sont solitaires ou groupées par 2-4, portées sur de courts pédoncules. Elles présentent trois pétales charnus, verdâtres à l'extérieur et jaunâtres à l'intérieur, caractéristiques de la famille des Annonacées. Fruit. Le fruit, appelé localement « kachiman », est la partie la plus remarquable de la plante. Il est globuleux à cordiforme, mesurant 8 à 15 cm de diamètre, avec une surface lisse marquée de dépressions polygonales qui lui donnent un aspect réticulé. La chair est blanchâtre, douce à fade, parsemée de graines noires brillantes. Les graines sont toxiques et ne doivent jamais être consommées. Les parties utilisées sont principalement les fruits pour l'alimentation et les feuilles pour les usages médicinaux.",
@@ -949,7 +985,9 @@ const plantesData = [
     "familleImage": "",
     "familleNum": "7",
     "toxBadgeColor": "yellow",
-    "toxBadgeText": "Données insuffisantes"
+    "toxBadgeText": "Conditionnel",
+    "usageType": "Alimentaire et Médicinale",
+    "maladieSummary": "Digestif"
   },
   {
     "id": 20,
@@ -968,10 +1006,10 @@ const plantesData = [
       "ht": "Kachiman zonbi"
     },
     "systeme": {
-      "fr": "Selon la documentation ethnobotanique, A. squamosa cible principalement le système tégumentaire et p"
+      "fr": "Immunitaire, Nerveux, Cardiovasculaire"
     },
-    "toxicite": "unknown",
-    "toxiciteLevel": "unknown",
+    "toxicite": null,
+    "toxiciteLevel": "caution",
     "sections": {
       "introduction": "Annona squamosa L. (syn. Annona asiatica) est un arbre fruitier natif documenté dans les Départements du Sud et de la Grand'Anse. Il appartient à la famille des Annonacées, une famille tropicale principalement composée d'arbres, reconnue pour ses riches usages alimentaires, médicinaux et aromatiques. Sur le plan phytochimique, cette famille se distingue par une signature dominée par les acétogénines, l'annonacine, l'asimicine et la réticuline, ciblant préférentiellement les systèmes digestif, nerveux et cellulaire. Il convient de noter une alerte toxicologique majeure : toutes les graines des Annonacées contiennent des acétogénines neurotoxiques, et l'usage prolongé des feuilles à forte dose est déconseillé. Au sein de cette famille, A. squamosa fait partie du genre Annona, qui regroupe plusieurs espèces fruitières tropicales d'importance alimentaire — dont le corossol (Annona muricata) et l'attier (Annona cherimola). A. squamosa est une plante à double usage, principalement alimentaire pour ses fruits très sucrés et médicinale pour ses feuilles utilisées en infusion.",
       "description": "A. squamosa est un petit arbre pouvant atteindre 6 à 8 mètres de hauteur, adapté aux basses altitudes tropicales (POWO, Kew Science , World Flora Online, 2026). Tiges et écorce. Le tronc est droit avec une écorce grisâtre et lisse. Les jeunes rameaux sont pubescents et dégagent une odeur caractéristique lorsqu'ils sont brisés. Feuilles. Les feuilles sont alternes, simples, oblongues à elliptiques, mesurant 6 à 17 cm de longueur. Elles sont vert pâle à la face supérieure et plus claires à la face inférieure, avec une nervation pennée bien marquée. Elles dégagent une odeur particulière au froissement. Fleurs. Les fleurs sont solitaires ou groupées par 2-4, portées par un pédoncule court. Elles présentent trois pétales externes verdâtres et trois pétales internes plus petits, jaunâtres, caractéristiques de la famille des Annonacées. Fruit. Le fruit est l'organe le plus distinctif : de forme globuleuse à ovoïde, mesurant 6 à 10 cm de diamètre, avec une surface écailleuse caractéristique formée de tubercules arrondis. La pulpe est blanche, très sucrée et parfumée, entourant de nombreuses graines noires et toxiques. Les parties utilisées sont les fruits (pulpe uniquement), les feuilles et exceptionnellement les graines (usage externe seulement en raison de leur toxicité).",
@@ -998,7 +1036,9 @@ const plantesData = [
     "familleImage": "",
     "familleNum": "7",
     "toxBadgeColor": "yellow",
-    "toxBadgeText": "Données insuffisantes"
+    "toxBadgeText": "Conditionnel",
+    "usageType": "Alimentaire et Médicinale",
+    "maladieSummary": "Immunitaire, Nerveux, Cardiovasculaire"
   },
   {
     "id": 21,
@@ -1017,10 +1057,10 @@ const plantesData = [
       "ht": "Ilang-ilang"
     },
     "systeme": {
-      "fr": "Les usages traditionnels et les recherches préliminaires situent l'action de C. odorata principaleme"
+      "fr": "Nerveux, Cardiovasculaire, Cutané"
     },
-    "toxicite": "toxic",
-    "toxiciteLevel": "toxic",
+    "toxicite": null,
+    "toxiciteLevel": "safe",
     "sections": {
       "introduction": "Cananga odorata (syn. Uvaria odorata, Canangium odoratum) est un arbre exotique de basse altitude, rare dans les Départements du Sud et de la Grand'Anse. Il appartient à la famille des Annonacées, qui regroupe principalement des arbres et arbustes tropicaux reconnus pour leurs usages alimentaires diversifiés — notamment le corossol (Annona muricata) et la pomme-cannelle (Annona squamosa) largement consommés en Haïti — ainsi que leurs applications médicinales et aromatiques. Sur le plan phytochimique, cette famille se caractérise par une signature moléculaire dominée par les acétogénines, des composés uniques aux propriétés neurotoxiques puissantes, accompagnées d'alcaloïdes, de flavonoïdes et de terpènes aromatiques. Ces substances ciblent préférentiellement les systèmes digestif, nerveux et cellulaire. Il convient de souligner qu'une vigilance particulière s'impose avec cette famille : toutes les graines contiennent des acétogénines toxiques, et l'usage prolongé des feuilles à forte dose reste déconseillé. Au sein de cette famille, Cananga odorata se distingue par sa vocation exclusivement aromatique, constituant l'une des sources les plus précieuses d'huile essentielle au monde pour la parfumerie de luxe.",
       "description": "C. odorata est un arbre tropical à port élancé, pouvant atteindre 20 à 25 mètres de hauteur dans son habitat naturel, bien que les spécimens cultivés dans le Sud et la Grand'Anse restent généralement plus modestes. Tronc et écorce. Le tronc est droit, recouvert d'une écorce lisse à légèrement rugueuse, de couleur gris-brun. Le bois est léger et parfumé, particulièrement recherché localement pour certains usages artisanaux. Feuilles. Les feuilles sont simples, alternes, oblongues à elliptiques, mesurant 10 à 20 cm de longueur. Elles présentent une texture coriace et une couleur vert brillant sur la face supérieure, plus pâle sur la face inférieure. Lorsqu'on les froisse, elles dégagent une fragrance subtile mais distincte. Fleurs. Les fleurs constituent la partie la plus remarquable de la plante : grandes, pendantes, à six pétales charnus et allongés, elles évoluent du vert-jaune au jaune intense puis au brun-rouge à maturité. Leur parfum puissant et envoûtant, particulièrement intense le soir, attire les pollinisateurs nocturnes et constitue la source de l'huile essentielle d'ylang-ylang. Fruits. Les fruits sont des baies charnues, disposées en grappes, contenant plusieurs graines noires toxiques comme chez toutes les Annonacées. Les parties utilisées sont principalement les fleurs pour l'extraction d'huile essentielle, et accessoirement les feuilles et l'écorce dans certaines préparations traditionnelles.",
@@ -1046,8 +1086,10 @@ const plantesData = [
     "familleDescription": "",
     "familleImage": "",
     "familleNum": "7",
-    "toxBadgeColor": "red",
-    "toxBadgeText": "Toxique"
+    "toxBadgeColor": "green",
+    "toxBadgeText": "Non toxique",
+    "usageType": "Médicinale",
+    "maladieSummary": "Nerveux, Cardiovasculaire, Cutané"
   },
   {
     "id": 22,
@@ -1065,10 +1107,10 @@ const plantesData = [
       "ht": "Seleri"
     },
     "systeme": {
-      "fr": "Les usages traditionnels du céleri dans le Sud et la Grand'Anse ciblent préférentiellement le systèm"
+      "fr": "Digestif, Urinaire, Cardiovasculaire"
     },
-    "toxicite": "caution",
-    "toxiciteLevel": "caution",
+    "toxicite": null,
+    "toxiciteLevel": "safe",
     "sections": {
       "introduction": "Apium graveolens L. (syn. Apium vulgare) est une herbe bisannuelle exotique, cultivée de manière sporadique dans les Départements du Sud et de la Grand'Anse où elle demeure rare. Cette espèce appartient à la famille des Apiacées, une vaste famille principalement herbacée reconnue pour ses riches applications culinaires et thérapeutiques. Au sein de cette famille, elle fait partie du genre Apium, un petit groupe d'herbes aromatiques des zones humides, caractérisées par leurs propriétés diurétiques et leur saveur salée distinctive. Le céleri constitue à la fois une épice aromatique appréciée dans la cuisine haïtienne et un remède traditionnel utilisé principalement pour ses effets hypotenseurs et diurétiques dans les deux départements.",
       "description": "A. graveolens est une herbe robuste pouvant atteindre 60 à 100 cm de hauteur, particulièrement adaptée aux sols humides et aux altitudes élevées des montagnes haïtiennes. Tiges et racines. La plante développe des tiges creuses, cannelées et ramifiées, caractéristiques de la famille des Apiacées. Le système racinaire pivotant, charnu et blanchâtre, constitue l'une des parties utilisées en médecine traditionnelle locale. Les tiges jeunes peuvent être consommées comme légume, bien que cet usage reste marginal en Haïti. Feuilles. Les feuilles sont composées, divisées en segments dentés, d'un vert brillant caractéristique. Elles dégagent une odeur aromatique intense et possèdent une saveur salée très reconnaissable, particulièrement concentrée dans les conditions d'altitude des montagnes du Sud et de la Grand'Anse. Cette saveur distinctive est due à la forte concentration en nitrates et en composés aromatiques. Fleurs et fruits. La deuxième année, la plante produit des ombelles composées de petites fleurs blanches ou verdâtres, typiques de la famille. Les fruits sont de petites graines aromatiques, également utilisées comme épice locale. Les parties utilisées comprennent les feuilles fraîches (usage principal), les graines et les racines.",
@@ -1094,8 +1136,10 @@ const plantesData = [
     "familleDescription": "Dominant les écosystèmes tempérés et méditerranéens avec plus de 3 700 espèces réparties en 434 genres, les Apiacées constituent l'une des familles les plus reconnaissables du règne végétal grâce à leurs inflorescences caractéristiques en ombelles. Cette vaste famille rassemble principalement des herbes annuelles et vivaces, incluant de nombreuses espèces d'importance culinaire majeure comme le persil (Petroselinum crispum), la carotte (Daucus carota), le fenouil (Foeniculum vulgare) et la coriandre (Coriandrum sativum). Sur le plan médicinal, elle offre des genres thérapeutiques de premier plan : Centella pour la cicatrisation et la circulation, Daucus pour les affections urinaires, et Foeniculum pour les troubles digestifs. Les Apiacées se distinguent par une richesse phytochimique exceptionnelle dominée par les huiles essentielles terpéniques, les flavonoïdes (particulièrement l'apigénine), les coumarines et les polyacétylènes, ciblant préférentiellement les systèmes urinaire, digestif et tégumentaire. Cependant, cette famille exige une vigilance absolue : certains genres comme Conium et Cicuta renferment des alcaloïdes mortels, rendant l'identification botanique rigoureuse indispensable avant tout usage.",
     "familleImage": "",
     "familleNum": "8",
-    "toxBadgeColor": "yellow",
-    "toxBadgeText": "Précautions"
+    "toxBadgeColor": "green",
+    "toxBadgeText": "Non toxique",
+    "usageType": "Alimentaire et Médicinale",
+    "maladieSummary": "Digestif, Urinaire, Cardiovasculaire"
   },
   {
     "id": 23,
@@ -1114,10 +1158,10 @@ const plantesData = [
       "ht": "Gotu Kola"
     },
     "systeme": {
-      "fr": "C. asiatica cible préférentiellement les systèmes tégumentaire et nerveux. Pour le système tégumenta"
+      "fr": "Nerveux"
     },
-    "toxicite": "unknown",
-    "toxiciteLevel": "unknown",
+    "toxicite": null,
+    "toxiciteLevel": "safe",
     "sections": {
       "introduction": "Centella asiatica (L.) (syn. Hydrocotyle asiatica L.) est une herbe pantropicale documentée dans les Départements du Sud et de la Grand'Anse, où elle est connue sous le nom de « Gotu Kola ». Elle appartient à la famille des Apiacées, une grande famille principalement composée d'herbes se distinguant par ses riches usages alimentaires, médicinaux et aromatiques. Au sein de cette famille, C. asiatica fait partie du genre Centella, un petit groupe d'herbes rampantes tropicales réputées pour leurs propriétés cicatrisantes et cognitives. Dans le contexte haïtien, cette plante est principalement utilisée comme médicinale pour rafraîchir le corps et stimuler la mémoire, représentant l'un des remèdes traditionnels les plus recherchés pour les troubles cognitifs et la cicatrisation des plaies.",
       "description": "C. asiatica est une herbe vivace rampante de moyenne altitude, à saveur légèrement amère, aujourd'hui rare dans les deux départements étudiés. Tiges et port. La plante présente un port prostré caractéristique, avec des tiges stolonifères minces qui s'enracinent aux nœuds, lui permettant de s'étaler horizontalement sur le sol et de former des tapis végétaux denses dans les zones humides. Feuilles. Les feuilles constituent la partie la plus reconnaissable de la plante : pétiolées, réniformes à orbiculaires, avec des bords crénelés réguliers. Elles sont disposées en rosettes le long des stolons, d'un vert franc, et présentent une texture légèrement charnue. Ces feuilles, au goût légèrement amer, sont la partie principalement utilisée en médecine traditionnelle. Fleurs et reproduction. Les petites fleurs, peu visibles, sont groupées en ombelles simples de couleur blanchâtre à rosée, portées par de courts pédoncules. La reproduction se fait principalement par voie végétative via les stolons, mais également par graines. Racines. Le système racinaire est superficiel mais bien développé aux nœuds des stolons, permettant une fixation efficace au sol et une absorption optimale de l'humidité. Les parties utilisées sont principalement les feuilles et les parties aériennes, occasionnellement les racines selon certaines préparations traditionnelles.",
@@ -1143,8 +1187,10 @@ const plantesData = [
     "familleDescription": "",
     "familleImage": "",
     "familleNum": "8",
-    "toxBadgeColor": "yellow",
-    "toxBadgeText": "Données insuffisantes"
+    "toxBadgeColor": "green",
+    "toxBadgeText": "Non toxique",
+    "usageType": "Alimentaire et Médicinale",
+    "maladieSummary": "Nerveux"
   },
   {
     "id": 24,
@@ -1163,10 +1209,10 @@ const plantesData = [
       "ht": "Kawòt"
     },
     "systeme": {
-      "fr": "Les systèmes préférentiellement concernés par l'usage de D. carota sont la vision et le système tégu"
+      "fr": "Oculaire"
     },
-    "toxicite": "unknown",
-    "toxiciteLevel": "unknown",
+    "toxicite": null,
+    "toxiciteLevel": "safe",
     "sections": {
       "introduction": "Daucus carota L. (syn. Caucalis carota) est une herbe bisannuelle exotique cultivée dans les Départements du Sud et de la Grand'Anse d'Haïti. Elle appartient à la famille des Apiacées, vaste groupe herbacé réputé pour ses usages alimentaires, médicinaux et aromatiques diversifiés. Cette famille se caractérise par sa richesse en huiles essentielles terpéniques, en flavonoïdes et en coumarines, ciblant préférentiellement les systèmes urinaire, tégumentaire et digestif. Parmi les genres alimentaires majeurs figurent Daucus (carotte), Apium (céleri) et Petroselinum (persil), tandis que les genres médicinaux incluent Centella et Pimpinella. La signature chimique familiale révèle une dominante de phtalides, d'apigénine et de polyacétylènes. Une vigilance particulière s'impose car certaines espèces renferment des furanocoumarines photosensibilisantes ou d'autres principes actifs puissants nécessitant une identification rigoureuse pour éviter les confusions avec des taxons toxiques. Au sein de cette famille, D. carota constitue l'une des racines alimentaires les plus cultivées mondialement et un remède traditionnel pour la vision, valorisé localement pour sa richesse exceptionnelle en provitamine A.",
       "description": "D. carota est une herbe bisannuelle à racine pivotante charnue, cultivée principalement pour sa racine en première année dans les régions de haute altitude des Départements du Sud et de la Grand'Anse, où les conditions climatiques favorisent son développement optimal. Racine. La racine constitue l'organe principal d'intérêt : pivotante, charnue, conique à cylindrique, de couleur orange vif à rouge-orangé selon les cultivars. Cette racine de réserve peut atteindre 15 à 30 cm de longueur et présente une chair ferme, croquante et sucrée. Sa coloration caractéristique résulte de l'accumulation massive de caroténoïdes, principalement le β-carotène. Tiges. En première année, la plante développe une rosette de feuilles basales. La deuxième année, une tige florale dressée, cannelée et ramifiée peut atteindre 60 à 120 cm de hauteur, mais la culture haïtienne privilégie la récolte en première année. Feuilles. Les feuilles sont finement découpées, bi- à tripennatiséquées, d'aspect plumeux, disposées en rosette basale la première année puis alternes sur la tige florale. Elles dégagent une odeur caractéristique lorsqu'on les froisse. Fleurs et fruits. La floraison produit des ombelles composées blanches typiques des Apiacées, souvent marquées d'une fleur centrale rouge-pourpre. Les fruits sont des diakènes côtelés et velus, utilisés traditionnellement comme graines aromatiques. Les parties utilisées documentées dans le Sud et la Grand'Anse sont principalement la racine fraîche, et occasionnellement les graines et les feuilles jeunes.",
@@ -1192,8 +1238,10 @@ const plantesData = [
     "familleDescription": "",
     "familleImage": "",
     "familleNum": "8",
-    "toxBadgeColor": "yellow",
-    "toxBadgeText": "Données insuffisantes"
+    "toxBadgeColor": "green",
+    "toxBadgeText": "Non toxique",
+    "usageType": "Alimentaire et Médicinale",
+    "maladieSummary": "Oculaire"
   },
   {
     "id": 25,
@@ -1212,10 +1260,10 @@ const plantesData = [
       "ht": "Koulan"
     },
     "systeme": {
-      "fr": "Les usages traditionnels d'E. foetidum ciblent préférentiellement les systèmes digestif et respirato"
+      "fr": "Digestif, Respiratoire"
     },
-    "toxicite": "unknown",
-    "toxiciteLevel": "unknown",
+    "toxicite": null,
+    "toxiciteLevel": "safe",
     "sections": {
       "introduction": "Eryngium foetidum L. (syn. Eryngium antihystericum) est une herbe native des Départements du Sud et de la Grand'Anse, où elle est connue sous le nom créole de « Koulan ». Cette espèce appartient à la famille des Apiacées et au genre Eryngium, un groupe particulier de cette famille qui se distingue par ses inflorescences en capitules épineux plutôt qu'en ombelles typiques. Contrairement à la plupart des Apiacées qui privilégient les climats tempérés, E. foetidum s'épanouit dans les zones tropicales humides de basse altitude. Son usage principal dans la région est aromatique — elle constitue l'une des épices fondamentales de la cuisine haïtienne — mais elle possède également des applications médicinales traditionnelles, particulièrement pour les affections respiratoires et digestives. Bien que rare dans son état naturel, cette plante est largement cultivée pour ses qualités culinaires exceptionnelles.",
       "description": "E. foetidum est une herbe vivace de faible stature, formant une rosette basale caractéristique, adaptée aux conditions tropicales humides des Départements du Sud et de la Grand'Anse. Racines. Le système racinaire est pivotant, modérément développé, permettant à la plante de puiser les nutriments dans les sols riches en matière organique qu'elle affectionne. Tiges. Les tiges florifères émergent du centre de la rosette lors de la reproduction, portant les inflorescences caractéristiques du genre Eryngium. Ces tiges sont généralement dressées et peuvent atteindre 30 à 60 cm de hauteur. Feuilles. Les feuilles forment une rosette basale dense et constituent la partie principalement utilisée. Elles sont oblongues à lancéolées, de texture charnue, avec des bords dentés-épineux caractéristiques. Leur surface est lisse et d'un vert intense. Lorsqu'on les froisse, elles dégagent un parfum puissant et distinctif, mélange de coriandre et de menthe avec des notes piquantes, qui constitue leur principal attrait culinaire. Fleurs. Les inflorescences sont des capitules globuleux épineux, blanchâtres à verdâtres, entourés de bractées rigides et épineuses — une caractéristique distinctive du genre Eryngium au sein des Apiacées. Fruit. Les fruits sont de petits akènes surmontés de soies, adaptés à la dispersion par le vent et les animaux. Les parties utilisées sont principalement les feuilles fraîches, et occasionnellement les jeunes tiges.",
@@ -1241,8 +1289,10 @@ const plantesData = [
     "familleDescription": "",
     "familleImage": "",
     "familleNum": "8",
-    "toxBadgeColor": "yellow",
-    "toxBadgeText": "Données insuffisantes"
+    "toxBadgeColor": "green",
+    "toxBadgeText": "Non toxique",
+    "usageType": "Alimentaire et Médicinale",
+    "maladieSummary": "Digestif, Respiratoire"
   },
   {
     "id": 26,
@@ -1260,10 +1310,10 @@ const plantesData = [
       "ht": "Lanni"
     },
     "systeme": {
-      "fr": "Le fenouil cible préférentiellement le système digestif, avec des effets secondaires bénéfiques sur "
+      "fr": "Digestif, Reproducteur, Endocrinien"
     },
-    "toxicite": "toxic",
-    "toxiciteLevel": "toxic",
+    "toxicite": null,
+    "toxiciteLevel": "safe",
     "sections": {
       "introduction": "Foeniculum vulgare Mill. (syn. Anethum foeniculum L.) est une herbe aromatique exotique cultivée dans les Départements du Sud et de la Grand'Anse d'Haïti. Cette espèce appartient à la famille des Apiacées, reconnue pour ses remarquables propriétés aromatiques et digestives. Au sein de cette famille, le genre Foeniculum ne comprend qu'une seule espèce — F. vulgare — mais celle-ci présente plusieurs variétés, dont le fenouil doux utilisé comme légume et le fenouil amer à vocation principalement médicinale. L'usage dominant du « lanni » dans les deux départements est aromatique et thérapeutique, particulièrement apprécié pour traiter les troubles digestifs, notamment les gaz intestinaux et les coliques.",
       "description": "F. vulgare est une herbe vivace robuste pouvant atteindre 1 à 2 mètres de hauteur, caractérisée par son port élégant et son parfum anisé distinctif. Tiges. Les tiges sont dressées, cylindriques, creuses, finement striées et ramifiées vers le sommet. Elles présentent une couleur vert glauque et dégagent une forte odeur anisée lorsqu'elles sont froissées. Feuilles. Le feuillage est remarquablement décoratif : les feuilles sont finement découpées en segments filiformes (pennatiséquées), donnant à la plante un aspect plumeux caractéristique. Cette structure foliaire maximise la surface d'évaporation des huiles essentielles, créant un nuage aromatique autour de la plante. Fleurs. L'inflorescence est une ombelle composée typique des Apiacées, portant de nombreuses petites fleurs jaunes à cinq pétales. Ces ombelles, disposées en parasol, attirent une grande diversité d'insectes pollinisateurs et constituent un excellent indicateur de la maturité de la plante pour la récolte des graines. Fruit et graines. Les fruits sont des diakènes oblongs, côtelés, de couleur brun-vert à maturité. Ces « graines » constituent la partie la plus utilisée, concentrant la majorité des principes actifs aromatiques et thérapeutiques. Les parties utilisées sont principalement les graines mûres et, secondairement, les feuilles fraîches.",
@@ -1289,8 +1339,10 @@ const plantesData = [
     "familleDescription": "",
     "familleImage": "",
     "familleNum": "8",
-    "toxBadgeColor": "red",
-    "toxBadgeText": "Toxique"
+    "toxBadgeColor": "green",
+    "toxBadgeText": "Non toxique",
+    "usageType": "Alimentaire",
+    "maladieSummary": "Digestif, Reproducteur, Endocrinien"
   },
   {
     "id": 27,
@@ -1308,10 +1360,10 @@ const plantesData = [
       "ht": "Pèsi"
     },
     "systeme": {
-      "fr": "Le persil cible préférentiellement le système urinaire et, secondairement, le système sanguin selon "
+      "fr": "Urinaire, Sanguin"
     },
-    "toxicite": "toxic",
-    "toxiciteLevel": "toxic",
+    "toxicite": null,
+    "toxiciteLevel": "safe",
     "sections": {
       "introduction": "Petroselinum crispum (syn. Apium crispum, Petroselinum sativum) est une herbe bisannuelle exotique cultivée dans les Départements du Sud et de la Grand'Anse. Elle appartient à la famille des Apiacées, reconnue pour ses riches usages alimentaires, médicinaux et aromatiques. Au sein de cette famille, elle fait partie du genre Petroselinum, qui ne comprend que quelques espèces mais dont l'importance culinaire et thérapeutique est considérable à l'échelle mondiale. Le persil constitue l'une des épices de base de la cuisine haïtienne et un remède domestique particulièrement apprécié pour ses propriétés diurétiques, documentées dans les deux départements comme moyen de « nettoyer les reins ». Son usage dépasse largement le cadre aromatique puisqu'on le retrouve également en infusion thérapeutique, témoignant de la richesse de ses applications traditionnelles locales.",
       "description": "P. crispum est une herbe bisannuelle à croissance rapide, particulièrement adaptée aux altitudes élevées des montagnes haïtiennes où elle trouve les conditions fraîches nécessaires à son développement optimal. Racines. Le système racinaire se compose d'une racine pivotante charnue, blanchâtre, pouvant atteindre 15-20 cm de longueur. Cette racine, bien que comestible, est rarement utilisée dans les pratiques locales haïtiennes. Tiges et feuilles. La première année, la plante forme une rosette de feuilles basales portées par des pétioles longs et fermes. Les feuilles sont composées, profondément découpées, d'un vert intense brillant, dégageant l'arôme caractéristique du persil lorsqu'on les froisse. Les variétés cultivées en Haïti présentent généralement un feuillage plat plutôt que frisé. Inflorescence et reproduction. La deuxième année, la plante développe une tige florale dressée pouvant atteindre 60-80 cm, terminée par des ombelles composées typiques des Apiacées. Ces ombelles portent de petites fleurs jaunâtres qui donnent des graines aromatiques, également utilisées en médecine traditionnelle. Les parties utilisées sont principalement les feuilles fraîches et, occasionnellement, les graines.",
@@ -1337,8 +1389,10 @@ const plantesData = [
     "familleDescription": "",
     "familleImage": "",
     "familleNum": "8",
-    "toxBadgeColor": "red",
-    "toxBadgeText": "Toxique"
+    "toxBadgeColor": "green",
+    "toxBadgeText": "Non toxique",
+    "usageType": "Alimentaire et Médicinale",
+    "maladieSummary": "Urinaire, Sanguin"
   },
   {
     "id": 28,
@@ -1358,10 +1412,10 @@ const plantesData = [
       "ht": "Zèb mandan bouven"
     },
     "systeme": {
-      "fr": "A. nivea cible principalement le système tégumentaire par voie externe. Son usage traditionnel contr"
+      "fr": "Médicinal"
     },
-    "toxicite": "toxic",
-    "toxiciteLevel": "toxic",
+    "toxicite": null,
+    "toxiciteLevel": "safe",
     "sections": {
       "introduction": "Asclepias nivea L. (syn. Asclepias cubensis) est une herbe native rare des Départements du Sud et de la Grand'Anse, appartenant à la famille des Apocynacées. Au sein de cette famille, elle fait partie du genre Asclepias, un groupe d'environ 140 espèces américaines connues pour leur latex blanc caractéristique et leur rôle écologique crucial comme plantes hôtes des papillons monarques. L'espèce est documentée dans le Sud et la Grand'Anse pour un usage médicinal externe très spécifique : l'application locale de son latex pour éliminer les verrues, pratique qui nécessite une extrême prudence en raison de la toxicité potentielle de cette plante.",
       "description": "A. nivea est une herbe vivace de taille moyenne, adaptée aux altitudes moyennes des deux départements. Elle se distingue par sa saveur âcre et amère, caractéristiques défensives typiques des Apocynacées. Tiges. Les tiges sont dressées, robustes et sécrètent un latex blanc abondant lorsqu'elles sont blessées. Ce latex constitue le principal mécanisme de défense de la plante contre les herbivores. Feuilles. Les feuilles sont opposées, entières, de forme ovale à lancéolée. Leur texture coriace et leur saveur amère découragent efficacement la consommation par les animaux. Comme toutes les parties aériennes, elles contiennent le latex toxique. Fleurs. Les fleurs sont regroupées en ombelles terminales, typiques du genre Asclepias. Chaque fleur présente une structure complexe avec une couronne centrale caractéristique, adaptée à la pollinisation par les insectes spécialisés. Fruit. Le fruit est un follicule allongé qui s'ouvre à maturité pour libérer des graines munies d'une aigrette soyeuse facilitant leur dispersion par le vent. Les parties utilisées sont principalement les feuilles et le latex, toujours en application externe.",
@@ -1387,8 +1441,10 @@ const plantesData = [
     "familleDescription": "Les Apocynacées constituent une remarquable famille de plantes tropicales et subtropicales comprenant environ 5000 espèces réparties en 366 genres. Cette famille rassemble principalement des herbes, arbustes et arbres à latex, dont certains sont devenus emblématiques des jardins créoles comme le frangipanier (Plumeria) et le laurier-rose (Nerium). Au niveau alimentaire, peu d'espèces sont comestibles en raison de leur latex généralement toxique. En revanche, cette famille révèle une valeur médicinale exceptionnelle : Catharanthus roseus fournit la vincristine et vinblastine utilisées en chimiothérapie, tandis que diverses espèces d'Asclepias servent traditionnellement pour les affections cutanées. Sur le plan phytochimique, les Apocynacées se distinguent par leur signature moléculaire dominée par des glycosides cardiotoniques puissants (digitaline, oléandrine, thévetine), des alcaloïdes indoliques, des iridoïdes et un latex riche en triterpènes. Ces composés ciblent préférentiellement les systèmes cardiovasculaire, tégumentaire et nerveux. Attention cruciale : plusieurs genres comme Nerium, Thevetia et Adenium renferment des cardénolides mortels même à faible dose, exigeant une vigilance absolue lors de toute manipulation.",
     "familleImage": "",
     "familleNum": "9",
-    "toxBadgeColor": "red",
-    "toxBadgeText": "Toxique"
+    "toxBadgeColor": "green",
+    "toxBadgeText": "Non toxique",
+    "usageType": "Médicinale",
+    "maladieSummary": ""
   },
   {
     "id": 29,
@@ -1408,10 +1464,10 @@ const plantesData = [
       "ht": "Koton swa"
     },
     "systeme": {
-      "fr": "C. procera cible principalement le système cutané et les processus inflammatoires locaux. Les usages"
+      "fr": "Cutané, Musculosquelettique"
     },
-    "toxicite": "toxic",
-    "toxiciteLevel": "toxic",
+    "toxicite": null,
+    "toxiciteLevel": "safe",
     "sections": {
       "introduction": "Calotropis procera (syn. Asclepias procera) est un arbuste exotique pantropical, documenté dans les Départements du Sud et de la Grand'Anse où il est localement appelé « Koton swa ». Il appartient à la famille des Apocynacées, une famille principalement composée d'herbes, d'arbustes et d'arbres reconnus pour leurs puissants alcaloïdes à visée médicinale. Au sein de cette famille, C. procera fait partie de l'ancien genre Asclepias (maintenant intégré dans Calotropis), caractérisé par la production d'un latex blanc particulièrement riche en glycosides cardiotoniques. L'usage principal documenté dans les deux départements concerne l'application topique des feuilles pour calmer les douleurs physiques, bien que la plante soit considérée comme toxique et nécessite des précautions d'emploi strictes.",
       "description": "C. procera est un arbuste robuste pouvant atteindre 2 à 4 mètres de hauteur, parfaitement adapté aux conditions sèches et aux sols pauvres des régions semi-arides du Sud et de la Grand'Anse. Tiges. Les tiges sont dressées, ramifiées, de couleur vert grisâtre à brun clair. Toute blessure provoque l'exsudation d'un latex blanc abondant et collant, signe distinctif de la plante et source de ses propriétés biologiques les plus remarquables. Feuilles. Les feuilles sont opposées, sessiles ou subsessiles, de forme ovale à oblongue, mesurant 8 à 20 cm de longueur. Elles sont épaisses, charnues, de couleur vert glauque à vert bleuâtre, avec une surface cireuse qui limite les pertes d'eau — adaptation caractéristique aux milieux arides. La nervation est palmée et bien visible. Fleurs. Les fleurs sont regroupées en cymes terminales compactes. Chaque fleur mesure environ 2 cm de diamètre et présente une corolle à cinq lobes blancs à rosâtres, avec une couronne centrale violacée très ornementale. La floraison s'étale sur plusieurs mois. Fruit. Le fruit est un follicule renflé, ovoïde, de 7 à 12 cm de longueur, contenant de nombreuses graines brunes surmontées d'une aigrette soyeuse blanche facilitant la dispersion par le vent. Les parties utilisées selon les pratiques locales documentées sont principalement les feuilles, le latex et occasionnellement les racines.",
@@ -1437,8 +1493,10 @@ const plantesData = [
     "familleDescription": "",
     "familleImage": "",
     "familleNum": "9",
-    "toxBadgeColor": "red",
-    "toxBadgeText": "Toxique"
+    "toxBadgeColor": "green",
+    "toxBadgeText": "Non toxique",
+    "usageType": "Médicinale",
+    "maladieSummary": "Cutané, Musculosquelettique"
   },
   {
     "id": 30,
@@ -1458,10 +1516,10 @@ const plantesData = [
       "ht": "Kaka poul"
     },
     "systeme": {
-      "fr": "C. roseus cible préférentiellement les systèmes sanguin et métabolique, avec des applications docume"
+      "fr": "Sanguin"
     },
-    "toxicite": "toxic",
-    "toxiciteLevel": "toxic",
+    "toxicite": null,
+    "toxiciteLevel": "safe",
     "sections": {
       "introduction": "Catharanthus roseus (syn. Vinca rosea L.) est un arbuste exotique commun dans les Départements du Sud et de la Grand'Anse. Il appartient à la famille des Apocynacées, une vaste famille tropicale de plus de 5000 espèces comprenant des herbes, arbustes et arbres remarquables pour leurs propriétés médicinales exceptionnelles. Cette famille abrite des genres alimentaires comme Landolphia (fruits comestibles africains), des genres ornementaux majeurs tels que Nerium (laurier-rose), Plumeria (frangipanier) et Adenium (rose du désert), ainsi que des genres médicinaux d'importance mondiale comme Catharanthus lui-même, source de chimiothérapies anticancéreuses, et Rauvolfia, producteur d'alcaloïdes hypotenseurs. Sur le plan phytochimique, les Apocynacées se caractérisent par leur latex blanc caractéristique et leur richesse exceptionnelle en alcaloïdes complexes — notamment les glycosides cardiotoxiques (oléandrine, thévetine, digitaline), les alcaloïdes indoliques (vincristine, vinblastine) et les alcaloïdes isoquinoléiques — ciblant préférentiellement les systèmes cardiovasculaire, nerveux et sanguin. Attention : plusieurs genres de cette famille, notamment Nerium, Thevetia et Adenium, renferment des principes actifs mortels même à faible dose, exigeant une vigilance absolue lors de toute manipulation.",
       "description": "C. roseus est un arbuste pérenne à croissance rapide, atteignant généralement 30 à 60 cm de hauteur dans les jardins haïtiens, pouvant exceptionnellement dépasser 1 mètre en conditions favorables. Tiges et latex. Les tiges sont dressées, ramifiées, de couleur verte à légèrement rougeâtre. Comme toutes les Apocynacées, la plante sécrète un latex blanc abondant lors de toute blessure — sève défensive riche en alcaloïdes toxiques qui constitue un mécanisme de protection contre les herbivores. Feuilles. Les feuilles sont opposées, simples, entières, de forme ovale à elliptique, mesurant 3 à 9 cm de longueur. Elles présentent une surface lisse et brillante, de couleur vert foncé avec une nervure médiane bien marquée de couleur plus claire. Leur texture coriace et leur saveur très amère témoignent de leur richesse en composés secondaires défensifs. Fleurs. Les fleurs, particulièrement ornementales, sont constituées de 5 pétales soudés à la base formant un tube. Elles peuvent être blanches, roses, rouges ou violettes selon les variétés cultivées en Haïti. La floraison est continue toute l'année sous climat tropical, attirant diverses espèces de papillons pollinisateurs. Fruit et graines. Le fruit consiste en deux follicules allongés contenant de nombreuses graines noires, petites et rugueuses, dispersées par le vent à maturité. Les parties utilisées sont principalement les feuilles, et occasionnellement les racines et les tiges.",
@@ -1487,8 +1545,10 @@ const plantesData = [
     "familleDescription": "",
     "familleImage": "",
     "familleNum": "9",
-    "toxBadgeColor": "red",
-    "toxBadgeText": "Toxique"
+    "toxBadgeColor": "green",
+    "toxBadgeText": "Non toxique",
+    "usageType": "Médicinale",
+    "maladieSummary": "Sanguin"
   },
   {
     "id": 31,
@@ -1508,10 +1568,10 @@ const plantesData = [
       "ht": "Lorye"
     },
     "systeme": {
-      "fr": "Aucun usage thérapeutique de N. oleander ne peut être recommandé en raison de sa toxicité létale. Le"
+      "fr": "Digestif, Nerveux, Cardiovasculaire"
     },
     "toxicite": "toxic",
-    "toxiciteLevel": "toxic",
+    "toxiciteLevel": "danger",
     "sections": {
       "introduction": "Nerium oleander L. (syn. Nerium indicum, Nerium odorum) est un arbuste ornemental exotique, commun dans les Départements du Sud et de la Grand'Anse. Il appartient à la famille des Apocynacées, une vaste famille tropicale dominée par des arbres, arbustes et herbes reconnues pour leurs puissants alcaloïdes à visée thérapeutique. Cette famille se caractérise par la production de latex riche en composés bioactifs — notamment des glycosides cardiotoxiques comme l'oléandrine, la thévetine et la digitaline, ainsi que des alcaloïdes comme la vincristine et la vinblastine présents chez Catharanthus. Les Apocynacées ciblent préférentiellement les systèmes cardiaque, tégumentaire et cutané grâce à leurs métabolites complexes incluant des iridoïdes et des terpènes. Cependant, cette puissance thérapeutique s'accompagne d'un risque toxicologique majeur : plusieurs genres de cette famille — notamment Nerium, Thevetia et Adenium — renferment des principes actifs mortels même à faible dose, rendant leur usage interne extrêmement dangereux sans supervision médicale stricte. Au sein de cette famille, Nerium oleander demeure exclusivement une plante ornementale en Haïti, son usage médicinal étant totalement contre-indiqué en raison de sa toxicité létale.",
       "description": "N. oleander est un arbuste persistant de taille moyenne, pouvant atteindre 2 à 4 mètres de hauteur dans les conditions climatiques des Départements du Sud et de la Grand'Anse. Tiges et latex. Les tiges sont dressées, ramifiées, à écorce lisse et grisâtre. Toute blessure de la plante provoque l'écoulement d'un latex blanc laiteux, épais et collant, contenant les principes toxiques concentrés. Ce latex constitue le principal mécanisme de défense de la plante contre les herbivores. Feuilles. Les feuilles sont opposées ou verticillées par trois, lancéolées, coriaces, de couleur vert sombre brillant sur la face supérieure et plus pâle dessous. Elles mesurent 8 à 15 cm de longueur et présentent une nervation pennée bien marquée. Leur consistance épaisse et leur surface cireuse témoignent de l'adaptation de la plante aux climats secs. Fleurs. Les fleurs, regroupées en cymes terminales, constituent l'attrait ornemental principal de l'espèce. Elles présentent cinq pétales libres, généralement roses, blanches ou rouges selon les cultivars, avec une corolle en forme d'entonnoir caractéristique des Apocynacées. La floraison s'étale sur plusieurs mois dans le climat tropical haïtien. Fruit. Le fruit est un double follicule allongé, brun à maturité, contenant de nombreuses graines ailées facilitant la dispersion par le vent. Toutes les parties de la plante sont toxiques, particulièrement les feuilles et le latex.",
@@ -1538,7 +1598,9 @@ const plantesData = [
     "familleImage": "",
     "familleNum": "9",
     "toxBadgeColor": "red",
-    "toxBadgeText": "Toxique"
+    "toxBadgeText": "Toxique",
+    "usageType": "Médicinale",
+    "maladieSummary": "Digestif, Nerveux, Cardiovasculaire"
   },
   {
     "id": 32,
@@ -1557,10 +1619,10 @@ const plantesData = [
       "ht": "Franjipanye"
     },
     "systeme": {
-      "fr": "Les applications traditionnelles de P. subsessilis ciblent principalement le système tégumentaire po"
+      "fr": "Digestif, Cutané"
     },
-    "toxicite": "toxic",
-    "toxiciteLevel": "toxic",
+    "toxicite": null,
+    "toxiciteLevel": "safe",
     "sections": {
       "introduction": "Plumeria subsessilis (syn. Plumeria berteroi) est un arbre natif des Départements du Sud et de la Grand'Anse, reconnu pour ses fleurs parfumées et son latex caractéristique. Il appartient à la famille des Apocynacées, une famille tropicale de première importance médicinale mais également dangereuse, célèbre pour ses puissants alcaloïdes cardiotoxiques comme l'oléandrine et la thévetine, et ses latex souvent irritants. Cette famille, qui comprend des espèces aussi diverses que le laurier-rose (Nerium oleander), la pervenche de Madagascar (Catharanthus roseus) — source des anticancéreux vincristine et vinblastine — et diverses lianes médicinales locales, se caractérise par une signature phytochimique dominée par les glycosides cardioactifs, les iridoïdes et les alcaloïdes indoliques. Sur le plan thérapeutique, ces composés ciblent préférentiellement les systèmes cardiovasculaire, tégumentaire et digestif, mais leur maniement exige une expertise absolue car plusieurs espèces de cette famille peuvent être mortelles même à faible dose. Au sein de cette famille, Plumeria subsessilis fait partie du genre Plumeria, regroupant une quinzaine d'arbres tropicaux prisés pour leur floraison ornementale et leurs usages traditionnels limités, principalement externes. Dans les Départements du Sud et de la Grand'Anse, le frangipanier occupe une position particulière : bien que très peu utilisé en médecine traditionnelle en raison de la toxicité reconnue de son latex, il demeure apprécié comme plante ornementale et parfois sollicité pour des applications topiques très ponctuelles.",
       "description": "P. subsessilis est un arbre de basse altitude, de taille moyenne, particulièrement adapté aux conditions climatiques des départements méridionaux d'Haïti. Tronc et écorce. Le tronc présente une écorce grise à brune, lisse chez les jeunes sujets, devenant plus rugueuse avec l'âge. Toute blessure de l'écorce ou des branches libère immédiatement un latex blanc épais, caractéristique du genre Plumeria et responsable des propriétés défensives de l'arbre. Feuilles. Les feuilles sont simples, alternes, oblongues à elliptiques, coriaces et persistantes. Elles présentent une nervation pennée bien visible et dégagent une saveur âcre caractéristique lorsqu'on les mâche — signe de la présence de composés défensifs actifs. Cette âcreté constitue un mécanisme de protection contre l'herbivorie. Fleurs. Les fleurs constituent l'attrait principal de l'espèce : regroupées en cymes terminales, elles présentent cinq pétales blancs ou crème, souvent avec un cœur jaune, et dégagent un parfum intense et suave, particulièrement prononcé en fin de journée pour attirer les pollinisateurs nocturnes. Fruit. Le fruit est un double follicule allongé contenant des graines ailées facilitant la dispersion par le vent. Les parties utilisées en médecine traditionnelle sont principalement les feuilles et les fleurs, le latex étant généralement évité en raison de sa toxicité reconnue.",
@@ -1586,8 +1648,10 @@ const plantesData = [
     "familleDescription": "",
     "familleImage": "",
     "familleNum": "9",
-    "toxBadgeColor": "red",
-    "toxBadgeText": "Toxique"
+    "toxBadgeColor": "green",
+    "toxBadgeText": "Non toxique",
+    "usageType": "Médicinale",
+    "maladieSummary": "Digestif, Cutané"
   },
   {
     "id": 33,
@@ -1606,10 +1670,10 @@ const plantesData = [
       "ht": "Bwa lèt"
     },
     "systeme": {
-      "fr": "L'usage thérapeutique de T. citrifolia cible principalement le système musculo-squelettique, avec de"
+      "fr": "Musculosquelettique"
     },
-    "toxicite": "caution",
-    "toxiciteLevel": "caution",
+    "toxicite": null,
+    "toxiciteLevel": "safe",
     "sections": {
       "introduction": "Tabernaemontana citrifolia L. (syn. Tabernaemontana alba) est un arbre natif des Caraïbes, documenté dans les Départements du Sud et de la Grand'Anse d'Haïti. Il appartient à la famille des Apocynacées, une famille tropicale remarquable par sa richesse en alcaloïdes puissants et ses applications thérapeutiques diverses, mais aussi par ses risques toxicologiques importants. Cette famille renferme des espèces aux propriétés cardiovasculaires notables — certaines utilisées en cardiologie moderne — mais également des plantes mortellement toxiques comme le laurier-rose (Nerium oleander). Au sein de cette famille, Tabernaemontana citrifolia fait partie du genre Tabernaemontana, un groupe d'arbres tropicaux caractérisés par leur latex abondant et leurs alcaloïdes indoliques à fort potentiel pharmacologique. L'espèce est principalement utilisée en médecine traditionnelle locale pour ses propriétés analgésiques et anti-inflammatoires, appliquée par voie externe sous forme de cataplasmes.",
       "description": "T. citrifolia est un arbre de taille moyenne, typique des zones d'altitude moyenne des Départements du Sud et de la Grand'Anse, où il croît naturellement dans les formations forestières secondaires et les lisières. Tige et écorce. Le tronc présente une écorce lisse à légèrement rugueuse, de couleur gris-brun. Caractéristique distinctive de l'espèce et du genre : toute blessure de l'écorce ou des branches libère instantanément un latex blanc abondant, d'où le nom créole « bwa lèt » (bois-lait). Ce latex, riche en alcaloïdes, constitue le principal mécanisme de défense de l'arbre contre les herbivores et les pathogènes. Feuilles. Les feuilles sont opposées, simples, entières, de forme elliptique à obovale, mesurant généralement 8-15 cm de longueur. Elles présentent une nervation pennée bien marquée et une texture coriace caractéristique des Apocynacées. Leur saveur amère témoigne de la présence d'alcaloïdes dans tous les tissus végétaux. Fleurs. Les fleurs, blanches et parfumées, sont regroupées en cymes terminales. Elles présentent la structure typique des Apocynacées : corolle tubulaire à cinq lobes étalés, attirant principalement les papillons nocturnes pour la pollinisation. Fruit. Les fruits sont des follicules géminés, contenant des graines ornées d'un arille rouge-orange, dispersées par les oiseaux frugivores de la région. Les parties utilisées sont principalement les feuilles et les racines, riches en principes actifs.",
@@ -1635,8 +1699,10 @@ const plantesData = [
     "familleDescription": "",
     "familleImage": "",
     "familleNum": "9",
-    "toxBadgeColor": "yellow",
-    "toxBadgeText": "Précautions"
+    "toxBadgeColor": "green",
+    "toxBadgeText": "Non toxique",
+    "usageType": "Médicinale",
+    "maladieSummary": "Musculosquelettique"
   },
   {
     "id": 34,
@@ -1655,10 +1721,10 @@ const plantesData = [
       "ht": "Fèy sezi"
     },
     "systeme": {
-      "fr": "T. peruviana ne présente aucun usage thérapeutique sûr et constitue exclusivement un poison végétal."
+      "fr": "Cardiovasculaire"
     },
     "toxicite": "toxic",
-    "toxiciteLevel": "toxic",
+    "toxiciteLevel": "danger",
     "sections": {
       "introduction": "Thevetia peruviana (syn. Cascabela thevetia, Cerbera thevetia) est un arbuste natif des Départements du Sud et de la Grand'Anse d'Haïti, appartenant à la famille des Apocynacées. Il fait partie du genre Thevetia, un groupe d'arbustes tropicaux américains particulièrement redoutés pour leur toxicité extrême. En créole haïtien, « fèy sezi » fait référence aux propriétés saisissantes — au sens littéral — de cette plante dont l'ingestion provoque des convulsions et des arrêts cardiaques foudroyants. Bien que cultivée occasionnellement comme plante ornementale pour ses fleurs jaunes éclatantes, T. peruviana représente l'une des espèces végétales les plus dangereuses présentes en Haïti. Son usage traditionnel comme cardiotonique, documenté dans certaines pharmacopées caribéennes anciennes, a été définitivement abandonné en raison de sa létalité imprévisible. Dans les Départements du Sud et de la Grand'Anse, cette plante est désormais principalement connue sous l'appellation locale de « Sase » — un terme qui évoque directement son potentiel homicide.",
       "description": "T. peruviana est un arbuste persistant de basse altitude, pouvant atteindre 3 à 6 mètres de hauteur, caractérisé par une architecture érigée et une croissance relativement rapide. Tiges et écorce. Les tiges sont robustes, à écorce grisâtre lisse chez les jeunes sujets, devenant plus rugueuse avec l'âge. Comme toutes les Apocynacées, la plante sécrète un latex blanc abondant et visqueux lorsqu'on incise l'écorce — latex qui constitue l'un des tissus les plus toxiques de la plante. Feuilles. Les feuilles sont simples, alternes, lancéolées à oblongues, mesurant 8 à 15 cm de longueur. Elles sont coriaces, d'un vert foncé brillant sur la face supérieure, plus pâles en dessous. La nervation est pennée avec une nervure centrale proéminente. Le limbe présente une saveur amère caractéristique — signal d'alarme gustatif qui devrait dissuader toute consommation. Fleurs. Les fleurs sont particulièrement attractives : jaune vif à jaune orangé, tubulaires, mesurant environ 3 à 5 cm de longueur. Elles sont regroupées en cymes terminales et dégagent un parfum suave qui contraste dramatiquement avec la dangerosité de la plante. La corolle présente cinq lobes étalés, typiques des Apocynacées. Fruits et graines. Le fruit est une drupe charnue, initialement verte puis noirâtre à maturité, contenant généralement 1 à 2 graines. Les graines sont particulièrement riches en lipides et constituent la partie la plus concentrée en principes toxiques — quelques graines suffisent à tuer un adulte. Les parties documentées comme toxiques comprennent toutes les parties de la plante : feuilles, graines, latex, écorce et racines.",
@@ -1685,7 +1751,9 @@ const plantesData = [
     "familleImage": "",
     "familleNum": "9",
     "toxBadgeColor": "red",
-    "toxBadgeText": "Toxique"
+    "toxBadgeText": "Toxique",
+    "usageType": "Médicinale",
+    "maladieSummary": "Cardiovasculaire"
   },
   {
     "id": 35,
@@ -1706,10 +1774,10 @@ const plantesData = [
       "ht": "Karayib grate"
     },
     "systeme": {
-      "fr": "Le système principalement ciblé par A. macrorrhizos est le système tégumentaire, via son action rubé"
+      "fr": "Musculosquelettique, Sanguin"
     },
-    "toxicite": "toxic",
-    "toxiciteLevel": "toxic",
+    "toxicite": null,
+    "toxiciteLevel": "caution",
     "sections": {
       "introduction": "Alocasia macrorrhizos (L.) G. Don (syn. Arum macrorrhizon, Alocasia indica) est une herbe vivace exotique, commune dans les Départements du Sud et de la Grand'Anse. Elle appartient à la famille des Aracées, une vaste famille tropicale de 4000 espèces reconnue pour ses usages alimentaires — via les tubercules amylacés de genres comme Colocasia et Xanthosoma — et ses propriétés médicinales externes. Au sein de cette famille, A. macrorrhizos fait partie du genre Alocasia, qui regroupe une soixantaine d'espèces de grandes herbes à tubercules, principalement asiatiques, caractérisées par leurs imposantes feuilles sagittées et leur forte teneur en cristaux d'oxalate de calcium. L'espèce est très peu utilisée localement en raison de son caractère irritant prononcé, mais trouve occasionnellement des applications comme rubéfiant externe dans la médecine traditionnelle haïtienne.",
       "description": "A. macrorrhizos est une herbe robuste pouvant atteindre 2 à 4 mètres de hauteur, facilement reconnaissable par ses dimensions imposantes et ses larges feuilles caractéristiques. Tubercule et système racinaire. La plante développe un tubercule souterrain volumineux, cylindrique, pouvant mesurer 30 à 60 cm de longueur et peser plusieurs kilogrammes. Ce tubercule constitue l'organe de réserve principal, riche en amidon, mais contient des concentrations élevées de cristaux d'oxalate de calcium le rendant impropre à la consommation sans cuisson prolongée. Feuilles. Les feuilles sont l'élément le plus distinctif : larges (jusqu'à 1 mètre), sagittées à cordiformes, portées par des pétioles épais et charnus pouvant dépasser 1,5 mètre de hauteur. Le limbe présente une nervation palmée bien visible et une texture coriace. La face supérieure est vert foncé brillant, tandis que la face inférieure est plus pâle. Inflorescence et reproduction. L'inflorescence typique des Aracées consiste en un spadice jaunâtre protégé par une spathe verdâtre. Les fleurs sont unisexuées, regroupées sur le même spadice. La reproduction s'effectue principalement par division des tubercules. Les parties utilisées sont principalement les feuilles pour les applications externes, et exceptionnellement les tubercules après cuisson prolongée dans certaines cultures.",
@@ -1735,8 +1803,10 @@ const plantesData = [
     "familleDescription": "Dominant les régions tropicales humides avec près de 4000 espèces réparties en 140 genres, les Aracées constituent l'une des familles botaniques les plus remarquables par la diversité de leurs formes biologiques — depuis les petites lentilles d'eau flottantes jusqu'aux imposantes lianes épiphytes des canopées forestières. Cette famille se distingue par ses inflorescences caractéristiques en spadice, souvent protégées par une spathe colorée. Sur le plan alimentaire, plusieurs genres fournissent des tubercules riches en amidon — notamment Colocasia (malanga), Xanthosoma (chou caraïbe) et Alocasia — constituant des ressources énergétiques importantes dans les régions tropicales. Médicinalement, la famille exprime une signature phytochimique dominée par les raphides d'oxalate de calcium, les lectines, les saponines et divers alcaloïdes, ciblant préférentiellement les systèmes tégumentaire et musculo-squelettique. ⚠️ Attention cruciale : toutes les espèces contiennent des cristaux d'oxalate de calcium causant des brûlures buccales intenses si consommées crues. Les genres Philodendron et Dieffenbachia présentent une toxicité particulièrement marquée, exigeant une vigilance absolue.",
     "familleImage": "",
     "familleNum": "10",
-    "toxBadgeColor": "red",
-    "toxBadgeText": "Toxique"
+    "toxBadgeColor": "yellow",
+    "toxBadgeText": "Conditionnel",
+    "usageType": "Alimentaire",
+    "maladieSummary": "Musculosquelettique, Sanguin"
   },
   {
     "id": 36,
@@ -1755,9 +1825,9 @@ const plantesData = [
       "ht": "Mazonbèl"
     },
     "systeme": {
-      "fr": "Le système principalement concerné est le système nutritionnel, C. esculenta fournissant une source "
+      "fr": "Médicinal"
     },
-    "toxicite": "caution",
+    "toxicite": null,
     "toxiciteLevel": "caution",
     "sections": {
       "introduction": "Colocasia esculenta (L.) Schott (syn. Arum esculentum, Colocasia antiquorum) est une herbe exotique commune dans les Départements du Sud et de la Grand'Anse. Elle appartient à la famille des Aracées, famille dominée par des herbes et des lianes tropicales d'une richesse remarquable tant sur le plan alimentaire que médicinal. Cette famille se caractérise par la présence systématique de raphides d'oxalate de calcium — cristaux aciculaires servant de défense contre l'herbivorie — ainsi que par des lectines, saponines et alcaloïdes aux concentrations variables selon les genres. Les genres à vocation alimentaire incluent Colocasia (taro), Xanthosoma (malanga) et Alocasia, tous consommés après cuisson obligatoire pour neutraliser les oxalates irritants. Les genres médicinaux comme Anthurium et Philodendron sont utilisés en applications externes, tandis que certains Monstera possèdent des fruits comestibles à maturité. Sur le plan phytochimique, cette famille exprime une signature dominée par les oxalates de calcium, l'amidon, les flavonoïdes et les saponines, ciblant préférentiellement les systèmes tégumentaire et musculo-squelettique. Il convient de souligner l'importance des précautions : toutes les espèces crues provoquent des brûlures buccales sévères, et les genres Philodendron et Alocasia demeurent toxiques même après cuisson, exigeant une identification botanique rigoureuse.",
@@ -1785,7 +1855,9 @@ const plantesData = [
     "familleImage": "",
     "familleNum": "10",
     "toxBadgeColor": "yellow",
-    "toxBadgeText": "Précautions"
+    "toxBadgeText": "Conditionnel",
+    "usageType": "Alimentaire",
+    "maladieSummary": ""
   },
   {
     "id": 37,
@@ -1803,10 +1875,10 @@ const plantesData = [
       "ht": "Geritou"
     },
     "systeme": {
-      "fr": "P. consanguineum cible spécifiquement le système musculo-squelettique dans ses applications traditio"
+      "fr": "Musculosquelettique, Sanguin"
     },
-    "toxicite": "caution",
-    "toxiciteLevel": "caution",
+    "toxicite": null,
+    "toxiciteLevel": "safe",
     "sections": {
       "introduction": "Philodendron consanguineum Schott (syn. P. krebsii, P. wrightii) est une liane native des Caraïbes, documentée dans le Sud et la Grand'Anse comme plante médicinale d'usage externe. Elle appartient à la famille des Aracées, une famille essentiellement composée d'herbes et de lianes reconnue pour ses riches usages alimentaires et médicinaux, malgré la présence universelle de raphides d'oxalate de calcium nécessitant des précautions particulières. Au sein de cette famille, le genre Philodendron regroupe plusieurs centaines d'espèces tropicales, principalement épiphytes ou grimpantes, largement cultivées comme plantes ornementales mais présentant toutes une toxicité notable à l'état cru. P. consanguineum se distingue par son usage thérapeutique externe traditionnel pour les traumatismes, bien que son ingestion reste formellement déconseillée en raison de sa teneur en cristaux d'oxalate.",
       "description": "P. consanguineum est une liane vigoureuse pouvant atteindre plusieurs mètres de longueur, caractéristique des formations forestières humides du Sud et de la Grand'Anse. Tiges. Les tiges sont volubiles, s'enroulant autour des supports naturels ou grimpant le long des troncs d'arbres grâce à des racines aériennes adventives. Elles présentent des nœuds bien marqués d'où émergent les feuilles et les racines aériennes fixatrices. Feuilles. Les feuilles sont grandes, alternes, pétiolées et présentent le limbe cordiforme caractéristique du genre Philodendron. Elles sont coriaces, d'un vert luisant, et peuvent atteindre 20 à 30 cm de longueur. Le pétiole est robuste et peut mesurer jusqu'à 15 cm. Les nervures sont palmées et bien visibles. Inflorescence et reproduction. Comme toutes les Aracées, P. consanguineum produit une inflorescence caractéristique appelée spadice — épi charnu entouré d'une bractée colorée appelée spathe. Cette structure primitive mais efficace attire les insectes pollinisateurs par ses composés volatils et sa thermogenèse. Les parties utilisées dans les pratiques locales sont principalement les feuilles et accessoirement les tiges.",
@@ -1832,8 +1904,10 @@ const plantesData = [
     "familleDescription": "",
     "familleImage": "",
     "familleNum": "10",
-    "toxBadgeColor": "yellow",
-    "toxBadgeText": "Précautions"
+    "toxBadgeColor": "green",
+    "toxBadgeText": "Non toxique",
+    "usageType": "Médicinale",
+    "maladieSummary": "Musculosquelettique, Sanguin"
   },
   {
     "id": 38,
@@ -1853,10 +1927,10 @@ const plantesData = [
       "ht": "Lèti dlo"
     },
     "systeme": {
-      "fr": "P. stratiotes cible préférentiellement le système tégumentaire par voie externe. Les applications do"
+      "fr": "Cutané"
     },
-    "toxicite": "toxic",
-    "toxiciteLevel": "toxic",
+    "toxicite": null,
+    "toxiciteLevel": "safe",
     "sections": {
       "introduction": "Pistia stratiotes L. (syn. Pistia occidentalis, Zala asiatica) est une herbe aquatique flottante native d'Haïti, commune dans les eaux douces des Départements du Sud et de la Grand'Anse. Elle appartient à la famille des Aracées, une famille principalement composée d'herbes et de lianes reconnue pour sa richesse en usages alimentaires et médicinaux. Cette famille se distingue par ses composés phytochimiques dominants — oxalates de calcium, amidon, flavonoïdes et saponines — ciblant préférentiellement les systèmes tégumentaire et musculo-squelettique. Au sein de cette famille, P. stratiotes fait partie du genre Pistia, genre monotypique remarquable par sa capacité de prolifération rapide et ses propriétés de phytoremédiation. Son usage principal documenté dans les deux départements concerne les affections cutanées par application externe, bien que sa capacité de bioaccumulation de polluants exige une vigilance particulière quant à sa provenance.",
       "description": "P. stratiotes est une herbe aquatique flottante formant des colonies denses à la surface des eaux douces stagnantes ou à faible courant. Racines. Le système racinaire est remarquable : constitué de nombreuses racines filamenteuses pendantes, non fixées au substrat, qui plongent directement dans l'eau. Ces racines, d'un blanc nacré, peuvent atteindre 20 à 30 cm de longueur et servent à la fois d'ancrage, d'absorption des nutriments et de filtration de l'eau. Leur disposition en « chevelure » sous la plante lui confère une stabilité remarquable malgré l'absence d'enracinement. Feuilles. Les feuilles sont disposées en rosette basale flottante, épaisses et charnues, de forme spatulée à obovale, mesurant 2 à 15 cm selon les conditions nutritionnelles du milieu. Leur surface supérieure est recouverte d'un duvet hydrofuge qui maintient la plante à flot, tandis que leur couleur vert pâle à vert bleuâtre reflète leur adaptation au milieu aquatique. Les nervures parallèles sont bien visibles, caractéristique typique des Aracées. Fleurs et reproduction. Les fleurs sont petites, peu visibles, disposées dans un spadice typique des Aracées, entouré d'une spathe blanchâtre. La reproduction se fait principalement par voie végétative : la plante mère produit des stolons latéraux portant de jeunes plantules qui se détachent pour former de nouveaux individus, expliquant sa capacité de prolifération rapide. Les parties utilisées sont les feuilles et les racines, toujours par voie externe uniquement.",
@@ -1882,8 +1956,10 @@ const plantesData = [
     "familleDescription": "",
     "familleImage": "",
     "familleNum": "10",
-    "toxBadgeColor": "red",
-    "toxBadgeText": "Toxique"
+    "toxBadgeColor": "green",
+    "toxBadgeText": "Non toxique",
+    "usageType": "Médicinale",
+    "maladieSummary": "Cutané"
   },
   {
     "id": 39,
@@ -1904,10 +1980,10 @@ const plantesData = [
       "ht": "Bwa nègès"
     },
     "systeme": {
-      "fr": "Les usages traditionnels de D. arboreus ciblent principalement les systèmes tégumentaire et spiritue"
+      "fr": "Médicinal"
     },
-    "toxicite": "unknown",
-    "toxiciteLevel": "unknown",
+    "toxicite": null,
+    "toxiciteLevel": "safe",
     "sections": {
       "introduction": "Dendropanax arboreus (L.) Decne. & Planch. — « Bwa nègès » / Bois négresse Dendropanax arboreus (syn. Aralia arborea, Gilibertia arborea) est un arbre native des Départements du Sud et de la Grand'Anse, où il pousse principalement en altitude élevée. Il appartient à la famille des Araliacées, une famille tropicale reconnue pour ses usages médicinaux et spirituels, particulièrement riche en saponines triterpéniques et en polyacétylènes. Au sein de cette famille, il fait partie du genre Dendropanax, qui regroupe une cinquantaine d'espèces d'arbres aromatiques des régions tropicales, dont plusieurs sont utilisées en médecine traditionnelle pour leurs propriétés anti-inflammatoires et cardiovasculaires. Dendropanax arboreus est une plante à usage principalement médicinal et spirituel : documenté dans le Sud et la Grand'Anse pour les bains rituels et la « purification », il est localement appelé « Bwa nago » et intégré dans les pratiques de « bains de chance ». Son statut de rareté dans les deux départements en fait une espèce prioritaire pour la conservation.",
       "description": "D. arboreus est un arbre de taille moyenne, caractéristique des forêts d'altitude des montagnes haïtiennes, reconnaissable par son port élancé et son écorce aromatique. *Tronc et écorce.* Le tronc est droit, recouvert d'une écorce rugueuse de couleur brun-gris, dégageant une odeur aromatique caractéristique lorsqu'elle est entaillée — propriété qui révèle la présence d'huiles essentielles et de résines dans les tissus corticaux. *Feuilles.* Les feuilles sont persistantes, simples, alternes, de forme ovale à elliptique, avec un limbe coriace et brillant. Elles présentent une nervation pennée bien visible et dégagent une fragrance distinctive lorsqu'on les froisse, signe de la richesse en composés terpéniques volatils. *Fleurs.* Les inflorescences sont des ombelles composées, portant de petites fleurs verdâtres à jaunâtres, discrètes mais nombreuses. La floraison attire divers insectes pollinisateurs, particulièrement les abeilles et les petits coléoptères. *Fruits.* Les fruits sont de petites drupes globuleuses, passant du vert au noir à maturité, contenant une à deux graines et représentant une source alimentaire pour l'avifaune locale des montagnes du Sud et de la Grand'Anse. Les parties utilisées dans les pratiques locales sont principalement les feuilles, l'écorce et les racines.",
@@ -1933,8 +2009,10 @@ const plantesData = [
     "familleDescription": "Dominant les forêts tropicales d'altitude moyenne à élevée, les Araliacées constituent une famille de près de 1 500 espèces réparties en une cinquantaine de genres, principalement composée d'arbustes et d'arbres aromatiques. Cette famille tropicale et subtropicale se distingue par ses riches usages médicinaux et spirituels, particulièrement développés dans les traditions caribéennes et centre-américaines. Les genres à vocation médicinale incluent Dendropanax — utilisé pour ses propriétés anti-inflammatoires et hypotenseurs —, Schefflera — reconnu en médecine traditionnelle asiatique — et Polyscias — employé contre les troubles digestifs. Le genre Panax, célèbre pour le ginseng, représente l'usage le plus documenté de cette famille. Sur le plan phytochimique, les Araliacées expriment une signature dominée par les saponines triterpéniques, les polyacétylènes comme le falcarinol, les flavonoïdes et les huiles essentielles terpéniques. Ces composés ciblent préférentiellement les systèmes nerveux et tégumentaire, expliquant l'usage traditionnel de nombreuses espèces dans les bains rituels et les applications cutanées. Une vigilance s'impose car certaines espèces renferment des principes actifs puissants pouvant causer des troubles digestifs ou des réactions cutanées en cas de surdosage.",
     "familleImage": "",
     "familleNum": "11",
-    "toxBadgeColor": "yellow",
-    "toxBadgeText": "Données insuffisantes"
+    "toxBadgeColor": "green",
+    "toxBadgeText": "Non toxique",
+    "usageType": "Médicinale",
+    "maladieSummary": ""
   },
   {
     "id": 40,
@@ -1953,10 +2031,10 @@ const plantesData = [
       "ht": "Parès"
     },
     "systeme": {
-      "fr": "Selon les données ethnobotaniques disponibles, P. pinnata ciblerait principalement les systèmes nerv"
+      "fr": "Nerveux"
     },
-    "toxicite": "unknown",
-    "toxiciteLevel": "unknown",
+    "toxicite": null,
+    "toxiciteLevel": "safe",
     "sections": {
       "introduction": "Polyscias pinnata (syn. Panax pinnatus) est un arbuste ornemental exotique, cultivé et naturalisé dans les Départements du Sud et de la Grand'Anse d'Haïti. Il appartient à la famille des Araliacées, une famille tropicale dominée par des arbustes et des arbres reconnus pour leurs riches usages médicinaux et spirituels. Cette famille se distingue par sa signature phytochimique complexe incluant des saponines triterpéniques, des flavonoïdes, des polyacétylènes et des huiles essentielles, ciblant préférentiellement les systèmes nerveux et tégumentaire. Parmi les genres alimentaires notables de cette famille figurent Aralia — dont certaines espèces produisent des pousses comestibles en Asie — et Panax, célèbre pour le ginseng. Les genres médicinaux incluent Schefflera et Hedera, utilisés traditionnellement contre les affections respiratoires et cutanées. Une vigilance particulière s'impose car certaines espèces renferment des principes actifs très puissants ou potentiellement toxiques, exigeant une préparation adéquate et un dosage strict. Les baies de certains représentants peuvent notamment causer des troubles digestifs si ingérées en grande quantité. Au sein de cette famille, Polyscias pinnata constitue une espèce à usage principalement ornemental et mystique dans les deux départements étudiés.",
       "description": "P. pinnata est un arbuste persistant de haute altitude, pouvant atteindre 3 à 5 mètres de hauteur dans les conditions favorables des montagnes du Sud et de la Grand'Anse. Tiges et port. L'arbuste présente un port dressé avec des tiges ligneuses robustes et une ramification dense. L'écorce est lisse à légèrement rugueuse, de couleur gris-brun. Les jeunes pousses sont souvent teintées de rouge ou de bronze. Feuilles. Les feuilles constituent l'élément décoratif principal de la plante : composées pennées, alternées, elles présentent des folioles ovales à elliptiques avec des bords dentés caractéristiques. Le limbe est coriace, d'un vert foncé brillant sur la face supérieure et plus clair sur la face inférieure. Lorsqu'on froisse les feuilles, elles dégagent une fragrance aromatique distinctive, signe de la richesse en composés volatils de l'espèce. Fleurs et reproduction. La floraison produit des inflorescences en panicules terminales composées de nombreuses petites fleurs blanches à verdâtres, à cinq pétales. Ces fleurs hermaphrodites attirent divers insectes pollinisateurs locaux. Fruit. Le fruit est une petite drupe globuleuse, initialement verte puis virant au noir à maturité, contenant une à plusieurs graines. Les parties utilisées dans les pratiques locales sont principalement les feuilles et, plus rarement, les racines.",
@@ -1982,8 +2060,10 @@ const plantesData = [
     "familleDescription": "",
     "familleImage": "",
     "familleNum": "11",
-    "toxBadgeColor": "yellow",
-    "toxBadgeText": "Données insuffisantes"
+    "toxBadgeColor": "green",
+    "toxBadgeText": "Non toxique",
+    "usageType": "Médicinale",
+    "maladieSummary": "Nerveux"
   },
   {
     "id": 41,
@@ -2002,10 +2082,10 @@ const plantesData = [
       "ht": "Bwa tranble"
     },
     "systeme": {
-      "fr": "S. tremula cible principalement les systèmes nerveux et spirituel, avec des applications documentées"
+      "fr": "Nerveux"
     },
-    "toxicite": "unknown",
-    "toxiciteLevel": "unknown",
+    "toxicite": null,
+    "toxiciteLevel": "safe",
     "sections": {
       "introduction": "Schefflera tremula (syn. Didymopanax tremulus, Crepinella tremula) est un arbre endémique strict d'Haïti — c'est-à-dire qu'il n'existe nulle part ailleurs sur Terre. Il appartient à la famille des Araliacées, une famille tropicale principalement composée d'arbustes et d'arbres, reconnue pour ses riches usages médicinaux et spirituels. Cette famille se distingue phytochimiquement par sa signature dominée par les saponines triterpéniques, les polyacétylènes, les flavonoïdes et les huiles essentielles, ciblant préférentiellement les systèmes nerveux et tégumentaire. Il convient de noter que certaines espèces de cette famille renferment des principes actifs très puissants exigeant une préparation adéquate ou un dosage strict, bien que la toxicité reste généralement faible. Au sein de cette famille, Schefflera tremula fait partie du genre Schefflera, un groupe d'arbres tropicaux dont plusieurs espèces sont valorisées pour leurs propriétés anti-inflammatoires et ornementales. En Haïti, S. tremula occupe une place particulière dans les pratiques rituelles et mystiques des Départements du Sud et de la Grand'Anse, où il est utilisé principalement sous forme de bains thérapeutiques.",
       "description": "S. tremula est un arbre de haute altitude, devenu extrêmement rare dans son aire de distribution naturelle restreinte aux montagnes du Sud et de la Grand'Anse d'Haïti. Tiges et écorce. Le tronc présente une écorce rugueuse de couleur brunâtre à grisâtre, caractéristique du genre Schefflera. L'écorce, utilisée en médecine traditionnelle, développe des crevasses longitudinales avec l'âge et sécrète parfois une résine aromatique lors de blessures. Feuilles. Les feuilles sont composées, palmées, typiques du genre Schefflera, disposées en couronne à l'extrémité des branches. Chaque feuille se compose de plusieurs folioles disposées en éventail, de texture coriace et persistante, adaptées aux conditions d'altitude. Leur saveur amère reflète la présence de composés défensifs concentrés. Fleurs et fruits. La plante produit des inflorescences terminales composées de petites fleurs verdâtres groupées en ombelles, suivies de fruits charnus de couleur sombre à maturité. Les modalités précises de sa floraison et de sa fructification dans les conditions haïtiennes restent peu documentées. Racines. Le système racinaire, également utilisé traditionnellement, développe des racines pivotantes et latérales adaptées aux sols de montagne. Les parties utilisées sont les feuilles, l'écorce et les racines, préparées principalement sous forme de bains rituels.",
@@ -2031,8 +2111,10 @@ const plantesData = [
     "familleDescription": "",
     "familleImage": "",
     "familleNum": "11",
-    "toxBadgeColor": "yellow",
-    "toxBadgeText": "Données insuffisantes"
+    "toxBadgeColor": "green",
+    "toxBadgeText": "Non toxique",
+    "usageType": "Médicinale",
+    "maladieSummary": "Nerveux"
   },
   {
     "id": 42,
@@ -2053,10 +2135,10 @@ const plantesData = [
       "ht": "Aniko"
     },
     "systeme": {
-      "fr": "Historiquement, A. bilobata cible le système reproducteur dans les pratiques traditionnelles, où ell"
+      "fr": "Urinaire, Reproducteur"
     },
-    "toxicite": "caution",
-    "toxiciteLevel": "caution",
+    "toxicite": null,
+    "toxiciteLevel": "safe",
     "sections": {
       "introduction": "Aristolochia bilobata L. (syn. Aristolochia obtusata) est une liane native commune des Départements du Sud et de la Grand'Anse d'Haïti. Elle appartient à la famille des Aristolochiacées, reconnue pour ses propriétés médicinales traditionnelles mais désormais classée comme dangereuse en raison de la présence d'acides aristolochiques cancérigènes. Au sein de cette famille, elle fait partie du genre Aristolochia, un groupe de lianes tropicales historiquement utilisées pour faciliter l'accouchement et traiter diverses affections, mais dont l'usage interne est aujourd'hui formellement déconseillé par les autorités sanitaires internationales. Dans les pratiques locales haïtiennes, l'aniko est traditionnellement préparée en décoction pour faciliter l'accouchement et traiter les infections, constituant un exemple emblématique du conflit entre savoirs traditionnels et toxicologie moderne.",
       "description": "A. bilobata est une liane grimpante vigoureuse, caractéristique des formations végétales de basse altitude du Sud et de la Grand'Anse. Sa croissance rapide lui permet de coloniser efficacement les lisières forestières et les zones perturbées. Tiges et système racinaire. Les tiges sont volubiles, ligneuses à la base, permettant à la plante de s'enrouler autour des supports et d'atteindre plusieurs mètres de hauteur. Le système racinaire développe des racines charnues où se concentrent les principes actifs, notamment les acides aristolochiques responsables de la toxicité de la plante. Feuilles. Les feuilles sont alternes, pétiolées, de forme cordée à réniforme, avec un apex légèrement bilobé qui justifie l'épithète spécifique « bilobata ». Leur surface est glabre et leur texture coriace. La saveur amère caractéristique des feuilles témoigne de la présence de composés secondaires défensifs. Fleurs. Les fleurs, solitaires ou groupées par deux, présentent la morphologie typique des Aristolochiacées : un périanthe tubulé en forme de pipe, de couleur pourpre à brun-jaunâtre, dépourvu de corolle. Cette architecture florale unique facilite un mécanisme de pollinisation par piégeage temporaire d'insectes. Fruit. Le fruit est une capsule oblongue qui s'ouvre par six valves à maturité, libérant de nombreuses graines plates et ailées, adaptées à la dispersion par le vent. Les parties utilisées dans les pratiques traditionnelles sont principalement les racines et les feuilles, récoltées selon des protocoles spécifiques.",
@@ -2082,8 +2164,10 @@ const plantesData = [
     "familleDescription": "Reconnues pour leurs propriétés médicinales puissantes mais dangereuses, les Aristolochiacées constituent une famille botanique de distribution tropicale comprenant environ 500 espèces réparties en 7 genres principaux. Ces plantes, majoritairement des lianes grimpantes comme Aristolochia, possèdent une signature phytochimique dominée par les acides aristolochiques, des molécules aux effets thérapeutiques traditionnels mais désormais classées cancérigènes de groupe 1 par le Centre International de Recherche sur le Cancer. Les lignanes, terpènes et alcaloïdes complètent ce profil chimique complexe, ciblant historiquement les systèmes reproducteur et urinaire dans les pharmacopées traditionnelles. Le genre Aristolochia, présent dans les Départements du Sud et de la Grand'Anse, illustre parfaitement cette dualité entre potentiel thérapeutique et toxicité majeure. La famille renferme également des genres comme Asarum, utilisés en médecine traditionnelle asiatique, et Thottea, exploités en Asie du Sud-Est. L'usage interne de ces plantes est formellement déconseillé par les autorités sanitaires internationales en raison des néphropathies irréversibles et des cancers urothéliaux documentés chez l'humain.",
     "familleImage": "",
     "familleNum": "12",
-    "toxBadgeColor": "yellow",
-    "toxBadgeText": "Précautions"
+    "toxBadgeColor": "green",
+    "toxBadgeText": "Non toxique",
+    "usageType": "Médicinale",
+    "maladieSummary": "Urinaire, Reproducteur"
   },
   {
     "id": 43,
@@ -2107,10 +2191,10 @@ const plantesData = [
       "ht": "Palmis seleri"
     },
     "systeme": {
-      "fr": "Les usages traditionnels de C. mitis ciblent principalement le système urinaire, par ses effets diur"
+      "fr": "Urinaire, Cutané"
     },
-    "toxicite": "unknown",
-    "toxiciteLevel": "unknown",
+    "toxicite": null,
+    "toxiciteLevel": "caution",
     "sections": {
       "introduction": "Caryota mitis Lour. (syn. Caryota furfuracea) est un palmier exotique rare, documenté dans les Départements du Sud et de la Grand'Anse où il est principalement cultivé comme espèce ornementale. Il appartient à la famille des Arécacées, cette grande famille tropicale de palmiers aux riches usages alimentaires et décoratifs. Au sein de cette famille, il fait partie du genre Caryota, un groupe de palmiers asiatiques caractérisés par leurs feuilles bipennées distinctives et leurs fruits contenant des oxalates de calcium irritants. Son usage local combine fonction ornementale et applications médicinales traditionnelles, particulièrement comme diurétique, bien que sa rareté limite son emploi thérapeutique régulier.",
       "description": "C. mitis est un palmier multicaule de taille moyenne, formant des touffes denses par émission de rejets basaux. Tiges. Le palmier développe plusieurs stipes (troncs) élancés pouvant atteindre 8 à 12 mètres de hauteur, avec un diamètre de 15 à 20 cm. Les stipes sont lisses, de couleur gris-brun, marqués par les cicatrices annulaires des anciennes feuilles. Feuilles. Les feuilles constituent le caractère le plus distinctif de l'espèce : bipennées, elles présentent des folioles en forme de queue de poisson (d'où le nom anglais \"fishtail palm\"), à bords déchiquetés et apex effiloché. Cette morphologie unique les distingue nettement des autres palmiers à feuilles pennées classiques. Fleurs. Les inflorescences apparaissent de façon pendante, sous forme de régimes ramifiés portant de petites fleurs unisexuées. La floraison suit un processus particulier : chaque stipe ne fleurit qu'une seule fois avant de mourir, remplacé par de nouveaux rejets. Fruit. Les fruits sont de petites drupes sphériques, rouge-orange à maturité, contenant une pulpe âcre riche en oxalates de calcium cristallisés. Les parties utilisées sont principalement les feuilles, les fruits et les racines.",
@@ -2137,7 +2221,9 @@ const plantesData = [
     "familleImage": "",
     "familleNum": "13",
     "toxBadgeColor": "yellow",
-    "toxBadgeText": "Données insuffisantes"
+    "toxBadgeText": "Conditionnel",
+    "usageType": "Alimentaire",
+    "maladieSummary": "Urinaire, Cutané"
   },
   {
     "id": 44,
@@ -2158,10 +2244,10 @@ const plantesData = [
       "ht": "Kokoye"
     },
     "systeme": {
-      "fr": "Les usages documentés dans le Sud et la Grand'Anse ciblent principalement les systèmes digestif, rén"
+      "fr": "Digestif, Urinaire, Cutané"
     },
-    "toxicite": "caution",
-    "toxiciteLevel": "caution",
+    "toxicite": null,
+    "toxiciteLevel": "safe",
     "sections": {
       "introduction": "Cocos nucifera L. (syn. Palma cocos) est un palmier pantropical exotique, largement cultivé et naturalisé dans les Départements du Sud et de la Grand'Anse. Cette espèce appartient à la famille des Arécacées, une famille majeure composée principalement de palmiers, reconnue pour ses multiples applications alimentaires, médicinales et artisanales. Le cocotier fait partie du genre monotypique Cocos, ce qui signifie qu'il constitue la seule espèce de ce genre. Dans les deux départements, le cocotier représente l'une des ressources végétales les plus polyvalentes : alimentaire par sa pulpe et son eau, médicinale par ses propriétés réhydratantes et anti-inflammatoires, et économique par ses nombreux sous-produits. Sa présence abondante le long des côtes en fait une ressource facilement accessible aux communautés locales.",
       "description": "C. nucifera est un palmier de grande taille, pouvant atteindre 20 à 30 mètres de hauteur, particulièrement adapté aux environnements côtiers de basse altitude des Départements du Sud et de la Grand'Anse. Stipe (tronc). Le stipe est cylindrique, lisse, marqué par les cicatrices annulaires des anciennes feuilles. Il peut atteindre 30 à 60 cm de diamètre et présente souvent une légère inclinaison caractéristique, particulièrement visible près des côtes où il se penche vers la mer sous l'influence des vents dominants. Feuilles. Les feuilles sont pennées, longues de 3 à 6 mètres, composées de nombreuses folioles lancéolées. Elles forment une couronne terminale dense de 25 à 35 feuilles. Les pétioles sont robustes et fibreux, traditionnellement utilisés pour l'artisanat local. Inflorescences et fleurs. Les inflorescences apparaissent à l'aisselle des feuilles sous forme de spadices ramifiés, protégés par une spathe ligneuse. Chaque inflorescence porte des fleurs mâles nombreuses et quelques fleurs femelles plus grandes, permettant à la fois l'autopollinisation et la pollinisation croisée. Fruit. Le fruit est une drupe fibreuse volumineuse, pesant généralement 1 à 2 kg. L'endocarpe ligneux (la coque) renferme la graine unique, composée d'un albumen solide (la pulpe blanche) et liquide (l'eau de coco). La maturation complète nécessite 10 à 12 mois. Les parties utilisées documentées dans le Sud et la Grand'Anse sont la pulpe de la noix, l'eau de coco et l'huile extraite de la pulpe.",
@@ -2187,8 +2273,10 @@ const plantesData = [
     "familleDescription": "",
     "familleImage": "",
     "familleNum": "13",
-    "toxBadgeColor": "yellow",
-    "toxBadgeText": "Précautions"
+    "toxBadgeColor": "green",
+    "toxBadgeText": "Non toxique",
+    "usageType": "Alimentaire et Médicinale",
+    "maladieSummary": "Digestif, Urinaire, Cutané"
   },
   {
     "id": 45,
@@ -2206,10 +2294,10 @@ const plantesData = [
       "ht": "Palmis"
     },
     "systeme": {
-      "fr": "Selon les données ethnopharmacologiques caribéennes, R. regia ciblerait préférentiellement le systèm"
+      "fr": "Urinaire, Cardiovasculaire"
     },
-    "toxicite": "caution",
-    "toxiciteLevel": "caution",
+    "toxicite": null,
+    "toxiciteLevel": "safe",
     "sections": {
       "introduction": "Roystonea regia (syn. Oreodoxa regia) est un palmier majestueux natif d'Haïti, dominant le paysage des Départements du Sud et de la Grand'Anse. Il appartient à la famille des Arécacées, cette grande famille tropicale de palmiers qui constitue l'épine dorsale de nombreux écosystèmes caribéens. Au sein de cette famille, il fait partie du genre Roystonea, groupe de palmiers élancés des Antilles reconnus pour leur port spectaculaire et leurs multiples usages traditionnels. Dans les deux départements, le palmier royal occupe une place centrale à la fois alimentaire — par son cœur comestible appelé « chou palmis » — et économique, par son bois utilisé en construction. Son abondance locale en fait une ressource précieuse pour les communautés rurales, bien que sa récolte nécessite l'abattage de l'arbre entier.",
       "description": "R. regia est un palmier de grande taille, pouvant atteindre 20 à 30 mètres de hauteur dans les conditions optimales des plaines côtières du Sud et de la Grand'Anse, où il prospère depuis le niveau de la mer jusqu'aux premières pentes des mornes. Tronc. Le stipe (tronc) est solitaire, cylindrique, lisse et gris-blanchâtre, légèrement renflé à sa base. Il peut atteindre 50 à 60 cm de diamètre chez les spécimens matures. Le cœur du palmier, appelé localement « chou palmis », constitue le méristème apical de la plante — sa zone de croissance active — et représente la partie la plus prisée alimentairement. Feuilles. Les feuilles sont pennées, longues de 3 à 4 mètres, disposées en couronne au sommet du tronc. Elles présentent de nombreuses folioles linéaires vert brillant, retombant gracieusement de part et d'autre du rachis central. Les pétioles sont engainants à leur base, formant une gaine lisse qui protège le bourgeon terminal. Fleurs et fruits. Les inflorescences naissent sous la couronne foliaire et portent des fleurs unisexuées de couleur crème. Les fruits sont des drupes ovoïdes de 1 à 1,5 cm de longueur, d'abord vertes puis rouge violacé à maturité, contenant une graine unique très dure. Les parties utilisées sont principalement le cœur (méristème apical), les fruits et les graines, plus occasionnellement les racines.",
@@ -2235,8 +2323,10 @@ const plantesData = [
     "familleDescription": "",
     "familleImage": "",
     "familleNum": "13",
-    "toxBadgeColor": "yellow",
-    "toxBadgeText": "Précautions"
+    "toxBadgeColor": "green",
+    "toxBadgeText": "Non toxique",
+    "usageType": "Alimentaire et Médicinale",
+    "maladieSummary": "Urinaire, Cardiovasculaire"
   },
   {
     "id": 46,
@@ -2260,10 +2350,10 @@ const plantesData = [
       "ht": "Galata"
     },
     "systeme": {
-      "fr": "Selon les données ethnobotaniques disponibles, A. brevispina cible principalement le système tégumen"
+      "fr": "Médicinal"
     },
-    "toxicite": "unknown",
-    "toxiciteLevel": "unknown",
+    "toxicite": null,
+    "toxiciteLevel": "safe",
     "sections": {
       "introduction": "Agave brevispina (syn. Agave antillarum var. brevispina) est une herbe succulente endémique strict d'Haïti, particulièrement du Massif de la Hotte dans la Grand'Anse. Elle appartient à la famille des Asparagacées, groupe cosmopolite riche en saponines et fructanes, ciblant préférentiellement les systèmes tégumentaire et digestif. Au sein de cette famille, elle fait partie du genre Agave, qui regroupe environ 200 espèces de plantes succulentes américaines, toutes caractérisées par leurs rosettes de feuilles charnues et leurs remarquables adaptations aux environnements arides. Son usage principal dans les Départements du Sud et de la Grand'Anse est médicinal, particulièrement pour le traitement externe des blessures, grâce aux propriétés antiseptiques et cicatrisantes de sa sève.",
       "description": "A. brevispina est une herbe succulente de zones sèches, adaptée aux conditions arides du Massif de la Hotte et des régions côtières de la Grand'Anse. Racines. Le système racinaire est peu profond mais étendu horizontalement, permettant de capter efficacement les précipitations sporadiques des zones sèches haïtiennes. Feuilles. Les feuilles forment une rosette basale caractéristique, charnues et rigides, de couleur vert-gris à bleuâtre selon l'exposition solaire. Elles se terminent par des épines courtes (d'où l'épithète \"brevispina\"), adaptation défensive contre l'herbivorie. Les feuilles contiennent un parenchyme aquifère riche en mucilages et en sève laiteuse, réserve hydrique essentielle pour survivre aux périodes de sécheresse prolongée. Leur saveur est distinctement piquante et amère. Inflorescence. Comme toutes les espèces du genre Agave, la plante produit une hampe florale spectaculaire après plusieurs années de croissance végétative, marquant souvent la fin du cycle de vie de la rosette mère. Cette inflorescence peut atteindre plusieurs mètres de hauteur. Fruit et graines. Les fruits sont des capsules contenant des graines noires aplaties, disséminées par le vent lors de l'ouverture des capsules. Les parties utilisées sont principalement les feuilles, le \"cœur\" central de la rosette et la sève laiteuse extraite des feuilles.",
@@ -2289,8 +2379,10 @@ const plantesData = [
     "familleDescription": "Les Asparagacées rassemblent près de 3 000 espèces réparties en 114 genres, constituant une famille cosmopolite principalement composée d'herbes succulentes, de lianes et d'arbustes. Cette famille renferme plusieurs genres d'importance économique majeure, notamment Asparagus (asperge commune), cultivé pour ses jeunes pousses comestibles riches en fibres et en vitamines. Les genres à vocation médicinale incluent Aloe — dont l'aloès (Aloe vera) est mondialement réputé pour ses propriétés cicatrisantes —, Sansevieria utilisé traditionnellement pour les affections respiratoires, et Agave exploité pour ses fibres et ses propriétés antiseptiques. Sur le plan ornemental, Dracaena et Cordyline dominent le marché des plantes d'intérieur. Cette famille se caractérise phytochimiquement par une richesse exceptionnelle en saponines stéroïdiennes, en fructanes de type inuline et en flavonoïdes, ciblant préférentiellement les systèmes tégumentaire et digestif. Une vigilance particulière s'impose cependant : plusieurs genres comme Agave produisent des sèves irritantes, tandis qu'Aloe contient un latex purgatif puissant contre-indiqué durant la grossesse.",
     "familleImage": "",
     "familleNum": "14",
-    "toxBadgeColor": "yellow",
-    "toxBadgeText": "Données insuffisantes"
+    "toxBadgeColor": "green",
+    "toxBadgeText": "Non toxique",
+    "usageType": "Médicinale",
+    "maladieSummary": ""
   },
   {
     "id": 47,
@@ -2308,10 +2400,10 @@ const plantesData = [
       "ht": "Pit"
     },
     "systeme": {
-      "fr": "Les usages documentés d'A. sisalana ciblent principalement le système tégumentaire à travers ses pro"
+      "fr": "Médicinal"
     },
-    "toxicite": "unknown",
-    "toxiciteLevel": "unknown",
+    "toxicite": null,
+    "toxiciteLevel": "safe",
     "sections": {
       "introduction": "Agave sisalana Perrine (syn. Agave rigida var. sisalana) est une herbe exotique succulente documentée dans les Départements du Sud et de la Grand'Anse, où elle occupe une place particulière entre usage industriel traditionnel et applications thérapeutiques populaires. Appartenant à la famille des Asparagacées, elle fait partie du genre Agave, un groupe de plantes succulentes des régions arides connues pour leur remarquable adaptation aux stress hydriques et leur richesse en saponines stéroïdiennes. Dans le contexte haïtien, A. sisalana représente principalement une ressource fibreuse pour la confection de cordes et la délimitation des jardins, tout en conservant des usages médicinaux traditionnels comme anti-inflammatoire et cicatrisant. Sa rareté croissante dans les deux départements soulève des questions importantes sur la préservation de cette ressource polyvalente.",
       "description": "A. sisalana est une herbe succulente de basse altitude, remarquable par sa capacité d'adaptation aux conditions arides et sa longévité exceptionnelle pouvant dépasser plusieurs décennies. Racines. Le système racinaire est étendu et superficiel, adapté à la captation efficace des précipitations occasionnelles. Les racines développent des associations symbiotiques avec des microorganismes du sol qui favorisent l'absorption des nutriments dans des substrats pauvres. Feuilles. Les feuilles constituent l'organe le plus caractéristique de la plante : disposées en rosette basale, elles sont épaisses, charnues, rigides et peuvent atteindre 1,5 à 2 mètres de longueur. Leur couleur vert-gris à vert-bleu témoigne de la présence de cires protectrices et de pigments adaptés à l'intense rayonnement solaire des basses altitudes. Chaque feuille se termine par une épine acérée et présente des marges garnies de dents espacées. La surface cireuse limite les pertes hydriques tandis que l'épaisseur permet le stockage d'eau et de mucilages. Inflorescence et reproduction. Après 8 à 12 années de croissance végétative, la plante produit une hampe florale spectaculaire pouvant atteindre 4 à 6 mètres de hauteur, portant de nombreuses fleurs jaunâtres à blanches. Cette floraison unique marque la fin de vie de la rosette mère, qui produit cependant des rejets basaux assurant la perpétuation de la population. Les parties utilisées sont principalement les feuilles pour l'extraction des fibres et la préparation des remèdes, ainsi que la sève extraite par incision.",
@@ -2337,8 +2429,10 @@ const plantesData = [
     "familleDescription": "",
     "familleImage": "",
     "familleNum": "14",
-    "toxBadgeColor": "yellow",
-    "toxBadgeText": "Données insuffisantes"
+    "toxBadgeColor": "green",
+    "toxBadgeText": "Non toxique",
+    "usageType": "Médicinale",
+    "maladieSummary": ""
   },
   {
     "id": 48,
@@ -2359,10 +2453,10 @@ const plantesData = [
       "ht": "Zòrèy bourik"
     },
     "systeme": {
-      "fr": "S. hyacinthoides cible principalement le système auditif dans les usages documentés du Sud et de la "
+      "fr": "Urinaire, Cardiovasculaire"
     },
-    "toxicite": "caution",
-    "toxiciteLevel": "caution",
+    "toxicite": null,
+    "toxiciteLevel": "safe",
     "sections": {
       "introduction": "Sansevieria hyacinthoides (syn. Dracaena hyacinthoides, Aloe hyacinthoides) est une herbe exotique pantropicale, commune dans les Départements du Sud et de la Grand'Anse. Elle appartient à la famille des Asparagacées, une famille principalement herbacée reconnue pour ses riches usages médicinaux et spirituels, caractérisée phytochimiquement par une signature dominée par les saponines stéroïdiennes, les flavonoïdes, les alcaloïdes, les lectines et les fructanes. Au sein de cette famille, le genre Sansevieria regroupe des plantes succulentes robustes, largement cultivées comme ornementales et employées traditionnellement pour leurs propriétés thérapeutiques. L'espèce est particulièrement appréciée dans les deux départements pour ses usages médicinaux externes, notamment dans le traitement des affections auriculaires, ainsi que pour son rôle pratique comme plante de clôture vivante.",
       "description": "S. hyacinthoides est une herbe succulente vivace, caractérisée par son port dressé et sa remarquable résistance aux conditions environnementales difficiles. Racines. Le système racinaire est composé de rhizomes souterrains charnus et ramifiés, permettant à la plante de se propager végétativement et de former des colonies denses. Ces rhizomes constituent également une partie utilisée en médecine traditionnelle dans les Départements du Sud et de la Grand'Anse. Feuilles. Les feuilles constituent l'élément le plus distinctif de la plante : épaisses, charnues, dressées en rosette basale, de forme lancéolée à linéaire, pouvant atteindre 60 à 100 cm de longueur. Leur surface est lisse, de couleur vert foncé avec souvent des marbrures plus claires transversales. La texture coriace et l'épaisseur importante témoignent de l'adaptation de la plante aux climats secs. Le goût âcre des feuilles constitue un mécanisme de défense naturel contre l'herbivorie. Fleurs et reproduction. La plante produit occasionnellement une hampe florale portant de petites fleurs blanchâtres ou verdâtres, groupées en grappes. Cependant, la reproduction se fait principalement par voie végétative via les rhizomes, expliquant sa capacité de colonisation rapide. Les parties utilisées sont principalement les feuilles fraîches et, dans une moindre mesure, les racines rhizomateuses.",
@@ -2388,8 +2482,10 @@ const plantesData = [
     "familleDescription": "",
     "familleImage": "",
     "familleNum": "14",
-    "toxBadgeColor": "yellow",
-    "toxBadgeText": "Précautions"
+    "toxBadgeColor": "green",
+    "toxBadgeText": "Non toxique",
+    "usageType": "Médicinale",
+    "maladieSummary": "Urinaire, Cardiovasculaire"
   },
   {
     "id": 49,
@@ -2410,10 +2506,10 @@ const plantesData = [
       "ht": "Lalwa"
     },
     "systeme": {
-      "fr": "A. vera cible principalement les systèmes tégumentaire et digestif. Pour la peau, le gel d'aloès sti"
+      "fr": "Digestif, Cutané"
     },
-    "toxicite": "toxic",
-    "toxiciteLevel": "toxic",
+    "toxicite": null,
+    "toxiciteLevel": "caution",
     "sections": {
       "introduction": "Aloe vera (syn. Aloe barbadensis Mill.) est une herbe succulente exotique, cultivée dans les Départements du Sud et de la Grand'Anse. Elle appartient à la famille des Asphodeélacées, reconnue pour ses propriétés médicinales exceptionnelles et ses adaptations aux climats arides. Au sein de cette famille, elle fait partie du genre Aloe, qui regroupe plus de 500 espèces succulentes distribuées principalement en Afrique et à Madagascar, toutes caractérisées par leurs feuilles charnues et leur double nature chimique — un gel mucilagineux aux propriétés cicatrisantes et un latex amer aux effets purgatifs. Aloe vera constitue l'espèce la plus cultivée et étudiée du genre, utilisée mondialement en dermatologie, cosmétique et phytothérapie. Dans les deux départements, son usage est principalement médicinal et cosmétique, documenté pour le soin des cheveux, le traitement des brûlures et le soutien du système digestif.",
       "description": "A. vera est une herbe succulente acaule ou à tige très courte, formant des rosettes basales pouvant atteindre 60 à 100 cm de diamètre. *Feuilles.* Les feuilles constituent l'organe distinctif et utile de la plante : charnues, épaisses, lancéolées, de couleur vert glauque parfois teintée de rouge, disposées en rosette dense. Elles mesurent 15 à 50 cm de longueur pour 5 à 8 cm de largeur, avec des bords dentés ornés d'épines molles jaunâtres. La structure interne révèle deux tissus distincts : le gel mucilagineux translucide au centre (mésophylle), et une fine couche jaune amère sous l'épiderme (latex ou aloïne). Cette architecture duale explique la double utilisation traditionnelle de la plante. *Fleurs et reproduction.* La plante produit périodiquement une hampe florale dressée de 60 à 90 cm, portant une grappe dense de fleurs tubulaires orange à rouges, mellifères et attractives pour les colibris. Dans les conditions haïtiennes, la floraison reste sporadique. La reproduction s'effectue principalement par rejets latéraux (stolons) qui forment de nouvelles rosettes. Les parties utilisées sont le gel mucilagineux des feuilles et, avec précautions, le latex jaune.",
@@ -2439,8 +2535,10 @@ const plantesData = [
     "familleDescription": "Reconnues pour leur succulence et leurs propriétés médicinales exceptionnelles, les Asphodeélacées rassemblent environ 900 espèces réparties en 40 genres, principalement des herbes charnues adaptées aux climats arides. Cette famille cosmopolite comprend des genres alimentaires comme Asphodelus, cultivé pour ses racines féculentes en Méditerranée, et surtout le célèbre genre Aloe, pilier de la pharmacopée traditionnelle mondiale. Les genres à vocation médicinale dominent cette famille : Aloe pour la dermatologie et la gastro-entérologie, Haworthia et Gasteria pour leurs usages topiques, Kniphofia pour ses propriétés anti-inflammatoires. Sur le plan phytochimique, les Asphodeélacées se distinguent par une signature unique combinant des anthraquinones purgatives (aloïne, barboïne), des polysaccharides mucilagineux (acémannane) aux propriétés cicatrisantes, ainsi que des vitamines et minéraux concentrés. Ces composés ciblent préférentiellement les systèmes tégumentaire et digestif. Une vigilance particulière s'impose car le latex de nombreuses espèces renferme des anthraquinones à effet purgatif puissant, contre-indiquées chez la femme enceinte et en cas de pathologies intestinales.",
     "familleImage": "",
     "familleNum": "15",
-    "toxBadgeColor": "red",
-    "toxBadgeText": "Toxique"
+    "toxBadgeColor": "yellow",
+    "toxBadgeText": "Conditionnel",
+    "usageType": "Médicinale",
+    "maladieSummary": "Digestif, Cutané"
   },
   {
     "id": 50,
@@ -2461,10 +2559,10 @@ const plantesData = [
       "ht": "Tisoley"
     },
     "systeme": {
-      "fr": "L'usage traditionnel d'Elekmania stenodon contre la grippe suggère une action sur le système immunit"
+      "fr": "Respiratoire, Immunitaire"
     },
-    "toxicite": "unknown",
-    "toxiciteLevel": "unknown",
+    "toxicite": "toxic",
+    "toxiciteLevel": "danger",
     "sections": {
       "introduction": "Elekmania stenodon (syn. Senecio stenodon) est une herbacée à arbuste endémique strict d'Haïti — c'est-à-dire qu'elle n'existe nulle part ailleurs sur Terre. Elle appartient à la famille des Astéracées, l'une des plus vastes familles botaniques mondiales, particulièrement riche en composés phénoliques et en métabolites bioactifs. Au sein de cette famille, elle fait partie du genre Elekmania, un petit groupe taxonomique récemment séparé du genre Senecio, caractérisé par des adaptations spécifiques aux environnements montagnards tropicaux. Son aire de distribution se limite exclusivement au Parc National Macaya dans le Massif de la Hotte, où elle constitue une espèce indicatrice clé de la biodiversité de haute altitude. Dans les Départements du Sud et de la Grand'Anse, son usage documenté concerne principalement le traitement traditionnel de la grippe, bien que sa rareté extrême limite considérablement son exploitation. En raison de son statut d'endémique stricte et de sa distribution ultra-restreinte, la conservation de cette espèce constitue un enjeu prioritaire pour la préservation du patrimoine biologique haïtien.",
       "description": "E. stenodon est une plante herbacée pouvant développer un port arbustif, adaptée aux conditions particulières des hautes altitudes du Massif de la Hotte. Sa morphologie reflète les contraintes environnementales spécifiques de cet écosystème montagnard unique. Tiges et port. La plante présente un port variable selon les conditions de croissance : herbacée dans les zones les plus exposées, elle peut développer des tiges plus ligneuses et un port arbustif dans les microsites protégés. Cette plasticité morphologique constitue une adaptation aux variations microclimatiques des crêtes montagnardes. Feuilles. Les feuilles montrent les caractéristiques typiques de la tribu des Senecioneae au sein des Astéracées. Leur architecture et leur disposition sur la tige reflètent une optimisation pour capter la lumière dans l'environnement forestier montagnard filtré du Macaya. Inflorescences. Comme toutes les Astéracées, E. stenodon produit des capitules — structures florales composées de nombreuses petites fleurs individuelles organisées sur un réceptacle commun et entourées de bractées protectrices. Cette architecture florale maximise l'efficacité de la pollinisation dans l'environnement montagnard où les pollinisateurs peuvent être moins abondants. Fruits. Les fruits sont des akènes surmontés d'un pappus — structure plumeuse facilitant la dispersion par le vent, adaptation cruciale pour une espèce confinée aux crêtes montagnardes où la dispersion anémochore représente souvent le principal vecteur de colonisation de nouveaux habitats. Les parties traditionnellement utilisées ne sont pas documentées avec précision dans la littérature disponible.",
@@ -2490,8 +2588,10 @@ const plantesData = [
     "familleDescription": "Les Astéracées représentent l'une des plus vastes familles botaniques au monde, rassemblant plus de 23 000 espèces réparties dans près de 1 600 genres. Cette famille cosmopolite se distingue par sa remarquable diversité morphologique — allant des herbes annuelles aux arbres — et par son architecture florale caractéristique : les fleurs individuelles sont regroupées en capitules denses qui simulent une fleur unique. En Haïti, cette famille comprend de nombreuses espèces alimentaires comme la laitue sauvage et les épinards-pays, ainsi que des plantes médicinales traditionnelles utilisées pour traiter les affections respiratoires et ORL. Sur le plan phytochimique, les Astéracées se caractérisent par une signature dominée par l'acide chlorogénique, la quercétine, la lutéoline et de nombreux autres flavonoïdes, ciblant préférentiellement les systèmes respiratoire, musculo-squelettique et ORL. Il convient cependant de signaler que certains genres — notamment Senecio et ses proches parents — renferment des alcaloïdes pyrrolizidiniques potentiellement hépatotoxiques, exigeant une vigilance particulière dans leur identification et leur usage.",
     "familleImage": "",
     "familleNum": "16",
-    "toxBadgeColor": "yellow",
-    "toxBadgeText": "Données insuffisantes"
+    "toxBadgeColor": "red",
+    "toxBadgeText": "Toxique",
+    "usageType": "Médicinale",
+    "maladieSummary": "Respiratoire, Immunitaire"
   },
   {
     "id": 52,
@@ -2510,10 +2610,10 @@ const plantesData = [
       "ht": "-"
     },
     "systeme": {
-      "fr": "G. domingense cible spécifiquement le système respiratoire, avec des applications documentées pour l"
+      "fr": "Respiratoire"
     },
-    "toxicite": "unknown",
-    "toxiciteLevel": "unknown",
+    "toxicite": null,
+    "toxiciteLevel": "safe",
     "sections": {
       "introduction": "Gnaphalium domingense Lam. (syn. Pseudognaphalium domingense) est une herbe native des zones de moyenne et haute altitude d'Haïti, devenue très rare dans les Départements du Sud et de la Grand'Anse. Elle appartient à la famille des Astéracées, une vaste famille cosmopolite regroupant plus de 25 000 espèces — la plus importante famille de plantes à fleurs. Cette famille présente une diversité remarquable d'usages médicinaux, avec des genres comme Artemisia (armoise), Echinacea (échinacée) et Calendula (souci) largement utilisés en phytothérapie mondiale. Sur le plan alimentaire, elle inclut des espèces cultivées comme la laitue (Lactuca sativa), l'artichaut (Cynara scolymus) et le tournesol (Helianthus annuus). Les Astéracées se distinguent par leur signature phytochimique dominée par l'acide chlorogénique, la quercétine, la lutéoline et de nombreux sesquiterpènes lactones. Ces composés ciblent préférentiellement les systèmes respiratoire, musculo-squelettique et ORL, expliquant les usages traditionnels répandus de cette famille. Une vigilance particulière s'impose car certains genres — notamment Senecio — renferment des alcaloïdes pyrrolizidiniques hépatotoxiques exigeant une identification botanique rigoureuse. Au sein de cette famille, Gnaphalium domingense fait partie du complexe des « gnaphales », un groupe d'herbes à capitules cotonneuses utilisées traditionnellement pour les affections respiratoires dans toute la Caraïbe.",
       "description": "G. domingense est une herbe dressée des zones d'altitude, adaptée aux sols pauvres et aux conditions climatiques fraîches des montagnes haïtiennes. Tiges. Les tiges sont dressées, simples ou peu ramifiées, recouvertes d'un duvet blanchâtre caractéristique qui donne à la plante son aspect cotonneux. Cette pilosité dense constitue une adaptation aux conditions d'altitude, protégeant la plante des variations thermiques et de la dessiccation. Feuilles. Les feuilles sont alternes, sessiles, lancéolées à oblongues, également recouvertes du même duvet blanchâtre sur les deux faces. Cette pilosité laineuse est particulièrement dense sur la face inférieure, créant un contraste visuel distinctif. Les feuilles sont entières, sans dents ni divisions. Fleurs. Les capitules sont petits, groupés en corymbes terminaux denses. Chaque capitule présente des fleurs tubuleuses blanchâtres à jaunâtres, entourées de bractées membraneuses translucides disposées en plusieurs rangs — caractéristique distinctive du genre Gnaphalium. Fruit. Les fruits sont de petits akènes surmontés d'une aigrette de poils blancs facilitant la dispersion par le vent, adaptation typique de la famille des Astéracées pour la colonisation de nouveaux habitats montagnards. La partie utilisée est la plante entière, récoltée pendant la période de floraison pour optimiser la concentration en principes actifs.",
@@ -2539,8 +2639,10 @@ const plantesData = [
     "familleDescription": "",
     "familleImage": "",
     "familleNum": "16",
-    "toxBadgeColor": "yellow",
-    "toxBadgeText": "Données insuffisantes"
+    "toxBadgeColor": "green",
+    "toxBadgeText": "Non toxique",
+    "usageType": "Médicinale",
+    "maladieSummary": "Respiratoire"
   },
   {
     "id": 53,
@@ -2561,10 +2663,10 @@ const plantesData = [
       "ht": "Fèy tabak/Lachoy"
     },
     "systeme": {
-      "fr": "P. carolinensis cible préférentiellement le système musculo-squelettique et la sphère ORL. Au niveau"
+      "fr": "Cutané, Musculosquelettique"
     },
-    "toxicite": "unknown",
-    "toxiciteLevel": "unknown",
+    "toxicite": null,
+    "toxiciteLevel": "safe",
     "sections": {
       "introduction": "Pluchea carolinensis (Jacq.) G. Don (syn. Conyza carolinensis Jacq.) est un arbuste natif des Départements du Sud et de la Grand'Anse, appartenant à la famille des Astéracées. Il fait partie du genre Pluchea, qui regroupe une cinquantaine d'espèces d'arbustes principalement américains, reconnus pour leurs propriétés médicinales et leur riche composition en huiles essentielles. Son nom créole « Fèy tabak » évoque probablement l'odeur camphrée de ses feuilles, tandis que « Lachoy » pourrait référer à ses usages traditionnels. Cette espèce constitue l'une des plantes médicinales les plus importantes de la pharmacopée locale haïtienne, particulièrement prisée pour le traitement des affections inflammatoires et douloureuses.",
       "description": "P. carolinensis est un arbuste commun des basses et moyennes altitudes, particulièrement bien adapté aux conditions climatiques des Départements du Sud et de la Grand'Anse. Tiges et port. L'arbuste présente une croissance vigoureuse avec des tiges dressées, ramifiées, pouvant atteindre 1,5 à 2 mètres de hauteur. Les jeunes tiges sont herbacées et verdâtres, devenant ligneuses avec l'âge. L'écorce mature présente une texture rugueuse caractéristique. Feuilles. Les feuilles sont alternes, simples, ovales à lancéolées, mesurant généralement 5 à 15 cm de longueur. Elles présentent un limbe denté sur les bords et une nervation pennée bien marquée. La surface supérieure est vert foncé et légèrement rugueuse, tandis que la face inférieure est plus claire et pubescente. Lorsqu'on les froisse, elles dégagent une odeur camphrée caractéristique due à leur richesse en huiles essentielles. Inflorescences et fleurs. Les fleurs sont regroupées en capitules typiques des Astéracées, formant des corymbes terminaux denses. Chaque capitule mesure environ 3-4 mm de diamètre et contient uniquement des fleurs tubuleuses, sans ligules périphériques. Les fleurs sont généralement blanches à rosées et attirent divers insectes pollinisateurs. Fruits. Les fruits sont des akènes surmontés d'une aigrette blanchâtre facilitant leur dispersion par le vent, caractéristique commune aux Astéracées. Les parties utilisées sont principalement les feuilles, qui concentrent la majorité des principes actifs.",
@@ -2590,8 +2692,10 @@ const plantesData = [
     "familleDescription": "",
     "familleImage": "",
     "familleNum": "16",
-    "toxBadgeColor": "yellow",
-    "toxBadgeText": "Données insuffisantes"
+    "toxBadgeColor": "green",
+    "toxBadgeText": "Non toxique",
+    "usageType": "Alimentaire et Médicinale",
+    "maladieSummary": "Cutané, Musculosquelettique"
   },
   {
     "id": 54,
@@ -2609,10 +2713,10 @@ const plantesData = [
       "ht": "Amwaz"
     },
     "systeme": {
-      "fr": "A. annua cible principalement les systèmes digestif et circulatoire, avec des applications documenté"
+      "fr": "Digestif"
     },
-    "toxicite": "toxic",
-    "toxiciteLevel": "toxic",
+    "toxicite": null,
+    "toxiciteLevel": "safe",
     "sections": {
       "introduction": "Artemisia annua L., connue localement sous le nom d'« amwaz », est un arbuste exotique rare des hautes altitudes, appartenant à la famille des Astéracées. Cette espèce fait partie du genre Artemisia, un groupe cosmopolite d'environ 400 espèces aromatiques comprenant l'absinthe européenne (Artemisia absinthium) et l'armoise commune (Artemisia vulgaris). L'introduction d'A. annua en Haïti témoigne de l'intérêt croissant pour ses propriétés antipaludiques exceptionnelles, reconnues mondialement depuis les travaux de Tu Youyou, prix Nobel de médecine 2015 pour la découverte de l'artémisinine. Dans les Départements du Sud et de la Grand'Anse, cette plante est documentée principalement pour ses usages fébrifuges et antiparasitaires, constituant une ressource thérapeutique précieuse malgré sa rareté.",
       "description": "A. annua est un arbuste annuel pouvant atteindre 1 à 2 mètres de hauteur dans les conditions favorables des hautes altitudes haïtiennes. Tiges.. Les tiges sont dressées, ramifiées, de couleur verte à rougeâtre, légèrement pubescentes et dégageant une odeur caractéristique très prononcée lorsqu'on les froisse. Feuilles.. Les feuilles sont alternes, profondément découpées en segments fins (pennatiséquées), de couleur vert clair à vert foncé selon l'exposition. Leur texture est délicate et leur saveur intensément amère — caractéristique qui constitue un indicateur de la concentration en principes actifs. Les feuilles jeunes présentent une pubescence argentée distinctive. Fleurs.. Les inflorescences forment des panicules terminales composées de nombreux petits capitules jaunâtres, typiques de la famille des Astéracées. Chaque capitule mesure 2-3 mm de diamètre et contient des fleurs tubulaires fertiles. La floraison intervient généralement en fin de saison des pluies. Fruit.. Les fruits sont des akènes minuscules, brunâtres, dispersés par le vent grâce à leur légèreté. Les parties utilisées sont principalement les feuilles et les sommités fleuries, récoltées de préférence avant la pleine floraison pour optimiser la teneur en artémisinine.",
@@ -2638,8 +2742,10 @@ const plantesData = [
     "familleDescription": "Dominant la flore mondiale avec plus de 25 000 espèces réparties en 1 600 genres, les Astéracées constituent la plus vaste famille de plantes à fleurs de la planète. Cette famille hautement évoluée regroupe principalement des herbes, des arbustes et quelques lianes, facilement reconnaissables par leurs inflorescences caractéristiques en capitules — comme celles du tournesol ou de la marguerite. En Haïti, cette famille offre des genres alimentaires remarquables tels que la laitue sauvage (Lactuca) et le pissenlit (Taraxacum), aux côtés de genres médicinaux majeurs comme l'armoise (Artemisia), l'ageratum (Ageratum) et la vernonie (Vernonia). Sur le plan aromatique, les genres Chromolaena et Ageratum parfument les préparations rituelles traditionnelles. Phytochimiquement, cette famille se distingue par sa richesse en lactones sesquiterpéniques anti-inflammatoires, en flavonoïdes antioxydants et en inuline prébiotique, ciblant préférentiellement les systèmes digestif, respiratoire et nerveux. Une vigilance particulière s'impose cependant : certains genres comme Heliotropium renferment des alcaloïdes pyrrolizidiniques hépatotoxiques, tandis que Parthenium et Chromolaena peuvent provoquer des dermites de contact sévères.",
     "familleImage": "",
     "familleNum": "17",
-    "toxBadgeColor": "red",
-    "toxBadgeText": "Toxique"
+    "toxBadgeColor": "green",
+    "toxBadgeText": "Non toxique",
+    "usageType": "Médicinale",
+    "maladieSummary": "Digestif"
   },
   {
     "id": 55,
@@ -2658,10 +2764,10 @@ const plantesData = [
       "ht": "Zegui"
     },
     "systeme": {
-      "fr": "B. pilosa cible préférentiellement les systèmes immunitaire et respiratoire. Les recherches scientif"
+      "fr": "Respiratoire, Immunitaire"
     },
-    "toxicite": "unknown",
-    "toxiciteLevel": "unknown",
+    "toxicite": null,
+    "toxiciteLevel": "safe",
     "sections": {
       "introduction": "Bidens pilosa L. (syn. Bidens leucantha) est une herbe adventice exotique, pantropicale et particulièrement abondante dans les Départements du Sud et de la Grand'Anse. Elle appartient à la famille des Astéracées, une famille hautement évoluée reconnue pour ses remarquables propriétés médicinales et alimentaires, caractérisée par ses composés phytochimiques sophistiqués — notamment les sesquiterpènes lactones anti-inflammatoires, les flavonoïdes et l'inuline. Au sein de cette famille, elle fait partie du genre Bidens, qui regroupe plusieurs espèces à fort potentiel thérapeutique, particulièrement appréciées pour leurs propriétés anti-inflammatoires et antimicrobiennes. Bidens pilosa constitue à la fois une plante médicinale précieuse et un légume nutritif consommé dans plusieurs régions du monde, notamment en Afrique et dans les Amériques, où ses jeunes feuilles riches en fer sont utilisées contre l'anémie.",
       "description": "B. pilosa est une herbe annuelle dressée, adventice, pouvant atteindre 30 à 150 cm de hauteur selon les conditions de croissance. Tiges. Les tiges sont dressées, ramifiées, de section carrée, souvent teintées de rouge-pourpre, particulièrement aux nœuds. Elles sont légèrement velues et cassantes à maturité. Feuilles. Les feuilles sont opposées, composées de 3 à 5 folioles dentées, de couleur vert foncé. Les feuilles jeunes, plus tendres, présentent une saveur herbacée légèrement amère caractéristique. Cette amertume s'accentue avec l'âge des feuilles et constitue un indicateur de la concentration en composés bioactifs. Fleurs. Les capitules floraux sont petits, composés de fleurs tubulaires jaunes au centre et parfois de ligules blanches en périphérie. Ces inflorescences, typiques des Astéracées, attirent de nombreux insectes pollinisateurs et sont également utilisées en médecine traditionnelle. Fruits. Les akènes sont allongés, de couleur brun-noir à maturité, surmontés de 2 à 4 arêtes munies de crochets qui permettent leur dispersion par adhésion aux vêtements et aux poils d'animaux — stratégie responsable de sa large distribution géographique. Les parties utilisées sont principalement les feuilles et les fleurs, récoltées de préférence avant la floraison pour les usages alimentaires.",
@@ -2687,8 +2793,10 @@ const plantesData = [
     "familleDescription": "",
     "familleImage": "",
     "familleNum": "17",
-    "toxBadgeColor": "yellow",
-    "toxBadgeText": "Données insuffisantes"
+    "toxBadgeColor": "green",
+    "toxBadgeText": "Non toxique",
+    "usageType": "Alimentaire et Médicinale",
+    "maladieSummary": "Respiratoire, Immunitaire"
   },
   {
     "id": 56,
@@ -2707,10 +2815,10 @@ const plantesData = [
       "ht": "Laglichat"
     },
     "systeme": {
-      "fr": "C. odorata cible principalement le système tégumentaire pour ses propriétés cicatrisantes et le syst"
+      "fr": "Respiratoire, Sanguin"
     },
-    "toxicite": "unknown",
-    "toxiciteLevel": "unknown",
+    "toxicite": null,
+    "toxiciteLevel": "safe",
     "sections": {
       "introduction": "Chromolaena odorata (syn. Eupatorium odoratum) est un arbuste natif documenté dans le Sud et la Grand'Anse. Elle appartient à la famille des Astéracées, une famille hautement évoluée qui regroupe plus de 25 000 espèces mondiales — la plus vaste famille de plantes à fleurs — particulièrement riche en genres à vocation alimentaire comme Lactuca (laitue), Cichorium (chicorée) et Helianthus (tournesol). Cette famille se distingue également par ses nombreux genres médicinaux dont Artemisia, Calendula et Echinacea, ainsi que par ses genres aromatiques comme Tanacetum et Chrysanthemum. Sur le plan phytochimique, les Astéracées expriment une signature dominée par les sesquiterpènes lactones anti-inflammatoires, les flavonoïdes, l'inuline et les huiles essentielles, ciblant préférentiellement les systèmes digestif, respiratoire et nerveux. Il convient de noter que certains genres — notamment Parthenium, Heliotropium et certaines Artemisia — renferment des principes actifs puissants ou potentiellement hépatotoxiques exigeant une vigilance particulière. Chromolaena odorata est une plante médicinale majeure dans les deux départements, principalement utilisée comme cicatrisant et anti-inflammatoire.",
       "description": "C. odorata est un arbuste de basse altitude, à saveur amère et aromatique, particulièrement abondant dans les zones perturbées du Sud et de la Grand'Anse. Tiges. Les tiges sont ligneuses à la base, dressées et ramifiées, pouvant atteindre 2 à 3 mètres de hauteur. Elles présentent une texture rugueuse et dégagent une odeur caractéristique lorsqu'on les froisse. Feuilles. Les feuilles sont opposées, ovales à lancéolées, avec des bords dentés et une surface légèrement rugueuse. Leur face supérieure est vert foncé tandis que la face inférieure est plus claire. Elles mesurent généralement 3 à 10 cm de longueur et émettent une forte odeur aromatique au froissement. Fleurs. L'inflorescence est composée de capitules terminaux regroupés en corymbes denses. Chaque capitule contient de nombreuses petites fleurs tubulaires de couleur blanc-rosé à mauve pâle, caractéristiques de la famille des Astéracées. La floraison s'étale sur plusieurs mois. Fruit. Le fruit est un akène surmonté d'une aigrette de soies blanches facilitant la dispersion par le vent, expliquant en partie la capacité colonisatrice remarquable de l'espèce. Les parties utilisées dans les pratiques locales sont principalement les feuilles et les tiges.",
@@ -2736,8 +2844,10 @@ const plantesData = [
     "familleDescription": "",
     "familleImage": "",
     "familleNum": "17",
-    "toxBadgeColor": "yellow",
-    "toxBadgeText": "Données insuffisantes"
+    "toxBadgeColor": "green",
+    "toxBadgeText": "Non toxique",
+    "usageType": "Médicinale",
+    "maladieSummary": "Respiratoire, Sanguin"
   },
   {
     "id": 57,
@@ -2755,10 +2865,10 @@ const plantesData = [
       "ht": "Lèti"
     },
     "systeme": {
-      "fr": "Selon les observations ethnobotaniques documentées dans le Sud et la Grand'Anse, la laitue intervien"
+      "fr": "Digestif, Urinaire, Nerveux"
     },
-    "toxicite": "toxic",
-    "toxiciteLevel": "toxic",
+    "toxicite": null,
+    "toxiciteLevel": "safe",
     "sections": {
       "introduction": "Lactuca sativa L. (syn. Lactuca scariola var. sativa) est une herbe annuelle exotique cultivée dans les Départements du Sud et de la Grand'Anse. Elle appartient à la famille des Astéracées, l'une des plus vastes familles de plantes à fleurs au monde avec plus de 23 000 espèces réparties sur tous les continents. Cette famille extraordinairement diversifiée comprend de nombreuses espèces alimentaires — comme la laitue elle-même, les épinards-pays (Talinum triangulare), les tournesols et les artichauts — ainsi que des plantes médicinales remarquables telles que l'armoise (Artemisia), la camomille et l'échinacée. Sur le plan aromatique, elle nous offre l'estragon et diverses espèces d'Artemisia utilisées en infusion. Les Astéracées se distinguent par leur richesse en sesquiterpènes lactones — molécules au goût amer caractéristique —, en flavonoïdes anti-inflammatoires, en inuline prébiotique et en huiles essentielles variées. Ces composés ciblent préférentiellement les systèmes digestif, respiratoire et nerveux. Une vigilance particulière s'impose cependant avec certains genres : Parthenium et Chromolaena peuvent provoquer des irritations cutanées sévères, tandis qu'Heliotropium renferme des alcaloïdes pyrrolizidiniques hépatotoxiques à usage prolongé. Au sein de cette famille, Lactuca sativa fait partie du genre Lactuca, qui regroupe les laitues cultivées et sauvages, toutes caractérisées par leur latex blanc (lactucarium) aux propriétés sédatives légères. La laitue constitue un légume-feuille de base dans l'alimentation mondiale et un remède traditionnel doux pour favoriser le sommeil.",
       "description": "L. sativa est une herbe annuelle à croissance rapide, généralement cultivée pour ses feuilles tendres consommées avant la montée à graines. Dans les conditions climatiques du Sud et de la Grand'Anse, sa culture reste limitée aux zones d'altitude où les températures sont plus fraîches. Tiges. La tige principale se développe en rosette basale durant la phase végétative, puis s'allonge rapidement lors de la montée à graines pour atteindre 60 à 120 cm de hauteur. Cette tige florale, creuse et ramifiée, sécrète un latex blanc caractéristique lorsqu'elle est blessée. Feuilles. Les feuilles, disposées en rosette basale, constituent la partie comestible de la plante. Leur forme varie considérablement selon les cultivars : entières à profondément découpées, lisses à cloquées, vertes à rougeâtres. Leur texture tendre et leur saveur douce à légèrement amère en font un légume apprécié. Dans les conditions tropicales haïtiennes, les feuilles ont tendance à devenir plus amères et coriaces si la plante monte rapidement à graines. Fleurs. Les inflorescences, typiques des Astéracées, sont constituées de nombreux petits capitules jaunes groupés en panicules. Chaque capitule renferme plusieurs dizaines de fleurs minuscules. Fruit. Les fruits sont des akènes munis d'une aigrette blanche facilitant leur dispersion par le vent. Les parties utilisées sont principalement les feuilles jeunes et tendres, et occasionnellement les tiges avant la floraison.",
@@ -2784,8 +2894,10 @@ const plantesData = [
     "familleDescription": "",
     "familleImage": "",
     "familleNum": "17",
-    "toxBadgeColor": "red",
-    "toxBadgeText": "Toxique"
+    "toxBadgeColor": "green",
+    "toxBadgeText": "Non toxique",
+    "usageType": "Alimentaire et Médicinale",
+    "maladieSummary": "Digestif, Urinaire, Nerveux"
   },
   {
     "id": 58,
@@ -2803,10 +2915,10 @@ const plantesData = [
       "ht": "Lyan franswaz"
     },
     "systeme": {
-      "fr": "M. micrantha cible préférentiellement le système respiratoire, avec une efficacité documentée contre"
+      "fr": "Respiratoire, Cutané"
     },
-    "toxicite": "unknown",
-    "toxiciteLevel": "unknown",
+    "toxicite": null,
+    "toxiciteLevel": "safe",
     "sections": {
       "introduction": "Mikania micrantha Kunth (syn. Mikania orinocensis) est une liane volubile native d'Haïti, documentée dans les Départements du Sud et de la Grand'Anse. Elle appartient à la famille des Astéracées, une famille très évoluée morphologiquement et biochimiquement, particulièrement riche en métabolites secondaires bioactifs. Au sein de cette famille, elle fait partie du genre Mikania, un groupe de lianes grimpantes tropicales reconnues pour leurs propriétés anti-inflammatoires et cicatrisantes, principalement dues aux sesquiterpènes lactones caractéristiques du genre. Son usage dans les départements étudiés est strictement médicinal, notamment pour traiter la toux et les affections cutanées par voie externe. Malgré son statut d'espèce native, M. micrantha présente un caractère envahissant qui nécessite une attention particulière du point de vue écologique.",
       "description": "M. micrantha est une liane volubile vigoureuse, capable de s'étendre rapidement dans les milieux perturbés des altitudes moyennes du Sud et de la Grand'Anse. Tiges. Les tiges sont cylindriques, ligneuses à la base et herbacées aux extrémités, de couleur verte à brunâtre. Elles présentent une croissance rapide et peuvent atteindre plusieurs mètres de longueur, s'enroulant autour des supports disponibles. Feuilles. Les feuilles sont opposées, pétiolées, de forme ovale à cordée, avec des nervures palmées bien marquées. Leur surface est rugueuse au toucher et leur saveur est amère, caractéristique des Astéracées riches en sesquiterpènes lactones. Fleurs. Les inflorescences sont composées de petits capitules blancs ou crème, typiques de la famille des Astéracées, regroupés en corymbes terminaux. Chaque capitule ne contient que quatre fleurs tubulées, caractéristique distinctive du genre Mikania. Fruit. Les fruits sont des akènes surmontés d'un pappus plumeux facilitant la dispersion par le vent, expliquant en partie le caractère envahissant de l'espèce. Les parties utilisées sont principalement les feuilles et les tiges.",
@@ -2832,8 +2944,10 @@ const plantesData = [
     "familleDescription": "",
     "familleImage": "",
     "familleNum": "17",
-    "toxBadgeColor": "yellow",
-    "toxBadgeText": "Données insuffisantes"
+    "toxBadgeColor": "green",
+    "toxBadgeText": "Non toxique",
+    "usageType": "Médicinale",
+    "maladieSummary": "Respiratoire, Cutané"
   },
   {
     "id": 59,
@@ -2854,10 +2968,10 @@ const plantesData = [
       "ht": "Zèb a kou"
     },
     "systeme": {
-      "fr": "N. lobata cible principalement les systèmes immunitaire et cutané, avec des effets documentés sur le"
+      "fr": "Immunitaire, Cutané, Hépatique"
     },
-    "toxicite": "caution",
-    "toxiciteLevel": "caution",
+    "toxicite": null,
+    "toxiciteLevel": "safe",
     "sections": {
       "introduction": "Neurolaena lobata (syn. Conyza lobata) est une herbe native très rare des Départements du Sud et de la Grand'Anse, où elle constitue l'un des antimalariques traditionnels les plus réputés de la pharmacopée haïtienne. Elle appartient à la famille des Astéracées, une famille très évoluée comprenant plus de 25 000 espèces dans le monde, reconnue pour ses riches usages alimentaires, médicinaux et spirituels. Cette famille se distingue par ses composés chimiques sophistiqués — notamment les sesquiterpènes lactones, les flavonoïdes, les huiles essentielles et l'inuline — ciblant préférentiellement les systèmes digestif, respiratoire et nerveux. Au sein de cette famille, N. lobata fait partie du genre Neurolaena, un petit groupe d'herbes néotropicales particulièrement riches en sesquiterpènes lactones bioactifs. Sa saveur extrêmement amère témoigne de la concentration élevée de ces composés défensifs, qui expliquent à la fois son efficacité thérapeutique et la nécessité de précautions dans son usage.",
       "description": "N. lobata est une herbe de taille moyenne, poussant principalement en altitude moyenne dans les écosystèmes forestiers et les zones de transition des Départements du Sud et de la Grand'Anse. Tiges. Les tiges sont dressées, ramifiées, de couleur vert à brunâtre, portant une pubescence caractéristique. Elles sécrètent un latex amer lorsqu'elles sont blessées, signe distinctif du genre Neurolaena. Feuilles. Les feuilles sont alternes, lobées — d'où l'épithète spécifique « lobata » — de forme générale ovale à oblongue. Leur surface est rugueuse au toucher et leur saveur est remarquablement amère, concentration maximale des principes actifs de la plante. Cette amertume intense constitue un signal d'alarme naturel contre la surconsommation. Fleurs. L'inflorescence typique des Astéracées se présente sous forme de capitules composés, regroupant de nombreuses petites fleurs tubulaires. Les capitules sont disposés en corymbes terminaux, attirant divers insectes pollinisateurs spécialisés. Fruit. Le fruit est un akène surmonté d'un pappus plumeux facilitant la dispersion par le vent, mécanisme adaptatif crucial pour une espèce rare cherchant à coloniser de nouveaux habitats favorables. Les parties utilisées sont principalement les feuilles et les tiges, récoltées de préférence avant la floraison quand la concentration en principes actifs est optimale.",
@@ -2883,8 +2997,10 @@ const plantesData = [
     "familleDescription": "",
     "familleImage": "",
     "familleNum": "17",
-    "toxBadgeColor": "yellow",
-    "toxBadgeText": "Précautions"
+    "toxBadgeColor": "green",
+    "toxBadgeText": "Non toxique",
+    "usageType": "Médicinale",
+    "maladieSummary": "Immunitaire, Cutané, Hépatique"
   },
   {
     "id": 60,
@@ -2905,10 +3021,10 @@ const plantesData = [
       "ht": "Lapsent"
     },
     "systeme": {
-      "fr": "Les usages traditionnels de P. hysterophorus ciblent principalement le système cutané et la régulati"
+      "fr": "Cutané"
     },
-    "toxicite": "toxic",
-    "toxiciteLevel": "toxic",
+    "toxicite": null,
+    "toxiciteLevel": "safe",
     "sections": {
       "introduction": "Parthenium hysterophorus L. (syn. Parthenium lobatum) est une herbe native abondante dans les Départements du Sud et de la Grand'Anse, où elle croît principalement en basse altitude. Elle appartient à la famille des Astéracées, une famille botanique très évoluée comprenant plus de 23 000 espèces mondiales, dont de nombreux genres à vocation alimentaire comme la laitue (Lactuca sativa), l'artichaut (Cynara scolymus) et le topinambour (Helianthus tuberosus), ainsi que des genres médicinaux reconnus tels qu'Artemisia, Calendula et Echinacea. Sur le plan phytochimique, cette famille se caractérise par une signature dominée par les sesquiterpènes lactones anti-inflammatoires, les flavonoïdes, les polyphénols et l'inuline, ciblant préférentiellement les systèmes digestif, respiratoire et nerveux. Il convient cependant de noter qu'une vigilance particulière s'impose avec certains genres comme Parthenium et Chromolaena, irritants cutanés, ou Heliotropium, hépatotoxique à usage prolongé. Au sein de cette famille, P. hysterophorus fait partie du genre Parthenium, un groupe d'herbes américaines particulièrement riches en sesquiterpènes lactones bioactifs. L'espèce présente un intérêt médicinal traditionnel documenté dans le Sud et la Grand'Anse, mais son usage nécessite des précautions importantes en raison de son potentiel allergisant.",
       "description": "P. hysterophorus est une herbe annuelle dressée, à croissance rapide, pouvant atteindre 1 à 2 mètres de hauteur dans les conditions favorables des basses altitudes haïtiennes. Tiges et port. La plante développe une tige principale robuste, ramifiée, souvent rougeâtre à la base et couverte de poils fins. Le port général est buissonnant et la plante forme rapidement des populations denses dans les terrains perturbés. Feuilles. Les feuilles sont profondément découpées, pennatiséquées, de couleur vert pâle à grisâtre, couvertes de poils fins qui leur donnent un aspect duveteux. Cette pilosité dense constitue une adaptation à la sécheresse et contribue à la saveur amère caractéristique de la plante. Les feuilles dégagent une odeur forte et particulière lorsqu'on les froisse. Inflorescences et fleurs. Les fleurs sont regroupées en petits capitules jaunâtres, disposés en grappes terminales. Chaque capitule mesure environ 3-4 mm de diamètre et contient des fleurs tubulaires très petites, typiques de la famille des Astéracées. Fruits. Les fruits sont de petits akènes noirs, surmontés d'écailles, dispersés efficacement par le vent et les animaux, expliquant la capacité colonisatrice remarquable de l'espèce. Les parties utilisées dans les pratiques locales sont principalement les feuilles et les tiges.",
@@ -2934,8 +3050,10 @@ const plantesData = [
     "familleDescription": "",
     "familleImage": "",
     "familleNum": "17",
-    "toxBadgeColor": "red",
-    "toxBadgeText": "Toxique"
+    "toxBadgeColor": "green",
+    "toxBadgeText": "Non toxique",
+    "usageType": "Médicinale",
+    "maladieSummary": "Cutané"
   },
   {
     "id": 61,
@@ -2954,10 +3072,10 @@ const plantesData = [
       "ht": "Pa janbe"
     },
     "systeme": {
-      "fr": "P. ruderale cible principalement le système digestif à travers ses effets carminatifs, antispasmodiq"
+      "fr": "Digestif, Nerveux"
     },
-    "toxicite": "unknown",
-    "toxiciteLevel": "unknown",
+    "toxicite": null,
+    "toxiciteLevel": "safe",
     "sections": {
       "introduction": "Porophyllum ruderale (Jacq.) Cass. (syn. Cacalia ruderalis, Porophyllum ellipticum) est une herbe native rare des Départements du Sud et de la Grand'Anse d'Haïti, où elle croît naturellement en basse altitude. Cette plante appartient à la famille des Astéracées, vaste famille de plantes à fleurs comprenant plus de 23 000 espèces mondiales, depuis les marguerites communes jusqu'aux tournesols géants. Cette famille se distingue par son remarquable potentiel alimentaire — incluant la laitue (Lactuca sativa), le topinambour (Helianthus tuberosus) et l'artichaut (Cynara scolymus) — ainsi que par ses genres médicinaux majeurs comme Artemisia (armoise), Calendula (souci) et Echinacea (échinacée). Au niveau aromatique, les genres Tanacetum et Chamaemelum fournissent des huiles essentielles précieuses. Sur le plan phytochimique, cette famille exprime une signature chimique dominée par les sesquiterpènes lactones aux propriétés anti-inflammatoires, les flavonoïdes antioxydants, l'inuline prébiotique et les huiles essentielles volatiles, ciblant préférentiellement les systèmes digestif, respiratoire et nerveux. Une vigilance particulière s'impose toutefois avec certains genres : Parthenium et Chromolaena peuvent provoquer des irritations cutanées, tandis qu'Heliotropium contient des alcaloïdes pyrrolizidiniques hépatotoxiques à usage prolongé. Au sein de cette famille, P. ruderale fait partie du genre Porophyllum, petit groupe d'herbes aromatiques américaines réputées pour leurs composés soufrés volatils et leur usage condimentaire au Mexique.",
       "description": "P. ruderale est une herbe annuelle ou vivace de petite taille, caractérisée par une forte odeur aromatique et une saveur piquante distinctive qui lui valent son usage tant culinaire que médicinal dans les Caraïbes et en Amérique tropicale. Tiges. Les tiges sont dressées, ramifiées, glabres, pouvant atteindre 30 à 80 cm de hauteur selon les conditions de croissance. Elles sont souvent teintées de pourpre à la base et dégagent une odeur pénétrante lorsqu'on les froisse. Feuilles. Les feuilles sont alternes, sessiles ou brièvement pétiolées, de forme linéaire à oblongue-lancéolée, mesurant généralement 2 à 8 cm de longueur. Leur surface est parsemée de glandes translucides visibles par transparence, responsables de la production d'huiles essentielles. Ces feuilles présentent une texture charnue et une couleur vert-gris caractéristique. Fleurs. Les inflorescences sont des capitules solitaires ou regroupés en corymbes terminaux. Chaque capitule mesure 8 à 12 mm de diamètre et ne contient que des fleurs tubulaires, sans fleurs ligulées périphériques — particularité qui distingue ce genre de nombreuses autres Astéracées. Les fleurs sont généralement jaunes à orange, hermaphrodites et mellifères. Fruits. Les fruits sont des akènes linéaires, surmontés d'un pappus de soies blanches facilitant leur dispersion par le vent. Les parties utilisées dans les pratiques traditionnelles haïtiennes sont principalement les feuilles et les tiges jeunes.",
@@ -2983,8 +3101,10 @@ const plantesData = [
     "familleDescription": "",
     "familleImage": "",
     "familleNum": "17",
-    "toxBadgeColor": "yellow",
-    "toxBadgeText": "Données insuffisantes"
+    "toxBadgeColor": "green",
+    "toxBadgeText": "Non toxique",
+    "usageType": "Médicinale",
+    "maladieSummary": "Digestif, Nerveux"
   },
   {
     "id": 62,
@@ -3003,10 +3123,10 @@ const plantesData = [
       "ht": "Zèb krab"
     },
     "systeme": {
-      "fr": "S. trilobata cible principalement le système tégumentaire par ses propriétés cicatrisantes et anti-i"
+      "fr": "Reproducteur"
     },
-    "toxicite": "unknown",
-    "toxiciteLevel": "unknown",
+    "toxicite": null,
+    "toxiciteLevel": "safe",
     "sections": {
       "introduction": "Sphagneticola trilobata (syn. Wedelia trilobata) est une herbe rampante native documentée dans les Départements du Sud et de la Grand'Anse d'Haïti. Elle appartient à la famille des Astéracées, une famille très évoluée reconnue pour ses riches usages alimentaires, médicinaux et spirituels. Cette vaste famille tropicale se distingue par sa signature phytochimique dominée par les sesquiterpènes lactones anti-inflammatoires, les flavonoïdes, les polyphénols et les huiles essentielles, ciblant préférentiellement les systèmes digestif, respiratoire et nerveux. Au sein de cette famille, S. trilobata fait partie du genre Sphagneticola, un groupe d'herbes rampantes tropicales utilisées traditionnellement pour leurs propriétés cicatrisantes et anti-inflammatoires. L'usage principal de cette espèce dans les deux départements concerne le traitement externe des plaies et inflammations cutanées, bien qu'une vigilance particulière soit requise en raison de ses propriétés abortives documentées chez le bétail.",
       "description": "S. trilobata est une herbe vivace rampante et stolonifère, formant des tapis denses dans les zones humides des Départements du Sud et de la Grand'Anse. Sa croissance rapide et sa capacité à s'enraciner aux nœuds lui permettent de coloniser efficacement les terrains perturbés et les bordures de cours d'eau. Tiges. Les tiges sont rampantes, charnues et cylindriques, pouvant atteindre plusieurs mètres de longueur. Elles s'enracinent facilement aux nœuds au contact du sol, permettant une propagation végétative efficace. Les tiges dressées portent les inflorescences et peuvent atteindre 30 à 60 cm de hauteur. Feuilles. Les feuilles sont opposées, pétiolées, de forme ovale à trilobée — d'où l'épithète spécifique « trilobata ». Elles mesurent 3 à 8 cm de longueur, présentent des bords dentés et une texture légèrement charnue. La surface supérieure est vert foncé et brillante, tandis que la face inférieure est plus pâle. Leur saveur amère témoigne de la présence de métabolites secondaires bioactifs. Fleurs. Les inflorescences sont des capitules jaune vif de 1 à 2 cm de diamètre, portés sur des pédoncules courts. Chaque capitule comprend des fleurs tubulées centrales fertiles et des fleurs ligulées périphériques stériles, arrangement typique des Astéracées. La floraison s'étend sur plusieurs mois dans les conditions tropicales haïtiennes. Fruit. Les fruits sont des akènes brunâtres surmontés d'un pappus de soies, facilitant la dispersion par le vent. Les parties utilisées sont principalement les feuilles et les tiges, récoltées de préférence avant la floraison pour une concentration optimale en principes actifs.",
@@ -3032,8 +3152,10 @@ const plantesData = [
     "familleDescription": "",
     "familleImage": "",
     "familleNum": "17",
-    "toxBadgeColor": "yellow",
-    "toxBadgeText": "Données insuffisantes"
+    "toxBadgeColor": "green",
+    "toxBadgeText": "Non toxique",
+    "usageType": "Médicinale",
+    "maladieSummary": "Reproducteur"
   },
   {
     "id": 63,
@@ -3051,10 +3173,10 @@ const plantesData = [
       "ht": "Sousi"
     },
     "systeme": {
-      "fr": "Les systèmes physiologiques principalement concernés par l'action de T. patula sont l'appareil ocula"
+      "fr": "Respiratoire, Oculaire"
     },
-    "toxicite": "toxic",
-    "toxiciteLevel": "toxic",
+    "toxicite": null,
+    "toxiciteLevel": "safe",
     "sections": {
       "introduction": "Tagetes patula L. (syn. Tagetes corymbosa) est une herbe annuelle exotique d'origine mexicaine, cultivée à titre ornemental et médicinal dans les Départements du Sud et de la Grand'Anse. Elle appartient à la famille des Astéracées, une famille botanique parmi les plus évoluées au monde, reconnue pour ses exceptionnels usages alimentaires, médicinaux et spirituels. Cette vaste famille se caractérise par ses inflorescences composées en capitules et sa richesse phytochimique remarquable, dominée par les sesquiterpènes lactones anti-inflammatoires, les flavonoïdes antioxydants, l'inuline prébiotique et diverses huiles essentielles. Sur le plan thérapeutique, les Astéracées ciblent préférentiellement les systèmes digestif, respiratoire et nerveux, offrant des solutions naturelles pour de nombreux troubles courants. Au sein de cette famille, on trouve des genres alimentaires majeurs comme Lactuca (laitue), Cichorium (chicorée) et Helianthus (tournesol), ainsi que des genres médicinaux reconnus tels qu'Artemisia, Calendula et Echinacea. Cependant, certaines espèces renferment des pyrrolizidines hépatotoxiques ou des lactones irritantes, exigeant une identification rigoureuse et des préparations adaptées. Le genre Tagetes, originaire d'Amérique centrale, regroupe des herbes aromatiques aux fleurs colorées, traditionnellement utilisées pour leurs propriétés vermifuges, antimicrobiennes et ornementales. Tagetes patula constitue l'une des espèces les plus répandues du genre, appréciée tant pour ses qualités décoratives que pour ses usages thérapeutiques populaires.",
       "description": "T. patula est une herbe annuelle compacte, atteignant généralement 20 à 40 cm de hauteur, caractérisée par sa croissance rapide et sa floraison abondante. Dans les conditions climatiques du Sud et de la Grand'Anse, elle se développe préférentiellement en altitude moyenne où les températures sont plus modérées. Tiges. Les tiges sont dressées, ramifiées dès la base, de section carrée et de couleur verte à pourpre. Elles dégagent une odeur pénétrante caractéristique lorsqu'on les froisse, due à la présence d'huiles essentielles dans les tissus. Feuilles. Les feuilles sont opposées dans la partie inférieure de la plante, puis alternes vers le sommet. Elles sont pennatiséquées, découpées en segments dentés, de couleur vert foncé et d'aspect glabre. Leur texture légèrement charnue et leur forte odeur aromatique les rendent facilement reconnaissables. Fleurs. Les inflorescences sont des capitules solitaires, portés par de longs pédoncules. Chaque capitule, d'environ 3 à 5 cm de diamètre, présente des fleurs ligulées périphériques de couleur jaune, orange ou rouge selon la variété, et des fleurs tubulées centrales jaunes. La floraison s'étend sur plusieurs mois, assurant une production continue de fleurs. Fruit. Les fruits sont des akènes allongés, noirs à maturité, surmontés d'une aigrette de soies facilitant la dispersion par le vent. Chaque capitule peut produire plusieurs dizaines d'akènes. Les parties utilisées sont principalement les fleurs et les feuilles, récoltées de préférence par temps sec pour préserver leur teneur en principes actifs volatils.",
@@ -3080,8 +3202,10 @@ const plantesData = [
     "familleDescription": "",
     "familleImage": "",
     "familleNum": "17",
-    "toxBadgeColor": "red",
-    "toxBadgeText": "Toxique"
+    "toxBadgeColor": "green",
+    "toxBadgeText": "Non toxique",
+    "usageType": "Médicinale",
+    "maladieSummary": "Respiratoire, Oculaire"
   },
   {
     "id": 64,
@@ -3100,7 +3224,7 @@ const plantesData = [
       "ht": "Premye beny, premye te"
     },
     "systeme": {
-      "fr": "V. saepium cible préférentiellement le système digestif et la cicatrisation des plaies. L'action hém"
+      "fr": "Digestif"
     },
     "toxicite": null,
     "toxiciteLevel": "safe",
@@ -3130,7 +3254,9 @@ const plantesData = [
     "familleImage": "",
     "familleNum": "17",
     "toxBadgeColor": "green",
-    "toxBadgeText": "Non toxique"
+    "toxBadgeText": "Non toxique",
+    "usageType": "Alimentaire et Médicinale",
+    "maladieSummary": "Digestif"
   },
   {
     "id": 65,
@@ -3152,10 +3278,10 @@ const plantesData = [
       "ht": "Bwa chèn"
     },
     "systeme": {
-      "fr": "Les usages traditionnels de C. longissima ciblent principalement le système tégumentaire, où ses pro"
+      "fr": "Urinaire, Sanguin"
     },
-    "toxicite": "unknown",
-    "toxiciteLevel": "unknown",
+    "toxicite": null,
+    "toxiciteLevel": "safe",
     "sections": {
       "introduction": "Catalpa longissima (syn. Bignonia longissima, Macrocatalpa longissima) est un arbre natif documenté dans les Départements du Sud et de la Grand'Anse d'Haïti. Il appartient à la famille des Bignoniacées, une grande famille tropicale reconnue pour ses usages médicinaux et ses propriétés anti-inflammatoires. Au sein de cette famille, il fait partie du genre Catalpa, qui regroupe une vingtaine d'espèces d'arbres aux propriétés thérapeutiques remarquables, particulièrement appréciées pour leurs effets cicatrisants et anti-parasitaires. Catalpa longissima constitue une ressource thérapeutique et économique importante dans les deux départements, où il est valorisé à la fois pour son bois d'œuvre de qualité et ses vertus médicinales traditionnelles, notamment dans le traitement des plaies et des inflammations cutanées.",
       "description": "C. longissima est un arbre de basse altitude, commun dans les Départements du Sud et de la Grand'Anse, pouvant atteindre 15 à 20 mètres de hauteur à maturité. Tronc et écorce.. Le tronc droit et cylindrique développe un diamètre respectable, produisant un bois dense et résistant très recherché en ébénisterie locale. L'écorce, rugueuse et fissurée, présente une couleur brun-grisâtre caractéristique. C'est cette écorce qui renferme les principes actifs les plus concentrés, notamment les tanins responsables de sa saveur astringente marquée. Feuilles.. Les feuilles sont simples, opposées, de forme ovale à elliptique, avec des nervures bien marquées. Leur surface lisse et leur texture coriace témoignent de l'adaptation de l'arbre au climat tropical sec. Froissées, elles dégagent une légère amertume caractéristique des composés phénoliques qu'elles renferment. Fleurs.. Les fleurs, typiques des Bignoniacées, se présentent en grappes terminales. Elles sont tubulaires, de couleur blanche à crème, et attirent divers pollinisateurs dans l'écosystème haïtien. Fruits et graines.. Les fruits sont des capsules allongées contenant des graines ailées, facilitant la dispersion par le vent — stratégie reproductive efficace dans les paysages ouverts des deux départements. Les parties utilisées dans les pratiques locales sont l'écorce, les feuilles et les graines.",
@@ -3181,8 +3307,10 @@ const plantesData = [
     "familleDescription": "Reconnues pour leur remarquable diversité morphologique, les Bignoniacées rassemblent près de 800 espèces réparties principalement dans les régions tropicales et subtropicales. Cette famille se compose essentiellement d'arbres et d'arbustes, mais inclut également des lianes spectaculaires aux fleurs tubulaires colorées. Parmi les genres à vocation médicinale figure Catalpa, utilisé pour ses propriétés anti-inflammatoires et cicatrisantes, ainsi que Tecoma dont les fleurs jaunes ornent les jardins haïtiens tout en servant de remède traditionnel contre le diabète. Le genre ornemental Spathodea, connu sous le nom de « tulipier du Gabon », décore les paysages urbains de ses fleurs rouge-orange. Sur le plan phytochimique, les Bignoniacées se distinguent par leur richesse en iridoïdes, quinones, flavonoïdes et tanins, conférant à ces plantes leurs propriétés thérapeutiques ciblant préférentiellement les systèmes tégumentaire, respiratoire et cutané. Une vigilance s'impose avec certaines espèces comme Tecoma stans, dont l'effet hypoglycémiant puissant exige une surveillance médicale chez les personnes diabétiques.",
     "familleImage": "",
     "familleNum": "18",
-    "toxBadgeColor": "yellow",
-    "toxBadgeText": "Données insuffisantes"
+    "toxBadgeColor": "green",
+    "toxBadgeText": "Non toxique",
+    "usageType": "Médicinale",
+    "maladieSummary": "Urinaire, Sanguin"
   },
   {
     "id": 66,
@@ -3201,10 +3329,10 @@ const plantesData = [
       "ht": "Kalbas"
     },
     "systeme": {
-      "fr": "Le calebassier cible préférentiellement le système respiratoire, avec une efficacité documentée cont"
+      "fr": "Respiratoire"
     },
-    "toxicite": "unknown",
-    "toxiciteLevel": "unknown",
+    "toxicite": null,
+    "toxiciteLevel": "safe",
     "sections": {
       "introduction": "Crescentia cujete L. (syn. Crescentia cuneifolia) est un arbre natif documenté dans les Départements du Sud et de la Grand'Anse d'Haïti. Il appartient à la famille des Bignoniacées, reconnue pour ses importantes propriétés médicinales et sa signature phytochimique dominée par les tanins, les flavonoïdes et les quinones. Au sein de cette famille, il fait partie du genre Crescentia, caractérisé par des arbres tropicaux produisant de gros fruits lignifiés traditionnellement transformés en récipients utilitaires. Le calebassier présente un double intérêt remarquable : d'une part, ses fruits transformés en bols et récipients constituent l'un des artisanats les plus emblématiques des Caraïbes , d'autre part, ses feuilles et son écorce fournissent des remèdes traditionnels contre la toux et les troubles respiratoires, documentés dans le Sud et la Grand'Anse.",
       "description": "C. cujete est un arbre de taille moyenne, adapté aux climats tropicaux de basse altitude, particulièrement répandu dans les zones côtières et les plaines des Départements du Sud et de la Grand'Anse. Tronc et écorce. Le tronc est généralement droit, recouvert d'une écorce grisâtre et rugueuse. Cette écorce, au goût acide et âcre, constitue l'une des parties médicinales traditionnellement utilisées dans les préparations antitussives locales. Feuilles. Les feuilles sont simples, alternes, oblongues à obovales, coriaces et persistantes. Elles présentent une texture ferme et une saveur acide caractéristique. Leur surface brillante et leur nervation bien marquée facilitent leur identification. Fleurs. Les fleurs sont spectaculaires et inhabituelles : elles émergent directement du tronc et des branches principales (phénomène de cauliflorie), présentant une corolle tubulaire jaunâtre à rougeâtre. Cette stratégie de floraison favorise la pollinisation par les chauves-souris nocturnes. Fruit. Le fruit constitue l'organe le plus remarquable de l'espèce : il s'agit d'une calebasse sphérique à ovoïde, pouvant atteindre 20 à 30 cm de diamètre, avec une coque ligneuse extrêmement dure à maturité. La pulpe interne, de saveur acide, renferme de nombreuses graines plates. Une fois vidé et séché, le fruit devient imperméable et constitue un récipient naturel durable. Les parties utilisées sont les feuilles, l'écorce et les fruits, selon l'usage recherché.",
@@ -3230,8 +3358,10 @@ const plantesData = [
     "familleDescription": "",
     "familleImage": "",
     "familleNum": "18",
-    "toxBadgeColor": "yellow",
-    "toxBadgeText": "Données insuffisantes"
+    "toxBadgeColor": "green",
+    "toxBadgeText": "Non toxique",
+    "usageType": "Médicinale",
+    "maladieSummary": "Respiratoire"
   },
   {
     "id": 67,
@@ -3252,10 +3382,10 @@ const plantesData = [
       "ht": "Bwa chèn"
     },
     "systeme": {
-      "fr": "Les usages traditionnels d'E. longiflora ciblent principalement les systèmes cardiovasculaire, muscu"
+      "fr": "Cardiovasculaire, Musculosquelettique"
     },
-    "toxicite": "unknown",
-    "toxiciteLevel": "unknown",
+    "toxicite": null,
+    "toxiciteLevel": "safe",
     "sections": {
       "introduction": "Ekmanianthe longiflora (syn. Tecoma longiflora) est un arbre endémique strict d'Haïti — c'est-à-dire qu'il n'existe nulle part ailleurs sur Terre — appartenant à la famille des Bignoniaceae. Au sein de cette famille, il constitue l'unique représentant du genre Ekmanianthe, un genre monospécifique créé spécifiquement pour cette espèce remarquable. Documenté dans le Sud et la Grand'Anse sous le nom de « Bwa chèn », cet arbre de moyenne altitude présente un double intérêt : il constitue un bois précieux localement recherché pour la construction et la menuiserie, tout en conservant des usages médicinaux traditionnels qui témoignent de la richesse thérapeutique des Bignoniaceae. Son statut d'endémique strict et sa rareté extrême en font l'une des espèces les plus prioritaires pour la conservation de la flore haïtienne.",
       "description": "E. longiflora est un arbre de taille moyenne, adapté aux altitudes moyennes des massifs montagneux d'Haïti, particulièrement du Massif de la Hotte en Grand'Anse où il trouve son habitat de prédilection. Tronc et écorce. Le tronc développe un bois dense et résistant, caractéristique recherchée qui explique son nom créole « Bwa chèn » — par analogie avec le chêne européen pour sa solidité. L'écorce présente une texture rugueuse et une saveur astringente marquée, signe de sa richesse en tanins. Feuilles. Les feuilles sont opposées, composées et persistantes, adaptées aux conditions climatiques des moyennes altitudes. Leur surface coriace et leur saveur astringente témoignent de leur concentration en composés phénoliques défensifs. Fleurs. Comme l'indique son épithète spécifique « longiflora », l'espèce se distingue par ses fleurs allongées, caractéristique qui a contribué à sa classification dans un genre distinct. Ces fleurs tubulaires, typiques des Bignoniaceae, sont adaptées à la pollinisation par des animaux spécialisés. Fruit. Le fruit est une capsule allongée contenant des graines ailées, mécanisme de dispersion éolienne caractéristique de la famille des Bignoniaceae. Les parties utilisées sont les feuilles, les racines et l'écorce, principalement pour leurs propriétés médicinales, tandis que le bois constitue la ressource recherchée pour la construction.",
@@ -3281,8 +3411,10 @@ const plantesData = [
     "familleDescription": "",
     "familleImage": "",
     "familleNum": "18",
-    "toxBadgeColor": "yellow",
-    "toxBadgeText": "Données insuffisantes"
+    "toxBadgeColor": "green",
+    "toxBadgeText": "Non toxique",
+    "usageType": "Médicinale",
+    "maladieSummary": "Cardiovasculaire, Musculosquelettique"
   },
   {
     "id": 68,
@@ -3302,10 +3434,10 @@ const plantesData = [
       "ht": "Kalbasye"
     },
     "systeme": {
-      "fr": "Les usages traditionnels du kalbasye ciblent principalement le système cutané et les manifestations "
+      "fr": "Cutané"
     },
-    "toxicite": "unknown",
-    "toxiciteLevel": "unknown",
+    "toxicite": null,
+    "toxiciteLevel": "caution",
     "sections": {
       "introduction": "Tabebuia calcicola Britton (syn. Tabebuia ekmanii Urb.) est un arbuste endémique d'Hispaniola, documenté dans les Départements du Sud et de la Grand'Anse d'Haïti où il colonise spécifiquement les affleurements calcaires et les formations rocheuses de basse altitude. Il appartient à la famille des Bignoniaceae, une famille tropicale remarquable constituée principalement d'arbustes et d'arbres, distinguée par ses importants usages médicinaux à travers le monde. Cette famille exprime une signature phytochimique dominée par les iridoïdes, les quinones, les flavonoïdes et les tanins, ciblant préférentiellement les systèmes tégumentaire, respiratoire et cutané. Il convient de noter qu'une vigilance particulière s'impose avec certains membres de cette famille — notamment Tecoma stans — qui renferment des principes actifs très puissants exigeant une préparation adéquate, particulièrement chez les personnes diabétiques en raison d'effets hypoglycémiants additifs. Au sein de cette famille, T. calcicola fait partie du genre Tabebuia, un groupe d'arbres néotropicaux réputés pour leur bois d'œuvre de qualité exceptionnelle et leurs propriétés médicinales, notamment liées à la présence de naphtoquinones. Dans les Départements du Sud et de la Grand'Anse, le kalbasye est principalement valorisé pour son bois d'une dureté remarquable, utilisé traditionnellement pour les poteaux et la construction rurale, ainsi que pour la production de charbon de bois.",
       "description": "T. calcicola est un arbuste de basse altitude, spécialement adapté aux sols calcaires et aux environnements rocheux des Départements du Sud et de la Grand'Anse. Cette adaptation spécifique aux substrats calcaires constitue l'une de ses caractéristiques écologiques les plus remarquables et explique en partie sa distribution géographique restreinte. Tiges et bois. Le trait le plus distinctif de cette espèce réside dans la qualité exceptionnelle de son bois, d'une dureté remarquable qui en fait un matériau de choix pour la construction rurale traditionnelle. Le tronc développe une écorce rugueuse et fissurée, particulièrement riche en composés bioactifs. Les branches sont robustes et résistantes, témoignant de l'adaptation de la plante aux conditions difficiles des affleurements rocheux. Feuilles. Les feuilles sont composées, persistantes et coriaces, adaptées aux conditions parfois arides des formations calcaires. Leur texture résistante reflète la capacité de l'espèce à économiser l'eau et à résister aux stress environnementaux. Fleurs et reproduction. Comme la plupart des Bignoniaceae, T. calcicola produit des fleurs tubulaires attractives, bien que les détails spécifiques de sa floraison dans le contexte haïtien restent peu documentés. La reproduction se fait par graines, mais les modalités précises de germination sur substrats calcaires nécessiteraient des études approfondies. Les parties utilisées sont principalement l'écorce pour les usages médicinaux et le bois pour les applications techniques.",
@@ -3332,7 +3464,9 @@ const plantesData = [
     "familleImage": "",
     "familleNum": "18",
     "toxBadgeColor": "yellow",
-    "toxBadgeText": "Données insuffisantes"
+    "toxBadgeText": "Conditionnel",
+    "usageType": "Médicinale",
+    "maladieSummary": "Cutané"
   },
   {
     "id": 69,
@@ -3352,10 +3486,10 @@ const plantesData = [
       "ht": "Kalbasye"
     },
     "systeme": {
-      "fr": "Selon les données documentées dans les Départements du Sud et de la Grand'Anse, T. conferta ciblerai"
+      "fr": "Respiratoire, Cutané"
     },
-    "toxicite": "unknown",
-    "toxiciteLevel": "unknown",
+    "toxicite": null,
+    "toxiciteLevel": "safe",
     "sections": {
       "introduction": "Tabebuia conferta Urb. est un arbre endémique strict d'Haïti appartenant à la famille des Bignoniacées. Il fait partie du genre Tabebuia, un groupe d'arbres tropicaux américains réputés pour leur bois précieux et leurs propriétés thérapeutiques liées aux naphtoquinones qu'ils contiennent. Dans les Départements du Sud et de la Grand'Anse, cette espèce est principalement valorisée comme bois d'œuvre local, mais elle présente également un potentiel médicinal traditionnel comme substitut du célèbre « Pau d'Arco » brésilien, notamment pour le traitement des infections cutanées et des plaies. Sa rareté extrême et son statut d'endémique strict en font une priorité absolue de conservation.",
       "description": "T. conferta est un arbre de taille moyenne, caractéristique des forêts sèches d'altitude moyenne des massifs du Sud et de la Grand'Anse d'Haïti. Tronc et écorce. Le tronc présente une écorce rugueuse et fissurée à l'extérieur, mais c'est l'écorce interne — également appelée aubier — qui constitue la partie d'intérêt thérapeutique. Cette écorce interne révèle une coloration caractéristique et contient les principes actifs recherchés, particulièrement les naphtoquinones responsables des propriétés antimicrobiennes. Bois. Le bois est dense, résistant et apprécié localement pour ses qualités mécaniques. Sa structure présente les caractéristiques typiques des Bignoniacées : fibres ligneuses robustes et vaisseaux conducteurs bien organisés, lui conférant une bonne résistance aux intempéries. Feuilles. Les feuilles sont composées, typiques du genre Tabebuia, avec des folioles disposées en palmettes. Elles présentent une texture coriace et persistent selon les conditions hydriques locales. Fleurs. Comme les autres espèces du genre, T. conferta produit probablement des fleurs tubulaires colorées, caractéristiques de la famille des Bignoniacées, bien que les détails spécifiques de sa floraison restent peu documentés. Les parties utilisées sont principalement le bois pour l'usage artisanal et l'écorce interne pour les applications thérapeutiques traditionnelles.",
@@ -3381,8 +3515,10 @@ const plantesData = [
     "familleDescription": "",
     "familleImage": "",
     "familleNum": "18",
-    "toxBadgeColor": "yellow",
-    "toxBadgeText": "Données insuffisantes"
+    "toxBadgeColor": "green",
+    "toxBadgeText": "Non toxique",
+    "usageType": "Médicinale",
+    "maladieSummary": "Respiratoire, Cutané"
   },
   {
     "id": 70,
@@ -3400,10 +3536,10 @@ const plantesData = [
       "ht": "Chevalye"
     },
     "systeme": {
-      "fr": "T. stans cible principalement le système endocrinien, avec des effets documentés sur la régulation g"
+      "fr": "Endocrinien"
     },
-    "toxicite": "unknown",
-    "toxiciteLevel": "unknown",
+    "toxicite": null,
+    "toxiciteLevel": "safe",
     "sections": {
       "introduction": "Tecoma stans (L.) (syn. Bignonia stans) est un arbuste natif des régions tropicales d'Amérique, documenté dans les Départements du Sud et de la Grand'Anse où il est couramment cultivé à des fins ornementales. Il appartient à la famille des Bignoniacées, une famille tropicale dominée par les arbres et arbustes à fleurs souvent spectaculaires, reconnue pour ses importantes propriétés médicinales. Cette famille se distingue phytochimiquement par une richesse en iridoïdes, quinones, flavonoïdes et tanins, ciblant préférentiellement les systèmes tégumentaire, respiratoire et endocrinien. Il convient de signaler que certaines espèces de Bignoniacées renferment des principes actifs puissants nécessitant une préparation adéquate — notamment Tecoma stans qui exige une vigilance particulière chez les diabétiques en raison de ses effets hypoglycémiants additifs. Au sein de cette famille, Tecoma stans fait partie du genre Tecoma, qui comprend plusieurs espèces d'arbustes à fleurs jaunes utilisés tant pour l'ornement que pour leurs propriétés thérapeutiques. En Haïti, cette espèce est principalement valorisée comme plante ornementale, bien que ses usages médicinaux traditionnels — notamment antidiabétiques — soient documentés dans d'autres régions des Caraïbes et d'Amérique centrale.",
       "description": "T. stans est un arbuste vigoureux de basse altitude, caractérisé par sa croissance rapide et sa floraison abondante. Dans les conditions climatiques des Départements du Sud et de la Grand'Anse, il peut atteindre 2 à 4 mètres de hauteur et forme souvent des buissons denses. Tiges et rameaux. Les tiges sont dressées, ramifiées, avec une écorce lisse devenant rugueuse avec l'âge. Les jeunes rameaux sont verts et légèrement pubescents. Feuilles. Les feuilles sont composées, opposées, constituées de 5 à 13 folioles ovales-lancéolées à marge finement dentée. Elles dégagent une odeur caractéristique lorsqu'on les froisse et présentent une saveur amère distinctive, signe de la présence de composés bioactifs. La texture est coriace et la couleur d'un vert soutenu. Fleurs. L'espèce produit des grappes terminales de fleurs tubulaires jaune vif, longues de 3 à 5 cm, particulièrement attractives pour les pollinisateurs. La floraison est pratiquement continue en climat tropical, ce qui explique son succès ornemental. Fruit. Les fruits sont des capsules allongées, pendantes, contenant de nombreuses graines ailées facilitant la dispersion par le vent. Les parties utilisées en médecine traditionnelle sont les feuilles, les fleurs et les racines.",
@@ -3429,8 +3565,10 @@ const plantesData = [
     "familleDescription": "",
     "familleImage": "",
     "familleNum": "18",
-    "toxBadgeColor": "yellow",
-    "toxBadgeText": "Données insuffisantes"
+    "toxBadgeColor": "green",
+    "toxBadgeText": "Non toxique",
+    "usageType": "Médicinale",
+    "maladieSummary": "Endocrinien"
   },
   {
     "id": 71,
@@ -3449,10 +3587,10 @@ const plantesData = [
       "ht": "Roukou"
     },
     "systeme": {
-      "fr": "Bixa orellana exerce ses propriétés thérapeutiques par plusieurs mécanismes d'action. Au niveau gast"
+      "fr": "Hépatique"
     },
-    "toxicite": "toxic",
-    "toxiciteLevel": "toxic",
+    "toxicite": null,
+    "toxiciteLevel": "safe",
     "sections": {
       "introduction": "Bixa orellana, connue localement sous le nom de « Roukou » aux Départements du Sud et de la Grand'Anse, est un petit arbre ornamental cultivé traditionnellement pour ses graines riches en bixine. Cet arbuste appartenant à la famille des Bixacées est largement utilisé dans la cuisine haïtienne comme colorant alimentaire naturel et dans la médecine traditionnelle pour ses propriétés anti-inflammatoires et antioxydantes. L'arbre atteint généralement 2 à 6 mètres de hauteur avec un feuillage dense et des fleurs roses ou blanches. L'importance culturelle de B. orellana s'étend bien au-delà de son utilisation culinaire , les préparations traditionnelles à base de ses parties diverses jouent un rôle significatif dans les pratiques de soin de santé locale. Les études ethnobotaniques dans les régions côtières du Sud et de la Grand'Anse confirment l'utilisation persistante de cette espèce dans les remèdes populaires.",
       "description": "Bixa orellana est un petit arbre buissonnant atteignant 2 à 6 mètres de hauteur, caractérisé par un port dressé avec un feuillage persistent de couleur vert foncé. Les feuilles, alternes et pétiolées, mesurent 7 à 15 cm de longueur avec une base asymétrique et une nervation pennée prominente. Les fleurs hermaphrodites, pentamères, sont groupées en grappes terminales et présentent des pétales roses à blancs de 2 à 3 cm. Le fruit caractéristique est une capsule ovoïde à subcordiforme de 3 à 5 cm, hérissée de poils rougeâtres à brun-rougeâtre, se déhiscent en deux valves pour libérer 10 à 20 graines. Les graines, de forme réniforme et mesurant environ 5 mm, sont recouvertes d'une arille charnue de couleur rouge-orangé intense. Cette arille contient principalement la bixine, pigment naturel responsable de la coloration caractéristique.",
@@ -3478,8 +3616,10 @@ const plantesData = [
     "familleDescription": "Dominant les régions tropicales et subtropicales, les Bixacées constituent une petite famille d'arbustes et d'arbres de taille modeste, comptant environ 25 espèces réparties dans quatre genres principaux. Cette famille se distingue particulièrement par Bixa orellana, le rocouyer, devenu l'une des sources de colorants naturels les plus importantes au monde. Les genres à vocation alimentaire incluent principalement Bixa, dont les graines produisent l'annatto (E160b), un colorant rouge-orangé largement utilisé dans l'industrie agroalimentaire pour teinter fromages, beurres et plats préparés. Sur le plan médicinal, les Bixacées ciblent préférentiellement les systèmes cutané et digestif grâce à leur signature phytochimique dominée par des caroténoïdes puissants — notamment la bixine et la norbixine — accompagnés de tocotriénols aux propriétés antioxydantes remarquables. Ces composés, associés à des flavonoïdes et des tanins, confèrent à la famille ses propriétés cicatrisantes, anti-inflammatoires et protectrices contre les dommages oxydatifs. Bien que généralement sûre, la famille exige une vigilance particulière concernant les dosages élevés, certaines préparations concentrées pouvant occasionner des troubles digestifs.",
     "familleImage": "",
     "familleNum": "19",
-    "toxBadgeColor": "red",
-    "toxBadgeText": "Toxique"
+    "toxBadgeColor": "green",
+    "toxBadgeText": "Non toxique",
+    "usageType": "Alimentaire et Médicinale",
+    "maladieSummary": "Hépatique"
   },
   {
     "id": 72,
@@ -3498,10 +3638,10 @@ const plantesData = [
       "ht": "Fey aran"
     },
     "systeme": {
-      "fr": "Selon les observations locales, W. pruritiva cible principalement le système digestif dans le cadre "
+      "fr": "Digestif"
     },
-    "toxicite": "toxic",
-    "toxiciteLevel": "toxic",
+    "toxicite": null,
+    "toxiciteLevel": "safe",
     "sections": {
       "introduction": "Wigandia pruritiva (syn. Wigandia urens) est une herbe native des Départements du Sud et de la Grand'Anse, devenue extrêmement rare dans son aire de distribution naturelle. Elle appartient à la famille des Boraginacées, reconnue pour ses propriétés thérapeutiques remarquables et ses mucilages apaisants. Au sein de cette famille, elle fait partie du genre Wigandia, un petit groupe néotropical d'herbes et d'arbustes caractérisés par leurs grandes feuilles velues et leurs propriétés irritantes au contact de la peau. Son usage documenté dans la région concerne principalement le traitement traditionnel de la diarrhée, bien que sa rareté extrême limite considérablement son accessibilité pour les communautés locales.",
       "description": "W. pruritiva est une herbe de basse altitude, caractérisée par son port dressé et ses tissus particulièrement riches en poils urticants — d'où son nom d'espèce « pruritiva » qui évoque les démangeaisons qu'elle provoque au contact. Tiges. Les tiges sont robustes, dressées et densément couvertes de poils rigides et urticants qui constituent le principal mécanisme de défense de la plante contre les herbivores. Cette pilosité irritante est particulièrement développée sur les jeunes pousses. Feuilles. Les feuilles sont grandes, alternes et ovales, portées par un pétiole court. Leur surface supérieure et inférieure est entièrement recouverte de poils urticants microscopiques qui se brisent au moindre contact, libérant des substances irritantes dans la peau. Cette caractéristique morphologique constitue l'adaptation défensive principale de l'espèce. Fleurs. Les inflorescences se présentent sous forme de cymes terminales portant de petites fleurs typiques des Boraginacées, généralement blanches à légèrement rosées, à corolle tubulaire et à cinq lobes étalés. Fruit et graines. Le fruit est constitué de quatre nucules, mode de fructification caractéristique de la famille des Boraginacées. Les graines sont petites et favorisent la dissémination de l'espèce par les petits mammifères et les oiseaux. La partie utilisée dans les pratiques médicinales locales n'est pas précisément documentée, mais par analogie avec le genre, il s'agirait probablement des feuilles préparées avec des précautions particulières pour neutraliser leur caractère irritant.",
@@ -3527,8 +3667,10 @@ const plantesData = [
     "familleDescription": "Reconnues pour leurs propriétés thérapeutiques remarquables, les Boraginacées rassemblent environ 2700 espèces réparties en quelque 150 genres d'herbes, d'arbustes et de lianes cosmopolites. Cette famille se distingue par une diversité morphologique exceptionnelle, depuis les petites herbes annuelles jusqu'aux arbustes ligneux tropicaux. Plusieurs genres présentent un intérêt alimentaire notable, notamment Borago (bourrache) dont les jeunes feuilles sont consommées en salade dans diverses cultures méditerranéennes. Sur le plan médicinal, les genres Symphytum (consoude), Echium et Lithospermum constituent des références traditionnelles pour le traitement des affections cutanées et respiratoires. Le profil phytochimique de cette famille révèle une signature dominée par les mucilages apaisants, les flavonoïdes anti-inflammatoires, les acides phénoliques et les tanins astringents, ciblant préférentiellement les systèmes tégumentaire, respiratoire et digestif. Une vigilance particulière s'impose cependant avec certains genres — notamment Heliotropium et Symphytum — qui renferment des alcaloïdes pyrrolizidiniques hépatotoxiques, exigeant des précautions strictes lors de tout usage interne prolongé.",
     "familleImage": "",
     "familleNum": "20",
-    "toxBadgeColor": "red",
-    "toxBadgeText": "Toxique"
+    "toxBadgeColor": "green",
+    "toxBadgeText": "Non toxique",
+    "usageType": "Médicinale",
+    "maladieSummary": "Digestif"
   },
   {
     "id": 73,
@@ -3547,10 +3689,10 @@ const plantesData = [
       "ht": "Krèt kòk"
     },
     "systeme": {
-      "fr": "L'usage traditionnel de H. indicum cible principalement le système tégumentaire pour le traitement d"
+      "fr": "Cutané"
     },
-    "toxicite": "toxic",
-    "toxiciteLevel": "toxic",
+    "toxicite": null,
+    "toxiciteLevel": "safe",
     "sections": {
       "introduction": "Heliotropium indicum L. (syn. Tiaridium indicum) est une herbe native des Départements du Sud et de la Grand'Anse, où elle est devenue rare. Elle appartient à la famille des Boraginacées, principalement composée d'herbes, arbustes et lianes à vocation médicinale. Cette famille se caractérise par des usages thérapeutiques importants ciblant les systèmes tégumentaire, urinaire et cutané, avec une signature phytochimique dominée par les flavonoïdes, triterpènes, tanins et cellulose. Cependant, certaines espèces — notamment le genre Heliotropium — renferment des alcaloïdes pyrrolizidiniques hépatotoxiques exigeant une vigilance extrême. Au sein de cette famille, H. indicum fait partie du genre Heliotropium, un groupe d'herbes tropicales dont plusieurs espèces sont connues pour leur toxicité potentielle. L'usage traditionnel de cette plante dans le Sud et la Grand'Anse se limite strictement à des applications externes pour les plaies et dans les bains de santé, évitant soigneusement tout usage interne prolongé.",
       "description": "H. indicum est une herbe de basse altitude, de saveur amère, aujourd'hui rare dans les deux départements étudiés. Tiges. La plante développe des tiges dressées, ramifiées, poilues et rugueuses au toucher. Les tiges sont cylindriques et peuvent atteindre 30 à 60 cm de hauteur selon les conditions de croissance. Feuilles. Les feuilles sont alternes, simples, ovales à elliptiques, à surface rugueuse caractéristique de la famille des Boraginacées. Elles sont couvertes de poils courts et présentent une nervation pennée bien visible. Leur saveur amère constitue un signal d'alarme naturel contre l'ingestion. Fleurs. Les fleurs sont petites, blanches ou bleuâtres, disposées en inflorescences scorpioïdes typiques des Boraginacées — ces grappes courbées en forme de queue de scorpion qui se déroulent progressivement lors de la floraison. Cette architecture florale particulière est à l'origine du nom vernaculaire « crête de coq ». Fruits. Les fruits sont de petits nucules contenant généralement quatre graines, permettant la dispersion et la reproduction de l'espèce. Les parties utilisées dans les pratiques traditionnelles locales sont les feuilles et les racines, exclusivement en usage externe.",
@@ -3576,8 +3718,10 @@ const plantesData = [
     "familleDescription": "",
     "familleImage": "",
     "familleNum": "20",
-    "toxBadgeColor": "red",
-    "toxBadgeText": "Toxique"
+    "toxBadgeColor": "green",
+    "toxBadgeText": "Non toxique",
+    "usageType": "Médicinale",
+    "maladieSummary": "Cutané"
   },
   {
     "id": 74,
@@ -3596,10 +3740,10 @@ const plantesData = [
       "ht": "Chikchik"
     },
     "systeme": {
-      "fr": "T. hirsutissima cible principalement le système urinaire et le système cutané selon les usages docum"
+      "fr": "Urinaire, Cutané"
     },
-    "toxicite": "unknown",
-    "toxiciteLevel": "unknown",
+    "toxicite": null,
+    "toxiciteLevel": "safe",
     "sections": {
       "introduction": "Tournefortia hirsutissima L. (syn. Tournefortia corymbosa) est une liane native commune des Départements du Sud et de la Grand'Anse d'Haïti. Elle appartient à la famille des Boraginacées, une famille végétale remarquable par sa diversité morphologique — comprenant herbes, arbustes et lianes — et ses importantes applications médicinales traditionnelles. Cette famille se distingue phytochimiquement par ses mucilages protecteurs, ses flavonoïdes anti-inflammatoires et ses triterpènes cicatrisants, ciblant préférentiellement les systèmes tégumentaire, urinaire et cutané. Cependant, une vigilance particulière s'impose avec certains genres comme Heliotropium, qui renferment des alcaloïdes pyrrolizidiniques hépatotoxiques exigeant une prudence absolue lors de l'usage interne prolongé. Au sein des Boraginacées, Tournefortia hirsutissima fait partie du genre Tournefortia, qui regroupe des lianes et arbustes tropicaux reconnus pour leurs propriétés diurétiques et anti-inflammatoires. Cette espèce constitue un remède traditionnel majeur dans les deux départements, particulièrement appréciée pour ses effets sur les reins et son action contre les parasites cutanés.",
       "description": "T. hirsutissima est une liane vigoureuse des basses altitudes, reconnaissable à sa pilosité dense et à sa saveur amère caractéristique. Tiges. Les tiges sont volubiles, ligneuses à la base et herbacées aux extrémités, densément couvertes de poils hirsutes qui lui confèrent un aspect rugueux au toucher. Cette pilosité dense constitue un trait distinctif important pour l'identification sur le terrain. Feuilles. Les feuilles sont simples, alternes, ovales à elliptiques, également revêtues d'une pubescence hirsute sur les deux faces. Elles présentent une texture rugueuse et dégagent une odeur légèrement aromatique lorsqu'on les froisse. Leur saveur amère témoigne de la présence de composés bioactifs concentrés. Fleurs. L'inflorescence se présente sous forme de corymbes terminaux, caractéristiques du genre Tournefortia. Les petites fleurs blanches ou crème sont tubulaires, typiques de la famille des Boraginacées, et attirent divers insectes pollinisateurs. Fruit. Le fruit se compose de petites drupes groupées, contenant des graines dures qui assurent la dissémination de l'espèce par les oiseaux frugivores. Les parties utilisées dans les pratiques médicinales locales sont principalement les feuilles et les tiges jeunes, récoltées de préférence pendant la saison sèche lorsque la concentration en principes actifs est optimale.",
@@ -3625,8 +3769,10 @@ const plantesData = [
     "familleDescription": "",
     "familleImage": "",
     "familleNum": "20",
-    "toxBadgeColor": "yellow",
-    "toxBadgeText": "Données insuffisantes"
+    "toxBadgeColor": "green",
+    "toxBadgeText": "Non toxique",
+    "usageType": "Alimentaire et Médicinale",
+    "maladieSummary": "Urinaire, Cutané"
   },
   {
     "id": 75,
@@ -3644,10 +3790,10 @@ const plantesData = [
       "ht": "-"
     },
     "systeme": {
-      "fr": "V. serrata cible principalement le système musculo-squelettique, avec une indication documentée pour"
+      "fr": "Musculosquelettique"
     },
-    "toxicite": "unknown",
-    "toxiciteLevel": "unknown",
+    "toxicite": null,
+    "toxiciteLevel": "caution",
     "sections": {
       "introduction": "Varronia serrata (syn. Cordia serrata, Cordia globosa var. serrata) est un arbuste natif rare des basses altitudes d'Haïti, documenté dans les Départements du Sud et de la Grand'Anse où il est connu localement sous l'appellation \"Ti bonm\". Il appartient à la famille des Boraginacées, une famille principalement composée d'herbes, d'arbustes et de lianes, reconnue pour ses importants usages médicinaux à travers les tropiques. Cette famille se caractérise phytochimiquement par la présence dominante de flavonoïdes, de tanins, de mucilages et de triterpènes, ciblant préférentiellement les systèmes tégumentaire, urinaire et musculo-squelettique. Il convient cependant de noter qu'au sein de cette famille, certains genres comme Heliotropium renferment des alcaloïdes pyrrolizidiniques hépatotoxiques, exigeant une vigilance particulière dans l'identification botanique. Au sein des Boraginacées, Varronia fait partie d'un groupe d'arbustes tropicaux traditionnellement utilisés pour leurs propriétés anti-inflammatoires et cicatrisantes. Dans les Départements du Sud et de la Grand'Anse, V. serrata est principalement valorisé pour ses propriétés analgésiques, particulièrement dans le traitement des douleurs corporelles.",
       "description": "V. serrata est un arbuste de basse altitude, caractérisé par sa saveur amère distinctive et sa relative rareté dans les écosystèmes haïtiens. Tiges et port. L'arbuste présente un port dressé avec des tiges ligneuses ramifiées. L'écorce est rugueuse et brunâtre, typique des membres ligneux de la famille des Boraginacées. Feuilles. Les feuilles sont alternes, ovales à elliptiques, avec des marges dentées (serrées) — caractéristique qui donne son nom à l'espèce \"serrata\". Elles présentent une texture rugueuse caractéristique de la famille, due à la présence de poils courts (trichomes) sur les surfaces foliaires. Leur saveur amère témoigne de la richesse en composés phénoliques. Fleurs. Les inflorescences sont terminales, composées de petites fleurs blanches à corolle tubulaire, typiques de la famille des Boraginacées. La floraison attire divers insectes pollinisateurs locaux. Fruit. Les fruits sont de petites drupes contenant des graines dures, permettant la dissémination par les oiseaux frugivores locaux. Les parties utilisées dans les pratiques traditionnelles haïtiennes sont principalement les feuilles et les racines.",
@@ -3674,7 +3820,9 @@ const plantesData = [
     "familleImage": "",
     "familleNum": "20",
     "toxBadgeColor": "yellow",
-    "toxBadgeText": "Données insuffisantes"
+    "toxBadgeText": "Conditionnel",
+    "usageType": "Médicinale",
+    "maladieSummary": "Musculosquelettique"
   },
   {
     "id": 76,
@@ -3694,10 +3842,10 @@ const plantesData = [
       "ht": "Chou"
     },
     "systeme": {
-      "fr": "Les systèmes préférentiellement ciblés sont le système digestif et tégumentaire. Les principales ind"
+      "fr": "Digestif"
     },
-    "toxicite": "caution",
-    "toxiciteLevel": "caution",
+    "toxicite": null,
+    "toxiciteLevel": "safe",
     "sections": {
       "introduction": "Brassica oleracea var. capitata (syn. Brassica capitata) est une herbe bisannuelle exotique, cultivée en altitude dans les Départements du Sud et de la Grand'Anse où sa production demeure rare. Elle appartient à la famille des Brassicacées, reconnue mondialement pour ses légumes nutritifs et ses propriétés détoxifiantes exceptionnelles. Au sein de cette famille, elle fait partie du complexe Brassica oleracea, l'une des espèces potagères les plus diversifiées au monde, qui a donné naissance par sélection à de multiples variétés : chou-fleur, brocoli, chou de Bruxelles, chou-rave et chou pommé. Dans les deux départements, le chou est principalement utilisé comme légume nutritif et comme ingrédient du pikliz, mais aussi traditionnellement employé contre les ulcères gastriques — usage qui trouve aujourd'hui une validation scientifique solide.",
       "description": "B. oleracea var. capitata est une herbe robuste adaptée aux climats tempérés et d'altitude, formant une rosette de feuilles compactes caractéristique. Racines et tiges. Le système racinaire est pivotant et fibreux, bien développé pour ancrer la plante. La tige principale est courte et épaisse, portant les feuilles en rosette dense. Feuilles. Les feuilles externes sont grandes, épaisses et coriaces, de couleur vert glauque à vert foncé, parfois teintées de pourpre selon la variété. Elles sont disposées en couches concentriques serrées formant une « pomme » ou « tête » compacte pouvant peser plusieurs kilogrammes. Cette structure protège les feuilles internes, plus tendres et de couleur plus claire. La texture est ferme et croquante, avec une saveur légèrement piquante caractéristique des Brassicacées. Fleurs et reproduction. La seconde année, la plante produit une hampe florale ramifiée portant de nombreuses petites fleurs jaunes à quatre pétales disposés en croix — caractère diagnostique de la famille. La reproduction se fait par graines contenues dans des siliques allongées. Les parties utilisées sont principalement les feuilles formant la pomme, et occasionnellement les inflorescences et les graines.",
@@ -3723,8 +3871,10 @@ const plantesData = [
     "familleDescription": "Reconnues pour leurs remarquables propriétés nutritionnelles et thérapeutiques, les Brassicacées rassemblent environ 3700 espèces réparties en 338 genres, dominées par les herbes annuelles et bisannuelles. Cette famille cosmopolite comprend des légumes fondamentaux de l'alimentation mondiale : choux (Brassica oleracea), radis (Raphanus sativus), moutarde (Brassica nigra), cresson (Nasturtium officinale) et roquette (Eruca sativa). Les genres à vocation médicinale incluent Lepidium pour ses propriétés diurétiques, Cardamine comme antiscorbutique, et Capsella reconnu pour ses vertus hémostatiques. Sur le plan phytochimique, cette famille se distingue par une signature unique dominée par les glucosinolates — des composés soufrés qui se transforment en isothiocyanates bioactifs lors du broyage des tissus — associés à des concentrations exceptionnelles en vitamine C, vitamine K, sulforaphane et indole-3-carbinol. Ces molécules ciblent préférentiellement les systèmes digestif, tégumentaire et sanguin, avec des propriétés détoxifiantes et antioxydantes remarquables. Attention : les glucosinolates peuvent présenter des effets goitrogènes à très forte consommation chronique, nécessitant une vigilance chez les personnes souffrant de dysfonctionnements thyroïdiens.",
     "familleImage": "",
     "familleNum": "21",
-    "toxBadgeColor": "yellow",
-    "toxBadgeText": "Précautions"
+    "toxBadgeColor": "green",
+    "toxBadgeText": "Non toxique",
+    "usageType": "Alimentaire et Médicinale",
+    "maladieSummary": "Digestif"
   },
   {
     "id": 77,
@@ -3743,10 +3893,10 @@ const plantesData = [
       "ht": "Kreson"
     },
     "systeme": {
-      "fr": "Les systèmes préférentiellement ciblés par N. officinale sont le système sanguin et le système respi"
+      "fr": "Respiratoire, Sanguin"
     },
-    "toxicite": "unknown",
-    "toxiciteLevel": "unknown",
+    "toxicite": null,
+    "toxiciteLevel": "safe",
     "sections": {
       "introduction": "Nasturtium officinale R.Br. (syn. Rorippa nasturtium-aquaticum) est une herbe exotique cultivée dans les Départements du Sud et de la Grand'Anse. Elle appartient à la famille des Brassicacées, une vaste famille herbacée reconnue mondialement pour ses usages alimentaires exceptionnels et ses propriétés médicinales. Cette famille regroupe des légumes fondamentaux comme le chou (Brassica oleracea), le radis (Raphanus sativus) et la moutarde (Sinapis alba), mais aussi des plantes médicinales puissantes. Sur le plan phytochimique, les Brassicacées se distinguent par leurs glucosinolates — des composés soufrés précurseurs d'isothiocyanates aux propriétés biologiques remarquables — ainsi que par leur richesse en vitamines C et K, en fibres et en sulforaphane. Ces composés ciblent préférentiellement les systèmes digestif, sanguin et tégumentaire. Il convient de noter qu'à très forte consommation, certains glucosinolates peuvent exercer des effets goitrigènes sur la thyroïde, nécessitant une vigilance particulière chez les personnes à risque. Au sein de cette famille, Nasturtium officinale fait partie du genre Nasturtium, caractérisé par sa nature aquatique et sa saveur piquante distinctive. En Haïti, le cresson constitue un aliment-médicament particulièrement valorisé pour ses vertus fortifiantes et anti-anémiques.",
       "description": "N. officinale est une herbe aquatique pérenne à saveur douce et légèrement acide, adaptée aux milieux humides de moyenne altitude dans les Départements du Sud et de la Grand'Anse. Tiges. Les tiges sont creuses, charnues et rampantes à la base, puis dressées dans leur partie supérieure. Elles s'enracinent facilement aux nœuds au contact de l'eau, permettant une propagation végétative efficace. Cette architecture particulière constitue une adaptation remarquable aux milieux aquatiques peu profonds. Feuilles. Les feuilles sont composées pennées, avec des folioles ovales à arrondies, de texture tendre et charnue. Les feuilles basales forment une rosette caractéristique, tandis que les feuilles caulinaires sont alternes. Leur couleur vert foncé brillant témoigne d'une forte concentration en chlorophylle et en nutriments. Fleurs. Les fleurs sont petites, blanches, à quatre pétales disposés en croix — caractéristique typique des Brassicacées. Elles sont regroupées en grappes terminales simples et attirent de petits insectes pollinisateurs. Fruit. Le fruit est une silique courte et large, contenant deux rangées de petites graines brunes, utilisées occasionnellement comme condiment en raison de leur saveur piquante. Les parties utilisées sont principalement les feuilles et les tiges tendres, ainsi que les graines de façon secondaire.",
@@ -3772,8 +3922,10 @@ const plantesData = [
     "familleDescription": "",
     "familleImage": "",
     "familleNum": "21",
-    "toxBadgeColor": "yellow",
-    "toxBadgeText": "Données insuffisantes"
+    "toxBadgeColor": "green",
+    "toxBadgeText": "Non toxique",
+    "usageType": "Alimentaire et Médicinale",
+    "maladieSummary": "Respiratoire, Sanguin"
   },
   {
     "id": 78,
@@ -3792,10 +3944,10 @@ const plantesData = [
       "ht": "Radi"
     },
     "systeme": {
-      "fr": "Les usages thérapeutiques du radis dans le Sud et la Grand'Anse ciblent préférentiellement le systèm"
+      "fr": "Digestif, Cardiovasculaire, Hépatique"
     },
-    "toxicite": "caution",
-    "toxiciteLevel": "caution",
+    "toxicite": null,
+    "toxiciteLevel": "safe",
     "sections": {
       "introduction": "Raphanus sativus L. (syn. Raphanus acanthiformis) est une herbe exotique annuelle, cultivée de manière limitée dans les Départements du Sud et de la Grand'Anse où sa production reste rare. Cette espèce appartient à la famille des Brassicacées, reconnue mondialement pour ses remarquables propriétés alimentaires et médicinales. Au sein de cette famille, elle fait partie du genre Raphanus, qui comprend plusieurs espèces de radis sauvages et cultivés, tous caractérisés par leurs racines charnues et leur saveur piquante distinctive. Le radis constitue un légume-racine à double vocation : alimentaire par sa racine croquante et ses feuilles comestibles, et médicinale par ses propriétés digestives et hépatiques documentées dans le Sud et la Grand'Anse.",
       "description": "R. sativus est une herbe annuelle à croissance rapide, cultivée principalement pour sa racine pivotante charnue, pouvant atteindre 30 à 60 cm de hauteur totale. Racine. La racine constitue l'organe principal d'intérêt : elle est pivotante, charnue, de forme généralement cylindrique à sphérique selon la variété, avec une peau lisse de couleur rouge, blanche ou bicolore. La chair est blanche, croquante et de saveur piquante caractéristique. Cette racine constitue un organe de réserve nutritive permettant à la plante de survivre aux périodes défavorables. Tiges et feuilles. La tige principale est dressée, ramifiée dans sa partie supérieure lors de la montée en graines. Les feuilles basales forment une rosette : elles sont composées, lobées, de couleur vert clair, et également comestibles avec une saveur légèrement piquante. Les feuilles caulinaires sont plus simples et moins développées. Fleurs. Les fleurs sont petites, blanches à légèrement rosées, disposées en grappes terminales. Chaque fleur présente quatre pétales en croix — caractéristique distinctive de la famille des Brassicacées — et attire principalement les insectes butineurs pour la pollinisation. Fruit et graines. Le fruit est une silique courte et renflée contenant plusieurs graines rondes, brunâtres, utilisées pour la multiplication. Dans les pratiques locales du Sud et de la Grand'Anse, les parties utilisées sont principalement la racine fraîche, consommée crue, et les feuilles jeunes comme condiment ou légume-feuille.",
@@ -3821,8 +3973,10 @@ const plantesData = [
     "familleDescription": "",
     "familleImage": "",
     "familleNum": "21",
-    "toxBadgeColor": "yellow",
-    "toxBadgeText": "Précautions"
+    "toxBadgeColor": "green",
+    "toxBadgeText": "Non toxique",
+    "usageType": "Alimentaire et Médicinale",
+    "maladieSummary": "Digestif, Cardiovasculaire, Hépatique"
   },
   {
     "id": 79,
@@ -3845,10 +3999,10 @@ const plantesData = [
       "ht": "Anana"
     },
     "systeme": {
-      "fr": "Les systèmes préférentiellement ciblés sont les systèmes digestif et inflammatoire. L'ananas est tra"
+      "fr": "Digestif, Musculosquelettique"
     },
-    "toxicite": "caution",
-    "toxiciteLevel": "caution",
+    "toxicite": null,
+    "toxiciteLevel": "safe",
     "sections": {
       "introduction": "Ananas comosus (L.) (syn. Bromelia comosa, Ananas sativus) est une herbe terrestre exotique, largement cultivée dans les Départements du Sud et de la Grand'Anse. Elle appartient à la famille des Broméliacées, une grande famille tropicale américaine principalement composée d'herbes épiphytes et terrestres, reconnue pour ses usages alimentaires et médicinaux remarquables. Cette famille se distingue par la production de bromélaïne — une enzyme protéolytique unique dans le règne végétal —, associée à des flavonoïdes, de la vitamine C et du manganèse, ciblant préférentiellement les systèmes digestif et inflammatoire. Au sein de cette famille, Ananas comosus constitue le genre alimentaire de référence mondiale, cultivé dans toutes les régions tropicales pour ses fruits sucrés et ses propriétés digestives. L'ananas représente à la fois un aliment de base apprécié dans la cuisine haïtienne et un remède traditionnel largement documenté dans le Sud et la Grand'Anse pour faciliter la digestion et réduire l'inflammation.",
       "description": "A. comosus est une herbe terrestre robuste, formant une rosette basale distinctive et produisant un fruit composé spectaculaire au sommet d'une tige centrale. Tige et racines. La plante développe une tige courte et épaisse portant la rosette foliaire. Le système racinaire est superficiel mais dense, adapté à l'absorption efficace des nutrients et de l'humidité dans les sols tropicaux bien drainés des deux départements. Feuilles. Les feuilles sont disposées en rosette serrée, linéaires et coriaces, pouvant atteindre 80 à 120 cm de longueur. Leurs bords sont généralement épineux, caractéristique défensive de la famille. La surface foliaire présente une cuticule épaisse et des stomates adaptés aux conditions climatiques chaudes et humides du Sud et de la Grand'Anse. Fleurs et inflorescence. L'inflorescence terminale, portée par une tige florale robuste, regroupe jusqu'à 200 petites fleurs violettes disposées en spirale. Chaque fleur possède trois pétales et produit un fruit individuel qui fusionnera avec les autres pour former le fruit composé caractéristique. Fruit. Le fruit d'ananas est en réalité un syncarpe — fusion de multiples fruits individuels — surmonté d'une couronne de feuilles. Sa chair jaune dorée, juteuse et parfumée, constitue la partie principalement consommée et utilisée thérapeutiquement. Les parties utilisées sont le fruit mûr, la tige centrale (source concentrée de bromélaïne) et les feuilles.",
@@ -3874,8 +4028,10 @@ const plantesData = [
     "familleDescription": "Dominant les régions tropicales et subtropicales du monde avec plus de 3 700 espèces réparties en 58 genres, les Broméliacées constituent une famille remarquable d'herbes épiphytes, terrestres ou rupicoles. Cette famille tropicale américaine — dont l'ananas demeure le représentant alimentaire le plus célèbre — se distingue par ses rosettes foliaires caractéristiques souvent organisées en réservoirs d'eau. Les genres à vocation alimentaire incluent principalement Ananas, cultivé mondialement pour ses fruits sucrés et sa richesse en bromélaïne. Sur le plan médicinal, plusieurs genres comme Tillandsia et Aechmea sont traditionnellement employés dans les pharmacopées amérindiennes pour leurs propriétés digestives et anti-inflammatoires. La famille produit des composés bioactifs remarquables, notamment la bromélaïne — une enzyme protéolytique unique dans le règne végétal —, des flavonoïdes, de l'acide ascorbique et des caroténoïdes. Ces molécules ciblent préférentiellement les systèmes digestif et inflammatoire, facilitant la digestion des protéines et modulant les réponses immunitaires. Bien que généralement sûre, la bromélaïne peut interagir avec les anticoagulants à forte dose, nécessitant une vigilance thérapeutique appropriée.",
     "familleImage": "",
     "familleNum": "22",
-    "toxBadgeColor": "yellow",
-    "toxBadgeText": "Précautions"
+    "toxBadgeColor": "green",
+    "toxBadgeText": "Non toxique",
+    "usageType": "Alimentaire",
+    "maladieSummary": "Digestif, Musculosquelettique"
   },
   {
     "id": 80,
@@ -3902,10 +4058,10 @@ const plantesData = [
       "ht": "Gomye"
     },
     "systeme": {
-      "fr": "Selon les données ethnobotaniques locales, B. simaruba cible principalement les systèmes tégumentair"
+      "fr": "Immunitaire, Cutané"
     },
-    "toxicite": "unknown",
-    "toxiciteLevel": "unknown",
+    "toxicite": null,
+    "toxiciteLevel": "safe",
     "sections": {
       "introduction": "Bursera simaruba (L.) (syn. Pistacia simaruba, Elaphrium simaruba) est un arbre natif commun des Départements du Sud et de la Grand'Anse, appartenant à la famille des Burséracées. Connu localement sous le nom de « Gomye », cet arbre présente un intérêt multiple : médicinal par ses propriétés anti-inflammatoires et cicatrisantes, utilitaire pour l'établissement de clôtures vivantes, et écologique par son adaptation aux conditions arides. Son usage est documenté dans le Sud et la Grand'Anse principalement pour les affections cutanées et inflammatoires, ainsi que comme barrière végétale durable.",
       "description": "B. simaruba est un arbre de taille moyenne à grande, particulièrement adapté aux zones de basse altitude des Départements du Sud et de la Grand'Anse. Tronc et écorce. Le tronc présente une écorce distinctive rouge-cuivrée qui se desquame en plaques, révélant une surface lisse et photosynthétique en dessous. Cette caractéristique lui vaut son nom français de « gommier rouge ». L'écorce sécrète une résine aromatique transparente à jaunâtre au contact de toute blessure. Feuilles. Les feuilles sont composées, caduques pendant la saison sèche, comportant généralement 3 à 7 folioles ovales à elliptiques. Leur texture est coriace et leur surface légèrement brillante, adaptations typiques aux environnements semi-arides. Fleurs et reproduction. La plante produit de petites fleurs verdâtres à blanchâtres, groupées en panicules, généralement avant l'apparition des nouvelles feuilles. Les fleurs sont dioïques, nécessitant des individus mâles et femelles distincts pour la reproduction. Fruits. Les fruits sont de petites drupes rougeâtres contenant une graine unique, dispersées principalement par les oiseaux frugivores. Les parties utilisées sont l'écorce et les feuilles, récoltées selon les besoins thérapeutiques locaux.",
@@ -3931,8 +4087,10 @@ const plantesData = [
     "familleDescription": "Avec ses 17 genres et près de 700 espèces distribuées principalement dans les régions tropicales arides, les Burséracées constituent une famille d'arbres et arbustes remarquables par leur production abondante de résines aromatiques. Cette famille se distingue par des genres à fort potentiel économique comme Boswellia (encens), Commiphora (myrrhe) et Canarium (noix de canarium), ainsi que par des espèces alimentaires comme Dacryodes edulis (safoutier d'Afrique). Sur le plan médicinal, les genres Bursera et Protium sont particulièrement valorisés en Amérique tropicale pour leurs propriétés anti-inflammatoires et cicatrisantes. La signature phytochimique de cette famille est dominée par les résines terpéniques riches en alpha et bêta-pinène, les huiles essentielles à limonène, les triterpènes comme le picropolygamain, ainsi que les lignanes et coumarines. Ces composés ciblent préférentiellement les systèmes tégumentaire et immunitaire, conférant aux Burséracées leurs propriétés cicatrisantes et anti-inflammatoires reconnues. Il convient de noter que certaines espèces renferment des principes actifs puissants nécessitant une préparation adéquate.",
     "familleImage": "",
     "familleNum": "23",
-    "toxBadgeColor": "yellow",
-    "toxBadgeText": "Données insuffisantes"
+    "toxBadgeColor": "green",
+    "toxBadgeText": "Non toxique",
+    "usageType": "Médicinale",
+    "maladieSummary": "Immunitaire, Cutané"
   },
   {
     "id": 81,
@@ -3951,10 +4109,10 @@ const plantesData = [
       "ht": "Rakèt"
     },
     "systeme": {
-      "fr": "O. ficus-indica cible préférentiellement les systèmes endocrinien et cutané. Au niveau endocrinien, "
+      "fr": "Cutané, Endocrinien"
     },
-    "toxicite": "toxic",
-    "toxiciteLevel": "toxic",
+    "toxicite": null,
+    "toxiciteLevel": "safe",
     "sections": {
       "introduction": "Opuntia ficus-indica (syn. Cactus ficus-indica) est une cactée arborescente exotique, largement cultivée et naturalisée dans les Départements du Sud et de la Grand'Anse d'Haïti. Connue localement sous le nom de « Rakèt », cette espèce appartient à la famille des Cactacées et au genre Opuntia, qui regroupe les cactus à raquettes les plus répandus au monde. Son usage est principalement alimentaire et médicinale : les habitants du Sud et de la Grand'Anse consomment ses fruits sucrés et utilisent ses cladodes (raquettes) comme légume, tout en exploitant ses propriétés antidiabétiques et cicatrisantes traditionnellement reconnues.",
       "description": "O. ficus-indica est un cactus arborescent pouvant atteindre 3 à 5 mètres de hauteur, formant des buissons denses ou des arbres de forme irrégulière dans les zones sèches du Sud et de la Grand'Anse. Tige et cladodes. La plante se compose de segments aplatis appelés cladodes ou « raquettes », de forme ovale à obovale, mesurant 20 à 60 cm de longueur. Ces organes photosynthétiques, d'un vert glauque caractéristique, sont pourvus d'aréoles régulièrement espacées portant des épines acérées et des glochides (petites épines barbelées). Les cladodes jeunes, appelées « nopalitos », sont tendres et comestibles après élimination des épines. Fleurs. Les fleurs apparaissent au sommet et sur les bords des cladodes matures, généralement jaunes à orange, parfois rouges selon les variétés. Elles mesurent 5 à 10 cm de diamètre et présentent de nombreux pétales soyeux entourant un centre garni d'étamines et d'un pistil proéminent. Fruits. Les fruits, appelés « figues de Barbarie », sont des baies charnues de forme ovale, mesurant 5 à 10 cm de longueur. Leur couleur varie du jaune au rouge pourpre selon la variété. La pulpe, riche en graines dures, présente une texture gélatineuse et une saveur douce-acidulée très appréciée. Les parties utilisées sont les cladodes jeunes (raquettes) et les fruits mûrs.",
@@ -3980,8 +4138,10 @@ const plantesData = [
     "familleDescription": "Les Cactacées représentent l'une des familles botaniques les plus reconnaissables de la flore mondiale, regroupant environ 1750 espèces réparties en 130 genres, principalement adaptées aux environnements arides et semi-arides. Cette famille remarquable domine les paysages secs des Départements du Sud et de la Grand'Anse, où elle joue un rôle écologique et économique majeur. Sur le plan alimentaire, le genre Opuntia fournit des fruits savoureux et des cladodes comestibles, constituant une ressource nutritionnelle importante dans les zones arides. Les genres Hylocereus et Selenicereus produisent les célèbres fruits du dragon, appréciés pour leur valeur ornementale et gustative. Du point de vue médicinal, les Cactacées se distinguent par leur richesse en mucilages, polysaccharides, flavonoïdes et bétalaïnes, ciblant préférentiellement les systèmes cutané et endocrinien. Ces composés confèrent à la famille des propriétés antidiabétiques, cicatrisantes et antioxydantes remarquables. Bien que généralement non toxiques, certaines espèces exigent une préparation adéquate pour éliminer les épines et éviter les irritations mécaniques.",
     "familleImage": "",
     "familleNum": "24",
-    "toxBadgeColor": "red",
-    "toxBadgeText": "Toxique"
+    "toxBadgeColor": "green",
+    "toxBadgeText": "Non toxique",
+    "usageType": "Alimentaire et Médicinale",
+    "maladieSummary": "Cutané, Endocrinien"
   },
   {
     "id": 82,
@@ -4000,10 +4160,10 @@ const plantesData = [
       "ht": "Danmari"
     },
     "systeme": {
-      "fr": "L'action thérapeutique de C. antillanum cible préférentiellement le système tégumentaire. L'huile es"
+      "fr": "Cutané"
     },
-    "toxicite": "unknown",
-    "toxiciteLevel": "unknown",
+    "toxicite": null,
+    "toxiciteLevel": "caution",
     "sections": {
       "introduction": "Calophyllum antillanum Jacq. (syn. Calophyllum brasiliense var. antillanum) est un arbre natif des Caraïbes et d'Amérique tropicale, documenté dans les Départements du Sud et de la Grand'Anse. Il appartient à la famille des Calophyllacées, groupe d'arbres tropicaux reconnus pour leurs huiles médicinales exceptionnelles et leurs usages techniques diversifiés. Au sein de cette famille, il fait partie du genre Calophyllum, célèbre dans tout le Pacifique pour l'huile de tamanu — une huile cicatrisante légendaire extraite des graines. En Haïti, l'usage principal de C. antillanum est double : son bois sert à la construction, tandis que l'huile extraite de ses graines constitue un puissant cicatrisant connu localement sous le nom de « Santamaria ». Cette dualité d'usage — technique et thérapeutique — fait du danmari une ressource polyvalente particulièrement précieuse pour les communautés rurales.",
       "description": "C. antillanum est un arbre de taille moyenne à grande, typique des formations forestières de basse altitude des Départements du Sud et de la Grand'Anse. Tronc et écorce. Le tronc présente une écorce rugueuse et fissurée, de couleur brun-gris, qui sécrète une résine aromatique lorsqu'elle est entaillée. Cette résine constitue l'un des mécanismes de défense de l'arbre contre les pathogènes et les insectes xylophages. Feuilles. Les feuilles sont simples, opposées, coriaces et persistantes, caractéristiques du genre Calophyllum. Elles présentent une forme elliptique à obovale avec un apex obtus et une nervation pennée bien visible. Leur surface est lisse et brillante, adaptation aux environnements tropicaux humides. Fleurs. Les inflorescences sont des grappes axillaires portant de nombreuses petites fleurs blanches à parfum délicat. Chaque fleur présente quatre pétales et de nombreuses étamines, attirant divers insectes pollinisateurs. Fruit et graines. Le fruit est une drupe globuleuse, verte puis brunâtre à maturité, contenant une graine unique. C'est cette graine qui renferme l'huile précieuse aux propriétés cicatrisantes remarquables, constituant la partie médicinale la plus valorisée de la plante. Les parties utilisées sont principalement les graines pour l'extraction d'huile, l'écorce et les feuilles pour des préparations médicinales, et le bois pour la construction.",
@@ -4030,7 +4190,9 @@ const plantesData = [
     "familleImage": "",
     "familleNum": "25",
     "toxBadgeColor": "yellow",
-    "toxBadgeText": "Données insuffisantes"
+    "toxBadgeText": "Conditionnel",
+    "usageType": "Médicinale",
+    "maladieSummary": "Cutané"
   },
   {
     "id": 83,
@@ -4049,10 +4211,10 @@ const plantesData = [
       "ht": "Abriko"
     },
     "systeme": {
-      "fr": "Les applications thérapeutiques de M. americana ciblent préférentiellement le système tégumentaire, "
+      "fr": "Nerveux, Cutané"
     },
-    "toxicite": "unknown",
-    "toxiciteLevel": "unknown",
+    "toxicite": null,
+    "toxiciteLevel": "caution",
     "sections": {
       "introduction": "Mammea americana L. (syn. Mammea asiatica) est un arbre fruitier natif documenté dans les Départements du Sud et de la Grand'Anse. Il appartient à la famille des Calophyllacées, un groupe tropical principalement arboricole reconnu pour ses importantes ressources alimentaires et ses propriétés thérapeutiques. Au sein de cette famille, Mammea americana fait partie du genre Mammea, qui regroupe des arbres fruitiers tropicaux à forte valeur nutritive et médicinale. Son usage dominant dans la région est alimentaire — le fruit charnu étant largement consommé frais — complété par des applications antiparasitaires traditionnelles utilisant les graines broyées contre les poux.",
       "description": "M. americana est un grand arbre tropical pouvant atteindre 15 à 20 mètres de hauteur, particulièrement adapté aux basses altitudes des Départements du Sud et de la Grand'Anse où il est abondant. Tronc et écorce. Le tronc est droit et robuste, recouvert d'une écorce brunâtre rugueuse qui sécrète une résine laiteuse blanchâtre lorsqu'elle est entaillée — caractéristique défensive typique des Calophyllacées. Feuilles. Les feuilles sont opposées, simples, coriaces et persistantes, de forme elliptique à obovale, mesurant 15 à 25 cm de longueur. Leur surface est vert foncé brillant au-dessus, plus pâle en dessous, avec des nervures parallèles bien marquées. Fleurs. Les fleurs sont petites, blanches à blanc-crème, regroupées en fascicules axillaires. Elles sont généralement unisexuées, les arbres étant dioïques (pieds mâles et femelles séparés). Fruits. Le fruit est une baie globuleuse de 10 à 20 cm de diamètre, à peau rugueuse brun-jaunâtre. La pulpe est orange vif, juteuse et parfumée, entourant une à quatre grosses graines toxiques. Le fruit mûr dégage un arôme caractéristique et sa saveur est âcre mais appréciée localement. Les parties utilisées sont principalement les fruits pour l'alimentation, et les graines broyées pour leurs propriétés antiparasitaires.",
@@ -4079,7 +4241,9 @@ const plantesData = [
     "familleImage": "",
     "familleNum": "25",
     "toxBadgeColor": "yellow",
-    "toxBadgeText": "Données insuffisantes"
+    "toxBadgeText": "Conditionnel",
+    "usageType": "Alimentaire",
+    "maladieSummary": "Nerveux, Cutané"
   },
   {
     "id": 84,
@@ -4098,10 +4262,10 @@ const plantesData = [
       "ht": "Chebèk"
     },
     "systeme": {
-      "fr": "H. longiflora cible principalement le système nerveux, tant central que périphérique, ainsi que le s"
+      "fr": "Nerveux, Cardiovasculaire, Cutané"
     },
     "toxicite": "toxic",
-    "toxiciteLevel": "toxic",
+    "toxiciteLevel": "danger",
     "sections": {
       "introduction": "Hippobroma longiflora (syn. Isotoma longiflora, Laurentia longiflora) est une herbe native d'altitude moyenne, documentée comme rare dans les Départements du Sud et de la Grand'Anse d'Haïti. Connue localement sous le nom de « Chebèk », cette plante appartient à la famille des Campanulacées et constitue l'une des espèces les plus toxiques de la flore haïtienne. Son usage médicinal traditionnel se limite strictement à des applications externes pour calmer les douleurs intenses, mais sa dangerosité extrême en fait une plante à manipuler avec la plus grande prudence. L'espèce tire son nom scientifique de ses remarquables fleurs blanches étoilées qui évoquent l'étoile de Bethléem, d'où son nom français. Dans le contexte des Départements du Sud et de la Grand'Anse, H. longiflora représente un parfait exemple de plante médicinale traditionnelle dont les propriétés thérapeutiques sont indissociables d'un risque toxicologique majeur.",
       "description": "H. longiflora est une herbe dressée pouvant atteindre 30 à 60 cm de hauteur, caractérisée par la production d'un latex blanc abondant lors de toute blessure des tissus — propriété défensive caractéristique de nombreuses Campanulacées tropicales. *Tiges.* Les tiges sont herbacées, dressées, ramifiées, de couleur verte à pourpre selon l'exposition lumineuse. Elles sécrètent immédiatement un latex blanc irritant au moindre contact ou blessure, constituant le principal mécanisme de défense de la plante. *Feuilles.* Les feuilles sont alternes, sessiles, de forme oblongue à lancéolée, à bords dentés. Leur surface est glabre et leur texture relativement charnue. Comme les tiges, elles produisent du latex lors de toute rupture du tissu foliaire. *Fleurs.* Les fleurs constituent l'élément le plus remarquable de la plante : solitaires, terminales, en forme d'étoile à cinq lobes blancs éclatants, mesurant 2 à 3 cm de diamètre. Le tube floral est allongé, d'où l'épithète « longiflora ». Ces fleurs, particulièrement attractives, s'épanouissent tout au long de l'année dans les conditions tropicales haïtiennes. *Fruit et graines.* Le fruit est une capsule contenant de nombreuses petites graines brunes, permettant une dissémination efficace par le vent et contribuant à la propagation naturelle de l'espèce. Les parties traditionnellement utilisées sont les feuilles, les racines et surtout le latex, bien que ce dernier soit particulièrement dangereux.",
@@ -4128,7 +4292,9 @@ const plantesData = [
     "familleImage": "",
     "familleNum": "26",
     "toxBadgeColor": "red",
-    "toxBadgeText": "Toxique"
+    "toxBadgeText": "Toxique",
+    "usageType": "Alimentaire et Médicinale",
+    "maladieSummary": "Nerveux, Cardiovasculaire, Cutané"
   },
   {
     "id": 85,
@@ -4149,10 +4315,10 @@ const plantesData = [
       "ht": "Lang bèf"
     },
     "systeme": {
-      "fr": "Lobelia assurgens cible préférentiellement le système nerveux et, par extension, le système respirat"
+      "fr": "Respiratoire, Nerveux, Cardiovasculaire"
     },
-    "toxicite": "toxic",
-    "toxiciteLevel": "toxic",
+    "toxicite": null,
+    "toxiciteLevel": "safe",
     "sections": {
       "introduction": "Lobelia assurgens L. (syn. Tupa assurgens) est un arbuste natif des Caraïbes et d'Amérique tropicale, documenté dans les Départements du Sud et de la Grand'Anse d'Haïti. Il appartient à la famille des Campanulacées, composée majoritairement d'herbes et d'arbustes reconnus pour leurs importants usages médicinaux. Cette famille se distingue par sa signature phytochimique dominée par des alcaloïdes pipéridiques — notamment la lobéline dans le genre Lobelia —, l'inuline, les flavonoïdes et les mucilages, ciblant préférentiellement le système nerveux. Il convient de souligner que certaines espèces de cette famille, particulièrement les genres Lobelia et Hippobroma, renferment des principes actifs très puissants et potentiellement toxiques, exigeant une préparation adéquate et un dosage strict, avec urgence médicale en cas d'ingestion accidentelle. Au sein de cette famille, L. assurgens fait partie du genre Lobelia, un groupe d'arbustes et d'herbes tropicales réputés pour leurs alcaloïdes à activité sur le système respiratoire. Son usage dans les Départements du Sud et de la Grand'Anse est strictement médicinal, principalement pour les affections respiratoires, mais sa rareté et sa toxicité exigent une vigilance maximale.",
       "description": "L. assurgens est un arbuste de haute altitude, caractérisé par sa saveur astringente marquée et sa rareté dans son aire de distribution naturelle. Tiges et port. L'arbuste présente un port dressé typique des Lobelia arborescentes, avec des tiges ligneuses à la base et des rameaux plus tendres vers les extrémités. La structure générale reflète une adaptation aux conditions d'altitude des massifs montagneux du Sud et de la Grand'Anse. Feuilles. Les feuilles sont alternes, simples, de forme lancéolée à ovale. Leur texture et leur nervation reflètent les caractéristiques du genre, avec une surface souvent légèrement rugueuse. La saveur astringente des feuilles, due à leur contenu en tanins, constitue un caractère distinctif important pour l'identification de l'espèce. Fleurs. Comme tous les membres de la famille des Campanulacées, L. assurgens produit des fleurs à symétrie bilatérale, typiquement tubulaires et souvent colorées. Les fleurs du genre Lobelia présentent généralement une corolle fendue, adaptation caractéristique facilitant l'accès au nectar pour les pollinisateurs spécialisés. Fruit et graines. Le fruit est une capsule contenant de nombreuses petites graines. Les graines du genre Lobelia sont réputées particulièrement riches en alcaloïdes, concentration qui constitue probablement un mécanisme de défense contre la prédation. Les parties utilisées dans les pratiques médicinales locales sont principalement les feuilles et les racines, avec une utilisation occasionnelle des graines par analogie avec d'autres espèces du genre.",
@@ -4178,8 +4344,10 @@ const plantesData = [
     "familleDescription": "",
     "familleImage": "",
     "familleNum": "26",
-    "toxBadgeColor": "red",
-    "toxBadgeText": "Toxique"
+    "toxBadgeColor": "green",
+    "toxBadgeText": "Non toxique",
+    "usageType": "Médicinale",
+    "maladieSummary": "Respiratoire, Nerveux, Cardiovasculaire"
   },
   {
     "id": 86,
@@ -4199,10 +4367,10 @@ const plantesData = [
       "ht": ""
     },
     "systeme": {
-      "fr": "Les systèmes physiologiques ciblés par C. frondosum dans la médecine traditionnelle haïtienne n'ont "
+      "fr": "Digestif, Hépatique"
     },
-    "toxicite": "unknown",
-    "toxiciteLevel": "unknown",
+    "toxicite": null,
+    "toxiciteLevel": "safe",
     "sections": {
       "introduction": "Capparidastrum frondosum est une liane native des Caraïbes et d'Amérique tropicale documentée uniquement dans les Départements du Sud et de la Grand'Anse. Cette espèce appartient à la famille des Capparacées, une famille tropicale diversifiée particulièrement riche en composés bioactifs. Au sein de cette famille, elle fait partie du genre Capparidastrum, un groupe de lianes néotropicales récemment séparé du genre Capparis sur la base d'analyses phylogénétiques moléculaires. Son usage dans les deux départements est exclusivement médicinal, bien que les modalités précises de cet usage traditionnel restent peu documentées dans la littérature accessible. En raison de sa distribution ultra-restreinte et de son statut taxonomique récemment établi, cette espèce constitue un exemple emblématique de l'endémisme végétal haïtien et de la nécessité urgente d'investigations ethnobotaniques approfondies.",
       "description": "C. frondosum est une liane de basse altitude, adaptée aux conditions côtières des Départements du Sud et de la Grand'Anse. Sa forme biologique de liane lui permet de coloniser efficacement les lisières forestières et les formations secondaires, où elle trouve les supports nécessaires à sa croissance verticale. Tiges. Les tiges sont sarmenteuses et volubiles, présentant la flexibilité caractéristique des lianes tropicales. Elles développent des structures d'accrochage leur permettant de s'élever dans la canopée en s'appuyant sur la végétation environnante. Feuilles. Les feuilles sont simples, alternes et pétiolées, présentant un limbe entier caractéristique de la famille des Capparacées. Leur texture et leur nervation reflètent une adaptation aux conditions climatiques locales. Fleurs. Comme la plupart des Capparacées, l'espèce produit des fleurs à symétrie radiaire, avec quatre sépales et quatre pétales. Les étamines, souvent nombreuses et saillantes, constituent un caractère distinctif de la famille. Fruits. Les fruits sont probablement des capsules ou des baies, contenant des graines à tégument dur adaptées à la dissémination par la faune locale. Les parties utilisées dans les pratiques médicinales locales n'ont pas été spécifiquement documentées pour cette espèce.",
@@ -4228,8 +4396,10 @@ const plantesData = [
     "familleDescription": "Dominant les régions tropicales et arides, les Capparacées constituent une famille de près de 700 espèces réparties en 45 genres, allant des herbacées annuelles aux arbres de canopée. Cette famille se distingue par une remarquable diversité morphologique et écologique, colonisant des habitats aussi variés que les forêts humides, les zones côtières et les milieux semi-arides. Plusieurs genres possèdent une importance alimentaire notable : Capparis (câprier) fournit les câpres commerciales, tandis que Cleome et Gynandropsis sont cultivés comme légumes-feuilles en Afrique et en Asie. Sur le plan médicinal, la famille exprime une signature phytochimique dominée par les glucosinolates — composés soufrés responsables de saveurs piquantes —, les flavonoïdes, les saponines triterpéniques et les alcaloïdes isoquinoléiques. Ces métabolites ciblent préférentiellement les systèmes digestif, hépatique et inflammatoire, conférant à de nombreuses espèces des propriétés cholagogues, anti-inflammatoires et antimicrobiennes. Certains genres nécessitent une vigilance particulière en raison de leur teneur en alcaloïdes potentiellement toxiques à fortes doses.",
     "familleImage": "",
     "familleNum": "27",
-    "toxBadgeColor": "yellow",
-    "toxBadgeText": "Données insuffisantes"
+    "toxBadgeColor": "green",
+    "toxBadgeText": "Non toxique",
+    "usageType": "Médicinale",
+    "maladieSummary": "Digestif, Hépatique"
   },
   {
     "id": 87,
@@ -4250,10 +4420,10 @@ const plantesData = [
       "ht": "Papay"
     },
     "systeme": {
-      "fr": "Carica papaya exerce ses propriétés thérapeutiques par plusieurs mécanismes distincts. Au niveau gas"
+      "fr": "Médicinal"
     },
-    "toxicite": "unknown",
-    "toxiciteLevel": "unknown",
+    "toxicite": null,
+    "toxiciteLevel": "caution",
     "sections": {
       "introduction": "A completer — Carica papaya L. (Papay). Relancer --bloc 5 🟡 À retenir — Papay : est une plante a toxicite conditionnelle documentee. Respecter imperativement les precautions indiquees. Ne jamais ingerer les parties toxiques sans encadrement medical. Ces informations sont destinees a l'enseignement et a la documentation. Les auteurs declinent toute responsabilite quant a un usage inapproprie.",
       "description": "Carica papaya est un arbre dioïque ou hermaphrodite atteignant 5 à 10 mètres de hauteur, caractérisé par un tronc unique non ramifié présentant des cicatrices foliaires marquées. L'écorce, lisse à légèrement rugueuse, est de couleur gris-vert avec des lenticelles évidentes. Les feuilles, alternes et pétiolées, sont profondément palmatilobées à palmatipartites, mesurant 20 à 60 cm de diamètre, avec 5 à 11 lobes obovales à oblancéolés à marges dentées. L'inflorescence pistillée produit des fleurs blanches à crème groupées à l'aisselle foliaire, tandis que l'inflorescence staminiée présente des fleurs en corymbes ramifiés. Le fruit, une baie ovoïde à cylindrique de 10 à 30 cm de longueur, possède une peau lisse passant du vert au jaune-orangé à maturité. La chair interne, jaune-orangé, contient une cavité centrale remplie de nombreuses graines noires et ridées de 5 à 8 mm.",
@@ -4280,7 +4450,9 @@ const plantesData = [
     "familleImage": "",
     "familleNum": "28",
     "toxBadgeColor": "yellow",
-    "toxBadgeText": "Données insuffisantes"
+    "toxBadgeText": "Conditionnel",
+    "usageType": "Alimentaire et Médicinale",
+    "maladieSummary": ""
   },
   {
     "id": 88,
@@ -4300,10 +4472,10 @@ const plantesData = [
       "ht": "Zikak"
     },
     "systeme": {
-      "fr": "Le système principalement ciblé par C. icaco est le système digestif, conformément aux usages tradit"
+      "fr": "Digestif"
     },
-    "toxicite": "caution",
-    "toxiciteLevel": "caution",
+    "toxicite": null,
+    "toxiciteLevel": "safe",
     "sections": {
       "introduction": "Chrysobalanus icaco L. (syn. C. pellocarpus) est un arbuste côtier natif d'Haïti, cultivé et naturalisé dans les formations sableuses littorales des Départements du Sud et de la Grand'Anse. Il appartient à la famille des Chrysobalanacées, une famille tropicale remarquable par ses adaptations aux milieux côtiers et ses contributions alimentaires. Le nom créole « zikak » désigne à la fois la plante et son fruit, consommé localement pour sa saveur sucrée et astringente. Dans les régions de Corail, Aquin et aux Cayes, cette espèce constitue une ressource alimentaire traditionnelle et joue un rôle écologique majeur dans la protection des côtes contre l'érosion. Son usage principal reste alimentaire, complété par des applications médicinales traditionnelles pour les troubles digestifs.",
       "description": "C. icaco est un arbuste ou petit arbre de basse altitude, parfaitement adapté aux conditions côtières des Départements du Sud et de la Grand'Anse. Tiges et port. L'arbuste présente un port buissonnant pouvant atteindre 2 à 4 mètres de hauteur, avec des rameaux étalés et une croissance adaptée aux vents marins. L'écorce est lisse à légèrement rugueuse, de couleur gris-brun. Feuilles. Les feuilles sont simples, alternes, coriaces et brillantes, de forme obovale à elliptique, mesurant 3 à 8 cm de longueur. Leur surface cireuse et leur texture épaisse constituent des adaptations aux embruns salés et à la sécheresse côtière caractéristique du littoral haïtien. Fleurs. Les petites fleurs blanches, regroupées en grappes terminales, apparaissent principalement pendant la saison sèche. Elles sont hermaphrodites et attirent divers insectes pollinisateurs locaux. Fruit. Le fruit, appelé localement « zikak », est une drupe charnue de 2 à 4 cm de diamètre, de forme arrondie à légèrement aplatie. Sa couleur varie du blanc-rosé au violet foncé selon le degré de maturité et la variété. La pulpe est sucrée avec une astringence caractéristique due à la présence de tanins. Les parties utilisées sont principalement les fruits pour l'alimentation, et les feuilles pour les préparations médicinales traditionnelles.",
@@ -4329,8 +4501,10 @@ const plantesData = [
     "familleDescription": "Les Chrysobalanacées regroupent environ 530 espèces réparties en 27 genres, principalement des arbustes et arbres tropicaux et subtropicaux. Cette famille pantropicale se distingue par ses remarquables adaptations aux environnements côtiers et ses importantes contributions alimentaires dans les régions tropicales. Sur le plan alimentaire, plusieurs genres produisent des fruits comestibles appréciés : Chrysobalanus (icaque), Licania et Couepia dans les Amériques, ainsi que Parinari en Afrique. Ces fruits, souvent riches en pulpe sucrée, constituent des ressources nutritionnelles locales importantes. Sur le plan écologique, de nombreuses espèces jouent un rôle crucial dans la stabilisation des sols côtiers et la protection contre l'érosion. Phytochimiquement, les Chrysobalanacées se caractérisent par une signature dominée par les flavonoïdes — notamment la myricétine et la quercétine — ainsi que par l'acide pomolique et des tanins condensés, conférant à ces plantes des propriétés antioxydantes et astringentes marquées. Ces composés ciblent préférentiellement le système digestif, avec des applications traditionnelles dans le traitement des troubles gastro-intestinaux.",
     "familleImage": "",
     "familleNum": "29",
-    "toxBadgeColor": "yellow",
-    "toxBadgeText": "Précautions"
+    "toxBadgeColor": "green",
+    "toxBadgeText": "Non toxique",
+    "usageType": "Alimentaire et Médicinale",
+    "maladieSummary": "Digestif"
   },
   {
     "id": 89,
@@ -4349,10 +4523,10 @@ const plantesData = [
       "ht": "Ti figye"
     },
     "systeme": {
-      "fr": "Clusia minor cible préférentiellement le système tégumentaire, conformément à la spécialisation thér"
+      "fr": "Cardiovasculaire, Cutané"
     },
-    "toxicite": "unknown",
-    "toxiciteLevel": "unknown",
+    "toxicite": null,
+    "toxiciteLevel": "safe",
     "sections": {
       "introduction": "Clusia minor L. (syn. Clusia venosa) est un arbuste natif communément appelé « Ti figye » dans les Départements du Sud et de la Grand'Anse. Il appartient à la famille des Clusiacées, une famille tropicale remarquable pour sa production de latex et résines colorés aux propriétés thérapeutiques reconnues. Au sein de cette famille, le genre Clusia regroupe environ 300 espèces d'arbres et arbustes épiphytes ou terrestres, caractérisées par leur capacité à sécréter un latex blanc collant aux propriétés cicatrisantes. Clusia minor constitue l'une des ressources médicinales traditionnelles les plus appréciées de la région pour le traitement externe des plaies et affections cutanées, grâce à son latex aux vertus antiseptiques et protectrices.",
       "description": "C. minor est un arbuste de basse altitude, à saveur acide, adapté aux conditions climatiques des Départements du Sud et de la Grand'Anse où il croît communément dans les zones rocailleuses et les sols bien drainés. Tiges et écorce. Les tiges sont robustes et ramifiées, recouvertes d'une écorce lisse qui sécrète un latex blanc abondant lorsqu'elle est incisée — caractéristique défensive majeure de l'espèce et source de son usage thérapeutique local. Feuilles. Les feuilles sont simples, opposées, coriaces et persistantes, de forme oblongue à obovale. Leur surface est lisse et luisante, de couleur vert foncé, avec des nervures bien marquées. Elles présentent une saveur acide caractéristique due à la présence d'acides organiques et de tanins. Fleurs. Les fleurs sont petites, généralement blanches ou jaunâtres, portées en cymes terminales. Elles sont unisexuées, la plante étant dioïque, avec des fleurs mâles et femelles sur des individus séparés. Fruit. Le fruit est une capsule charnue qui s'ouvre pour révéler des graines entourées d'un arille coloré, attirant les oiseaux disperseurs et assurant la propagation naturelle de l'espèce dans l'écosystème local. Les parties utilisées sont principalement les feuilles pour les préparations internes et l'écorce pour l'extraction du latex cicatrisant.",
@@ -4378,8 +4552,10 @@ const plantesData = [
     "familleDescription": "Les Clusiacées rassemblent environ 1 400 espèces réparties dans 36 genres, principalement des arbres et arbustes tropicaux reconnus pour leur capacité remarquable à produire des latex et résines colorés. Cette famille pantropicale comprend des genres à forte valeur économique comme Garcinia — dont le mangoustan (Garcinia mangostana) et le chadec marron local — ainsi que des espèces ornementales du genre Hypericum. Sur le plan médicinal, plusieurs genres sont traditionnellement exploités : Clusia pour les soins cutanés, Vismia comme anti-inflammatoire, et diverses espèces de Garcinia pour leurs propriétés digestives. La signature phytochimique des Clusiacées se distingue par une richesse exceptionnelle en benzophénones polyprénylées, xanthones, biflavonoïdes et triterpènes, conférant à cette famille des propriétés antioxydantes, anti-inflammatoires et antimicrobiennes marquées qui ciblent préférentiellement le système tégumentaire. Une vigilance s'impose avec certains représentants du genre Clusia dont les latex peuvent provoquer des irritations cutanées chez les personnes sensibles.",
     "familleImage": "",
     "familleNum": "30",
-    "toxBadgeColor": "yellow",
-    "toxBadgeText": "Données insuffisantes"
+    "toxBadgeColor": "green",
+    "toxBadgeText": "Non toxique",
+    "usageType": "Médicinale",
+    "maladieSummary": "Cardiovasculaire, Cutané"
   },
   {
     "id": 90,
@@ -4398,10 +4574,10 @@ const plantesData = [
       "ht": "Figye modi"
     },
     "systeme": {
-      "fr": "C. rosea cible principalement le système tégumentaire à travers ses propriétés cicatrisantes, antimi"
+      "fr": "Cutané"
     },
-    "toxicite": "unknown",
-    "toxiciteLevel": "unknown",
+    "toxicite": null,
+    "toxiciteLevel": "caution",
     "sections": {
       "introduction": "Clusia rosea Jacq. (syn. Clusia major L. — souvent mal appliqué historiquement) est un arbre natif des Caraïbes et d'Amérique tropicale, commun dans les Départements du Sud et de la Grand'Anse d'Haïti. Il appartient à la famille des Clusiacées, un groupe principalement tropical d'arbustes et d'arbres reconnus pour leurs riches usages alimentaires et médicinaux, caractérisés phytochimiquement par des benzophénones, des résines, des latex et des triterpènes ciblant préférentiellement le système tégumentaire. Au sein de cette famille, le genre Clusia rassemble des espèces épiphytes ou terrestres aux propriétés cicatrisantes remarquables, notamment grâce à leur latex résineux. C. rosea est une plante à usage principalement médicinal et rituel dans les deux départements, particulièrement appréciée pour ses propriétés cicatrisantes et antimicrobiennes par application externe.",
       "description": "C. rosea est un arbre de basse altitude, pouvant atteindre 8 à 15 mètres de hauteur dans les conditions optimales des Départements du Sud et de la Grand'Anse. Sa croissance est relativement lente mais sa longévité remarquable. Tronc et écorce. Le tronc est droit et robuste, recouvert d'une écorce lisse à légèrement rugueuse, de couleur gris-brun. L'écorce sécrète un latex blanc-jaunâtre lorsqu'elle est incisée, caractéristique distinctive du genre Clusia. Feuilles. Les feuilles sont opposées, coriaces, épaisses et charnues, de forme obovale à elliptique, mesurant 8 à 20 cm de longueur. Leur surface supérieure est vert foncé brillant, tandis que la face inférieure est plus claire. La texture cireuse et la nervation peu visible sont caractéristiques. Ces feuilles persistent toute l'année et résistent bien à la sécheresse. Fleurs. Les fleurs sont unisexuées, portées sur des pieds séparés (espèce dioïque). Les fleurs femelles sont solitaires ou groupées par 2-3, de couleur blanc-rosé à rose, mesurant 4 à 6 cm de diamètre, avec des pétales charnus et cireux. Les fleurs mâles sont plus petites et groupées en cymes. Fruit. Le fruit est une capsule charnue, globuleuse, de 3 à 8 cm de diamètre, initialement verte puis brunâtre à maturité. À maturité, elle s'ouvre en segments étoilés révélant des graines rouge vif entourées d'un arille orange. Les parties utilisées sont les feuilles, le latex et l'écorce.",
@@ -4428,7 +4604,9 @@ const plantesData = [
     "familleImage": "",
     "familleNum": "30",
     "toxBadgeColor": "yellow",
-    "toxBadgeText": "Données insuffisantes"
+    "toxBadgeText": "Conditionnel",
+    "usageType": "Médicinale",
+    "maladieSummary": "Cutané"
   },
   {
     "id": 91,
@@ -4447,10 +4625,10 @@ const plantesData = [
       "ht": "-"
     },
     "systeme": {
-      "fr": "Les usages ethnobotaniques documentés dans la région concernent principalement le système digestif, "
+      "fr": "Digestif"
     },
-    "toxicite": "unknown",
-    "toxiciteLevel": "unknown",
+    "toxicite": null,
+    "toxiciteLevel": "safe",
     "sections": {
       "introduction": "Garcinia barkeriana (syn. Rheedia barkeriana) est un arbre endémique d'Haïti, confiné au Massif de la Hotte dans le département de la Grand'Anse. Il appartient à la famille des Clusiacées, une famille d'arbres et d'arbustes tropicaux reconnue pour ses riches usages alimentaires et médicinaux. Au sein de cette famille, il fait partie du genre Garcinia, un groupe d'arbres fruitiers tropicaux comprenant le mangoustan (Garcinia mangostana) et plusieurs autres espèces productrices de fruits comestibles. Son usage dans les Départements du Sud et de la Grand'Anse est principalement médicinal, bien que ses fruits soient occasionnellement consommés. En raison de sa rareté extrême et de son statut d'endémique strict, la conservation de cette espèce constitue une priorité absolue.",
       "description": "G. barkeriana est un arbre de haute altitude, adapté aux conditions fraîches et humides du Massif de la Hotte. Tiges et tronc. Le tronc est droit et élancé, avec une écorce lisse à légèrement rugueuse. Comme chez d'autres Garcinia, l'écorce sécrète un latex jaunâtre lors de blessures, caractéristique défensive de la famille des Clusiacées. Ce latex contient des résines et des benzophénones aux propriétés antimicrobiennes. Feuilles. Les feuilles sont simples, opposées, coriaces et persistantes — adaptation typique aux conditions de montagne. Elles présentent une nervation pennée bien marquée et une surface brillante qui reflète l'excès de lumière en altitude. Leur forme elliptique et leur texture épaisse permettent de résister aux vents froids du massif. Fleurs et reproduction. Les modalités de floraison et de pollinisation restent peu documentées pour cette espèce rare. Par analogie avec le genre Garcinia, la plante produit probablement des fleurs unisexuées, nécessitant la présence de pieds mâles and femelles pour la reproduction. Fruits. Les fruits sont l'élément le plus distinctif de l'espèce. Ils sont charnus, de saveur grasse rappelant l'amande, caractéristique unique parmi les Garcinia généralement acides. Cette particularité suggère une composition lipidique inhabituelle pour le genre. Les parties utilisées sont principalement l'écorce, les fruits et les feuilles.",
@@ -4476,8 +4654,10 @@ const plantesData = [
     "familleDescription": "",
     "familleImage": "",
     "familleNum": "30",
-    "toxBadgeColor": "yellow",
-    "toxBadgeText": "Données insuffisantes"
+    "toxBadgeColor": "green",
+    "toxBadgeText": "Non toxique",
+    "usageType": "Alimentaire et Médicinale",
+    "maladieSummary": "Digestif"
   },
   {
     "id": 92,
@@ -4498,10 +4678,10 @@ const plantesData = [
       "ht": "Mangliye"
     },
     "systeme": {
-      "fr": "C. erectus cible préférentiellement le système digestif, avec une efficacité documentée contre les t"
+      "fr": "Digestif, Cardiovasculaire"
     },
-    "toxicite": "unknown",
-    "toxiciteLevel": "unknown",
+    "toxicite": null,
+    "toxiciteLevel": "safe",
     "sections": {
       "introduction": "Conocarpus erectus L. (syn. Conocarpus acutifolius) est un arbre natif des zones littorales, documenté dans le Sud et la Grand'Anse d'Haïti où il est devenu très rare. Il appartient à la famille des Combrétacées, une famille tropicale adaptée aux environnements côtiers, reconnue pour ses propriétés astringentes et anti-inflammatoires. Au sein de cette famille, il fait partie du genre Conocarpus, un petit groupe d'arbres de mangrove caractérisés par leur résistance au sel et leur richesse en tanins. Son usage principal dans les Départements du Sud et de la Grand'Anse est médicinal, particulièrement comme antidiarrhéique par décoction de l'écorce, bien que son statut de conservation critique limite aujourd'hui sa disponibilité.",
       "description": "C. erectus est un arbre de taille moyenne à grande, parfaitement adapté aux conditions littorales des Départements du Sud et de la Grand'Anse, où il colonise naturellement les zones de transition entre terre ferme et milieux salés. Tiges et écorce. Le tronc peut atteindre un diamètre considérable chez les spécimens matures. L'écorce, partie principalement utilisée en médecine traditionnelle, présente une texture rugueuse et une couleur gris-brun caractéristique. Cette écorce contient une forte concentration de tanins, lui conférant une saveur astringente marquée et des propriétés thérapeutiques documentées. Feuilles. Les feuilles sont simples, alternes, coriaces et persistantes — adaptation caractéristique aux embruns salés du littoral. Leur surface présente souvent une coloration vert-gris due aux dépôts de sel, et leur texture épaisse permet de résister à la dessiccation. Ces feuilles, également utilisées en médecine traditionnelle, dégagent peu d'odeur et présentent une saveur fade à légèrement astringente. Fleurs et reproduction. La floraison produit de petites fleurs verdâtres regroupées en capitules denses et sphériques. Ces inflorescences, peu spectaculaires mais riches en nectar, attirent divers insectes pollinisateurs adaptés aux environnements côtiers. Fruits. Les fruits sont de petites capsules ailées, adaptées à la dispersion par le vent et les courants marins — stratégie reproductive typique des plantes littorales. Les parties utilisées sont l'écorce et les feuilles, l'écorce étant privilégiée pour ses propriétés antidiarrhéiques plus marquées.",
@@ -4527,8 +4707,10 @@ const plantesData = [
     "familleDescription": "Dominant les zones côtières tropicales, les Combrétacées rassemblent environ 600 espèces réparties dans une vingtaine de genres, principalement composées d'arbres et d'arbustes. Cette famille se distingue par sa remarquable adaptation aux environnements littoraux et par ses riches usages alimentaires et médicinaux. Plusieurs genres présentent un intérêt alimentaire notable : Terminalia produit des fruits comestibles comme l'amande tropicale (T. catappa), tandis que certaines espèces de Combretum offrent des fruits consommés localement. Sur le plan médicinal, la famille excelle particulièrement dans le traitement des troubles digestifs et cardiovasculaires, grâce à une signature phytochimique dominée par les tanins condensés, l'acide gallique, l'acide ellagique et les flavonoïdes. Ces composés confèrent aux Combrétacées leurs propriétés astringentes, anti-inflammatoires et antioxydantes remarquables, ciblant préférentiellement les systèmes digestif et cardiovasculaire. Une vigilance s'impose cependant avec certaines espèces du genre Combretum qui renferment des principes actifs puissants nécessitant une préparation adéquate et un dosage strict.",
     "familleImage": "",
     "familleNum": "31",
-    "toxBadgeColor": "yellow",
-    "toxBadgeText": "Données insuffisantes"
+    "toxBadgeColor": "green",
+    "toxBadgeText": "Non toxique",
+    "usageType": "Médicinale",
+    "maladieSummary": "Digestif, Cardiovasculaire"
   },
   {
     "id": 93,
@@ -4547,7 +4729,7 @@ const plantesData = [
       "ht": "Zanman"
     },
     "systeme": {
-      "fr": "T. catappa cible principalement le système cardiovasculaire, documenté dans le Sud et la Grand'Anse "
+      "fr": "Cardiovasculaire"
     },
     "toxicite": null,
     "toxiciteLevel": "safe",
@@ -4577,7 +4759,9 @@ const plantesData = [
     "familleImage": "",
     "familleNum": "31",
     "toxBadgeColor": "green",
-    "toxBadgeText": "Non toxique"
+    "toxBadgeText": "Non toxique",
+    "usageType": "Alimentaire",
+    "maladieSummary": "Cardiovasculaire"
   },
   {
     "id": 94,
@@ -4595,10 +4779,10 @@ const plantesData = [
       "ht": "-"
     },
     "systeme": {
-      "fr": "T. spathacea cible préférentiellement le système respiratoire et les affections cutanées, conforméme"
+      "fr": "Respiratoire, Cutané"
     },
-    "toxicite": "unknown",
-    "toxiciteLevel": "unknown",
+    "toxicite": null,
+    "toxiciteLevel": "safe",
     "sections": {
       "introduction": "Tradescantia spathacea (syn. Rhoeo spathacea, Rhoeo discolor) est une herbe vivace native des Caraïbes et d'Amérique tropicale, commune dans les Départements du Sud et de la Grand'Anse. Elle appartient à la famille des Commélinacées, une famille tropicale d'herbes ornementales et médicinales reconnue pour ses riches concentrations en anthocyanes et composés phénoliques. Au sein de cette famille, elle fait partie du genre Tradescantia, un groupe d'herbes décoratives largement cultivées en région tropicale pour leurs qualités esthétiques et leurs propriétés thérapeutiques documentées. Son usage principal dans la région concerne la phytothérapie respiratoire, où les feuilles préparent un thé violet traditionnellement consommé contre la grippe, localement appelé \"Zwit\".",
       "description": "T. spathacea est une herbe vivace robuste, de croissance basse, formant des touffes denses particulièrement adaptées au climat tropical humide des départements du Sud et de la Grand'Anse. Tiges et port. La plante développe des tiges charnues, courtes et trapues, d'où émergent les feuilles en rosette basale. Ces tiges contiennent une sève claire pouvant occasionner des irritations cutanées chez les sujets sensibles. Feuilles. Les feuilles constituent l'élément le plus remarquable de la plante : lancéolées, coriaces et disposées en spirale dense, elles présentent une face supérieure vert brillant et une face inférieure d'un violet-pourpre intense, caractéristique qui lui vaut son nom vernaculaire \"Moïse dans le berceau\". Cette coloration bicolore unique facilite son identification sur le terrain. Fleurs. Les inflorescences se développent au centre de la rosette, protégées par des bractées en forme de nacelle. Les petites fleurs blanches à trois pétales s'épanouissent successivement, attirant les pollinisateurs locaux. Fruit et reproduction. La plante produit de petites capsules contenant des graines, mais se propage principalement par multiplication végétative via des stolons latéraux. Les parties utilisées sont les feuilles et les tiges, récoltées de préférence le matin pour une teneur optimale en principes actifs.",
@@ -4624,8 +4808,10 @@ const plantesData = [
     "familleDescription": "Regroupant près de 650 espèces réparties en une quarantaine de genres, les Commélinacées constituent une famille tropicale d'herbes vivaces ou annuelles, caractérisées par leurs feuilles engainantes et leurs inflorescences protégées par des spathes membraneuses. Cette famille se distingue dans la flore haïtienne par sa double vocation ornementale et médicinale, avec des genres comme Tradescantia et Commelina largement cultivés pour leurs qualités décoratives et thérapeutiques. Sur le plan phytochimique, les Commélinacées développent une signature remarquable dominée par les anthocyanes responsables des colorations violettes à pourpres de nombreuses espèces, les flavonoïdes antioxydants, les mucilages aux propriétés émollientes et les composés phénoliques comme l'acide chlorogénique. Ces métabolites ciblent préférentiellement les systèmes respiratoire et tégumentaire, expliquant l'usage traditionnel contre les affections pulmonaires et cutanées. Il convient de noter que certaines espèces peuvent provoquer des dermatites de contact chez les personnes sensibles, particulièrement par contact avec la sève fraîche, nécessitant des précautions lors de la manipulation.",
     "familleImage": "",
     "familleNum": "32",
-    "toxBadgeColor": "yellow",
-    "toxBadgeText": "Données insuffisantes"
+    "toxBadgeColor": "green",
+    "toxBadgeText": "Non toxique",
+    "usageType": "Alimentaire et Médicinale",
+    "maladieSummary": "Respiratoire, Cutané"
   },
   {
     "id": 95,
@@ -4643,10 +4829,10 @@ const plantesData = [
       "ht": "Zèl ravèt"
     },
     "systeme": {
-      "fr": "Selon l'inventaire local, T. zebrina cible préférentiellement le système tégumentaire et, dans une m"
+      "fr": "Urinaire, Cardiovasculaire"
     },
-    "toxicite": "unknown",
-    "toxiciteLevel": "unknown",
+    "toxicite": null,
+    "toxiciteLevel": "caution",
     "sections": {
       "introduction": "Tradescantia zebrina Hort. ex Bosse (syn. Zebrina pendula) est une herbe vivace exotique commune dans les Départements du Sud et de la Grand'Anse. Elle appartient à la famille des Commélinacées, un groupe botanique tropical d'importance médicinale reconnaissable à ses fleurs à trois pétales et ses feuilles souvent succulentes. Au sein de cette famille, elle fait partie du genre Tradescantia, qui rassemble des plantes herbacées à port rampant ou érigé, largement utilisées en horticulture ornementale et en médecine traditionnelle des Amériques. Son usage dans les deux départements est principalement thérapeutique, particulièrement recherché pour ses propriétés supposées sur les reins et l'hypertension, ainsi que pour ses effets cicatrisants et anti-inflammatoires documentés localement.",
       "description": "T. zebrina est une herbe vivace rampante au port caractéristique, formant des tapis végétaux denses dans les zones d'altitude moyenne du Sud et de la Grand'Anse. Tiges. Les tiges sont charnues, succulentes, rampantes et noueuses, s'enracinant facilement aux nœuds au contact du sol. Cette capacité de marcottage naturel explique sa propagation rapide et son caractère potentiellement envahissant dans certains environnements favorables. Feuilles. Les feuilles constituent l'élément le plus distinctif de l'espèce : ovales-lancéolées, charnues, elles présentent un motif de rayures argentées longitudinales sur fond vert-pourpre qui lui vaut son nom d'espèce « zebrina ». La face inférieure est généralement pourpre intense, riche en anthocyanes. Ces feuilles succulentes, de texture douce au toucher, constituent la principale partie utilisée en médecine traditionnelle haïtienne. Fleurs. Les petites fleurs sont typiques des Commélinacées : à trois pétales roses ou blancs, discrètes, apparaissant de manière sporadique selon les conditions d'humidité. La reproduction se fait principalement par voie végétative plutôt que par graines. Les parties utilisées sont les feuilles et les tiges, récoltées fraîches pour préserver leurs propriétés médicinales.",
@@ -4673,7 +4859,9 @@ const plantesData = [
     "familleImage": "",
     "familleNum": "32",
     "toxBadgeColor": "yellow",
-    "toxBadgeText": "Données insuffisantes"
+    "toxBadgeText": "Conditionnel",
+    "usageType": "Alimentaire et Médicinale",
+    "maladieSummary": "Urinaire, Cardiovasculaire"
   },
   {
     "id": 96,
@@ -4692,10 +4880,10 @@ const plantesData = [
       "ht": "Kouskout"
     },
     "systeme": {
-      "fr": "C. americana cible préférentiellement le système hépatique, conformément à la signature phytochimiqu"
+      "fr": "Hépatique"
     },
-    "toxicite": "caution",
-    "toxiciteLevel": "caution",
+    "toxicite": null,
+    "toxiciteLevel": "safe",
     "sections": {
       "introduction": "Cuscuta americana L. — « Kouskout » / Cuscute Cuscuta americana L. (syn. Cuscuta spectabilis) est une liane parasite native des Caraïbes et de l'Amérique tropicale, documentée dans les Départements du Sud et de la Grand'Anse d'Haïti. Cette espèce appartient à la famille des Convolvulacées, une vaste famille de plus de 1650 espèces où elle représente un mode de vie hautement spécialisé : le parasitisme obligatoire. Au sein de cette famille nutritionnellement diversifiée — incluant la patate douce alimentaire — le genre Cuscuta se distingue par son adaptation extrême au parasitisme, ayant perdu sa capacité photosynthétique pour dépendre entièrement de ses plantes-hôtes. Cette stratégie évolutive unique confère à C. americana des propriétés phytochimiques particulières, concentrées dans ses tiges filiformes et ses graines, qui en font une plante médicinale traditionnelle reconnue pour ses effets hépatoprotecteurs et dépuratifs.",
       "description": "C. americana est une liane parasite annuelle au mode de croissance très spécialisé, facilement reconnaissable par ses caractéristiques morphologiques uniques dans la flore haïtienne. Tiges. Les tiges constituent la partie la plus distinctive de la plante : filiformes, jaunâtres à orangées, complètement dépourvues de feuilles, elles s'enroulent en spirale autour des plantes-hôtes. Ces tiges, d'un diamètre de 1-2 mm, développent des suçoirs (haustoriums) qui pénètrent les tissus de l'hôte pour puiser eau, nutriments et métabolites. Cette adaptation parasitaire explique l'absence totale de racines fonctionnelles chez la plante adulte. Feuilles. Les feuilles sont réduites à de minuscules écailles triangulaires, vestiges de l'évolution qui témoignent de la perte de la fonction photosynthétique. Cette réduction foliaire est une adaptation directe au mode de vie parasitaire. Fleurs. Les fleurs sont petites, blanches à crème, regroupées en glomérules denses le long des tiges. Chaque fleur mesure 2-4 mm de diamètre, avec cinq pétales soudés et cinq étamines. La floraison est généralement abondante et constitue un critère d'identification important. Fruit et graines. Le fruit est une capsule globuleuse contenant 2-4 graines brunâtres, anguleuses, de 1-1,5 mm de longueur. Ces graines, d'une longévité remarquable, peuvent germer plusieurs années après leur production et constituent la seule phase autonome de la plante avant la localisation d'un hôte approprié. Les parties utilisées en médecine traditionnelle sont principalement les tiges et, dans une moindre mesure, les graines.",
@@ -4721,8 +4909,10 @@ const plantesData = [
     "familleDescription": "Les Convolvulacées constituent une famille tropicale et subtropicale de plus de 1650 espèces réparties en 58 genres, dominée par les lianes volubiles et les herbes rampantes. Cette famille présente une remarquable diversité d'usages : alimentaires avec la patate douce (Ipomoea batatas), l'un des tubercules les plus consommés au monde, ornementaux avec les ipomées aux fleurs colorées (Ipomoea purpurea, I. tricolor), et médicinaux avec les cuscutes parasites (Cuscuta spp.). Sur le plan phytochimique, la famille se caractérise par des résines glycosidiques complexes, des alcaloïdes ergoliques chez certains Ipomoea, des anthocyanes responsables des couleurs vives des fleurs, et du bêta-carotène concentré dans les tubercules orangés de la patate douce. Ces composés ciblent préférentiellement les systèmes hépatique et tégumentaire. Une vigilance particulière s'impose car certaines espèces renferment des principes actifs puissants : les graines d'Ipomoea purpurea contiennent des alcaloïdes hallucinogènes apparentés au LSD, et les cuscutes peuvent présenter des effets hormonaux, exigeant une identification précise et un dosage strict en usage thérapeutique.",
     "familleImage": "",
     "familleNum": "33",
-    "toxBadgeColor": "yellow",
-    "toxBadgeText": "Précautions"
+    "toxBadgeColor": "green",
+    "toxBadgeText": "Non toxique",
+    "usageType": "Médicinale",
+    "maladieSummary": "Hépatique"
   },
   {
     "id": 97,
@@ -4741,10 +4931,10 @@ const plantesData = [
       "ht": "Patat"
     },
     "systeme": {
-      "fr": "Le système principalement concerné est le système nutritionnel, avec des effets documentés sur le mé"
+      "fr": "Immunitaire, Oculaire"
     },
-    "toxicite": "caution",
-    "toxiciteLevel": "caution",
+    "toxicite": null,
+    "toxiciteLevel": "safe",
     "sections": {
       "introduction": "Ipomoea batatas (L.) Lam. (syn. Convolvulus batatas L.) est une herbe tubéreuse exotique pantropicale, cultivée de manière intensive dans les Départements du Sud et de la Grand'Anse. Elle appartient à la famille des Convolvulacées, une famille principalement composée de lianes et d'herbes grimpantes, reconnue pour ses usages alimentaires majeurs et ses propriétés médicinales variées. Au sein de cette famille, Ipomoea batatas fait partie du genre Ipomoea, qui regroupe plus de 600 espèces à travers le monde, incluant des espèces ornementales comme les belles-de-jour et d'autres à usages traditionnels. La patate douce constitue l'un des vivres alimentaires les plus importants d'Haïti, particulièrement appréciée pour sa richesse nutritionnelle et sa facilité de culture en conditions tropicales.",
       "description": "I. batatas est une herbe rampante à tubercules, caractérisée par ses tiges volubiles et son système racinaire producteur de racines tubérisées charnues. Tiges et port. Les tiges sont herbacées, rampantes ou légèrement grimpantes, pouvant atteindre plusieurs mètres de longueur. Elles s'enracinent facilement aux nœuds au contact du sol, permettant une propagation végétative naturelle. Le port est étalé et couvrant. Racines et tubercules. Le système racinaire produit des tubercules charnus, ovoïdes à allongés, à chair de couleur variable selon les cultivars : blanche, jaune, orange ou violette. La peau peut être lisse ou rugueuse, de couleur beige, rouge ou violette. Ces tubercules constituent la partie principalement consommée. Feuilles. Les feuilles sont alternes, pétiolées, de forme très variable : entières cordiformes, lobées ou profondément découpées selon les variétés. Elles sont de couleur verte, parfois teintées de rouge ou de violet, et constituent un légume-feuille nutritif dans certaines cultures. Fleurs et reproduction. Les fleurs, rarement produites sous les tropiques, sont en forme d'entonnoir, de couleur blanche, rose ou violette, typiques de la famille des Convolvulacées. La reproduction se fait principalement par bouturage des tiges. Les parties utilisées sont principalement les tubercules comme aliment de base, et les feuilles jeunes comme légume-feuille ou en tisane.",
@@ -4770,8 +4960,10 @@ const plantesData = [
     "familleDescription": "",
     "familleImage": "",
     "familleNum": "33",
-    "toxBadgeColor": "yellow",
-    "toxBadgeText": "Précautions"
+    "toxBadgeColor": "green",
+    "toxBadgeText": "Non toxique",
+    "usageType": "Alimentaire",
+    "maladieSummary": "Immunitaire, Oculaire"
   },
   {
     "id": 98,
@@ -4789,10 +4981,10 @@ const plantesData = [
       "ht": "Patat lanmè"
     },
     "systeme": {
-      "fr": "I. pes-caprae cible préférentiellement le système tégumentaire, avec une spécialisation remarquable "
+      "fr": "Cutané"
     },
-    "toxicite": "caution",
-    "toxiciteLevel": "caution",
+    "toxicite": null,
+    "toxiciteLevel": "safe",
     "sections": {
       "introduction": "Ipomoea pes-caprae (L.) R.Br. (syn. Convolvulus pes-caprae) est une liane native documentée dans le Sud et la Grand'Anse, parfaitement adaptée aux environnements littoraux. Elle appartient à la famille des Convolvulacées, une famille principalement constituée de lianes et d'herbes reconnue pour ses riches usages alimentaires et médicinaux. Cette famille se distingue par une signature phytochimique dominée par les résines glycosidiques, les alcaloïdes ergoline, les anthocyanes et le bêta-carotène. Au sein de cette famille, le genre Ipomoea regroupe des espèces aux propriétés très contrastées : certaines comme la patate douce (Ipomoea batatas) constituent des aliments de base mondiaux, tandis que d'autres renferment des composés psychoactifs puissants nécessitant une vigilance particulière. Ipomoea pes-caprae occupe une position unique dans ce genre par sa spécialisation écologique littorale et ses usages thérapeutiques externes spécifiques aux traumatismes cutanés et aux envenimations marines.",
       "description": "I. pes-caprae est une liane prostrée, rampante, spécialement adaptée aux conditions extrêmes du littoral des Départements du Sud et de la Grand'Anse. Cette adaptation remarquable lui permet de coloniser les dunes mobiles et de résister aux embruns salés. Tiges. Les tiges sont charnues, traînantes, pouvant s'étendre sur plusieurs mètres le long du sable. Elles présentent une capacité remarquable d'enracinement aux nœuds, permettant à la plante de se fixer efficacement dans le substrat sableux instable et de former des colonies étendues qui stabilisent les dunes. Feuilles. Les feuilles sont alternes, épaisses et coriaces, de forme caractéristique bilobée rappelant une empreinte de chèvre — d'où le nom spécifique « pes-caprae ». Cette morphologie particulière et leur texture charnue constituent des adaptations aux conditions de sécheresse et de salinité du milieu dunaire. Fleurs. Les fleurs sont grandes, en forme d'entonnoir, de couleur rose à pourpre, typiques du genre Ipomoea. Elles s'épanouissent généralement le matin et se referment dans l'après-midi, attirant divers pollinisateurs adaptés aux milieux côtiers. Fruit. Le fruit est une capsule sphérique contenant des graines noires, lisses, adaptées à la dispersion par l'eau de mer — un mécanisme qui explique la large distribution pantropicale de l'espèce. Les parties utilisées sont les feuilles, les tiges et les racines.",
@@ -4818,8 +5010,10 @@ const plantesData = [
     "familleDescription": "",
     "familleImage": "",
     "familleNum": "33",
-    "toxBadgeColor": "yellow",
-    "toxBadgeText": "Précautions"
+    "toxBadgeColor": "green",
+    "toxBadgeText": "Non toxique",
+    "usageType": "Médicinale",
+    "maladieSummary": "Cutané"
   },
   {
     "id": 99,
@@ -4839,10 +5033,10 @@ const plantesData = [
       "ht": "Fèy lougarou"
     },
     "systeme": {
-      "fr": "K. pinnata cible principalement les systèmes cardiovasculaire et nerveux. Les applications tradition"
+      "fr": "Nerveux, Cardiovasculaire"
     },
     "toxicite": null,
-    "toxiciteLevel": "safe",
+    "toxiciteLevel": "caution",
     "sections": {
       "introduction": "Kalanchoe pinnata (syn. Bryophyllum pinnatum) est une herbe succulente exotique largement répandue dans les Départements du Sud et de la Grand'Anse d'Haïti, où elle est connue sous le nom créole de « Fèy lougarou ». Cette espèce appartient à la famille des Crassulacées, reconnue pour ses adaptations remarquables aux milieux secs et ses propriétés médicinales puissantes. Au sein de cette famille, K. pinnata fait partie du genre Kalanchoe, un groupe d'herbes et d'arbustes succulents particulièrement valorisés en médecine traditionnelle pour leurs vertus anti-inflammatoires et cicatrisantes. L'espèce est devenue pantropicale par introduction humaine et constitue l'une des plantes médicinales les plus utilisées dans les Caraïbes, malgré les précautions nécessaires liées à sa toxicité potentielle.",
       "description": "K. pinnata est une herbe succulente vivace pouvant atteindre 1 à 2 mètres de hauteur, particulièrement bien adaptée aux conditions chaudes et sèches des basses altitudes haïtiennes. Tiges et port. Les tiges sont dressées, charnues et robustes, présentant une structure succulente caractéristique permettant le stockage de l'eau. Elles supportent le poids des feuilles épaisses et résistent bien aux périodes de sécheresse fréquentes dans le Sud et la Grand'Anse. Feuilles. Les feuilles constituent l'élément le plus distinctif de la plante : opposées, composées pennées avec 3 à 5 folioles charnues de forme ovale à elliptique. Chaque foliole présente des marges crénelées caractéristiques où se développent de petites plantules adventives — une stratégie de reproduction végétative unique permettant à la plante de coloniser rapidement de nouveaux territoires. Ces feuilles épaisses, de couleur vert clair à vert foncé, ont une texture douce et farineuse au toucher. Fleurs. La floraison produit des grappes terminales de fleurs tubulaires pendantes, de couleur rose à rouge-orange, attirant les colibris et autres pollinisateurs locaux. Les fleurs présentent quatre pétales soudés formant un tube caractéristique de la famille. Racines. Le système racinaire est peu profond mais étendu, adapté à la capture rapide des eaux de ruissellement lors des pluies tropicales. Les parties utilisées sont principalement les feuilles et occasionnellement les tiges jeunes.",
@@ -4868,8 +5062,10 @@ const plantesData = [
     "familleDescription": "Avec ses 1 400 espèces réparties en 35 genres, les Crassulacées constituent une famille remarquable d'herbes succulentes adaptées aux milieux arides et semi-arides. Cette famille tropicale et subtropicale se distingue par ses feuilles charnues capables de stocker l'eau et ses propriétés médicinales exceptionnelles. Parmi les genres alimentaires, Sedum fournit des légumes-feuilles dans certaines régions tempérées, tandis que plusieurs espèces de Crassula sont cultivées comme plantes ornementales. Sur le plan thérapeutique, le genre Kalanchoe domine avec ses puissantes propriétés anti-inflammatoires et cicatrisantes, largement exploitées dans les médecines traditionnelles pantropicales. La signature phytochimique de cette famille repose sur des bufadiénolides cardiotoniques, des flavonoïdes comme la quercétine, l'acide malique et des concentrations élevées de calcium — des composés ciblant préférentiellement les systèmes cardiovasculaire et nerveux. Une vigilance particulière s'impose avec certaines espèces du genre Kalanchoe, dont les bufadiénolides peuvent provoquer des troubles cardiaques graves en cas de surdosage, nécessitant un dosage rigoureux et une préparation appropriée.",
     "familleImage": "",
     "familleNum": "34",
-    "toxBadgeColor": "green",
-    "toxBadgeText": "Non toxique"
+    "toxBadgeColor": "yellow",
+    "toxBadgeText": "Conditionnel",
+    "usageType": "Médicinale",
+    "maladieSummary": "Nerveux, Cardiovasculaire"
   },
   {
     "id": 100,
@@ -4887,10 +5083,10 @@ const plantesData = [
       "ht": "Melon"
     },
     "systeme": {
-      "fr": "Selon les observations ethnobotaniques du Sud et de la Grand'Anse, le melon cible principalement le "
+      "fr": "Digestif, Urinaire"
     },
-    "toxicite": "toxic",
-    "toxiciteLevel": "toxic",
+    "toxicite": null,
+    "toxiciteLevel": "safe",
     "sections": {
       "introduction": "Cucumis melo L. (syn. Melo sativus) est une liane herbacée annuelle exotique, cultivée de façon limitée dans les Départements du Sud et de la Grand'Anse. Il appartient à la famille des Cucurbitacées, une grande famille tropicale dominée par des lianes productives aux fruits charnus, reconnue mondialement pour ses genres alimentaires majeurs et ses usages médicinaux diversifiés. Au sein de cette famille, Cucumis melo fait partie du genre Cucumis, qui regroupe plusieurs espèces à fort potentiel alimentaire — notamment le concombre (Cucumis sativus) — toutes caractérisées par leur richesse en eau, en potassium et en composés antioxydants. Dans le contexte haïtien, le melon constitue un fruit rafraîchissant apprécié en saison sèche et un remède traditionnel reconnu pour ses propriétés diurétiques et digestives.",
       "description": "C. melo est une liane herbacée annuelle à croissance rapide, adaptée aux climats chauds et aux sols bien drainés caractéristiques des basses altitudes du Sud et de la Grand'Anse. Tiges et vrilles. Les tiges sont rampantes ou grimpantes, anguleuses, pubescentes, pouvant s'étendre sur plusieurs mètres. Elles portent des vrilles spiralées simples qui permettent à la plante de s'accrocher aux supports naturels ou aux tuteurs en culture. Feuilles. Les feuilles sont alternes, pétiolées, palmatilobées à 3-7 lobes arrondis, de couleur vert clair à vert foncé selon la variété. Elles présentent une surface légèrement rugueuse due à la présence de poils courts. Fleurs. Les fleurs sont unisexuées, portées sur la même plante (espèce monoïque). Les fleurs mâles, plus nombreuses, apparaissent en grappes, tandis que les fleurs femelles sont solitaires. Toutes présentent une corolle jaune à cinq pétales soudés à la base. Fruit et graines. Le fruit est une baie charnue (péponide) de forme variable — sphérique, ovoïde ou allongée — à écorce lisse ou réticulée selon la variété. La chair, généralement orange à blanc-verdâtre, renferme une cavité centrale contenant de nombreuses graines plates et ovales, de couleur crème à brun clair. Les parties utilisées sont principalement le fruit mûr, et occasionnellement les graines.",
@@ -4916,8 +5112,10 @@ const plantesData = [
     "familleDescription": "Dominant les zones tropicales avec plus de 900 espèces réparties en 130 genres, les Cucurbitacées constituent l'une des familles les plus productives sur le plan alimentaire mondial. Ces lianes herbacées annuelles ou vivaces, facilement reconnaissables à leurs vrilles spiralées et leurs fruits charnus, regroupent des genres alimentaires majeurs comme Cucumis (melon, concombre), Cucurbita (courges, citrouilles), Citrullus (pastèque) et Lagenaria (calebasse). Les genres médicinaux incluent notamment Momordica (margose amère), réputé pour ses propriétés antidiabétiques, et Ecballium (concombre d'âne), aux effets purgatifs puissants. Sur le plan phytochimique, cette famille se caractérise par une signature dominée par l'eau, les caroténoïdes, la vitamine C, le potassium et les cucurbitacines — ces dernières étant des triterpènes amers aux propriétés biologiques intenses. Ces composés ciblent préférentiellement les systèmes rénal, digestif et parasitaire. Une vigilance particulière s'impose avec certaines espèces sauvages : les cucurbitacines, présentes en concentrations élevées dans les variétés non cultivées, peuvent provoquer des intoxications graves par leur effet drastiquement purgatif.",
     "familleImage": "",
     "familleNum": "35",
-    "toxBadgeColor": "red",
-    "toxBadgeText": "Toxique"
+    "toxBadgeColor": "green",
+    "toxBadgeText": "Non toxique",
+    "usageType": "Alimentaire et Médicinale",
+    "maladieSummary": "Digestif, Urinaire"
   },
   {
     "id": 101,
@@ -4936,7 +5134,7 @@ const plantesData = [
       "ht": "Jiromon"
     },
     "systeme": {
-      "fr": "Le jiromon cible principalement les systèmes digestif et parasitaire. Les caroténoïdes et tocophérol"
+      "fr": "Digestif, Urinaire, Nerveux"
     },
     "toxicite": null,
     "toxiciteLevel": "safe",
@@ -4966,7 +5164,9 @@ const plantesData = [
     "familleImage": "",
     "familleNum": "35",
     "toxBadgeColor": "green",
-    "toxBadgeText": "Non toxique"
+    "toxBadgeText": "Non toxique",
+    "usageType": "Alimentaire et Médicinale",
+    "maladieSummary": "Digestif, Urinaire, Nerveux"
   },
   {
     "id": 102,
@@ -4985,10 +5185,10 @@ const plantesData = [
       "ht": "Tòchon"
     },
     "systeme": {
-      "fr": "L. acutangula cible principalement le système digestif et le système urinaire selon les usages docum"
+      "fr": "Digestif, Urinaire"
     },
-    "toxicite": "unknown",
-    "toxiciteLevel": "unknown",
+    "toxicite": null,
+    "toxiciteLevel": "caution",
     "sections": {
       "introduction": "Luffa acutangula (L.) (syn. Cucumis acutangulus) est une liane exotique pantropicale, rare dans les Départements du Sud et de la Grand'Anse, où elle est cultivée pour ses fruits comestibles et utilitaires. Elle appartient à la famille des Cucurbitacées, dominée par les lianes et remarquable pour ses riches usages alimentaires et médicinaux. Cette famille se caractérise phytochimiquement par ses fruits riches en eau, potassium, vitamine C et fer, ciblant préférentiellement les systèmes rénal, digestif et parasitaire. Il convient de noter que certaines espèces de cette famille — notamment les variétés sauvages ou amères — renferment des cucurbitacines, triterpènes amers fortement purgatifs et potentiellement toxiques, exigeant une préparation adéquate. Au sein de cette famille, Luffa acutangula fait partie du genre Luffa, groupe de lianes tropicales remarquables pour leurs fruits à structure fibreuse utilisés tant comme légumes que comme éponges naturelles. L. acutangula présente un double usage dans les deux départements : alimentaire lorsque le fruit est jeune et tendre, utilitaire une fois le fruit arrivé à maturité et séché.",
       "description": "L. acutangula est une liane grimpante annuelle pouvant s'étendre sur plusieurs mètres de longueur dans les conditions favorables des basses altitudes haïtiennes. Tiges et vrilles. Les tiges sont anguleuses — d'où l'épithète spécifique « acutangula » — striées et munies de vrilles ramifiées qui permettent à la plante de s'accrocher efficacement aux supports verticaux. Cette adaptation lui permet de coloniser rapidement les treillages et les clôtures dans les jardins du Sud et de la Grand'Anse. Feuilles. Les feuilles sont alternes, palmatilobées, à 5-7 lobes peu profonds, de texture rugueuse au toucher. Elles présentent une surface légèrement pubescente et des nervures bien marquées. Fleurs. La plante est monoïque, portant des fleurs mâles et femelles séparées sur le même individu. Les fleurs sont jaunes, à cinq pétales, les mâles groupées en grappes, les femelles solitaires et plus grandes. Fruits. Le fruit constitue la partie la plus remarquable de la plante : cylindrique, côtelé longitudinalement avec 8-10 arêtes saillantes, mesurant 15-30 cm de longueur. Jeune, il est vert, tendre et comestible. Mature, il devient fibreux, sec et brun, révélant un réseau de fibres de cellulose utilisé comme éponge naturelle. Graines. Les graines sont plates, ovales, noires à maturité, enchâsées dans la pulpe fibreuse du fruit mature. Les parties utilisées sont les fruits jeunes (alimentation), les fruits secs (éponge), les feuilles (usage médicinal traditionnel) et les graines.",
@@ -5015,7 +5215,9 @@ const plantesData = [
     "familleImage": "",
     "familleNum": "35",
     "toxBadgeColor": "yellow",
-    "toxBadgeText": "Données insuffisantes"
+    "toxBadgeText": "Conditionnel",
+    "usageType": "Alimentaire et Médicinale",
+    "maladieSummary": "Digestif, Urinaire"
   },
   {
     "id": 103,
@@ -5036,10 +5238,10 @@ const plantesData = [
       "ht": "Asosi"
     },
     "systeme": {
-      "fr": "M. charantia cible principalement le système endocrinien et la régulation glycémique. Les études doc"
+      "fr": "Endocrinien"
     },
-    "toxicite": "toxic",
-    "toxiciteLevel": "toxic",
+    "toxicite": null,
+    "toxiciteLevel": "safe",
     "sections": {
       "introduction": "Momordica charantia L. (syn. Momordica indica) est une liane exotique pantropicale, abondante dans les Départements du Sud et de la Grand'Anse. Elle appartient à la famille des Cucurbitacées, une grande famille végétale dominée par les lianes et reconnue pour ses multiples usages alimentaires et médicinaux. Cette famille se caractérise par une composition phytochimique marquée par une forte teneur en eau, potassium, vitamine C et fer, ciblant préférentiellement les systèmes rénal, digestif et parasitaire. Cependant, certaines espèces de cette famille — notamment les variétés sauvages ou amères — renferment des cucurbitacines, des triterpènes amers potentiellement toxiques, exigeant une vigilance particulière. Au sein de cette famille, M. charantia fait partie du genre Momordica, un groupe de lianes tropicales dont plusieurs espèces sont utilisées traditionnellement pour leurs propriétés antidiabétiques et digestives. L'« asosi » constitue l'une des plantes médicinales les plus documentées scientifiquement d'Haïti, particulièrement reconnue pour ses effets hypoglycémiants.",
       "description": "M. charantia est une liane herbacée annuelle grimpante pouvant atteindre 2 à 4 mètres de longueur, particulièrement adaptée aux climats chauds et humides des basses altitudes haïtiennes. Tiges et vrilles. La tige est angulaire, striée et pubescente, portant des vrilles simples qui permettent à la plante de s'accrocher aux supports. Ces vrilles naissent à l'aisselle des feuilles et constituent l'adaptation caractéristique des Cucurbitacées à la vie grimpante. Feuilles. Les feuilles sont alternes, palmatilobées, profondément découpées en 5 à 7 lobes dentés. Elles mesurent généralement 4 à 12 cm de diamètre et présentent une texture rugueuse caractéristique. Fleurs. Les fleurs sont unisexuées, jaunes, portées par des pédoncules grêles. Les fleurs mâles apparaissent en grappes tandis que les fleurs femelles sont solitaires, toutes deux présentes sur la même plante (espèce monoïque). Fruit. Le fruit constitue la partie la plus distinctive : oblong, fusiforme, couvert de tubercules ou de côtes longitudinales irrégulières, mesurant 8 à 25 cm de longueur. À maturité, il s'ouvre spontanément en trois valves, révélant des graines plates entourées d'un arille rouge vif. La couleur du fruit varie du vert au jaune-orange selon la maturité. Les parties utilisées dans les pratiques locales sont principalement les fruits, les feuilles et les graines.",
@@ -5065,8 +5267,10 @@ const plantesData = [
     "familleDescription": "",
     "familleImage": "",
     "familleNum": "35",
-    "toxBadgeColor": "red",
-    "toxBadgeText": "Toxique"
+    "toxBadgeColor": "green",
+    "toxBadgeText": "Non toxique",
+    "usageType": "Alimentaire et Médicinale",
+    "maladieSummary": "Endocrinien"
   },
   {
     "id": 104,
@@ -5084,10 +5288,10 @@ const plantesData = [
       "ht": "Militon"
     },
     "systeme": {
-      "fr": "Le militon cible préférentiellement le système cardiovasculaire et les fonctions rénales. Les usages"
+      "fr": "Urinaire, Cardiovasculaire"
     },
-    "toxicite": "unknown",
-    "toxiciteLevel": "unknown",
+    "toxicite": null,
+    "toxiciteLevel": "safe",
     "sections": {
       "introduction": "Sechium edule (Jacq.) (syn. Chayota edulis, Sicyos edulis) est une liane exotique cultivée dans les Départements du Sud et de la Grand'Anse, où elle fait l'objet d'une production rare mais appréciée. Elle appartient à la famille des Cucurbitacées, une famille tropicale dominée par les lianes et reconnue pour ses riches usages alimentaires et médicinaux. Au sein de cette famille, S. edule fait partie du genre Sechium, qui ne compte qu'une seule espèce largement cultivée. Le militon est à la fois un légume de subsistance et une plante médicinale traditionnellement utilisée contre l'hypertension, illustrant parfaitement la dualité alimentaire-thérapeutique caractéristique de nombreuses Cucurbitacées.",
       "description": "S. edule est une liane vigoureuse à croissance rapide, pouvant atteindre plusieurs mètres de longueur dans les conditions favorables du Sud et de la Grand'Anse. Tiges et système d'ancrage. Les tiges sont herbacées, anguleuses et munies de vrilles ramifiées qui permettent à la plante de s'accrocher efficacement aux supports. Cette adaptation est cruciale dans les jardins créoles où la plante grimpe souvent sur les clôtures, les tonnelles ou les arbres de bordure. Feuilles. Les feuilles sont larges, cordiformes à 5 lobes peu marqués, de texture légèrement rugueuse au toucher. Leur couleur vert franc et leur taille importante en font un organe photosynthétique efficace, adapté aux zones partiellement ombragées des jardins haïtiens. Fleurs. La plante est monoïque, portant des fleurs mâles et femelles séparées sur le même individu. Les fleurs sont petites, jaunâtres à verdâtres, et s'épanouissent discrètement le long des tiges. Fruit. Le fruit constitue la partie la plus remarquable de la plante : piriforme, de couleur vert pâle à blanc-verdâtre, d'une taille variant de 10 à 20 cm de longueur. Sa surface est lisse et sa chair ferme présente une texture unique, légèrement croquante même après cuisson. Le fruit ne contient qu'une seule graine volumineuse, caractéristique distinctive du genre. Les parties utilisées sont principalement le fruit immature et les jeunes feuilles.",
@@ -5113,8 +5317,10 @@ const plantesData = [
     "familleDescription": "",
     "familleImage": "",
     "familleNum": "35",
-    "toxBadgeColor": "yellow",
-    "toxBadgeText": "Données insuffisantes"
+    "toxBadgeColor": "green",
+    "toxBadgeText": "Non toxique",
+    "usageType": "Alimentaire et Médicinale",
+    "maladieSummary": "Urinaire, Cardiovasculaire"
   },
   {
     "id": 105,
@@ -5133,10 +5339,10 @@ const plantesData = [
       "ht": "-"
     },
     "systeme": {
-      "fr": "Aucun système physiologique spécifique n'est documenté pour Tapura haitiensis dans la littérature sc"
+      "fr": "Médicinal"
     },
-    "toxicite": "unknown",
-    "toxiciteLevel": "unknown",
+    "toxicite": null,
+    "toxiciteLevel": "safe",
     "sections": {
       "introduction": "Tapura haitiensis est un arbuste à petit arbre endémique strict d'Haïti, appartenant à la famille des Dichapetalacées. Cette espèce remarquable ne se rencontre nulle part ailleurs sur Terre et représente l'une des raretés botaniques les plus précieuses des Départements du Sud et de la Grand'Anse. Au sein de cette petite famille tropicale, elle fait partie du genre Tapura, qui regroupe une trentaine d'espèces néotropicales dont la plupart demeurent scientifiquement sous-étudiées. Son statut d'endémique strict et sa rareté extrême font de T. haitiensis une espèce prioritaire pour la conservation de la biodiversité haïtienne, particulièrement dans le contexte des pressions environnementales croissantes sur les écosystèmes montagnards du pays.",
       "description": "T. haitiensis est un arbuste à petit arbre de moyenne à haute altitude, typique des formations forestières du Massif de la Hotte dans la Grand'Anse. Sa morphologie s'inscrit dans les caractéristiques générales du genre Tapura, avec des adaptations spécifiques aux conditions écologiques haïtiennes. Tiges et port. L'espèce développe un port arbustif à arborescent, avec des tiges ligneuses et une ramification caractéristique des Dichapetalacées. L'écorce présente une texture et une coloration variables selon l'âge des rameaux. Feuilles. Les feuilles sont simples, alternes et persistantes, avec un limbe coriace adapté aux conditions de moyenne et haute altitude. Leur forme et leurs dimensions restent à documenter précisément sur le terrain. Fleurs et reproduction. Comme les autres membres de la famille, T. haitiensis produit probablement de petites fleurs discrètes, organisées en inflorescences. Les modalités de sa reproduction et de sa pollinisation constituent un domaine de recherche prioritaire pour comprendre sa biologie de conservation. Fruit. Le fruit, probablement drupacé selon les caractéristiques du genre, représente un élément clé pour l'identification et la compréhension de la dissémination de l'espèce. Les parties potentiellement utilisables restent non documentées dans les pratiques locales actuelles.",
@@ -5162,8 +5368,10 @@ const plantesData = [
     "familleDescription": "Les Dichapetalacées constituent une petite famille tropicale comprenant environ 165 espèces réparties en trois genres principaux : Dichapetalum, Tapura et Stephanopodium. Dominée par des arbustes et arbres à feuilles simples et alternes, cette famille se distingue par ses fleurs petites et ses fruits drupacés souvent colorés. Sur le plan ethnobotanique, plusieurs espèces du genre Dichapetalum sont traditionnellement utilisées en médecine africaine pour traiter diverses affections, tandis que certaines espèces américaines du genre Tapura restent largement sous-étudiées. La composition phytochimique de cette famille demeure variable et incomplètement caractérisée, avec des composés phénoliques, des triterpènes et des saponines documentés chez certaines espèces. Les systèmes physiologiques ciblés varient selon les espèces et les régions d'usage. Il convient de noter une vigilance particulière concernant certaines espèces du genre Dichapetalum qui renferment des composés cyanogéniques potentiellement toxiques, nécessitant une identification botanique rigoureuse avant tout usage.",
     "familleImage": "",
     "familleNum": "36",
-    "toxBadgeColor": "yellow",
-    "toxBadgeText": "Données insuffisantes"
+    "toxBadgeColor": "green",
+    "toxBadgeText": "Non toxique",
+    "usageType": "Médicinale",
+    "maladieSummary": ""
   },
   {
     "id": 106,
@@ -5181,10 +5389,10 @@ const plantesData = [
       "ht": "Ti ponpon"
     },
     "systeme": {
-      "fr": "A. alopecuroides cible principalement le système digestif, avec une efficacité documentée contre l'i"
+      "fr": "Digestif, Urinaire"
     },
-    "toxicite": "unknown",
-    "toxiciteLevel": "unknown",
+    "toxicite": null,
+    "toxiciteLevel": "safe",
     "sections": {
       "introduction": "Acalypha alopecuroides (syn. Ricinocarpus alopecuroides, Acalypha alopecuroidea) est une herbe native commune des Caraïbes et d'Amérique tropicale, documentée dans les Départements du Sud et de la Grand'Anse d'Haïti. Elle appartient à la famille des Euphorbiacées, cette vaste famille tropicale de plus de 7 000 espèces reconnue pour ses riches usages alimentaires et médicinaux, mais aussi pour ses risques toxicologiques élevés. Au sein de cette famille, elle fait partie du genre Acalypha, un groupe d'herbes et arbustes largement distribués dans les régions chaudes du globe, réputés pour leurs propriétés anti-inflammatoires et antimicrobiennes. Son nom créole « Ti ponpon » évoque probablement l'aspect de ses inflorescences dressées. Dans les Départements du Sud et de la Grand'Anse, elle est principalement utilisée comme plante médicinale digestive, particulièrement appréciée pour traiter l'indigestion et les gaz intestinaux sous forme d'infusion amère.",
       "description": "A. alopecuroides est une herbe de basse altitude, à saveur aromatique, observée dans divers habitats des Départements du Sud et de la Grand'Anse. Tiges et racines. Les tiges sont dressées, herbacées, souvent ramifiées à la base. Comme chez la plupart des Euphorbiacées, la plante peut sécréter un latex blanc lorsqu'elle est blessée, bien que moins abondant que chez les espèces ligneuses de la famille. Les racines sont pivotantes et fibreuses. Feuilles. Les feuilles sont alternes, simples, généralement ovales à lancéolées, avec des bords dentés caractéristiques. Leur surface est souvent rugueuse au toucher, et elles dégagent une odeur aromatique particulière lorsqu'on les froisse, signe distinctif de cette espèce. Fleurs. L'inflorescence est l'élément le plus caractéristique de la plante : elle forme de longs épis dressés, cylindriques, ressemblant à des queues d'animaux — d'où le nom français « Queue de chat ». Ces épis portent de nombreuses petites fleurs unisexuées, les mâles et femelles étant séparées sur la même inflorescence (plante monoïque). Fruit et graines. Le fruit est une petite capsule à trois loges contenant des graines ovoïdes, dispersées par déhiscence explosive — mécanisme typique des Euphorbiacées. Les parties utilisées dans les pratiques locales sont les feuilles, les tiges et les racines.",
@@ -5210,8 +5418,10 @@ const plantesData = [
     "familleDescription": "Dominant les écosystèmes tropicaux avec plus de 7 000 espèces réparties en 300 genres, les Euphorbiacées constituent l'une des familles les plus diversifiées et économiquement importantes de la flore haïtienne. Cette famille rassemble principalement des herbes, arbustes et arbres caractérisés par leur latex blanc souvent abondant et leurs inflorescences en cyathes. Les genres à vocation alimentaire comprennent Manihot (manioc), base nutritionnelle fondamentale en Haïti, et Cnidoscolus (chaya). Les genres médicinaux incluent Acalypha, Croton, Euphorbia et Phyllanthus, largement utilisés dans la pharmacopée traditionnelle des Départements du Sud et de la Grand'Anse. Sur le plan phytochimique, cette famille se distingue par sa richesse en diterpènes irritants (phorbols, ingols), latex caustique, tanins, flavonoïdes et triterpènes, ciblant préférentiellement les systèmes digestif, tégumentaire et cutané. Une vigilance extrême s'impose car plusieurs genres — Jatropha, Ricinus, Hura et particulièrement Hippomane — renferment des principes actifs mortels, faisant des Euphorbiacées une famille à très haut risque toxicologique.",
     "familleImage": "",
     "familleNum": "37",
-    "toxBadgeColor": "yellow",
-    "toxBadgeText": "Données insuffisantes"
+    "toxBadgeColor": "green",
+    "toxBadgeText": "Non toxique",
+    "usageType": "Médicinale",
+    "maladieSummary": "Digestif, Urinaire"
   },
   {
     "id": 107,
@@ -5232,10 +5442,10 @@ const plantesData = [
       "ht": "-"
     },
     "systeme": {
-      "fr": "C. ciliatoglandulifer cible préférentiellement le système cutané. Il est documenté dans le Sud et la"
+      "fr": "Cutané"
     },
-    "toxicite": "toxic",
-    "toxiciteLevel": "toxic",
+    "toxicite": null,
+    "toxiciteLevel": "caution",
     "sections": {
       "introduction": "Croton ciliatoglandulifer Ortega (syn. Oxydectes ciliatoglandulosa) est un arbuste natif documenté principalement dans la Grand'Anse et rare dans le Sud. Il appartient à la famille des Euphorbiacées, une famille végétale particulièrement bien représentée dans les Départements du Sud et de la Grand'Anse, où elle joue un rôle central tant sur le plan alimentaire (manioc) qu'ethnopharmacologique. Cette famille se caractérise par ses latex souvent caustiques et ses diterpènes irritants, nécessitant des précautions d'usage strictes. Au sein de cette famille, le genre Croton regroupe plusieurs centaines d'espèces d'arbustes et de petits arbres, dont beaucoup produisent des résines aromatiques et des latex aux propriétés thérapeutiques reconnues. Croton ciliatoglandulifer est utilisé localement comme plante médicinale externe, principalement pour ses propriétés cicatrisantes et désinfectantes, bien que son latex irritant impose des précautions d'usage.",
       "description": "C. ciliatoglandulifer est un arbuste de taille moyenne, adaptée aux altitudes moyennes des massifs du Sud et de la Grand'Anse. Tiges et écorce. L'arbuste développe des branches ligneuses qui sécrètent un latex coloré lorsqu'elles sont blessées. Cette sève constitue l'un des éléments distinctifs de l'espèce et la source principale de ses usages thérapeutiques locaux. Feuilles. Les feuilles sont alternes, simples, et présentent des caractéristiques morphologiques typiques du genre Croton. Elles dégagent une saveur amère caractéristique lorsqu'elles sont mâchées, témoignant de la richesse en composés secondaires de la plante. Fleurs. Les fleurs sont groupées en inflorescences terminales, avec des fleurs mâles et femelles séparées sur la même plante (monoïque), caractéristique commune aux Euphorbiacées. Fruit. Le fruit est une capsule qui s'ouvre en trois valves à maturité, libérant des graines contenant des substances actives concentrées. Les parties utilisées dans les pratiques traditionnelles sont principalement les feuilles et la sève (latex).",
@@ -5261,8 +5471,10 @@ const plantesData = [
     "familleDescription": "",
     "familleImage": "",
     "familleNum": "37",
-    "toxBadgeColor": "red",
-    "toxBadgeText": "Toxique"
+    "toxBadgeColor": "yellow",
+    "toxBadgeText": "Conditionnel",
+    "usageType": "Médicinale",
+    "maladieSummary": "Cutané"
   },
   {
     "id": 108,
@@ -5280,10 +5492,10 @@ const plantesData = [
       "ht": "Womaren"
     },
     "systeme": {
-      "fr": "Croton linearis cible préférentiellement le système respiratoire, conformément aux usages traditionn"
+      "fr": "Respiratoire, Immunitaire, Reproducteur"
     },
-    "toxicite": "toxic",
-    "toxiciteLevel": "toxic",
+    "toxicite": null,
+    "toxiciteLevel": "safe",
     "sections": {
       "introduction": "Croton linearis Jacq. (syn. Croton cascarilla, Oxydectes linearis) est un arbuste indigène commun des Caraïbes et de l'Amérique tropicale, documenté dans le Sud et la Grand'Anse d'Haïti. Il appartient à la famille des Euphorbiacées, une vaste famille dominée par les herbes, arbustes et arbres, particulièrement représentée dans la flore du grand Sud haïtien. Cette famille se caractérise par ses riches usages alimentaires — notamment le manioc —, médicinaux et spirituels, soutenus par une signature phytochimique dominée par les diterpènes, les tanins, les flavonoïdes et les terpènes, ciblant préférentiellement les systèmes digestif, tégumentaire et cutané. Toutefois, les Euphorbiacées exigent une vigilance particulière : de nombreuses espèces renferment des principes actifs très puissants, voire mortels. Les genres Jatropha et Ricinus produisent des graines létales, Hippomane mancinella figure parmi les plantes les plus dangereuses au monde, et beaucoup d'Euphorbia sécrètent un latex caustique et irritant. Au sein de cette famille, Croton linearis fait partie du genre Croton, un groupe d'arbustes aromatiques tropicaux réputés pour leurs huiles essentielles et leurs propriétés médicinales. Le « womaren » constitue une plante médicinale traditionnelle importante, principalement utilisée pour les affections respiratoires par voie orale et dans les bains thérapeutiques.",
       "description": "C. linearis est un arbuste de basse altitude, au port buissonnant et ramifié, caractérisé par son feuillage aromatique et sa résistance aux conditions côtières. Tiges et écorce. Les tiges sont ligneuses, ramifiées dès la base, formant un buisson dense. L'écorce est grisâtre à brunâtre, légèrement rugueuse, et dégage une odeur aromatique caractéristique lorsqu'elle est blessée. Cette propriété aromatique, commune au genre Croton, provient de la richesse en huiles essentielles des tissus. Feuilles. Les feuilles sont alternes, simples, linéaires à lancéolées — d'où l'épithète spécifique « linearis ». Elles sont coriaces, persistantes, de couleur vert grisâtre à vert argenté, souvent couvertes d'un tomentum blanchâtre sur la face inférieure. Cette pilosité constitue une adaptation aux environnements côtiers ventés et salins du Sud et de la Grand'Anse. Les feuilles dégagent une forte odeur aromatique au froissement, rappelant celle du romarin — d'où le nom français « romarin de côte ». Fleurs. Les inflorescences sont des épis terminaux portant de petites fleurs unisexuées, les mâles et femelles étant généralement présentes sur la même plante (espèce monoïque). Les fleurs mâles, plus nombreuses, occupent la partie supérieure de l'épi, tandis que les fleurs femelles se trouvent à la base. Fruit. Le fruit est une capsule triloculaire typique des Euphorbiacées, contenant généralement trois graines. À maturité, la capsule s'ouvre de façon explosive, projetant les graines à distance — mécanisme de dissémination efficace dans les milieux ouverts. Les parties utilisées dans les pratiques traditionnelles sont les feuilles, l'écorce et les racines.",
@@ -5309,8 +5521,10 @@ const plantesData = [
     "familleDescription": "",
     "familleImage": "",
     "familleNum": "37",
-    "toxBadgeColor": "red",
-    "toxBadgeText": "Toxique"
+    "toxBadgeColor": "green",
+    "toxBadgeText": "Non toxique",
+    "usageType": "Médicinale",
+    "maladieSummary": "Respiratoire, Immunitaire, Reproducteur"
   },
   {
     "id": 109,
@@ -5328,10 +5542,10 @@ const plantesData = [
       "ht": "Malonmen"
     },
     "systeme": {
-      "fr": "E. hirta cible préférentiellement les systèmes digestif et respiratoire. Au niveau digestif, elle es"
+      "fr": "Digestif, Respiratoire"
     },
-    "toxicite": "caution",
-    "toxiciteLevel": "caution",
+    "toxicite": null,
+    "toxiciteLevel": "safe",
     "sections": {
       "introduction": "Euphorbia hirta L. (syn. Chamaesyce hirta) est une herbe native abondante des Départements du Sud et de la Grand'Anse, appartenant à la famille des Euphorbiacées. Au sein de cette famille, elle fait partie du vaste genre Euphorbia, qui regroupe plus de 2000 espèces d'herbes, d'arbustes et d'arbres caractérisés par leur latex blanc souvent irritant et leurs inflorescences particulières appelées cyathes. Contrairement à certaines espèces dangereuses du genre comme Euphorbia pulcherrima ou les espèces succulentes ornementales, E. hirta présente une toxicité modérée et constitue l'une des plantes médicinales les plus utilisées dans les médecines traditionnelles tropicales. Localement appelée « Malonmen », cette herbe adventice est documentée dans le Sud et la Grand'Anse principalement pour ses propriétés antidiarrhéiques, antiasthmatiques et antimicrobiennes, particulièrement contre les amibes.",
       "description": "E. hirta est une herbe annuelle dressée ou prostrée, de taille modeste, pouvant atteindre 30 à 40 cm de hauteur, très commune dans les zones rudérales et les terrains perturbés des Départements du Sud et de la Grand'Anse. Tiges et latex. Les tiges sont rougeâtres, poilues et ramifiées, contenant un latex blanc caractéristique qui s'écoule lors de toute blessure. Ce latex, moins caustique que celui d'autres Euphorbia, constitue néanmoins un système de défense efficace contre les herbivores. Feuilles. Les feuilles sont opposées, petites, ovales à oblongues, finement dentées sur les bords et couvertes de poils courts. Elles présentent souvent des taches pourpres caractéristiques et dégagent une odeur âcre lorsqu'on les froisse. Fleurs. Les fleurs sont minuscules, groupées en cyathes — structures florales complexes typiques des Euphorbiacées — disposées en glomérules axillaires. Chaque cyathe simule une fleur unique mais contient en réalité plusieurs fleurs mâles réduites à une étamine et une fleur femelle réduite à un pistil. Fruit et graines. Le fruit est une petite capsule trilobée qui expulse violemment ses graines à maturité, assurant ainsi la dispersion de l'espèce. Les graines sont petites, anguleuses et de couleur brune. Les parties utilisées sont les feuilles, les tiges et les racines, récoltées de préférence sur des plants jeunes et vigoureux.",
@@ -5357,8 +5571,10 @@ const plantesData = [
     "familleDescription": "",
     "familleImage": "",
     "familleNum": "37",
-    "toxBadgeColor": "yellow",
-    "toxBadgeText": "Précautions"
+    "toxBadgeColor": "green",
+    "toxBadgeText": "Non toxique",
+    "usageType": "Médicinale",
+    "maladieSummary": "Digestif, Respiratoire"
   },
   {
     "id": 110,
@@ -5376,10 +5592,10 @@ const plantesData = [
       "ht": "Kandelab"
     },
     "systeme": {
-      "fr": "E. lactea cible principalement le système tégumentaire dans ses applications thérapeutiques document"
+      "fr": "Médicinal"
     },
-    "toxicite": "toxic",
-    "toxiciteLevel": "toxic",
+    "toxicite": null,
+    "toxiciteLevel": "safe",
     "sections": {
       "introduction": "Euphorbia lactea Haw. (syn. Euphorbia fastigiata) est un arbuste succulent exotique, pantropical, documenté dans les Départements du Sud et de la Grand'Anse où il est principalement utilisé comme plante de clôture et occasionnellement à des fins médicinales externes malgré sa toxicité. Il appartient à la famille des Euphorbiacées, vaste famille de plus de 2000 espèces comprenant des genres alimentaires majeurs comme le manioc (Manihot esculenta), des espèces médicinales traditionnelles telles que les euphorbes, et des plantes ornementales répandues. Cette famille se caractérise par une diversité morphologique remarquable — des herbes succulentes aux grands arbres — et par une signature phytochimique dominée par les diterpènes irritants, les esters de phorbol et un latex souvent caustique. Les systèmes préférentiellement ciblés sont le tégumentaire, le digestif et le cutané. Une vigilance extrême s'impose car plusieurs genres renferment des principes actifs mortels : Hippomane mancinella (mancenillier), Hura crepitans (sablier), Jatropha curcas (médicinier) et Ricinus communis (ricin) figurent parmi les plantes les plus dangereuses de la flore tropicale. Au sein du genre Euphorbia, E. lactea fait partie des espèces cactiformes ornementales, caractérisées par leur port dressé en candélabre et leur latex particulièrement irritant.",
       "description": "E. lactea est un arbuste succulent cactiforme pouvant atteindre 3 à 5 mètres de hauteur dans les conditions favorables des zones sèches d'Haïti. Tiges et structure. La plante présente un port caractéristique en candélabre, d'où son nom vernaculaire français. Les tiges principales sont dressées, charnues, angulaires avec 3 à 4 côtes marquées, de couleur vert glauque souvent marbrée de blanc. Les arêtes portent des épines courtes disposées par paires. Le latex blanc, abondant et caustique, s'écoule immédiatement à toute blessure des tissus — mécanisme de défense contre les herbivores. Feuilles. Les feuilles sont très réduites, caduques, apparaissant brièvement au sommet des jeunes pousses avant de tomber rapidement. Cette réduction foliaire constitue une adaptation à la sécheresse. Fleurs et reproduction. Les inflorescences, appelées cyathes, sont caractéristiques des Euphorbiacées : de petites structures en forme de coupe contenant des fleurs mâles réduites à une étamine et une fleur femelle centrale réduite au pistil. Ces cyathes apparaissent au sommet des tiges durant la saison sèche. Système racinaire. Les racines sont peu profondes mais étendues, permettant une collecte efficace de l'eau de pluie — adaptation typique des zones arides. Les parties utilisées sont principalement les tiges et leur latex, bien que ce dernier présente une toxicité importante nécessitant des précautions d'usage strictes.",
@@ -5405,8 +5621,10 @@ const plantesData = [
     "familleDescription": "",
     "familleImage": "",
     "familleNum": "37",
-    "toxBadgeColor": "red",
-    "toxBadgeText": "Toxique"
+    "toxBadgeColor": "green",
+    "toxBadgeText": "Non toxique",
+    "usageType": "Médicinale",
+    "maladieSummary": ""
   },
   {
     "id": 111,
@@ -5424,10 +5642,10 @@ const plantesData = [
       "ht": "Mansenilye"
     },
     "systeme": {
-      "fr": "Les phorbol-esters de H. mancinella activent puissamment la protéine kinase C (PKC) et déclenchent d"
+      "fr": "Digestif, Respiratoire, Cutané"
     },
     "toxicite": "toxic",
-    "toxiciteLevel": "toxic",
+    "toxiciteLevel": "danger",
     "sections": {
       "introduction": "Hippomane mancinella L. (syn. Mancinella venenata) est un arbre côtier natif des Départements du Sud et de la Grand'Anse, appartenant à la famille des Euphorbiacées. Cette famille, composée majoritairement d'herbes, d'arbustes et d'arbres, occupe une place centrale dans la flore du grand sud d'Haïti par ses riches usages alimentaires — comme le manioc (Manihot esculenta) —, médicinaux et spirituels. Cependant, elle abrite également certaines des plantes les plus dangereuses au monde. Sur le plan phytochimique, les Euphorbiacées se distinguent par leur production de latex caustique, de diterpènes irritants (phorbols, ingols), d'alcaloïdes et de cyanogènes chez certaines espèces comme le manioc amer. Cette signature chimique cible préférentiellement les systèmes digestif, tégumentaire et cutané. La famille exige une vigilance extrême car plusieurs genres — Jatropha, Ricinus, Hura et particulièrement Hippomane — renferment des graines mortelles et des latex hautement toxiques. Au sein de cette famille à risque, Hippomane mancinella détient le triste record d'être considéré comme l'un des arbres les plus dangereux de la planète. Malgré quelques usages antimicrobiens et analgésiques externes rapportés dans la tradition caribéenne, son usage est formellement proscrit en raison de sa toxicité extrême.",
       "description": "H. mancinella est un arbre de taille moyenne des zones littorales, reconnaissable par sa silhouette caractéristique et ses fruits ressemblant à de petites pommes vertes — d'où son surnom anglais « manchineel apple tree ». Dans les Départements du Sud et de la Grand'Anse, il colonise préférentiellement les zones côtières sableuses et les mangroves. Tronc et écorce. Le tronc peut atteindre 50 cm de diamètre, recouvert d'une écorce gris-brun qui sécrète abondamment un latex blanc laiteux au moindre contact. Ce latex, caractéristique des Euphorbiacées, constitue le principal danger de la plante. Feuilles. Les feuilles sont simples, alternes, ovales à elliptiques, de 5 à 10 cm de longueur, avec des bords finement dentés. Elles sont portées par un pétiole rougeâtre et dégagent une odeur désagréable au froissement. Leur surface brillante permet de les distinguer d'autres espèces côtières moins dangereuses. Fleurs. Les fleurs sont unisexuées, disposées en épis terminaux (chatons), les fleurs mâles en partie supérieure et les femelles à la base — organisation typique des Euphorbiacées. La floraison se produit généralement en saison sèche. Fruit. Le fruit constitue le piège le plus redoutable de la plante : il ressemble à une petite pomme verte de 2 à 4 cm de diamètre, d'apparence attrayante mais mortellement toxique. La pulpe dégage une odeur douce trompeuse qui peut attirer les enfants et les animaux non avertis. Les parties utilisées traditionnellement — toujours avec un risque vital — sont l'écorce, le latex et les feuilles.",
@@ -5454,7 +5672,9 @@ const plantesData = [
     "familleImage": "",
     "familleNum": "37",
     "toxBadgeColor": "red",
-    "toxBadgeText": "Toxique"
+    "toxBadgeText": "Toxique",
+    "usageType": "Médicinale",
+    "maladieSummary": "Digestif, Respiratoire, Cutané"
   },
   {
     "id": 112,
@@ -5475,10 +5695,10 @@ const plantesData = [
       "ht": "Sabliye"
     },
     "systeme": {
-      "fr": "Les systèmes principalement affectés par H. crepitans sont le système digestif et le système tégumen"
+      "fr": "Digestif, Cutané"
     },
     "toxicite": "toxic",
-    "toxiciteLevel": "toxic",
+    "toxiciteLevel": "danger",
     "sections": {
       "introduction": "Hura crepitans L. (syn. Hura brasiliensis) est un grand arbre natif d'Amérique tropicale, présent dans les Caraïbes et documenté dans les Départements du Sud et de la Grand'Anse d'Haïti. Il appartient à la famille des Euphorbiacées, une famille majoritairement composée d'herbes, d'arbustes et d'arbres, particulièrement riche dans la flore du grand sud haïtien. Cette famille se distingue par ses riches usages alimentaires, médicinaux et spirituels, mais également par ses composés chimiques puissants : diterpènes, terpènes, tanins et flavonoïdes, ciblant préférentiellement les systèmes digestif et tégumentaire. Une vigilance extrême s'impose avec cette famille car de nombreuses espèces — notamment Jatropha, Ricin, et surtout Hippomane mancinella — renferment des principes actifs mortels dans leurs graines ou leur latex caustique. Au sein de cette famille, Hura crepitans fait partie du genre Hura et constitue l'une des espèces les plus redoutables par sa toxicité. Connu localement sous le nom de « Sabliye », cet arbre est utilisé en médecine traditionnelle comme purgatif et antiparasitaire, mais son usage représente un danger considérable en raison de la toxicité extrême de ses graines et de son latex.",
       "description": "H. crepitans est un grand arbre tropical imposant, pouvant atteindre 30 à 60 mètres de hauteur dans son habitat naturel, caractérisé par sa silhouette majestueuse et ses adaptations défensives remarquables. Tronc et écorce. Le tronc est massif, pouvant dépasser 1 mètre de diamètre, recouvert d'une écorce gris-brun distinctive hérissée d'épines coniques robustes. Ces épines, longues de plusieurs centimètres, constituent un mécanisme de défense mécanique contre les herbivores. L'écorce sécrète un latex blanc abondant lorsqu'elle est blessée. Feuilles. Les feuilles sont simples, alternes, largement ovales à cordiformes, de 10 à 20 cm de longueur, avec un limbe vert brillant et des nervures bien marquées. Elles sont portées par de longs pétioles et tombent pendant la saison sèche. Fleurs. Les fleurs sont unisexuées, les mâles groupées en chatons cylindriques rougeâtres, les femelles solitaires et plus discrètes. La floraison intervient généralement en saison sèche. Fruit. Le fruit est une capsule ligneuse spectaculaire, sphérique, de 5 à 8 cm de diamètre, divisée en 12 à 18 compartiments radiés. À maturité, la capsule explose violemment avec un bruit sec audible à plusieurs centaines de mètres, projetant les graines plates et circulaires jusqu'à 40 mètres de distance — d'où le nom de « sablier » en référence à cette explosion caractéristique. Les parties utilisées traditionnellement sont l'écorce, les graines et le latex, bien que leur usage soit extrêmement dangereux.",
@@ -5505,7 +5725,9 @@ const plantesData = [
     "familleImage": "",
     "familleNum": "37",
     "toxBadgeColor": "red",
-    "toxBadgeText": "Toxique"
+    "toxBadgeText": "Toxique",
+    "usageType": "Médicinale",
+    "maladieSummary": "Digestif, Cutané"
   },
   {
     "id": 113,
@@ -5525,10 +5747,10 @@ const plantesData = [
       "ht": "Medsiyen"
     },
     "systeme": {
-      "fr": "J. curcas cible principalement le système tégumentaire par voie externe. Les études publiées confirm"
+      "fr": "Nerveux"
     },
-    "toxicite": "toxic",
-    "toxiciteLevel": "toxic",
+    "toxicite": null,
+    "toxiciteLevel": "safe",
     "sections": {
       "introduction": "Jatropha curcas L. (syn. Curcas purgans) est un arbuste exotique de basse altitude, abondamment cultivé dans les Départements du Sud et de la Grand'Anse. Il appartient à la famille des Euphorbiacées, une famille tropicale de premier plan connue pour ses usages multiples mais aussi pour sa dangerosité potentielle. Cette famille se distingue par la présence généralisée de latex caustique et de composés diterpéniques irritants, notamment les esters de phorbol. Au niveau thérapeutique, les Euphorbiacées ciblent préférentiellement les systèmes digestif, tégumentaire et cutané grâce à leurs tanins, flavonoïdes et diterpènes. Cependant, cette famille exige une vigilance extrême : le mancenillier (Hippomane mancinella) figure parmi les plantes les plus dangereuses au monde, le ricin (Ricinus communis) contient des graines mortelles, et de nombreuses espèces d'Euphorbia sécrètent un latex hautement caustique. Au sein de cette famille, le genre Jatropha regroupe des arbustes tropicaux dont plusieurs espèces sont exploitées pour leurs graines riches en huile, malgré leur toxicité marquée. J. curcas présente un usage médicinal externe documenté dans le Sud et la Grand'Anse, principalement pour ses propriétés cicatrisantes et antimicrobiennes, mais son usage interne reste formellement déconseillé en raison de la haute toxicité de ses graines.",
       "description": "J. curcas est un arbuste succulent de basse altitude, facilement reconnaissable par sa silhouette caractéristique et son latex blanc irritant qui s'écoule lors de toute blessure. Tiges et architecture. L'arbuste peut atteindre 3 à 5 mètres de hauteur, développant une couronne étalée et des branches épaisses, charnues, à croissance rapide. L'écorce est lisse, gris-verdâtre, et sécrète un latex blanc abondant et caustique lorsqu'elle est incisée. Cette production de latex constitue le principal mécanisme de défense de la plante. Feuilles. Les feuilles sont alternes, simples, largement cordiformes à palmatilobées, mesurant 10 à 15 cm de diamètre. Elles présentent 3 à 5 lobes peu profonds et une texture coriace. Leur saveur est fade à amère, caractéristique qui témoigne de la présence de composés défensifs. Fleurs et reproduction. Les inflorescences sont des cymes terminales portant des fleurs unisexuées, les mâles et femelles étant présentes sur le même individu (plante monoïque). Les fleurs mâles, plus nombreuses, sont petites et verdâtres. Les fleurs femelles, moins abondantes, donnent naissance aux fruits. Fruit et graines. Le fruit est une capsule trigone de 2 à 4 cm de diamètre, initialement verte puis brunâtre à maturité. Chaque fruit contient généralement 2 à 3 graines noires, ovoïdes, de 1,5 à 2 cm de longueur. Ces graines constituent la partie la plus dangereuse de la plante en raison de leur concentration exceptionnelle en esters de phorbol toxiques. Les parties utilisées dans les pratiques locales sont principalement les feuilles pour l'usage externe, et historiquement les graines comme purgatif, bien que ce dernier usage soit désormais fortement déconseillé.",
@@ -5554,8 +5776,10 @@ const plantesData = [
     "familleDescription": "",
     "familleImage": "",
     "familleNum": "37",
-    "toxBadgeColor": "red",
-    "toxBadgeText": "Toxique"
+    "toxBadgeColor": "green",
+    "toxBadgeText": "Non toxique",
+    "usageType": "Médicinale",
+    "maladieSummary": "Nerveux"
   },
   {
     "id": 114,
@@ -5574,10 +5798,10 @@ const plantesData = [
       "ht": "Timapou / Ti medsiyen"
     },
     "systeme": {
-      "fr": "J. gossypiifolia cible préférentiellement le système tégumentaire, conformément à ses usages traditi"
+      "fr": "Médicinal"
     },
-    "toxicite": "toxic",
-    "toxiciteLevel": "toxic",
+    "toxicite": null,
+    "toxiciteLevel": "safe",
     "sections": {
       "introduction": "Jatropha gossypiifolia L. (syn. Adenoropium gossypiifolium) est un arbuste natif commun dans les Départements du Sud et de la Grand'Anse d'Haïti. Il appartient à la famille des Euphorbiacées, une famille botaniquement diversifiée regroupant plus de 7 000 espèces d'herbes, d'arbustes et d'arbres à travers le monde. Cette famille présente un intérêt ethnobotanique majeur en Haïti avec des espèces alimentaires comme le manioc (Manihot esculenta), des plantes ornementales comme l'éperon du coq (Euphorbia pulcherrima), et de nombreuses espèces médicinales. Au sein de cette famille, J. gossypiifolia fait partie du genre Jatropha, qui comprend environ 175 espèces d'arbustes tropicaux, dont plusieurs sont exploitées pour leurs propriétés médicinales ou leur potentiel bioénergétique. L'espèce est principalement utilisée dans les pratiques thérapeutiques traditionnelles locales, particulièrement pour les soins externes et les bains mystiques, malgré sa toxicité intrinsèque qui exige des précautions d'emploi strictes.",
       "description": "J. gossypiifolia est un arbuste dressé de 1 à 3 mètres de hauteur, à croissance rapide et très ramifié. Dans le contexte des Départements du Sud et de la Grand'Anse, il colonise préférentiellement les zones perturbées, les bords de routes et les terrains vagues, témoignant de sa grande adaptabilité aux conditions environnementales locales. Tiges et latex. Les tiges sont cylindriques, charnues et contiennent un latex blanc-jaunâtre abondant qui s'écoule immédiatement à la moindre blessure. Ce latex constitue un mécanisme de défense chimique contre les herbivores et représente l'une des parties les plus toxiques de la plante. Feuilles. Les feuilles sont alternes, pétiolées, de forme palmatilobée rappelant celle du coton — d'où l'épithète spécifique « gossypiifolia » (feuilles de coton). Elles présentent 3 à 5 lobes aigus, une surface rugueuse et une couleur vert foncé souvent teintée de pourpre sur les nervures principales. Leur texture est légèrement pubescente. Fleurs. Les inflorescences sont des cymes terminales portant de petites fleurs unisexuées. Les fleurs mâles et femelles coexistent sur la même plante (espèce monoïque). Les fleurs femelles, plus grandes, présentent des pétales rouge écarlate caractéristiques qui donnent à l'arbuste son attrait ornemental. Fruits et graines. Le fruit est une capsule triloculaire qui s'ouvre à maturité pour libérer trois graines noires, elliptiques et toxiques. Ces graines constituent la partie la plus dangereuse de la plante. Les parties utilisées dans les pratiques locales sont principalement les feuilles, les tiges pour le latex, et occasionnellement les racines.",
@@ -5603,8 +5827,10 @@ const plantesData = [
     "familleDescription": "",
     "familleImage": "",
     "familleNum": "37",
-    "toxBadgeColor": "red",
-    "toxBadgeText": "Toxique"
+    "toxBadgeColor": "green",
+    "toxBadgeText": "Non toxique",
+    "usageType": "Médicinale",
+    "maladieSummary": ""
   },
   {
     "id": 115,
@@ -5622,10 +5848,10 @@ const plantesData = [
       "ht": "Manyòk"
     },
     "systeme": {
-      "fr": "Manihot esculenta exerce ses propriétés thérapeutiques documentées par plusieurs mécanismes distinct"
+      "fr": "Immunitaire, Cutané"
     },
-    "toxicite": "toxic",
-    "toxiciteLevel": "toxic",
+    "toxicite": null,
+    "toxiciteLevel": "caution",
     "sections": {
       "introduction": "Manihot esculenta, connue localement sous le nom de « Manyòk » aux Départements du Sud et de la Grand'Anse, est une plante cultivée majeure intégrée depuis des siècles dans l'agriculture haïtienne. Arbuste érigé appartenant à la famille des Euphorbiacées, M. esculenta produit des tubercules riches en amidon constituant une source alimentaire fondamentale pour les communautés rurales et urbaines haïtiennes. Au-delà de son importance nutritionnelle, la plante joue un rôle significatif dans la médecine populaire, les pratiques agroforestières et l'économie de subsistence. Les rhizomes accumulent des glucosides cyanogènes (linamarine et lotaustraline) nécessitant un traitement approprié avant consommation. L'intégration historique de M. esculenta dans les systèmes agricoles caribéens, depuis l'époque coloniale, a engendré une diversité génétique locale et un savoir-faire traditionnel de transformation remarquables. L'importance socio-économique de cette espèce dans les Départements du Sud et de la Grand'Anse justifie une compréhension approfondie de ses usages médicinaux, de ses risques toxicologiques et de ses perspectives de conservation.",
       "description": "Manihot esculenta est un arbuste érigé pérenne atteignant 1 à 3 mètres de hauteur, rarement plus, caractérisé par un port ramifié dès la base avec des tiges cylindriques lisses ou légèrement rugueuses de couleur gris-brun. Les feuilles, alternes et pétiolées, sont palmatilobées à palmatipartites présentant 5 à 11 lobes obovales à oblancéolés avec marges entières et nervation pennée. La surface supérieure est vert-foncé brillant tandis que la surface inférieure est vert-pâle avec nervures proéminentes. L'inflorescence, une grappes terminale racémeuse de 10 à 30 cm, porte des fleurs monoïques petites et discrètes de 5 à 8 mm avec sépales rougeâtres ou verdâtres et absence de pétales. Le fruit est une capsule oblongue loculicide de 12 à 15 mm contenant trois graines comprimées de couleur gris-brun. Le système souterrain produit des tubercules napiformes de 15 à 40 cm de longueur et 5 à 10 cm de diamètre, possédant une écorce brune épaisse et une chair blanche ou jaunâtre.",
@@ -5651,8 +5877,10 @@ const plantesData = [
     "familleDescription": "",
     "familleImage": "",
     "familleNum": "37",
-    "toxBadgeColor": "red",
-    "toxBadgeText": "Toxique"
+    "toxBadgeColor": "yellow",
+    "toxBadgeText": "Conditionnel",
+    "usageType": "Alimentaire et Médicinale",
+    "maladieSummary": "Immunitaire, Cutané"
   },
   {
     "id": 116,
@@ -5671,10 +5899,10 @@ const plantesData = [
       "ht": "Maskreti"
     },
     "systeme": {
-      "fr": "L'huile de ricin agit principalement sur le système digestif comme laxatif stimulant. Son mécanisme "
+      "fr": "Digestif"
     },
     "toxicite": "toxic",
-    "toxiciteLevel": "toxic",
+    "toxiciteLevel": "danger",
     "sections": {
       "introduction": "Ricinus communis L. (syn. Ricinus africanus, Ricinus inermis) est un arbuste exotique introduit, cultivé dans les Départements du Sud et de la Grand'Anse d'Haïti. Il appartient à la famille des Euphorbiacées, une vaste famille tropicale reconnue pour ses usages alimentaires, médicinaux et spirituels multiples. Au sein de cette famille, il fait partie du genre monotypique Ricinus, unique représentant de ce groupe taxonomique. Ricinus communis est une plante à usage principalement médicinal et cosmétique : l'huile extraite de ses graines — connue localement sous le nom de « maskreti » — est largement utilisée pour les soins capillaires, les massages thérapeutiques et comme laxatif traditionnel. Cependant, cette espèce présente un paradoxe toxicologique majeur : ses graines non traitées contiennent la ricine, l'une des protéines les plus toxiques connues, rendant leur manipulation particulièrement dangereuse.",
       "description": "R. communis est un arbuste pouvant atteindre 2 à 4 mètres de hauteur dans les conditions climatiques des Départements du Sud et de la Grand'Anse, parfois davantage dans des conditions optimales. Tiges. Les tiges sont dressées, robustes, creuses et segmentées par des nœuds bien marqués. Elles présentent une croissance rapide et peuvent se lignifier avec l'âge, donnant un aspect semi-arborescent à la plante. Feuilles. Les feuilles sont grandes, palmatilobées, comptant généralement 5 à 9 lobes profonds aux bords dentés. Elles sont portées par de longs pétioles et présentent une surface lisse de couleur vert foncé. Leur nervation palmée est bien visible. Fleurs. Les inflorescences sont des grappes terminales denses, portant des fleurs unisexuées sur la même plante (monoïque). Les fleurs femelles, situées en partie supérieure de la grappe, sont dépourvues de pétales et présentent un ovaire surmonté de styles rougeâtres ramifiés. Les fleurs mâles, en partie inférieure, portent de nombreuses étamines jaunes. Fruit et graines. Le fruit est une capsule triloculaire épineuse ou lisse selon les variétés, contenant trois graines. Les graines sont ovales, lisses, de couleur variable (brunes, grises, tachetées), et constituent la partie la plus importante économiquement — mais aussi la plus dangereuse. Les parties utilisées sont principalement les graines (pour l'extraction d'huile), l'huile raffinée, et occasionnellement les feuilles pour des applications externes.",
@@ -5701,7 +5929,9 @@ const plantesData = [
     "familleImage": "",
     "familleNum": "37",
     "toxBadgeColor": "red",
-    "toxBadgeText": "Toxique"
+    "toxBadgeText": "Toxique",
+    "usageType": "Médicinale",
+    "maladieSummary": "Digestif"
   },
   {
     "id": 117,
@@ -5720,10 +5950,10 @@ const plantesData = [
       "ht": "Lyann legliz"
     },
     "systeme": {
-      "fr": "L'intoxication par A. precatorius affecte principalement le système cardiovasculaire et musculaire, "
+      "fr": "Cardiovasculaire"
     },
     "toxicite": "toxic",
-    "toxiciteLevel": "toxic",
+    "toxiciteLevel": "danger",
     "sections": {
       "introduction": "Abrus precatorius L. (syn. Glycine abrus), communément appelé « Lyann legliz » dans les Départements du Sud et de la Grand'Anse, est une liane exotique pantropicale appartenant à la famille des Fabacées. Cette espèce présente un paradoxe saisissant : ses graines rouge vif à point noir, d'une beauté ornementale indéniable, renferment l'une des toxines végétales les plus puissantes connues à ce jour. Bien que documentée pour certains usages traditionnels impliquant les feuilles, A. precatorius est avant tout reconnue pour la toxicité extrême de ses graines, une seule graine mâchée pouvant s'avérer fatale, particulièrement chez l'enfant. Son usage principal en Haïti relève du domaine mystique et ornemental, mais cette plante nécessite la plus grande prudence en raison de son potentiel létal.",
       "description": "A. precatorius est une liane volubile commune des basses altitudes, capable de s'enrouler sur divers supports et d'atteindre plusieurs mètres de longueur dans les conditions favorables des Départements du Sud et de la Grand'Anse. Tiges. Les tiges sont grêles, flexibles et légèrement pubescentes, permettant à la plante de grimper efficacement sur la végétation environnante ou les structures artificielles. Feuilles. Les feuilles sont composées paripennées, caractéristiques de la famille des Fabacées, comportant de nombreuses folioles oblongues et petites, d'un vert tendre. Elles sont alternes et présentent une texture légèrement veloutée au toucher. Fleurs. Les fleurs sont petites, papilionacées — forme typique des Fabacées — de couleur rose pâle à pourpre, groupées en grappes axillaires. La floraison peut s'étaler sur plusieurs mois selon les conditions climatiques locales. Fruits et graines. Le fruit est une gousse oblongue, aplatie, de couleur brune à maturité, contenant généralement 3 à 8 graines. Ces graines constituent l'élément le plus remarquable et dangereux de la plante : elles sont petites (4-6 mm), dures, d'un rouge écarlate brillant avec une tache noire caractéristique au niveau du hile. Cette coloration vive sert d'avertissement naturel dans l'écosystème — un phénomène appelé aposématisme. Les parties traditionnellement utilisées sont principalement les feuilles, les graines étant strictement réservées à des usages ornementaux externes en raison de leur toxicité mortelle.",
@@ -5750,7 +5980,9 @@ const plantesData = [
     "familleImage": "",
     "familleNum": "38",
     "toxBadgeColor": "red",
-    "toxBadgeText": "Toxique"
+    "toxBadgeText": "Toxique",
+    "usageType": "Médicinale",
+    "maladieSummary": "Cardiovasculaire"
   },
   {
     "id": 118,
@@ -5768,10 +6000,10 @@ const plantesData = [
       "ht": "Pistach"
     },
     "systeme": {
-      "fr": "Les recherches scientifiques placent A. hypogaea dans le système nutritionnel avec des effets docume"
+      "fr": "Cardiovasculaire"
     },
-    "toxicite": "toxic",
-    "toxiciteLevel": "toxic",
+    "toxicite": null,
+    "toxiciteLevel": "safe",
     "sections": {
       "introduction": "Arachis hypogaea L. (syn. Arachis asiatica) est une herbe annuelle exotique, cultivée de façon intensive dans les Départements du Sud et de la Grand'Anse. Elle appartient à la famille des Fabacées, une vaste famille cosmopolite regroupant plus de 20 000 espèces de lianes, arbustes, herbes et arbres, reconnue pour sa capacité unique à fixer l'azote atmosphérique grâce à ses nodosités racinaires symbiotiques. Cette famille se distingue par ses riches usages alimentaires — incluant les haricots (Phaseolus), le soja (Glycine max) et les lentilles (Lens culinaris) — et médicinaux — avec des genres comme Senna (purgatif) et Glycyrrhiza (réglisse). Sur le plan phytochimique, les Fabacées présentent une signature dominée par les tanins, les flavonoïdes (particulièrement les isoflavonoïdes), les saponines et les lectines, ciblant préférentiellement les systèmes digestif, cutané et nerveux. Il convient de souligner que cette famille renferme également des espèces hautement toxiques — notamment Abrus precatorius dont les graines contiennent de l'abrine mortelle — exigeant une identification rigoureuse et des précautions strictes. Au sein de cette famille, Arachis hypogaea fait partie du genre Arachis, groupe sud-américain caractérisé par sa géocarphie remarquable — la maturation souterraine des fruits après fécondation aérienne. L'arachide constitue l'un des aliments énergétiques de base en Haïti, consommée grillée ou transformée en beurre d'arachide (« Mamba »).",
       "description": "A. hypogaea est une herbe annuelle de 30 à 60 cm de hauteur, présentant une particularité botanique unique : la géocarphie, c'est-à-dire la maturation souterraine des fruits. Tiges et port. La plante développe une tige principale dressée, ramifiée, de couleur verte à rougeâtre, portant des branches latérales étalées qui donnent à la plante un port buissonnant caractéristique. Feuilles. Les feuilles sont composées, alternes, à quatre folioles obovales vert foncé, lisses et brillantes. Chaque feuille mesure environ 5-10 cm de longueur. Les folioles présentent une nervation pennée bien marquée. Fleurs et reproduction. Les fleurs sont petites, jaunes, typiques des Fabacées avec leur corolle papilionacée. Elles apparaissent à l'aisselle des feuilles et se transforment, après fécondation, en gynophores — structures allongées qui s'enfoncent dans le sol pour permettre la maturation souterraine des gousses. Fruit. Le fruit est une gousse indéhiscente, ovoïde, contenant généralement 1 à 3 graines. Ces gousses se développent entièrement sous terre, à 5-15 cm de profondeur, expliquant le nom scientifique « hypogaea » (sous terre). Graines. Les graines sont ovoïdes, recouvertes d'une pellicule rouge-brun, et constituent la partie principalement consommée. Leur saveur est fade à farineux à l'état cru, développant des notes grillées et une texture croquante après torréfaction. Les parties utilisées sont principalement les graines, et occasionnellement les feuilles dans certaines préparations traditionnelles.",
@@ -5797,8 +6029,10 @@ const plantesData = [
     "familleDescription": "",
     "familleImage": "",
     "familleNum": "38",
-    "toxBadgeColor": "red",
-    "toxBadgeText": "Toxique"
+    "toxBadgeColor": "green",
+    "toxBadgeText": "Non toxique",
+    "usageType": "Alimentaire et Médicinale",
+    "maladieSummary": "Cardiovasculaire"
   },
   {
     "id": 119,
@@ -5817,10 +6051,10 @@ const plantesData = [
       "ht": "Ti kanson"
     },
     "systeme": {
-      "fr": "B. divaricata cible préférentiellement le système urinaire et le système hépatique selon les usages "
+      "fr": "Urinaire, Hépatique"
     },
-    "toxicite": "unknown",
-    "toxiciteLevel": "unknown",
+    "toxicite": null,
+    "toxiciteLevel": "safe",
     "sections": {
       "introduction": "Bauhinia divaricata L. (syn. Casparia divaricata) est un arbuste natif des Caraïbes et de l'Amérique tropicale, commun dans les Départements du Sud et de la Grand'Anse où il est connu sous le nom créole de « Ti kanson ». Il appartient à la famille des Fabacées, une vaste famille de légumineuses particulièrement remarquable pour sa capacité unique à fixer l'azote atmosphérique grâce à des nodules racinaires symbiotiques, enrichissant ainsi naturellement les sols. Au sein de cette famille, le genre Bauhinia regroupe environ 300 espèces d'arbres et arbustes tropicaux, reconnaissables à leurs feuilles caractéristiques bilobées en forme de sabot de cheval ou de papillon. Dans les Départements du Sud et de la Grand'Anse, B. divaricata est utilisé principalement comme remède traditionnel pour les troubles urinaires, particulièrement comme diurétique dans le traitement populaire appelé « Dezòm », et fait l'objet d'un intérêt croissant pour ses propriétés antidiabétiques potentielles.",
       "description": "B. divaricata est un arbuste de basse altitude, à saveur astringente, caractérisé par ses organes végétatifs distinctifs typiques du genre Bauhinia. Tiges et écorce. L'arbuste présente des tiges ligneuses ramifiées, avec une écorce rugueuse de couleur brun-gris. Cette écorce, riche en tanins responsables de la saveur astringente, constitue l'une des parties utilisées en médecine traditionnelle dans les deux départements. Feuilles. Les feuilles de B. divaricata sont l'élément le plus caractéristique de la plante : alternes, simples mais profondément bilobées, évoquant la forme d'un sabot fendu ou d'ailes de papillon déployées. Cette morphologie unique est une signature taxonomique du genre Bauhinia. Les feuilles sont coriaces, de couleur vert foncé, avec une nervation palmée bien visible. Leur texture et leur richesse en tanins leur confèrent une saveur astringente marquée. Fleurs. Les fleurs sont hermaphrodites, blanches ou légèrement rosées, disposées en grappes terminales. Elles présentent la structure typique des Fabacées avec cinq pétales inégaux et des étamines saillantes. Fruit. Le fruit est une gousse aplatie, brunâtre à maturité, contenant plusieurs graines plates et arrondies caractéristiques de la famille. Les parties utilisées sont principalement les feuilles et l'écorce, toutes deux riches en composés phénoliques responsables de l'activité biologique.",
@@ -5846,8 +6080,10 @@ const plantesData = [
     "familleDescription": "",
     "familleImage": "",
     "familleNum": "38",
-    "toxBadgeColor": "yellow",
-    "toxBadgeText": "Données insuffisantes"
+    "toxBadgeColor": "green",
+    "toxBadgeText": "Non toxique",
+    "usageType": "Alimentaire et Médicinale",
+    "maladieSummary": "Urinaire, Hépatique"
   },
   {
     "id": 120,
@@ -5868,10 +6104,10 @@ const plantesData = [
       "ht": "Pwa kongo"
     },
     "systeme": {
-      "fr": "Sur le plan nutritionnel, C. cajan cible principalement les déficits protéo-énergétiques et les care"
+      "fr": "Médicinal"
     },
-    "toxicite": "toxic",
-    "toxiciteLevel": "toxic",
+    "toxicite": null,
+    "toxiciteLevel": "safe",
     "sections": {
       "introduction": "Cajanus cajan (L.) (syn. Cajanus indicus, Cytisus cajan) est un arbuste exotique pantropical, cultivé abondamment dans les Départements du Sud et de la Grand'Anse. Il appartient à la famille des Fabacées, une vaste famille dominée par les légumineuses, reconnue mondialement pour sa capacité unique à fixer l'azote atmosphérique grâce à ses nodules racinaires symbiotiques et pour sa richesse exceptionnelle en protéines végétales. Au sein de cette famille, Cajanus cajan fait partie du genre Cajanus, un petit groupe d'arbustes tropicaux à graines comestibles. Le « Pwa kongo » constitue l'un des piliers de la sécurité alimentaire haïtienne : ses graines riches en protéines, fer et folates représentent une source nutritionnelle majeure, particulièrement précieuse dans un contexte où l'accès aux protéines animales reste limité.",
       "description": "C. cajan est un arbuste dressé, ramifié, pouvant atteindre 2 à 3 mètres de hauteur dans les conditions favorables du Sud et de la Grand'Anse. Tiges et racines. Les tiges sont ligneuses à la base, vertes et pubescentes dans leur partie supérieure. Le système racinaire développe des nodules symbiotiques contenant des bactéries du genre Rhizobium, permettant la fixation de l'azote atmosphérique — caractéristique fondamentale des Fabacées qui enrichit naturellement les sols en azote. Feuilles. Les feuilles sont composées trifoliolées, alternées, portées par de longs pétioles. Les folioles sont ovales à lancéolées, de couleur vert foncé sur la face supérieure et plus pâles et pubescentes sur la face inférieure. Elles dégagent une odeur légèrement aromatique au froissement. Fleurs. L'inflorescence est une grappe axillaire portant des fleurs papilionacées typiques des Fabacées, de couleur jaune vif striée de rouge. La floraison se produit généralement en saison sèche dans les deux départements. Fruit et graines. Le fruit est une gousse oblongue, légèrement courbée, de 5 à 10 cm de longueur, contenant 3 à 9 graines. Les graines matures sont arrondies, de couleur crème à brun clair avec parfois des marbrures foncées. C'est la partie principalement utilisée, tant sur le plan alimentaire que thérapeutique. Les parties utilisées sont les graines matures cuites et les feuilles.",
@@ -5897,8 +6133,10 @@ const plantesData = [
     "familleDescription": "",
     "familleImage": "",
     "familleNum": "38",
-    "toxBadgeColor": "red",
-    "toxBadgeText": "Toxique"
+    "toxBadgeColor": "green",
+    "toxBadgeText": "Non toxique",
+    "usageType": "Alimentaire",
+    "maladieSummary": ""
   },
   {
     "id": 121,
@@ -5919,10 +6157,10 @@ const plantesData = [
       "ht": "Kanpèch"
     },
     "systeme": {
-      "fr": "H. campechianum cible principalement le système digestif et, dans une moindre mesure, les affections"
+      "fr": "Digestif, Cutané, Sanguin"
     },
-    "toxicite": "unknown",
-    "toxiciteLevel": "unknown",
+    "toxicite": null,
+    "toxiciteLevel": "safe",
     "sections": {
       "introduction": "Haematoxylum campechianum L. (syn. Haematoxylon campechianum) est un arbre exotique pantropical, commun dans les Départements du Sud et de la Grand'Anse. Il appartient à la famille des Fabacées, une vaste famille cosmopolite regroupant des herbes, arbustes, lianes et arbres, reconnue pour sa capacité unique à fixer l'azote atmosphérique grâce à ses nodules racinaires symbiotiques. Cette famille se distingue par ses riches usages alimentaires — avec des genres comme Phaseolus (haricots), Vigna (niébé) et Tamarindus (tamarin) — et médicinaux, notamment Cassia (séné), Mucuna et Abrus. Sur le plan phytochimique, les Fabacées se caractérisent par une signature dominée par les tanins, flavonoïdes, isoflavonoïdes, saponines et lectines, ciblant préférentiellement les systèmes digestif, cutané et nerveux. Il convient de noter une vigilance particulière avec certains genres : Abrus precatorius renferme l'abrine mortelle, Senna possède des propriétés purgatives puissantes, et plusieurs espèces contiennent des lectines toxiques dans leurs graines crues. Au sein de cette famille, Haematoxylum forme un petit genre d'arbres tropicaux américains, historiquement recherchés pour leurs propriétés tinctoriales exceptionnelles. H. campechianum est principalement utilisé comme plante médicinale pour les troubles digestifs et comme source de colorant naturel.",
       "description": "H. campechianum est un arbre de taille moyenne, typique des régions de basse altitude des Départements du Sud et de la Grand'Anse, reconnaissable à son port caractéristique et à son bois particulièrement dense. Tronc et écorce. Le tronc peut atteindre 40 à 60 cm de diamètre. L'écorce externe est grisâtre à brunâtre, rugueuse et fissurée avec l'âge. L'écorce interne révèle une couleur rougeâtre caractéristique, première indication de la richesse en hématoxyline de la plante. Bois. Le bois constitue la partie la plus remarquable de l'arbre : dense, dur, de couleur rouge sombre à brun-rouge intense. Cette coloration distinctive résulte de la forte concentration en hématoxyline, le composé tinctorial principal. Le bois dégage une légère odeur aromatique lorsqu'il est fraîchement coupé. Feuilles. Les feuilles sont composées pennées, typiques de la famille des Fabacées, avec de petites folioles ovales à oblongues, disposées par paires le long du rachis. Elles présentent une couleur vert foncé et une texture légèrement coriace. Fleurs et fruits. Les fleurs sont petites, jaunes, regroupées en grappes axillaires parfumées. Elles donnent naissance à des gousses aplaties, brunes à maturité, contenant généralement 1 à 2 graines. La floraison intervient principalement en saison sèche. Les parties utilisées dans les pratiques locales sont principalement l'écorce interne et le bois, reconnus pour leur amertume caractéristique.",
@@ -5948,8 +6186,10 @@ const plantesData = [
     "familleDescription": "",
     "familleImage": "",
     "familleNum": "38",
-    "toxBadgeColor": "yellow",
-    "toxBadgeText": "Données insuffisantes"
+    "toxBadgeColor": "green",
+    "toxBadgeText": "Non toxique",
+    "usageType": "Médicinale",
+    "maladieSummary": "Digestif, Cutané, Sanguin"
   },
   {
     "id": 122,
@@ -5968,10 +6208,10 @@ const plantesData = [
       "ht": "Sikren"
     },
     "systeme": {
-      "fr": "Les usages traditionnels d'Inga vera ciblent principalement le système nutritionnel par l'apport glu"
+      "fr": "Nerveux"
     },
-    "toxicite": "unknown",
-    "toxiciteLevel": "unknown",
+    "toxicite": null,
+    "toxiciteLevel": "safe",
     "sections": {
       "introduction": "Inga vera Willd. (syn. Mimosa vera) est un arbre natif des Caraïbes et d'Amérique tropicale, abondant dans les Départements du Sud et de la Grand'Anse d'Haïti. Il appartient à la famille des Fabacées, une vaste famille cosmopolite reconnue pour sa capacité unique à fixer l'azote atmosphérique grâce à ses nodules racinaires symbiotiques. Cette famille regroupe des lianes, des arbustes, des herbes et des arbres aux usages alimentaires et médicinaux remarquables — incluant des légumineuses alimentaires majeures comme le haricot commun (Phaseolus vulgaris), les pois (Pisum sativum) et l'arachide (Arachis hypogaea). Sur le plan phytochimique, les Fabacées se distinguent par leur richesse en protéines végétales, leurs tanins protecteurs, leurs flavonoïdes antioxydants et leurs saponines bioactives, ciblant préférentiellement les systèmes digestif, cutané et nerveux. Il convient toutefois de signaler que certains genres de cette famille — notamment Abrus avec ses graines mortelles contenant de l'abrine — exigent une vigilance extrême quant aux confusions possibles. Au sein des Fabacées, Inga vera fait partie du genre Inga, un groupe d'arbres tropicaux particulièrement appréciés pour la pulpe sucrée de leurs gousses et leur rôle écologique en agroforesterie. Dans les départements étudiés, le « Sikren » constitue à la fois un aliment de cueillette apprécié et un arbre d'ombrage traditionnel.",
       "description": "I. vera est un arbre de taille moyenne, typique des étages de moyenne altitude dans les Départements du Sud et de la Grand'Anse, où il forme souvent des peuplements naturels denses. Tiges et écorce. Le tronc développe une écorce lisse à rugueuse selon l'âge, de couleur gris-brun. Les jeunes rameaux sont pubescents et portent les caractéristiques stipules du genre Inga. Feuilles. Les feuilles sont composées pennées, alternes, avec plusieurs paires de folioles opposées. Chaque feuille présente des glandes nectarifères situées entre les folioles — trait distinctif du genre Inga. Les folioles sont ovales à elliptiques, avec un limbe vert foncé et une nervation pennée bien visible. Fleurs. Les inflorescences sont des épis denses, cylindriques, composés de nombreuses petites fleurs blanches à étamines saillantes très voyantes. Ces fleurs, typiques des Fabacées sous-famille Mimosoïdeae, attirent activement les abeilles et autres pollinisateurs. Fruit et graines. Le fruit est une gousse allongée, indéhiscente, renfermant plusieurs graines noires enrobées d'une pulpe blanche charnue et sucrée — la partie comestible appelée localement « sikren ». Cette pulpe constitue un arille nutritif qui favorise la dispersion des graines par les animaux frugivores. Les parties utilisées sont principalement la pulpe sucrée entourant les graines, consommée fraîche, ainsi que les feuilles et l'écorce à usage thérapeutique traditionnel.",
@@ -5997,8 +6237,10 @@ const plantesData = [
     "familleDescription": "",
     "familleImage": "",
     "familleNum": "38",
-    "toxBadgeColor": "yellow",
-    "toxBadgeText": "Données insuffisantes"
+    "toxBadgeColor": "green",
+    "toxBadgeText": "Non toxique",
+    "usageType": "Alimentaire et Médicinale",
+    "maladieSummary": "Nerveux"
   },
   {
     "id": 123,
@@ -6017,10 +6259,10 @@ const plantesData = [
       "ht": "Wont"
     },
     "systeme": {
-      "fr": "M. pudica cible préférentiellement le système nerveux, avec des recherches documentant une activité "
+      "fr": "Nerveux"
     },
-    "toxicite": "unknown",
-    "toxiciteLevel": "unknown",
+    "toxicite": null,
+    "toxiciteLevel": "safe",
     "sections": {
       "introduction": "Mimosa pudica L. (syn. Mimosa hispida) est une herbe native remarquable, connue dans les Départements du Sud et de la Grand'Anse sous le nom créole « Wont ». Elle appartient à la famille des Fabacées, vaste famille de plus de 20 000 espèces comprenant des légumineuses alimentaires majeures comme le haricot commun (Phaseolus vulgaris), le pois cajan (Cajanus cajan), et des arbres précieux comme le campêche (Haematoxylum campechianum). Cette famille se distingue par sa capacité unique de fixation symbiotique de l'azote atmosphérique, enrichissant naturellement les sols, et par sa richesse exceptionnelle en protéines végétales. Sur le plan thérapeutique, les Fabacées ciblent préférentiellement les systèmes digestif, cutané et nerveux grâce à leur signature phytochimique dominée par les flavonoïdes, les tanins, les saponines et les alcaloïdes spécialisés. Une vigilance particulière s'impose car cette famille renferme des espèces très toxiques : Abrus precatorius dont les graines contiennent l'abrine mortelle, ou encore diverses espèces de Senna aux effets purgatifs puissants. Au sein de cette famille, M. pudica fait partie du genre Mimosa, un groupe d'herbes et d'arbustes tropicaux célèbres pour leurs mouvements foliaires spectaculaires — phénomène de thigmonastie — qui leur vaut le surnom de « plantes sensitives ». L'usage de « Wont » dans le Sud et la Grand'Anse est essentiellement médicinal, particulièrement recherché pour ses propriétés sédatives et sa grande importance culturelle locale.",
       "description": "M. pudica est une herbe prostrée à semi-dressée, généralement de 30 à 60 cm de hauteur, caractérisée par son comportement thigmonastique spectaculaire : ses feuilles se replient instantanément au moindre contact, d'où son nom vernaculaire de « sensitive ». Cette adaptation défensive unique la distingue immédiatement de toutes les autres espèces de la flore haïtienne. Tiges et racines. Les tiges sont ramifiées, souvent rampantes puis redressées, armées de petites épines recourbées facilitant l'accrochage à la végétation environnante. Le système racinaire est pivotant et développe des nodosités caractéristiques abritant des bactéries fixatrices d'azote du genre Rhizobium. Feuilles. Les feuilles composées bipennées constituent l'élément le plus remarquable : chaque feuille se divise en 2 à 4 pennes portant chacune 10 à 26 petites folioles oblongues. Le phénomène de fermeture rapide résulte de variations de pression osmotique dans les pulvini, coussinets spécialisés situés à la base des pétioles. Fleurs. Les inflorescences sont des capitules globuleux rose-violacé de 8 à 10 mm de diamètre, composés de nombreuses petites fleurs à étamines saillantes donnant l'aspect d'une boule épineuse colorée. La floraison est quasi-continue en climat tropical. Fruit. Les fruits sont des gousses aplaties, segmentées, de 1 à 2 cm de longueur, contenant 3 à 5 graines brunes et dures. À maturité, les segments se détachent individuellement — adaptation favorisant la dispersion. Les parties utilisées sont les feuilles, les racines et les tiges.",
@@ -6046,8 +6288,10 @@ const plantesData = [
     "familleDescription": "",
     "familleImage": "",
     "familleNum": "38",
-    "toxBadgeColor": "yellow",
-    "toxBadgeText": "Données insuffisantes"
+    "toxBadgeColor": "green",
+    "toxBadgeText": "Non toxique",
+    "usageType": "Médicinale",
+    "maladieSummary": "Nerveux"
   },
   {
     "id": 124,
@@ -6066,10 +6310,10 @@ const plantesData = [
       "ht": "Pwa grate"
     },
     "systeme": {
-      "fr": "M. pruriens cible principalement le système nerveux central grâce à sa richesse en L-DOPA. Le mécani"
+      "fr": "Nerveux, Sanguin"
     },
-    "toxicite": "toxic",
-    "toxiciteLevel": "toxic",
+    "toxicite": null,
+    "toxiciteLevel": "caution",
     "sections": {
       "introduction": "Mucuna pruriens (L.) (syn. Dolichos pruriens) est une liane exotique rare des Départements du Sud et de la Grand'Anse d'Haïti. Elle appartient à la famille des Fabacées, vaste famille de légumineuses reconnue pour sa capacité unique à fixer l'azote atmosphérique grâce à des bactéries symbiotiques logées dans des nodules racinaires. Cette espèce se distingue particulièrement au sein de sa famille par sa richesse exceptionnelle en L-DOPA (lévodopa), un précurseur direct de la dopamine, faisant d'elle l'une des sources végétales les plus concentrées de ce neurotransmetteur au monde. Son usage médicinal traditionnel en Haïti inclut notamment le traitement vermifuge et tonique, mais c'est surtout son potentiel thérapeutique dans les troubles neurologiques — particulièrement la maladie de Parkinson — qui attire aujourd'hui l'attention scientifique internationale.",
       "description": "M. pruriens est une liane vigoureuse pouvant s'élever sur plusieurs mètres de hauteur en s'enroulant autour de supports ligneux. Tiges et système de fixation. Les tiges sont volubiles, robustes et recouvertes de poils urticants particulièrement denses sur les jeunes rameaux. Ces poils, véritables structures défensives, libèrent des substances irritantes au contact — d'où le nom vernaculaire « pwa grate » (pois qui gratte). Ce système pileux constitue une adaptation remarquable contre l'herbivorie. Feuilles. Les feuilles sont composées trifoliolées, avec des folioles ovales à elliptiques, également couvertes de poils urticants sur les deux faces. Cette pilosité dense confère aux feuilles un aspect velouté caractéristique et une texture rugueuse au toucher. Fleurs. Les inflorescences sont des grappes pendantes portant de nombreuses fleurs papilionacées violettes à pourpres, typiques de la famille des Fabacées. Ces fleurs attirent principalement les abeilles et autres insectes pollinisateurs par leur nectar abondant. Fruits et graines. Les fruits sont des gousses allongées, fortement velues et urticantes, contenant 3 à 6 graines. Les graines sont globuleuses, de couleur brun foncé à noir, et constituent la partie la plus précieuse de la plante sur le plan thérapeutique en raison de leur concentration exceptionnelle en L-DOPA. Les parties utilisées sont principalement les graines, et secondairement les feuilles, selon les données documentées dans le Sud et la Grand'Anse.",
@@ -6095,8 +6339,10 @@ const plantesData = [
     "familleDescription": "",
     "familleImage": "",
     "familleNum": "38",
-    "toxBadgeColor": "red",
-    "toxBadgeText": "Toxique"
+    "toxBadgeColor": "yellow",
+    "toxBadgeText": "Conditionnel",
+    "usageType": "Alimentaire",
+    "maladieSummary": "Nerveux, Sanguin"
   },
   {
     "id": 125,
@@ -6114,10 +6360,10 @@ const plantesData = [
       "ht": "Je bourik"
     },
     "systeme": {
-      "fr": "Par analogie avec Mucuna pruriens, espèce du même genre intensivement étudiée, M. urens ciblerait pr"
+      "fr": "Nerveux, Sanguin"
     },
-    "toxicite": "toxic",
-    "toxiciteLevel": "toxic",
+    "toxicite": null,
+    "toxiciteLevel": "safe",
     "sections": {
       "introduction": "Mucuna urens (L.) (syn. Dolichos urens) est une liane native des Caraïbes et d'Amérique tropicale, documentée dans le Sud et la Grand'Anse, où elle est désignée sous le nom créole « Je bourik ». Elle appartient à la famille des Fabacées, une vaste famille de légumineuses reconnue pour sa capacité remarquable à fixer l'azote atmosphérique grâce à ses nodules racinaires symbiotiques. Au sein de cette famille, M. urens fait partie du genre Mucuna, un groupe de lianes tropicales célèbres pour leur richesse en L-DOPA, un précurseur direct de la dopamine. Son usage principal dans les départements concerne l'artisanat traditionnel, les graines servant à confectionner des bijoux et objets décoratifs, bien que la plante possède également des propriétés médicinales documentées.",
       "description": "M. urens est une liane grimpante vigoureuse des zones de moyenne altitude, caractérisée par sa saveur citronnée distinctive et son statut de très rare dans les Départements du Sud et de la Grand'Anse. Tiges. Les tiges sont volubiles, lignifiées à la base, permettant à la plante de s'élever dans la canopée forestière en s'enroulant autour des supports disponibles. Elles présentent une écorce rugueuse et brunâtre à maturité. Feuilles. Les feuilles sont composées trifoliolées, caractéristique du genre Mucuna, avec des folioles ovales à elliptiques, coriaces, d'un vert foncé brillant sur la face supérieure. La saveur citronnée constitue un trait distinctif remarquable de cette espèce. Fleurs. Les fleurs sont papilionacées, typiques des Fabacées, regroupées en grappes pendantes. Elles présentent une corolle violacée à pourprée, particulièrement attractive pour les pollinisateurs spécialisés. Fruit et graines. Le fruit est une gousse allongée, couverte de poils urticants caractéristiques du genre — d'où l'épithète « urens » (brûlant). Les graines, appelées localement « Je bourik » (yeux de bourrique), sont arrondies, dures, de couleur brun-rouge à noir brillant, avec un hile distinctif rappelant effectivement un œil. Les parties utilisées sont principalement les graines pour l'artisanat, et les graines, feuilles et racines à des fins médicinales traditionnelles.",
@@ -6143,8 +6389,10 @@ const plantesData = [
     "familleDescription": "",
     "familleImage": "",
     "familleNum": "38",
-    "toxBadgeColor": "red",
-    "toxBadgeText": "Toxique"
+    "toxBadgeColor": "green",
+    "toxBadgeText": "Non toxique",
+    "usageType": "Médicinale",
+    "maladieSummary": "Nerveux, Sanguin"
   },
   {
     "id": 126,
@@ -6163,10 +6411,10 @@ const plantesData = [
       "ht": "Pwa souch"
     },
     "systeme": {
-      "fr": "Le pwa souch cible préférentiellement le système nutritionnel, contribuant à la prévention des caren"
+      "fr": "Urinaire"
     },
-    "toxicite": "toxic",
-    "toxiciteLevel": "toxic",
+    "toxicite": null,
+    "toxiciteLevel": "caution",
     "sections": {
       "introduction": "Phaseolus lunatus L. (syn. Phaseolus inamoenus) est une herbe annuelle ou bisannuelle exotique, largement cultivée dans les Départements du Sud et de la Grand'Anse pour ses graines nutritives. Elle appartient à la famille des Fabacées, reconnue pour sa capacité remarquable à fixer l'azote atmosphérique grâce à des bactéries symbiotiques du genre Rhizobium, ce qui enrichit les sols et fait de ces plantes des alliées précieuses de l'agriculture durable. Au sein de cette vaste famille, P. lunatus fait partie du genre Phaseolus, qui regroupe les haricots cultivés les plus répandus au monde, dont le haricot commun (Phaseolus vulgaris). Le « pwa souch » constitue une source alimentaire importante en Haïti, consommé traditionnellement avec les vivres ou transformé en purée, tout en présentant des propriétés nutritionnelles et potentiellement thérapeutiques documentées.",
       "description": "P. lunatus est une herbe à croissance déterminée ou indéterminée selon les variétés, pouvant atteindre 3 à 4 mètres de hauteur dans sa forme grimpante, ou rester naine (30-60 cm) dans les variétés buissonnantes cultivées dans les jardins des Départements du Sud et de la Grand'Anse. Tiges et racines. La tige principale est herbacée, souvent volubile, s'enroulant autour des tuteurs dans les variétés grimpantes. Le système racinaire pivotant porte des nodosités caractéristiques des Fabacées, où vivent les bactéries fixatrices d'azote qui permettent à la plante de prospérer même sur des sols pauvres. Feuilles. Les feuilles sont composées trifoliolées, avec trois folioles ovales à lancéolées, lisses et d'un vert intense. Chaque foliole mesure 5 à 12 cm de long, avec des nervures bien marquées. Le pétiole est allongé et porte parfois des stipules à la base. Fleurs. Les fleurs sont petites, blanches, verdâtres ou parfois violacées, regroupées en grappes axillaires. Elles présentent la structure papilionacée typique de la famille, avec un étendard, deux ailes et une carène protégeant les organes reproducteurs. Fruit et graines. Le fruit est une gousse aplatie, arquée, de 5 à 12 cm de long, contenant 2 à 4 graines. Les graines sont grandes (1-3 cm), aplaties, de forme réniforme caractéristique, et présentent une grande diversité de couleurs : blanches, crème, rouge, pourpre, noir, ou bigarrées selon les variétés locales cultivées en Haïti. Les parties utilisées sont principalement les graines mûres, et occasionnellement les jeunes feuilles.",
@@ -6192,8 +6440,10 @@ const plantesData = [
     "familleDescription": "",
     "familleImage": "",
     "familleNum": "38",
-    "toxBadgeColor": "red",
-    "toxBadgeText": "Toxique"
+    "toxBadgeColor": "yellow",
+    "toxBadgeText": "Conditionnel",
+    "usageType": "Alimentaire et Médicinale",
+    "maladieSummary": "Urinaire"
   },
   {
     "id": 127,
@@ -6214,10 +6464,10 @@ const plantesData = [
       "ht": "Bayawonn"
     },
     "systeme": {
-      "fr": "Les usages thérapeutiques documentés de P. juliflora concernent principalement les systèmes respirat"
+      "fr": "Respiratoire, Cutané"
     },
-    "toxicite": "toxic",
-    "toxiciteLevel": "toxic",
+    "toxicite": null,
+    "toxiciteLevel": "safe",
     "sections": {
       "introduction": "Prosopis juliflora (syn. Mimosa juliflora) est un arbre natif des régions arides d'Amérique tropicale, aujourd'hui largement répandu dans les Caraïbes et naturalisé dans les Départements du Sud et de la Grand'Anse d'Haïti. Il appartient à la famille des Fabacées, cette vaste famille de légumineuses qui comprend plus de 19 000 espèces mondiales — des herbes aux grands arbres tropicaux. Cette famille se distingue par sa capacité unique à fixer l'azote atmosphérique grâce à des bactéries symbiotiques logées dans des nodules racinaires, enrichissant ainsi les sols pauvres. Au niveau alimentaire, elle nous offre les légumineuses essentielles : haricots (Phaseolus), lentilles (Lens), pois chiches (Cicer) et arachides (Arachis). Sur le plan médicinal, elle regroupe des genres thérapeutiques majeurs comme Senna (purgatif), Glycyrrhiza (réglisse), Cassia et Tamarindus. Phytochimiquement, les Fabacées se caractérisent par une richesse en protéines, flavonoïdes — notamment les isoflavones aux propriétés œstrogène-like —, tanins condensés, saponines triterpéniques et alcaloïdes spécifiques comme la lupinine et la spartéine. Ces composés ciblent préférentiellement les systèmes digestif, cutané et nerveux. Attention toutefois : cette famille recèle des espèces extrêmement dangereuses, notamment Abrus precatorius dont les graines contiennent l'abrine — une toxine mortelle — et plusieurs genres comme Senna ou Spigelia exigeant des précautions strictes de dosage.",
       "description": "P. juliflora est un arbre de taille moyenne particulièrement adapté aux milieux arides, pouvant atteindre 8 à 12 mètres de hauteur dans les conditions optimales. Sa remarquable tolérance à la sécheresse en fait une essence précieuse dans les régions semi-arides du Sud et de la Grand'Anse. Tronc et écorce. Le tronc est généralement tortueux et ramifié dès la base, avec une écorce rugueuse et fissurée de couleur brun-gris foncé. Cette écorce épaisse constitue une adaptation défensive contre la déshydratation et les incendies. Feuilles. Les feuilles sont composées bipennées, caractéristique typique de la sous-famille des Mimosacées. Chaque feuille porte 2 à 4 paires de pinnules, elles-mêmes divisées en 12 à 25 paires de folioles oblongues de petite taille (5-15 mm). Ces folioles peuvent se replier par temps sec pour réduire l'évaporation — un mécanisme d'adaptation remarquable aux stress hydriques. Épines. L'arbre porte des épines robustes, droites ou légèrement courbées, longues de 1 à 5 cm, disposées aux nœuds des rameaux. Ces épines constituent une défense efficace contre l'herbivorie. Fleurs. Les inflorescences sont des épis cylindriques denses, jaunâtres à verdâtres, longs de 5 à 10 cm. Les fleurs individuelles sont petites, régulières, à cinq sépales et cinq pétales libres, avec de nombreuses étamines saillantes qui donnent un aspect duveteux aux épis. Fruits. Les gousses sont droites ou légèrement courbées, de 10 à 25 cm de longueur, contenant 10 à 30 graines brunes ovales. Ces gousses, riches en sucres, constituent un fourrage apprécié du bétail dans les régions arides. Les parties utilisées documentées dans le Sud et la Grand'Anse sont les feuilles, l'écorce, les graines et parfois les racines.",
@@ -6243,8 +6493,10 @@ const plantesData = [
     "familleDescription": "",
     "familleImage": "",
     "familleNum": "38",
-    "toxBadgeColor": "red",
-    "toxBadgeText": "Toxique"
+    "toxBadgeColor": "green",
+    "toxBadgeText": "Non toxique",
+    "usageType": "Alimentaire et Médicinale",
+    "maladieSummary": "Respiratoire, Cutané"
   },
   {
     "id": 128,
@@ -6263,10 +6515,10 @@ const plantesData = [
       "ht": "Flè dat"
     },
     "systeme": {
-      "fr": "S. alata cible principalement le système cutané par voie externe et le système digestif par voie int"
+      "fr": "Digestif, Cutané"
     },
-    "toxicite": "toxic",
-    "toxiciteLevel": "toxic",
+    "toxicite": null,
+    "toxiciteLevel": "safe",
     "sections": {
       "introduction": "Senna alata (L.) (syn. Cassia alata) est un arbuste natif commun des Départements du Sud et de la Grand'Anse, appartenant à la famille des Fabacées. Au sein de cette famille, il fait partie du genre Senna, un groupe d'arbustes et petits arbres reconnus mondialement pour leurs propriétés laxatives puissantes, dues à leur richesse en anthraquinones. Le nom créole « Flè dat » fait référence à son usage traditionnel dominant contre les dartres et autres affections cutanées fongiques, par friction directe de la sève des feuilles sur les lésions. Cette plante illustre parfaitement la double vocation thérapeutique des Senna : usage externe antifongique et usage interne laxatif, bien que ce dernier nécessite des précautions strictes.",
       "description": "S. alata est un arbuste de basse altitude, caractérisé par sa croissance rapide et sa floraison spectaculaire. Dans les conditions climatiques du Sud et de la Grand'Anse, il prospère particulièrement bien en zones semi-ombragées et tolère les sols pauvres. Tiges et port. L'arbuste présente un port dressé, pouvant atteindre 2 à 3 mètres de hauteur, avec des tiges robustes et lignifiées à la base. Les jeunes rameaux sont herbacés et contiennent la sève utilisée en application topique. Feuilles. Les feuilles sont composées, paripennées, de grande taille, disposées de façon alternée. Chaque feuille comprend 8 à 12 paires de folioles oblongues, glabres, d'un vert brillant sur la face supérieure. Une glande distinctive est présente à la base du pétiole, caractéristique taxonomique importante du genre Senna. Fleurs. L'inflorescence terminale en grappe dressée porte de nombreuses fleurs jaune d'or à cinq pétales, particulièrement voyantes et attractives pour les insectes pollinisateurs. Cette floraison abondante justifie en partie le nom vernaculaire « Flè dat ». Fruit. Le fruit est une gousse allongée, aplatie, contenant de nombreuses graines brunes disposées transversalement. Les parties utilisées sont principalement les feuilles fraîches pour l'usage externe, et occasionnellement les fleurs.",
@@ -6292,8 +6544,10 @@ const plantesData = [
     "familleDescription": "",
     "familleImage": "",
     "familleNum": "38",
-    "toxBadgeColor": "red",
-    "toxBadgeText": "Toxique"
+    "toxBadgeColor": "green",
+    "toxBadgeText": "Non toxique",
+    "usageType": "Médicinale",
+    "maladieSummary": "Digestif, Cutané"
   },
   {
     "id": 129,
@@ -6312,10 +6566,10 @@ const plantesData = [
       "ht": "Pwa pyant"
     },
     "systeme": {
-      "fr": "S. occidentalis cible préférentiellement le système digestif, avec des applications documentées pour"
+      "fr": "Digestif, Hépatique"
     },
-    "toxicite": "toxic",
-    "toxiciteLevel": "toxic",
+    "toxicite": null,
+    "toxiciteLevel": "safe",
     "sections": {
       "introduction": "Senna occidentalis (L.) (syn. Cassia occidentalis) est une herbe native commune des Départements du Sud et de la Grand'Anse d'Haïti. Elle appartient à la famille des Fabacées, une vaste famille cosmopolite reconnue pour sa capacité unique à fixer l'azote atmosphérique grâce à ses nodules racinaires symbiotiques. Cette herbe est documentée dans le Sud et la Grand'Anse pour ses usages médicinaux traditionnels, principalement comme laxatif et substitut du café — d'où son nom français « Café nègre ». Cependant, son profil toxicologique complexe, marqué par la présence d'anthraquinones et d'autres composés potentiellement hépatotoxiques, exige une vigilance particulière dans son utilisation.",
       "description": "S. occidentalis est une herbe dressée pouvant atteindre 1 à 2 mètres de hauteur, particulièrement adaptée aux zones de basse altitude des Départements du Sud et de la Grand'Anse. Tiges. Les tiges sont robustes, dressées, légèrement ligneuses à la base, de couleur verte à brunâtre. Elles portent des feuilles composées caractéristiques de la famille des Fabacées. Feuilles. Les feuilles sont composées paripennées, portant 4 à 6 paires de folioles oblongues à ovales, de couleur vert foncé. Ces folioles mesurent environ 3 à 8 cm de longueur et dégagent une odeur particulière lorsqu'elles sont froissées. À la base du pétiole, on observe souvent une glande nectarifère caractéristique du genre Senna. Fleurs. Les fleurs sont jaunes, regroupées en grappes axillaires. Chaque fleur présente cinq pétales inégaux et dix étamines, dont trois sont stériles et sept fertiles — arrangement typique des Fabacées du sous-groupe des Caesalpinioideae. Fruit et graines. Le fruit est une gousse allongée, aplatie, contenant de nombreuses graines brunes, ovales et aplaties. Ces graines sont particulièrement concentrées en principes actifs et constituent la partie la plus toxique de la plante. Les parties utilisées sont principalement les feuilles et, historiquement, les graines (bien que leur usage soit aujourd'hui déconseillé en raison de leur toxicité).",
@@ -6341,8 +6595,10 @@ const plantesData = [
     "familleDescription": "",
     "familleImage": "",
     "familleNum": "38",
-    "toxBadgeColor": "red",
-    "toxBadgeText": "Toxique"
+    "toxBadgeColor": "green",
+    "toxBadgeText": "Non toxique",
+    "usageType": "Médicinale",
+    "maladieSummary": "Digestif, Hépatique"
   },
   {
     "id": 130,
@@ -6363,10 +6619,10 @@ const plantesData = [
       "ht": "Tamaren"
     },
     "systeme": {
-      "fr": "Le tamarinier cible principalement le système digestif, avec des effets documentés sur la motilité i"
+      "fr": "Digestif"
     },
-    "toxicite": "caution",
-    "toxiciteLevel": "caution",
+    "toxicite": null,
+    "toxiciteLevel": "safe",
     "sections": {
       "introduction": "Tamarindus indica L. (syn. Tamarindus occidentalis) est un grand arbre exotique, largement naturalisé dans les Départements du Sud et de la Grand'Anse d'Haïti. Il appartient à la famille des Fabacées, une vaste famille tropicale de plus de 19 000 espèces comprenant principalement des arbres, arbustes, lianes et herbes fixatrices d'azote. Cette famille se distingue par ses riches usages alimentaires — avec des légumineuses comme le haricot, les lentilles et l'arachide — et médicinaux, grâce à sa capacité unique à enrichir les sols en protéines végétales. Phytochimiquement, les Fabacées se caractérisent par leur diversité moléculaire incluant alcaloïdes (lupinine, spartéine), isoflavonoïdes, tanins, saponines et lectines, ciblant préférentiellement les systèmes digestif, cutané et nerveux. Toutefois, cette richesse s'accompagne d'une vigilance nécessaire : certains genres comme Abrus (graines d'Abrus precatorius mortelles si mâchées) ou Senna (purgatifs puissants) renferment des principes actifs très puissants exigeant des précautions strictes. Au sein de cette famille, Tamarindus indica constitue l'unique espèce du genre Tamarindus, remarquable par ses fruits en gousses contenant une pulpe acidulée très appréciée. Dans les deux départements, le tamarinier est à la fois un arbre alimentaire incontournable et un remède digestif traditionnel, particulièrement valorisé pour son jus rafraîchissant et ses propriétés laxatives douces.",
       "description": "T. indica est un arbre majestueux de grande taille, pouvant atteindre 20 à 25 mètres de hauteur, reconnaissable à sa silhouette caractéristique et à son adaptation remarquable aux zones sèches du Sud et de la Grand'Anse. Tronc et écorce. Le tronc est massif, pouvant dépasser un mètre de diamètre chez les spécimens âgés. L'écorce est gris-brun, rugueuse et fissurée, formant des plaques caractéristiques. Le bois est dur et résistant, apprécié localement pour la construction. Feuilles. Les feuilles sont composées-pennées, constituées de 10 à 18 paires de folioles oblongues, petites et délicates, d'un vert tendre. Cette structure finement divisée confère à l'arbre un feuillage léger qui filtre agréablement la lumière tout en résistant aux vents forts. Fleurs. Les fleurs sont petites, jaunâtres striées de rouge, groupées en grappes terminales. Elles attirent diverses espèces d'insectes pollinisateurs et précèdent la formation des fruits caractéristiques. Fruits. Le fruit est une gousse pendante, brune à maturité, de forme incurvée, mesurant 8 à 15 cm de longueur. À l'intérieur, la pulpe brun-rouge, de saveur intensément sure, entoure 3 à 8 graines dures et brillantes. Cette pulpe constitue la partie principalement utilisée, tant sur le plan alimentaire que thérapeutique. Les parties utilisées sont la pulpe des fruits (usage dominant), les feuilles, l'écorce et occasionnellement les graines.",
@@ -6392,8 +6648,10 @@ const plantesData = [
     "familleDescription": "",
     "familleImage": "",
     "familleNum": "38",
-    "toxBadgeColor": "yellow",
-    "toxBadgeText": "Précautions"
+    "toxBadgeColor": "green",
+    "toxBadgeText": "Non toxique",
+    "usageType": "Alimentaire et Médicinale",
+    "maladieSummary": "Digestif"
   },
   {
     "id": 131,
@@ -6412,10 +6670,10 @@ const plantesData = [
       "ht": "Fey aran/ kasenèt"
     },
     "systeme": {
-      "fr": "L'usage documenté de R. bicolor cible spécifiquement le système digestif, dans le traitement de la d"
+      "fr": "Digestif"
     },
-    "toxicite": "unknown",
-    "toxiciteLevel": "unknown",
+    "toxicite": null,
+    "toxiciteLevel": "safe",
     "sections": {
       "introduction": "Rhytidophyllum bicolor est un arbuste endémique strict d'Haïti, ce qui signifie qu'il n'existe nulle part ailleurs sur Terre. Il appartient à la famille des Gesnériacées, une famille tropicale remarquable pour ses adaptations aux milieux humides et ses fleurs tubulaires colorées. Au sein de cette famille, le genre Rhytidophyllum regroupe des arbustes endémiques des Grandes Antilles, particulièrement adaptés aux environnements rocheux calcaires et aux ravines ombragées. L'usage documenté de R. bicolor dans les Départements du Sud et de la Grand'Anse concerne principalement le traitement de la diarrhée, bien que son statut d'endémique strict en fasse avant tout une priorité de conservation. Cette espèce présente également un potentiel ornemental remarquable, caractéristique du genre Rhytidophyllum.",
       "description": "R. bicolor est un arbuste de taille modeste, spécifiquement adapté aux ravines humides et aux rochers calcaires ombragés des Départements du Sud et de la Grand'Anse. Tiges et port. L'arbuste développe un port buissonnant caractéristique, avec des tiges ligneuses ramifiées lui permettant de s'ancrer solidement dans les fissures rocheuses et les pentes instables des ravines calcaires. Feuilles. Les feuilles présentent une caractéristique bicolore — d'où le nom scientifique « bicolor » — avec une face supérieure et une face inférieure de teintes contrastées. Cette adaptation chromatique est fréquente chez les Gesnériacées d'ombre, optimisant la capture de la lumière diffuse en sous-bois. Fleurs. Comme toutes les Gesnériacées, R. bicolor produit des fleurs tubulaires colorées, adaptées à la pollinisation par des insectes spécialisés ou des colibris. La floraison constitue l'un des éléments les plus attractifs de cette espèce d'un point de vue ornemental. Fruit et reproduction. Les modalités précises de reproduction et de dispersion de R. bicolor restent peu documentées scientifiquement, constituant une lacune importante pour les stratégies de conservation ex situ. La partie utilisée traditionnellement est la plante entière.",
@@ -6441,8 +6699,10 @@ const plantesData = [
     "familleDescription": "Dominant les régions tropicales avec plus de 3000 espèces réparties en 150 genres, les Gesnériacées constituent une famille remarquable d'herbes, d'arbustes et d'épiphytes, particulièrement diversifiée dans les Amériques et reconnaissable par ses fleurs tubulaires colorées. Cette famille comprend des genres ornementaux mondialement cultivés comme Saintpaulia (violette africaine), Begonia et Gloxinia, ainsi que des espèces à fort potentiel médicinal traditionnel dans les Caraïbes. Les Gesnériacées se distinguent par leur capacité d'adaptation aux milieux humides et ombragés, développant souvent des stratégies épiphytes sophistiquées. Sur le plan phytochimique, la famille présente une composition variable selon les genres : flavonoïdes, tanins, alcaloïdes et composés phénoliques dominent généralement, ciblant préférentiellement les systèmes digestif, respiratoire et dermatologique. Certains genres comme Columnea et Besleria sont utilisés traditionnellement contre les troubles gastro-intestinaux, tandis que d'autres présentent des propriétés anti-inflammatoires. La famille nécessite une attention particulière en Haïti car elle renferme plusieurs espèces endémiques menacées, notamment dans le genre Rhytidophyllum.",
     "familleImage": "",
     "familleNum": "39",
-    "toxBadgeColor": "yellow",
-    "toxBadgeText": "Données insuffisantes"
+    "toxBadgeColor": "green",
+    "toxBadgeText": "Non toxique",
+    "usageType": "Médicinale",
+    "maladieSummary": "Digestif"
   },
   {
     "id": 132,
@@ -6461,10 +6721,10 @@ const plantesData = [
       "ht": "Banann mawon"
     },
     "systeme": {
-      "fr": "Les usages documentés de H. bihai ciblent principalement le système cutané, avec des applications ra"
+      "fr": "Cutané"
     },
-    "toxicite": "caution",
-    "toxiciteLevel": "caution",
+    "toxicite": null,
+    "toxiciteLevel": "safe",
     "sections": {
       "introduction": "Heliconia bihai (L.) L. (syn. Musa bihai L.) est une herbe vivace native, rare en Haïti, présente dans les forêts humides et sous-bois denses des Départements du Sud et de la Grand'Anse. Elle appartient à la famille des Héliconiacées, famille monogénérique dominante des sous-bois tropicaux, remarquable par ses relations écologiques étroites avec les colibris pollinisateurs. Au sein du genre Heliconia, H. bihai se distingue par ses imposantes inflorescences aux bractées rouge-orange spectaculaires et constitue un marqueur écologique précieux des écosystèmes forestiers humides d'altitude moyenne. Son usage principal documenté dans les deux départements est ornemental, bien que des applications thérapeutiques traditionnelles pour les soins cutanés soient rapportées localement.",
       "description": "H. bihai est une herbe rhizomateuse robuste, formant des colonies dans les sous-bois humides, pouvant atteindre 2 à 4 mètres de hauteur dans des conditions optimales. Rhizome et tiges. Le système souterrain est constitué d'un rhizome charnu et segmenté, d'où émergent des pseudotiges constituées de gaines foliaires imbriquées — architecture similaire à celle des bananiers. Ces pseudotiges sont succulentes et renferment un mucilage utilisé traditionnellement. Feuilles. Les feuilles sont alternes, de grande dimension, oblongues-elliptiques, à nervation parallèle caractéristique des monocotylédones. Elles sont portées par de robustes pétioles engainants et présentent souvent des déchirures naturelles perpendiculaires aux nervures, adaptation aux vents tropicaux. Inflorescence et fleurs. L'inflorescence terminale, spectaculaire, est composée d'une succession de bractées coriaces rouge-orange vif, disposées en spirale et abritant chacune plusieurs petites fleurs tubulaires blanches à verdâtres. Cette architecture florale est spécifiquement adaptée à la pollinisation par les colibris. Fruit. Les fruits sont des drupes bleues à maturité, dispersées principalement par les oiseaux frugivores. Les parties utilisées sont principalement les rhizomes et les jeunes pousses, occasionnellement le jus extrait des tiges.",
@@ -6490,8 +6750,10 @@ const plantesData = [
     "familleDescription": "Dominantes des sous-bois tropicaux humides, les Héliconiacées constituent une famille monogénérique remarquable par ses imposantes inflorescences colorées et sa relation étroite avec les colibris pollinisateurs. Cette famille regroupe environ 200 espèces du seul genre Heliconia, distribuées principalement en Amérique tropicale, avec quelques représentants en Asie du Sud-Est. Architecturalement proches des bananiers, les Héliconiacées se distinguent par leurs grandes feuilles engainantes et leurs spectaculaires bractées florales rouge vif, orange ou jaune qui abritent de discrètes fleurs tubulaires. Sur le plan ethnobotanique, plusieurs espèces sont exploitées localement pour l'artisanat (fibres des tiges), l'alimentation (jeunes pousses) et la médecine traditionnelle, particulièrement pour les soins cutanés. Phytochimiquement, la famille se caractérise par une signature dominée par les dérivés de l'acide cinnamique, les tanins et divers composés phénoliques, ciblant préférentiellement le système cutané. Il convient de noter que certaines espèces peuvent présenter des propriétés irritantes nécessitant des précautions lors de la manipulation des tiges et bractées.",
     "familleImage": "",
     "familleNum": "40",
-    "toxBadgeColor": "yellow",
-    "toxBadgeText": "Précautions"
+    "toxBadgeColor": "green",
+    "toxBadgeText": "Non toxique",
+    "usageType": "Médicinale",
+    "maladieSummary": "Cutané"
   },
   {
     "id": 133,
@@ -6512,10 +6774,10 @@ const plantesData = [
       "ht": "Mabilo"
     },
     "systeme": {
-      "fr": "Les systèmes physiologiques documentés dans le Sud et la Grand'Anse concernent principalement l'appa"
+      "fr": "Urinaire, Cutané"
     },
-    "toxicite": "unknown",
-    "toxiciteLevel": "unknown",
+    "toxicite": null,
+    "toxiciteLevel": "safe",
     "sections": {
       "introduction": "Hernandia obovata (syn. H. sonora var. obovata, H. catalpifolia), localement appelé « Mabilo », est un arbre endémique strict d'Haïti — une espèce qui n'existe nulle part ailleurs sur Terre. Il appartient à la famille des Hernandiacées, un groupe d'arbres tropicaux adaptés aux environnements côtiers, et au genre Hernandia, réputé pour ses bois légers et ses usages thérapeutiques traditionnels. Dans les Départements du Sud et de la Grand'Anse, H. obovata est principalement utilisé comme plante médicinale, particulièrement pour les soins capillaires et les bains thérapeutiques, bien que sa rareté extrême limite désormais ces pratiques traditionnelles.",
       "description": "H. obovata est un arbre de taille moyenne, spécifiquement adapté aux zones littorales d'Haïti, notamment dans le Massif de la Hotte où il persiste dans quelques localités refuges de la Grand'Anse. Sa morphologie reflète une adaptation aux environnements côtiers ventés et aux sols pauvres caractéristiques de ces écosystèmes fragiles. Tronc et écorce. Le tronc, relativement mince, présente une écorce lisse à légèrement rugueuse, de couleur gris-brun. Le bois est remarquablement léger, caractéristique du genre Hernandia, ce qui explique son usage traditionnel dans la construction navale du Pacifique — bien qu'en Haïti cette utilisation soit marginale en raison de la rareté de l'espèce. Feuilles. Les feuilles sont simples, alternes, de forme obovale — d'où le nom scientifique obovata. Cette forme caractéristique, plus large vers l'apex qu'à la base, constitue un critère distinctif de l'espèce. Les feuilles sont coriaces, adaptation typique des plantes littorales exposées aux embruns salés. Fleurs et reproduction. La reproduction suit le modèle typique du genre Hernandia, avec des inflorescences en cymes. Les fleurs sont petites, discrètes, et la plante présente généralement une dioécie ou une monoécie selon les individus. Les modalités précises de pollinisation restent peu documentées pour cette espèce rare. Fruit. Le fruit est une drupe charnue entourée d'un involucre membraneux caractéristique du genre, facilitant la dispersion par flottaison — adaptation évolutive cohérente avec l'habitat littoral de l'espèce. Les parties utilisées dans les pratiques traditionnelles comprennent les feuilles, l'écorce et les racines, bien que leur collecte soit aujourd'hui fortement déconseillée en raison du statut critique de conservation de l'espèce.",
@@ -6541,8 +6803,10 @@ const plantesData = [
     "familleDescription": "Dominante dans la flore côtière des Grandes Antilles, la famille des Hernandiacées rassemble environ 60 espèces d'arbres et d'arbustes tropicaux réparties en quatre genres principaux. Ces plantes ligneuses se distinguent par leur adaptation remarquable aux environnements littoraux et leur capacité à coloniser les zones de transition entre mangroves et forêts sèches. Le genre Hernandia constitue le cœur de cette famille, avec des espèces à bois léger traditionnellement utilisées pour la construction nautique dans tout le Pacifique et les Caraïbes. Sur le plan phytochimique, les Hernandiacées développent une signature moléculaire complexe dominée par les lignanes — notamment la podophyllotoxine —, les alcaloïdes benzylisoquinoléiques comme l'hernandine, et une gamme étendue de flavonoïdes et de saponines triterpéniques. Cette composition confère à la famille des propriétés biologiques ciblant préférentiellement les systèmes tégumentaire et cardiovasculaire, avec des activités anti-inflammatoires, antimicrobiennes et cicatrisantes documentées. La rareté croissante des représentants caribéens de cette famille, notamment les espèces endémiques d'Haïti, souligne l'urgence de leur étude et conservation.",
     "familleImage": "",
     "familleNum": "41",
-    "toxBadgeColor": "yellow",
-    "toxBadgeText": "Données insuffisantes"
+    "toxBadgeColor": "green",
+    "toxBadgeText": "Non toxique",
+    "usageType": "Médicinale",
+    "maladieSummary": "Urinaire, Cutané"
   },
   {
     "id": 134,
@@ -6561,10 +6825,10 @@ const plantesData = [
       "ht": "Je mouton"
     },
     "systeme": {
-      "fr": "Les données disponibles suggèrent que C. spinosum cible principalement le système digestif, avec des"
+      "fr": "Digestif, Cardiovasculaire"
     },
-    "toxicite": "unknown",
-    "toxiciteLevel": "unknown",
+    "toxicite": null,
+    "toxiciteLevel": "caution",
     "sections": {
       "introduction": "Clerodendrum spinosum (syn. Ovieda spinosa) est un arbuste natif des Caraïbes et d'Amérique tropicale, documenté dans les Départements du Sud et de la Grand'Anse d'Haïti où il demeure rare. Il appartient à la famille des Lamiacées, cette vaste famille tropicale reconnue pour ses huiles essentielles et ses propriétés médicinales. Au sein de cette famille, il fait partie du genre Clerodendrum, un groupe d'environ 400 espèces d'arbustes et de petits arbres tropicaux, plusieurs étant utilisées en médecine traditionnelle pour leurs propriétés cardiovasculaires et anti-inflammatoires. L'usage de C. spinosum dans les deux départements est principalement médicinal, centré sur l'amélioration de la digestion et le traitement des troubles gastro-intestinaux.",
       "description": "C. spinosum est un arbuste de zone sèche, adapté aux conditions arides des régions côtières et des plateaux calcaires du Sud et de la Grand'Anse. Tiges et port. L'arbuste développe des tiges ligneuses dressées, souvent épineuses — d'où son épithète spécifique spinosum — qui constituent un mécanisme de défense contre l'herbivorie dans son habitat naturel sec. Ces épines sont particulièrement développées sur les jeunes rameaux. Feuilles. Les feuilles sont simples, opposées selon le plan caractéristique des Lamiacées, de forme ovale à elliptique. Elles présentent une texture légèrement coriace, adaptation aux conditions de sécheresse, et dégagent une odeur discrète lorsqu'elles sont froissées. Fleurs. Les fleurs sont disposées en inflorescences terminales, présentant la structure typique des Lamiacées avec une corolle tubulaire à symétrie bilatérale. Elles attirent les insectes pollinisateurs locaux. Fruit. Le fruit est une drupe charnue qui contribue à la dispersion par les oiseaux frugivores. Les parties utilisées dans les pratiques locales sont principalement les feuilles et les racines.",
@@ -6591,7 +6855,9 @@ const plantesData = [
     "familleImage": "",
     "familleNum": "42",
     "toxBadgeColor": "yellow",
-    "toxBadgeText": "Données insuffisantes"
+    "toxBadgeText": "Conditionnel",
+    "usageType": "Médicinale",
+    "maladieSummary": "Digestif, Cardiovasculaire"
   },
   {
     "id": 135,
@@ -6612,10 +6878,10 @@ const plantesData = [
       "ht": "-"
     },
     "systeme": {
-      "fr": "Les systèmes principalement concernés sont le système cardiovasculaire et le système respiratoire. A"
+      "fr": "Respiratoire, Cardiovasculaire"
     },
     "toxicite": null,
-    "toxiciteLevel": "safe",
+    "toxiciteLevel": "caution",
     "sections": {
       "introduction": "Coleus barbatus (syn. Plectranthus barbatus) est une plante herbacée à sous-arbustive exotique, cultivée occasionnellement dans les jardins tropicaux des Départements du Sud et de la Grand'Anse. Cette espèce appartient à la famille des Lamiacées, une famille remarquable par sa richesse en huiles essentielles thérapeutiques et aromatiques. Au sein de cette famille, elle fait partie du genre Coleus, un groupe d'espèces tropicales et subtropicales reconnues pour leurs propriétés cardiovasculaires exceptionnelles, principalement dues à la présence de forskoline, un diterpène aux effets pharmacologiques puissants. Son usage principal documenté dans le Sud et la Grand'Anse concerne les troubles digestifs et cardiaques, à travers des préparations en infusion des racines et des feuilles.",
       "description": "C. barbatus est une plante herbacée vivace ou sous-arbustive pouvant atteindre 60 à 100 cm de hauteur, adaptée aux altitudes basses et moyennes des régions tropicales. Tiges et port. Les tiges sont dressées, quadrangulaires — caractéristique typique des Lamiacées — et présentent une texture légèrement charnue. La plante développe un port buissonnant compact, particulièrement adapté à la culture ornementale. Feuilles. Les feuilles sont opposées, ovales à cordiformes, à marge dentée, et présentent une surface légèrement veloutée. Leur couleur varie du vert clair au vert foncé selon les conditions d'exposition. Lorsqu'on les froisse, elles dégagent une odeur aromatique caractéristique de la famille. Fleurs. L'inflorescence se présente sous forme d'épis terminaux portant de petites fleurs tubulaires bleues à violettes, disposées en verticilles. La floraison attire divers insectes pollinisateurs et constitue un élément décoratif apprécié. Racines. Le système racinaire est particulièrement développé et constitue la partie la plus valorisée médicinalement, car c'est principalement dans les racines que se concentre la forskoline. Les parties utilisées sont les racines — qui concentrent les principes actifs les plus puissants — et les feuilles.",
@@ -6641,8 +6907,10 @@ const plantesData = [
     "familleDescription": "",
     "familleImage": "",
     "familleNum": "42",
-    "toxBadgeColor": "green",
-    "toxBadgeText": "Non toxique"
+    "toxBadgeColor": "yellow",
+    "toxBadgeText": "Conditionnel",
+    "usageType": "Médicinale",
+    "maladieSummary": "Respiratoire, Cardiovasculaire"
   },
   {
     "id": 136,
@@ -6661,10 +6929,10 @@ const plantesData = [
       "ht": "Melis"
     },
     "systeme": {
-      "fr": "La mélisse cible préférentiellement le système nerveux, avec des applications documentées pour l'anx"
+      "fr": "Digestif, Nerveux"
     },
-    "toxicite": "unknown",
-    "toxiciteLevel": "unknown",
+    "toxicite": null,
+    "toxiciteLevel": "safe",
     "sections": {
       "introduction": "Melissa officinalis L. (syn. Mutelia officinalis) est une herbe vivace exotique, cultivée à moyenne altitude dans les Départements du Sud et de la Grand'Anse, où elle demeure relativement rare. Elle appartient à la famille des Lamiacées, reconnue mondialement pour ses huiles essentielles thérapeutiques et ses propriétés aromatiques remarquables. Au sein de cette famille, elle fait partie du genre Melissa, qui ne compte que quelques espèces méditerranéennes, toutes caractérisées par leur parfum citronné distinctif et leurs propriétés calmantes. Son usage principal en Haïti est médicinal, particulièrement comme tisane apaisante pour les troubles nerveux — d'où son nom créole « Melis » dérivé directement du nom scientifique.",
       "description": "M. officinalis est une herbe vivace aromatique de 30 à 80 cm de hauteur, facilement reconnaissable par son parfum citronné caractéristique lorsqu'on froisse ses feuilles. Tiges. Les tiges sont quadrangulaires (carrées en section), caractéristique typique de la famille des Lamiacées, dressées et ramifiées, souvent rougeâtres à la base. Elles portent de nombreuses feuilles opposées et dégagent une odeur citronnée au moindre contact. Feuilles. Les feuilles sont opposées, ovales à cordiformes, dentées sur les bords, de couleur vert clair et couvertes de poils fins. Elles mesurent 2 à 8 cm de longueur et constituent la partie principalement utilisée. Leur surface est gaufrée et elles dégagent une forte fragrance citronnée lorsqu'on les froisse, due à la présence d'huiles essentielles dans les glandes épidermiques. Fleurs. Les petites fleurs blanches ou jaunâtres, parfois légèrement rosées, sont regroupées en verticilles axillaires. Elles attirent particulièrement les abeilles — d'où le nom « Melissa » qui signifie « abeille » en grec ancien. La floraison a lieu généralement en saison sèche dans le contexte haïtien. Racines. Le système racinaire est fibreux et relativement superficiel, s'adaptant bien aux sols bien drainés des moyennes altitudes des deux départements. Les parties utilisées sont principalement les feuilles, récoltées de préférence avant la floraison lorsque leur teneur en huiles essentielles est maximale.",
@@ -6690,8 +6958,10 @@ const plantesData = [
     "familleDescription": "",
     "familleImage": "",
     "familleNum": "42",
-    "toxBadgeColor": "yellow",
-    "toxBadgeText": "Données insuffisantes"
+    "toxBadgeColor": "green",
+    "toxBadgeText": "Non toxique",
+    "usageType": "Alimentaire et Médicinale",
+    "maladieSummary": "Digestif, Nerveux"
   },
   {
     "id": 137,
@@ -6709,10 +6979,10 @@ const plantesData = [
       "ht": "Ti bonm"
     },
     "systeme": {
-      "fr": "M. nemorosa cible préférentiellement les systèmes digestif et nerveux. Les usages documentés dans le"
+      "fr": "Digestif, Nerveux"
     },
-    "toxicite": "caution",
-    "toxiciteLevel": "caution",
+    "toxicite": null,
+    "toxiciteLevel": "safe",
     "sections": {
       "introduction": "Mentha nemorosa Willd. (syn. Mentha spicata var. nemorosa) est une herbe aromatique exotique, rare dans les Départements du Sud et de la Grand'Anse d'Haïti. Elle appartient à la famille des Lamiacées, une famille incontournable de la flore du grand sud, composée majoritairement d'herbes et d'arbustes reconnus mondialement pour leurs riches usages médicinaux, aromatiques et spirituels. Au sein de cette famille, elle fait partie du genre Mentha, qui regroupe plusieurs espèces de menthes caractérisées par leurs huiles essentielles rafraîchissantes et leurs propriétés digestives. Mentha nemorosa est une plante à usage médicinal documentée dans le Sud et la Grand'Anse, où elle est appréciée pour ses propriétés digestives et carminatives, consommée principalement en infusion sous le nom créole de « Mant ».",
       "description": "M. nemorosa est une herbe vivace aromatique d'altitude moyenne, cultivée ou naturalisée dans les jardins familiaux des deux départements. Tiges. Les tiges sont dressées, quadrangulaires — caractéristique distinctive des Lamiacées — généralement ramifiées, pouvant atteindre 30 à 60 cm de hauteur. Elles portent des nœuds marqués d'où émergent les feuilles opposées. Feuilles. Les feuilles sont opposées, ovales à lancéolées, dentées sur les bords, d'un vert vif. Elles dégagent un parfum mentholé caractéristique lorsqu'on les froisse, signe distinctif du genre Mentha. Leur texture est légèrement velue et leur saveur aromatique avec une fraîcheur mentholée moins prononcée que la menthe poivrée. Fleurs. Les fleurs sont petites, blanches à rose pâle, regroupées en épis terminaux denses. Elles présentent la structure typique des Lamiacées avec une corolle tubulaire à deux lèvres et des étamines saillantes. La floraison attire diverses espèces d'insectes pollinisateurs. Racines. Le système racinaire est superficiel mais étendu, avec des stolons permettant la multiplication végétative — stratégie de propagation commune chez les menthes. Les parties utilisées sont principalement les feuilles et les tiges feuillées, récoltées de préférence avant la floraison pour une concentration optimale en huiles essentielles.",
@@ -6738,8 +7008,10 @@ const plantesData = [
     "familleDescription": "",
     "familleImage": "",
     "familleNum": "42",
-    "toxBadgeColor": "yellow",
-    "toxBadgeText": "Précautions"
+    "toxBadgeColor": "green",
+    "toxBadgeText": "Non toxique",
+    "usageType": "Alimentaire et Médicinale",
+    "maladieSummary": "Digestif, Nerveux"
   },
   {
     "id": 138,
@@ -6758,10 +7030,10 @@ const plantesData = [
       "ht": "Bazilik"
     },
     "systeme": {
-      "fr": "Le basilic agit principalement sur les systèmes digestif et nerveux, avec des effets secondaires bén"
+      "fr": "Digestif, Immunitaire, Nerveux"
     },
-    "toxicite": "toxic",
-    "toxiciteLevel": "toxic",
+    "toxicite": null,
+    "toxiciteLevel": "safe",
     "sections": {
       "introduction": "Ocimum basilicum L. (syn. Ocimum thyrsiflorum) est une herbe aromatique exotique, largement cultivée et naturalisée dans les Départements du Sud et de la Grand'Anse. Il appartient à la famille des Lamiacées, une famille principalement composée d'herbes et d'arbustes aromatiques, reconnue mondialement pour ses huiles essentielles très actives et ses riches usages médicinaux, culinaires et spirituels. Au sein de cette famille, il fait partie du genre Ocimum, qui regroupe environ 65 espèces d'herbes tropicales et subtropicales dont plusieurs sont cultivées comme plantes condimentaires — notamment le basilic sacré (Ocimum tenuiflorum) et le basilic citron (Ocimum × citriodorum). Le basilic commun constitue l'une des plantes aromatiques les plus appréciées en Haïti, tant pour ses qualités culinaires que pour ses vertus digestives et son rôle dans les pratiques spirituelles locales.",
       "description": "O. basilicum est une herbe annuelle ou vivace de courte durée, généralement cultivée comme annuelle en Haïti, pouvant atteindre 30 à 60 cm de hauteur dans les conditions locales des basses altitudes du Sud et de la Grand'Anse. Tiges. Les tiges sont dressées, quadrangulaires — caractéristique typique des Lamiacées — légèrement pubescentes, de couleur verte à pourpre selon les variétés. Elles émettent un parfum intense lorsqu'on les froisse, révélateur de leur richesse en huiles essentielles. Feuilles. Les feuilles sont opposées, ovales à elliptiques, de 2 à 6 cm de longueur, à bord entier ou légèrement dentelé. Leur surface est lisse à légèrement rugueuse, de couleur vert vif à vert foncé, parfois teintée de pourpre. Elles sont parsemées de glandes sécrétrices d'huiles essentielles, particulièrement visibles sur la face inférieure, responsables de l'arôme caractéristique de la plante. Fleurs. Les fleurs sont petites, blanches, roses ou pourpres selon les variétés, disposées en épis terminaux. Chaque fleur présente une corolle bilabiée typique des Lamiacées, avec quatre étamines et un style bifide. La floraison est échelonnée et attire diverses espèces d'insectes pollinisateurs. Fruit et graines. Le fruit se compose de quatre akènes (nucules) brun foncé à noir, riches en mucilages. Ces graines, appelées « graines de basilic », gonflent au contact de l'eau et sont parfois utilisées dans des boissons rafraîchissantes. Les parties utilisées sont principalement les feuilles fraîches ou séchées, et occasionnellement les tiges jeunes.",
@@ -6787,8 +7059,10 @@ const plantesData = [
     "familleDescription": "",
     "familleImage": "",
     "familleNum": "42",
-    "toxBadgeColor": "red",
-    "toxBadgeText": "Toxique"
+    "toxBadgeColor": "green",
+    "toxBadgeText": "Non toxique",
+    "usageType": "Alimentaire",
+    "maladieSummary": "Digestif, Immunitaire, Nerveux"
   },
   {
     "id": 139,
@@ -6807,10 +7081,10 @@ const plantesData = [
       "ht": "Fobazen"
     },
     "systeme": {
-      "fr": "O. gratissimum cible principalement les systèmes respiratoire et immunitaire selon la documentation "
+      "fr": "Respiratoire, Immunitaire, Hépatique"
     },
-    "toxicite": "unknown",
-    "toxiciteLevel": "unknown",
+    "toxicite": null,
+    "toxiciteLevel": "safe",
     "sections": {
       "introduction": "Ocimum gratissimum L. (syn. Ocimum suave, Ocimum viride) est un arbuste aromatique exotique, commun dans les Départements du Sud et de la Grand'Anse. Il appartient à la famille des Lamiacées, une vaste famille tropicale et tempérée dominée par les herbes et arbustes aromatiques, reconnue mondialement pour ses genres culinaires emblématiques — menthe (Mentha), thym (Thymus), romarin (Rosmarinus) et basilic (Ocimum) — ainsi que pour ses genres médicinaux majeurs comme la lavande (Lavandula) et la sauge (Salvia). Sur le plan phytochimique, cette famille se caractérise par une richesse exceptionnelle en huiles essentielles volatiles (menthol, thymol, carvacrol, linalol, limonène), en flavonoïdes, en acide rosmarinique et en diterpènes, ciblant préférentiellement les systèmes respiratoire, digestif et nerveux. Il convient de signaler que certaines espèces de cette famille renferment des principes actifs très puissants ou potentiellement toxiques exigeant une préparation adéquate ou un dosage strict, bien que la plupart soient généralement sûres aux doses alimentaires et médicinales habituelles. Au sein de cette famille, Ocimum gratissimum fait partie du genre Ocimum, qui rassemble les basilics tropicaux et tempérés, tous caractérisés par leur forte teneur en eugénol et leurs propriétés antimicrobiennes remarquables. O. gratissimum est une plante médicinale majeure documentée dans le Sud et la Grand'Anse, utilisée principalement pour les troubles digestifs et dans les bains de santé.",
       "description": "O. gratissimum est un arbuste pérenne aromatique de basse altitude, pouvant atteindre 1 à 2 mètres de hauteur dans les conditions favorables des Départements du Sud et de la Grand'Anse. Tiges. Les tiges sont quadrangulaires — caractéristique typique de la famille des Lamiacées — ligneuses à la base et herbacées vers le sommet. Elles sont ramifiées, dressées, et dégagent une forte odeur aromatique piquante au froissement, signe de leur richesse en huiles essentielles. Feuilles. Les feuilles sont opposées, simples, ovales à elliptiques, avec un limbe vert foncé et des bordures légèrement dentées. Leur surface est couverte de glandes sécrétrices d'huiles essentielles, visibles comme de petits points translucides à contre-jour. Au toucher, elles présentent une texture légèrement rugueuse et libèrent immédiatement leur parfum caractéristique. Fleurs. Les inflorescences se présentent sous forme d'épis terminaux composés de nombreuses petites fleurs blanches à violettes, typiques de la famille. Ces fleurs, à corolle bilabiée, attirent efficacement les abeilles et autres pollinisateurs dans l'écosystème local. Fruit. Le fruit se compose de quatre petites nucules lisses, brunes à maturité, contenant chacune une graine capable de régénérer la plante. Les parties utilisées dans les pratiques locales sont principalement les feuilles et les tiges feuillées.",
@@ -6836,8 +7110,10 @@ const plantesData = [
     "familleDescription": "",
     "familleImage": "",
     "familleNum": "42",
-    "toxBadgeColor": "yellow",
-    "toxBadgeText": "Données insuffisantes"
+    "toxBadgeColor": "green",
+    "toxBadgeText": "Non toxique",
+    "usageType": "Alimentaire et Médicinale",
+    "maladieSummary": "Respiratoire, Immunitaire, Hépatique"
   },
   {
     "id": 140,
@@ -6857,10 +7133,10 @@ const plantesData = [
       "ht": "Gwo ten"
     },
     "systeme": {
-      "fr": "P. amboinicus cible préférentiellement le système respiratoire, où elle exerce des effets antitussif"
+      "fr": "Digestif, Respiratoire"
     },
-    "toxicite": "toxic",
-    "toxiciteLevel": "toxic",
+    "toxicite": null,
+    "toxiciteLevel": "safe",
     "sections": {
       "introduction": "Plectranthus amboinicus (syn. Coleus amboinicus, Coleus aromaticus) est une herbe exotique pantropicale, documentée dans les Départements du Sud et de la Grand'Anse où elle reste rare malgré son introduction relativement ancienne. Elle appartient à la famille des Lamiacées, cette vaste famille cosmopolite d'herbes et d'arbustes reconnue mondialement pour ses huiles essentielles particulièrement actives et ses applications thérapeutiques diversifiées. Dans cette famille, les genres à vocation alimentaire incluent Ocimum (basilic), Mentha (menthe) et Origanum (origan véritable), tandis que les genres médicinaux majeurs comprennent Rosmarinus (romarin), Thymus (thym), Salvia (sauge) et Lavandula (lavande). Au sein de cette famille, elle fait partie du genre Plectranthus, un groupe tropical d'herbes aromatiques réputées pour leurs propriétés respiratoires et digestives. Son usage dans les deux départements est principalement médicinal, particulièrement comme antitussif et stimulant de l'appétit, à travers la préparation d'infusions douces et aromatiques.",
       "description": "P. amboinicus est une herbe succulente vivace de basse altitude, remarquable par son port compact et ses feuilles particulièrement charnues et aromatiques. Dans le contexte des Départements du Sud et de la Grand'Anse, elle se cultive principalement dans les jardins créoles comme plante médicinale, bien qu'elle demeure rare selon l'inventaire BRH. Tiges. Les tiges sont quadrangulaires — caractéristique typique de la famille des Lamiacées — charnues et succulentes, de couleur verte à légèrement pourprée. Elles portent des poils fins et dégagent un parfum intense lorsqu'on les froisse. Feuilles. Les feuilles constituent la partie la plus distinctive de la plante : opposées, ovales à largement ovales, épaisses et charnues, de couleur vert clair avec des nervures marquées. Leur surface est veloutée au toucher et leur bordure est crénelée. Lorsqu'on les malaxe, elles libèrent immédiatement une fragrance puissante rappelant l'orégon, d'où le nom d'orégon cubain. Fleurs. L'inflorescence se présente sous forme d'épis terminaux portant de petites fleurs tubulaires blanches à violacées, typiques de la famille. La floraison reste cependant secondaire, la plante étant cultivée pour ses feuilles. Racines. Le système racinaire est peu profond mais étendu, adapté aux sols bien drainés des régions tropicales sèches. Les parties utilisées sont principalement les feuilles et les tiges jeunes.",
@@ -6886,8 +7162,10 @@ const plantesData = [
     "familleDescription": "",
     "familleImage": "",
     "familleNum": "42",
-    "toxBadgeColor": "red",
-    "toxBadgeText": "Toxique"
+    "toxBadgeColor": "green",
+    "toxBadgeText": "Non toxique",
+    "usageType": "Médicinale",
+    "maladieSummary": "Digestif, Respiratoire"
   },
   {
     "id": 141,
@@ -6905,7 +7183,7 @@ const plantesData = [
       "ht": "Womaren"
     },
     "systeme": {
-      "fr": "Le romarin cible préférentiellement les systèmes nerveux et digestif, avec des applications document"
+      "fr": "Digestif, Nerveux, Sanguin"
     },
     "toxicite": null,
     "toxiciteLevel": "safe",
@@ -6935,7 +7213,9 @@ const plantesData = [
     "familleImage": "",
     "familleNum": "42",
     "toxBadgeColor": "green",
-    "toxBadgeText": "Non toxique"
+    "toxBadgeText": "Non toxique",
+    "usageType": "Médicinale",
+    "maladieSummary": "Digestif, Nerveux, Sanguin"
   },
   {
     "id": 142,
@@ -6953,10 +7233,10 @@ const plantesData = [
       "ht": "Ten"
     },
     "systeme": {
-      "fr": "Le thym cible préférentiellement les systèmes respiratoire et immunitaire. Dans le contexte local ha"
+      "fr": "Respiratoire, Immunitaire"
     },
-    "toxicite": "caution",
-    "toxiciteLevel": "caution",
+    "toxicite": null,
+    "toxiciteLevel": "safe",
     "sections": {
       "introduction": "Thymus vulgaris L. (syn. Thymus ilerdensis) est une herbe aromatique exotique, cultivée en haute altitude dans les Départements du Sud et de la Grand'Anse. Il appartient à la famille des Lamiacées, une famille incontournable composée majoritairement d'herbes et d'arbustes, reconnue mondialement pour ses riches usages médicinaux, aromatiques et spirituels. Au sein de cette famille, Thymus vulgaris fait partie du genre Thymus, qui regroupe plusieurs espèces à fort potentiel thérapeutique — dont le thym des jardins et le serpolet — toutes caractérisées par leurs huiles essentielles riches en monoterpènes phénoliques. Thymus vulgaris est une plante à usage principalement aromatique et médicinal : elle constitue l'une des épices de référence de la cuisine méditerranéenne adaptée en Haïti et un remède respiratoire traditionnel utilisé dans les deux départements.",
       "description": "T. vulgaris est une herbe vivace de petite taille, particulièrement adaptée aux conditions d'altitude des montagnes haïtiennes du Sud et de la Grand'Anse, où elle est cultivée de manière sporadique en raison de sa rareté. Tiges. Les tiges sont ligneuses à la base, ramifiées, de section carrée — caractéristique distinctive de la famille des Lamiacées — et portent un dense revêtement de poils fins lui conférant un aspect grisâtre. Cette pilosité constitue une adaptation aux conditions sèches et venteuses des hautes altitudes. Feuilles. Les feuilles sont petites, opposées, ovales à linéaires, de couleur vert-gris, particulièrement coriaces et couvertes de glandes oléifères microscopiques responsables de l'arôme intense. Leur texture épaisse et leur surface réduite constituent des adaptations à la sécheresse et aux variations thermiques d'altitude. Fleurs. Les petites fleurs, blanches à rose pâle, sont regroupées en épis terminaux denses. Elles présentent la structure caractéristique des Lamiacées avec une corolle bilabiée et quatre étamines. Dans le contexte haïtien, la floraison est favorisée par les conditions fraîches d'altitude. Fruit. Le fruit se compose de quatre petits akènes (nucules) contenus dans le calice persistant, permettant la reproduction par semis. Les parties utilisées sont principalement les feuilles et les jeunes tiges, récoltées de préférence avant la floraison pour une concentration optimale en principes actifs.",
@@ -6982,8 +7262,10 @@ const plantesData = [
     "familleDescription": "",
     "familleImage": "",
     "familleNum": "42",
-    "toxBadgeColor": "yellow",
-    "toxBadgeText": "Précautions"
+    "toxBadgeColor": "green",
+    "toxBadgeText": "Non toxique",
+    "usageType": "Alimentaire et Médicinale",
+    "maladieSummary": "Respiratoire, Immunitaire"
   },
   {
     "id": 143,
@@ -7001,10 +7283,10 @@ const plantesData = [
       "ht": "Kannèl"
     },
     "systeme": {
-      "fr": "La cannelle cible principalement les systèmes digestif et métabolique. Les études scientifiques sugg"
+      "fr": "Digestif, Cardiovasculaire"
     },
-    "toxicite": "caution",
-    "toxiciteLevel": "caution",
+    "toxicite": null,
+    "toxiciteLevel": "safe",
     "sections": {
       "introduction": "Cinnamomum verum J.Presl (syn. Cinnamomum zeylanicum Blume) est un arbre exotique d'altitude moyenne, cultivé dans les Départements du Sud et de la Grand'Anse où il demeure rare. Connu sous le nom créole de « Kannèl », il appartient à la famille des Lauracées et constitue l'une des épices les plus précieuses au monde. Au sein du genre Cinnamomum, qui comprend plusieurs espèces productrices d'épices — notamment C. cassia — C. verum se distingue par sa teneur plus faible en coumarine, le rendant plus sûr pour un usage alimentaire prolongé. Son usage dominant en Haïti est aromatique et thérapeutique, particulièrement apprécié en infusion chaude contre les refroidissements et comme adjuvant antidiabétique.",
       "description": "C. verum est un arbre sempervirent de taille moyenne, pouvant atteindre 10 à 15 mètres de hauteur dans son habitat naturel, mais généralement maintenu plus petit en culture dans les jardins haïtiens du Sud et de la Grand'Anse. Tronc et écorce. Le tronc présente une écorce lisse et brunâtre qui constitue la partie la plus précieuse de la plante. L'écorce interne, de couleur cannelle caractéristique, se détache en bandes qui s'enroulent naturellement lors du séchage pour former les fameux « bâtons de cannelle ». Cette écorce dégage un parfum intense et une saveur à la fois douce et légèrement piquante. Feuilles. Les feuilles sont persistantes, opposées, de forme ovale à elliptique, mesurant 7 à 18 cm de longueur. Elles présentent une nervation pennée caractéristique avec trois nervures principales bien visibles. Jeunes, elles arborent une teinte rougeâtre avant de devenir vert foncé brillant. Lorsqu'on les froisse, elles libèrent une fragrance aromatique distinctive. Fleurs et fruits. Les petites fleurs blanc-jaunâtre, regroupées en panicules axillaires, apparaissent généralement en saison sèche. Elles évoluent en petits fruits ovoïdes de couleur pourpre foncé à maturité. Dans le contexte haïtien, la floraison et la fructification peuvent être irrégulières selon les conditions climatiques locales. Les parties utilisées sont principalement l'écorce interne séchée, et secondairement les feuilles pour des préparations moins concentrées.",
@@ -7030,8 +7312,10 @@ const plantesData = [
     "familleDescription": "Dominant les forêts tropicales humides, les Lauracées regroupent environ 2500 espèces réparties en 50 genres, principalement des arbres et arbustes aromatiques. Cette famille tropicale et subtropicale se distingue par sa remarquable diversité d'usages : alimentaires avec l'avocat (Persea americana), aromatiques avec la cannelle (Cinnamomum verum) et le laurier (Laurus nobilis), et médicinaux avec de nombreuses espèces amazoniennes. Les genres Persea, Cinnamomum et Ocotea constituent les piliers de cette famille en Haïti. Sur le plan phytochimique, les Lauracées se caractérisent par une signature dominée par des huiles essentielles riches en cinnamaldéhyde, eugénol et linalol, des flavonoïdes, des tanins et des acides gras spécifiques comme l'acide laurique. Ces composés ciblent préférentiellement les systèmes digestif, métabolique et cardiovasculaire. Une vigilance particulière s'impose avec certaines espèces du genre Cinnamomum, dont les huiles concentrées peuvent être irritantes pour les muqueuses, et les feuilles d'avocat, toxiques pour les animaux domestiques.",
     "familleImage": "",
     "familleNum": "43",
-    "toxBadgeColor": "yellow",
-    "toxBadgeText": "Précautions"
+    "toxBadgeColor": "green",
+    "toxBadgeText": "Non toxique",
+    "usageType": "Alimentaire et Médicinale",
+    "maladieSummary": "Digestif, Cardiovasculaire"
   },
   {
     "id": 144,
@@ -7051,10 +7335,10 @@ const plantesData = [
       "ht": "Zaboka"
     },
     "systeme": {
-      "fr": "Les effets biologiques de P. americana ciblent principalement les systèmes cardiovasculaire et métab"
+      "fr": "Cardiovasculaire, Sanguin"
     },
-    "toxicite": "unknown",
-    "toxiciteLevel": "unknown",
+    "toxicite": null,
+    "toxiciteLevel": "safe",
     "sections": {
       "introduction": "Persea americana Mill. (syn. Laurus persea L.) est un arbre fruitier exotique largement cultivé et naturalisé dans les Départements du Sud et de la Grand'Anse. Appartenant à la famille des Lauracées, il fait partie du genre Persea qui comprend une cinquantaine d'espèces d'arbres tropicaux et subtropicaux. Le zaboka constitue l'une des cultures fruitières les plus importantes d'Haïti, tant pour son usage alimentaire quotidien que pour ses applications thérapeutiques traditionnelles documentées dans la région. Son fruit, riche en lipides mono-insaturés, occupe une place centrale dans l'alimentation locale, tandis que ses feuilles sont employées dans diverses préparations médicinales populaires.",
       "description": "P. americana est un arbre de taille moyenne à grande, pouvant atteindre 10 à 20 mètres de hauteur dans les conditions favorables des départements du Sud et de la Grand'Anse. Tronc et écorce. Le tronc est droit et robuste, recouvert d'une écorce gris-brun, lisse chez les jeunes arbres puis devenant rugueuse et fissurée avec l'âge. Le bois est tendre et peu dense. Feuilles. Les feuilles sont simples, alternes, persistantes, de forme elliptique à ovale, mesurant 10 à 25 cm de longueur. Elles présentent une surface coriace, vert foncé brillant sur la face supérieure et plus pâle sur la face inférieure. Lorsqu'on les froisse, elles dégagent une odeur aromatique caractéristique due aux huiles essentielles. Leur saveur est astringente. Fleurs. Les fleurs sont petites, verdâtres à jaunâtres, regroupées en panicules terminales ou axillaires. Elles sont bisexuées mais présentent un mécanisme de protogynie qui favorise la pollinisation croisée. Fruit. Le fruit est une grande drupe piriforme ou ovoïde, de 7 à 20 cm de longueur, pesant généralement entre 150 g et 500 g selon les variétés cultivées localement. La peau (péricarpe) varie du vert au violet foncé selon la variété. La pulpe (mésocarpe) est crémeuse, de couleur jaune-vert à jaune, entourant une grosse graine centrale (endocarpe) de couleur brune. Les parties utilisées sont principalement le fruit (consommation) et les feuilles (usage thérapeutique).",
@@ -7080,8 +7364,10 @@ const plantesData = [
     "familleDescription": "",
     "familleImage": "",
     "familleNum": "43",
-    "toxBadgeColor": "yellow",
-    "toxBadgeText": "Données insuffisantes"
+    "toxBadgeColor": "green",
+    "toxBadgeText": "Non toxique",
+    "usageType": "Alimentaire et Médicinale",
+    "maladieSummary": "Cardiovasculaire, Sanguin"
   },
   {
     "id": 145,
@@ -7099,10 +7385,10 @@ const plantesData = [
       "ht": "Zèb vè"
     },
     "systeme": {
-      "fr": "Spigelia anthelmia cible principalement le système parasitaire, avec une activité documentée contre "
+      "fr": "Nerveux, Cardiovasculaire"
     },
-    "toxicite": "toxic",
-    "toxiciteLevel": "toxic",
+    "toxicite": null,
+    "toxiciteLevel": "safe",
     "sections": {
       "introduction": "Spigelia anthelmia L. (syn. Anthelmenthia quadraphyllia) est une herbe native très rare, documentée dans les Départements du Sud et de la Grand'Anse. Elle appartient à la famille des Loganiacées, une famille tropicale reconnue pour ses alcaloïdes puissants et ses propriétés médicinales ciblées. Au sein de cette famille, elle fait partie du genre Spigelia, qui regroupe une trentaine d'espèces d'herbes et d'arbustes des régions chaudes des Amériques, toutes caractérisées par leur richesse en alcaloïdes indoliques — notamment la spigéline — et leurs usages anthelminthiques traditionnels. Dans les Départements étudiés, S. anthelmia constitue un remède traditionnel antiparasitaire, bien que son statut de plante très rare et sa toxicité significative limitent considérablement son usage contemporain.",
       "description": "S. anthelmia est une herbe de basse altitude, de petite taille, caractérisée par son port dressé et ses inflorescences terminales distinctives. Tiges. Les tiges sont herbacées, généralement simples, dressées et de section quadrangulaire — caractère distinctif facilitant l'identification sur le terrain. Elles portent des feuilles opposées et se terminent par des inflorescences en épis. Feuilles. Les feuilles sont simples, opposées, sessiles ou subsessiles, de forme ovale à lancéolée. Leur limbe est entier, glabre et d'un vert franc. La nervation est pennée avec une nervure centrale bien marquée. Fleurs. Les fleurs sont petites, tubulaires, regroupées en épis terminaux denses et allongés. Elles présentent une corolle à quatre lobes, généralement blanche ou rosée, et attirent de petits insectes pollinisateurs. Cette disposition en épi constitue l'un des caractères diagnostiques du genre. Fruit. Le fruit est une petite capsule déhiscente contenant plusieurs graines brunes et anguleuses. Les parties utilisées traditionnellement sont les racines et les feuilles, bien que les racines concentrent les alcaloïdes les plus puissants et les plus dangereux.",
@@ -7128,8 +7414,10 @@ const plantesData = [
     "familleDescription": "Réunissant environ 15 genres et 200 espèces principalement tropicales, les Loganiacées constituent une famille de plantes herbacées et ligneuses aux propriétés pharmacologiques remarquables. Cette famille se distingue par sa richesse en alcaloïdes indoliques puissants — notamment la spigéline, la strychnine et la brucine — qui confèrent à plusieurs de ses représentants des activités thérapeutiques ciblées mais également une toxicité significative. Les genres Spigelia et Strychnos dominent les usages médicinaux traditionnels, le premier étant reconnu pour ses propriétés anthelminthiques dans les Caraïbes et l'Amérique tropicale, tandis que le second produit des alcaloïdes d'une puissance exceptionnelle utilisés en pharmacologie moderne. Sur le plan phytochimique, la famille présente une signature caractérisée par des alcaloïdes indoliques, des iridoïdes et des flavonoïdes, ciblant préférentiellement les systèmes nerveux et parasitaire. Cette combinaison moléculaire exige une vigilance absolue : la marge thérapeutique est particulièrement étroite, et les surdosages peuvent provoquer convulsions, troubles cardiaques et intoxications graves.",
     "familleImage": "",
     "familleNum": "44",
-    "toxBadgeColor": "red",
-    "toxBadgeText": "Toxique"
+    "toxBadgeColor": "green",
+    "toxBadgeText": "Non toxique",
+    "usageType": "Alimentaire et Médicinale",
+    "maladieSummary": "Nerveux, Cardiovasculaire"
   },
   {
     "id": 146,
@@ -7147,10 +7435,10 @@ const plantesData = [
       "ht": "Grenad"
     },
     "systeme": {
-      "fr": "Le grenadier cible préférentiellement le système digestif, conformément à la signature phytochimique"
+      "fr": "Digestif, Cardiovasculaire"
     },
-    "toxicite": "toxic",
-    "toxiciteLevel": "toxic",
+    "toxicite": null,
+    "toxiciteLevel": "caution",
     "sections": {
       "introduction": "Punica granatum L. (syn. Punica nana) est un arbuste fruitier exotique cultivé dans les Départements du Sud et de la Grand'Anse d'Haïti, où il demeure rare en production locale. Il appartient à la famille des Lythracées, une famille principalement arbustive reconnue pour ses propriétés antioxydantes exceptionnelles. Au sein de cette famille, il constitue l'espèce type du genre Punica, genre monospécifique dont il représente l'unique représentant. Le grenadier est une plante à double usage — alimentaire par ses fruits riches en antioxydants, et médicinale par son écorce et son péricarpe aux propriétés antidiarrhéiques documentées. Son importance thérapeutique mondiale en fait l'un des fruits les plus étudiés scientifiquement, avec près de 5000 publications indexées.",
       "description": "P. granatum est un arbuste fruitier de basse altitude, adapté aux climats tropicaux et subtropicaux, pouvant atteindre 2 à 5 mètres de hauteur. *Tiges et écorce.* L'arbuste développe de multiples troncs à écorce gris-brun, lisse chez les jeunes sujets puis se desquamant avec l'âge. Les jeunes rameaux sont souvent épineux, adaptation défensive caractéristique de la famille. *Feuilles.* Les feuilles sont simples, opposées ou subopposées, oblongues à lancéolées, de couleur vert brillant. Elles mesurent 3 à 7 cm de longueur et présentent un pétiole court. Leur texture coriace leur permet de résister aux conditions de sécheresse. *Fleurs.* Les fleurs sont remarquables par leur beauté ornementale : grandes (3-5 cm de diamètre), solitaires ou en petits groupes, avec 5 à 7 pétales rouge-orange vif et de nombreuses étamines. Le calice charnu et persistant forme une couronne caractéristique. *Fruit.* Le fruit, botaniquement une baie, constitue la partie la plus remarquable de la plante. Il s'agit d'une grenade globuleuse de 6 à 12 cm de diamètre, à écorce coriace rouge-jaune, surmontée d'une couronne formée par le calice persistant. L'intérieur est divisé en loges contenant de nombreuses graines (arilles) rouge rubis, juteuses et à saveur acidulée caractéristique. Les parties utilisées dans les Départements du Sud et de la Grand'Anse sont principalement les fruits (graines et jus), l'écorce et le péricarpe.",
@@ -7176,8 +7464,10 @@ const plantesData = [
     "familleDescription": "Les Lythracées constituent une famille principalement arbustive de régions tropicales et subtropicales, rassemblant environ 600 espèces réparties en 30 genres. Cette famille se distingue par ses représentants à forte valeur nutritionnelle et thérapeutique, dont le grenadier (Punica granatum) représente l'espèce la plus emblématique pour ses propriétés antioxydantes exceptionnelles. D'autres genres d'intérêt incluent Lawsonia (henné) utilisé en cosmétique traditionnelle, et Lagerstroemia (lilas des Indes) prisé comme ornemental. Sur le plan phytochimique, les Lythracées présentent une signature remarquable dominée par les tanins hydrolysables — notamment les punicalagines et l'acide ellagique — les anthocyanes responsables des colorations rouge-pourpre des fruits, et divers flavonoïdes. Ces composés confèrent à la famille des propriétés antioxydantes, anti-inflammatoires et antimicrobiennes ciblant préférentiellement le système digestif. Une vigilance s'impose cependant : l'écorce de certaines espèces, notamment du grenadier, renferme des alcaloïdes comme la pelletierine, potentiellement toxiques à doses élevées et nécessitant une préparation appropriée.",
     "familleImage": "",
     "familleNum": "45",
-    "toxBadgeColor": "red",
-    "toxBadgeText": "Toxique"
+    "toxBadgeColor": "yellow",
+    "toxBadgeText": "Conditionnel",
+    "usageType": "Alimentaire et Médicinale",
+    "maladieSummary": "Digestif, Cardiovasculaire"
   },
   {
     "id": 147,
@@ -7199,10 +7489,10 @@ const plantesData = [
       "ht": "Bwa kaka"
     },
     "systeme": {
-      "fr": "B. glandulosa cible principalement le système digestif, avec des applications traditionnelles docume"
+      "fr": "Digestif"
     },
-    "toxicite": "unknown",
-    "toxiciteLevel": "unknown",
+    "toxicite": null,
+    "toxiciteLevel": "safe",
     "sections": {
       "introduction": "Bunchosia glandulosa (syn. Malpighia glandulosa) est un arbuste natif commun des Départements du Sud et de la Grand'Anse, où il occupe les zones de basse altitude. Appartenant à la famille des Malpighiacées, il fait partie du genre Bunchosia, qui regroupe une trentaine d'espèces d'arbustes tropicaux américains aux fruits comestibles. L'usage principal de cette espèce dans les deux départements est médicinal, particulièrement pour les troubles digestifs et le diabète traditionnel, bien qu'elle soit également utilisée dans des contextes rituels spécifiques. Son nom créole « Bwa kaka » reflète probablement l'aspect ou la texture particulière de certaines de ses parties, caractéristique qui se retrouve dans sa saveur gluante distinctive.",
       "description": "B. glandulosa est un arbuste de taille modérée, adapté aux conditions climatiques des basses terres haïtiennes du Sud et de la Grand'Anse. Tiges et port. L'arbuste développe des rameaux ligneux à l'écorce brunâtre, formant un port buissonnant caractéristique du genre Bunchosia. Les jeunes pousses présentent souvent une pubescence fine. Feuilles. Les feuilles sont simples, opposées, de forme ovale à elliptique, avec des nervures bien marquées. Elles présentent des glandes caractéristiques de la famille des Malpighiacées, visibles à la loupe sur la face inférieure. Leur texture est légèrement coriace et leur saveur distinctive est gluante. Fleurs. Les fleurs sont petites, regroupées en inflorescences, typiques de la famille avec cinq pétales souvent jaunes ou blanchâtres. La floraison attire divers insectes pollinisateurs locaux. Fruits. Les fruits sont de petites drupes charnues, comestibles, souvent consommées localement et parfois appelées « peanut butter fruit » dans d'autres régions des Caraïbes en raison de leur texture particulière. Les parties utilisées sont principalement les feuilles et les fruits.",
@@ -7228,8 +7518,10 @@ const plantesData = [
     "familleDescription": "Dominante dans la flore tropicale américaine, la famille des Malpighiacées rassemble environ 1 300 espèces réparties en 75 genres, principalement des arbustes et lianes grimpantes. Cette famille se distingue par sa remarquable diversité d'usages : alimentaires avec des fruits riches en vitamine C comme l'acérola (Malpighia emarginata), médicinaux avec des propriétés digestives et antioxydantes marquées, et ornementaux grâce aux fleurs colorées de nombreuses espèces. Sur le plan phytochimique, les Malpighiacées développent une signature caractéristique dominée par des flavonoïdes complexes, des tanins condensés, des acides phénoliques et une concentration exceptionnelle en vitamine C chez certains genres. Ces composés ciblent préférentiellement les systèmes digestif et immunitaire, conférant des propriétés astringentes, antioxydantes et anti-inflammatoires. Une vigilance s'impose cependant : certaines espèces renferment des principes actifs puissants nécessitant un dosage approprié et une préparation adéquate pour éviter tout effet indésirable.",
     "familleImage": "",
     "familleNum": "46",
-    "toxBadgeColor": "yellow",
-    "toxBadgeText": "Données insuffisantes"
+    "toxBadgeColor": "green",
+    "toxBadgeText": "Non toxique",
+    "usageType": "Alimentaire et Médicinale",
+    "maladieSummary": "Digestif"
   },
   {
     "id": 148,
@@ -7249,10 +7541,10 @@ const plantesData = [
       "ht": "Seriz"
     },
     "systeme": {
-      "fr": "M. emarginata cible préférentiellement le système immunitaire et secondairement le système digestif."
+      "fr": "Digestif, Immunitaire"
     },
-    "toxicite": "toxic",
-    "toxiciteLevel": "toxic",
+    "toxicite": null,
+    "toxiciteLevel": "safe",
     "sections": {
       "introduction": "Malpighia emarginata DC. (syn. Malpighia punicifolia, souvent mal appliqué historiquement) est un arbuste fruitier exotique, naturalisé et largement cultivé dans les Départements du Sud et de la Grand'Anse. Il appartient à la famille des Malpighiacées, une famille tropicale d'arbres et arbustes dominée par des espèces à fruits comestibles et à propriétés médicinales marquées. Cette famille se caractérise phytochimiquement par une exceptionnelle richesse en vitamine C — particulièrement chez Malpighia emarginata qui détient des records mondiaux —, ainsi qu'en flavonoïdes, anthocyanes et tanins, ciblant préférentiellement les systèmes immunitaire et digestif. Au sein de cette famille, le genre Malpighia regroupe environ 45 espèces d'arbustes fruitiers néotropicaux, dont plusieurs sont cultivées pour leurs fruits riches en antioxydants. M. emarginata représente l'espèce alimentaire et médicinale majeure des Départements du Sud et de la Grand'Anse, où elle est principalement valorisée pour ses propriétés immunostimulantes exceptionnelles.",
       "description": "M. emarginata est un arbuste de basse altitude, généralement de 2 à 4 mètres de hauteur, adapté aux climats tropicaux humides des départements du Sud et de la Grand'Anse. Tiges et port. L'arbuste présente un port buissonnant avec des branches étalées et flexibles. L'écorce jeune est lisse et verdâtre, devenant rugueuse et grisâtre avec l'âge. Les rameaux jeunes sont pubescents. Feuilles. Les feuilles sont simples, opposées, de forme ovale à elliptique, mesurant 2 à 7 cm de longueur. Elles sont coriaces, à bords entiers ou légèrement émarginés (d'où le nom spécifique), de couleur vert brillant sur la face supérieure et plus pâle au revers. La nervation est pennée et bien marquée. Fleurs. Les inflorescences sont axillaires, en grappes courtes portant 3 à 8 petites fleurs hermaphrodites. Chaque fleur mesure environ 1 cm de diamètre, avec 5 pétales roses à blancs, 10 étamines et un pistil tricarpe. La floraison est étalée sur plusieurs mois dans les conditions haïtiennes. Fruits. Le fruit est une drupe globuleuse de 1 à 2 cm de diamètre, rouge vif à maturité, contenant 2 à 3 graines triangulaires. La pulpe juteuse représente la partie valorisée, caractérisée par sa saveur acidulée et sa texture légèrement gluante. Les parties utilisées sont principalement les fruits mûrs, et secondairement les feuilles pour certaines préparations médicinales.",
@@ -7278,8 +7570,10 @@ const plantesData = [
     "familleDescription": "",
     "familleImage": "",
     "familleNum": "46",
-    "toxBadgeColor": "red",
-    "toxBadgeText": "Toxique"
+    "toxBadgeColor": "green",
+    "toxBadgeText": "Non toxique",
+    "usageType": "Alimentaire et Médicinale",
+    "maladieSummary": "Digestif, Immunitaire"
   },
   {
     "id": 149,
@@ -7297,10 +7591,10 @@ const plantesData = [
       "ht": "Kalalou"
     },
     "systeme": {
-      "fr": "Les propriétés thérapeutiques d'A. esculentus ciblent principalement les systèmes digestif et endocr"
+      "fr": "Digestif, Endocrinien"
     },
-    "toxicite": "caution",
-    "toxiciteLevel": "caution",
+    "toxicite": null,
+    "toxiciteLevel": "safe",
     "sections": {
       "introduction": "Abelmoschus esculentus (L.) Moench (syn. Hibiscus esculentus) est une herbe annuelle exotique, largement cultivée dans les Départements du Sud et de la Grand'Anse pour ses usages alimentaires et médicinaux. Appartenant à la famille des Malvacées, cette espèce fait partie du genre Abelmoschus, qui regroupe plusieurs espèces tropicales à fruits comestibles caractérisés par leur texture mucilagineuse distinctive. Le gombo constitue l'un des légumes de base de la cuisine haïtienne, particulièrement apprécié dans la préparation du « Tomtom », et jouit d'une réputation thérapeutique notable contre le diabète dans les pratiques domestiques des deux départements. D'origine probablement africaine, cette plante pantropicale s'est parfaitement adaptée aux conditions climatiques d'Haïti.",
       "description": "A. esculentus est une herbe dressée pouvant atteindre 1 à 2 mètres de hauteur, cultivée annuellement dans les jardins et parcelles agricoles du Sud et de la Grand'Anse. Tiges. La tige principale est robuste, dressée, légèrement velue et souvent teintée de rouge à sa base. Elle se ramifie modérément et porte un feuillage dense. Feuilles. Les feuilles sont alternes, palmatilobées, à 3-7 lobes profonds et dentés. Elles sont portées par de longs pétioles et présentent une surface légèrement rugueuse au toucher. Leur couleur varie du vert clair au vert foncé selon l'âge. Fleurs. Les fleurs sont solitaires, axillaires, de grande taille et très ornementales. Elles présentent cinq pétales jaune pâle à crème avec souvent une tache rouge foncé à la base, caractéristique des Malvacées. Le pistil central proéminent et les nombreuses étamines soudées forment une colonne distinctive. Fruit. Le fruit, appelé « capsule » botaniquement, constitue la partie consommée : il s'agit d'une gousse allongée, pointue, côtelée longitudinalement, de couleur verte, contenant de nombreuses graines rondes et foncées. C'est ce fruit immature qui développe la texture gluante caractéristique lors de la cuisson, due à la libération des mucilages. Les parties utilisées sont principalement les fruits immatures et occasionnellement les graines mûres torréfiées.",
@@ -7326,8 +7620,10 @@ const plantesData = [
     "familleDescription": "Les Malvacées regroupent environ 4000 espèces d'herbes, d'arbustes et d'arbres largement distribués dans les régions tropicales et subtropicales du globe. Cette famille cosmopolite compte plusieurs genres d'importance majeure : les hibiscus ornementaux (Hibiscus), le cotonnier (Gossypium), les fromagers tropicaux (Ceiba), et de nombreuses espèces alimentaires comme le gombo (Abelmoschus) et le cacao (Theobroma). Les genres Sida et Malva sont particulièrement valorisés en médecine traditionnelle pour leurs propriétés émollientes et anti-inflammatoires. Sur le plan phytochimique, cette famille se caractérise par une signature dominée par les mucilages polysaccharidiques, les flavonoïdes, les tanins et divers pigments anthocyaniques comme la malvidine. Ces composés ciblent préférentiellement les systèmes respiratoire, digestif et tégumentaire. Une vigilance s'impose concernant certains genres : le cotonnier (Gossypium) contient du gossypol potentiellement toxique, et le cacao (Theobroma) renferme de la théobromine qui peut provoquer des palpitations à forte dose et s'avère toxique pour les carnivores domestiques.",
     "familleImage": "",
     "familleNum": "47",
-    "toxBadgeColor": "yellow",
-    "toxBadgeText": "Précautions"
+    "toxBadgeColor": "green",
+    "toxBadgeText": "Non toxique",
+    "usageType": "Alimentaire et Médicinale",
+    "maladieSummary": "Digestif, Endocrinien"
   },
   {
     "id": 150,
@@ -7345,10 +7641,10 @@ const plantesData = [
       "ht": "Pete vye granmoun"
     },
     "systeme": {
-      "fr": "A. abutiloides cible principalement le système respiratoire dans les usages traditionnels documentés"
+      "fr": "Respiratoire"
     },
-    "toxicite": "unknown",
-    "toxiciteLevel": "unknown",
+    "toxicite": null,
+    "toxiciteLevel": "safe",
     "sections": {
       "introduction": "Abutilon abutiloides (syn. Sida abutiloides) est un arbuste natif documenté dans les Départements du Sud et de la Grand'Anse. Il appartient à la famille des Malvacées, une grande famille cosmopolite d'environ 4 200 espèces comprenant principalement des herbes, arbustes et arbres. Cette famille se distingue par ses genres alimentaires majeurs comme Theobroma (cacaoyer), Abelmoschus (gombo) et Hibiscus (oseille de Guinée), ses genres médicinaux traditionnels incluant Malva, Althaea et Abutilon, ainsi que ses genres à fibres comme Gossypium (cotonnier). Sur le plan phytochimique, les Malvacées présentent une signature dominée par les mucilages polysaccharidiques, les flavonoïdes (quercétine, kaempférol), les tanins condensés et les anthocyanes comme la malvidine, ciblant préférentiellement les systèmes respiratoire, digestif et tégumentaire. Il convient de noter que certains genres — notamment Gossypium avec ses graines contenant du gossypol — renferment des composés potentiellement toxiques exigeant une préparation adéquate. Au sein de cette famille, A. abutiloides fait partie du genre Abutilon, un groupe d'arbustes tropicaux reconnus pour leurs propriétés émollientes et anti-inflammatoires traditionnelles. Dans les Départements du Sud et de la Grand'Anse, cette espèce est principalement utilisée en médecine traditionnelle pour ses propriétés respiratoires.",
       "description": "A. abutiloides est un arbuste de basse altitude, commun dans les zones sèches et semi-arides des Départements du Sud et de la Grand'Anse. Tiges et port. L'arbuste présente un port dressé avec des tiges ligneuses à la base et des rameaux herbacés dans leur partie supérieure. Les jeunes tiges sont souvent recouvertes d'un duvet fin (indumentum) caractéristique du genre Abutilon. Feuilles. Les feuilles sont alternes, cordiformes à ovales, à bords crénelés ou dentés. Leur surface est généralement veloutée au toucher en raison de la présence de poils étoilés microscopiques, adaptation typique aux climats secs. Cette pilosité aide la plante à réduire la perte d'eau par évapotranspiration. Fleurs. Les fleurs sont solitaires ou groupées à l'aisselle des feuilles, typiques des Malvacées avec leur corolle à cinq pétales jaunes ou orangés. Elles présentent la colonne staminale caractéristique de la famille, formée par la fusion des filets des étamines. Fruit. Le fruit est un schizocarpe composé de plusieurs méricarpes disposés en cercle, chacun contenant une à deux graines. À maturité, les méricarpes se séparent et libèrent les graines. Les parties utilisées dans les pratiques médicinales locales sont principalement les feuilles et les racines.",
@@ -7374,8 +7670,10 @@ const plantesData = [
     "familleDescription": "",
     "familleImage": "",
     "familleNum": "47",
-    "toxBadgeColor": "yellow",
-    "toxBadgeText": "Données insuffisantes"
+    "toxBadgeColor": "green",
+    "toxBadgeText": "Non toxique",
+    "usageType": "Médicinale",
+    "maladieSummary": "Respiratoire"
   },
   {
     "id": 151,
@@ -7396,10 +7694,10 @@ const plantesData = [
       "ht": "Mapou"
     },
     "systeme": {
-      "fr": "Les systèmes préférentiellement ciblés par C. pentandra sont le système rénal (action diurétique), l"
+      "fr": "Urinaire, Respiratoire, Endocrinien"
     },
-    "toxicite": "unknown",
-    "toxiciteLevel": "unknown",
+    "toxicite": null,
+    "toxiciteLevel": "safe",
     "sections": {
       "introduction": "Ceiba pentandra (L.) Gaertn. (syn. Bombax pentandrum L.) est un grand arbre natif des forêts sèches et humides de basse et moyenne altitude dans les Départements du Sud et de la Grand'Anse. Il appartient à la famille des Malvacées, vaste famille de plus de 4 000 espèces incluant des plantes aux usages multiples : alimentaires comme le cacao (Theobroma cacao), l'okra (Abelmoschus esculentus) et l'hibiscus à feuilles de manioc (Hibiscus manihot), médicinales comme les différentes espèces de Sida et d'Abutilon, et ornementales comme les hibiscus. Cette famille se caractérise phytochimiquement par la richesse en mucilages thérapeutiques, flavonoïdes antioxydants, tanins astringents et anthocyanes colorantes comme la malvidine. Elle cible préférentiellement les systèmes respiratoire, digestif et tégumentaire. Une vigilance s'impose avec certaines espèces de cette famille : le cacao renferme de la théobromine pouvant causer des palpitations à forte dose, et le coton contient du gossypol toxique pour certains animaux. Le mapou occupe une place exceptionnelle dans la culture haïtienne : arbre sacré aux dimensions spirituelles profondes, il sert aussi d'arbre d'ombrage et de source de fibres de kapok, tout en offrant des usages médicinaux documentés pour le diabète, l'asthme et la fièvre.",
       "description": "C. pentandra est un arbre géant pouvant atteindre 60 à 70 mètres de hauteur, figurant parmi les plus imposants des forêts tropicales. Il développe un tronc massif pouvant dépasser 3 mètres de diamètre, souvent buttressé à la base par d'impressionnants contreforts triangulaires. Tronc et écorce. Le tronc est cylindrique, droit et souvent couvert d'épines coniques robustes chez les jeunes spécimens. L'écorce est grisâtre, lisse à légèrement rugueuse, et constitue la principale partie médicinale utilisée localement. Avec l'âge, les épines disparaissent progressivement. Feuilles. Les feuilles sont caduques, composées palmées à 5-7 folioles lancéolées. Elles tombent en saison sèche, donnant à l'arbre un aspect décharné caractéristique de novembre à mars dans le contexte climatique des départements du Sud et de la Grand'Anse. Fleurs. La floraison intervient avant la feuillaison, de janvier à mars. Les fleurs sont grandes, blanches à rosées, à 5 pétales soyeux, regroupées en cymes terminales. Elles s'ouvrent la nuit et dégagent un parfum intense attirant les chauves-souris pollinisatrices. Fruits. Les fruits sont des capsules oblongues de 10-15 cm, déhiscentes à maturité. Ils libèrent de nombreuses graines brunes enveloppées dans une bourre soyeuse imperméable : le kapok, fibre naturelle aux propriétés isolantes exceptionnelles. Les parties utilisées sont principalement l'écorce, les feuilles et les racines.",
@@ -7425,8 +7723,10 @@ const plantesData = [
     "familleDescription": "",
     "familleImage": "",
     "familleNum": "47",
-    "toxBadgeColor": "yellow",
-    "toxBadgeText": "Données insuffisantes"
+    "toxBadgeColor": "green",
+    "toxBadgeText": "Non toxique",
+    "usageType": "Médicinale",
+    "maladieSummary": "Urinaire, Respiratoire, Endocrinien"
   },
   {
     "id": 152,
@@ -7444,10 +7744,10 @@ const plantesData = [
       "ht": "Ti lalo"
     },
     "systeme": {
-      "fr": "Les systèmes physiologiques principalement ciblés par C. siliquosus sont les systèmes digestif et ur"
+      "fr": "Digestif, Urinaire"
     },
-    "toxicite": "toxic",
-    "toxiciteLevel": "toxic",
+    "toxicite": null,
+    "toxiciteLevel": "safe",
     "sections": {
       "introduction": "Corchorus siliquosus L. (syn. Corchorus orinocensis) est une herbe annuelle native des Caraïbes et d'Amérique tropicale, commune dans les Départements du Sud et de la Grand'Anse. Elle appartient à la famille des Malvacées, une vaste famille principalement composée d'herbes, d'arbustes et d'arbres, reconnue pour ses riches usages alimentaires et médicinaux à travers le monde. Cette famille se caractérise par la présence dominante de mucilages, de flavonoïdes, d'anthocyanes et de tanins, ciblant préférentiellement les systèmes respiratoire, digestif et tégumentaire. Des genres alimentaires majeurs incluent Theobroma (cacao), Hibiscus (bissap, kalalou) et Abelmoschus (gombo), tandis que des genres comme Gossypium (coton) et Malva possèdent des propriétés médicinales reconnues. Il convient de noter que certaines espèces renferment des principes actifs puissants — notamment la théobromine du cacao — exigeant une vigilance particulière dans leur usage. Au sein de cette famille, Corchorus siliquosus fait partie du genre Corchorus, qui regroupe plusieurs espèces à vocation alimentaire et textile dont la célèbre jute (Corchorus capsularis), toutes caractérisées par leurs mucilages abondants et leur richesse nutritionnelle. Corchorus siliquosus est principalement utilisé comme légume-feuille dans l'alimentation haïtienne sous le nom de « Ti lalo », ainsi qu'en médecine traditionnelle pour ses propriétés digestives et anti-inflammatoires.",
       "description": "C. siliquosus est une herbe annuelle de basse altitude, caractérisée par sa texture gluante distinctive due à l'abondance de mucilages dans ses tissus. Tiges. Les tiges sont dressées, ramifiées, de couleur verte, pouvant atteindre 1 à 2 mètres de hauteur. Elles présentent une texture légèrement fibreuse, caractéristique du genre Corchorus utilisé dans l'industrie textile. Feuilles. Les feuilles sont alternes, simples, ovales à lancéolées, avec des marges dentées. Elles constituent la partie principalement consommée en Haïti. Leur texture devient particulièrement gluante lors de la cuisson, propriété recherchée dans la préparation du « Ti lalo ». Cette consistance visqueuse est due aux mucilages concentrés dans les tissus foliaires. Fleurs. Les fleurs sont petites, jaunes, à cinq pétales, disposées en grappes axillaires. Elles attirent divers insectes pollinisateurs et apparaissent tout au long de la période de croissance. Fruit. Le fruit est une capsule allongée, cylindrique et cannelée, caractéristique du genre Corchorus. À maturité, elle s'ouvre pour libérer de nombreuses petites graines anguleuses utilisées pour la reproduction. Dans le contexte des Départements du Sud et de la Grand'Anse, la plante pousse spontanément dans les zones cultivées, les jardins et les terrains vagues, témoignant de sa bonne adaptation aux conditions locales. Les parties utilisées sont principalement les feuilles jeunes et les tiges tendres.",
@@ -7473,8 +7773,10 @@ const plantesData = [
     "familleDescription": "",
     "familleImage": "",
     "familleNum": "47",
-    "toxBadgeColor": "red",
-    "toxBadgeText": "Toxique"
+    "toxBadgeColor": "green",
+    "toxBadgeText": "Non toxique",
+    "usageType": "Alimentaire et Médicinale",
+    "maladieSummary": "Digestif, Urinaire"
   },
   {
     "id": 153,
@@ -7493,10 +7795,10 @@ const plantesData = [
       "ht": "Bwa dòm"
     },
     "systeme": {
-      "fr": "G. ulmifolia cible préférentiellement les systèmes tégumentaire et digestif. Les études disponibles "
+      "fr": "Digestif"
     },
-    "toxicite": "unknown",
-    "toxiciteLevel": "unknown",
+    "toxicite": null,
+    "toxiciteLevel": "safe",
     "sections": {
       "introduction": "Guazuma ulmifolia Lam. (syn. Guazuma tomentosa) est un arbre natif documenté dans les Départements du Sud et de la Grand'Anse. Il appartient à la famille des Malvacées, une vaste famille botanique composée majoritairement d'herbes, d'arbustes et d'arbres, incontournable dans la flore du grand Sud d'Haïti. Cette famille se distingue par de riches usages alimentaires et médicinaux, avec une signature phytochimique dominée par les mucilages, flavonoïdes, tanins et cellulose, ciblant préférentiellement les systèmes respiratoire, digestif et tégumentaire. Au sein de cette famille, le genre Guazuma regroupe des arbres tropicaux américains reconnus pour leurs propriétés astringentes et leur bois de qualité. Guazuma ulmifolia est principalement utilisé dans les Départements du Sud et de la Grand'Anse pour les soins capillaires et le traitement de la diarrhée, illustrant parfaitement la polyvalence thérapeutique caractéristique des Malvacées.",
       "description": "G. ulmifolia est un arbre de taille moyenne, commun dans les zones de basse altitude des Départements du Sud et de la Grand'Anse, reconnu pour sa saveur amère caractéristique. Tronc et écorce. Le tronc développe un diamètre modéré avec une écorce grisâtre, rugueuse, qui constitue l'une des parties médicinales traditionnellement récoltées. Cette écorce, riche en tanins, développe une astringence marquée responsable de ses propriétés antidiarrhéiques. Feuilles. Les feuilles sont alternes, ovales à cordiformes, avec une surface supérieure rugueuse et un revers pubescent. Leur texture caractéristique et leur saveur amère les rendent facilement identifiables. Elles représentent la partie la plus couramment utilisée dans les préparations traditionnelles locales. Fleurs. Les fleurs sont petites, jaunâtres, regroupées en grappes axillaires. Bien que discrètes, elles attirent divers pollinisateurs et participent à la reproduction de l'espèce. Fruit et graines. Le fruit est une capsule ligneuse, globuleuse, couverte d'excroissances coniques caractéristiques qui facilitent sa dispersion par les animaux. Les graines contenues à l'intérieur font partie des organes utilisés traditionnellement, bien qu'elles soient moins couramment employées que les feuilles et l'écorce. Les parties utilisées sont principalement les feuilles et l'écorce, occasionnellement les graines.",
@@ -7522,8 +7824,10 @@ const plantesData = [
     "familleDescription": "",
     "familleImage": "",
     "familleNum": "47",
-    "toxBadgeColor": "yellow",
-    "toxBadgeText": "Données insuffisantes"
+    "toxBadgeColor": "green",
+    "toxBadgeText": "Non toxique",
+    "usageType": "Alimentaire",
+    "maladieSummary": "Digestif"
   },
   {
     "id": 154,
@@ -7542,10 +7846,10 @@ const plantesData = [
       "ht": "Choublak"
     },
     "systeme": {
-      "fr": "Les systèmes préférentiellement ciblés par H. rosa-sinensis sont le système respiratoire et le systè"
+      "fr": "Respiratoire, Cardiovasculaire, Cutané"
     },
-    "toxicite": "toxic",
-    "toxiciteLevel": "toxic",
+    "toxicite": null,
+    "toxiciteLevel": "safe",
     "sections": {
       "introduction": "Hibiscus rosa-sinensis L. (syn. Hibiscus festalis) est un arbuste ornemental exotique, largement cultivé dans les Départements du Sud et de la Grand'Anse d'Haïti. Il appartient à la famille des Malvacées, une vaste famille de près de 4 000 espèces réparties principalement entre herbes, arbustes et arbres tropicaux. Cette famille, particulièrement bien représentée dans la flore du grand sud haïtien, se distingue par ses riches applications alimentaires et médicinales. On y trouve des genres alimentaires majeurs comme Theobroma (cacao), Abelmoschus (gombo) et Hibiscus (oseille de Guinée), ainsi que des genres médicinaux traditionnels tels que Sida, Malva et Urena. Sur le plan phytochimique, les Malvacées expriment une signature caractéristique dominée par les mucilages — des polysaccharides hydrosolubles aux propriétés adoucissantes —, les flavonoïdes antioxydants, les anthocyanes colorantes et les tanins astringents. Cette composition chimique cible préférentiellement les systèmes respiratoire, digestif et tégumentaire. Il convient de noter qu'au sein de cette famille généralement sûre, le cacao (Theobroma cacao) contient de la théobromine qui peut provoquer des palpitations à forte dose, et le coton (Gossypium) renferme du gossypol toxique pour certains animaux. Au sein de cette famille, H. rosa-sinensis fait partie du genre Hibiscus, qui regroupe environ 300 espèces d'arbustes et herbes à grandes fleurs colorées, cultivées tant pour leurs qualités ornementales que pour leurs vertus thérapeutiques. Le choublak est principalement utilisé en Haïti comme plante ornementale et médicinale, particulièrement apprécié pour ses propriétés respiratoires et capillaires.",
       "description": "H. rosa-sinensis est un arbuste ornemental persistant qui peut atteindre 2 à 4 mètres de hauteur dans les conditions favorables des basses altitudes haïtiennes. Tiges. Les tiges sont ligneuses à la base, dressées et ramifiées, formant un port buissonnant dense. L'écorce est lisse et brunâtre sur les parties âgées. Les jeunes rameaux sont verts et flexibles. Feuilles. Les feuilles sont alternes, simples, ovales à elliptiques, de 7 à 15 cm de longueur. Elles présentent un limbe vert brillant, une nervation pennée bien marquée et des marges dentées. La surface est glabre et légèrement coriace. Leur saveur est amère avec une texture légèrement grasse au toucher. Fleurs. Les fleurs constituent l'élément le plus remarquable de la plante : elles sont grandes (8 à 12 cm de diamètre), solitaires, portées par des pédoncules courts à l'aisselle des feuilles. La corolle est formée de 5 pétales largement étalés, généralement de couleur rouge vif, rose ou jaune selon les cultivars. Au centre, une colonne staminale proéminente porte les étamines soudées et le pistil. Cette architecture florale typique des Malvacées attire efficacement les pollinisateurs. Fruit. Le fruit est une capsule ovoïde qui se divise en 5 loges contenant chacune plusieurs graines brunes. Les parties utilisées dans les pratiques locales sont principalement les fleurs et les feuilles.",
@@ -7571,8 +7875,10 @@ const plantesData = [
     "familleDescription": "",
     "familleImage": "",
     "familleNum": "47",
-    "toxBadgeColor": "red",
-    "toxBadgeText": "Toxique"
+    "toxBadgeColor": "green",
+    "toxBadgeText": "Non toxique",
+    "usageType": "Médicinale",
+    "maladieSummary": "Respiratoire, Cardiovasculaire, Cutané"
   },
   {
     "id": 155,
@@ -7593,10 +7899,10 @@ const plantesData = [
       "ht": "Gran kouzen"
     },
     "systeme": {
-      "fr": "Selon les données ethnobotaniques compilées, P. spinifex cible principalement le système musculo-squ"
+      "fr": "Cutané, Musculosquelettique"
     },
-    "toxicite": "unknown",
-    "toxiciteLevel": "unknown",
+    "toxicite": null,
+    "toxiciteLevel": "safe",
     "sections": {
       "introduction": "Pavonia spinifex (L.) (syn. Hibiscus spinifex) est un arbuste natif d'Haïti, commun dans les Départements du Sud et de la Grand'Anse. Il appartient à la famille des Malvacées, une famille cosmopolite regroupant plus de 4 000 espèces allant des herbes aux grands arbres tropicaux. Cette famille se distingue par ses genres alimentaires majeurs comme le cacao (Theobroma cacao) et l'okra (Abelmoschus esculentus), ses genres médicinaux traditionnels incluant les hibiscus et les mauves, ainsi que ses genres ornementaux populaires tels que Hibiscus rosa-sinensis. Sur le plan phytochimique, les Malvacées expriment une signature caractérisée par des mucilages hydratants, des flavonoïdes colorés, des anthocyanes comme la malvidine, des tanins astringents et, dans le cas du cacao, des alcaloïdes stimulants comme la théobromine. Ces composés ciblent préférentiellement les systèmes respiratoire, digestif et tégumentaire. Une vigilance particulière s'impose car certaines espèces renferment des principes actifs puissants : la théobromine du cacao peut provoquer des palpitations à forte dose et s'avère toxique pour les chiens, tandis que le gossypol présent dans les graines de coton présente une toxicité pour certains animaux. Au sein de cette famille, P. spinifex fait partie du genre Pavonia, un groupe d'arbustes tropicaux réputés pour leurs propriétés astringentes et anti-inflammatoires. Il est principalement utilisé à des fins médicinales dans les pratiques de santé traditionnelle haïtienne.",
       "description": "P. spinifex est un arbuste de basse altitude, à saveur astringente, particulièrement adapté aux conditions climatiques des régions côtières et collinaires du Sud d'Haïti. Tiges et port. L'arbuste présente un port buissonnant typique du genre Pavonia, avec des tiges ligneuses à la base et des rameaux plus souples vers l'extrémité. Les jeunes pousses sont souvent pubescentes et présentent une coloration légèrement rougeâtre. Feuilles. Les feuilles sont alternes, simples, de forme ovale à cordée, avec des bords dentés caractéristiques. Leur surface supérieure est vert foncé et légèrement rugueuse au toucher, tandis que la face inférieure est plus pâle et pubescente. La nervation palmée est bien marquée, avec une nervure principale proéminente. Fleurs. Les fleurs sont solitaires ou groupées par deux à l'aisselle des feuilles, typiques de la famille des Malvacées avec leur corolle à cinq pétales libres. Elles présentent une couleur variant du jaune pâle au rose orangé, avec un centre plus foncé. L'étamine unique formée par la fusion des filets staminaux (colonne staminale) est caractéristique de la famille. Fruit. Le fruit est un schizocarpe qui se divise à maturité en plusieurs méricarpes uniovulés, chacun contenant une graine brune de petite taille. Les parties utilisées dans les pratiques traditionnelles sont principalement les feuilles et les jeunes tiges.",
@@ -7622,8 +7928,10 @@ const plantesData = [
     "familleDescription": "",
     "familleImage": "",
     "familleNum": "47",
-    "toxBadgeColor": "yellow",
-    "toxBadgeText": "Données insuffisantes"
+    "toxBadgeColor": "green",
+    "toxBadgeText": "Non toxique",
+    "usageType": "Médicinale",
+    "maladieSummary": "Cutané, Musculosquelettique"
   },
   {
     "id": 156,
@@ -7641,10 +7949,10 @@ const plantesData = [
       "ht": "Ti lalo"
     },
     "systeme": {
-      "fr": "S. acuta cible préférentiellement le système digestif et le système immunitaire. Les usages traditio"
+      "fr": "Digestif, Immunitaire"
     },
-    "toxicite": "unknown",
-    "toxiciteLevel": "unknown",
+    "toxicite": null,
+    "toxiciteLevel": "safe",
     "sections": {
       "introduction": "Sida acuta Burm. f. (syn. Sida carpinifolia) est une herbe native abondante dans les Départements du Sud et de la Grand'Anse d'Haïti. Elle appartient à la famille des Malvacées, une vaste famille tropicale regroupant près de 4 000 espèces d'herbes, d'arbustes et d'arbres, incluant des genres à vocation alimentaire majeure comme le cacao (Theobroma), l'hibiscus (Hibiscus) et le gombo (Abelmoschus esculentus). Au sein de cette famille, le genre Sida comprend environ 200 espèces d'herbes tropicales reconnues pour leurs propriétés médicinales, particulièrement dans le traitement des affections inflammatoires et digestives. Sida acuta se distingue par sa saveur très amère, caractéristique de ses principes actifs, et constitue l'une des plantes médicinales les plus utilisées dans les pratiques traditionnelles haïtiennes. Son usage s'étend de la pharmacopée domestique — notamment pour les troubles digestifs et la fièvre — aux applications domestiques comme la confection de balais rustiques.",
       "description": "S. acuta est une herbe dressée, généralement annuelle à bisannuelle, pouvant atteindre 60 à 120 cm de hauteur dans les conditions favorables du Sud et de la Grand'Anse. Tiges. Les tiges sont dressées, ramifiées, de section cylindrique à légèrement angulaire, souvent rougeâtres à la base. Elles présentent une texture fibreuse résistante, utilisée traditionnellement pour la fabrication de balais. La surface est couverte de poils étoilés courts caractéristiques des Malvacées. Feuilles. Les feuilles sont alternes, simples, de forme oblongue à lancéolée, mesurant 2 à 6 cm de longueur. Elles présentent des bords finement dentés et une nervation pennée bien marquée. La surface est rugueuse au toucher, couverte de poils stellaires qui leur confèrent un aspect grisâtre. Leur saveur très amère est immédiatement perceptible à la mastication. Fleurs. Les fleurs sont solitaires ou groupées par 2-3 à l'aisselle des feuilles. Elles présentent la structure typique des Malvacées : 5 pétales jaune pâle à orangés, libres, avec une colonne staminale centrale caractéristique. La floraison est pratiquement continue sous le climat tropical haïtien. Fruit. Le fruit est un schizocarpe composé de 5 à 8 méricarpes (segments) disposés en cercle, chacun contenant une graine. À maturité, les méricarpes se séparent et libèrent les graines noires, petites et réniformes. Les parties utilisées sont principalement les feuilles et les racines, récoltées généralement avant la floraison pour une concentration optimale en principes actifs.",
@@ -7670,8 +7978,10 @@ const plantesData = [
     "familleDescription": "",
     "familleImage": "",
     "familleNum": "47",
-    "toxBadgeColor": "yellow",
-    "toxBadgeText": "Données insuffisantes"
+    "toxBadgeColor": "green",
+    "toxBadgeText": "Non toxique",
+    "usageType": "Alimentaire et Médicinale",
+    "maladieSummary": "Digestif, Immunitaire"
   },
   {
     "id": 157,
@@ -7690,10 +8000,10 @@ const plantesData = [
       "ht": "Kakao"
     },
     "systeme": {
-      "fr": "Selon la documentation scientifique disponible, T. cacao cible principalement les systèmes nerveux e"
+      "fr": "Nerveux, Cardiovasculaire"
     },
-    "toxicite": "toxic",
-    "toxiciteLevel": "toxic",
+    "toxicite": null,
+    "toxiciteLevel": "caution",
     "sections": {
       "introduction": "Theobroma cacao L. est un arbre exotique cultivé dans les Départements du Sud et de la Grand'Anse, appartenant à la famille des Malvacées. Au sein de cette vaste famille, il fait partie du genre Theobroma, un petit groupe d'arbres tropicaux américains dont T. cacao constitue l'espèce économiquement la plus importante au monde. Son usage principal en Haïti est alimentaire — pour la production de chocolat — et médicinal comme reconstituant contre la faiblesse, pratique documentée dans le Sud et la Grand'Anse.",
       "description": "T. cacao est un petit arbre tropical persistant pouvant atteindre 6 à 12 mètres de hauteur dans son milieu naturel, généralement maintenu plus petit en culture. Tiges et écorce. Le tronc est droit avec une écorce lisse et grisâtre. L'arbre développe une couronne étalée avec des branches principales horizontales donnant un port caractéristique. Feuilles. Les feuilles sont grandes (15-40 cm), alternes, simples, ovales à oblongues, coriaces et persistantes. Elles présentent un limbe vert foncé brillant sur la face supérieure et plus pâle en dessous, avec des nervures bien marquées. Fleurs. Les fleurs sont petites (1-2 cm), blanches à rosées, directement insérées sur le tronc et les grosses branches (cauliflorie). Cette caractéristique remarquable facilite la pollinisation par de petits insectes spécialisés dans les sous-bois tropicaux. Fruits. Les fruits sont des cabosses ovales allongées de 15-25 cm, à surface côtelée, variant du vert au rouge selon la variété. Chaque cabosse contient 20 à 50 graines (fèves de cacao) enrobées d'une pulpe blanchâtre mucilaginеuse. Les parties utilisées sont principalement les graines torréfiées, occasionnellement les feuilles en infusion.",
@@ -7719,8 +8029,10 @@ const plantesData = [
     "familleDescription": "",
     "familleImage": "",
     "familleNum": "47",
-    "toxBadgeColor": "red",
-    "toxBadgeText": "Toxique"
+    "toxBadgeColor": "yellow",
+    "toxBadgeText": "Conditionnel",
+    "usageType": "Alimentaire",
+    "maladieSummary": "Nerveux, Cardiovasculaire"
   },
   {
     "id": 158,
@@ -7738,10 +8050,10 @@ const plantesData = [
       "ht": "Fèy dayiti"
     },
     "systeme": {
-      "fr": "Thespesia populnea exerce ses propriétés thérapeutiques documentées par plusieurs mécanismes distinc"
+      "fr": "Respiratoire, Cutané"
     },
-    "toxicite": "unknown",
-    "toxiciteLevel": "unknown",
+    "toxicite": null,
+    "toxiciteLevel": "caution",
     "sections": {
       "introduction": "Thespesia populnea, connue localement aux Départements du Sud et de la Grand'Anse sous le nom de « Fèy dayiti » ou arbre de Portia, est un arbuste littoral à petit arbre appartenant à la famille des Malvacées. Cette espèce pantropicale occupe une position écologique importante dans les écosystèmes côtiers haïtiens, prospérant particulièrement dans les formations de mangrove de transition, les dunes côtières et les terrains littoraux perturbés. Au-delà de son importance écologique comme plante structurante des zones côtières, T. populnea joue un rôle significatif dans la médecine populaire haïtienne et dans les applications artisanales traditionnelles. L'écorce, les feuilles et les fleurs accumulent des molécules bioactives documentées par les études ethnopharmacologiques et phytochimiques. L'intégration croissante de T. populnea dans les systèmes agroforestiers côtiers pour l'ombrage, la nutrition du sol et les usages médicinaux confère à cette espèce un intérêt particulier pour les communautés littorales du Sud et de la Grand'Anse. La compréhension approfondie de ses propriétés bioactives et de ses usages thérapeutiques justifie une documentation détaillée suivant les standards de la recherche ethnopharmacologique contemporaine.",
       "description": "Thespesia populnea est un arbuste dioïque à semi-hermaphrodite atteignant 4 à 12 mètres de hauteur, caractérisé par un port compact avec un tronc unique ou peu ramifié présentant une écorce gris-brun crevassée. Les rameaux sont cylindriques, lisses, gris-verts passant au brun-rougeâtre avec l'âge. Les feuilles, alternes et pétiolées (pétiole 3 à 6 cm), sont ovales à cordiformes mesurant 7 à 15 cm de longueur et 6 à 12 cm de largeur, avec apex acuminé, base cordée et marges entières à légèrement crénelées. La surface supérieure est vert-foncé brillant tandis que l'inférieure est plus pâle avec nervation palmée ou sub-palmée proéminente et glauque. Les fleurs solitaires axillaires ou sub-terminales, hermaphrodites ou staminiées, présentent un calice cupuliforme de 8 à 12 mm de diamètre et une corolle de cinq pétales jaunes passant progressivement au pourpre-violacé de 3 à 4 cm de diamètre. Le fruit est une capsule subglobuleuse de 2 à 3 cm de diamètre contenant 10 à 20 graines comprimées noires de 8 à 10 mm.",
@@ -7768,7 +8080,9 @@ const plantesData = [
     "familleImage": "",
     "familleNum": "47",
     "toxBadgeColor": "yellow",
-    "toxBadgeText": "Données insuffisantes"
+    "toxBadgeText": "Conditionnel",
+    "usageType": "Médicinale",
+    "maladieSummary": "Respiratoire, Cutané"
   },
   {
     "id": 159,
@@ -7786,10 +8100,10 @@ const plantesData = [
       "ht": "Kouzen"
     },
     "systeme": {
-      "fr": "Urena lobata cible principalement les systèmes respiratoire et digestif, avec des effets documentés "
+      "fr": "Digestif, Respiratoire, Cutané"
     },
-    "toxicite": "unknown",
-    "toxiciteLevel": "unknown",
+    "toxicite": null,
+    "toxiciteLevel": "safe",
     "sections": {
       "introduction": "Urena lobata L. (syn. Urena americana) est une herbe native abondante des Départements du Sud et de la Grand'Anse, où elle constitue l'une des plantes médicinales les plus utilisées par les communautés rurales. Elle appartient à la famille des Malvacées, une vaste famille tropicale de plus de 4 000 espèces comprenant des genres alimentaires majeurs comme l'hibiscus (Hibiscus sabdariffa), le gombo (Abelmoschus esculentus) et le cacao (Theobroma cacao), ainsi que des espèces textiles comme le coton (Gossypium). Cette famille se distingue par sa richesse en mucilages, flavonoïdes, tanins et anthocyanes, conférant aux espèces des propriétés émollientes, anti-inflammatoires et antioxydantes particulièrement efficaces sur les systèmes respiratoire, digestif et tégumentaire. Il convient de noter que certains genres — notamment Gossypium — renferment des composés potentiellement toxiques comme le gossypol, nécessitant une vigilance dans l'identification botanique. Au sein de cette famille, Urena lobata fait partie du genre Urena, petit groupe de plantes herbacées tropicales reconnues pour leurs fibres textiles et leurs propriétés médicinales. Dans le contexte haïtien, « Kouzen » est principalement valorisé pour ses usages thérapeutiques, particulièrement contre les affections respiratoires et digestives.",
       "description": "U. lobata est une herbe vivace dressée, pouvant atteindre 1 à 2 mètres de hauteur, particulièrement commune dans les zones perturbées et les bordures de chemins des basses altitudes du Sud et de la Grand'Anse. Tiges. Les tiges sont robustes, ligneuses à la base, couvertes de poils étoilés caractéristiques de la famille des Malvacées. L'écorce fibreuse était traditionnellement utilisée pour confectionner des cordes rustiques. Feuilles. Les feuilles sont alternes, pétiolées, de forme variable — entières à palmatilobées avec 3 à 5 lobes peu profonds. Leur surface est rugueuse au toucher en raison de la pilosité étoilée, et elles dégagent une texture légèrement gluante lorsqu'on les froisse, caractéristique des mucilages abondants. Fleurs. Les fleurs sont petites, solitaires ou groupées à l'aisselle des feuilles, de couleur rose pâle à mauve. Elles présentent la structure typique des Malvacées avec cinq pétales libres et une colonne staminale centrale. Fruits. Le fruit est une capsule schizocarpe se divisant en plusieurs méricarpes couverts de crochets rigides, permettant la dispersion par les animaux et les vêtements — d'où probablement le nom créole « Kouzen » évoquant l'attachement. Les parties utilisées sont les feuilles, les racines et les fleurs, avec une préférence marquée pour les feuilles dans les pratiques locales.",
@@ -7815,8 +8129,10 @@ const plantesData = [
     "familleDescription": "",
     "familleImage": "",
     "familleNum": "47",
-    "toxBadgeColor": "yellow",
-    "toxBadgeText": "Données insuffisantes"
+    "toxBadgeColor": "green",
+    "toxBadgeText": "Non toxique",
+    "usageType": "Médicinale",
+    "maladieSummary": "Digestif, Respiratoire, Cutané"
   },
   {
     "id": 160,
@@ -7835,10 +8151,10 @@ const plantesData = [
       "ht": "Maho"
     },
     "systeme": {
-      "fr": "W. hottensis cible préférentiellement le système respiratoire, avec des applications documentées con"
+      "fr": "Respiratoire, Cutané"
     },
-    "toxicite": "unknown",
-    "toxiciteLevel": "unknown",
+    "toxicite": null,
+    "toxiciteLevel": "safe",
     "sections": {
       "introduction": "Wercklea hottensis (syn. Hibiscus hottensis) est un arbuste endémique strict d'Haïti appartenant à la famille des Malvacées. Au sein de cette famille, il fait partie du genre Wercklea, un groupe d'arbustes tropicaux américains caractérisés par leurs grandes fleurs ornementales et leurs propriétés médicinales traditionnelles. Cette espèce remarquable colonise exclusivement les hautes altitudes du Massif de la Hotte dans la Grand'Anse, où elle constitue un élément floristique unique au monde. Son usage dans les Départements du Sud et de la Grand'Anse est principalement médicinal, notamment pour traiter les affections respiratoires comme la grippe et la toux, ainsi que pour ses propriétés cicatrisantes et anti-inflammatoires. Sa rareté extrême et son aire de distribution ultra-restreinte font de sa conservation l'enjeu majeur de cette fiche.",
       "description": "W. hottensis est un arbuste de haute altitude, adapté aux conditions montagnardes spécifiques du Massif de la Hotte. Sa morphologie reflète ces adaptations écologiques particulières. Tiges. Les tiges sont ligneuses, robustes et ramifiées, permettant à la plante de résister aux vents d'altitude. L'écorce présente une texture rugueuse caractéristique du genre Wercklea. Feuilles. Les feuilles sont alternes, pétiolées et présentent une forme palmatilobée typique des Malvacées. Leur surface est couverte de poils stellaires microscopiques, adaptation défensive contre la dessiccation et les herbivores d'altitude. Au goût, elles révèlent une saveur astringente puis douce, signature des tanins et mucilages qui les composent. Fleurs. Les fleurs, probablement grandes et colorées comme chez les autres espèces du genre, attirent les pollinisateurs spécialisés de la montagne haïtienne. Leur structure suit le plan floral classique des Malvacées avec cinq pétales et de nombreuses étamines soudées. Fruit. Le fruit est une capsule loculicide contenant plusieurs graines, mécanisme de dispersion adapté aux écosystèmes montagnards. Les parties utilisées sont les feuilles et les racines, récoltées selon les pratiques traditionnelles locales.",
@@ -7864,8 +8180,10 @@ const plantesData = [
     "familleDescription": "",
     "familleImage": "",
     "familleNum": "47",
-    "toxBadgeColor": "yellow",
-    "toxBadgeText": "Données insuffisantes"
+    "toxBadgeColor": "green",
+    "toxBadgeText": "Non toxique",
+    "usageType": "Médicinale",
+    "maladieSummary": "Respiratoire, Cutané"
   },
   {
     "id": 161,
@@ -7885,10 +8203,10 @@ const plantesData = [
       "ht": "Flèmalarèz"
     },
     "systeme": {
-      "fr": "Aucune donnée clinique ou pharmacologique n'est disponible pour M. brevipenduculata. Par analogie av"
+      "fr": "Médicinal"
     },
-    "toxicite": "unknown",
-    "toxiciteLevel": "unknown",
+    "toxicite": null,
+    "toxiciteLevel": "safe",
     "sections": {
       "introduction": "Meriana brevipenduculata (syn. Henriettella hotteana) est un arbuste endémique strict d'Haïti — c'est-à-dire qu'il n'existe nulle part ailleurs sur Terre — connu localement sous le nom de « Flèmalarèz ». Cette espèce appartient à la famille des Mélastomatacées et au genre Meriana, un groupe d'arbustes néotropicaux particulièrement adapté aux environnements montagnards humides. Dans les Départements du Sud et de la Grand'Anse, cette espèce joue un rôle écologique majeur dans les écosystèmes de forêts nuageuses d'altitude, bien que ses usages ethnobotaniques spécifiques demeurent peu documentés. En raison de son endémisme strict et de sa restriction aux forêts de haute altitude, particulièrement menacées en Haïti, la conservation de Meriana brevipenduculata constitue un enjeu prioritaire pour la préservation de la biodiversité unique de l'île.",
       "description": "M. brevipenduculata est un arbuste à petit arbre de forêts nuageuses, spécialement adapté aux conditions d'altitude élevée caractérisées par une humidité constante et des températures fraîches. Port et tiges. La plante présente un port arbustif à arborescent selon les conditions de croissance, s'adaptant aux contraintes du milieu montagnard. Les jeunes rameaux présentent souvent une pilosité caractéristique du genre. Feuilles. Comme tous les membres des Mélastomatacées, les feuilles présentent la nervation parallèle distinctive de cette famille : plusieurs nervures principales partent de la base du limbe et convergent vers l'apex. Les feuilles sont opposées, simples, de texture coriace pour résister aux conditions d'altitude. Cette nervation particulière constitue un caractère diagnostique immédiat pour reconnaître la famille sur le terrain. Fleurs. Les fleurs, typiques du genre Meriana, sont organisées en inflorescences terminales. La corolle présente généralement quatre à cinq pétales, caractéristique commune aux Mélastomatacées. Les étamines présentent des anthères aux formes particulières, souvent prolongées ou appendiculées. Fruit. Le fruit est une baie charnue, probablement consommée par l'avifaune endémique des forêts d'altitude haïtiennes, contribuant ainsi à la dispersion des graines dans ces écosystèmes fragiles. Les parties utilisées ne sont pas spécifiquement documentées, bien qu'un usage spirituel soit mentionné localement.",
@@ -7914,8 +8232,10 @@ const plantesData = [
     "familleDescription": "Les Mélastomatacées représentent une fascinante famille pantropicale regroupant environ 5000 espèces réparties en 185 genres, dominée par des arbustes et des arbres aux feuilles caractéristiques à nervation parallèle. Cette famille se distingue par une remarquable diversité écologique, colonisant aussi bien les sous-bois humides que les canopées de forêts nuageuses d'altitude. Sur le plan alimentaire, plusieurs genres produisent des fruits comestibles appréciés localement, notamment Miconia et Bellucia. L'intérêt médicinal de cette famille est considérable dans les pharmacopées tropicales, avec des usages traditionnels documentés pour les affections digestives, respiratoires et cutanées. La signature phytochimique reste variable selon les genres, mais révèle généralement une richesse en tanins, flavonoïdes et triterpènes. Les anthocyanes et caroténoïdes confèrent aux fruits leurs couleurs vives, de pourpre à orange. Cette famille présente un profil toxicologique généralement favorable, nécessitant toutefois une évaluation espèce par espèce en raison de la diversité chimique observée.",
     "familleImage": "",
     "familleNum": "48",
-    "toxBadgeColor": "yellow",
-    "toxBadgeText": "Données insuffisantes"
+    "toxBadgeColor": "green",
+    "toxBadgeText": "Non toxique",
+    "usageType": "Médicinale",
+    "maladieSummary": ""
   },
   {
     "id": 162,
@@ -7935,7 +8255,7 @@ const plantesData = [
       "ht": "Pat shwal"
     },
     "systeme": {
-      "fr": "C. pareira cible préférentiellement les systèmes reproducteur féminin et musculaire. Les principales"
+      "fr": "Reproducteur"
     },
     "toxicite": null,
     "toxiciteLevel": "safe",
@@ -7965,7 +8285,9 @@ const plantesData = [
     "familleImage": "",
     "familleNum": "49",
     "toxBadgeColor": "green",
-    "toxBadgeText": "Non toxique"
+    "toxBadgeText": "Non toxique",
+    "usageType": "Médicinale",
+    "maladieSummary": "Reproducteur"
   },
   {
     "id": 163,
@@ -7985,10 +8307,10 @@ const plantesData = [
       "ht": "Lam veritab"
     },
     "systeme": {
-      "fr": "A. altilis cible préférentiellement le système cardiovasculaire et le métabolisme glucidique. Les us"
+      "fr": "Digestif, Cardiovasculaire"
     },
-    "toxicite": "unknown",
-    "toxiciteLevel": "unknown",
+    "toxicite": null,
+    "toxiciteLevel": "safe",
     "sections": {
       "introduction": "Artocarpus altilis (syn. Artocarpus communis, Artocarpus incisus), communément appelé « Lam veritab » en créole haïtien, est un arbre exotique pantropical de la famille des Moracées, largement cultivé dans les Départements du Sud et de la Grand'Anse. Cette espèce appartient au genre Artocarpus, qui rassemble plusieurs espèces fruitières tropicales d'importance économique majeure — notamment le jacquier (Artocarpus heterophyllus) — toutes caractérisées par leurs fruits composés volumineux et leur richesse en amidon. L'arbre à pain constitue à la fois une ressource alimentaire de base et une plante médicinale traditionnelle : ses fruits représentent une source énergétique fondamentale dans l'alimentation locale, tandis que ses feuilles sont employées en médecine populaire, particulièrement pour la régulation de la tension artérielle.",
       "description": "A. altilis est un arbre sempervirent de taille moyenne à grande, pouvant atteindre 15 à 20 mètres de hauteur dans les conditions favorables des départements du Sud et de la Grand'Anse, où il prospère principalement en basse altitude. *Tronc et écorce.* Le tronc est droit et cylindrique, recouvert d'une écorce grisâtre à brunâtre, lisse chez les jeunes sujets puis rugueuse avec l'âge. Comme tous les membres des Moracées, l'arbre produit un latex blanc laiteux lorsque l'écorce est incisée. *Feuilles.* Les feuilles sont alternes, grandes (20-60 cm de longueur), profondément lobées avec 3 à 9 lobes arrondis, de texture coriace et de couleur vert foncé brillant sur la face supérieure, plus pâle et pubescente sur la face inférieure. Leur saveur est astringente, caractéristique utilisée en médecine traditionnelle. *Fleurs.* L'arbre est monoïque, portant des inflorescences mâles et femelles distinctes. Les fleurs mâles forment des chatons cylindriques jaunâtres, tandis que les fleurs femelles se regroupent en têtes sphériques qui donneront naissance aux fruits composés. *Fruits.* Le fruit, botaniquement appelé syncarpe, est la partie la plus caractéristique : volumineux (10-30 cm de diamètre), arrondi à ovoïde, avec une surface externe rugueuse marquée d'un réseau hexagonal. La pulpe, de couleur blanc-crème à jaune pâle, est riche en amidon et constitue la base alimentaire de la plante. Les parties utilisées sont principalement les fruits pour l'alimentation et les feuilles pour les usages médicinaux, avec un usage occasionnel de l'écorce.",
@@ -8014,8 +8336,10 @@ const plantesData = [
     "familleDescription": "Dominant les écosystèmes tropicaux humides, les Moracées constituent une famille d'environ 1100 espèces principalement arborescentes, réparties en 37 genres. Cette famille se distingue par une remarquable diversité d'usages alimentaires — incluant le figuier (Ficus carica), l'arbre à pain (Artocarpus altilis) et le jacquier (Artocarpus heterophyllus) — et par ses propriétés médicinales ancestrales. Les genres Morus (mûriers) et Ficus (figuiers) sont particulièrement valorisés en phytothérapie cardiovasculaire. Sur le plan aromatique, certains Ficus produisent des latex utilisés traditionnellement. Phytochimiquement, la famille exprime une signature dominée par les flavonoïdes, les stilbènes — notamment le resvératrol présent chez Morus — l'amidon dans les fruits, l'artocarpine spécifique au genre Artocarpus, et des concentrations élevées en potassium et vitamine C. Ces composés ciblent préférentiellement le système cardiovasculaire, avec des effets hypotenseurs et hypoglycémiants documentés. Une vigilance s'impose néanmoins : certaines espèces produisent des latex contenant des enzymes protéolytiques puissantes pouvant provoquer des irritations cutanées sévères, exigeant une manipulation prudente lors de la récolte et de la préparation.",
     "familleImage": "",
     "familleNum": "50",
-    "toxBadgeColor": "yellow",
-    "toxBadgeText": "Données insuffisantes"
+    "toxBadgeColor": "green",
+    "toxBadgeText": "Non toxique",
+    "usageType": "Alimentaire et Médicinale",
+    "maladieSummary": "Digestif, Cardiovasculaire"
   },
   {
     "id": 164,
@@ -8034,10 +8358,10 @@ const plantesData = [
       "ht": "Lam veritab"
     },
     "systeme": {
-      "fr": "Les systèmes physiologiques principalement concernés par les usages d'A. communis sont le système en"
+      "fr": "Digestif, Endocrinien"
     },
-    "toxicite": "caution",
-    "toxiciteLevel": "caution",
+    "toxicite": null,
+    "toxiciteLevel": "safe",
     "sections": {
       "introduction": "Artocarpus communis J.R.Forst. & G.Forst. (nom accepté : Artocarpus altilis) est un arbre fruitier exotique de grande taille, largement cultivé dans les Départements du Sud et de la Grand'Anse où il constitue l'un des vivres alimentaires les plus essentiels de la population rurale. Il appartient à la famille des Moracées, une famille dominée par les arbres et reconnue pour ses riches usages alimentaires et médicinaux, particulièrement riche en potassium, amidon et vitamine C. Au sein de cette famille, il fait partie du genre Artocarpus, qui regroupe plusieurs espèces fruitières tropicales d'importance alimentaire majeure — dont le jacquier (Artocarpus heterophyllus). Le « Lam veritab » se distingue par sa double vocation nutritionnelle et thérapeutique, particulièrement documentée pour ses propriétés antidiabétiques et son rôle dans la sécurité alimentaire haïtienne.",
       "description": "A. communis est un arbre imposant de basse altitude, pouvant atteindre 15 à 25 mètres de hauteur, caractérisé par son port majestueux et sa canopée dense. Tronc et écorce. Le tronc est droit, robuste, pouvant dépasser 1 mètre de diamètre chez les spécimens matures. L'écorce est rugueuse, grisâtre à brunâtre, et sécrète un latex blanc caractéristique lorsqu'elle est incisée — une propriété défensive commune aux Moracées. Feuilles. Les feuilles sont alternes, grandes (20-60 cm de longueur), profondément lobées, coriaces et persistantes. Leur forme découpée facilite l'évacuation de l'eau de pluie et la circulation de l'air, adaptations typiques des arbres de climat tropical humide. Dans le Sud et la Grand'Anse, les feuilles restent vertes toute l'année. Fleurs et inflorescences. L'arbre est monoïque, portant des fleurs mâles et femelles séparées sur le même individu. Les inflorescences mâles sont allongées et pendantes, tandis que les fleurs femelles, groupées en têtes compactes, donneront naissance aux fruits composés caractéristiques. Fruits. Le fruit, botaniquement un syncarpe (fruit composé), est de forme ovoïde à sphérique, mesurant 15 à 30 cm de diamètre. Sa surface externe présente un motif réticulé caractéristique. La chair est blanche à jaunâtre, riche en amidon, de texture ferme avant maturité complète. Les parties utilisées sont principalement les fruits (alimentation), les feuilles et l'écorce (usages médicinaux).",
@@ -8063,8 +8387,10 @@ const plantesData = [
     "familleDescription": "",
     "familleImage": "",
     "familleNum": "50",
-    "toxBadgeColor": "yellow",
-    "toxBadgeText": "Précautions"
+    "toxBadgeColor": "green",
+    "toxBadgeText": "Non toxique",
+    "usageType": "Alimentaire et Médicinale",
+    "maladieSummary": "Digestif, Endocrinien"
   },
   {
     "id": 165,
@@ -8082,10 +8408,10 @@ const plantesData = [
       "ht": "Jak"
     },
     "systeme": {
-      "fr": "Les propriétés thérapeutiques documentées du jacquier concernent principalement le système métaboliq"
+      "fr": "Cardiovasculaire"
     },
-    "toxicite": "toxic",
-    "toxiciteLevel": "toxic",
+    "toxicite": null,
+    "toxiciteLevel": "safe",
     "sections": {
       "introduction": "Artocarpus jaca (syn. Artocarpus heterophyllus) est un grand arbre fruitier exotique, largement cultivé dans les Départements du Sud et de la Grand'Anse pour ses fruits volumineux et nutritifs. Il appartient à la famille des Moracées, un groupe dominé par les arbres et reconnu pour ses riches usages alimentaires et médicinaux. Cette famille se distingue phytochimiquement par sa richesse en flavonoïdes, stilbènes — comme le resvératrol dans le genre Morus —, latex enzymatique et polysaccharides, ciblant préférentiellement le système cardiovasculaire. Au sein de cette famille, le genre Artocarpus rassemble les espèces productrices des plus gros fruits au monde, toutes caractérisées par leur chair riche en amidon et leurs graines comestibles. Le jacquier constitue l'une des cultures fruitières les plus importantes d'Haïti, apprécié tant pour sa valeur nutritionnelle que pour ses usages médicinaux traditionnels.",
       "description": "A. jaca est un grand arbre tropical pouvant atteindre 15 à 20 mètres de hauteur, facilement reconnaissable par ses fruits exceptionnellement volumineux. Tronc et écorce. Le tronc est droit et robuste, recouvert d'une écorce rugueuse de couleur brun-grisâtre. Comme tous les membres des Moracées, l'arbre sécrète un latex blanc collant lors de blessures, mécanisme de défense contre les herbivores et les pathogènes. Feuilles. Les feuilles sont simples, alternes, coriaces et persistantes, de forme ovale à elliptique avec une surface brillante et vert foncé. Elles mesurent généralement 10 à 20 cm de longueur et présentent des nervures bien marquées. Fleurs. L'espèce est monoïque, portant des fleurs mâles et femelles séparées sur le même individu. Les fleurs mâles forment des chatons allongés, tandis que les fleurs femelles s'organisent en têtes sphériques qui donneront naissance aux fruits. Fruits. Le fruit du jacquier est un syncarpe — fruit multiple — pouvant peser de 5 à 35 kg, ce qui en fait l'un des plus gros fruits comestibles au monde. Sa surface externe est couverte de protubérances pyramidales caractéristiques. La chair est jaune orangé, de texture fibreuse et de saveur douce à farineux. Chaque fruit contient de nombreuses graines brunes comestibles après cuisson. Dans le contexte haïtien, la fructification s'étale généralement sur plusieurs mois, assurant une disponibilité alimentaire prolongée pour les communautés rurales. Les parties utilisées sont principalement les fruits mûrs, les graines, les feuilles et l'écorce.",
@@ -8111,8 +8437,10 @@ const plantesData = [
     "familleDescription": "",
     "familleImage": "",
     "familleNum": "50",
-    "toxBadgeColor": "red",
-    "toxBadgeText": "Toxique"
+    "toxBadgeColor": "green",
+    "toxBadgeText": "Non toxique",
+    "usageType": "Alimentaire et Médicinale",
+    "maladieSummary": "Cardiovasculaire"
   },
   {
     "id": 166,
@@ -8132,7 +8460,7 @@ const plantesData = [
       "ht": "Benzoliv"
     },
     "systeme": {
-      "fr": "M. oleifera cible préférentiellement les systèmes nutritionnel, métabolique et immunitaire. Les étud"
+      "fr": "Immunitaire"
     },
     "toxicite": null,
     "toxiciteLevel": "safe",
@@ -8162,7 +8490,9 @@ const plantesData = [
     "familleImage": "",
     "familleNum": "51",
     "toxBadgeColor": "green",
-    "toxBadgeText": "Non toxique"
+    "toxBadgeText": "Non toxique",
+    "usageType": "Alimentaire et Médicinale",
+    "maladieSummary": "Immunitaire"
   },
   {
     "id": 167,
@@ -8181,10 +8511,10 @@ const plantesData = [
       "ht": "Bannann"
     },
     "systeme": {
-      "fr": "Les usages traditionnels de M. balbisiana ciblent principalement le système digestif et le système c"
+      "fr": "Digestif, Cardiovasculaire"
     },
-    "toxicite": "caution",
-    "toxiciteLevel": "caution",
+    "toxicite": null,
+    "toxiciteLevel": "safe",
     "sections": {
       "introduction": "**52.1 — Musa balbisiana (syn. Musa sapientum) — « Bannann » / Bananier** Musa balbisiana, communément appelé « Bannann » en créole haïtien, est une herbe géante exotique de la famille des Musacées, largement cultivée et naturalisée dans les Départements du Sud et de la Grand'Anse. Cette espèce constitue l'un des parents génétiques des bananiers cultivés modernes et représente un pilier alimentaire fondamental de la société haïtienne. Son usage est à la fois nutritionnel et médicinal, les fruits mûrs servant d'aliment énergétique de base tandis que les fruits verts sont traditionnellement employés pour traiter les troubles digestifs, notamment les « gaz » intestinaux et les diarrhées. **Description botanique.** M. balbisiana est une herbe géante pouvant atteindre 3 à 6 mètres de hauteur, caractérisée par son pseudo-tronc formé par l'imbrication des gaines foliaires. *Pseudo-tronc et racines.* Le pseudo-tronc, constitué de gaines foliaires superposées, forme une structure robuste de couleur verte à brun clair. Le système racinaire est superficiel mais étendu, avec un rhizome souterrain (cormo) permettant la multiplication végétative par rejets latéraux. *Feuilles.* Les feuilles sont alternes, simples et de grande taille (jusqu'à 2-3 mètres de longueur), avec un limbe vert brillant et des nervures parallèles. Elles émergent du centre du pseudo-tronc et se déroulent progressivement, souvent déchirées par le vent en lanières caractéristiques. *Inflorescence et fruits.* L'inflorescence terminale, appelée régime, porte des fleurs unisexuées disposées en « mains » successives. Les fruits sont des baies allongées, de couleur verte puis jaune à maturité, regroupées en régimes pouvant compter 50 à 200 bananes selon la variété. Dans le contexte des Départements du Sud et de la Grand'Anse, les variétés cultivées produisent généralement des régimes de taille moyenne, adaptées aux conditions locales. Les parties utilisées sont principalement les fruits à différents stades de maturité, et occasionnellement les feuilles pour leurs propriétés emballage et leurs usages externes. **Les molécules produites par la plante et leurs rôles.** Les fruits de M. balbisiana se caractérisent par une composition nutritionnelle remarquable, dominée par l'amidon dans les fruits verts et les sucres simples dans les fruits mûrs. Cette transformation s'accompagne d'une évolution de la couleur due aux caroténoïdes (bêta-carotène, lutéine) qui confèrent la teinte jaune caractéristique, tandis que la saveur sucrée résulte de la conversion enzymatique de l'amidon en fructose, glucose et saccharose. Le potassium représente le minéral le plus abondant (300-400 mg/100g), accompagné de magnésium, calcium et de vitamines du complexe B, particulièrement la vitamine B6 (pyridoxine) à des taux exceptionnellement élevés. Les principaux composés secondaires identifiés dans M. balbisiana comprennent : des flavonoïdes (quercétine, rutine, catéchine), des caroténoïdes (bêta-carotène, lutéine), des tanins condensés dans les fruits verts, de la dopamine (jusqu'à 80-560 mg/100g dans la pulpe), de la sérotonine, des leucocyanidines et des saponines triterpéniques (Singh et al., 2016 — PMID: 27013064). Les teneurs en composés phénoliques totaux varient de 45 à 155 mg équivalent acide gallique/100g selon le degré de maturité. Ces molécules remplissent des rôles de défense essentiels pour la plante. Les tanins des fruits immatures protègent contre la consommation prématurée par les herbivores, garantissant la dispersion des graines à maturité optimale. La dopamine et la sérotonine agissent comme des neurotransmisseurs végétaux régulant la croissance et la réponse au stress. Ces mêmes composés, une fois ingérés par l'humain, produisent les effets biologiques documentés : l'amidon résistant des fruits verts module favorablement le microbiote intestinal, les tanins exercent un effet astringent antidiarrhéique, et le potassium contribue à la régulation de la pression artérielle (Aurore et al., 2009 — PMID: 19653181). **Écologie, origine et distribution.** Originaire d'Asie du Sud-Est, M. balbisiana s'est parfaitement acclimaté aux conditions tropicales d'Haïti depuis son introduction. L'espèce prospère en basse altitude dans les Départements du Sud et de la Grand'Anse, où elle bénéficie d'un climat chaud et humide favorable. Elle s'adapte à divers types de sols mais préfère les terrains bien drainés et riches en matière organique. Sa culture s'étend des jardins familiaux aux plantations commerciales, témoignant de sa remarquable plasticité écologique et de son importance socio-économique locale. **Usages ethnobotaniques, parties utilisées et modes de préparation.** Dans les Départements du Sud et de la Grand'Anse, le bananier est documenté pour ses usages alimentaires et médicinaux multiples. Les fruits constituent un vivre alimentaire de base consommé à tous les stades de maturité : verts, ils sont bouillis, frits ou transformés en farine , mûrs, ils sont consommés frais ou intégrés dans des préparations culinaires traditionnelles. L'usage médicinal privilégie les fruits verts pour traiter les \"gaz\" intestinaux, préparés principalement par cuisson à l'eau. Les feuilles servent d'emballage naturel pour la cuisson des aliments et occasionnellement en applications externes. Les pratiques locales documentées incluent également l'utilisation des fruits mûrs comme fortifiant général et des préparations à base de fruits verts contre les diarrhées légères. **Systèmes concernés, maladies et mécanismes d'action.** Les usages traditionnels de M. balbisiana ciblent principalement le système digestif et le système cardiovasculaire. Pour les troubles gastro-intestinaux, les mécanismes d'action reposent sur la richesse en amidon résistant et en fibres des fruits verts, qui modulent le transit intestinal et favorisent l'équilibre du microbiote (Birt et al., 2013 — PMID: 24131574). Les tanins présents dans les fruits peu mûrs exercent un effet astringent et antidiarrhéique documenté. Pour le système cardiovasculaire, la teneur exceptionnelle en potassium favorise la vasodilatation et contribue à une baisse légère de la pression artérielle, effet soutenu par des études cliniques (Haddy et al., 2006 — PMID: 16618796). L'activité antioxydante des polyphénols pourrait également contribuer à la protection cardiovasculaire, bien que les mécanismes précis nécessitent des investigations supplémentaires. **Posologie documentée.** La consommation alimentaire quotidienne de fruits de bananier varie généralement de 100 à 200 grammes, pouvant atteindre des quantités supérieures dans le cadre de l'alimentation de base. Pour les usages médicinaux traditionnels, aucune posologie standardisée n'a été cliniquement validée. Les pratiques locales documentées dans le Sud et la Grand'Anse privilégient la consommation régulière de fruits verts cuits pour les troubles digestifs, sans dosage précis établi. Les études nutritionnelles recommandent une consommation modérée chez les personnes souffrant d'insuffisance rénale en raison de la richesse en potassium. **Toxicité et précautions — 🟢** M. balbisiana présente un profil toxicologique excellent et constitue un aliment de base parfaitement sûr pour la population générale. Les précautions concernent principalement les personnes souffrant d'insuffisance rénale chronique ou prenant des médicaments épargneurs de potassium, chez qui la consommation excessive pourrait théoriquement entraîner une hyperkaliémie. Les diabétiques non contrôlés doivent surveiller la charge glucidique, particulièrement avec les fruits mûrs riches en sucres simples. Aucune interaction médicamenteuse significative n'a été rapportée dans la littérature scientifique. **Menaces et conservation.** Bien que M. balbisiana ne soit pas menacé d'extinction, la conservation de la diversité variétale locale constitue un enjeu important. Les variétés traditionnelles cultivées dans le Sud et la Grand'Anse représentent un patrimoine génétique adapté aux conditions locales qu'il convient de préserver face à l'uniformisation des cultivars commerciaux. Les changements climatiques et les maladies émergentes comme la maladie de Panama constituent des défis pour la pérennité des plantations. **Valeur économique.** Le bananier représente une culture vivrière de première importance dans les Départements du Sud et de la Grand'Anse, contribuant significativement à la sécurité alimentaire locale. Sa production génère des revenus substantiels pour les petits producteurs et alimente les marchés locaux. À l'échelle internationale, les espèces apparentées de Musa constituent l'une des cultures fruitières les plus échangées au monde, illustrant le potentiel économique de cette famille botanique. **Recherches et perspectives.** Les recherches actuelles sur M. balbisiana et les espèces apparentées portent sur l'optimisation de la valeur nutritionnelle, le développement de variétés résistantes aux maladies et l'exploration du potentiel thérapeutique des composés bioactifs. Des études récentes s'intéressent aux applications de l'amidon résistant dans la prévention du diabète de type 2 et aux propriétés neuroprotectrices de la dopamine naturellement présente. Le développement d'extraits standardisés et l'évaluation clinique des propriétés antioxydantes constituent des axes de recherche prometteurs. **Références scientifiques.** Singh, B. et al. (2016). Phenolic compounds as beneficial phytochemicals in pomegranate (Punica granatum L.) peel: A review. Food Chemistry. PMID: 27013064. Aurore, G. et al. (2009). Bananas, raw materials for making processed food products. Trends in Food Science & Technology. PMID: 19653181. Birt, D.F. et al. (2013). Resistant starch: promise for improving human health. Advances in Nutrition. PMID: 24131574. Haddy, F.J. et al. (2006). Role of potassium in regulating blood flow and blood pressure. American Journal of Physiology. PMID: 16618796. POWO (2024). Plants of the World Online. Kew Science. www.plantsoftheworldonline.org TRAMIL (2024). Pharmacopée végétale caribéenne. www.tramil.net",
       "description": "M. balbisiana est une herbe géante pouvant atteindre 3 à 6 mètres de hauteur, caractérisée par son pseudo-tronc formé par l'imbrication des gaines foliaires. *Pseudo-tronc et racines.* Le pseudo-tronc, constitué de gaines foliaires superposées, forme une structure robuste de couleur verte à brun clair. Le système racinaire est superficiel mais étendu, avec un rhizome souterrain (cormo) permettant la multiplication végétative par rejets latéraux. *Feuilles.* Les feuilles sont alternes, simples et de grande taille (jusqu'à 2-3 mètres de longueur), avec un limbe vert brillant et des nervures parallèles. Elles émergent du centre du pseudo-tronc et se déroulent progressivement, souvent déchirées par le vent en lanières caractéristiques. *Inflorescence et fruits.* L'inflorescence terminale, appelée régime, porte des fleurs unisexuées disposées en « mains » successives. Les fruits sont des baies allongées, de couleur verte puis jaune à maturité, regroupées en régimes pouvant compter 50 à 200 bananes selon la variété. Dans le contexte des Départements du Sud et de la Grand'Anse, les variétés cultivées produisent généralement des régimes de taille moyenne, adaptées aux conditions locales. Les parties utilisées sont principalement les fruits à différents stades de maturité, et occasionnellement les feuilles pour leurs propriétés emballage et leurs usages externes.",
@@ -8210,8 +8540,10 @@ const plantesData = [
     "familleDescription": "Dominant les régions tropicales et subtropicales du globe, les Musacées constituent une famille de grande importance économique et nutritionnelle, regroupant environ 70 espèces réparties en trois genres principaux : Musa (bananiers), Ensete et Musella. Cette famille se compose principalement d'herbes géantes à pseudo-tronc, atteignant parfois plusieurs mètres de hauteur. Le genre Musa représente l'un des aliments de base les plus consommés au monde, avec des variétés dessert (bananes douces) et des variétés légumes (bananes plantains), toutes deux largement cultivées en Haïti. Sur le plan phytochimique, les Musacées se caractérisent par une richesse exceptionnelle en amidon résistant, en potassium, en vitamine B6 et en composés bioactifs comme la dopamine et la leucocyanidine. Ces molécules ciblent préférentiellement les systèmes digestif, cardiovasculaire et nerveux, expliquant les usages traditionnels contre les troubles gastro-intestinaux et l'hypertension. La famille présente un profil toxicologique remarquablement sûr, faisant des bananiers un aliment de base fiable pour les populations tropicales.",
     "familleImage": "",
     "familleNum": "52",
-    "toxBadgeColor": "yellow",
-    "toxBadgeText": "Précautions"
+    "toxBadgeColor": "green",
+    "toxBadgeText": "Non toxique",
+    "usageType": "Alimentaire et Médicinale",
+    "maladieSummary": "Digestif, Cardiovasculaire"
   },
   {
     "id": 168,
@@ -8232,10 +8564,10 @@ const plantesData = [
       "ht": "Gwo kanèl"
     },
     "systeme": {
-      "fr": "Selon les données ethnobotaniques locales, Calyptranthes nummularia cible principalement le système "
+      "fr": "Respiratoire, Immunitaire"
     },
-    "toxicite": "unknown",
-    "toxiciteLevel": "unknown",
+    "toxicite": null,
+    "toxiciteLevel": "safe",
     "sections": {
       "introduction": "Calyptranthes nummularia (syn. Myrcia nummularia) est un arbuste endémique strict d'Haïti, exclusivement présent dans le Massif de la Hotte en Grand'Anse. Il appartient à la famille des Myrtacées, au sein du genre Calyptranthes qui regroupe une cinquantaine d'espèces caribéennes aux propriétés aromatiques remarquables. Son nom créole « Gwo kanèl » évoque probablement sa saveur douce et rosée rappelant la cannelle. Dans les traditions du Sud et de la Grand'Anse, cette espèce rare constitue un remède respiratoire apprécié sous forme d'infusion chaude, particulièrement utilisée « contre le froid » selon les témoignages locaux. Son statut d'endémique strict et sa rareté croissante en font une priorité absolue de conservation.",
       "description": "C. nummularia est un arbuste de haute altitude adapté aux conditions fraîches et humides du Massif de la Hotte. Tiges et écorce. L'arbuste présente des tiges ligneuses à écorce lisse, caractéristique du genre Calyptranthes. L'écorce, utilisée traditionnellement avec les feuilles, dégage une fragrance douce lorsqu'elle est incisée. Feuilles. Les feuilles sont persistantes, opposées, simples et coriaces, typiques des Myrtacées d'altitude. Elles présentent une nervation pennée bien visible et dégagent un arôme doux et rosé au froissement, signe distinctif de la présence d'huiles essentielles dans les glandes foliaires. Fleurs. Comme tous les Calyptranthes, l'espèce produit de petites fleurs blanches regroupées en cymes axillaires. Les fleurs présentent la structure caractéristique des Myrtacées avec de nombreuses étamines saillantes. Fruit. Le fruit est une baie petite et charnue, probablement consommée par l'avifaune locale, contribuant ainsi à la dispersion des graines dans l'écosystème montagnard du Massif de la Hotte. Les parties utilisées sont les feuilles et l'écorce, récoltées de manière traditionnelle pour la préparation d'infusions thérapeutiques.",
@@ -8261,8 +8593,10 @@ const plantesData = [
     "familleDescription": "Dominant les paysages tropicaux avec plus de 5000 espèces mondiales, les Myrtacées rassemblent principalement des arbustes et des arbres aux feuilles persistantes et aromatiques. Cette famille remarquable compte de nombreux genres d'importance économique majeure : les goyaviers (Psidium guajava), les eucalyptus (Eucalyptus), les girofliers (Syzygium aromaticum) et les myrtes ornementaux. En Haïti, plusieurs genres endémiques comme Calyptranthes enrichissent la biodiversité du Sud et de la Grand'Anse. Sur le plan phytochimique, cette famille se caractérise par une signature dominée par les huiles essentielles riches en monoterpènes (limonène, eucalyptol), les tanins hydrolysables et condensés, les flavonoïdes (quercétine, myricétine) et une teneur élevée en vitamine C, conférant des propriétés antimicrobiennes, anti-inflammatoires et antioxydantes. Ces composés ciblent préférentiellement les systèmes digestif, respiratoire et immunitaire. Attention cependant : certains genres comme Melaleuca contiennent des principes actifs très concentrés dans leurs huiles essentielles, exigeant des précautions d'usage strictes pour éviter toute toxicité cutanée ou systémique.",
     "familleImage": "",
     "familleNum": "53",
-    "toxBadgeColor": "yellow",
-    "toxBadgeText": "Données insuffisantes"
+    "toxBadgeColor": "green",
+    "toxBadgeText": "Non toxique",
+    "usageType": "Alimentaire et Médicinale",
+    "maladieSummary": "Respiratoire, Immunitaire"
   },
   {
     "id": 169,
@@ -8280,10 +8614,10 @@ const plantesData = [
       "ht": "Ekaliptis"
     },
     "systeme": {
-      "fr": "L'eucalyptus cible préférentiellement le système respiratoire, avec des applications documentées pou"
+      "fr": "Respiratoire"
     },
-    "toxicite": "toxic",
-    "toxiciteLevel": "toxic",
+    "toxicite": null,
+    "toxiciteLevel": "caution",
     "sections": {
       "introduction": "Eucalyptus globulus Labill. (syn. Eucalyptus cordata) est un grand arbre exotique d'altitude, originaire d'Australie et largement cultivé dans les Départements du Sud et de la Grand'Anse d'Haïti. Il appartient à la famille des Myrtacées, une grande famille tropicale principalement constituée d'arbustes et d'arbres, reconnue pour ses riches usages alimentaires, médicinaux et aromatiques. Au sein de cette famille, il fait partie du genre Eucalyptus, qui regroupe plus de 800 espèces d'arbres australiens caractérisés par leur croissance rapide et leur richesse en huiles essentielles à forte teneur en 1,8-cinéole. Son usage principal dans la région est médicinal, particulièrement comme antiseptique respiratoire et expectorant dans le traitement traditionnel de la grippe et des affections respiratoires.",
       "description": "E. globulus est un arbre de grande taille pouvant atteindre 30 à 60 mètres de hauteur dans son habitat naturel, bien que dans les conditions haïtiennes d'altitude il reste généralement plus modeste. Tronc et écorce. Le tronc est droit et élancé, recouvert d'une écorce lisse qui se desquame par plaques, laissant apparaître des zones de couleurs variables allant du gris au blanc crème. Cette caractéristique est typique des eucalyptus et constitue un mécanisme d'adaptation permettant l'élimination des épiphytes et parasites. Feuilles. Les feuilles adultes sont alternes, coriaces, lancéolées à falciformes, de couleur vert-bleuâtre glauque caractéristique. Elles mesurent 15 à 35 cm de longueur et dégagent une odeur camphrée intense lorsqu'on les froisse, révélant leur richesse en huiles essentielles volatiles. Les jeunes feuilles sont opposées, sessiles et de forme différente — un phénomène appelé hétérophyllie. Fleurs. Les fleurs sont blanches, dépourvues de pétales, avec de nombreuses étamines donnant un aspect plumeux. Elles sont solitaires ou groupées en petites inflorescences axillaires, protégées par un opercule caractéristique qui tombe à l'anthèse. Fruit. Le fruit est une capsule ligneuse en forme de toupie, contenant de nombreuses petites graines. Dans le contexte haïtien, la reproduction se fait principalement par plantation plutôt que par germination naturelle. Les parties utilisées sont principalement les feuilles adultes, l'écorce et l'huile essentielle distillée.",
@@ -8309,8 +8643,10 @@ const plantesData = [
     "familleDescription": "",
     "familleImage": "",
     "familleNum": "53",
-    "toxBadgeColor": "red",
-    "toxBadgeText": "Toxique"
+    "toxBadgeColor": "yellow",
+    "toxBadgeText": "Conditionnel",
+    "usageType": "Médicinale",
+    "maladieSummary": "Respiratoire"
   },
   {
     "id": 170,
@@ -8330,10 +8666,10 @@ const plantesData = [
       "ht": "Zodevan"
     },
     "systeme": {
-      "fr": "L'usage traditionnel d'E. crenulata cible principalement le système digestif, avec des applications "
+      "fr": "Digestif, Cardiovasculaire"
     },
-    "toxicite": "caution",
-    "toxiciteLevel": "caution",
+    "toxicite": null,
+    "toxiciteLevel": "safe",
     "sections": {
       "introduction": "Eugenia crenulata (syn. Eugenia crenata) est un arbuste aromatique indigène des Caraïbes et d'Amérique tropicale, documenté dans les Départements du Sud et de la Grand'Anse où il croît en altitude. Il appartient à la famille des Myrtacées, une famille tropicale riche en arbres et arbustes aromatiques, reconnue pour ses usages alimentaires (goyave, cerise-pays), médicinaux et ses huiles essentielles. Au sein de cette famille, le genre Eugenia regroupe de nombreuses espèces fruitières tropicales aux propriétés antioxydantes remarquables, caractérisées par leur richesse en tanins, flavonoïdes et composés terpéniques. E. crenulata fait partie de ces espèces à double vocation : ses fruits comestibles sont consommés localement, tandis que ses feuilles servent à préparer des tisanes thérapeutiques traditionnelles, particulièrement appréciées pour leurs propriétés réchauffantes contre le froid d'altitude. En raison de sa rareté croissante, cette espèce nécessite des mesures de conservation urgentes.",
       "description": "E. crenulata est un arbuste de haute altitude, adapté aux conditions fraîches des montagnes du Sud et de la Grand'Anse. Tiges et port. L'arbuste présente un port dressé à étalé, avec des rameaux lignifiés et une écorce lisse caractéristique du genre Eugenia. Les jeunes tiges sont souvent rougeâtres et dégagent un parfum aromatique distinctif lorsqu'on les froisse. Feuilles. Les feuilles sont persistantes, opposées, de forme elliptique à ovale avec des marges finement crénelées — caractère à l'origine du nom spécifique « crenulata ». Elles sont coriaces, d'un vert foncé brillant sur la face supérieure, et présentent une nervation pennée bien marquée. Froissées, elles libèrent une fragrance aromatique agréable, signe de leur richesse en huiles essentielles. Fleurs. Les fleurs sont petites, blanches, groupées en cymes axillaires. Elles présentent la structure typique des Myrtacées avec de nombreuses étamines saillantes donnant un aspect plumeux à l'inflorescence. Fruits. Les fruits sont des baies globuleuses, de petite taille, passant du vert au rouge puis au noir violacé à maturité. Ils sont comestibles et appréciés localement pour leur saveur douce légèrement astringente. Les parties utilisées sont les feuilles pour les préparations médicinales et les fruits pour l'alimentation.",
@@ -8359,8 +8695,10 @@ const plantesData = [
     "familleDescription": "",
     "familleImage": "",
     "familleNum": "53",
-    "toxBadgeColor": "yellow",
-    "toxBadgeText": "Précautions"
+    "toxBadgeColor": "green",
+    "toxBadgeText": "Non toxique",
+    "usageType": "Alimentaire et Médicinale",
+    "maladieSummary": "Digestif, Cardiovasculaire"
   },
   {
     "id": 171,
@@ -8378,10 +8716,10 @@ const plantesData = [
       "ht": "Ponm woz"
     },
     "systeme": {
-      "fr": "Les systèmes physiologiques principalement concernés par les effets d'Eugenia jambos sont le système"
+      "fr": "Digestif, Immunitaire"
     },
-    "toxicite": "unknown",
-    "toxiciteLevel": "unknown",
+    "toxicite": null,
+    "toxiciteLevel": "caution",
     "sections": {
       "introduction": "Eugenia jambos L. (syn. Syzygium jambos) est un arbre fruitier exotique introduit en Haïti, cultivé dans les Départements du Sud et de la Grand'Anse pour ses fruits parfumés. Il appartient à la famille des Myrtacées, une vaste famille tropicale dominée par des arbres et arbustes aromatiques, reconnue pour ses riches usages alimentaires, médicinaux et aromatiques. Cette famille se distingue par une signature phytochimique caractérisée par les tanins, flavonoïdes, vitamine C et limonène, ciblant préférentiellement les systèmes digestif, respiratoire et immunitaire. Au sein de cette famille, le genre Eugenia regroupe plusieurs espèces d'arbres fruitiers tropicaux — dont certaines endémiques d'Haïti comme Eugenia buchii — toutes caractérisées par leurs fruits charnus et leurs feuilles aromatiques riches en huiles essentielles. Eugenia jambos est principalement cultivé comme arbre fruitier, ses fruits étant appréciés pour leur saveur douce et parfumée, bien que la plante présente également des usages médicinaux traditionnels documentés.",
       "description": "E. jambos est un arbre de taille moyenne, pouvant atteindre 8 à 12 mètres de hauteur, adapté aux basses altitudes des régions tropicales humides. Tronc et écorce. Le tronc est droit, recouvert d'une écorce lisse de couleur brun-gris, qui se desquame par plaques avec l'âge. L'écorce est utilisée en médecine traditionnelle pour ses propriétés astringentes. Feuilles. Les feuilles sont opposées, simples, coriaces et persistantes. Elles mesurent 15 à 25 cm de longueur, de forme oblongue-lancéolée, avec une nervation pennée bien marquée. Lorsqu'on les froisse, elles dégagent un parfum aromatique caractéristique dû à la présence d'huiles essentielles dans les glandes sécrétrices. Fleurs. Les fleurs sont spectaculaires, blanches à crème, portées en grappes terminales. Chaque fleur mesure 5 à 8 cm de diamètre et se caractérise par de très nombreuses étamines longues et blanches qui lui donnent un aspect plumeux attractif. La floraison attire de nombreux pollinisateurs. Fruit. Le fruit, appelé « ponm woz » en créole, est une baie charnue de forme ovoïde à piriforme, mesurant 4 à 6 cm de diamètre. Sa peau est lisse, de couleur jaune pâle à rosée à maturité. La chair est blanche, juteuse, au goût sucré et parfumé rappelant la rose. Le fruit renferme généralement une à deux graines volumineuses. Les parties utilisées sont les fruits pour l'alimentation, et les feuilles et l'écorce pour les usages médicinaux.",
@@ -8408,7 +8746,9 @@ const plantesData = [
     "familleImage": "",
     "familleNum": "53",
     "toxBadgeColor": "yellow",
-    "toxBadgeText": "Données insuffisantes"
+    "toxBadgeText": "Conditionnel",
+    "usageType": "Alimentaire et Médicinale",
+    "maladieSummary": "Digestif, Immunitaire"
   },
   {
     "id": 172,
@@ -8427,10 +8767,10 @@ const plantesData = [
       "ht": "Ti kanèl"
     },
     "systeme": {
-      "fr": "Selon les usages traditionnels documentés, Myrica picardae ciblerait préférentiellement le système c"
+      "fr": "Urinaire, Cardiovasculaire"
     },
-    "toxicite": "unknown",
-    "toxiciteLevel": "unknown",
+    "toxicite": null,
+    "toxiciteLevel": "safe",
     "sections": {
       "introduction": "Myrica picardae (syn. Morella picardae) est un arbuste endémique strict d'Haïti, confiné au Massif de la Hotte dans la Grand'Anse. Il appartient à la famille des Myrtacées, une vaste famille tropicale reconnue pour ses arbres et arbustes aromatiques aux riches propriétés alimentaires, médicinales et ornementales. Cet arbuste de haute altitude, au goût âcre caractéristique, est utilisé traditionnellement dans le Sud et la Grand'Anse comme plante médicinale polyvalente, particulièrement appréciée pour ses propriétés antimicrobiennes et anti-inflammatoires. Son extrême rareté et son aire de répartition ultra-restreinte en font l'une des espèces végétales les plus menacées d'Haïti, nécessitant des mesures de conservation urgentes.",
       "description": "M. picardae est un arbuste de haute altitude, adapté aux conditions montagnardes spécifiques du Massif de la Hotte. Cette espèce présente les caractéristiques morphologiques typiques du genre Myrica, avec des adaptations particulières à son environnement endémique. Tiges et écorce. L'arbuste développe des tiges ligneuses robustes, recouvertes d'une écorce rugueuse de couleur brunâtre. L'écorce, riche en composés tanniques, constitue l'une des parties utilisées en médecine traditionnelle locale et dégage une odeur légèrement aromatique au contact. Feuilles. Les feuilles sont persistantes, coriaces et de forme oblongue à elliptique. Elles présentent une texture rugueuse au toucher et dégagent, lorsqu'on les froisse, une fragrance caractéristique due à la présence d'huiles essentielles. Leur saveur âcre distinctive témoigne de leur richesse en composés phénoliques et tanniques. Fleurs et reproduction. Comme les autres membres du genre Myrica, cette espèce produit de petites fleurs discrètes, organisées en inflorescences. Les modalités précises de sa reproduction et de sa pollinisation restent peu documentées, ce qui constitue un obstacle majeur pour les programmes de multiplication ex situ. Les parties utilisées dans les pratiques traditionnelles sont principalement les feuilles et l'écorce.",
@@ -8456,8 +8796,10 @@ const plantesData = [
     "familleDescription": "",
     "familleImage": "",
     "familleNum": "53",
-    "toxBadgeColor": "yellow",
-    "toxBadgeText": "Données insuffisantes"
+    "toxBadgeColor": "green",
+    "toxBadgeText": "Non toxique",
+    "usageType": "Médicinale",
+    "maladieSummary": "Urinaire, Cardiovasculaire"
   },
   {
     "id": 173,
@@ -8478,10 +8820,10 @@ const plantesData = [
       "ht": "Bwadenn"
     },
     "systeme": {
-      "fr": "Les usages documentés de P. racemosa concernent principalement le système musculo-squelettique, avec"
+      "fr": "Cutané, Musculosquelettique"
     },
-    "toxicite": "toxic",
-    "toxiciteLevel": "toxic",
+    "toxicite": null,
+    "toxiciteLevel": "safe",
     "sections": {
       "introduction": "Pimenta racemosa (syn. Myrtus caryophyllata) est un arbre natif documenté dans les Départements du Sud et de la Grand'Anse, appartenant à la famille des Myrtacées. Cette grande famille tropicale, composée majoritairement d'arbustes et d'arbres, se distingue par ses riches usages alimentaires, médicinaux et aromatiques — incluant des genres emblématiques comme Eucalyptus, Psidium (goyavier) et Syzygium (pomme rose). Au sein de cette famille, Pimenta racemosa fait partie du genre Pimenta, un groupe d'arbres aromatiques des Caraïbes réputés pour leurs huiles essentielles riches en eugénol, le même composé que l'on retrouve dans le clou de girofle. L'usage dominant de cette espèce dans les deux départements est aromatique, constituant un élément indispensable des bains de santé traditionnels. Son statut de conservation nécessite une attention particulière en raison de sa rareté croissante.",
       "description": "P. racemosa est un arbre de basse altitude, devenu très rare dans son aire de distribution naturelle des Départements du Sud et de la Grand'Anse. Tronc et écorce. Le tronc est droit, recouvert d'une écorce lisse à rugueuse selon l'âge, de couleur gris-brun. L'écorce, aromatique comme les feuilles, constitue l'une des parties utilisées traditionnellement. Feuilles. Les feuilles sont persistantes, opposées, coriaces et fortement aromatiques. Elles dégagent un parfum intense et caractéristique lorsqu'on les froisse, signature olfactive de la richesse en huiles essentielles de cette espèce. Leur texture coriace leur permet de résister aux conditions climatiques des zones côtières où l'espèce pousse naturellement. Fleurs. Les fleurs sont petites, blanches, regroupées en panicules terminales. Elles attirent divers insectes pollinisateurs par leur parfum délicat et leur production de nectar. Fruits. Les fruits sont de petites baies globuleuses, noires à maturité, contenant généralement une à deux graines. Bien que les fruits soient comestibles, ce sont les feuilles et l'écorce qui concentrent l'intérêt thérapeutique et aromatique. Les parties utilisées sont les feuilles, l'écorce et l'huile essentielle extraite principalement des feuilles.",
@@ -8507,8 +8849,10 @@ const plantesData = [
     "familleDescription": "",
     "familleImage": "",
     "familleNum": "53",
-    "toxBadgeColor": "red",
-    "toxBadgeText": "Toxique"
+    "toxBadgeColor": "green",
+    "toxBadgeText": "Non toxique",
+    "usageType": "Médicinale",
+    "maladieSummary": "Cutané, Musculosquelettique"
   },
   {
     "id": 174,
@@ -8527,10 +8871,10 @@ const plantesData = [
       "ht": "Gouyav"
     },
     "systeme": {
-      "fr": "P. guajava cible principalement le système digestif, avec une efficacité particulièrement documentée"
+      "fr": "Digestif, Respiratoire, Immunitaire"
     },
-    "toxicite": "unknown",
-    "toxiciteLevel": "unknown",
+    "toxicite": null,
+    "toxiciteLevel": "safe",
     "sections": {
       "introduction": "Psidium guajava L. (syn. Psidium pomiferum) est un arbre fruitier natif des Caraïbes et d'Amérique tropicale, abondant dans les Départements du Sud et de la Grand'Anse d'Haïti. Il appartient à la famille des Myrtacées, une vaste famille tropicale dominée par les arbres et arbustes aromatiques, comprenant des genres alimentaires majeurs comme l'eucalyptus aromatique et la cannelle sauvage, ainsi que des espèces fruitières précieuses. Cette famille se caractérise par une richesse phytochimique remarquable en tanins, flavonoïdes, vitamine C et terpènes volatils, ciblant préférentiellement les systèmes digestif, respiratoire et immunitaire, bien que certaines espèces exigent une préparation rigoureuse en raison de principes actifs puissants. Au sein des Myrtacées, le genre Psidium rassemble une vingtaine d'espèces fruitières tropicales, dont P. guajava constitue l'espèce la plus largement cultivée et étudiée. Le goyavier représente l'une des ressources ethnobotaniques les plus polyvalentes d'Haïti : arbre fruitier incontournable pour l'alimentation locale et plante médicinale de première importance pour les troubles digestifs.",
       "description": "P. guajava est un arbre de taille moyenne, pouvant atteindre 8 à 12 mètres de hauteur, particulièrement bien adapté aux conditions climatiques des basses altitudes du Sud et de la Grand'Anse d'Haïti. Tronc et écorce. Le tronc présente une écorce lisse, brunâtre, qui s'exfolie par plaques irrégulières avec l'âge, révélant une surface plus claire en dessous. Cette caractéristique facilite l'identification de l'espèce. Feuilles. Les feuilles sont opposées, ovales à oblongues, de 7 à 15 cm de longueur, coriaces et persistantes. Leur face supérieure est vert foncé et brillante, tandis que la face inférieure est plus claire et légèrement duveteuse. Elles dégagent une odeur aromatique caractéristique lorsqu'on les froisse, due aux glandes oléifères typiques des Myrtacées. Fleurs. Les fleurs sont blanches, hermaphrodites, composées de quatre pétales arrondis et de nombreuses étamines saillantes. Elles apparaissent isolément ou en petits groupes à l'aisselle des feuilles et attirent activement les abeilles et autres pollinisateurs. Fruits. Le fruit est une baie globuleuse ou pyriforme de 3 à 8 cm de diamètre, à peau jaune-vert ou rosée selon la variété. La chair, de couleur blanche, rose ou rouge, renferme de nombreuses graines dures et présente une saveur acidulée à douce très caractéristique. C'est la partie principalement consommée. Les parties utilisées sont les feuilles jeunes et matures pour les usages médicinaux, et les fruits à tous les stades de maturité pour l'alimentation et certains usages thérapeutiques.",
@@ -8556,8 +8900,10 @@ const plantesData = [
     "familleDescription": "",
     "familleImage": "",
     "familleNum": "53",
-    "toxBadgeColor": "yellow",
-    "toxBadgeText": "Données insuffisantes"
+    "toxBadgeColor": "green",
+    "toxBadgeText": "Non toxique",
+    "usageType": "Alimentaire et Médicinale",
+    "maladieSummary": "Digestif, Respiratoire, Immunitaire"
   },
   {
     "id": 175,
@@ -8576,10 +8922,10 @@ const plantesData = [
       "ht": "Nim / Bwa leta"
     },
     "systeme": {
-      "fr": "A. indica cible préférentiellement le système tégumentaire pour ses propriétés cicatrisantes et anti"
+      "fr": "Endocrinien"
     },
-    "toxicite": "toxic",
-    "toxiciteLevel": "toxic",
+    "toxicite": null,
+    "toxiciteLevel": "safe",
     "sections": {
       "introduction": "Azadirachta indica A. Juss. (syn. Melia azadirachta L.) est un arbre exotique abondant dans les Départements du Sud et de la Grand'Anse. Il appartient à la famille des Méliacées, reconnue pour ses essences forestières précieuses et ses propriétés médicinales remarquables. Au sein de cette famille, il fait partie du genre Azadirachta, un petit groupe d'arbres asiatiques dont A. indica est l'espèce la plus étudiée et utilisée mondialement. Son usage dominant dans les deux départements est médicinal et insecticide, particulièrement apprécié pour ses propriétés antimicrobiennes, antiparasitaires et antidiabétiques. Introduit depuis l'Inde, cet arbre s'est parfaitement adapté au climat tropical haïtien et nécessite désormais un contrôle de son expansion.",
       "description": "A. indica est un arbre de taille moyenne à grande, pouvant atteindre 15 à 20 mètres de hauteur, particulièrement adapté aux basses altitudes des Départements du Sud et de la Grand'Anse où il prospère dans diverses conditions édaphiques. Tronc et écorce. Le tronc est droit, pouvant atteindre 60 cm de diamètre, recouvert d'une écorce gris-brun, rugueuse et fissurée. L'écorce, utilisée en médecine traditionnelle, développe une amertume caractéristique due à sa richesse en limonoïdes. Feuilles. Les feuilles sont composées, pennées, mesurant 20 à 40 cm de longueur, portant 10 à 20 folioles ovales à lancéolées, à marge dentée. Elles sont d'un vert foncé brillant et dégagent une odeur caractéristique d'ail lorsqu'on les froisse. Leur saveur amère prononcée est un signe distinctif de la présence de composés bioactifs. Fleurs et fruits. Les fleurs sont petites, blanches à jaunâtres, regroupées en panicules axillaires parfumées qui attirent les abeilles. Les fruits sont des drupes ovales, jaunes à maturité, contenant une graine unique particulièrement riche en huile aux propriétés insecticides. Les parties utilisées sont principalement les feuilles, l'écorce et les graines pour l'extraction d'huile.",
@@ -8605,8 +8951,10 @@ const plantesData = [
     "familleDescription": "Avec ses nombreuses espèces tropicales, les Méliacées constituent une famille d'arbres et d'arbustes particulièrement remarquable dans les Départements du Sud et de la Grand'Anse. Cette famille rassemble des genres aux usages multiples : alimentaires comme l'acajou à miel (Cedrela), médicinaux comme le neem (Azadirachta) et le lilas du pays (Melia), ainsi que des essences forestières précieuses comme les cèdres et acajous. Sur le plan phytochimique, les Méliacées se distinguent par leur richesse en limonoïdes — des composés triterpéniques amers aux propriétés insecticides et antimicrobiennes remarquables —, en tanins astringents, en saponines et en flavonoïdes. Ces molécules ciblent préférentiellement les systèmes tégumentaire, digestif et immunitaire, conférant à cette famille des propriétés cicatrisantes, antiparasitaires et anti-inflammatoires reconnues. Il convient cependant d'exercer une vigilance particulière car certaines espèces — notamment Melia azedarach — renferment des principes actifs puissants dans leurs graines et fruits, pouvant provoquer des troubles neurologiques à forte dose.",
     "familleImage": "",
     "familleNum": "54",
-    "toxBadgeColor": "red",
-    "toxBadgeText": "Toxique"
+    "toxBadgeColor": "green",
+    "toxBadgeText": "Non toxique",
+    "usageType": "Médicinale",
+    "maladieSummary": "Endocrinien"
   },
   {
     "id": 176,
@@ -8625,10 +8973,10 @@ const plantesData = [
       "ht": "Sèd"
     },
     "systeme": {
-      "fr": "Les usages documentés de Cedrela odorata ciblent principalement le système immunitaire, avec des app"
+      "fr": "Immunitaire"
     },
-    "toxicite": "unknown",
-    "toxiciteLevel": "unknown",
+    "toxicite": null,
+    "toxiciteLevel": "safe",
     "sections": {
       "introduction": "Cedrela odorata L. (syn. Cedrela mexicana) est un arbre natif de taille moyenne, documenté dans les Départements du Sud et de la Grand'Anse d'Haïti. Il appartient à la famille des Méliacées, un groupe d'environ 550 espèces majoritairement composé d'arbres tropicaux et subtropicaux, reconnu pour ses remarquables propriétés médicinales et ses essences ligneuses précieuses. Cette famille se distingue par une signature phytochimique dominée par les limonoïdes — des triterpènes modifiés aux propriétés insecticides et antiparasitaires — associés aux tanins, flavonoïdes et saponines, ciblant préférentiellement les systèmes tégumentaire, digestif et immunitaire. Les genres à vocation alimentaire incluent notamment Lansium (langsat) et certains Trichilia, tandis que les genres médicinaux majeurs comprennent Azadirachta (neem), Melia, Swietenia (acajou véritable) et Cedrela. Il convient de noter qu'une vigilance s'impose avec certaines espèces comme Melia azedarach, dont les graines et fruits peuvent provoquer des convulsions à forte dose. Au sein de cette famille, Cedrela odorata fait partie du genre Cedrela, regroupant des arbres de grande valeur économique pour leur bois aromatique et leurs propriétés thérapeutiques. En Haïti, le « Sèd » occupe une place particulière tant pour ses usages médicinaux — notamment contre la fièvre — que pour ses dimensions spirituelles de protection.",
       "description": "C. odorata est un arbre de taille moyenne pouvant atteindre 20 à 35 mètres de hauteur dans des conditions optimales, caractérisé par son bois aromatique distinctif et sa saveur amère marquée. Dans les Départements du Sud et de la Grand'Anse, il se développe principalement aux altitudes moyennes, où les conditions climatiques favorisent sa croissance. Tiges et bois. Le tronc est droit, cylindrique, pouvant atteindre un diamètre considérable. Le bois présente une couleur rouge-brun caractéristique avec un grain fin et régulier. Son odeur aromatique distinctive, qui lui vaut son épithète « odorata », provient de la présence d'huiles essentielles et de composés terpéniques volatils. Cette fragrance naturelle contribue à ses propriétés répulsives contre les insectes et constitue l'un des critères de reconnaissance de l'espèce. Feuilles. Les feuilles sont composées, paripennées, alternes, pouvant mesurer 30 à 60 cm de longueur. Chaque feuille comprend 8 à 20 folioles opposées, de forme oblongue-lancéolée, à bord entier ou légèrement denté. Les folioles présentent une face supérieure vert foncé brillant et une face inférieure plus pâle, avec une nervation pennée bien marquée. Fleurs et reproduction. Les fleurs sont petites, blanchâtres à verdâtres, regroupées en panicules terminales. Chaque fleur possède 5 sépales et 5 pétales, avec 5 étamines. La floraison a généralement lieu en saison sèche, attirant diverses espèces d'insectes pollinisateurs. Fruit et graines. Le fruit est une capsule ligneuse déhiscente, contenant de nombreuses graines ailées facilitant la dispersion par le vent. Cette adaptation morphologique permet à l'espèce de coloniser de nouveaux habitats. Les parties utilisées dans les pratiques locales sont principalement l'écorce et les feuilles, avec un usage occasionnel des graines.",
@@ -8654,8 +9002,10 @@ const plantesData = [
     "familleDescription": "",
     "familleImage": "",
     "familleNum": "54",
-    "toxBadgeColor": "yellow",
-    "toxBadgeText": "Données insuffisantes"
+    "toxBadgeColor": "green",
+    "toxBadgeText": "Non toxique",
+    "usageType": "Alimentaire et Médicinale",
+    "maladieSummary": "Immunitaire"
   },
   {
     "id": 177,
@@ -8674,10 +9024,10 @@ const plantesData = [
       "ht": "Bwa wouj"
     },
     "systeme": {
-      "fr": "Guarea guidonia cible principalement le système digestif, documenté localement dans le Sud et la Gra"
+      "fr": "Digestif"
     },
     "toxicite": null,
-    "toxiciteLevel": "safe",
+    "toxiciteLevel": "caution",
     "sections": {
       "introduction": "Guarea guidonia (L.) Sleumer (syn. Guarea trichilioides, Guarea sphenophylla) est un arbre natif des Caraïbes et d'Amérique tropicale, commun dans les Départements du Sud et de la Grand'Anse d'Haïti. Il appartient à la famille des Méliacées, un groupe majoritairement arborescent particulièrement représenté dans la flore du grand Sud haïtien. Cette famille se distingue par ses usages médicinaux remarquables et sa signature phytochimique dominée par les limonoïdes, les tanins, les saponines et les flavonoïdes, ciblant préférentiellement les systèmes tégumentaire, digestif et immunitaire. Parmi les genres médicinaux notables de cette famille figurent Azadirachta (neem), Swietenia (acajou) et Cedrela (cèdre), tandis que certaines espèces comme Melia azedarach présentent une toxicité significative exigeant des précautions strictes. Guarea guidonia, localement appelé « bwa wouj » en référence à la coloration rougeâtre de son bois, constitue l'une des espèces médicinales traditionnelles importantes de cette famille, principalement utilisée pour ses propriétés purgatiques et anti-inflammatoires, bien que son usage nécessite une grande prudence en raison de sa toxicité potentielle.",
       "description": "G. guidonia est un arbre de taille moyenne, typique des forêts humides d'altitude moyenne des Départements du Sud et de la Grand'Anse, reconnaissable à sa saveur très amère caractéristique. Tronc et écorce. Le tronc présente une écorce rugueuse de coloration brunâtre à rougeâtre, particulièrement distinctive et à l'origine du nom vernaculaire « bwa wouj ». Cette écorce constitue la partie principalement utilisée en médecine traditionnelle. Le bois, également rougeâtre, est apprécié localement pour la construction. Feuilles. Les feuilles sont composées, alternes, à folioles opposées ou sub-opposées. Elles présentent une texture coriace et dégagent une odeur caractéristique lorsqu'elles sont froissées. Leur saveur très amère reflète la richesse en composés secondaires défensifs de la plante. Les feuilles sont également utilisées en préparations médicinales. Fleurs et fruits. L'arbre produit des inflorescences axillaires composées de petites fleurs blanches à jaunâtres. Les fruits sont des capsules ligneuses qui s'ouvrent pour libérer des graines arillées, typiques de la famille des Méliacées. Les parties utilisées dans les pratiques traditionnelles haïtiennes sont principalement l'écorce et les feuilles.",
@@ -8703,8 +9053,10 @@ const plantesData = [
     "familleDescription": "",
     "familleImage": "",
     "familleNum": "54",
-    "toxBadgeColor": "green",
-    "toxBadgeText": "Non toxique"
+    "toxBadgeColor": "yellow",
+    "toxBadgeText": "Conditionnel",
+    "usageType": "Médicinale",
+    "maladieSummary": "Digestif"
   },
   {
     "id": 178,
@@ -8723,10 +9075,10 @@ const plantesData = [
       "ht": "Lila peyi"
     },
     "systeme": {
-      "fr": "M. azedarach cible préférentiellement les systèmes parasitaire et tégumentaire. Les limonoïdes pertu"
+      "fr": "Nerveux"
     },
-    "toxicite": "caution",
-    "toxiciteLevel": "caution",
+    "toxicite": null,
+    "toxiciteLevel": "safe",
     "sections": {
       "introduction": "Melia azedarach L. (syn. Melia japonica) est un arbre exotique introduit dans les Départements du Sud et de la Grand'Anse, où il est devenu rare. Il appartient à la famille des Méliacées, une famille dominée par les arbres et remarquable pour ses puissants usages médicinaux. Au sein de cette famille, il fait partie du genre Melia, un groupe d'arbres asiatiques réputés pour leurs propriétés insecticides naturelles mais aussi pour leur toxicité potentielle. Son usage documenté dans le Sud et la Grand'Anse est principalement antiparasitaire et ornementale, particulièrement contre les poux et comme arbre d'ombrage décoratif. Cependant, sa toxicité notable exige une extrême prudence dans son utilisation thérapeutique.",
       "description": "M. azedarach est un arbre de taille moyenne, pouvant atteindre 10 à 15 mètres de hauteur, caractérisé par sa croissance rapide et son port étalé. Tronc et écorce. Le tronc est droit, recouvert d'une écorce grisâtre et lisse chez les jeunes sujets, devenant rugueuse et fissurée avec l'âge. L'écorce est l'une des parties utilisées en médecine traditionnelle. Feuilles. Les feuilles sont composées, alternes, bipennées, de grande taille (30-60 cm de long), conférant à l'arbre un aspect élégant et une ombre appréciée. Les folioles sont ovales-lancéolées, dentées, d'un vert brillant. Ces feuilles sont utilisées dans les préparations antiparasitaires. Fleurs. L'arbre produit des panicules de petites fleurs parfumées, de couleur lilas pâle à blanc rosé, d'où son nom vernaculaire de « lilas des Indes ». Ces fleurs apparaissent avant ou en même temps que les nouvelles feuilles. Fruits. Les fruits sont des drupes jaunâtres, de forme ovoïde, persistant longtemps sur l'arbre après la chute des feuilles. Ils contiennent des graines dures qui constituent la partie la plus toxique de la plante mais aussi la plus utilisée comme insecticide. Les parties utilisées sont les feuilles, l'écorce et les graines, ces dernières nécessitant une vigilance particulière.",
@@ -8752,8 +9104,10 @@ const plantesData = [
     "familleDescription": "",
     "familleImage": "",
     "familleNum": "54",
-    "toxBadgeColor": "yellow",
-    "toxBadgeText": "Précautions"
+    "toxBadgeColor": "green",
+    "toxBadgeText": "Non toxique",
+    "usageType": "Alimentaire",
+    "maladieSummary": "Nerveux"
   },
   {
     "id": 179,
@@ -8772,10 +9126,10 @@ const plantesData = [
       "ht": "Kajou"
     },
     "systeme": {
-      "fr": "L'acajou cible préférentiellement le système digestif selon les usages documentés dans les Départeme"
+      "fr": "Digestif, Cardiovasculaire"
     },
-    "toxicite": "unknown",
-    "toxiciteLevel": "unknown",
+    "toxicite": null,
+    "toxiciteLevel": "safe",
     "sections": {
       "introduction": "Swietenia mahagoni (L.) (syn. Cedrela mahagoni L.) est un grand arbre natif des Caraïbes et d'Amérique tropicale, commun dans les Départements du Sud et de la Grand'Anse. Il appartient à la famille des Méliacées, une famille tropicale dominée par des arbres de haute valeur économique et thérapeutique, reconnue pour ses limonoïdes bioactifs, ses tanins astringents et ses saponines. Cette famille se distingue par une signature phytochimique ciblant préférentiellement les systèmes tégumentaire, digestif et immunitaire, avec des espèces comme le neem (Azadirachta indica) et le margousier (Melia azedarach). Il convient de noter que certains membres de cette famille — notamment Melia azedarach — renferment des principes actifs puissants exigeant une préparation adéquate, les graines pouvant provoquer des convulsions à forte dose. Au sein de cette famille, Swietenia mahagoni fait partie du genre Swietenia, qui regroupe les acajous véritables, arbres majestueux prisés à la fois pour leur bois précieux et leurs propriétés médicinales traditionnelles. L'espèce présente un double usage dans les Départements du Sud et de la Grand'Anse : construction et médecine traditionnelle, particulièrement comme adjuvant antidiabétique et stimulant de l'appétit.",
       "description": "S. mahagoni est un grand arbre pouvant atteindre 30 à 40 mètres de hauteur, caractéristique des formations forestières de basse altitude des Départements du Sud et de la Grand'Anse. Tronc et écorce. Le tronc est droit, cylindrique, pouvant atteindre plus d'un mètre de diamètre chez les spécimens matures. L'écorce externe est grisâtre, fissurée longitudinalement, tandis que l'écorce interne révèle une couleur rougeâtre caractéristique. Cette écorce, à saveur amère prononcée, constitue la partie principalement utilisée en médecine traditionnelle. Feuilles. Les feuilles sont composées, alternes, paripennées, mesurant 15 à 40 cm de longueur. Elles comprennent généralement 4 à 8 paires de folioles ovales à oblongues, coriaces, d'un vert brillant sur la face supérieure. Ces feuilles, également à saveur amère, sont occasionnellement utilisées en préparations médicinales. Fleurs. Les fleurs sont petites, jaunâtres à verdâtres, regroupées en panicules axillaires. La floraison s'étend généralement sur plusieurs mois selon les conditions climatiques locales. Fruits et graines. Le fruit est une capsule ligneuse ovoïde de 8 à 12 cm de longueur, s'ouvrant par 5 valves pour libérer de nombreuses graines ailées brunâtres. Ces graines, également utilisées traditionnellement, présentent une saveur amère caractéristique. Les parties utilisées sont principalement l'écorce, les graines et occasionnellement les feuilles.",
@@ -8801,8 +9155,10 @@ const plantesData = [
     "familleDescription": "",
     "familleImage": "",
     "familleNum": "54",
-    "toxBadgeColor": "yellow",
-    "toxBadgeText": "Données insuffisantes"
+    "toxBadgeColor": "green",
+    "toxBadgeText": "Non toxique",
+    "usageType": "Médicinale",
+    "maladieSummary": "Digestif, Cardiovasculaire"
   },
   {
     "id": 180,
@@ -8821,10 +9177,10 @@ const plantesData = [
       "ht": "Monben bata"
     },
     "systeme": {
-      "fr": "Selon la documentation locale, T. hirta cible principalement le système tégumentaire, avec des appli"
+      "fr": "Médicinal"
     },
-    "toxicite": "toxic",
-    "toxiciteLevel": "toxic",
+    "toxicite": null,
+    "toxiciteLevel": "safe",
     "sections": {
       "introduction": "Trichilia hirta (syn. Trichilia spondioides) est un arbre natif des Caraïbes et d'Amérique tropicale, documenté dans le Sud et la Grand'Anse d'Haïti. Il appartient à la famille des Méliacées, une famille tropicale dominée par les arbres et reconnue pour ses puissants usages médicinaux. Cette famille se caractérise par une signature phytochimique riche en limonoïdes, tanins, saponines et flavonoïdes, ciblant préférentiellement les systèmes tégumentaire, digestif et immunitaire. Au sein de cette famille, certaines espèces comme Melia azedarach présentent une toxicité notable, particulièrement au niveau des graines et fruits, exigeant une vigilance dans l'identification. Trichilia hirta fait partie du genre Trichilia, un groupe d'arbres tropicaux réputés pour leurs propriétés anti-inflammatoires et antimicrobiennes. Localement connu sous le nom de « Monben bata », cet arbre est principalement utilisé à des fins médicinales et artisanales, notamment pour la confection de balais traditionnels.",
       "description": "T. hirta est un arbre de taille moyenne, commun dans les zones d'altitude moyenne des Départements du Sud et de la Grand'Anse. Tronc et écorce. Le tronc est droit et développe une écorce rugueuse de couleur grisâtre à brunâtre. L'écorce, utilisée en médecine traditionnelle, présente une saveur légèrement amère caractéristique des Méliacées, signe de la présence de composés bioactifs. Feuilles. Les feuilles sont composées, alternes et persistantes. Elles présentent une texture coriace et une couleur vert foncé brillant à la face supérieure, plus pâle à la face inférieure. Leur saveur est douce à légèrement aromatique, ce qui les distingue d'autres membres de la famille aux saveurs plus amères. Fleurs. Les inflorescences sont disposées en panicules axillaires, composées de petites fleurs blanches à crème. Ces fleurs hermaphrodites attirent divers insectes pollinisateurs et dégagent un parfum subtil lors de la floraison. Fruits. Les fruits sont des capsules ligneuses qui s'ouvrent à maturité pour libérer des graines ailées, facilitant leur dispersion par le vent. Les parties utilisées sont principalement les feuilles et l'écorce, toutes deux récoltées selon les besoins thérapeutiques locaux.",
@@ -8850,8 +9206,10 @@ const plantesData = [
     "familleDescription": "",
     "familleImage": "",
     "familleNum": "54",
-    "toxBadgeColor": "red",
-    "toxBadgeText": "Toxique"
+    "toxBadgeColor": "green",
+    "toxBadgeText": "Non toxique",
+    "usageType": "Alimentaire et Médicinale",
+    "maladieSummary": ""
   },
   {
     "id": 181,
@@ -8871,10 +9229,10 @@ const plantesData = [
       "ht": "Bwa arada"
     },
     "systeme": {
-      "fr": "T. pallida cible préférentiellement le système digestif, conformément aux observations ethnobotaniqu"
+      "fr": "Digestif"
     },
-    "toxicite": "caution",
-    "toxiciteLevel": "caution",
+    "toxicite": null,
+    "toxiciteLevel": "safe",
     "sections": {
       "introduction": "Trichilia pallida Sw. (syn. Portesia pallida) est un arbre indigène des Caraïbes, documenté dans les Départements du Sud et de la Grand'Anse où il porte le nom créole de « Bwa arada ». Il appartient à la famille des Méliacées, une famille tropicale dominée par les arbres et reconnue pour ses remarquables propriétés médicinales. Au sein de cette famille, il fait partie du genre Trichilia, un groupe d'arbres néotropicaux particulièrement riches en limonoïdes — des composés triterpéniques complexes aux puissantes propriétés insecticides et antiparasitaires. Son usage principal dans les deux départements est médicinal, particulièrement comme purgatif traditionnel contre la constipation chronique, bien que sa rareté croissante soulève des préoccupations de conservation.",
       "description": "T. pallida est un arbre de taille moyenne, caractéristique des formations forestières d'altitude moyenne dans les Départements du Sud et de la Grand'Anse. Tronc et écorce. Le tronc présente une écorce rugueuse, brunâtre à grisâtre, qui constitue l'une des parties médicinales traditionnellement utilisées. L'écorce dégage une légère amertume caractéristique du genre Trichilia. Feuilles. Les feuilles sont composées, alternes et persistantes, typiques de la famille des Méliacées. Elles présentent une texture coriace et une nervation pennée bien marquée. Les feuilles fraîches constituent la partie la plus couramment utilisée dans les préparations médicinales locales. Fleurs. La floraison produit de petites fleurs regroupées en inflorescences, généralement blanchâtres à jaunâtres, suivant le modèle architectural typique des Méliacées. Fruit. Les fruits sont des capsules ligneuses qui s'ouvrent pour libérer des graines ailées, facilitant la dispersion par le vent dans l'environnement forestier. Les parties utilisées sont principalement les feuilles et l'écorce.",
@@ -8900,8 +9258,10 @@ const plantesData = [
     "familleDescription": "",
     "familleImage": "",
     "familleNum": "54",
-    "toxBadgeColor": "yellow",
-    "toxBadgeText": "Précautions"
+    "toxBadgeColor": "green",
+    "toxBadgeText": "Non toxique",
+    "usageType": "Médicinale",
+    "maladieSummary": "Digestif"
   },
   {
     "id": 182,
@@ -8922,10 +9282,10 @@ const plantesData = [
       "ht": "Bèl de nwi"
     },
     "systeme": {
-      "fr": "M. jalapa cible préférentiellement le système tégumentaire pour les applications externes et le syst"
+      "fr": "Digestif"
     },
-    "toxicite": "toxic",
-    "toxiciteLevel": "toxic",
+    "toxicite": null,
+    "toxiciteLevel": "caution",
     "sections": {
       "introduction": "Mirabilis jalapa L. (syn. Mirabilis dichotoma) est une herbe exotique naturalisée dans les Départements du Sud et de la Grand'Anse d'Haïti, où elle est connue sous le nom créole de « Bèl de nwi ». Elle appartient à la famille des Nyctaginacées, une famille tropicale remarquable par ses pigments colorés et ses usages médicinaux variés. Au sein de cette famille, elle fait partie du genre Mirabilis, qui regroupe des espèces herbacées à fleurs tubulaires s'ouvrant en fin de journée — d'où le nom vernaculaire « belle de nuit ». Son usage principal dans les deux départements est médicinal, documenté dans le Sud et la Grand'Anse pour ses propriétés purgatives puissantes au niveau des racines et anti-inflammatoires au niveau des feuilles.",
       "description": "M. jalapa est une herbe vivace robuste pouvant atteindre 60 à 120 cm de hauteur, remarquable par ses fleurs colorées qui s'épanouissent en soirée. Dans le contexte des Départements du Sud et de la Grand'Anse, elle croît préférentiellement en basse altitude et présente une saveur amère caractéristique. Racines. Le système racinaire est pivotant et charnu, formant des racines tubéreuses noirâtres à l'extérieur et blanchâtres à l'intérieur. Ces racines, particulièrement développées, constituent la partie la plus active sur le plan thérapeutique mais aussi la plus toxique de la plante. Tiges et feuilles. Les tiges sont dressées, ramifiées, souvent teintées de rouge aux nœuds. Les feuilles sont opposées, ovales à cordiformes, de couleur vert foncé, glabres et de texture légèrement charnue. Elles dégagent une odeur herbacée lorsqu'on les froisse. Fleurs. Les fleurs tubulaires, de couleurs variées (rouge, jaune, blanc, rose ou bicolores), s'ouvrent en fin d'après-midi et se referment au matin suivant. Elles sont regroupées en cymes terminales et attirent les papillons nocturnes pour la pollinisation. Fruit et graines. Le fruit est un akène ovale, ridé, de couleur noire à maturité, contenant une seule graine. Les graines sont également considérées comme toxiques. Les parties utilisées sont principalement les racines pour les usages purgatifs, et les feuilles pour les applications externes.",
@@ -8951,8 +9311,10 @@ const plantesData = [
     "familleDescription": "Dominantes dans les régions tropicales et subtropicales, les Nyctaginacées rassemblent environ 400 espèces réparties en 30 genres, principalement des herbes et des arbustes à distribution pantropicale. Cette famille se distingue par une remarquable diversité d'usages : des genres à vocation ornementale comme Bougainvillea, aux fleurs colorées qui parent les jardins tropicaux, des genres à potentiel médicinal comme Mirabilis, utilisé traditionnellement pour ses propriétés digestives et anti-inflammatoires, et des genres alimentaires occasionnels dans certaines régions du monde. Sur le plan phytochimique, les Nyctaginacées présentent une signature chimique particulière dominée par les bétalaïnes — pigments colorés responsables des teintes vives des fleurs et des bractées —, les flavonoïdes, la trigonelline, les triterpènes et diverses résines. Ces composés ciblent préférentiellement le système tégumentaire et digestif. Il convient cependant de souligner que certains genres, notamment Mirabilis, renferment des principes actifs puissants dans leurs racines et graines, exigeant une préparation adéquate et un dosage strict pour éviter tout risque de toxicité, particulièrement chez l'enfant.",
     "familleImage": "",
     "familleNum": "56",
-    "toxBadgeColor": "red",
-    "toxBadgeText": "Toxique"
+    "toxBadgeColor": "yellow",
+    "toxBadgeText": "Conditionnel",
+    "usageType": "Médicinale",
+    "maladieSummary": "Digestif"
   },
   {
     "id": 183,
@@ -8971,10 +9333,10 @@ const plantesData = [
       "ht": "Pwa savann"
     },
     "systeme": {
-      "fr": "Les applications thérapeutiques de X. americana ciblent principalement les systèmes digestif et cuta"
+      "fr": "Digestif, Cutané"
     },
-    "toxicite": "caution",
-    "toxiciteLevel": "caution",
+    "toxicite": null,
+    "toxiciteLevel": "safe",
     "sections": {
       "introduction": "Ximenia americana L. — « Pwa savann » / Citron de mer Ximenia americana L. (syn. Ximenia inermis Stephens) est un arbuste à petit arbre natif documenté dans les Départements du Sud et de la Grand'Anse d'Haïti. Il appartient à la famille des Olacacées, une famille tropicale méconnue mais remarquable par sa polyvalence alimentaire et thérapeutique. Au sein de cette famille, le genre Ximenia se distingue par ses fruits acidulés comestibles et ses graines riches en huile, constituant une ressource nutritionnelle et économique importante dans les régions sèches. Ximenia americana est une espèce à usage triple : alimentaire pour ses fruits et graines oléagineuses, médicinale pour ses propriétés cicatrisantes et antimicrobiennes, et économique potentielle pour l'extraction d'huile cosmétique. Son nom créole « Pwa savann » évoque sa présence caractéristique dans les savanes arborées du grand Sud haïtien.",
       "description": "X. americana est un arbuste à petit arbre de basse à moyenne altitude, particulièrement adapté aux environnements secs des savanes arborées et forêts sèches des Départements du Sud et de la Grand'Anse. Tiges et écorce. Le tronc est généralement court et tortueux, avec une écorce rugueuse et fissurée de couleur brun-gris. Les branches peuvent porter des épines courtes et robustes, adaptation défensive caractéristique contre les herbivores dans les milieux secs. Feuilles. Les feuilles sont simples, alternes, coriaces et persistantes — adaptation essentielle à la sécheresse. De forme elliptique à obovale, elles mesurent 3 à 8 cm de longueur et présentent une nervation pennée bien marquée. Leur surface supérieure est vert foncé et luisante, tandis que la face inférieure est plus claire. Fleurs. Les fleurs sont petites, blanc-jaunâtre, regroupées en grappes axillaires. Elles sont hermaphrodites et dégagent un parfum discret attirant les insectes pollinisateurs. Fruits. Le fruit est une drupe ovoïde de 2 à 3 cm de diamètre, passant du vert au jaune-orange à maturité. La chair est acidulée et légèrement astringente, renfermant une graine unique à tégument dur. Les parties utilisées sont l'écorce, les feuilles et les graines, chacune présentant des propriétés spécifiques.",
@@ -9000,8 +9362,10 @@ const plantesData = [
     "familleDescription": "Dominant les écosystèmes secs des régions tropicales, les Olacacées rassemblent environ 200 espèces réparties en une trentaine de genres, principalement composées d'arbustes et d'arbres adaptés aux savanes et forêts sèches. Cette famille méconnue révèle pourtant une richesse remarquable tant sur le plan alimentaire que thérapeutique. Les genres à vocation alimentaire incluent Ximenia, dont les fruits acidulés et les graines oléagineuses nourrissent les populations locales, et Olax, aux fruits également comestibles. Sur le plan médicinal, plusieurs genres se distinguent par leurs propriétés cicatrisantes et antimicrobiennes, notamment Ximenia pour les affections cutanées et Olax pour les troubles digestifs. La signature phytochimique de cette famille se caractérise par des acides gras spécialisés comme l'acide ximénynique, des glycosides cyanogéniques tel que la sambunigrine, des saponines et des tanins condensés. Ces composés ciblent préférentiellement les systèmes digestif et cutané, offrant des propriétés anti-inflammatoires et antimicrobiennes. Une vigilance s'impose cependant : certaines espèces renferment des glycosides cyanogéniques dans leurs graines, exigeant une préparation adéquate pour éviter tout risque d'intoxication.",
     "familleImage": "",
     "familleNum": "57",
-    "toxBadgeColor": "yellow",
-    "toxBadgeText": "Précautions"
+    "toxBadgeColor": "green",
+    "toxBadgeText": "Non toxique",
+    "usageType": "Alimentaire et Médicinale",
+    "maladieSummary": "Digestif, Cutané"
   },
   {
     "id": 184,
@@ -9021,10 +9385,10 @@ const plantesData = [
       "ht": "Blinblin"
     },
     "systeme": {
-      "fr": "Les usages médicinaux traditionnels du bilimbi ciblent principalement les systèmes cardiovasculaire "
+      "fr": "Digestif, Urinaire, Cardiovasculaire"
     },
     "toxicite": null,
-    "toxiciteLevel": "safe",
+    "toxiciteLevel": "caution",
     "sections": {
       "introduction": "Averrhoa bilimbi L. (syn. Averrhoa obtusangula) est un arbre fruitier exotique rare des Départements du Sud et de la Grand'Anse d'Haïti. Il appartient à la famille des Oxalidacées, une famille tropicale réputée pour ses fruits acidulés et ses usages culinaires traditionnels. Au sein de cette famille, il fait partie du genre Averrhoa qui comprend également la carambole (Averrhoa carambola), plus connue localement sous le nom de « karanbòl ». Le bilimbi se distingue par ses fruits extrêmement acides à saveur caustique, utilisés principalement pour la fabrication artisanale de vinaigre et comme condiment mariné. Bien que documenté pour des usages médicinaux traditionnels — notamment comme antidiabétique et hypotenseur — cet arbre exige une prudence particulière en raison de sa forte teneur en oxalates, potentiellement toxiques pour les reins.",
       "description": "A. bilimbi est un arbre de taille modeste, adapté aux basses altitudes des régions tropicales humides du Sud et de la Grand'Anse. Sa croissance lente et ses exigences climatiques spécifiques expliquent en partie sa rareté dans la région. Tronc et écorce. Le tronc est relativement court avec une écorce lisse de couleur brun-grisâtre. Les branches se développent de manière étalée, formant une couronne arrondie caractéristique. Feuilles. Les feuilles sont composées, pennées, disposées alternativement le long des rameaux. Chaque feuille compte plusieurs folioles ovales à oblongues, de couleur vert tendre, qui se replient la nuit — un phénomène de nyctinastie typique de la famille des Oxalidacées. Fleurs. Les fleurs sont petites, de couleur pourpre à rose pâle, regroupées en grappes qui émergent directement du tronc et des branches principales (cauliflorie). Cette disposition particulière est une adaptation permettant aux fruits de se développer sans le poids des feuilles. Fruits. Les fruits constituent la partie la plus remarquable de la plante : allongés, de forme cylindrique à légèrement courbe, de 5 à 10 cm de longueur, ils présentent une couleur vert jaunâtre à maturité. Leur chair translucide et très juteuse développe une acidité extrême et caustique, caractéristique de l'espèce. Les parties utilisées sont principalement les fruits mûrs et, occasionnellement dans la médecine traditionnelle, les feuilles jeunes.",
@@ -9050,8 +9414,10 @@ const plantesData = [
     "familleDescription": "Les Oxalidacées constituent une famille botanique remarquable dominée par des arbres tropicaux, comptant environ 570 espèces réparties dans le monde entier. Cette famille se distingue par sa double vocation alimentaire et médicinale, avec des genres particulièrement prisés pour leurs fruits comestibles comme Averrhoa (carambole et bilimbi) et Oxalis (oseille sauvage). D'autres genres comme Biophytum trouvent leur place dans les pharmacopées traditionnelles pour leurs propriétés anti-inflammatoires et cicatrisantes. Sur le plan phytochimique, les Oxalidacées présentent une signature caractéristique dominée par l'acide oxalique, la vitamine C, l'acide citrique et des flavonoïdes spécifiques, conférant à leurs fruits cette acidité distinctive recherchée en cuisine tropicale. Ces composés ciblent préférentiellement les systèmes cardiovasculaire, rénal et nerveux. Cependant, une vigilance particulière s'impose avec cette famille : plusieurs espèces accumulent des concentrations élevées d'oxalates, particulièrement néphrotoxiques chez les personnes souffrant d'insuffisance rénale, de diabète ou d'hypertension, nécessitant des précautions strictes d'usage.",
     "familleImage": "",
     "familleNum": "58",
-    "toxBadgeColor": "green",
-    "toxBadgeText": "Non toxique"
+    "toxBadgeColor": "yellow",
+    "toxBadgeText": "Conditionnel",
+    "usageType": "Alimentaire et Médicinale",
+    "maladieSummary": "Digestif, Urinaire, Cardiovasculaire"
   },
   {
     "id": 185,
@@ -9069,9 +9435,9 @@ const plantesData = [
       "ht": "Karanbòl"
     },
     "systeme": {
-      "fr": "Les effets biologiques d'A. carambola concernent principalement les systèmes rénal, nerveux et métab"
+      "fr": "Urinaire, Nerveux, Sanguin"
     },
-    "toxicite": "caution",
+    "toxicite": null,
     "toxiciteLevel": "caution",
     "sections": {
       "introduction": "Averrhoa carambola L. (syn. Averrhoa pentandra) est un arbre fruitier exotique commun dans les Départements du Sud et de la Grand'Anse d'Haïti. Il appartient à la famille des Oxalidacées, une famille botanique essentiellement représentée par des arbres, reconnue pour ses riches usages alimentaires et médicinaux mais exigeant une vigilance particulière. Cette famille se distingue phytochimiquement par sa signature dominée par l'acide oxalique, la vitamine C, l'acide citrique et une forte teneur en eau, ciblant préférentiellement les systèmes cardiovasculaire, rénal et nerveux. Certaines espèces de cette famille renferment des principes actifs très puissants ou potentiellement toxiques — notamment les oxalates de calcium concentrés — exigeant une préparation adéquate et un dosage strict, particulièrement chez les insuffisants rénaux où ils peuvent provoquer une néphrotoxicité aiguë. Au sein de cette famille, le genre Averrhoa regroupe quelques espèces tropicales productrices de fruits comestibles, mais A. carambola se distingue par sa neurotoxicité documentée chez les patients à fonction rénale altérée. En Haïti, le karambòl est principalement consommé comme fruit rafraîchissant, bien que la tradition locale lui attribue également des propriétés médicinales.",
@@ -9099,7 +9465,9 @@ const plantesData = [
     "familleImage": "",
     "familleNum": "58",
     "toxBadgeColor": "yellow",
-    "toxBadgeText": "Précautions"
+    "toxBadgeText": "Conditionnel",
+    "usageType": "Alimentaire et Médicinale",
+    "maladieSummary": "Urinaire, Nerveux, Sanguin"
   },
   {
     "id": 186,
@@ -9119,10 +9487,10 @@ const plantesData = [
       "ht": "Chadwon"
     },
     "systeme": {
-      "fr": "A. mexicana cible préférentiellement les systèmes oculaire, cutané et digestif. Les mécanismes d'act"
+      "fr": "Digestif, Cardiovasculaire, Cutané"
     },
-    "toxicite": "toxic",
-    "toxiciteLevel": "toxic",
+    "toxicite": null,
+    "toxiciteLevel": "safe",
     "sections": {
       "introduction": "Argemone mexicana L. (syn. Argemone spinosa) est une herbe annuelle native commune des régions sèches d'Haïti, largement répandue dans les Départements du Sud et de la Grand'Anse. Elle appartient à la famille des Papavéracées, reconnue pour ses latex colorés riches en alcaloïdes aux propriétés pharmacologiques puissantes. Au sein de cette famille, elle fait partie du genre Argemone, qui regroupe une trentaine d'espèces d'herbes épineuses des régions chaudes, toutes caractérisées par leur latex jaune-orange et leurs alcaloïdes isoquinoliniques. Malgré son usage médicinal traditionnel documenté contre la grippe et les affections cutanées, A. mexicana présente une toxicité significative qui limite considérablement ses applications thérapeutiques modernes.",
       "description": "A. mexicana est une herbe dressée pouvant atteindre 60 à 120 cm de hauteur, facilement reconnaissable à ses caractéristiques défensives. Tiges et latex. La tige est robuste, ramifiée, de couleur vert-bleuâtre et couverte d'épines acérées. Toute blessure de la plante libère un latex jaune-orange caractéristique, âcre et collant, qui constitue le principal réservoir d'alcaloïdes de la plante. Feuilles. Les feuilles sont alternes, sessiles, profondément lobées avec des marges épineuses et des nervures blanches saillantes. Leur surface glauque et leur texture coriace reflètent leur adaptation aux conditions xérophiles. Fleurs. Les fleurs sont solitaires, terminales, composées de 4 à 6 pétales jaune vif, froissés dans le bouton, et de nombreuses étamines jaunes. Elles s'épanouissent principalement pendant la saison sèche. Fruit et graines. Le fruit est une capsule ovoïde épineuse de 2 à 4 cm, s'ouvrant par des valves pour libérer de nombreuses petites graines noires réticulées, particulièrement riches en alcaloïdes toxiques. Les parties utilisées traditionnellement sont les racines, les feuilles et, malgré leur dangerosité, occasionnellement les graines.",
@@ -9148,8 +9516,10 @@ const plantesData = [
     "familleDescription": "Dominant les régions arides et semi-arides du globe, les Papavéracées rassemblent environ 760 espèces réparties en 42 genres, principalement sous forme d'herbes annuelles ou vivaces, plus rarement d'arbustes comme Bocconia. Cette famille se distingue par la production de latex coloré — blanc, jaune ou rouge — riche en alcaloïdes isoquinoliniques aux propriétés pharmacologiques marquées. Parmi les genres alimentaires, citons Papaver (pavot) dont les graines sont consommées en pâtisserie. Les genres à vocation médicinale incluent Chelidonium (chélidoine) pour les affections cutanées, Sanguinaria pour ses propriétés antimicrobiennes, et Argemone largement utilisé en médecine traditionnelle caribéenne malgré sa toxicité. Sur le plan phytochimique, la famille exprime une signature dominée par la berbérine, la sanguinarine, la protopine et autres alcaloïdes benzylisoquinoliniques, ciblant préférentiellement les systèmes oculaire, cutané et digestif. Une vigilance absolue s'impose avec le genre Argemone : ses graines contiennent des alcaloïdes cardiotoxiques responsables d'épidémies d'œdèmes massifs lors de contaminations alimentaires documentées.",
     "familleImage": "",
     "familleNum": "59",
-    "toxBadgeColor": "red",
-    "toxBadgeText": "Toxique"
+    "toxBadgeColor": "green",
+    "toxBadgeText": "Non toxique",
+    "usageType": "Médicinale",
+    "maladieSummary": "Digestif, Cardiovasculaire, Cutané"
   },
   {
     "id": 187,
@@ -9169,10 +9539,10 @@ const plantesData = [
       "ht": "Bocconia frutecens"
     },
     "systeme": {
-      "fr": "B. frutescens cible principalement le système tégumentaire, conformément aux usages traditionnels do"
+      "fr": "Cutané, Sanguin"
     },
-    "toxicite": "toxic",
-    "toxiciteLevel": "toxic",
+    "toxicite": null,
+    "toxiciteLevel": "safe",
     "sections": {
       "introduction": "Bocconia frutescens L. (syn. Bocconia quercifolia) est un arbuste natif des Caraïbes et d'Amérique tropicale, documenté dans les Départements du Sud et de la Grand'Anse. Il appartient à la famille des Papavéracées, une famille principalement composée d'herbes et d'arbustes réputés pour leurs importants usages médicinaux. Cette famille se distingue par sa signature phytochimique dominée par des alcaloïdes isoquinoliniques puissants — notamment la berbérine, la sanguinarine et la protopine — ainsi que par la production caractéristique de latex coloré chez plusieurs espèces. Les Papavéracées ciblent préférentiellement les systèmes oculaire, cutané et tégumentaire, offrant des applications thérapeutiques externes remarquables. Cependant, cette famille exige une vigilance particulière car certaines espèces — comme Argemone mexicana — renferment des principes actifs très puissants pouvant causer des intoxications graves, notamment des œdèmes massifs et une insuffisance cardiaque lors de contamination alimentaire. Au sein de cette famille, le genre Bocconia regroupe des arbustes tropicaux producteurs d'un latex orangé caractéristique, riche en alcaloïdes benzyl-isoquinoliniques aux propriétés antimicrobiennes et anti-inflammatoires documentées. B. frutescens est utilisé traditionnellement dans les Départements du Sud et de la Grand'Anse pour ses propriétés analgésiques, anti-inflammatoires et antimicrobiennes, principalement par application externe du latex.",
       "description": "B. frutescens est un arbuste d'altitude moyenne, de forme dressée, caractérisé par la production d'un latex orangé distinctive lorsque ses tissus sont blessés. Tiges et écorce. Les tiges sont ligneuses, robustes, et sécrètent un latex orange vif au niveau des blessures — caractéristique diagnostique majeure de l'espèce et source de ses propriétés thérapeutiques. L'écorce, également utilisée en médecine traditionnelle, présente une texture rugueuse et contient les mêmes composés actifs que les autres parties de la plante. Feuilles. Les feuilles sont alternes, simples, de forme variable rappelant parfois celles du chêne (d'où le synonyme quercifolia), avec des bords découpés ou lobés. Elles dégagent une odeur aromatique caractéristique lorsqu'on les froisse, témoignant de leur richesse en composés volatils. Leur surface supérieure est généralement vert foncé, tandis que la face inférieure peut présenter une teinte plus claire. Fleurs. L'inflorescence se présente sous forme de panicules terminales composées de nombreuses petites fleurs. Les fleurs sont généralement de couleur blanche à crème, dépourvues de pétales, avec des étamines nombreuses et bien visibles. Fruit. Le fruit est une capsule qui s'ouvre à maturité pour libérer les graines. Les parties utilisées sont principalement les feuilles et l'écorce, sources du latex thérapeutique orangé.",
@@ -9198,8 +9568,10 @@ const plantesData = [
     "familleDescription": "",
     "familleImage": "",
     "familleNum": "59",
-    "toxBadgeColor": "red",
-    "toxBadgeText": "Toxique"
+    "toxBadgeColor": "green",
+    "toxBadgeText": "Non toxique",
+    "usageType": "Alimentaire et Médicinale",
+    "maladieSummary": "Cutané, Sanguin"
   },
   {
     "id": 188,
@@ -9218,7 +9590,7 @@ const plantesData = [
       "ht": "Grenadya"
     },
     "systeme": {
-      "fr": "P. edulis cible préférentiellement le système nerveux central par ses propriétés anxiolytiques et sé"
+      "fr": "Digestif, Nerveux"
     },
     "toxicite": null,
     "toxiciteLevel": "safe",
@@ -9248,7 +9620,9 @@ const plantesData = [
     "familleImage": "",
     "familleNum": "60",
     "toxBadgeColor": "green",
-    "toxBadgeText": "Non toxique"
+    "toxBadgeText": "Non toxique",
+    "usageType": "Alimentaire et Médicinale",
+    "maladieSummary": "Digestif, Nerveux"
   },
   {
     "id": 189,
@@ -9267,10 +9641,10 @@ const plantesData = [
       "ht": "Grenadin"
     },
     "systeme": {
-      "fr": "P. quadrangularis cible préférentiellement le système nerveux, conformément à la signature pharmacol"
+      "fr": "Nerveux, Cardiovasculaire"
     },
-    "toxicite": "toxic",
-    "toxiciteLevel": "toxic",
+    "toxicite": null,
+    "toxiciteLevel": "safe",
     "sections": {
       "introduction": "Passiflora quadrangularis L. (syn. Passiflora macrocarpa) est une liane exotique pantropicale cultivée dans les Départements du Sud et de la Grand'Anse d'Haïti. Elle appartient à la famille des Passifloracées, une famille fascinante dominée par les lianes grimpantes et les arbustes, reconnue pour ses fruits spectaculaires et ses propriétés médicinales remarquables. Cette famille se distingue par une double vocation alimentaire et thérapeutique, avec des fruits généralement comestibles et savoureux d'une part, et des parties végétatives aux propriétés sédatives et anxiolytiques d'autre part. Les représentants les plus connus incluent les fruits de la passion (Passiflora edulis), appréciés mondialement pour leur saveur acidulée, et la passiflore officinale (Passiflora incarnata), largement utilisée en phytothérapie pour ses effets calmants. Sur le plan phytochimique, les Passifloracées présentent une signature moléculaire dominée par les flavonoïdes (vitexine, isovitexine, chrysin), les alcaloïdes harmaniques et l'acide passiflorique, ciblant préférentiellement les systèmes nerveux et reproducteur. Une vigilance particulière s'impose cependant : si les fruits mûrs sont parfaitement sûrs et nutritifs, les parties végétatives contiennent des cyanogènes nécessitant des précautions d'usage et un dosage approprié lors des préparations médicinales traditionnelles. Passiflora quadrangularis se distingue au sein du genre Passiflora par ses dimensions exceptionnelles et sa productivité remarquable. Localement appelée « Grenadin », cette liane produit les plus gros fruits du genre Passiflora et constitue à la fois une ressource alimentaire appréciée et un remède traditionnel documenté dans les pratiques ethnobotaniques locales. Son usage dominant combine les dimensions nutritionnelles — grâce à ses fruits volumineux riches en fibres et en vitamine C — et thérapeutiques, particulièrement pour les troubles nerveux et cardiovasculaires.",
       "description": "P. quadrangularis est une liane vigoureuse et volubile, caractérisée par sa croissance rapide et ses dimensions imposantes dans les conditions climatiques favorables des départements du Sud et de la Grand'Anse. Tiges. Les tiges présentent une section quadrangulaire distinctive — d'où le nom spécifique « quadrangularis » — avec quatre angles ailés bien marqués. Cette caractéristique morphologique unique facilite son identification parmi les autres espèces du genre. Les tiges sont munies de vrilles spiralées robustes permettant à la plante de s'accrocher efficacement aux supports et d'atteindre plusieurs mètres de longueur. Feuilles. Les feuilles sont alternes, simples, ovales à oblongues, de grande taille (10-20 cm), à marge entière ou légèrement dentée. Elles présentent une couleur vert foncé brillant sur la face supérieure et sont munies de nervures bien marquées. A la base du pétiole se trouvent des glandes nectarifères caractéristiques de la famille. Fleurs. Les fleurs sont spectaculaires, typiques du genre Passiflora avec leur structure complexe symbolisant traditionnellement la Passion du Christ. Elles mesurent 8-12 cm de diamètre, présentent des pétales blancs à rose pâle, et une couronne de filaments colorés (corona) particulièrement développée. La floraison a lieu principalement pendant la saison humide. Fruit. Le fruit constitue l'attrait principal de l'espèce : c'est une baie ovoïde de très grande taille, pouvant atteindre 15-30 cm de longueur et peser jusqu'à 2-4 kg. La peau est lisse, de couleur vert jaunâtre à maturité. La pulpe est abondante, translucide à blanchâtre, de saveur douce et fade, entourant de nombreuses graines noires aplaties. Les parties utilisées sont principalement les fruits mûrs et les feuilles jeunes.",
@@ -9296,8 +9670,10 @@ const plantesData = [
     "familleDescription": "",
     "familleImage": "",
     "familleNum": "60",
-    "toxBadgeColor": "red",
-    "toxBadgeText": "Toxique"
+    "toxBadgeColor": "green",
+    "toxBadgeText": "Non toxique",
+    "usageType": "Alimentaire et Médicinale",
+    "maladieSummary": "Nerveux, Cardiovasculaire"
   },
   {
     "id": 190,
@@ -9316,10 +9692,10 @@ const plantesData = [
       "ht": "Ten savann"
     },
     "systeme": {
-      "fr": "T. diffusa agit principalement sur les systèmes reproducteur et nerveux, avec des applications docum"
+      "fr": "Nerveux, Reproducteur, Oculaire"
     },
-    "toxicite": "unknown",
-    "toxiciteLevel": "unknown",
+    "toxicite": null,
+    "toxiciteLevel": "safe",
     "sections": {
       "introduction": "Turnera diffusa Willd. (syn. Turnera aphrodisiaca) est un arbuste natif documenté dans les Départements du Sud et de la Grand'Anse. Il appartient à la famille des Passifloracées, une famille tropicale principalement composée de lianes et d'arbustes, reconnue pour ses riches usages alimentaires et médicinaux. Sur le plan phytochimique, cette famille se distingue par une signature dominée par des flavonoïdes (vitexine, isovitexine), des composés cyanogènes dans les parties végétatives, des alcaloïdes comme l'harmine, et l'acide passiflorique, ciblant préférentiellement les systèmes nerveux et reproducteur. Il convient de noter que certaines espèces de cette famille renferment des principes actifs très puissants ou potentiellement toxiques exigeant une préparation adéquate ou un dosage strict, bien que les fruits mûrs soient généralement comestibles et sûrs. Au sein de cette famille, Turnera diffusa fait partie du genre Turnera, un groupe d'arbustes tropicaux dont plusieurs espèces partagent des propriétés stimulantes et toniques similaires. T. diffusa est une plante à usage strictement médicinal, particulièrement réputée pour ses effets sur la vitalité et le bien-être général.",
       "description": "T. diffusa est un arbuste de taille modeste, adapté aux environnements secs, à saveur amère caractéristique. Tiges et écorce. L'arbuste développe des tiges ligneuses ramifiées, formant un port buissonnant compact. Les jeunes rameaux sont pubescents et de couleur brunâtre, devenant plus lisses avec l'âge. Feuilles. Les feuilles sont alternes, simples, de forme oblongue à elliptique, mesurant généralement 1 à 2 cm de longueur. Elles présentent une texture légèrement coriace et une surface finement pubescente. Le limbe est denté en bordure et présente une nervation pennée bien marquée. Ces feuilles dégagent une odeur aromatique caractéristique lorsqu'elles sont froissées. Fleurs. Les fleurs sont solitaires, axillaires, de couleur jaune vif. Elles présentent cinq pétales libres et sont relativement petites mais voyantes. La floraison peut s'étaler sur une longue période selon les conditions climatiques. Fruit. Le fruit est une petite capsule qui s'ouvre à maturité pour libérer de nombreuses graines minuscules. Les parties utilisées sont les feuilles, les fleurs et les racines, avec une préférence pour les feuilles qui concentrent la majorité des principes actifs.",
@@ -9345,8 +9721,10 @@ const plantesData = [
     "familleDescription": "",
     "familleImage": "",
     "familleNum": "60",
-    "toxBadgeColor": "yellow",
-    "toxBadgeText": "Données insuffisantes"
+    "toxBadgeColor": "green",
+    "toxBadgeText": "Non toxique",
+    "usageType": "Médicinale",
+    "maladieSummary": "Nerveux, Reproducteur, Oculaire"
   },
   {
     "id": 191,
@@ -9365,10 +9743,10 @@ const plantesData = [
       "ht": "Abriko mawon"
     },
     "systeme": {
-      "fr": "Les systèmes physiologiques ciblés par Ternstroemia barkeri dans la médecine traditionnelle haïtienn"
+      "fr": "Digestif, Cardiovasculaire"
     },
-    "toxicite": "unknown",
-    "toxiciteLevel": "unknown",
+    "toxicite": null,
+    "toxiciteLevel": "safe",
     "sections": {
       "introduction": "Ternstroemia barkeri est un arbre endémique strict d'Haïti, confiné au Massif de la Hotte dans le Département de la Grand'Anse. Il appartient à la famille des Pentaphyllacées, une famille tropicale d'arbres et arbustes de montagne caractérisée par ses feuilles persistantes coriaces et ses fleurs discrètes. Au sein de cette famille, il fait partie du genre Ternstroemia, qui regroupe environ 85 espèces d'arbres tropicaux montagnards réputés pour leur résistance aux conditions d'altitude et leur longévité exceptionnelle. Son usage documenté dans la Grand'Anse est principalement médicinal, bien que les modalités précises d'utilisation traditionnelle restent peu documentées en raison de l'extrême rareté de l'espèce. La conservation de T. barkeri constitue un défi majeur pour la préservation de la biodiversité endémique haïtienne.",
       "description": "T. barkeri est un arbre de haute altitude, adapté aux conditions montagnardes du Massif de la Hotte. Ses caractéristiques morphologiques reflètent cette adaptation aux environnements de montagne tropicale. Tiges et port. L'arbre développe un tronc droit et élancé, caractéristique du genre Ternstroemia. L'écorce présente une texture rugueuse et une couleur brun-gris, typique des espèces montagnarde exposées aux variations thermiques importantes. Feuilles. Les feuilles sont persistantes, alternes et coriaces — une adaptation classique aux conditions d'altitude où la conservation de l'eau et la résistance aux stress climatiques sont essentielles. Leur surface brillante et leur consistance ferme témoignent de la présence de cuticules épaissies et de tissus de soutien renforcés. Fleurs et reproduction. Comme la plupart des Ternstroemia, l'espèce produit des fleurs discrètes, généralement blanches ou crème, organisées en petites grappes. La reproduction sexuée génère des fruits charnus contenant des graines adaptées à la dispersion par la faune montagnarde locale. Les parties utilisées dans les pratiques traditionnelles locales ne sont pas précisément documentées dans la littérature disponible.",
@@ -9394,8 +9772,10 @@ const plantesData = [
     "familleDescription": "Les Pentaphyllacées constituent une famille botanique tropicale et subtropicale comprenant environ 350 espèces réparties en une dizaine de genres, principalement représentée par des arbres et arbustes persistants des forêts de montagne. Cette famille, autrefois incluse dans les Théacées, se distingue par sa prédilection pour les habitats d'altitude et les sols acides. Les genres Ternstroemia et Eurya dominent la famille avec leurs espèces arborescentes aux feuilles coriaces et aux fleurs discrètes. Sur le plan alimentaire, certaines espèces de Camellia (thé) appartiennent historiquement à ce groupe taxonomique élargi. Médicinalement, plusieurs genres comme Ternstroemia et Pentaphylax sont valorisés en médecine traditionnelle asiatique et caribéenne pour leurs propriétés anti-inflammatoires et astringentes. Le profil phytochimique de la famille reste partiellement élucidé mais semble dominé par les tanins condensés, les saponines triterpéniques et les flavonoïdes, ciblant préférentiellement les systèmes digestif et cutané. La conservation de cette famille revêt une importance particulière car plusieurs espèces présentent des aires de distribution très restreintes, notamment dans les massifs montagneux insulaires des Caraïbes.",
     "familleImage": "",
     "familleNum": "61",
-    "toxBadgeColor": "yellow",
-    "toxBadgeText": "Données insuffisantes"
+    "toxBadgeColor": "green",
+    "toxBadgeText": "Non toxique",
+    "usageType": "Médicinale",
+    "maladieSummary": "Digestif, Cardiovasculaire"
   },
   {
     "id": 192,
@@ -9413,10 +9793,10 @@ const plantesData = [
       "ht": "Dèyè do"
     },
     "systeme": {
-      "fr": "P. niruri cible préférentiellement les systèmes urinaire et hépatique, avec des effets documentés su"
+      "fr": "Urinaire, Immunitaire, Nerveux"
     },
-    "toxicite": "unknown",
-    "toxiciteLevel": "unknown",
+    "toxicite": null,
+    "toxiciteLevel": "safe",
     "sections": {
       "introduction": "Phyllanthus niruri L. (syn. Phyllanthus amarus, historiquement confondu) est une herbe native abondante des Départements du Sud et de la Grand'Anse d'Haïti. Connue localement sous le nom de « Dèyè do » — littéralement « derrière dos », évoquant peut-être sa capacité à soulager les douleurs dorsales liées aux troubles rénaux —, cette espèce appartient à la famille des Phyllanthacées et au genre Phyllanthus, un groupe de plus de 800 espèces tropicales réputées pour leurs propriétés hépatoprotectrices et litholytiques. P. niruri constitue l'une des plantes médicinales les plus étudiées scientifiquement parmi les espèces caribéennes, avec près de 2 000 publications indexées, et représente un exemple remarquable de convergence entre savoirs traditionnels et validation scientifique moderne.",
       "description": "P. niruri est une herbe annuelle de basse altitude, facilement reconnaissable par son port caractéristique et ses fruits disposés sous les feuilles — d'où son nom français « graines en bas feuille ». Tiges. La plante développe une tige principale dressée, de 30 à 60 cm de hauteur, portant des rameaux latéraux courts et régulièrement disposés. L'ensemble forme une silhouette pyramidale distinctive, particulièrement visible dans les terrains vagues et jardins créoles des deux départements. Feuilles. Les feuilles sont alternes, simples, de forme elliptique-oblongue, mesurant 8 à 12 mm de longueur. Elles sont disposées sur deux rangs le long des rameaux, créant un aspect caractéristique de « feuilles composées » bien que botaniquement simples. Cette disposition géométrique facilite l'identification de l'espèce sur le terrain. Fleurs. Les fleurs sont minuscules, verdâtres et discrètes, portées à l'aisselle des feuilles. Elles passent souvent inaperçues mais sont essentielles à la reproduction de la plante. Fruits. Le fruit est une petite capsule sphérique qui se développe sous les feuilles — caractéristique diagnostique majeure de l'espèce. À maturité, elle libère de minuscules graines brunes qui assurent la dissémination naturelle de la plante. Les parties utilisées comprennent principalement les parties aériennes (feuilles et tiges), plus rarement les racines selon les préparations traditionnelles.",
@@ -9442,8 +9822,10 @@ const plantesData = [
     "familleDescription": "Reconnues pour leur remarquable diversité thérapeutique, les Phyllanthacées constituent une famille tropicale de près de 2 000 espèces réparties en 60 genres, dominée par des herbes, arbustes et arbres de petite taille. Cette famille se distingue par ses usages médicinaux exceptionnels, particulièrement développés en médecine traditionnelle pan-tropicale. Les genres à vocation médicinale incluent Phyllanthus — dont plusieurs espèces sont reconnues pour leurs propriétés hépatoprotectrices et litholytiques —, Antidesma utilisé contre les troubles digestifs, et Glochidion aux propriétés anti-inflammatoires. Sur le plan phytochimique, les Phyllanthacées expriment une signature moléculaire dominée par les lignanes (phyllanthine, hypophyllanthine), les tanins hydrolysables, les flavonoïdes (quercétine, kaempférol) et l'acide ellagique, conférant à cette famille des propriétés antioxydantes et hépatoprotectrices marquées. Ces composés ciblent préférentiellement les systèmes urinaire et hépatique, faisant des Phyllanthacées des alliées thérapeutiques de première importance pour les affections rénales et hépatiques. La famille présente une excellente tolérance générale, bien que la prudence soit recommandée durant la grossesse en raison de données insuffisantes.",
     "familleImage": "",
     "familleNum": "62",
-    "toxBadgeColor": "yellow",
-    "toxBadgeText": "Données insuffisantes"
+    "toxBadgeColor": "green",
+    "toxBadgeText": "Non toxique",
+    "usageType": "Médicinale",
+    "maladieSummary": "Urinaire, Immunitaire, Nerveux"
   },
   {
     "id": 193,
@@ -9462,10 +9844,10 @@ const plantesData = [
       "ht": "Lyan klou"
     },
     "systeme": {
-      "fr": "Les usages traditionnels de P. rivinoides ciblent principalement le système digestif et le système t"
+      "fr": "Digestif, Urinaire, Respiratoire"
     },
-    "toxicite": "toxic",
-    "toxiciteLevel": "toxic",
+    "toxicite": null,
+    "toxiciteLevel": "safe",
     "sections": {
       "introduction": "Phytolacca rivinoides (syn. Phytolacca icosandra var. rivinoides) est une herbe vivace native documentée dans les Départements du Sud et de la Grand'Anse d'Haïti. Elle appartient à la famille des Phytolaccacées, caractérisée par sa signature phytochimique dominée par les saponines triterpéniques et les lectines. Au sein de cette famille, le genre Phytolacca rassemble une quinzaine d'espèces américaines dont plusieurs présentent un intérêt alimentaire et médicinal — notamment Phytolacca americana, largement étudiée pour ses propriétés immunomodulatrices. Phytolacca rivinoides, connue localement sous le nom de « Lyan klou », constitue une ressource médicinale traditionnelle utilisée principalement pour ses propriétés laxatives, diurétiques et cicatrisantes, bien que sa rareté croissante dans les deux départements soulève des préoccupations de conservation.",
       "description": "P. rivinoides est une herbe vivace de taille moyenne, caractéristique des zones d'altitude moyenne des Départements du Sud et de la Grand'Anse, où elle pousse de manière éparse dans les formations végétales secondaires. Tiges et port. La plante développe des tiges herbacées dressées, ramifiées, pouvant atteindre 1 à 2 mètres de hauteur. Les tiges sont généralement glabres et présentent une coloration verdâtre à rougeâtre selon l'exposition lumineuse. Feuilles. Les feuilles sont alternes, simples, ovales à lancéolées, avec un pétiole distinct. Le limbe foliaire est glabre, de couleur vert foncé sur la face supérieure et plus pâle en dessous. Les nervures sont bien marquées et convergent vers l'apex foliaire. Fleurs. L'inflorescence se présente sous forme de grappes terminales allongées portant de nombreuses petites fleurs verdâtres à blanches. Chaque fleur possède généralement 5 sépales et 5 pétales, avec de multiples étamines — caractéristique qui différencie cette espèce au sein du genre. Fruit et graines. Le fruit est une baie charnue qui devient noire à maturité, contenant plusieurs graines arrondies et brillantes. Ces fruits attirent divers oiseaux qui participent à la dispersion des graines dans l'écosystème local. Racines. Le système racinaire comprend une racine principale charnue et blanchâtre, accompagnée de racines secondaires fibreuses. C'est principalement cette racine qui concentre les principes actifs de la plante. Les parties utilisées dans les pratiques locales sont principalement les racines et les feuilles.",
@@ -9491,8 +9873,10 @@ const plantesData = [
     "familleDescription": "Les Phytolaccacées constituent une famille botanique tropicale regroupant environ 120 espèces réparties en une vingtaine de genres, principalement sous forme d'herbes vivaces, d'arbustes et de lianes. Cette famille présente une dualité remarquable entre potentiel alimentaire et risque toxicologique. Parmi les genres à vocation alimentaire, Phytolacca fournit des jeunes pousses consommées comme légumes verts en Amérique du Nord et dans les Caraïbes, tandis que les genres Rivina et Petiveria offrent des usages culinaires localisés. Sur le plan médicinal, Petiveria se distingue par ses propriétés antimicrobiennes et anti-inflammatoires, Phytolacca par ses effets sur le système lymphatique, et Rivina par ses applications dermatologiques. La signature phytochimique de cette famille repose sur des saponines triterpéniques (phytolaccosides), des lectines puissantes, des bétalaïnes pigmentaires et des alcaloïdes divers, ciblant préférentiellement les systèmes sanguin, lymphatique et tégumentaire. Une vigilance particulière s'impose car tous les genres — notamment Phytolacca — renferment des saponines potentiellement toxiques dans leurs racines et graines, pouvant provoquer des intoxications digestives et neurologiques graves.",
     "familleImage": "",
     "familleNum": "63",
-    "toxBadgeColor": "red",
-    "toxBadgeText": "Toxique"
+    "toxBadgeColor": "green",
+    "toxBadgeText": "Non toxique",
+    "usageType": "Alimentaire et Médicinale",
+    "maladieSummary": "Digestif, Urinaire, Respiratoire"
   },
   {
     "id": 194,
@@ -9513,10 +9897,10 @@ const plantesData = [
       "ht": "Lyan panye"
     },
     "systeme": {
-      "fr": "T. octandrum cible principalement le système tégumentaire à travers ses applications externes sur le"
+      "fr": "Digestif, Cardiovasculaire, Cutané"
     },
-    "toxicite": "unknown",
-    "toxiciteLevel": "unknown",
+    "toxicite": null,
+    "toxiciteLevel": "safe",
     "sections": {
       "introduction": "Trichostigma octandrum (syn. Rivina octandra L.) est une liane native des Caraïbes et de l'Amérique tropicale, documentée dans les Départements du Sud et de la Grand'Anse d'Haïti. Elle appartient à la famille des Phytolaccacées, un groupe d'herbes et de lianes se distinguant par ses riches usages alimentaires et médicinaux, malgré la toxicité notable de certains de ses représentants. Cette famille se caractérise par une signature phytochimique dominée par les saponines triterpéniques, les lectines, les alcaloïdes et les bétalaïnes, ciblant préférentiellement les systèmes sanguin et tégumentaire. Au sein de cette famille, le genre Trichostigma comprend plusieurs espèces de lianes tropicales utilisées traditionnellement en vannerie et en médecine populaire. T. octandrum présente un usage polyvalent remarquable : ses jeunes feuilles sont consommées avec les grains, son jus est utilisé contre l'anémie, et ses tiges flexibles servent à la confection de paniers artisanaux.",
       "description": "T. octandrum est une liane commune des basses altitudes, particulièrement adaptée aux conditions climatiques des régions côtières du Sud et de la Grand'Anse. Tiges. Les tiges sont volubiles, flexibles et résistantes, caractéristiques qui en font un matériau de choix pour la vannerie traditionnelle. Elles présentent une croissance vigoureuse et peuvent atteindre plusieurs mètres de longueur en s'enroulant autour des supports disponibles. Feuilles. Les feuilles sont alternes, simples, ovales à elliptiques, avec un limbe mince et une nervation pennée bien visible. Leur texture relativement tendre à l'état jeune permet leur consommation alimentaire, tandis qu'elles deviennent plus coriaces avec l'âge. Fleurs. La plante produit de petites fleurs discrètes, organisées en grappes ou épis terminaux. Les fleurs sont généralement blanchâtres à verdâtres, avec huit étamines caractéristiques du genre Trichostigma. Fruit. Les fruits sont de petites baies charnues qui peuvent présenter une coloration variable selon la maturité, passant généralement du vert au rouge ou au pourpre à maturité. Les parties utilisées comprennent les feuilles jeunes pour l'alimentation et la médecine, les racines pour leurs propriétés thérapeutiques, et les tiges pour l'artisanat.",
@@ -9542,8 +9926,10 @@ const plantesData = [
     "familleDescription": "",
     "familleImage": "",
     "familleNum": "63",
-    "toxBadgeColor": "yellow",
-    "toxBadgeText": "Données insuffisantes"
+    "toxBadgeColor": "green",
+    "toxBadgeText": "Non toxique",
+    "usageType": "Alimentaire",
+    "maladieSummary": "Digestif, Cardiovasculaire, Cutané"
   },
   {
     "id": 195,
@@ -9564,10 +9950,10 @@ const plantesData = [
       "ht": "Bwa pen"
     },
     "systeme": {
-      "fr": "Pinus occidentalis exerce ses propriétés thérapeutiques documentées par plusieurs mécanismes distinc"
+      "fr": "Respiratoire, Immunitaire, Cutané"
     },
-    "toxicite": "unknown",
-    "toxiciteLevel": "unknown",
+    "toxicite": null,
+    "toxiciteLevel": "safe",
     "sections": {
       "introduction": "🟢 À retenir — Bwa pen : est une espece peu ou non etudiee scientifiquement. Les proprietes presentees reposent sur des analogies avec des especes proches et les usages traditionnels documentes localement. La conservation de cette espece prime sur toute valorisation. Les auteurs declinent toute responsabilite quant a un usage inapproprie.",
       "description": "Pinus occidentalis est un conifère élancé dioïque atteignant 20 à 45 mètres de hauteur exceptionnellement, caractérisé par un tronc rectiligne de 60 à 120 cm de diamètre présentant une écorce grise à brun-rougeâtre, profondément crevassée en plaques épaisses. Le bois de cœur est jaune pâle à rougeâtre passant progressivement à un aubier plus pâle. L'houppier pyramidal en jeunesse devient plus irrégulier avec l'âge, formant une frondaison dense et sombre. Les rameaux sont gris-brun à brun-rougeâtre, glabres, lisses initialement puis ridés avec l'âge. Les aiguilles, persistantes et réunies en faisceaux de deux (rarement trois), mesurent 10 à 18 cm de longueur et 0.9 à 1.2 mm de diamètre, de couleur vert-foncé à gris-vert. La gaine basale des faisceaux mesure 15 à 25 mm de longueur. Les cônes mâles, solitaires ou groupés, sont ovales-oblongs mesurant 25 à 35 mm. Les cônes femelles, solitaires ou par paires, sont ovales-coniques de 8 à 12 cm mesurant 30 à 35 mm de largeur, avec écailles pointues.",
@@ -9593,8 +9979,10 @@ const plantesData = [
     "familleDescription": "Les Pinacées rassemblent environ 250 espèces d'arbres et arbustes résineux répartis dans une dizaine de genres, dominant les forêts tempérées et montagnardes du globe. Cette famille ne compte aucun genre à vocation alimentaire majeure en Haïti, mais plusieurs genres présentent un intérêt médicinal notable : Pinus pour les affections respiratoires, Abies pour ses propriétés balsamiques, et Picea pour ses vertus antiseptiques. Sur le plan aromatique, les Pinacées excellent par leurs essences résineuses utilisées en parfumerie et aromathérapie. La signature phytochimique de cette famille est dominée par les monoterpènes volatils (α-pinène, β-pinène), les acides résiniques, les tanins condensés et les flavonoïdes, ciblant préférentiellement le système respiratoire par leurs effets expectorants, antiseptiques et anti-inflammatoires. Il convient de noter que certaines espèces de cette famille — notamment les huiles essentielles concentrées de divers genres — peuvent présenter une neurotoxicité à doses élevées, exigeant une prudence particulière dans leur utilisation thérapeutique.",
     "familleImage": "",
     "familleNum": "64",
-    "toxBadgeColor": "yellow",
-    "toxBadgeText": "Données insuffisantes"
+    "toxBadgeColor": "green",
+    "toxBadgeText": "Non toxique",
+    "usageType": "Alimentaire et Médicinale",
+    "maladieSummary": "Respiratoire, Immunitaire, Cutané"
   },
   {
     "id": 196,
@@ -9615,10 +10003,10 @@ const plantesData = [
       "ht": "-"
     },
     "systeme": {
-      "fr": "M. urbanii cible préférentiellement le système cutané par application externe. Les usages documentés"
+      "fr": "Cutané"
     },
     "toxicite": null,
-    "toxiciteLevel": "safe",
+    "toxiciteLevel": "caution",
     "sections": {
       "introduction": "Manekia urbanii (syn. Sarcorhachis urbanii) est une liane native des Caraïbes et d'Amérique tropicale, documentée dans les Départements du Sud et de la Grand'Anse d'Haïti. Elle appartient à la famille des Pipéracées, une famille tropicale dominée par les lianes et reconnue pour ses alcaloïdes amides bioactifs. Au sein de cette famille, le genre Manekia regroupe des lianes forestières peu étudiées, caractérisées par leurs feuilles aromatiques et leurs propriétés présumées similaires aux poivriers sauvages du genre Piper. Son usage local reste mineur mais spécialisé, principalement en application externe pour les douleurs, à travers des frictions à base de feuilles macérées. La rareté extrême de cette espèce dans les forêts haïtiennes en fait une priorité de conservation.",
       "description": "M. urbanii est une liane forestière de moyenne et haute altitude, adaptée aux forêts matures humides des montagnes haïtiennes. *Tiges.* La liane présente des tiges volubiles, ligneuses à la base, permettant à la plante de grimper sur les arbres supports pour atteindre la canopée forestière. L'écorce est rugueuse et de couleur brunâtre. *Feuilles.* Les feuilles sont alternes, pétiolées et de forme généralement ovale. Lorsqu'on les froisse, elles dégagent une odeur épicée caractéristique, signature de la présence de composés aromatiques volatils typiques des Pipéracées. Cette propriété organoleptique constitue un critère d'identification important sur le terrain. *Reproduction.* Les modalités de reproduction de cette espèce restent peu documentées scientifiquement. Comme les autres membres du genre Manekia, elle produit probablement de petites fleurs discrètes arrangées en épis, suivies de fruits charnus contenant les graines. Les parties utilisées sont principalement les feuilles et les portions jeunes de lianes, récoltées selon les besoins thérapeutiques locaux.",
@@ -9644,8 +10032,10 @@ const plantesData = [
     "familleDescription": "Dominantes dans les forêts tropicales humides, les Pipéracées rassemblent environ 3 600 espèces réparties dans 5 genres principaux, principalement sous forme de lianes, d'arbustes et d'herbes. Cette famille pantropicale est mondialement reconnue pour Piper nigrum, le poivrier noir, source de l'épice la plus commercialisée au monde. En Haïti, elle comprend plusieurs genres d'intérêt ethnobotanique : Piper (poivriers sauvages), Peperomia (plantes ornementales et médicinales) et Manekia (lianes forestières rares). Sur le plan phytochimique, les Pipéracées se distinguent par leur richesse en alcaloïdes amides — notamment la pipérine et ses dérivés — responsables de la saveur piquante caractéristique et des propriétés biologiques. Ces composés ciblent préférentiellement le système nerveux périphérique et la peau, expliquant les usages traditionnels en analgésie locale. La famille produit également des huiles essentielles à monoterpènes et des lignanes bioactifs. Attention : certaines espèces renferment des alcaloïdes puissants exigeant des précautions d'usage, particulièrement pour les préparations concentrées et l'usage prolongé.",
     "familleImage": "",
     "familleNum": "65",
-    "toxBadgeColor": "green",
-    "toxBadgeText": "Non toxique"
+    "toxBadgeColor": "yellow",
+    "toxBadgeText": "Conditionnel",
+    "usageType": "Médicinale",
+    "maladieSummary": "Cutané"
   },
   {
     "id": 197,
@@ -9663,10 +10053,10 @@ const plantesData = [
       "ht": "Bwa majò"
     },
     "systeme": {
-      "fr": "Piper aduncum exerce ses propriétés thérapeutiques documentées par plusieurs mécanismes biologiques "
+      "fr": "Musculosquelettique, Hépatique"
     },
-    "toxicite": "unknown",
-    "toxiciteLevel": "unknown",
+    "toxicite": null,
+    "toxiciteLevel": "safe",
     "sections": {
       "introduction": "A completer — Piper aduncum L. (Bwa majò). Relancer --bloc 10 🟢 À retenir — Bwa majò : est utilisee en medecine traditionnelle avec un bon profil de securite aux doses courantes. Les usages presentes reposent sur des donnees ethnobotaniques et scientifiques publiees, mais ne constituent pas une prescription. Consulter un professionnel de sante avant tout usage therapeutique. Les auteurs declinent toute responsabilite quant a un usage inapproprie.",
       "description": "Piper aduncum est un arbuste dioïque à semi-hermaphrodite pérenne atteignant 2 à 6 mètres de hauteur, caractérisé par un port ramifié buissonnant avec un feuillage persistant dense. Les tiges sont cylindriques, glabres, lisses à légèrement anguleuses avec lenticelles discrètes, présentant une écorce vert-rougeâtre à brun-rougeâtre. Les feuilles, alternes et pétiolées (pétiole 0.5 à 1.5 cm), sont ovales à elliptiques mesurant 5 à 15 cm de longueur et 2.5 à 8 cm de largeur, avec apex acuminé à caudé, base asymétrique cordée et marges entières légèrement sinueuses. La surface supérieure est vert-foncé brillant tandis que l'inférieure est vert-pâle avec nervation palmée proéminente et glandules ponctuées discrètes. Les inflorescences sont des épis denses et compacts de 5 à 12 cm de longueur, grêles et légèrement arqués, portant de minuscules fleurs monoïques apérianthées. Le fruit est une drupe subglobuleuse de 3 à 4 mm de diamètre, passant du vert au rouge-violacé à la maturité, contenant une seule graine.",
@@ -9692,8 +10082,10 @@ const plantesData = [
     "familleDescription": "A completer — Famille 66",
     "familleImage": "",
     "familleNum": "66",
-    "toxBadgeColor": "yellow",
-    "toxBadgeText": "Données insuffisantes"
+    "toxBadgeColor": "green",
+    "toxBadgeText": "Non toxique",
+    "usageType": "Alimentaire et Médicinale",
+    "maladieSummary": "Musculosquelettique, Hépatique"
   },
   {
     "id": 198,
@@ -9713,10 +10105,10 @@ const plantesData = [
       "ht": "Ti siwo"
     },
     "systeme": {
-      "fr": "P. hispidum cible principalement le système respiratoire, où ses propriétés antimicrobiennes et anti"
+      "fr": "Respiratoire"
     },
-    "toxicite": "unknown",
-    "toxiciteLevel": "unknown",
+    "toxicite": null,
+    "toxiciteLevel": "safe",
     "sections": {
       "introduction": "Piper hispidum Sw. (syn. Artanthe scabra) est un arbuste aromatique natif des Caraïbes et de l'Amérique tropicale, documenté dans les Départements du Sud et de la Grand'Anse. Il appartient à la famille des Pipéracées, une famille tropicale principalement constituée d'herbes et d'arbustes remarquable par ses propriétés médicinales. Cette famille se caractérise par une signature phytochimique dominée par les alcaloïdes pipéridiques (pipérine), les huiles essentielles aromatiques (safrol, eugénol, dillapiol), les lignanes et les amides, ciblant préférentiellement les systèmes respiratoire, digestif et gynécologique. Les genres Piper et Peperomia constituent les représentants majeurs de cette famille en Haïti, largement utilisés en médecine traditionnelle pour leurs propriétés antimicrobiennes, anti-inflammatoires et antispasmodiques. Il convient de noter que certaines espèces renferment du safrol, un composé cancérigène potentiel, exigeant des précautions dans l'usage prolongé. Au sein de cette famille, P. hispidum fait partie du vaste genre Piper, qui regroupe plus de 1000 espèces tropicales incluant le poivre noir (Piper nigrum), toutes caractérisées par leurs amides piquants et leurs huiles essentielles aux propriétés bioactives remarquables. Dans la tradition haïtienne, P. hispidum est principalement utilisé comme plante médicinale pour les affections respiratoires et dans les bains de santé.",
       "description": "P. hispidum est un arbuste de taille moyenne, typique des altitudes moyennes des Départements du Sud et de la Grand'Anse, reconnaissable à son port dressé et à son parfum aromatique caractéristique. Tiges. Les tiges sont dressées, ligneuses à la base et herbacées vers le sommet, présentant souvent des nœuds renflés typiques de la famille. L'écorce est rugueuse et brunâtre, dégageant une odeur aromatique au froissement. Les jeunes rameaux sont verts et pubescents. Feuilles. Les feuilles sont alternes, simples, ovales à elliptiques, mesurant 8-15 cm de longueur. Elles présentent une surface rugueuse (hispide, d'où le nom d'espèce), avec des nervures proéminentes et palmées. Le pétiole est court et la base foliaire est cordée. Leur texture coriace et leur parfum aromatique les rendent facilement reconnaissables. Fleurs. Les fleurs sont minuscules, disposées en épis cylindriques denses (chatons) de 5-10 cm de longueur, caractéristiques du genre Piper. Ces inflorescences pendantes apparaissent à l'aisselle des feuilles et ne présentent ni pétales ni sépales distincts. Fruit. Les fruits sont de petites drupes sessiles, serrées le long de l'épi, devenant rougeâtres à maturité. Chaque fruit contient une seule graine. Les parties utilisées sont principalement les feuilles et les tiges jeunes, récoltées de préférence le matin lorsque la concentration en huiles essentielles est maximale.",
@@ -9742,8 +10134,10 @@ const plantesData = [
     "familleDescription": "",
     "familleImage": "",
     "familleNum": "66",
-    "toxBadgeColor": "yellow",
-    "toxBadgeText": "Données insuffisantes"
+    "toxBadgeColor": "green",
+    "toxBadgeText": "Non toxique",
+    "usageType": "Alimentaire et Médicinale",
+    "maladieSummary": "Respiratoire"
   },
   {
     "id": 199,
@@ -9762,10 +10156,10 @@ const plantesData = [
       "ht": "Kolèt adam"
     },
     "systeme": {
-      "fr": "P. umbellatum cible principalement le système tégumentaire à travers ses applications externes anti-"
+      "fr": "Respiratoire, Endocrinien"
     },
-    "toxicite": "toxic",
-    "toxiciteLevel": "toxic",
+    "toxicite": null,
+    "toxiciteLevel": "safe",
     "sections": {
       "introduction": "Piper umbellatum L. (syn. Pothomorphe umbellata) est une herbe native des Caraïbes et d'Amérique tropicale, commune dans les Départements du Sud et de la Grand'Anse d'Haïti. Elle appartient à la famille des Pipéracées, un groupe végétal reconnu pour ses importantes applications médicinales et caractérisé par des alcaloïdes pipéridiques, des lignanes et des huiles essentielles riches en safrol et eugénol. Cette famille, qui cible préférentiellement les systèmes gynécologique, digestif et respiratoire, nécessite une attention particulière car certaines de ses espèces renferment des principes actifs très puissants exigeant un dosage strict. Au sein de cette famille, Piper umbellatum fait partie du genre Piper, l'un des plus vastes genres de plantes à fleurs avec plus de 1000 espèces, dont plusieurs sont d'importance économique majeure comme le poivrier noir (Piper nigrum). Cette espèce constitue un remède traditionnel important dans les Départements du Sud et de la Grand'Anse, principalement utilisée pour ses propriétés anti-inflammatoires par voie externe.",
       "description": "P. umbellatum est une herbe vivace d'altitude moyenne, caractéristique des zones tropicales humides des Départements du Sud et de la Grand'Anse. Tiges. Les tiges sont dressées, charnues et peuvent atteindre 1 à 2 mètres de hauteur. Elles sont généralement ramifiées et présentent des nœuds bien marqués, caractéristiques du genre Piper. Feuilles. Les feuilles constituent la partie la plus reconnaissable de la plante : larges, cordiformes à orbiculaires, elles peuvent atteindre 15 à 25 cm de diamètre. Elles sont alternes, pétiolées, avec une nervation palmée très visible. La surface est généralement glabre et d'un vert franc. Les feuilles dégagent une odeur caractéristique lorsqu'on les froisse, révélant la présence d'huiles essentielles. Racines. Le système racinaire est fasciculé et relativement superficiel, adapté aux sols humides et bien drainés des zones tropicales. Fleurs. Les fleurs sont très petites, disposées en épis terminaux dressés caractéristiques du genre Piper. Ces inflorescences, appelées spadices, portent de nombreuses fleurs minuscules sans pétales ni sépales distincts. Fruit. Le fruit est une petite drupe charnue qui devient noire à maturité. Les parties utilisées dans les pratiques traditionnelles sont principalement les feuilles, et occasionnellement les racines.",
@@ -9791,8 +10185,10 @@ const plantesData = [
     "familleDescription": "",
     "familleImage": "",
     "familleNum": "66",
-    "toxBadgeColor": "red",
-    "toxBadgeText": "Toxique"
+    "toxBadgeColor": "green",
+    "toxBadgeText": "Non toxique",
+    "usageType": "Médicinale",
+    "maladieSummary": "Respiratoire, Endocrinien"
   },
   {
     "id": 200,
@@ -9812,10 +10208,10 @@ const plantesData = [
       "ht": "Planten"
     },
     "systeme": {
-      "fr": "P. major cible préférentiellement les systèmes oculaire et digestif. Pour le système oculaire, les m"
+      "fr": "Digestif, Oculaire"
     },
-    "toxicite": "unknown",
-    "toxiciteLevel": "unknown",
+    "toxicite": null,
+    "toxiciteLevel": "safe",
     "sections": {
       "introduction": "Plantago major L. (syn. Plantago asiatica) est une herbe exotique rare documentée dans les Départements du Sud et de la Grand'Anse. Elle appartient à la famille des Plantaginacées, reconnue mondialement pour ses propriétés thérapeutiques exceptionnelles, particulièrement dans le domaine de la cicatrisation et des soins oculaires. Au sein de cette famille, elle fait partie du genre Plantago, qui regroupe les véritables « plantains médicinaux » — espèces herbacées cosmopolites caractérisées par leurs feuilles en rosette et leur extraordinaire richesse en mucilages cicatrisants. En Haïti, l'usage principal documenté du « Planten » concerne spécifiquement les soins oculaires, où le jus extrait des feuilles est appliqué pour traiter diverses affections des yeux.",
       "description": "P. major est une herbe vivace formant une rosette basale caractéristique, parfaitement adaptée aux sols compactés et aux environnements perturbés typiques des zones d'altitude moyenne des Départements du Sud et de la Grand'Anse. Racines. Le système racinaire est pivotant et fibreux, permettant à la plante de s'ancrer solidement dans les sols durs et de résister au piétinement, expliquant sa présence fréquente le long des sentiers. Feuilles. Les feuilles sont disposées en rosette basale, ovales à elliptiques, avec des nervures parallèles bien marquées caractéristiques du genre Plantago. Elles sont pétiolées, de texture légèrement charnue et pubescente, mesurant généralement 5-15 cm de longueur. Ces feuilles constituent la partie médicinale principale de la plante. Fleurs. Les inflorescences se présentent sous forme d'épis cylindriques dressés, portés par des hampes florales dépassant la rosette. Les petites fleurs verdâtres sont hermaphrodites et anémophiles, produisant un pollen abondant. Fruit et graines. Le fruit est une capsule qui s'ouvre par un couvercle (pyxide), libérant de petites graines riches en mucilages, également utilisées en médecine traditionnelle comme laxatif doux. Les parties utilisées sont les feuilles fraîches (usage principal), les graines et occasionnellement les racines.",
@@ -9841,8 +10237,10 @@ const plantesData = [
     "familleDescription": "Dominant les environnements perturbés et les sols compactés, les Plantaginacées constituent une famille cosmopolite de plantes herbacées reconnaissable à ses feuilles en rosette basale et ses inflorescences en épis dressés. Cette famille de moyenne importance, comptant environ 1 900 espèces réparties dans le monde, se distingue par ses remarquables usages médicinaux traditionnels et sa richesse en mucilages thérapeutiques. Les genres principaux incluent Plantago, dont les espèces comme le plantain (Plantago major) sont utilisées depuis l'Antiquité pour leurs propriétés cicatrisantes et anti-inflammatoires, et Digitalis, comprenant les digitalines cardiotoniques puissantes. Sur le plan phytochimique, cette famille exprime une signature dominée par les mucilages arabinogalactanes, les iridoïdes comme l'aucubine et le catalpol, les flavonoïdes, les tanins et les acides phénoliques, ciblant préférentiellement les systèmes oculaire et digestif. ⚠️ Attention : certaines espèces de cette famille, notamment les genres Digitalis et Veronica, renferment des principes actifs très puissants ou potentiellement toxiques exigeant une préparation adéquate et un dosage strict pour éviter tout risque d'intoxication cardiaque.",
     "familleImage": "",
     "familleNum": "67",
-    "toxBadgeColor": "yellow",
-    "toxBadgeText": "Données insuffisantes"
+    "toxBadgeColor": "green",
+    "toxBadgeText": "Non toxique",
+    "usageType": "Médicinale",
+    "maladieSummary": "Digestif, Oculaire"
   },
   {
     "id": 201,
@@ -9860,7 +10258,7 @@ const plantesData = [
       "ht": "Vètivè"
     },
     "systeme": {
-      "fr": "Selon les données ethnobotaniques locales, le vétiver cible principalement les systèmes nerveux et c"
+      "fr": "Nerveux, Cutané"
     },
     "toxicite": null,
     "toxiciteLevel": "safe",
@@ -9890,7 +10288,9 @@ const plantesData = [
     "familleImage": "",
     "familleNum": "68",
     "toxBadgeColor": "green",
-    "toxBadgeText": "Non toxique"
+    "toxBadgeText": "Non toxique",
+    "usageType": "Médicinale",
+    "maladieSummary": "Nerveux, Cutané"
   },
   {
     "id": 202,
@@ -9909,10 +10309,10 @@ const plantesData = [
       "ht": "Sitwonèl"
     },
     "systeme": {
-      "fr": "Les systèmes préférentiellement concernés par C. citratus sont les voies respiratoires et le système"
+      "fr": "Digestif, Respiratoire, Nerveux"
     },
-    "toxicite": "toxic",
-    "toxiciteLevel": "toxic",
+    "toxicite": null,
+    "toxiciteLevel": "safe",
     "sections": {
       "introduction": "Cymbopogon citratus (syn. Andropogon citratus) est une herbe vivace exotique, rare dans les Départements du Sud et de la Grand'Anse d'Haïti. Elle appartient à la famille des Poacées, l'une des familles botaniques les plus importantes au monde avec plus de 12 000 espèces. Cette famille regroupe toutes les graminées, des céréales fondamentales comme le riz (Oryza sativa), le maïs (Zea mays) et la canne à sucre (Saccharum officinarum), jusqu'aux herbes aromatiques comme le vétiver (Chrysopogon zizanioides). Sur le plan phytochimique, les Poacées se caractérisent par leur richesse en amidon, cellulose, silice dans les tiges, ainsi qu'en composés aromatiques spécialisés comme les huiles essentielles de la citronnelle et du vétiver. Les systèmes préférentiellement ciblés incluent les voies respiratoires, digestives et le système nerveux. Une vigilance est nécessaire avec certaines espèces : le sorgho jeune contient des cyanogènes toxiques qui disparaissent à maturité, tandis que les huiles essentielles de citronnelle peuvent être irritantes à forte dose. Au sein de cette famille, Cymbopogon citratus fait partie du genre Cymbopogon, qui rassemble une cinquantaine d'espèces aromatiques tropicales dont plusieurs sont cultivées pour leurs huiles essentielles. La citronnelle est documentée dans le Sud et la Grand'Anse principalement pour ses usages aromatiques, respiratoires et digestifs.",
       "description": "C. citratus est une herbe vivace cespiteuse formant des touffes denses, pouvant atteindre 1,5 à 2 mètres de hauteur dans les conditions favorables des basses altitudes haïtiennes. Sa saveur caractéristique est décrite comme farineuse avec des notes citronnées prononcées. Tiges et racines. La plante développe de courtes tiges (chaumes) à partir d'un système racinaire fasciculé typique des graminées. Les racines forment un réseau dense et superficiel adapté à la captation rapide des eaux de pluie tropicales. Feuilles. Les feuilles constituent la partie la plus remarquable et utile de la plante : longues, linéaires, de 60 à 100 cm de longueur et 1 à 2 cm de largeur, elles présentent une nervure centrale proéminente et des bords légèrement coupants. Leur couleur varie du vert tendre au vert bleuâtre. Lorsqu'on les froisse, elles libèrent immédiatement une fragrance citronnée intense, caractéristique de leur richesse en huiles essentielles. Cette propriété aromatique constitue le principal critère de reconnaissance de la plante sur le terrain. Inflorescence. Dans les conditions optimales, la citronnelle peut produire une inflorescence terminale en panicule lâche, typique des Poacées, mais la floraison reste rare en culture, la plante étant principalement multipliée par division des touffes. Les parties utilisées sont exclusivement les feuilles fraîches ou séchées, récoltées de préférence le matin lorsque la concentration en huiles essentielles est maximale.",
@@ -9938,8 +10338,10 @@ const plantesData = [
     "familleDescription": "",
     "familleImage": "",
     "familleNum": "68",
-    "toxBadgeColor": "red",
-    "toxBadgeText": "Toxique"
+    "toxBadgeColor": "green",
+    "toxBadgeText": "Non toxique",
+    "usageType": "Alimentaire et Médicinale",
+    "maladieSummary": "Digestif, Respiratoire, Nerveux"
   },
   {
     "id": 203,
@@ -9960,10 +10362,10 @@ const plantesData = [
       "ht": "Diri"
     },
     "systeme": {
-      "fr": "Le riz agit principalement sur le système digestif et le métabolisme glucido-lipidique. L'usage trad"
+      "fr": "Digestif"
     },
-    "toxicite": "toxic",
-    "toxiciteLevel": "toxic",
+    "toxicite": null,
+    "toxiciteLevel": "safe",
     "sections": {
       "introduction": "Oryza sativa L. (syn. Oryza rufipogon pour la forme ancestrale) est une herbe annuelle exotique, cultivée intensivement dans les Départements du Sud et de la Grand'Anse où elle constitue l'aliment de base de la population. Cette céréale tropicale appartient à la famille des Poacées, vaste famille de graminées regroupant plus de 12 000 espèces mondiales, incluant les principales céréales alimentaires de l'humanité — blé, maïs, avoine, orge — ainsi que des plantes aromatiques remarquables comme la citronnelle (Cymbopogon citratus) et le vétiver (Chrysopogon zizanioides). Au sein de cette famille, O. sativa fait partie du genre Oryza, qui comprend une vingtaine d'espèces dont seules deux sont cultivées : O. sativa (riz asiatique) et O. glaberrima (riz africain). Le riz représente à la fois la principale source calorique et un remède traditionnel reconnu pour les troubles digestifs, particulièrement efficace sous forme d'eau de cuisson contre les diarrhées.",
       "description": "O. sativa est une herbe annuelle semi-aquatique de 50 cm à 1,5 m de hauteur, parfaitement adaptée aux conditions tropicales humides des plaines côtières du Sud et de la Grand'Anse. Racines. Le système racinaire est fasciculé et fibreux, particulièrement développé pour absorber les nutriments dans les sols temporairement inondés des rizières. Les racines adventives se forment aux nœuds inférieurs de la tige. Tiges. Les tiges (chaumes) sont creuses, dressées, cylindriques et noueuses, caractéristiques de la famille des Poacées. Elles portent plusieurs nœuds d'où émergent les feuilles et peuvent développer des talles (ramifications) à la base. Feuilles. Les feuilles sont longues, étroites, lancéolées, avec une nervure centrale proéminente et des bords rugueux. Elles sont engainantes à la base et présentent une ligule membraneuse typique des graminées. Fleurs. L'inflorescence est une panicule terminale composée d'épillets contenant chacun une fleur bisexuée. La pollinisation est principalement autogame (autofécondation). Fruit. Le fruit est un caryopse (grain) ovoïde, enveloppé dans des glumes protectrices (balle). Après décorticage, on obtient le grain de riz proprement dit, blanc nacré ou brun selon le degré de polissage. Les parties utilisées sont principalement les grains décortiqués, le son (enveloppe externe du grain), et occasionnellement l'eau de cuisson.",
@@ -9989,8 +10391,10 @@ const plantesData = [
     "familleDescription": "",
     "familleImage": "",
     "familleNum": "68",
-    "toxBadgeColor": "red",
-    "toxBadgeText": "Toxique"
+    "toxBadgeColor": "green",
+    "toxBadgeText": "Non toxique",
+    "usageType": "Alimentaire et Médicinale",
+    "maladieSummary": "Digestif"
   },
   {
     "id": 204,
@@ -10011,10 +10415,10 @@ const plantesData = [
       "ht": "Kann"
     },
     "systeme": {
-      "fr": "Les usages traditionnels de S. officinarum ciblent principalement le système nutritionnel et énergét"
+      "fr": "Médicinal"
     },
-    "toxicite": "toxic",
-    "toxiciteLevel": "toxic",
+    "toxicite": null,
+    "toxiciteLevel": "safe",
     "sections": {
       "introduction": "Saccharum officinarum L. (syn. Saccharum chinense) est une herbe géante exotique, largement cultivée dans les Départements du Sud et de la Grand'Anse. Elle appartient à la famille des Poacées, une immense famille botanique de plus de 12 000 espèces dominée par les herbes, reconnue pour sa valeur alimentaire fondamentale — incluant le riz (Oryza sativa), le maïs (Zea mays) et le petit mil (Pennisetum glaucum) cultivés en Haïti. Cette famille se distingue par ses genres aromatiques comme la citronnelle (Cymbopogon citratus) et le vétiver (Chrysopogon zizanioides), ainsi que par sa signature phytochimique riche en amidon, silice, acides phénoliques et huiles essentielles volatiles. Les Poacées ciblent préférentiellement les systèmes nerveux, cutané et respiratoire, bien que certaines espèces — notamment les jeunes pousses de sorgho — renferment des cyanogènes potentiellement toxiques. Au sein de cette famille, Saccharum officinarum fait partie du genre Saccharum, qui regroupe les cannes à sucre cultivées et sauvages, toutes caractérisées par leur capacité exceptionnelle à accumuler le saccharose dans leurs tiges. La canne à sucre constitue la source de sucre la plus importante d'Haïti et l'une des cultures économiques traditionnelles des deux départements.",
       "description": "S. officinarum est une herbe géante pérenne, formant des touffes denses, pouvant atteindre 3 à 6 mètres de hauteur dans les conditions optimales du Sud et de la Grand'Anse. Tiges. Les tiges (chaumes) constituent la partie la plus remarquable de la plante : robustes, articulées par des nœuds réguliers, remplies d'une moelle sucrée et juteuse. Leur diamètre varie de 2 à 5 cm et leur couleur peut être verte, jaune, rouge ou pourpre selon les variétés cultivées localement. Ces tiges renferment jusqu'à 15-20% de saccharose dans leurs tissus parenchymateux. Feuilles. Les feuilles sont longues (60 à 120 cm), linéaires, alternes, engainantes à la base, avec des bords souvent coupants en raison de la présence de silice cristallisée — adaptation défensive caractéristique des Poacées. Leur face supérieure présente une nervure centrale proéminente. Fleurs. L'inflorescence terminale est une panicule plumeuse (\"flèche\") de couleur blanche à argentée, composée d'épillets soyeux. La floraison est rare dans les conditions haïtiennes car les variétés cultivées sont généralement propagées par bouturage. Racines. Le système racinaire est fasciculé, dense et profond, permettant une excellente ancrage et une absorption efficace de l'eau et des nutriments. Les parties utilisées sont principalement les tiges fraîches et leur jus pressé.",
@@ -10040,8 +10444,10 @@ const plantesData = [
     "familleDescription": "",
     "familleImage": "",
     "familleNum": "68",
-    "toxBadgeColor": "red",
-    "toxBadgeText": "Toxique"
+    "toxBadgeColor": "green",
+    "toxBadgeText": "Non toxique",
+    "usageType": "Alimentaire et Médicinale",
+    "maladieSummary": ""
   },
   {
     "id": 205,
@@ -10059,10 +10465,10 @@ const plantesData = [
       "ht": "Pitimi"
     },
     "systeme": {
-      "fr": "Le sorgho cible préférentiellement le système nutritionnel et métabolique. Son action antidiabétique"
+      "fr": "Cardiovasculaire, Sanguin"
     },
     "toxicite": null,
-    "toxiciteLevel": "safe",
+    "toxiciteLevel": "caution",
     "sections": {
       "introduction": "Sorghum bicolor (L.) (syn. Sorghum vulgare, Holcus sorghum) est une herbe annuelle exotique, largement cultivée dans les Départements du Sud et de la Grand'Anse. Cette céréale appartient à la famille des Poacées, une vaste famille botanique dominée par les herbes et reconnue pour ses usages alimentaires incontournables — incluant le riz (Oryza sativa), le maïs (Zea mays) et la canne à sucre (Saccharum officinarum). Au sein de cette famille, le genre Sorghum regroupe plusieurs espèces céréalières d'origine africaine, toutes caractérisées par leur résistance exceptionnelle à la sécheresse et leur richesse en amidon, tanins et composés phénoliques. Le sorgho constitue l'une des céréales les plus importantes au niveau mondial et représente un aliment de base particulièrement prisé par les diabétiques dans les deux départements, en raison de son index glycémique modéré et de ses propriétés antioxydantes documentées.",
       "description": "S. bicolor est une herbe robuste pouvant atteindre 1,5 à 4 mètres de hauteur selon les variétés, remarquablement adaptée aux conditions sèches et chaudes des plaines du Sud et de la Grand'Anse. Tiges. Les tiges sont dressées, solides et pleines, contrairement aux chaumes creux de nombreuses autres Poacées. Elles présentent des nœuds visibles et une moelle sucrée, caractéristique qui permet à la plante de stocker des réserves énergétiques importantes pour résister aux périodes de stress hydrique. Feuilles. Les feuilles sont longues, lancéolées et alternes, avec une nervation parallèle typique des Poacées. Elles sont couvertes d'une pruine cireuse qui limite la perte d'eau par évapotranspiration — adaptation cruciale aux climats arides. Inflorescence et grains. L'inflorescence terminale forme une panicule dense et compacte portant de nombreux épillets contenant chacun un grain. Les grains, de couleur variable (blanc, rouge, brun ou noir selon les cultivars), constituent la partie principalement utilisée. Leur saveur varie de fade à légèrement noisettée selon la variété. Système racinaire. Le système racinaire fibreux et profond permet à la plante d'exploiter efficacement les réserves d'eau du sol, expliquant sa remarquable tolérance à la sécheresse. Les parties utilisées sont principalement les grains mûrs, le son et occasionnellement les feuilles jeunes.",
@@ -10088,8 +10494,10 @@ const plantesData = [
     "familleDescription": "",
     "familleImage": "",
     "familleNum": "68",
-    "toxBadgeColor": "green",
-    "toxBadgeText": "Non toxique"
+    "toxBadgeColor": "yellow",
+    "toxBadgeText": "Conditionnel",
+    "usageType": "Alimentaire",
+    "maladieSummary": "Cardiovasculaire, Sanguin"
   },
   {
     "id": 206,
@@ -10108,10 +10516,10 @@ const plantesData = [
       "ht": "Mayi"
     },
     "systeme": {
-      "fr": "Le maïs cible principalement les systèmes nutritionnel et urinaire documentés dans le Sud et la Gran"
+      "fr": "Urinaire"
     },
-    "toxicite": "unknown",
-    "toxiciteLevel": "unknown",
+    "toxicite": null,
+    "toxiciteLevel": "safe",
     "sections": {
       "introduction": "Zea mays L. (syn. Zea americana) est une herbe annuelle exotique, cultivée de manière intensive dans les Départements du Sud et de la Grand'Anse. Elle appartient à la famille des Poacées, une famille dominante de l'agriculture mondiale, reconnue pour ses usages alimentaires fondamentaux et ses propriétés médicinales complémentaires. Au sein de cette famille, elle fait partie du genre Zea, dont elle est l'unique espèce cultivée, constituant l'une des trois céréales majeures de l'humanité avec le blé et le riz. Zea mays est une plante à usage prioritairement alimentaire et secondairement médicinal : elle forme la base nutritionnelle de millions d'Haïtiens et ses stigmates sont employés en médecine traditionnelle pour leurs vertus diurétiques et anti-inflammatoires.",
       "description": "Z. mays est une herbe robuste annuelle pouvant atteindre 3 à 4 mètres de hauteur, particulièrement bien adaptée aux conditions climatiques des basses altitudes des Départements du Sud et de la Grand'Anse. Tiges. La tige principale est épaisse, solide et segmentée par des nœuds distincts, caractéristique de la famille des Poacées. Elle peut développer des tiges secondaires (talles) à partir de la base. L'intérieur de la tige est rempli de moelle sucrée, particulièrement appréciée par les enfants haïtiens qui la mâchent. Feuilles. Les feuilles sont longues, lancéolées et alternes, avec une nervure centrale proéminente. Elles engainent la tige à leur base selon le modèle typique des graminées. Ces feuilles sont parfois utilisées localement pour emballer les aliments. Fleurs. Le maïs présente des fleurs mâles (panicules terminales appelées \"tassels\") et femelles (épis latéraux protégés par des spathes) sur la même plante. Les stigmates des fleurs femelles, filamenteux et soyeux, émergent de l'épi sous forme de \"soies\" et constituent la partie médicinale de la plante. Fruit. L'épi mature porte des centaines de grains (caryopses) disposés en rangées régulières. Ces grains, de couleur variable selon les variétés cultivées localement (jaune, blanc, rouge), constituent la partie alimentaire principale. Les parties utilisées sont les grains pour l'alimentation, les stigmates (\"cheveux de maïs\") pour les usages médicinaux, et occasionnellement les feuilles pour l'emballage.",
@@ -10137,8 +10545,10 @@ const plantesData = [
     "familleDescription": "",
     "familleImage": "",
     "familleNum": "68",
-    "toxBadgeColor": "yellow",
-    "toxBadgeText": "Données insuffisantes"
+    "toxBadgeColor": "green",
+    "toxBadgeText": "Non toxique",
+    "usageType": "Alimentaire et Médicinale",
+    "maladieSummary": "Urinaire"
   },
   {
     "id": 207,
@@ -10156,10 +10566,10 @@ const plantesData = [
       "ht": "Bale koukouy"
     },
     "systeme": {
-      "fr": "Securidaca virgata cible préférentiellement le système musculo-squelettique, avec une efficacité doc"
+      "fr": "Cutané, Musculosquelettique"
     },
-    "toxicite": "unknown",
-    "toxiciteLevel": "unknown",
+    "toxicite": null,
+    "toxiciteLevel": "caution",
     "sections": {
       "introduction": "Securidaca virgata Sw. (syn. Elsota virgata) est une liane native documentée dans le Sud et la Grand'Anse, appartenant à la famille des Polygalacées. Au sein de cette famille à vocation essentiellement médicinale, elle fait partie du genre Securidaca, un groupe de lianes tropicales reconnues dans toute la région caraïbe pour leurs propriétés anti-inflammatoires et analgésiques remarquables. Son usage principal dans les Départements du Sud et de la Grand'Anse est thérapeutique, principalement par friction externe pour soulager les douleurs articulaires et musculaires. Cette espèce illustre parfaitement l'expertise ethnobotanique locale dans l'utilisation des lianes médicinales pour les affections du système musculo-squelettique.",
       "description": "S. virgata est une liane volubile native des moyennes altitudes, adaptée aux formations forestières des Départements du Sud et de la Grand'Anse. Sa forme biologique de liane lui permet de s'élever dans la canopée pour capter la lumière, stratégie caractéristique de nombreuses Polygalacées tropicales. *Tiges.* Les tiges sont ligneuses, flexibles et volubiles, permettant à la plante de s'enrouler autour des supports végétaux. L'écorce présente une surface légèrement rugueuse et sécrète les principes actifs concentrés dans les parties périphériques du bois. *Feuilles.* Les feuilles sont simples, alternes, de forme ovale à elliptique, avec une nervation pennée bien marquée. Leur surface présente une texture légèrement coriace, adaptation aux conditions de moyenne altitude des massifs du Sud et de la Grand'Anse. *Fleurs.* La floraison produit de petites fleurs irrégulières caractéristiques des Polygalacées, généralement groupées en grappes terminales. Ces fleurs présentent une structure asymétrique distinctive de la famille. *Fruit.* Le fruit est une capsule ou une samare, contenant des graines qui assurent la dispersion naturelle de l'espèce dans son habitat forestier. Les parties utilisées dans les pratiques thérapeutiques locales sont principalement les racines et les feuilles, reconnues pour leur concentration en principes actifs.",
@@ -10186,7 +10596,9 @@ const plantesData = [
     "familleImage": "",
     "familleNum": "69",
     "toxBadgeColor": "yellow",
-    "toxBadgeText": "Données insuffisantes"
+    "toxBadgeText": "Conditionnel",
+    "usageType": "Médicinale",
+    "maladieSummary": "Cutané, Musculosquelettique"
   },
   {
     "id": 208,
@@ -10206,10 +10618,10 @@ const plantesData = [
       "ht": "Lyan koray"
     },
     "systeme": {
-      "fr": "Le système tégumentaire constitue la cible principale des applications traditionnelles d'A. leptopus"
+      "fr": "Urinaire"
     },
-    "toxicite": "unknown",
-    "toxiciteLevel": "unknown",
+    "toxicite": null,
+    "toxiciteLevel": "safe",
     "sections": {
       "introduction": "Antigonon leptopus Hook. & Arn. (syn. Corculum leptopus) est une liane exotique commune dans les Départements du Sud et de la Grand'Anse, où elle est documentée comme plante ornementale mellifère aux usages alimentaires et médicinaux secondaires. Appartenant à la famille des Polygonacées, elle fait partie du genre Antigonon, petit groupe de lianes ornementales originaires du Mexique, caractérisées par leur floraison rose spectaculaire et leur croissance vigoureuse. Son introduction en Haïti s'inscrit dans sa large diffusion pantropicale comme plante d'ornement, mais les communautés locales ont développé des usages traditionnels spécifiques pour ses feuilles et fleurs.",
       "description": "A. leptopus est une liane volubile à croissance rapide, particulièrement adaptée aux conditions de basse altitude des départements du Sud et de la Grand'Anse. Tiges. Les tiges sont sarmenteuses, pouvant atteindre plusieurs mètres de longueur, s'enroulant autour des supports disponibles grâce à des vrilles terminales. L'écorce jeune est verte et lisse, devenant rugueuse et brunâtre avec l'âge. Feuilles. Les feuilles sont alternes, cordiformes à ovales, de 5 à 15 cm de longueur, avec un pétiole court et un limbe vert clair à nervation pennée bien visible. Leur texture est relativement mince mais résistante. Fleurs. L'inflorescence est une grappe ou panicule terminale portant de nombreuses petites fleurs rose vif à rouge corail — d'où le nom vernaculaire. Chaque fleur mesure environ 5 mm de diamètre, avec cinq tépales colorés et huit étamines saillantes. La floraison est abondante et quasi-continue en conditions favorables. Fruit. Le fruit est un akène triangulaire ailé, facilitant la dispersion par le vent, contribuant au caractère potentiellement envahissant de l'espèce. Les parties utilisées documentées dans le Sud et la Grand'Anse sont les feuilles et les fleurs.",
@@ -10235,8 +10647,10 @@ const plantesData = [
     "familleDescription": "Dominantes dans les régions tropicales et tempérées, les Polygonacées rassemblent environ 1200 espèces réparties en 50 genres, incluant principalement des lianes, des arbres et des herbes. Cette famille se distingue par ses remarquables usages alimentaires — notamment le sarrasin (Fagopyrum esculentum) et l'oseille (Rumex acetosa) — et ses propriétés médicinales reconnues depuis l'Antiquité. Parmi les genres à vocation thérapeutique, Rumex est réputé pour ses propriétés dépuratives, Polygonum pour ses effets anti-inflammatoires, et Reynoutria (anciennement Polygonum) pour ses composés antioxydants. Sur le plan ornemental, le genre Antigonon produit des lianes à floraison spectaculaire très prisées en horticulture tropicale. La signature phytochimique de cette famille est dominée par les tanins astringents, les anthraquinones laxatives, les flavonoïdes antioxydants et les anthocyanes colorantes, ciblant préférentiellement les systèmes tégumentaire et digestif. Une vigilance particulière s'impose avec certaines espèces du genre Rumex qui accumulent des oxalates potentiellement problématiques pour les insuffisants rénaux à doses élevées.",
     "familleImage": "",
     "familleNum": "70",
-    "toxBadgeColor": "yellow",
-    "toxBadgeText": "Données insuffisantes"
+    "toxBadgeColor": "green",
+    "toxBadgeText": "Non toxique",
+    "usageType": "Alimentaire et Médicinale",
+    "maladieSummary": "Urinaire"
   },
   {
     "id": 209,
@@ -10254,10 +10668,10 @@ const plantesData = [
       "ht": "Rezen lanmè"
     },
     "systeme": {
-      "fr": "Coccoloba uvifera cible principalement le système digestif, conformément à la signature thérapeutiqu"
+      "fr": "Digestif"
     },
-    "toxicite": "unknown",
-    "toxiciteLevel": "unknown",
+    "toxicite": null,
+    "toxiciteLevel": "safe",
     "sections": {
       "introduction": "Coccoloba uvifera (L.) (syn. Polygonum uvifera L.) est un arbre natif du littoral haïtien, abondant dans les Départements du Sud et de la Grand'Anse. Il appartient à la famille des Polygonacées, un groupe végétal dominé par les lianes et les arbres, particulièrement remarquable pour ses riches usages alimentaires et médicinaux. Cette famille se distingue phytochimiquement par sa signature moléculaire riche en tanins, amidon dans les tubercules, flavonoïdes et anthocyanes, ciblant préférentiellement les systèmes tégumentaire et digestif. Au sein de cette famille, le genre Coccoloba regroupe des arbres et arbustes tropicaux dont plusieurs espèces produisent des fruits comestibles. Coccoloba uvifera constitue l'une des espèces les plus emblématiques du littoral caribéen, valorisée à la fois pour ses fruits savoureux et ses propriétés médicinales, particulièrement dans le traitement des troubles digestifs.",
       "description": "C. uvifera est un arbre de taille moyenne, parfaitement adapté aux conditions littorales des Départements du Sud et de la Grand'Anse, où il colonise naturellement les plages sableuses et les zones côtières exposées aux embruns salés. Tronc et écorce. Le tronc peut atteindre un diamètre respectable chez les spécimens âgés. L'écorce, lisse et grisâtre, constitue l'une des parties médicinales de la plante, particulièrement recherchée pour ses propriétés antidiarrhéiques. Feuilles. Les feuilles sont l'un des éléments les plus distinctifs de l'espèce : grandes, coriaces, en forme de cœur ou réniformes, elles présentent des nervures très marquées qui rayonnent depuis la base. Leur surface brillante et leur consistance épaisse leur permettent de résister aux conditions salines du littoral. Ces feuilles sont également utilisées en médecine traditionnelle. Fleurs. Les fleurs, petites et discrètes, sont regroupées en grappes allongées. Bien que peu spectaculaires individuellement, elles jouent un rôle écologique important en attirant divers pollinisateurs. Fruits. Les fruits constituent la partie la plus remarquable de la plante : regroupés en grappes ressemblant à celles du raisin — d'où le nom vernaculaire « rezen lanmè » — ils sont charnus, de couleur rouge à pourpre à maturité, et constituent une source alimentaire appréciée localement. Les parties utilisées comprennent les fruits frais, les feuilles et l'écorce des racines ou du tronc.",
@@ -10283,8 +10697,10 @@ const plantesData = [
     "familleDescription": "",
     "familleImage": "",
     "familleNum": "70",
-    "toxBadgeColor": "yellow",
-    "toxBadgeText": "Données insuffisantes"
+    "toxBadgeColor": "green",
+    "toxBadgeText": "Non toxique",
+    "usageType": "Alimentaire et Médicinale",
+    "maladieSummary": "Digestif"
   },
   {
     "id": 210,
@@ -10302,10 +10718,10 @@ const plantesData = [
       "ht": "Koupye"
     },
     "systeme": {
-      "fr": "P. oleracea cible préférentiellement le système cardiovasculaire et métabolique. Les acides gras omé"
+      "fr": "Cardiovasculaire"
     },
-    "toxicite": "caution",
-    "toxiciteLevel": "caution",
+    "toxicite": null,
+    "toxiciteLevel": "safe",
     "sections": {
       "introduction": "Portulaca oleracea L. — « Koupye » / Pourpier Portulaca oleracea L. (syn. Portulaca parvifolia, P. sylvestris) est une herbe succulente native abondante dans les Départements du Sud et de la Grand'Anse d'Haïti. Elle appartient à la famille des Portulacacées, une famille tropicale remarquable par ses propriétés nutritionnelles exceptionnelles et ses applications cardiovasculaires. Au sein de cette famille, elle fait partie du genre Portulaca, qui regroupe plusieurs espèces à fort potentiel alimentaire et thérapeutique, toutes caractérisées par leurs feuilles charnues riches en nutriments et leur adaptation aux climats secs. Portulaca oleracea constitue l'un des légumes-feuilles les plus précieux de la flore haïtienne : véritable « superfood » local, elle combine usages culinaires quotidiens et propriétés médicinales documentées scientifiquement, particulièrement pour la santé cardiovasculaire et métabolique.",
       "description": "P. oleracea est une herbe succulente annuelle, rampante à semi-dressée, formant des tapis denses au sol dans les zones cultivées et les terrains perturbés des deux départements. Tiges. Les tiges sont charnues, cylindriques, lisses et brillantes, de couleur verte à rougeâtre selon l'exposition solaire. Elles s'étalent horizontalement depuis la base, pouvant atteindre 30 à 40 cm de longueur. Leur texture succulente leur permet de stocker l'eau, adaptation caractéristique aux périodes sèches fréquentes dans la région. Feuilles. Les feuilles constituent la partie la plus remarquable : charnues, spatulées à obovales, disposées de manière alterne ou parfois opposée vers la base des tiges. Leur couleur verte brillante et leur texture épaisse et juteuse les rendent facilement reconnaissables. Elles mesurent généralement 1 à 2 cm de longueur. Fleurs. Les fleurs sont petites, jaunes, à cinq pétales, regroupées en glomérules terminaux. Elles s'ouvrent uniquement en plein soleil et se referment l'après-midi, adaptation qui optimise la pollinisation tout en préservant les organes reproducteurs. Fruit et graines. Le fruit est une capsule qui s'ouvre en couvercle (pyxide), libérant de nombreuses petites graines noires, lisses et brillantes, assurant une reproduction efficace. Les parties utilisées sont principalement les feuilles et les tiges jeunes, et occasionnellement les graines.",
@@ -10331,8 +10747,10 @@ const plantesData = [
     "familleDescription": "Dominant les régions tropicales et subtropicales, les Portulacacées rassemblent environ 500 espèces réparties en 20 genres, principalement des herbes succulentes adaptées aux environnements arides. Cette famille se distingue par ses remarquables propriétés nutritionnelles et thérapeutiques, particulièrement représentées par le pourpier (Portulaca oleracea), légume-feuille exceptionnel par sa richesse en acides gras oméga-3 végétaux. Sur le plan alimentaire, plusieurs genres comme Portulaca et Talinum constituent des sources précieuses de légumes-feuilles dans les Caraïbes. Les usages médicinaux concernent principalement les systèmes cardiovasculaire et métabolique, grâce à une signature phytochimique dominée par les acides gras polyinsaturés, les bétalaïnes antioxydantes, les flavonoïdes et les minéraux essentiels (potassium, magnésium). Cette famille cible préférentiellement le système cardiovasculaire par ses effets hypotenseurs et cardioprotecteurs. Une vigilance s'impose néanmoins concernant la teneur élevée en oxalates de certaines espèces, pouvant favoriser la formation de calculs rénaux chez les sujets prédisposés.",
     "familleImage": "",
     "familleNum": "71",
-    "toxBadgeColor": "yellow",
-    "toxBadgeText": "Précautions"
+    "toxBadgeColor": "green",
+    "toxBadgeText": "Non toxique",
+    "usageType": "Alimentaire et Médicinale",
+    "maladieSummary": "Cardiovasculaire"
   },
   {
     "id": 211,
@@ -10351,10 +10769,10 @@ const plantesData = [
       "ht": "Lang bèf"
     },
     "systeme": {
-      "fr": "Les usages traditionnels ciblent principalement le système tégumentaire, conformément à la signature"
+      "fr": "Cutané"
     },
-    "toxicite": "unknown",
-    "toxiciteLevel": "unknown",
+    "toxicite": null,
+    "toxiciteLevel": "safe",
     "sections": {
       "introduction": "Clavija domingensis (Urb.) Mez — « Lang bèf » Clavija domingensis (syn. Theophrasta domingensis) est un arbuste endémique strict d'Haïti — c'est-à-dire qu'il n'existe nulle part ailleurs sur Terre. Il appartient à la famille des Primulacées, une famille de près de 2 800 espèces reconnue pour ses propriétés médicinales, particulièrement dans le domaine des soins cutanés et capillaires. Au sein de cette famille, il constitue l'unique représentant du genre Clavija en Haïti, un genre néotropical comprenant une vingtaine d'espèces d'arbustes à feuilles persistantes. Son nom créole « Lang bèf » fait référence à la forme et à la texture particulière de ses feuilles, évoquant une langue de bœuf. Cette espèce présente un usage médicinal documenté dans le Sud et la Grand'Anse, principalement pour les soins capillaires et les applications dermatologiques, témoignant d'un savoir ethnobotanique unique lié à cette plante endémique.",
       "description": "C. domingensis est un arbuste de terrain calcaire, présentant une saveur amère caractéristique et une répartition géographique extrêmement restreinte au Massif de la Hotte. Tiges et port. L'arbuste développe des tiges ligneuses robustes supportant un feuillage persistant dense. Le port général de la plante s'adapte aux conditions particulières des sols calcaires de son habitat naturel. Feuilles. Les feuilles constituent l'élément le plus caractéristique de la plante : elles sont grandes, coriaces, de forme oblongue à lancéolée, évoquant par leur texture et leur forme une langue de bœuf — d'où le nom créole « Lang bèf ». Leur surface présente une texture rugueuse particulière, et leur saveur amère est immédiatement perceptible. Ces feuilles persistent tout au long de l'année, adaptation typique des arbustes de milieux calcaires secs. Fleurs. La plante produit des inflorescences typiques de la famille des Primulacées, bien que les détails de sa biologie florale restent peu documentés scientifiquement. Fruits. Les fruits sont occasionnellement consommés localement, mais leurs caractéristiques morphologiques précises nécessitent une documentation botanique plus approfondie. Les parties utilisées dans les pratiques ethnobotaniques documentées dans les Départements du Sud et de la Grand'Anse sont les feuilles (usage principal), les fruits et les racines.",
@@ -10380,8 +10798,10 @@ const plantesData = [
     "familleDescription": "Reconnues pour leur importance médicinale traditionnelle, les Primulacées rassemblent environ 2 800 espèces réparties dans 58 genres à travers le monde, dominées par les herbes vivaces et les arbustes. Cette famille présente une diversité remarquable d'adaptations écologiques, des primevères alpines aux cyclamens méditerranéens, en passant par les mourons des champs. En Haïti, elle est représentée par le genre endémique Clavija, dont l'unique espèce constitue un trésor botanique national. Sur le plan phytochimique, les Primulacées se caractérisent par une signature moléculaire dominée par les saponines triterpéniques, les benzoquinones et les flavonoïdes, conférant à cette famille ses propriétés dermatologiques et antimicrobiennes reconnues. Ces composés ciblent préférentiellement le système tégumentaire, expliquant l'usage traditionnel de nombreuses espèces pour les soins cutanés et capillaires. Il convient cependant de noter que certaines espèces — notamment du genre Anagallis — renferment des saponines hémolytiques puissantes, exigeant une vigilance particulière dans leur manipulation et leur usage.",
     "familleImage": "",
     "familleNum": "72",
-    "toxBadgeColor": "yellow",
-    "toxBadgeText": "Données insuffisantes"
+    "toxBadgeColor": "green",
+    "toxBadgeText": "Non toxique",
+    "usageType": "Médicinale",
+    "maladieSummary": "Cutané"
   },
   {
     "id": 212,
@@ -10401,10 +10821,10 @@ const plantesData = [
       "ht": "Kapilè"
     },
     "systeme": {
-      "fr": "A. capillus-veneris cible préférentiellement le système respiratoire, où elle exerce des effets docu"
+      "fr": "Respiratoire"
     },
-    "toxicite": "caution",
-    "toxiciteLevel": "caution",
+    "toxicite": null,
+    "toxiciteLevel": "safe",
     "sections": {
       "introduction": "Adiantum capillus-veneris L. (syn. Adiantum michelii) est une fougère native documentée dans les Départements du Sud et de la Grand'Anse. Elle appartient à la famille des Ptéridacées, une famille de fougères cosmopolites particulièrement riches en mucilages et triterpènes, traditionnellement utilisées pour leurs propriétés pectorales. Au sein de cette famille, Adiantum capillus-veneris fait partie du genre Adiantum, connu sous le nom vernaculaire de « capillaires » en raison de la finesse de ses frondes et de ses usages traditionnels pour les affections respiratoires. Localement appelée « Kapilè », cette fougère constitue un remède domestique précieux pour les affections respiratoires et possède également un usage culturel singulier documenté dans le Sud et la Grand'Anse : les frondes sont placées dans les livres pour favoriser la mémoire.",
       "description": "A. capillus-veneris est une fougère délicate des milieux humides, caractérisée par ses frondes finement découpées et ses pétioles noirs brillants. Rhizomes et racines. Le système souterrain comprend des rhizomes rampants et ramifiés, noirs, recouverts d'écailles brunâtres. Ces rhizomes permettent la multiplication végétative et constituent l'une des parties utilisées en médecine traditionnelle. Frondes. Les frondes sont l'élément le plus distinctif de la plante : délicatement bipennées, elles mesurent 10 à 40 cm de longueur et présentent des segments en forme d'éventail (flabellés) de couleur vert tendre. Ces segments, appelés pinnules, sont portés par des pétioles et rachis noirs caractéristiques du genre Adiantum. Sporanges. La reproduction s'effectue par spores produites dans des sporanges regroupés en sores linéaires situés au bord des pinnules, protégés par le repli du limbe foliaire (indusie marginale). Habitat. Dans le contexte haïtien, A. capillus-veneris colonise préférentiellement les rochers humides, les murs suintants et les abords de sources, particulièrement dans les zones d'altitude moyenne où l'humidité atmosphérique demeure élevée. Les parties utilisées sont les frondes et les rhizomes.",
@@ -10430,8 +10850,10 @@ const plantesData = [
     "familleDescription": "Les Ptéridacées rassemblent une diversité remarquable de fougères cosmopolites, particulièrement bien représentées dans les régions tropicales et subtropicales humides. Cette famille ancienne comprend plusieurs genres d'importance médicinale traditionnelle, notamment Adiantum (capillaires), Pteris et Pellaea, reconnus depuis l'Antiquité pour leurs propriétés pectorales et adoucissantes. Sur le plan phytochimique, les Ptéridacées se caractérisent par une signature dominée par les mucilages, les triterpènes, les flavonoïdes et les tanins, conférant à ces plantes leurs propriétés émollientes et anti-inflammatoires. Ces composés ciblent préférentiellement le système respiratoire, où ils exercent des effets expectorants, antitussifs et adoucissants des muqueuses bronchiques. La présence de saponines triterpéniques dans plusieurs genres explique leurs usages traditionnels comme diurétiques légers. Bien que généralement non toxiques aux doses médicinales usuelles, certaines espèces de cette famille peuvent présenter des principes actifs concentrés nécessitant une préparation adéquate, particulièrement lors d'usage prolongé chez les personnes présentant des troubles rénaux.",
     "familleImage": "",
     "familleNum": "73",
-    "toxBadgeColor": "yellow",
-    "toxBadgeText": "Précautions"
+    "toxBadgeColor": "green",
+    "toxBadgeText": "Non toxique",
+    "usageType": "Médicinale",
+    "maladieSummary": "Respiratoire"
   },
   {
     "id": 213,
@@ -10450,10 +10872,10 @@ const plantesData = [
       "ht": "Ave / Malpouri"
     },
     "systeme": {
-      "fr": "P. alliacea cible préférentiellement le système respiratoire et exerce des effets systémiques sur la"
+      "fr": "Urinaire, Respiratoire, Immunitaire"
     },
-    "toxicite": "unknown",
-    "toxiciteLevel": "unknown",
+    "toxicite": null,
+    "toxiciteLevel": "caution",
     "sections": {
       "introduction": "Petiveria alliacea L. (syn. Petiveria foetida) est une herbe vivace native documentée dans les Départements du Sud et de la Grand'Anse, où elle occupe une place centrale dans la pharmacopée traditionnelle haïtienne. Elle appartient à la famille des Pétivériacées, une petite famille tropicale spécialisée dans la production de composés organosoufrés aux propriétés thérapeutiques remarquables. Au sein de cette famille, elle constitue l'unique représentant du genre Petiveria en Haïti, se distinguant par son odeur d'ail caractéristique qui lui vaut le nom créole « Ave » — déformation probable du mot français « ail ». L'usage principal de P. alliacea dans le Sud et la Grand'Anse est médicinal, particulièrement pour les affections respiratoires comme la sinusite, grâce aux frictions d'extraits de racine qui libèrent ses composés volatils thérapeutiques.",
       "description": "P. alliacea est une herbe dressée pouvant atteindre 60 à 120 cm de hauteur, facilement reconnaissable à son odeur alliacée distinctive qui se dégage au simple froissement de ses tissus. Tiges. Les tiges sont herbacées, dressées, légèrement ligneuses à la base, de section angulaire et présentant une surface rugueuse. Elles portent une odeur d'ail prononcée, particulièrement intense au niveau des nœuds. Feuilles. Les feuilles sont simples, alternes, ovales à elliptiques, de 5 à 15 cm de longueur, à bords entiers ou légèrement ondulés. Le limbe est membraneux, d'un vert mat caractéristique, et dégage l'odeur alliacée typique lors du froissement. Les nervures sont bien marquées et de couleur plus claire. Fleurs. L'inflorescence est un épi terminal allongé, dense, portant de nombreuses petites fleurs blanches à verdâtres, dépourvues de pétales mais dotées de 4 sépales persistants. La floraison s'étale sur plusieurs mois selon les conditions climatiques des départements du Sud et de la Grand'Anse. Fruit. Le fruit est un akène noir, brillant, de forme oblongue, surmonté par les sépales persistants qui forment des crochets facilitant la dissémination par les animaux. Racines. Le système racinaire est pivotant, avec une racine principale charnue et des racines secondaires fibreuses. C'est dans les racines que se concentrent les principes actifs les plus puissants, d'où leur utilisation préférentielle en médecine traditionnelle. Les parties utilisées sont principalement les racines, et secondairement les feuilles.",
@@ -10480,7 +10902,9 @@ const plantesData = [
     "familleImage": "",
     "familleNum": "74",
     "toxBadgeColor": "yellow",
-    "toxBadgeText": "Données insuffisantes"
+    "toxBadgeText": "Conditionnel",
+    "usageType": "Médicinale",
+    "maladieSummary": "Urinaire, Respiratoire, Immunitaire"
   },
   {
     "id": 214,
@@ -10499,10 +10923,10 @@ const plantesData = [
       "ht": "Bobo kodèn / Panzou"
     },
     "systeme": {
-      "fr": "R. humilis cible préférentiellement le système tégumentaire et, dans une moindre mesure, le système "
+      "fr": "Digestif, Cutané"
     },
-    "toxicite": "toxic",
-    "toxiciteLevel": "toxic",
+    "toxicite": null,
+    "toxiciteLevel": "safe",
     "sections": {
       "introduction": "Rivinia humilis L. (syn. Rivina humilis, Rivina laevis) est une herbe native commune des Départements du Sud et de la Grand'Anse, où elle est connue sous les noms créoles de « Bobo kodèn » et « Panzou ». Elle appartient à la famille des Pétivériacées, une famille tropicale principalement composée d'herbes aux propriétés médicinales et spirituelles remarquables. Cette famille se caractérise par sa richesse en composés organosoufrés, flavonoïdes et terpènes, ciblant préférentiellement les systèmes respiratoire et tégumentaire, bien qu'une vigilance soit requise car certaines espèces renferment des principes actifs puissants nécessitant un dosage strict. Au sein de cette famille, Rivinia humilis constitue l'une des espèces les plus utilisées localement, tant comme légume-feuilles occasionnel que comme remède traditionnel contre les troubles digestifs et les affections cutanées. Son usage polyvalent illustre parfaitement la richesse ethnobotanique caractéristique des Pétivériacées dans le grand Sud d'Haïti.",
       "description": "R. humilis est une herbe vivace de basse altitude, formant des touffes dressées ou légèrement étalées, particulièrement commune dans les zones perturbées et les jardins créoles des Départements du Sud et de la Grand'Anse. Tiges et port. La plante développe des tiges herbacées, dressées à semi-prostrées, pouvant atteindre 50 à 80 cm de hauteur. Les tiges sont généralement ramifiées, de couleur verte à rougeâtre, et présentent une texture légèrement charnue caractéristique du genre. Feuilles. Les feuilles sont simples, alternes, ovales à elliptiques, mesurant 3 à 8 cm de longueur. Elles présentent un limbe mince, une nervation bien marquée et des bords entiers ou légèrement ondulés. La surface foliaire est glabre à légèrement pubescente, d'un vert franc caractéristique. Ces feuilles constituent la partie végétative principalement utilisée comme légume dans l'alimentation locale. Fleurs. Les inflorescences sont des grappes terminales ou axillaires, composées de nombreuses petites fleurs verdâtres à blanchâtres, peu voyantes mais néanmoins attractives pour certains insectes pollinisateurs. Chaque fleur mesure environ 2-3 mm de diamètre. Fruits. Les fruits constituent l'élément le plus distinctif de la plante : ce sont de petites baies sphériques d'environ 3-4 mm de diamètre, d'abord vertes puis devenant rouge vif à maturité. Ces fruits colorés sont occasionnellement consommés localement, bien que leur innocuité reste débattue. Les parties utilisées sont principalement les feuilles et les fruits.",
@@ -10528,8 +10952,10 @@ const plantesData = [
     "familleDescription": "",
     "familleImage": "",
     "familleNum": "74",
-    "toxBadgeColor": "red",
-    "toxBadgeText": "Toxique"
+    "toxBadgeColor": "green",
+    "toxBadgeText": "Non toxique",
+    "usageType": "Alimentaire et Médicinale",
+    "maladieSummary": "Digestif, Cutané"
   },
   {
     "id": 215,
@@ -10548,10 +10974,10 @@ const plantesData = [
       "ht": "Bwa ple"
     },
     "systeme": {
-      "fr": "C. arborescens cible principalement le système cutané, avec des applications documentées pour divers"
+      "fr": "Urinaire, Cutané"
     },
-    "toxicite": "unknown",
-    "toxiciteLevel": "unknown",
+    "toxicite": null,
+    "toxiciteLevel": "safe",
     "sections": {
       "introduction": "Colubrina arborescens (syn. Ceanothus arborescens) est un arbre natif des Caraïbes et d'Amérique tropicale, documenté dans les Départements du Sud et de la Grand'Anse d'Haïti où il demeure relativement commun. Il appartient à la famille des Rhamnacées, reconnue mondialement pour ses propriétés détergentes naturelles liées aux saponines triterpéniques. Au sein de cette famille, le genre Colubrina regroupe une vingtaine d'espèces d'arbres et d'arbustes tropicaux, dont plusieurs sont exploités traditionnellement comme savons végétaux et remèdes dermatologiques. Le nom créole « Bwa ple » fait référence à l'aspect lisse de son écorce après desquamation. Dans les Départements du Sud et de la Grand'Anse, C. arborescens occupe une place importante comme savon naturel et plante médicinale, particulièrement valorisé pour ses applications cutanées et ses bains thérapeutiques.",
       "description": "C. arborescens est un arbre de taille moyenne, typique des formations de basse altitude des Caraïbes, pouvant atteindre 8 à 12 mètres de hauteur dans des conditions optimales. Tiges et écorce. Le tronc présente une écorce caractéristique qui se desquame par plaques, laissant apparaître une surface lisse et claire — origine probable du nom « bois pelé ». Cette écorce, très astringente au goût, constitue l'une des parties les plus utilisées traditionnellement. Feuilles. Les feuilles sont simples, alternes, ovales à elliptiques, de texture coriace et de couleur vert foncé brillant. Leur surface supérieure est lisse tandis que la face inférieure peut présenter une pubescence légère. Le limbe mesure généralement 5 à 10 cm de longueur. Fleurs. L'arbre produit de petites fleurs verdâtres ou jaunâtres, regroupées en cymes axillaires. Ces fleurs, peu voyantes mais mellifères, attirent diverses espèces d'insectes pollinisateurs. Fruits. Les fruits sont des capsules sphériques de couleur brun-rouge à maturité, contenant généralement trois graines. Ces fruits, également astringents, sont parfois utilisés en médecine traditionnelle. Les parties utilisées sont principalement les feuilles, l'écorce et occasionnellement les fruits.",
@@ -10577,8 +11003,10 @@ const plantesData = [
     "familleDescription": "Avec près de 900 espèces réparties en 50 genres, les Rhamnacées constituent une famille cosmopolite dominée par des arbres, arbustes et lianes caractérisés par leurs remarquables propriétés détergentes naturelles. Cette famille occupe une place singulière dans l'ethnobotanique mondiale grâce à ses saponines triterpéniques, molécules amphiphiles qui confèrent aux écorces et feuilles de nombreuses espèces des propriétés moussantes exploitées comme savons végétaux. Parmi les genres alimentaires, Ziziphus produit les jujubes, fruits nutritifs consommés frais ou séchés dans de nombreuses régions tropicales. Les genres Rhamnus et Colubrina dominent les usages médicinaux, ciblant préférentiellement les systèmes cutané, digestif et urinaire grâce à leurs tanins astringents et leurs flavonoïdes anti-inflammatoires. Sur le plan phytochimique, la famille se distingue par une signature moléculaire riche en saponines triterpéniques, tanins condensés, flavonoïdes et acides phénoliques. Une vigilance s'impose cependant avec certains représentants du genre Rhamnus qui renferment des anthraquinones purgatives puissantes, exigeant des préparations et dosages stricts pour éviter les intoxications digestives.",
     "familleImage": "",
     "familleNum": "75",
-    "toxBadgeColor": "yellow",
-    "toxBadgeText": "Données insuffisantes"
+    "toxBadgeColor": "green",
+    "toxBadgeText": "Non toxique",
+    "usageType": "Médicinale",
+    "maladieSummary": "Urinaire, Cutané"
   },
   {
     "id": 216,
@@ -10596,10 +11024,10 @@ const plantesData = [
       "ht": "Lyan"
     },
     "systeme": {
-      "fr": "C. asiatica cible principalement le système cutané, avec des applications documentées pour les affec"
+      "fr": "Urinaire, Cardiovasculaire, Cutané"
     },
-    "toxicite": "unknown",
-    "toxiciteLevel": "unknown",
+    "toxicite": null,
+    "toxiciteLevel": "safe",
     "sections": {
       "introduction": "Colubrina asiatica (L.) (syn. Ceanothus asiaticus L.) est une liane exotique pantropicale introduite, documentée dans les Départements du Sud et de la Grand'Anse où elle est devenue rare. Elle appartient à la famille des Rhamnacées, une famille principalement constituée de lianes et d'arbres reconnue pour ses importants usages médicinaux et sa signature phytochimique dominée par les saponines, tanins, acides triterpéniques et flavonoïdes, ciblant préférentiellement les systèmes cutané et buccal. Il convient de noter que certaines espèces de cette famille renferment des principes actifs très puissants ou potentiellement toxiques exigeant une préparation adéquate ou un dosage strict. Au sein de cette famille, Colubrina asiatica fait partie du genre Colubrina, qui regroupe une vingtaine d'espèces de lianes et d'arbrisseaux tropicaux, dont plusieurs sont utilisées traditionnellement comme savons végétaux en raison de leur richesse en saponines. Cette espèce est principalement utilisée à des fins médicinales dans les deux départements, particulièrement pour les soins de la peau par friction.",
       "description": "C. asiatica est une liane grimpante vigoureuse pouvant atteindre plusieurs mètres de longueur, caractérisée par sa saveur douce à légèrement acide. Tiges. Les tiges sont ligneuses, flexibles et résistantes, permettant à la plante de s'enrouler autour des supports disponibles. L'écorce des tiges plus âgées devient rugueuse et brunâtre, tandis que les jeunes pousses conservent une surface plus lisse. Feuilles. Les feuilles sont alternes, simples, ovales à elliptiques, avec des bords finement dentés. Elles présentent une nervation pennée bien marquée et une texture coriace qui résiste bien aux conditions tropicales. Leur couleur varie du vert clair au vert foncé selon l'exposition. Fleurs. Les inflorescences sont des cymes axillaires composées de petites fleurs verdâtres à jaunâtres, généralement pentamères, attirant principalement les petits insectes pollinisateurs. Fruits. Les fruits sont des drupes sphériques qui passent du vert au noir à maturité, contenant généralement trois graines. Dans le contexte des Départements du Sud et de la Grand'Anse, cette espèce s'adapte bien aux zones de basse altitude mais reste rare, probablement en raison de la pression de collecte et de la compétition avec la végétation native. Les parties utilisées sont les feuilles, les tiges et les racines.",
@@ -10625,8 +11053,10 @@ const plantesData = [
     "familleDescription": "",
     "familleImage": "",
     "familleNum": "75",
-    "toxBadgeColor": "yellow",
-    "toxBadgeText": "Données insuffisantes"
+    "toxBadgeColor": "green",
+    "toxBadgeText": "Non toxique",
+    "usageType": "Médicinale",
+    "maladieSummary": "Urinaire, Cardiovasculaire, Cutané"
   },
   {
     "id": 217,
@@ -10645,10 +11075,10 @@ const plantesData = [
       "ht": "Lyan savon"
     },
     "systeme": {
-      "fr": "G. lupuloides cible principalement les systèmes buccal et cutané, conformément au profil thérapeutiq"
+      "fr": "Urinaire, Cutané"
     },
-    "toxicite": "unknown",
-    "toxiciteLevel": "unknown",
+    "toxicite": null,
+    "toxiciteLevel": "safe",
     "sections": {
       "introduction": "Gouania lupuloides (L.) (syn. Banisteria lupuloides L.) est une liane native commune des Départements du Sud et de la Grand'Anse. Elle appartient à la famille des Rhamnacées, un groupe diversifié de lianes et d'arbres reconnus pour leurs importants usages médicinaux, particulièrement dans le soin des affections cutanées et buccales. Cette famille se caractérise phytochimiquement par une signature riche en saponines, tanins, acides triterpéniques et flavonoïdes, composés qui confèrent aux Rhamnacées leurs propriétés nettoyantes, anti-inflammatoires et astringentes distinctives. Au sein de cette famille, le genre Gouania regroupe plusieurs espèces de lianes tropicales réputées pour leur richesse en saponines — molécules tensioactives naturelles à l'origine des propriétés moussantes et détersives de ces plantes. Gouania lupuloides est particulièrement appréciée dans les pratiques d'hygiène traditionnelle des deux départements, où elle sert principalement au nettoyage des dents et aux soins oculaires.",
       "description": "G. lupuloides est une liane ligneuse vigoureuse, commune dans les formations végétales de basse altitude du Sud et de la Grand'Anse. Tiges. Les tiges sont volubiles, ligneuses à la base et herbacées aux extrémités. Elles s'enroulent autour des supports végétaux pour accéder à la lumière, pouvant atteindre plusieurs mètres de longueur. L'écorce des tiges matures développe des propriétés moussantes caractéristiques lorsqu'elle est frottée avec de l'eau. Feuilles. Les feuilles sont alternes, simples, ovales à elliptiques, avec des bords finement dentés. Elles présentent une nervation pennée bien marquée et une texture légèrement coriace. La surface supérieure est vert foncé et luisante, tandis que la face inférieure est plus claire. Fleurs. L'inflorescence se présente sous forme de grappes axillaires composées de petites fleurs verdâtres à blanches. Chaque fleur possède cinq sépales, cinq pétales réduits et cinq étamines. La floraison attire principalement de petits insectes pollinisateurs. Fruits. Les fruits sont des capsules ailées caractéristiques, à trois lobes membraneux qui facilitent la dispersion par le vent. Ces capsules contiennent généralement une graine par loge. Les parties utilisées dans les pratiques locales sont principalement les tiges, les racines et les feuilles.",
@@ -10674,8 +11104,10 @@ const plantesData = [
     "familleDescription": "",
     "familleImage": "",
     "familleNum": "75",
-    "toxBadgeColor": "yellow",
-    "toxBadgeText": "Données insuffisantes"
+    "toxBadgeColor": "green",
+    "toxBadgeText": "Non toxique",
+    "usageType": "Médicinale",
+    "maladieSummary": "Urinaire, Cutané"
   },
   {
     "id": 218,
@@ -10695,10 +11127,10 @@ const plantesData = [
       "ht": "Mangliye wouj"
     },
     "systeme": {
-      "fr": "R. mangle cible principalement le système tégumentaire et le système digestif. Les tanins condensés "
+      "fr": "Digestif, Respiratoire"
     },
-    "toxicite": "unknown",
-    "toxiciteLevel": "unknown",
+    "toxicite": null,
+    "toxiciteLevel": "safe",
     "sections": {
       "introduction": "Rhizophora mangle L. (syn. Rhizophora americana) — « Mangliye wouj » / Palétuvier rouge — est un arbre littoral natif des côtes tropicales d'Amérique, présent naturellement dans les Départements du Sud et de la Grand'Anse d'Haïti. Il appartient à la famille des Rhizophoracées, groupe spécialisé dans la colonisation des environnements côtiers saumâtres et reconnu pour ses propriétés médicinales exceptionnelles liées à sa richesse en tanins. Au sein de cette famille, Rhizophora mangle fait partie du genre Rhizophora, architecte principal des mangroves caribéennes aux côtés de ses congénères R. racemosa et R. harrisonii. L'espèce constitue un pilier thérapeutique des pharmacopées littorales haïtiennes, particulièrement valorisée pour ses propriétés astringentes, cicatrisantes et anti-inflammatoires.",
       "description": "R. mangle est un arbre de taille moyenne, parfaitement adapté aux conditions littorales des côtes sud et sud-ouest d'Haïti, où il forme des peuplements denses dans les baies abritées et les embouchures de rivières. Tiges et système racinaire. L'arbre développe un système racinaire aérien spectaculaire constitué de racines échasses arquées qui émergent du tronc et des branches basses, permettant l'ancrage dans les sédiments meubles des mangroves. Ces racines-contreforts, imprégnées de tanins protecteurs, résistent remarquablement à l'immersion saline quotidienne. Le tronc, de diamètre modeste, présente une écorce rugueuse et fissurée, particulièrement riche en composés astringents. Feuilles. Les feuilles sont simples, opposées, coriaces et persistantes, de forme elliptique à obovale. Leur surface supérieure est d'un vert foncé brillant tandis que la face inférieure présente une teinte plus claire. Cette adaptation morphologique permet la résistance aux embruns salés et à la forte luminosité tropicale. Fleurs et reproduction. L'espèce produit de petites fleurs jaunes à quatre pétales, hermaphrodites, regroupées en cymes axillaires. La pollinisation, assurée par les insectes et le vent, conduit à la formation du fruit caractéristique : une propagule allongée et pointue qui germe directement sur l'arbre parent avant de se détacher pour coloniser de nouveaux substrats par dispersion marine. Les parties utilisées sont principalement l'écorce, les feuilles et les bourgeons.",
@@ -10724,8 +11156,10 @@ const plantesData = [
     "familleDescription": "Dominant les écosystèmes littoraux tropicaux, les Rhizophoracées constituent une famille botanique remarquable de 120 espèces réparties en 16 genres, principalement représentée par des arbres et arbustes adaptés aux environnements saumâtres. Cette famille se distingue par ses adaptations morphologiques uniques aux milieux côtiers — racines échasses, propagules flottantes, feuillage coriace — et par ses exceptionnelles propriétés médicinales. Les genres Rhizophora, Avicennia et Laguncularia forment l'épine dorsale des mangroves caribéennes, véritables nurseries marines d'une importance écologique capitale. Sur le plan phytochimique, les Rhizophoracées se caractérisent par une signature dominée par les tanins condensés, les catéchines, la lignine et les triterpènes pentacycliques — composés conférant à leurs écorces des propriétés astringentes et anti-inflammatoires remarquables. Ces métabolites ciblent préférentiellement le système tégumentaire, faisant de cette famille une ressource thérapeutique privilégiée pour le traitement des plaies, des inflammations cutanées et des troubles digestifs. Bien que généralement non toxiques, certains représentants exigent des précautions particulières en raison de leur forte concentration en tanins, susceptibles de provoquer des irritations gastriques en cas de surdosage.",
     "familleImage": "",
     "familleNum": "76",
-    "toxBadgeColor": "yellow",
-    "toxBadgeText": "Données insuffisantes"
+    "toxBadgeColor": "green",
+    "toxBadgeText": "Non toxique",
+    "usageType": "Médicinale",
+    "maladieSummary": "Digestif, Respiratoire"
   },
   {
     "id": 219,
@@ -10743,10 +11177,10 @@ const plantesData = [
       "ht": "Lokwat"
     },
     "systeme": {
-      "fr": "E. japonica cible principalement le système respiratoire et le métabolisme glucidique. Les études ph"
+      "fr": "Respiratoire"
     },
-    "toxicite": "unknown",
-    "toxiciteLevel": "unknown",
+    "toxicite": null,
+    "toxiciteLevel": "caution",
     "sections": {
       "introduction": "Eriobotrya japonica (syn. Mespilus japonica) est un arbre fruitier exotique d'altitude moyenne, rare dans les Départements du Sud et de la Grand'Anse où il a été introduit. Il appartient à la famille des Rosacées et au genre Eriobotrya, qui regroupe une trentaine d'espèces d'arbres fruitiers originaires d'Asie orientale. Le lokwat constitue une ressource alimentaire appréciée pour ses fruits sucrés-acidulés et une plante médicinale traditionnelle, particulièrement valorisée pour ses propriétés antitussives et hypoglycémiantes. Bien qu'encore rare en Haïti, cette espèce pantropicale s'adapte bien aux conditions climatiques locales et présente un potentiel de développement intéressant.",
       "description": "E. japonica est un arbre persistant de taille moyenne, pouvant atteindre 8 à 10 mètres de hauteur dans les conditions optimales des départements du Sud et de la Grand'Anse. Tiges et écorce. Le tronc présente une écorce lisse, gris-brun, qui se fissure légèrement avec l'âge. Les jeunes rameaux sont couverts d'un duvet rougeâtre caractéristique. Feuilles. Les feuilles sont remarquables : grandes (15-25 cm), coriaces, elliptiques-lancéolées, à nervation proéminente. Leur face supérieure est vert foncé et luisante, tandis que la face inférieure présente un duvet rougeâtre dense qui leur confère une texture veloutée distinctive. Fleurs. Les fleurs apparaissent en automne, regroupées en panicules terminales denses et parfumées. Chaque fleur présente cinq pétales blancs ou crème, de nombreuses étamines et dégage un parfum suave qui attire les abeilles et autres pollinisateurs. Fruit. Le fruit est une baie charnue ovoïde de 3-5 cm, jaune-orangé à maturité, contenant 1 à 5 graines brunes volumineuses. La chair est juteuse, sucrée-acidulée avec une saveur délicate rappelant un mélange d'abricot et de pomme. Les parties utilisées sont principalement les feuilles pour l'usage médicinal et les fruits pour l'alimentation.",
@@ -10773,7 +11207,9 @@ const plantesData = [
     "familleImage": "",
     "familleNum": "77",
     "toxBadgeColor": "yellow",
-    "toxBadgeText": "Données insuffisantes"
+    "toxBadgeText": "Conditionnel",
+    "usageType": "Alimentaire et Médicinale",
+    "maladieSummary": "Respiratoire"
   },
   {
     "id": 220,
@@ -10791,10 +11227,10 @@ const plantesData = [
       "ht": "Amandye ti fèy"
     },
     "systeme": {
-      "fr": "Selon les données ethnobotaniques, P. myrtifolia cible principalement le système digestif et présent"
+      "fr": "Digestif"
     },
-    "toxicite": "unknown",
-    "toxiciteLevel": "unknown",
+    "toxicite": null,
+    "toxiciteLevel": "safe",
     "sections": {
       "introduction": "Prunus myrtifolia (L.) (syn. Celastrus myrtifolius, Prunus sphaerocarpa) est un arbre native des Caraïbes et d'Amérique tropicale, documenté dans les Départements du Sud et de la Grand'Anse d'Haïti. Il appartient à la famille des Rosacées, une vaste famille principalement composée d'arbustes et d'arbres reconnue pour ses riches usages alimentaires, médicinaux, aromatiques et spirituels. Cette famille se distingue phytochimiquement par une signature dominée par l'amygdaline, la cellulose, la lignine et l'acide ursolique, ciblant préférentiellement les systèmes digestif, respiratoire et ORL. Une vigilance particulière s'impose avec cette famille car certaines espèces renferment des principes actifs très puissants dans leurs noyaux et graines, notamment des cyanogènes précurseurs de cyanure. Au sein de cette famille, P. myrtifolia fait partie du genre Prunus, qui rassemble de nombreuses espèces fruitières d'importance économique mondiale — cerisiers, pruniers, amandiers, pêchers — toutes caractérisées par leurs fruits à noyau et leur potentiel en composés antioxydants. L'usage documenté dans les Départements du Sud et de la Grand'Anse est principalement aromatique, l'écorce étant macérée pour parfumer les « comparèt » — boissons traditionnelles locales.",
       "description": "P. myrtifolia est un arbre de moyenne altitude, commun dans les deux départements étudiés, présentant une saveur astringente caractéristique. Tiges et écorce. Le tronc développe une écorce rugueuse, source de l'usage aromatique traditionnel. L'écorce contient des composés volatils qui se libèrent lors de la macération, conférant aux préparations leur parfum distinctif. Cette propriété aromatique résulte de la présence d'huiles essentielles dans les tissus corticaux. Feuilles. Les feuilles sont petites — d'où le nom créole « ti fèy » (petites feuilles) — persistantes, coriaces et de forme elliptique à obovale. Leur texture astringente révèle une teneur significative en tanins, molécules défensives caractéristiques du genre Prunus. Fleurs. Les fleurs sont typiques des Rosacées : petites, blanches, regroupées en grappes terminales, attirant divers insectes pollinisateurs. Elles possèdent cinq pétales et de nombreuses étamines, architecture florale caractéristique de cette famille. Fruits. Les fruits sont de petites baies sombres comestibles, riches en anthocyanes responsables de leur coloration pourpre-noirâtre. Ces pigments naturels confèrent aux fruits leurs propriétés antioxydantes documentées. Chaque fruit renferme un noyau dur contenant la graine. Les parties utilisées dans les pratiques locales sont l'écorce, les fruits et les feuilles.",
@@ -10820,8 +11256,10 @@ const plantesData = [
     "familleDescription": "",
     "familleImage": "",
     "familleNum": "77",
-    "toxBadgeColor": "yellow",
-    "toxBadgeText": "Données insuffisantes"
+    "toxBadgeColor": "green",
+    "toxBadgeText": "Non toxique",
+    "usageType": "Alimentaire",
+    "maladieSummary": "Digestif"
   },
   {
     "id": 221,
@@ -10840,10 +11278,10 @@ const plantesData = [
       "ht": "Amandye gwo fèy"
     },
     "systeme": {
-      "fr": "Prunus occidentalis cible principalement le système digestif par ses propriétés astringentes documen"
+      "fr": "Digestif"
     },
-    "toxicite": "caution",
-    "toxiciteLevel": "caution",
+    "toxicite": null,
+    "toxiciteLevel": "safe",
     "sections": {
       "introduction": "Prunus occidentalis Sw. (syn. Cerasus occidentalis) est un arbre natif des Caraïbes et d'Amérique tropicale, commun dans les Départements du Sud et de la Grand'Anse d'Haïti où il pousse à altitude moyenne. Il appartient à la famille des Rosacées, une grande famille principalement composée d'arbustes et d'arbres, reconnue pour ses riches usages alimentaires, médicinaux, aromatiques et spirituels. Cette famille se distingue phytochimiquement par sa signature dominée par l'amygdaline, les tanins, les flavonoïdes et l'acide ursolique, ciblant préférentiellement les systèmes digestif, respiratoire et ORL. Une vigilance particulière s'impose avec certains membres de cette famille qui renferment des principes actifs puissants dans leurs noyaux et graines — notamment l'amygdaline, précurseur de cyanure — exigeant une préparation adéquate et un dosage strict. Au sein de cette famille, Prunus occidentalis fait partie du genre Prunus, qui regroupe de nombreuses espèces fruitières et médicinales dont les cerisiers, pruniers et abricotiers. Son usage principal dans les départements étudiés est aromatique, l'écorce servant traditionnellement à parfumer les « comparèt », ces boissons festives haïtiennes.",
       "description": "P. occidentalis est un arbre de taille moyenne, bien adapté aux conditions climatiques des moyennes altitudes d'Haïti, où il forme parfois des peuplements denses dans les zones semi-humides du Sud et de la Grand'Anse. Tiges et écorce. Le tronc développe une écorce rugueuse et aromatique, particulièrement recherchée pour ses propriétés parfumantes. Cette écorce dégage une fragrance caractéristique lorsqu'elle est grattée ou macérée, propriété qui en fait l'ingrédient de choix pour aromatiser les préparations traditionnelles. Feuilles. Les feuilles sont simples, alternes, de grande taille — d'où le nom créole « gwo fèy » (grandes feuilles) — et présentent une texture coriace. Elles sont dentées sur les bords et présentent une nervation pennée bien marquée. Leur saveur est astringente, révélatrice de leur teneur en tanins. Fleurs. L'arbre produit des fleurs blanches à cinq pétales, typiques de la famille des Rosacées, regroupées en inflorescences axillaires ou terminales. Ces fleurs attirent divers pollinisateurs et annoncent la fructification. Fruits. Les fruits sont des drupes charnues, de petite taille, qui peuvent être consommées lorsqu'elles atteignent la maturité complète. Comme chez tous les Prunus, le noyau central contient une amande qui renferme de l'amygdaline. Les parties utilisées dans les pratiques locales sont principalement l'écorce pour ses propriétés aromatiques, les feuilles pour leurs propriétés astringentes, et occasionnellement les fruits mûrs.",
@@ -10869,8 +11307,10 @@ const plantesData = [
     "familleDescription": "",
     "familleImage": "",
     "familleNum": "77",
-    "toxBadgeColor": "yellow",
-    "toxBadgeText": "Précautions"
+    "toxBadgeColor": "green",
+    "toxBadgeText": "Non toxique",
+    "usageType": "Alimentaire et Médicinale",
+    "maladieSummary": "Digestif"
   },
   {
     "id": 222,
@@ -10891,10 +11331,10 @@ const plantesData = [
       "ht": "-"
     },
     "systeme": {
-      "fr": "Rubus selleanus agit préférentiellement sur le système digestif et la sphère ORL. Les feuilles sont "
+      "fr": "Digestif"
     },
-    "toxicite": "unknown",
-    "toxiciteLevel": "unknown",
+    "toxicite": null,
+    "toxiciteLevel": "safe",
     "sections": {
       "introduction": "Rubus selleanus Helwig est un arbuste grimpant endémique d'Hispaniola, appartenant à la famille des Rosacées. Au sein de cette famille, il fait partie du genre Rubus, qui comprend les ronces, mûres et framboises sauvages, caractérisées par leurs tiges épineuses et leurs fruits agrégés comestibles. Cette espèce montagnarde, confinée aux pinèdes du Massif de la Selle et du Baoruco, représente l'une des ronces les plus rares des Caraïbes. Dans les Départements du Sud et de la Grand'Anse, R. selleanus est principalement reconnu comme plante médicinale astringente, bien que souvent considéré comme une « mauvaise herbe » en raison de ses épines et de sa croissance envahissante. L'espèce constitue un exemple remarquable d'adaptation aux écosystèmes montagnards d'altitude d'Hispaniola.",
       "description": "R. selleanus est un arbuste semi-ligneux à port grimpant ou rampant, caractéristique des environnements montagnards humides des pinèdes d'Hispaniola. Tiges et épines. Les tiges sont arquées, flexibles, munies d'épines acérées disposées de manière irrégulière le long des rameaux. Ces épines constituent un mécanisme de défense mécanique permettant à la plante de s'accrocher aux supports et de dissuader les herbivores. L'écorce des tiges âgées devient brunâtre et rugueuse. Feuilles. Les feuilles sont composées, généralement trifoliolées, avec des folioles dentées aux bords. Le limbe est vert foncé sur la face supérieure et plus pâle au revers, souvent pubescent. Les feuilles persistent partiellement durant la saison sèche dans les conditions d'altitude. Fleurs et reproduction. Les fleurs, typiques du genre Rubus, sont blanches à rosées, groupées en corymbes terminaux. Chaque fleur présente cinq pétales et de nombreuses étamines, attirant les insectes pollinisateurs des montagnes. Fruits. Les fruits sont des polydrupe noires à maturité, composés de nombreuses petites drupes soudées, similaires aux mûres sauvages. Ils constituent la partie comestible de la plante. Les parties utilisées sont principalement les feuilles pour les préparations médicinales et les fruits pour la consommation directe.",
@@ -10920,8 +11360,10 @@ const plantesData = [
     "familleDescription": "",
     "familleImage": "",
     "familleNum": "77",
-    "toxBadgeColor": "yellow",
-    "toxBadgeText": "Données insuffisantes"
+    "toxBadgeColor": "green",
+    "toxBadgeText": "Non toxique",
+    "usageType": "Alimentaire et Médicinale",
+    "maladieSummary": "Digestif"
   },
   {
     "id": 223,
@@ -10941,7 +11383,7 @@ const plantesData = [
       "ht": "Kafe"
     },
     "systeme": {
-      "fr": "Les systèmes physiologiques principalement concernés par les effets de C. arabica sont les systèmes "
+      "fr": "Nerveux, Cardiovasculaire, Hépatique"
     },
     "toxicite": null,
     "toxiciteLevel": "safe",
@@ -10971,7 +11413,9 @@ const plantesData = [
     "familleImage": "",
     "familleNum": "78",
     "toxBadgeColor": "green",
-    "toxBadgeText": "Non toxique"
+    "toxBadgeText": "Non toxique",
+    "usageType": "Alimentaire et Médicinale",
+    "maladieSummary": "Nerveux, Cardiovasculaire, Hépatique"
   },
   {
     "id": 224,
@@ -10989,10 +11433,10 @@ const plantesData = [
       "ht": "Jenipa"
     },
     "systeme": {
-      "fr": "Les usages traditionnels de G. americana ciblent principalement le système digestif. L'usage local d"
+      "fr": "Digestif"
     },
-    "toxicite": "unknown",
-    "toxiciteLevel": "unknown",
+    "toxicite": null,
+    "toxiciteLevel": "safe",
     "sections": {
       "introduction": "Genipa americana L. (syn. Genipa oblongifolia) est un arbre natif des Caraïbes et d'Amérique tropicale, présent dans les Départements du Sud et de la Grand'Anse d'Haïti où il est devenu très rare. Il appartient à la famille des Rubiacées, une vaste famille tropicale comprenant plus de 13 000 espèces réparties en arbres, arbustes, lianes et herbes. Cette famille se distingue par sa remarquable diversité chimique, abritant des genres alimentaires majeurs comme Coffea (café), des genres médicinaux importants comme Cinchona (source de quinine), et des espèces ornementales comme Gardenia. Les Rubiacées se caractérisent phytochimiquement par leurs alcaloïdes spécialisés (caféine, quinine, iridoïdes), leurs flavonoïdes complexes, leurs tanins condensés et leurs anthraquinones, ciblant préférentiellement les systèmes tégumentaire, nerveux et cardiaque. Cette signature moléculaire confère à de nombreuses espèces des propriétés stimulantes, anti-inflammatoires et antimicrobiennes. Il convient de noter que certains genres — notamment Psychotria et Morinda — renferment des principes actifs puissants exigeant une préparation adéquate. Au sein de cette famille, Genipa americana fait partie du genre Genipa, un petit groupe d'arbres américains tropicaux reconnus pour leurs fruits comestibles et leur utilisation traditionnelle comme source de colorants naturels. Dans les Départements du Sud et de la Grand'Anse, le jenipa est valorisé pour ses fruits alimentaires et ses propriétés médicinales digestives.",
       "description": "G. americana est un arbre de taille moyenne pouvant atteindre 15 à 20 mètres de hauteur, caractéristique des zones de basse altitude des Départements du Sud et de la Grand'Anse. Tronc et écorce. Le tronc est droit, de diamètre modeste, recouvert d'une écorce lisse à rugueuse de couleur gris-brun. L'écorce contient des composés tanniques lui conférant des propriétés astringentes utilisées traditionnellement. Feuilles. Les feuilles sont opposées, simples, de grande taille (15 à 30 cm de longueur), oblongues à elliptiques, avec une nervation pennée bien marquée. Elles présentent une texture coriace et une couleur vert foncé brillant. Les stipules, caractéristiques de la famille des Rubiacées, sont triangulaires et caduques. Fleurs. Les fleurs sont hermaphrodites, tubulaires, de couleur blanc-jaunâtre, regroupées en inflorescences terminales. Elles dégagent un parfum sucré attirant les pollinisateurs nocturnes, principalement les chauves-souris et les sphinx. Fruit. Le fruit est une baie globuleuse de 8 à 12 cm de diamètre, à péricarpe dur et rugueux, contenant une pulpe blanchâtre à jaunâtre entourant de nombreuses graines plates. À maturité, le fruit dégage une odeur forte et caractéristique. La pulpe, de saveur amère mais rafraîchissante, constitue la base du jus traditionnel \"Jnip\". Les parties utilisées sont principalement les fruits pour l'alimentation, et les feuilles et racines à des fins médicinales.",
@@ -11018,8 +11462,10 @@ const plantesData = [
     "familleDescription": "",
     "familleImage": "",
     "familleNum": "78",
-    "toxBadgeColor": "yellow",
-    "toxBadgeText": "Données insuffisantes"
+    "toxBadgeColor": "green",
+    "toxBadgeText": "Non toxique",
+    "usageType": "Alimentaire et Médicinale",
+    "maladieSummary": "Digestif"
   },
   {
     "id": 225,
@@ -11038,10 +11484,10 @@ const plantesData = [
       "ht": "Koray"
     },
     "systeme": {
-      "fr": "H. patens cible préférentiellement le système tégumentaire, avec une efficacité documentée sur diver"
+      "fr": "Cutané, Endocrinien"
     },
-    "toxicite": "unknown",
-    "toxiciteLevel": "unknown",
+    "toxicite": null,
+    "toxiciteLevel": "safe",
     "sections": {
       "introduction": "Hamelia patens Jacq. (syn. Hamelia erecta) est un arbuste natif des régions tropicales d'Amérique, présent dans les Départements du Sud et de la Grand'Anse d'Haïti où il est connu sous le nom créole de « Koray ». Il appartient à la famille des Rubiacées, une vaste famille cosmopolite regroupant plus de 13 000 espèces comprenant des plantes économiquement importantes comme le caféier (Coffea arabica), le quinquina (Cinchona officinalis), et diverses espèces ornementales. Cette famille se caractérise par une richesse phytochimique remarquable dominée par des alcaloïdes (caféine, quinine, iridoïdes), des flavonoïdes, des tanins et des anthraquinones, ciblant préférentiellement les systèmes tégumentaire, nerveux et cardiaque. Cependant, cette diversité chimique impose une vigilance particulière car certaines espèces renferment des principes actifs très puissants nécessitant une préparation adéquate. Au sein de cette famille, Hamelia patens fait partie du genre Hamelia, un petit groupe d'arbustes tropicaux américains reconnus pour leurs propriétés anti-inflammatoires et cicatrisantes. Dans la pharmacopée traditionnelle haïtienne, H. patens occupe une place de choix comme remède polyvalent pour les affections cutanées et les soins corporels généraux.",
       "description": "H. patens est un arbuste de taille moyenne, généralement observé entre 1,5 et 3 mètres de hauteur dans les conditions écologiques des Départements du Sud et de la Grand'Anse, où il croît préférentiellement en basse altitude dans des milieux semi-ouverts. Tiges et rameaux. Les tiges sont dressées, ramifiées, de couleur brunâtre à rougeâtre, particulièrement marquée chez les jeunes rameaux. L'écorce mature présente une texture légèrement rugueuse et se détache par plaques fines. Feuilles. Les feuilles sont opposées ou verticillées par trois, simples, ovales à elliptiques, de 8 à 15 cm de longueur. Elles présentent une nervation pennée bien marquée et une texture légèrement coriace. La face supérieure est d'un vert foncé brillant, tandis que la face inférieure est plus claire. Au froissement, elles dégagent une odeur caractéristique et révèlent leur saveur astringente. Fleurs. L'inflorescence est une cyme terminale dense, portant de nombreuses petites fleurs tubulaires de couleur rouge-orangé vif, d'où le nom « Corail ». Ces fleurs, particulièrement attractives pour les colibris et les papillons, mesurent environ 2 cm de longueur et présentent cinq lobes étalés. Fruits. Les fruits sont de petites baies globuleuses, initialement vertes puis rouge foncé à maturité, contenant plusieurs petites graines. Ils sont également astringents et participent à la dispersion de l'espèce par les oiseaux frugivores. Les parties utilisées dans les pratiques traditionnelles haïtiennes sont principalement les feuilles, mais aussi les fleurs et les racines selon les applications.",
@@ -11067,8 +11513,10 @@ const plantesData = [
     "familleDescription": "",
     "familleImage": "",
     "familleNum": "78",
-    "toxBadgeColor": "yellow",
-    "toxBadgeText": "Données insuffisantes"
+    "toxBadgeColor": "green",
+    "toxBadgeText": "Non toxique",
+    "usageType": "Médicinale",
+    "maladieSummary": "Cutané, Endocrinien"
   },
   {
     "id": 226,
@@ -11087,10 +11535,10 @@ const plantesData = [
       "ht": "Doulè"
     },
     "systeme": {
-      "fr": "Selon la documentation ethnobotanique locale, M. citrifolia cible préférentiellement le système immu"
+      "fr": "Immunitaire"
     },
-    "toxicite": "unknown",
-    "toxiciteLevel": "unknown",
+    "toxicite": null,
+    "toxiciteLevel": "safe",
     "sections": {
       "introduction": "Morinda citrifolia L. (syn. Morinda macrophylla) est un arbuste exotique introduit, cultivé de façon rare dans les Départements du Sud et de la Grand'Anse. Il appartient à la famille des Rubiacées, une vaste famille tropicale regroupant plus de 13 000 espèces réparties entre lianes, arbustes, herbes et arbres, particulièrement abondante dans la flore du grand sud haïtien. Cette famille se distingue par ses riches usages alimentaires et médicinaux, avec des genres emblématiques comme Coffea (café), Cinchona (quinquina) et Psychotria. Sur le plan phytochimique, les Rubiacées développent une signature complexe dominée par des alcaloïdes puissants (caféine, quinine, iridoïdes), des flavonoïdes, des tanins, des anthraquinones et divers composés phénoliques, ciblant préférentiellement les systèmes tégumentaire, nerveux et cardiaque. Une vigilance particulière s'impose car certaines espèces de cette famille renferment des principes actifs très puissants ou potentiellement toxiques exigeant une préparation adéquate ou un dosage strict. Au sein de cette famille, M. citrifolia fait partie du genre Morinda, un groupe d'arbustes tropicaux réputés pour leurs propriétés tinctoriales et médicinales. L'espèce est utilisée en Haïti principalement comme immunomodulateur et fortifiant, le jus de ses fruits étant réputé « redonner des forces ».",
       "description": "M. citrifolia est un arbuste tropical de basse altitude, à croissance relativement rapide, pouvant atteindre 3 à 6 mètres de hauteur dans des conditions optimales. Tiges et racines. Les tiges sont dressées, ramifiées, avec une écorce lisse et grisâtre. Le système racinaire est pivotant et développé, permettant à la plante de résister aux périodes sèches fréquentes dans les zones de basse altitude du Sud et de la Grand'Anse. Feuilles. Les feuilles sont opposées, simples, grandes (10-30 cm de longueur), ovales à elliptiques, coriaces et persistantes. Elles présentent un limbe vert foncé brillant sur la face supérieure et plus pâle sur la face inférieure, avec des nervures bien marquées. Les feuilles jeunes sont parfois consommées comme légume dans les pratiques locales. Fleurs. Les fleurs sont petites, blanches, tubulaires et regroupées en têtes globuleuses denses. Elles dégagent un parfum sucré attirant les insectes pollinisateurs, principalement des mouches et des petits coléoptères. Fruit. Le fruit est l'organe le plus remarquable de la plante : il s'agit d'un syncarpe (fruit multiple) ovoïde de 5-10 cm de longueur, de couleur vert jaunâtre à maturité, présentant une surface bosselée caractéristique. Ce fruit dégage une odeur très forte, souvent décrite comme désagréable, mais constitue la partie principalement utilisée en médecine traditionnelle. Les parties utilisées sont les fruits (principalement), les feuilles et les racines.",
@@ -11116,8 +11564,10 @@ const plantesData = [
     "familleDescription": "",
     "familleImage": "",
     "familleNum": "78",
-    "toxBadgeColor": "yellow",
-    "toxBadgeText": "Données insuffisantes"
+    "toxBadgeColor": "green",
+    "toxBadgeText": "Non toxique",
+    "usageType": "Alimentaire et Médicinale",
+    "maladieSummary": "Immunitaire"
   },
   {
     "id": 227,
@@ -11137,10 +11587,10 @@ const plantesData = [
       "ht": "Safran"
     },
     "systeme": {
-      "fr": "M. royoc cible principalement le système reproducteur, particulièrement dans les problématiques d'én"
+      "fr": "Reproducteur"
     },
-    "toxicite": "unknown",
-    "toxiciteLevel": "unknown",
+    "toxicite": null,
+    "toxiciteLevel": "safe",
     "sections": {
       "introduction": "Morinda royoc L. (syn. Morinda yucatanensis) est une liane native documentée dans les Départements du Sud et de la Grand'Anse. Elle appartient à la famille des Rubiacées, une vaste famille tropicale regroupant lianes, arbustes, herbes et arbres, reconnue pour ses usages alimentaires et médicinaux remarquables. Cette famille se distingue par sa richesse phytochimique — alcaloïdes (caféine, quinine, iridoïdes), flavonoïdes, tanins, anthraquinones et composés phénoliques — ciblant préférentiellement les systèmes tégumentaire, nerveux et cardiaque. Au sein de cette famille, le genre Morinda regroupe des espèces à fruits comestibles et propriétés médicinales, dont le célèbre noni (Morinda citrifolia). Comme plusieurs membres des Rubiacées, certaines espèces renferment des principes actifs puissants nécessitant une préparation adéquate. Morinda royoc est principalement utilisée comme plante médicinale et tinctoriale dans les pratiques locales.",
       "description": "M. royoc est une liane robuste du littoral, commune dans son aire de distribution, présentant une saveur aromatique caractéristique. Tiges et port. La plante développe de longues tiges volubiles lui permettant de s'étendre sur la végétation environnante. Cette stratégie de croissance optimise sa captation lumineuse tout en économisant l'énergie nécessaire à la construction d'un tronc rigide. Feuilles. Les feuilles sont opposées, simples et persistantes, typiques de la famille des Rubiacées. Elles présentent une nervation pennée bien marquée et une texture coriace adaptée aux conditions littorales. Fleurs. Les fleurs sont petites, blanches à jaunâtres, regroupées en inflorescences terminales. Elles attirent divers insectes pollinisateurs grâce à leur parfum délicat. Fruits. Les fruits sont des drupes charnues, généralement orangés à maturité, disposés en grappes. Ces fruits parfois consommés localement constituent un attrait pour l'avifaune qui assure la dispersion des graines. Les parties utilisées selon les pratiques documentées dans le Sud et la Grand'Anse sont les feuilles, les fruits et les racines.",
@@ -11166,8 +11616,10 @@ const plantesData = [
     "familleDescription": "",
     "familleImage": "",
     "familleNum": "78",
-    "toxBadgeColor": "yellow",
-    "toxBadgeText": "Données insuffisantes"
+    "toxBadgeColor": "green",
+    "toxBadgeText": "Non toxique",
+    "usageType": "Médicinale",
+    "maladieSummary": "Reproducteur"
   },
   {
     "id": 228,
@@ -11185,10 +11637,10 @@ const plantesData = [
       "ht": "Koupe kolonn"
     },
     "systeme": {
-      "fr": "S. assurgens cible préférentiellement le système tégumentaire, conformément à son usage traditionnel"
+      "fr": "Cutané"
     },
-    "toxicite": "unknown",
-    "toxiciteLevel": "unknown",
+    "toxicite": null,
+    "toxiciteLevel": "safe",
     "sections": {
       "introduction": "Spermacoce assurgens (Ruiz & Pav.) Kuntze (syn. Borreria laevis, historiquement mal appliqué , Spermacoce laevis) est une herbe native commune des basses altitudes d'Haïti, documentée dans le Sud et la Grand'Anse. Elle appartient à la famille des Rubiacées, une vaste famille tropicale de plus de 13 000 espèces comprenant des plantes économiquement importantes comme le café (Coffea arabica) et la quinine (Cinchona species). Au sein de cette famille, elle fait partie du genre Spermacoce, un groupe d'herbes aux propriétés médicinales reconnues dans toute la zone néotropicale. Son usage principal dans les départements étudiés est thérapeutique, particulièrement pour soulager les douleurs corporelles et traiter les affections cutanées. Le nom créole « Koupe kolonn » évoque probablement son action sur les douleurs rachidiennes et articulaires, usage traditionnel répandu dans la Caraïbe.",
       "description": "S. assurgens est une herbe de basse altitude, caractérisée par sa saveur acide distinctive et sa nature commune dans les écosystèmes du Sud et de la Grand'Anse d'Haïti. Tiges et port. La plante développe des tiges dressées ou ascendantes, ramifiées, de texture herbacée. Les entre-nœuds sont bien marqués, caractéristique typique de la famille des Rubiacées. Feuilles. Les feuilles sont opposées, simples, à nervation pennée bien visible. Leur limbe présente une saveur acide marquée, probablement due à la présence d'acides organiques et de tanins. Les stipules, caractère distinctif des Rubiacées, sont présentes entre les feuilles opposées. Fleurs. Les fleurs sont petites, regroupées en inflorescences terminales ou axillaires. Elles présentent la corolle typiquement tubulaire des Rubiacées, généralement blanche ou rosée, attirant de petits insectes pollinisateurs. Fruits et graines. Les fruits sont des capsules sèches contenant de petites graines, assurant la dispersion de l'espèce dans son habitat naturel. Les parties utilisées dans les pratiques thérapeutiques locales sont principalement les feuilles et les racines.",
@@ -11214,8 +11666,10 @@ const plantesData = [
     "familleDescription": "",
     "familleImage": "",
     "familleNum": "78",
-    "toxBadgeColor": "yellow",
-    "toxBadgeText": "Données insuffisantes"
+    "toxBadgeColor": "green",
+    "toxBadgeText": "Non toxique",
+    "usageType": "Alimentaire et Médicinale",
+    "maladieSummary": "Cutané"
   },
   {
     "id": 229,
@@ -11238,10 +11692,10 @@ const plantesData = [
       "ht": "Ti pwason"
     },
     "systeme": {
-      "fr": "Les usages traditionnels d'A. apiculata ciblent principalement le système spirituel et énergétique d"
+      "fr": "Médicinal"
     },
-    "toxicite": "caution",
-    "toxiciteLevel": "caution",
+    "toxicite": null,
+    "toxiciteLevel": "safe",
     "sections": {
       "introduction": "Amyris apiculata (syn. Elemifera apiculata) est un petit arbre endémique strict d'Haïti — c'est-à-dire qu'il n'existe nulle part ailleurs sur Terre. Il appartient à la famille des Rutacées, la même grande famille tropicale que les agrumes, particulièrement riche en huiles essentielles, en coumarines et en flavonoïdes. Au sein de cette famille, il fait partie du genre Amyris, un groupe d'arbres aromatiques des Caraïbes dont le bois est réputé pour sa teneur en résines et en sesquiterpènes volatils. Son usage dans les Départements du Sud et de la Grand'Anse est principalement spirituel et thérapeutique par voie externe, à travers des bains rituels et des fumigations. En raison de sa rareté extrême et de son aire de distribution ultra-restreinte limitée au Massif de la Hotte dans la Grand'Anse, la conservation de cette espèce constitue une priorité écologique absolue.",
       "description": "A. apiculata est un petit arbre de basse altitude, caractérisé par sa saveur amère et légèrement acide, témoignant de la richesse en composés bioactifs de ses tissus. Cette espèce rare se développe dans les formations sèches du Massif de la Hotte, où elle s'adapte aux conditions d'aridité relative de cette région particulière de la Grand'Anse. Tiges et bois. Le bois constitue l'organe le plus remarquable de la plante : particulièrement aromatique, il sécrète spontanément une résine parfumée dès qu'il subit une blessure mécanique — propriété défensive caractéristique du genre Amyris et à l'origine de l'intérêt traditionnel pour cette espèce. L'écorce présente un aspect rugueux et une coloration brunâtre, protégeant les couches internes productrices de résine. Feuilles. Les feuilles sont composées, persistantes et de texture coriace, adaptation typique aux conditions sèches de son habitat. Lorsqu'on les froisse entre les doigts, elles dégagent une fragrance caractéristique révélant leur teneur en huiles essentielles — signe distinctif de la famille des Rutacées. Leur saveur amère à légèrement acide reflète la présence de composés de défense contre l'herbivorie. Reproduction. A. apiculata se reproduit exclusivement par graines. Les modalités précises de sa germination, de sa croissance et de ses exigences écologiques demeurent insuffisamment documentées scientifiquement, constituant une lacune majeure pour les efforts urgents de multiplication ex situ et de réintroduction.",
@@ -11267,8 +11721,10 @@ const plantesData = [
     "familleDescription": "Les Rutacées constituent une famille tropicale et subtropicale de près de 2000 espèces réparties en 160 genres, dominée par les arbustes et arbres aromatiques. Cette famille remarquable rassemble des genres à vocation alimentaire majeure comme Citrus (agrumes : oranges, citrons, pamplemousses), Fortunella (kumquats) et Clausena, largement cultivés en Haïti pour leurs fruits riches en vitamine C. Les genres médicinaux incluent Ruta (rue officinale), Zanthoxylum (clavalier) et Amyris, reconnus pour leurs propriétés anti-inflammatoires et antimicrobiennes. Sur le plan phytochimique, les Rutacées se distinguent par leur richesse en huiles essentielles à dominante terpénique (limonène, linalol), en coumarines, en flavonoïdes (hespéridine, naringénine) et en alcaloïdes quinoléiques, ciblant préférentiellement les systèmes digestif, nerveux et immunitaire. Une vigilance particulière s'impose avec certains genres comme Ruta et les espèces riches en furanocoumarines photosensibilisantes, pouvant provoquer des dermatites sévères lors d'exposition solaire.",
     "familleImage": "",
     "familleNum": "79",
-    "toxBadgeColor": "yellow",
-    "toxBadgeText": "Précautions"
+    "toxBadgeColor": "green",
+    "toxBadgeText": "Non toxique",
+    "usageType": "Médicinale",
+    "maladieSummary": ""
   },
   {
     "id": 230,
@@ -11287,10 +11743,10 @@ const plantesData = [
       "ht": "Bwa chandèl"
     },
     "systeme": {
-      "fr": "Les effets biologiques documentés d'Amyris balsamifera ciblent principalement le système nerveux, av"
+      "fr": "Nerveux, Cutané"
     },
-    "toxicite": "caution",
-    "toxiciteLevel": "caution",
+    "toxicite": null,
+    "toxiciteLevel": "safe",
     "sections": {
       "introduction": "Amyris balsamifera L. (syn. Toxicodendron balsamiferum) est un arbre natif des Caraïbes et d'Amérique tropicale, présent dans les Départements du Sud et de la Grand'Anse d'Haïti où il est devenu très rare. Il appartient à la famille des Rutacées, une grande famille tropicale et subtropicale reconnue pour ses riches usages alimentaires — notamment les agrumes comme Citrus aurantium (orange amère) et Citrus limon (citron) — et ses propriétés médicinales et aromatiques exceptionnelles. Cette famille se distingue par sa richesse en vitamine C, en huiles essentielles d'agrumes et en coumarines, ciblant préférentiellement les systèmes immunitaire, nerveux et digestif. Au sein de cette famille, Amyris balsamifera fait partie du genre Amyris, groupe d'arbres aromatiques des Caraïbes réputés pour leur bois gras riche en résines sesquiterpéniques. Son usage principal dans les deux départements est aromatique et spirituel, à travers des bains rituels et la parfumerie traditionnelle, bien que son extrême rareté limite désormais son exploitation.",
       "description": "A. balsamifera est un arbre de basse altitude, au port élancé, particulièrement remarquable par son bois aromatique et sa capacité à sécréter des résines parfumées. Dans le contexte spécifique du Sud et de la Grand'Anse, l'espèce colonise les zones semi-arides et les formations sèches littorales, s'adaptant aux sols calcaires et aux conditions de sécheresse saisonnière caractéristiques de ces régions. Tronc et écorce. Le tronc est de taille modeste mais remarquable par son bois particulièrement dense et gras, imprégné de résines aromatiques. L'écorce, rugueuse et grisâtre, constitue l'une des parties utilisées traditionnellement et dégage une fragrance caractéristique lorsqu'elle est blessée ou grattée. Feuilles. Les feuilles sont composées, persistantes et coriaces, adaptées aux conditions xérophytiques des zones où pousse l'arbre dans les deux départements. Elles présentent une texture légèrement charnue et dégagent, lorsqu'on les froisse, une odeur balsamique intense — signature olfactive de la famille des Rutacées. Leur saveur est franchement amère, témoignant de leur richesse en métabolites secondaires défensifs. Fleurs et reproduction. L'espèce produit de petites fleurs blanchâtres groupées en panicules terminales. La reproduction s'effectue par graines, bien que les modalités précises de germination dans les conditions locales restent peu documentées, ce qui constitue un défi pour les efforts de multiplication ex situ. Les parties utilisées sont principalement les feuilles, l'écorce et, surtout, l'huile essentielle extraite du bois.",
@@ -11316,8 +11772,10 @@ const plantesData = [
     "familleDescription": "",
     "familleImage": "",
     "familleNum": "79",
-    "toxBadgeColor": "yellow",
-    "toxBadgeText": "Précautions"
+    "toxBadgeColor": "green",
+    "toxBadgeText": "Non toxique",
+    "usageType": "Médicinale",
+    "maladieSummary": "Nerveux, Cutané"
   },
   {
     "id": 231,
@@ -11335,10 +11793,10 @@ const plantesData = [
       "ht": "Sitwon"
     },
     "systeme": {
-      "fr": "Les usages traditionnels de C. aurantiifolia ciblent préférentiellement le système immunitaire, avec"
+      "fr": "Respiratoire, Immunitaire, Hépatique"
     },
-    "toxicite": "caution",
-    "toxiciteLevel": "caution",
+    "toxicite": null,
+    "toxiciteLevel": "safe",
     "sections": {
       "introduction": "Citrus aurantiifolia (syn. Citrus medica var. acida) est un petit arbre fruitier exotique, cultivé dans les Départements du Sud et de la Grand'Anse. Il appartient à la famille des Rutacées, une vaste famille tropicale et subtropicale qui rassemble principalement des arbustes et des arbres aux usages multiples. Cette famille se distingue par ses riches applications alimentaires, médicinales, aromatiques et spirituelles, particulièrement reconnue pour sa richesse en vitamine C, en coumarines et en huiles essentielles d'agrumes. Au sein de cette famille, le genre Citrus regroupe les agrumes cultivés — orangers (Citrus sinensis), citronniers (Citrus limon), mandariniers (Citrus reticulata) — tous caractérisés par leurs fruits riches en acide citrique et en vitamine C. Citrus aurantiifolia occupe une place particulière dans les pratiques locales haïtiennes : son jus acide, appelé « Sitron », constitue à la fois un condiment alimentaire essentiel et un remède traditionnel contre la grippe, illustrant parfaitement la polyvalence thérapeutique de cette famille botanique.",
       "description": "C. aurantiifolia est un petit arbre épineux, généralement de 3 à 5 mètres de hauteur, bien adapté au climat tropical des basses altitudes du Sud et de la Grand'Anse d'Haïti. Tronc et branches. Le tronc est relativement mince, avec une écorce lisse et grisâtre. Les jeunes branches portent des épines acérées, caractéristique défensive commune aux agrumes sauvages. Feuilles. Les feuilles sont persistantes, alternes, ovales à elliptiques, d'un vert brillant sur la face supérieure et plus pâle en dessous. Elles dégagent une odeur citronnée caractéristique lorsqu'on les froisse, due à la présence de glandes sécrétrices d'huiles essentielles dans le limbe. Fleurs. Les fleurs sont petites, blanches, parfumées, regroupées en grappes axillaires. Elles possèdent cinq pétales charnus et de nombreuses étamines, attirant principalement les abeilles et autres insectes pollinisateurs. Fruits. Le fruit est une baie modifiée (hespéride) de forme globuleuse à légèrement ovale, de 3 à 6 cm de diamètre. La peau fine est d'abord verte puis devient jaune-vert à maturité. La pulpe est divisée en segments juteux, très acide et pauvre en graines. Le zeste contient de nombreuses glandes à huiles essentielles responsables de l'arôme caractéristique. Les parties utilisées sont principalement les fruits (pulpe et jus), les feuilles et le zeste.",
@@ -11364,8 +11822,10 @@ const plantesData = [
     "familleDescription": "",
     "familleImage": "",
     "familleNum": "79",
-    "toxBadgeColor": "yellow",
-    "toxBadgeText": "Précautions"
+    "toxBadgeColor": "green",
+    "toxBadgeText": "Non toxique",
+    "usageType": "Alimentaire et Médicinale",
+    "maladieSummary": "Respiratoire, Immunitaire, Hépatique"
   },
   {
     "id": 232,
@@ -11383,10 +11843,10 @@ const plantesData = [
       "ht": "Zoranj si"
     },
     "systeme": {
-      "fr": "Les recherches scientifiques sur C. aurantium se concentrent principalement sur ses effets sur les s"
+      "fr": "Digestif, Nerveux, Cardiovasculaire"
     },
-    "toxicite": "caution",
-    "toxiciteLevel": "caution",
+    "toxicite": null,
+    "toxiciteLevel": "safe",
     "sections": {
       "introduction": "Citrus aurantium L. (syn. Citrus vulgaris) est un arbre fruitier exotique cultivé dans les Départements du Sud et de la Grand'Anse d'Haïti. Il appartient à la famille des Rutacées, une famille remarquable par sa richesse en agrumes et ses multiples usages alimentaires, médicinaux et aromatiques. Au sein de cette famille, il fait partie du genre Citrus, qui regroupe les principaux fruits tropicaux cultivés mondialement — orangers, citronniers, mandariniers, pamplemoussiers — tous caractérisés par leurs huiles essentielles riches en monoterpènes et leur forte teneur en vitamine C. L'orange amère se distingue des autres agrumes par son goût particulièrement acide et amer, qui en fait un ingrédient de choix pour les marinades et les préparations thérapeutiques traditionnelles. Dans les Départements du Sud et de la Grand'Anse, elle est principalement utilisée pour nettoyer la viande avant cuisson et comme remède contre la grippe, témoignant d'une double vocation alimentaire et médicinale profondément ancrée dans les pratiques locales.",
       "description": "C. aurantium est un arbre de taille moyenne, typique des agrumes, adapté aux altitudes moyennes des régions tropicales. Tronc et écorce. Le tronc développe une écorce grisâtre et rugueuse avec l'âge. Les jeunes branches présentent souvent des épines axillaires caractéristiques du genre Citrus, servant de protection contre les herbivores. Feuilles. Les feuilles sont persistantes, coriaces, de forme ovale à elliptique avec un apex pointu. Elles présentent un pétiole ailé distinctif — caractère taxonomique important pour l'identification de l'espèce. Lorsqu'on les froisse, elles dégagent une fragrance caractéristique due aux poches sécrétrices d'huiles essentielles présentes dans le limbe. Fleurs. Les fleurs blanches, très parfumées, apparaissent en petits groupes. Elles sont hermaphrodites, avec cinq pétales épais et de nombreuses étamines. Ces fleurs, connues sous le nom de « fleur d'oranger » ou « néroli », constituent une source précieuse d'huile essentielle utilisée en parfumerie et en aromathérapie. Fruits. Les fruits sont des hespérides — type de baie spécifique aux agrumes — de forme sphérique légèrement aplatie, à écorce rugueuse et épaisse de couleur orange vif à maturité. La pulpe est divisée en quartiers juteux mais particulièrement acides et amers, d'où le nom vernaculaire d'orange amère. Les parties utilisées sont les fruits (pulpe et zeste), les fleurs et les feuilles.",
@@ -11412,8 +11872,10 @@ const plantesData = [
     "familleDescription": "",
     "familleImage": "",
     "familleNum": "79",
-    "toxBadgeColor": "yellow",
-    "toxBadgeText": "Précautions"
+    "toxBadgeColor": "green",
+    "toxBadgeText": "Non toxique",
+    "usageType": "Alimentaire et Médicinale",
+    "maladieSummary": "Digestif, Nerveux, Cardiovasculaire"
   },
   {
     "id": 233,
@@ -11433,10 +11895,10 @@ const plantesData = [
       "ht": "Bègamot"
     },
     "systeme": {
-      "fr": "Les recherches scientifiques sur C. bergamia se concentrent principalement sur le système nerveux et"
+      "fr": "Nerveux"
     },
-    "toxicite": "toxic",
-    "toxiciteLevel": "toxic",
+    "toxicite": null,
+    "toxiciteLevel": "safe",
     "sections": {
       "introduction": "Citrus bergamia Risso (syn. Citrus aurantium subsp. bergamia) est un arbre fruitier exotique, très rare dans les Départements du Sud et de la Grand'Anse. Il appartient à la famille des Rutacées, une vaste famille tropicale d'arbres et d'arbustes reconnue pour ses extraordinaires propriétés alimentaires, médicinales et aromatiques. Cette famille se distingue par ses genres d'agrumes — Citrus, Fortunella, Poncirus — qui constituent des piliers de l'alimentation mondiale, ses genres médicinaux tropicaux comme Ruta aux propriétés emménagogues puissantes, et ses nombreuses espèces aromatiques exploitées en parfumerie. Sur le plan phytochimique, les Rutacées présentent une signature dominée par la vitamine C, les flavonoïdes spécialisés (hespéridine, naringénine), les huiles essentielles monoterpéniques (limonène, linalol) et les coumarines, ciblant préférentiellement les systèmes immunitaire, nerveux et digestif. Une vigilance particulière s'impose avec certains genres de cette famille : les furanocoumarines présentes notamment chez Ruta graveolens et dans les zestes d'agrumes peuvent provoquer des photosensibilisations sévères lors d'expositions solaires. Au sein du genre Citrus, C. bergamia se distingue par sa composition unique en coumarines photosensibilisantes et son usage principalement aromatique plutôt qu'alimentaire. Il est documenté dans le Sud et la Grand'Anse pour ses usages aromatiques, notamment dans la parfumerie des boissons et des bouillies traditionnelles.",
       "description": "C. bergamia est un petit arbre sempervirent de 3 à 5 mètres de hauteur, adapté aux altitudes moyennes des Départements du Sud et de la Grand'Anse. Tiges et écorce. Le tronc présente une écorce lisse et grisâtre. Les jeunes rameaux sont verts et souvent épineux, caractéristique commune aux Citrus sauvages ou semi-domestiqués. Feuilles. Les feuilles sont simples, alternes, coriaces et persistantes. Elles mesurent 6 à 10 cm de longueur, présentent une forme ovale-elliptique avec un pétiole légèrement ailé. Lorsqu'on les froisse, elles libèrent une fragrance caractéristique due aux glandes sécrétrices d'huiles essentielles dispersées dans le limbe. Fleurs. Les fleurs sont blanches, parfumées, à cinq pétales, portées en petites grappes axillaires. Elles apparaissent principalement en saison sèche et attirent les abeilles et autres pollinisateurs par leur nectar abondant. Fruit. Le fruit est une hespéride de forme sphérique à légèrement piriforme, d'un diamètre de 6 à 8 cm. La particularité remarquable de la bergamote réside dans son zeste : d'un jaune verdâtre caractéristique, très rugueux et particulièrement riche en glandes oléifères qui concentrent les huiles essentielles aromatiques. La pulpe est acide et amère, rarement consommée fraîche. Les parties utilisées sont principalement l'écorce (zeste) pour l'extraction d'huiles essentielles, ainsi que les feuilles et les fleurs à des fins aromatiques.",
@@ -11462,8 +11924,10 @@ const plantesData = [
     "familleDescription": "",
     "familleImage": "",
     "familleNum": "79",
-    "toxBadgeColor": "red",
-    "toxBadgeText": "Toxique"
+    "toxBadgeColor": "green",
+    "toxBadgeText": "Non toxique",
+    "usageType": "Alimentaire et Médicinale",
+    "maladieSummary": "Nerveux"
   },
   {
     "id": 234,
@@ -11483,10 +11947,10 @@ const plantesData = [
       "ht": "Chadèk"
     },
     "systeme": {
-      "fr": "Les usages médicinaux de C. maxima ciblent principalement les systèmes cardiovasculaire, digestif et"
+      "fr": "Digestif, Respiratoire, Cardiovasculaire"
     },
-    "toxicite": "caution",
-    "toxiciteLevel": "caution",
+    "toxicite": null,
+    "toxiciteLevel": "safe",
     "sections": {
       "introduction": "Citrus maxima (Burm.) (syn. Citrus grandis, Aurantium maximum) est un arbre fruitier exotique largement cultivé dans les Départements du Sud et de la Grand'Anse, où il est connu sous le nom créole de « Chadèk ». Il appartient à la famille des Rutacées, une famille d'arbres et d'arbustes tropicaux particulièrement remarquable par ses usages alimentaires, médicinaux et aromatiques. Au sein de cette famille, il fait partie du genre Citrus, le groupe emblématique des agrumes qui comprend les oranges (Citrus sinensis), citrons (Citrus limon), bergamote (Citrus bergamia) et pamplemousse rose (Citrus paradisi) — tous cultivés en Haïti et reconnus pour leur richesse en vitamine C, flavonoïdes et huiles essentielles volatiles. Citrus maxima est principalement utilisé comme fruit alimentaire, mais trouve également des applications médicinales traditionnelles, notamment pour les affections respiratoires et digestives.",
       "description": "C. maxima est le plus grand des agrumes cultivés, formant un arbre de taille moyenne à grande, particulièrement adapté aux conditions de basse altitude des départements du Sud et de la Grand'Anse. Tronc et branches. Le tronc est droit, recouvert d'une écorce grisâtre et lisse. Les jeunes rameaux sont souvent épineux, caractéristique commune aux Citrus sauvages, bien que les variétés cultivées tendent à présenter moins d'épines. Feuilles. Les feuilles sont persistantes, coriaces, ovales à elliptiques, de grande taille (10-20 cm de long). Elles sont portées par un pétiole ailé caractéristique du genre Citrus. Lorsqu'on les froisse, elles libèrent une odeur citronnée due aux glandes sécrétrices d'huiles essentielles. Fleurs. Les fleurs sont blanches, parfumées, regroupées en grappes axillaires. Elles possèdent cinq pétales charnus et de nombreuses étamines, attirant abeilles et autres insectes pollinisateurs. Fruit. Le fruit est le plus volumineux des agrumes, pouvant atteindre 15-25 cm de diamètre. L'écorce (zeste) est épaisse, de couleur jaune à vert pâle à maturité. La pulpe est divisée en segments, de couleur blanc rosé à rouge selon les variétés, avec une saveur douce et fade caractéristique, moins acide que les autres agrumes. Les parties utilisées sont le fruit (pulpe), le zeste (écorce) et les feuilles.",
@@ -11512,8 +11976,10 @@ const plantesData = [
     "familleDescription": "",
     "familleImage": "",
     "familleNum": "79",
-    "toxBadgeColor": "yellow",
-    "toxBadgeText": "Précautions"
+    "toxBadgeColor": "green",
+    "toxBadgeText": "Non toxique",
+    "usageType": "Alimentaire et Médicinale",
+    "maladieSummary": "Digestif, Respiratoire, Cardiovasculaire"
   },
   {
     "id": 235,
@@ -11531,10 +11997,10 @@ const plantesData = [
       "ht": "Zoranj dous"
     },
     "systeme": {
-      "fr": "C. sinensis cible principalement le système immunitaire, documenté dans le Sud et la Grand'Anse cont"
+      "fr": "Digestif, Immunitaire"
     },
-    "toxicite": "caution",
-    "toxiciteLevel": "caution",
+    "toxicite": null,
+    "toxiciteLevel": "safe",
     "sections": {
       "introduction": "Citrus sinensis (L.) (syn. Citrus aurantium var. sinensis) est un arbre fruitier exotique cultivé dans les Départements du Sud et de la Grand'Anse. Il appartient à la famille des Rutacées, une famille riche en usages alimentaires, médicinaux et aromatiques, particulièrement reconnue pour sa teneur en vitamine C, ses huiles essentielles d'agrumes et ses coumarines. Au sein de cette famille, il fait partie du genre Citrus, qui regroupe les principales espèces d'agrumes cultivées mondialement, toutes caractérisées par leurs fruits riches en vitamine C et leurs huiles essentielles aromatiques. Citrus sinensis est principalement utilisé comme aliment nutritif et remède contre la grippe dans les deux départements, où il constitue une source importante de vitamine C dans l'alimentation locale.",
       "description": "C. sinensis est un arbre de taille moyenne, pouvant atteindre 8 à 12 mètres de hauteur dans de bonnes conditions de culture. Tiges et écorce. Le tronc présente une écorce lisse à légèrement rugueuse, de couleur gris-brun. Les jeunes rameaux sont souvent épineux et dégagent une odeur aromatique caractéristique lorsqu'on les froisse. Feuilles. Les feuilles sont persistantes, coriaces, de forme ovale à elliptique, avec un pétiole ailé distinctif. Elles sont vert foncé brillant sur la face supérieure et plus pâles en dessous. Parsemées de glandes à huiles essentielles, elles dégagent un parfum citronné au froissement. Fleurs. Les fleurs sont blanches, très parfumées, groupées en petites grappes. Elles possèdent cinq pétales épais et de nombreuses étamines. La floraison attire intensément les abeilles et autres pollinisateurs. Fruit. Le fruit, l'orange douce, est une baie particulière appelée hespéride. Il présente une écorce épaisse et rugueuse de couleur orange vif à maturité, renfermant une pulpe juteuse divisée en quartiers. Dans le contexte haïtien, les fruits produits localement sont souvent plus petits que les variétés commerciales importées mais présentent généralement une saveur plus concentrée. Les parties utilisées sont principalement les fruits pour leur pulpe et leur jus, le zeste pour ses huiles essentielles, et occasionnellement les feuilles.",
@@ -11560,8 +12026,10 @@ const plantesData = [
     "familleDescription": "",
     "familleImage": "",
     "familleNum": "79",
-    "toxBadgeColor": "yellow",
-    "toxBadgeText": "Précautions"
+    "toxBadgeColor": "green",
+    "toxBadgeText": "Non toxique",
+    "usageType": "Alimentaire et Médicinale",
+    "maladieSummary": "Digestif, Immunitaire"
   },
   {
     "id": 236,
@@ -11580,10 +12048,10 @@ const plantesData = [
       "ht": "Zoranje"
     },
     "systeme": {
-      "fr": "Selon l'usage documenté localement, G. parviflora cible principalement les systèmes cardiovasculaire"
+      "fr": "Digestif, Cardiovasculaire, Musculosquelettique"
     },
-    "toxicite": "unknown",
-    "toxiciteLevel": "unknown",
+    "toxicite": null,
+    "toxiciteLevel": "caution",
     "sections": {
       "introduction": "Glycosmis parviflora (Sw.) DC. (syn. Limonia parviflora) est un arbuste exotique pantropical, commune dans les Départements du Sud et de la Grand'Anse d'Haïti où elle a été introduite. Elle appartient à la famille des Rutacées, une vaste famille tropicale reconnue pour ses riches usages alimentaires, médicinaux, aromatiques et spirituels. Cette famille regroupe notamment les agrumes célèbres — orangers (Citrus sinensis), citronniers (Citrus limon), pamplemoussiers (Citrus maxima) — ainsi que des espèces aromatiques comme le combava et médicinales comme la rue officinale. Les Rutacées se caractérisent par leur richesse en vitamine C, en huiles essentielles d'agrumes dominées par le limonène, en flavonoïdes (hespéridine, naringénine) et en coumarines. Ces composés ciblent préférentiellement les systèmes immunitaire, nerveux et digestif. Toutefois, certaines espèces de cette famille renferment des furanocoumarines photosensibilisantes, exigeant des précautions d'usage. Au sein de cette famille, Glycosmis parviflora fait partie du genre Glycosmis, un groupe d'arbustes asiatiques aux petits fruits parfumés, utilisés tant en médecine traditionnelle qu'occasionnellement en alimentation. L'usage de G. parviflora dans les deux départements est principalement médicinal, valorisant ses propriétés antimicrobiennes, digestives et hypotensives documentées dans la tradition asiatique.",
       "description": "G. parviflora est un arbuste de basse altitude, atteignant généralement 2 à 4 mètres de hauteur dans les conditions locales du Sud et de la Grand'Anse. Tiges et racines. Les tiges sont ligneuses, à écorce lisse de couleur gris-brun. Le système racinaire est pivotant, avec des racines secondaires bien développées qui ancrent solidement la plante dans les sols variés de la région. Feuilles. Les feuilles sont simples, alternes, coriaces et persistantes. De forme elliptique à oblongue, elles mesurent 5 à 12 cm de longueur. Leur surface est lisse et brillante, de couleur vert foncé, avec une nervation pennée bien marquée. Lorsqu'on les froisse, elles dégagent une odeur caractéristique légèrement citronnée, signature de la famille des Rutacées. Fleurs. Les inflorescences sont des panicules terminales ou axillaires, portant de nombreuses petites fleurs blanches à crème, parfumées. Chaque fleur présente 4 à 5 pétales libres, des étamines saillantes et un ovaire supère. La floraison attire divers insectes pollinisateurs locaux. Fruits. Les fruits sont de petites baies globuleuses, de 6 à 8 mm de diamètre, passant du vert au rouge orangé puis au noir à maturité. La pulpe est juteuse, légèrement sucrée avec une saveur particulière décrite comme grasse une fois cuite. Ces fruits contiennent 1 à 2 graines. Les parties utilisées dans les pratiques locales sont les feuilles, les fruits et les racines.",
@@ -11610,7 +12078,9 @@ const plantesData = [
     "familleImage": "",
     "familleNum": "79",
     "toxBadgeColor": "yellow",
-    "toxBadgeText": "Données insuffisantes"
+    "toxBadgeText": "Conditionnel",
+    "usageType": "Alimentaire et Médicinale",
+    "maladieSummary": "Digestif, Cardiovasculaire, Musculosquelettique"
   },
   {
     "id": 237,
@@ -11629,10 +12099,10 @@ const plantesData = [
       "ht": "Kasèk"
     },
     "systeme": {
-      "fr": "Samyda dodecandra cible préférentiellement le système respiratoire, selon les observations ethnobota"
+      "fr": "Digestif, Urinaire, Respiratoire"
     },
-    "toxicite": "unknown",
-    "toxiciteLevel": "unknown",
+    "toxicite": null,
+    "toxiciteLevel": "safe",
     "sections": {
       "introduction": "Samyda dodecandra Jacq. (syn. Samyda serrulata) est un arbuste natif documenté dans les Départements du Sud et de la Grand'Anse d'Haïti. Il appartient à la famille des Salicacées, une famille d'arbres et d'arbustes reconnue mondialement pour ses propriétés médicinales, notamment grâce à la salicine des saules qui a donné naissance à l'aspirine. Au sein de cette famille, Samyda dodecandra fait partie du genre Samyda, un groupe d'arbustes tropicaux américains aux usages thérapeutiques traditionnels. Dans les deux départements, cette plante est principalement utilisée en médecine populaire pour ses propriétés diurétiques, anti-inflammatoires et respiratoires, particulièrement dans le traitement de la grippe par infusion des feuilles.",
       "description": "S. dodecandra est un arbuste de terrain calcaire, commun dans les formations végétales des Départements du Sud et de la Grand'Anse. Tiges et écorce. L'arbuste développe des tiges ligneuses ramifiées recouvertes d'une écorce rugueuse de couleur brunâtre. Cette écorce, riche en composés actifs, constitue l'une des parties thérapeutiques privilégiées de la plante. Feuilles. Les feuilles sont simples, alternes, de forme elliptique à ovale, avec des bords finement dentés (serrulés). Leur surface présente une texture légèrement coriace et leur saveur est nettement astringente, caractéristique révélatrice de leur richesse en tanins. Cette astringence joue un rôle défensif contre les herbivores. Fleurs. La plante produit de petites fleurs regroupées en grappes axillaires. Ces fleurs, de couleur blanchâtre à verdâtre, attirent les insectes pollinisateurs locaux et assurent la reproduction sexuée de l'espèce. Fruits. Les fruits sont de petites capsules contenant des graines qui permettent la dissémination naturelle de l'espèce dans les formations calcaires des deux départements. Les parties utilisées sont principalement les feuilles et l'écorce, toutes deux riches en métabolites secondaires bioactifs.",
@@ -11658,8 +12128,10 @@ const plantesData = [
     "familleDescription": "Avec près de 1 200 espèces réparties en une cinquantaine de genres, les Salicacées constituent une famille d'arbres et d'arbustes largement distribuée dans les régions tempérées et tropicales du globe. Cette famille est mondialement reconnue pour avoir donné naissance à l'aspirine moderne, grâce aux propriétés de la salicine extraite des saules (Salix). Dans les Caraïbes, plusieurs genres présentent un intérêt médicinal notable, notamment Casearia pour ses usages anti-inflammatoires, Xylosma pour ses propriétés digestives, et Samyda pour son action diurétique et respiratoire. Sur le plan phytochimique, les Salicacées se distinguent par une signature dominée par la salicine et ses dérivés, des flavonoïdes anti-inflammatoires, des tanins astringents aux propriétés cicatrisantes, et des lignanes. Ces composés ciblent préférentiellement les systèmes respiratoire, urinaire et circulatoire. La famille présente globalement une toxicité faible aux doses médicinales, bien qu'une prudence soit recommandée chez les personnes sensibles aux salicylés, en raison des risques d'irritation gastrique et de déséquilibres électrolytiques à forte dose.",
     "familleImage": "",
     "familleNum": "80",
-    "toxBadgeColor": "yellow",
-    "toxBadgeText": "Données insuffisantes"
+    "toxBadgeColor": "green",
+    "toxBadgeText": "Non toxique",
+    "usageType": "Médicinale",
+    "maladieSummary": "Digestif, Urinaire, Respiratoire"
   },
   {
     "id": 238,
@@ -11681,10 +12153,10 @@ const plantesData = [
       "ht": "Twa pawòl"
     },
     "systeme": {
-      "fr": "A. racemosus cible principalement les systèmes digestif et urinaire, avec des applications dans le d"
+      "fr": "Digestif, Urinaire"
     },
-    "toxicite": "unknown",
-    "toxiciteLevel": "unknown",
+    "toxicite": null,
+    "toxiciteLevel": "safe",
     "sections": {
       "introduction": "Allophylus racemosus Sw. (syn. Schmidelia racemosa) est un arbuste natif commun des Départements du Sud et de la Grand'Anse d'Haïti. Il appartient à la famille des Sapindacées, une grande famille tropicale reconnue pour ses usages alimentaires, médicinaux et utilitaires. Au sein de cette famille, il fait partie du genre Allophylus, qui regroupe environ 200 espèces d'arbustes et petits arbres largement distribués dans les régions tropicales. Le nom créole « Twa pawòl » évoque peut-être les trois folioles caractéristiques de ses feuilles composées. Dans le contexte haïtien, A. racemosus occupe une place importante dans la pharmacopée traditionnelle locale, où il est principalement utilisé pour ses propriétés digestives, anti-inflammatoires et spirituelles.",
       "description": "A. racemosus est un arbuste de basse altitude, à saveur douce et légèrement acide, particulièrement adapté aux conditions climatiques des départements du Sud et de la Grand'Anse d'Haïti. Tiges et port. L'arbuste présente un port buissonnant à semi-dressé, avec des tiges ligneuses ramifiées dès la base. L'écorce est lisse à légèrement rugueuse, de couleur gris-brun. Les jeunes rameaux sont souvent pubescents. Feuilles. Les feuilles sont composées trifoliolées, caractéristique du genre Allophylus. Chaque foliole est ovale à elliptique, avec des marges dentées. Le limbe présente une texture coriace et une nervation pennée bien visible. Les feuilles sont alternes et portées par un pétiole relativement court. Fleurs. Les inflorescences sont des grappes axillaires ou terminales composées de nombreuses petites fleurs unisexuées. Les fleurs, de couleur blanchâtre à verdâtre, sont peu voyantes mais produisent un nectar attractif pour les insectes pollinisateurs locaux. Fruit. Le fruit est une petite capsule globuleuse ou légèrement comprimée, contenant généralement une à deux graines. À maturité, le fruit présente une couleur rouge à pourpre et une saveur douce à légèrement acide, expliquant son usage alimentaire occasionnel. Les parties utilisées dans les pratiques traditionnelles haïtiennes sont les feuilles, les fruits et les racines.",
@@ -11710,8 +12182,10 @@ const plantesData = [
     "familleDescription": "Dominantes dans les régions tropicales et subtropicales, les Sapindacées rassemblent environ 1 900 espèces réparties en 140 genres, principalement des arbres et arbustes. Cette famille tropicale présente une remarquable diversité d'usages : alimentaire avec les fruits sucrés du kenèp (Melicoccus bijugatus) et l'aki nutritif (Blighia sapida), médicinale avec les propriétés digestives et respiratoires de nombreuses espèces, et utilitaire avec les saponines du savonnier (Sapindus saponaria) traditionnellement utilisées comme détergent naturel. Sur le plan phytochimique, les Sapindacées se caractérisent par une signature dominée par les saponines triterpéniques — à l'origine de leurs propriétés moussantes —, les flavonoïdes, les tanins et les acides aminés non protéiques. Ces composés ciblent préférentiellement les systèmes digestif, respiratoire et hépatique. Une vigilance particulière s'impose cependant : le genre Blighia contient de l'hypoglycine A et B dans les fruits non mûrs, provoquant des intoxications mortelles, tandis que les fruits de Sapindus sont toxiques par voie orale.",
     "familleImage": "",
     "familleNum": "81",
-    "toxBadgeColor": "yellow",
-    "toxBadgeText": "Données insuffisantes"
+    "toxBadgeColor": "green",
+    "toxBadgeText": "Non toxique",
+    "usageType": "Médicinale",
+    "maladieSummary": "Digestif, Urinaire"
   },
   {
     "id": 239,
@@ -11731,10 +12205,10 @@ const plantesData = [
       "ht": "Aki"
     },
     "systeme": {
-      "fr": "Sur le plan nutritionnel, les arilles bien préparés fournissent des acides gras essentiels, des prot"
+      "fr": "Hépatique"
     },
     "toxicite": "toxic",
-    "toxiciteLevel": "toxic",
+    "toxiciteLevel": "danger",
     "sections": {
       "introduction": "Blighia sapida K.D. Koenig (syn. Cupania sapida) est un arbre exotique cultivé dans les Départements du Sud et de la Grand'Anse d'Haïti. Il appartient à la famille des Sapindacées, une famille tropicale d'environ 1 400 espèces dominée par des arbres et arbustes à haute valeur nutritionnelle et médicinale. Cette famille comprend des genres alimentaires majeurs comme Nephelium (ramboutan), Litchi (litchi), Dimocarpus (longane) et Blighia (ackée), ainsi que des espèces médicinales comme Paullinia (guarana). Sur le plan phytochimique, les Sapindacées se distinguent par leurs saponines triterpéniques (sapindosides), leurs flavonoïdes et leurs acides gras complexes, ciblant préférentiellement les systèmes digestif, hépatique et respiratoire. Une vigilance absolue s'impose avec cette famille : Blighia sapida présente une toxicité mortelle lorsque les fruits ne sont pas parfaitement mûrs, tandis que les fruits de Sapindus sont toxiques par voie orale. L'ackée occupe une place unique en tant qu'aliment de base en Jamaïque tout en étant l'une des plantes les plus dangereuses au monde si mal préparée.",
       "description": "B. sapida est un arbre de taille moyenne pouvant atteindre 10 à 15 mètres de hauteur, largement cultivé dans les jardins créoles des deux départements pour ses qualités nutritionnelles exceptionnelles. Tronc et écorce. Le tronc est droit, recouvert d'une écorce lisse et grisâtre qui se fissure légèrement avec l'âge. Le bois est dur et résistant. Feuilles. Les feuilles sont composées paripennées, alternées, comportant 6 à 10 folioles oblongues-elliptiques de 8 à 12 cm de longueur. Les folioles présentent une texture coriace, une couleur vert foncé brillant sur la face supérieure et plus claire en dessous. Le pétiole commun mesure 15 à 20 cm. Fleurs. Les inflorescences sont des grappes terminales de 15 à 25 cm portant de nombreuses petites fleurs blanches à crème, légèrement parfumées. Les fleurs sont unisexuées (plante polygame), avec des fleurs mâles et hermaphrodites sur le même arbre. Fruit. Le fruit constitue l'organe d'intérêt majeur : il s'agit d'une capsule coriace de 6 à 10 cm, initialement verte puis rouge vif à maturité. À maturité complète, la capsule s'ouvre spontanément en 2-3 valves, révélant 2-3 arilles charnues jaune doré entourant des graines noires brillantes. Seuls ces arilles, une fois le fruit ouvert naturellement, sont comestibles. Les parties utilisées sont exclusivement les arilles mûres des fruits ouverts spontanément, après élimination complète des graines.",
@@ -11761,7 +12235,9 @@ const plantesData = [
     "familleImage": "",
     "familleNum": "81",
     "toxBadgeColor": "red",
-    "toxBadgeText": "Toxique"
+    "toxBadgeText": "Toxique",
+    "usageType": "Alimentaire et Médicinale",
+    "maladieSummary": "Hépatique"
   },
   {
     "id": 240,
@@ -11781,10 +12257,10 @@ const plantesData = [
       "ht": "Santanyen"
     },
     "systeme": {
-      "fr": "Les usages médicinaux traditionnels de C. americana documentés dans le Sud et la Grand'Anse ciblent "
+      "fr": "Digestif"
     },
-    "toxicite": "toxic",
-    "toxiciteLevel": "toxic",
+    "toxicite": null,
+    "toxiciteLevel": "safe",
     "sections": {
       "introduction": "Cupania americana L. (syn. Cupania tomentosa) est un arbre natif commun des Départements du Sud et de la Grand'Anse d'Haïti, où il occupe les zones d'altitude moyenne. Il appartient à la famille des Sapindacées, une famille tropicale essentiellement arborescente reconnue pour sa remarquable diversité d'usages alimentaires, médicinaux et techniques. Cette famille se distingue par sa richesse en saponines, compounds responsables de propriétés moussantes et détergentes naturelles, ainsi qu'en flavonoïdes et tanins aux vertus astringentes. Cependant, elle renferme également des espèces dangereuses comme Blighia sapida (aki), dont les fruits immatures contiennent de l'hypoglycine mortelle, exigeant une vigilance particulière dans l'identification. Au sein de cette famille, Cupania americana fait partie du genre Cupania, qui regroupe une trentaine d'espèces d'arbres tropicaux américains caractérisés par leurs propriétés astringentes et leur bois de qualité. Dans les Départements du Sud et de la Grand'Anse, le santanyen est documenté principalement pour ses usages médicinaux traditionnels et comme bois de construction, constituant une ressource forestière appréciée localement.",
       "description": "C. americana est un arbre de taille moyenne adapté aux altitudes moyennes des Départements du Sud et de la Grand'Anse, caractérisé par sa saveur douce et gluante — propriétés qui reflètent sa composition riche en mucilages et en composés polysaccharidiques. Tronc et écorce. Le tronc développe un diamètre appréciable et produit un bois dense recherché localement pour la construction. L'écorce est rugueuse, de couleur brunâtre, et présente des propriétés astringentes marquées dues à sa teneur élevée en tanins. Feuilles. Les feuilles sont composées, alternes et persistantes. Elles présentent une texture légèrement coriace et dégagent une saveur caractéristique douce à gluante lorsqu'elles sont mâchées, indiquant la présence de mucilages et de polysaccharides hydrosolubles. Fleurs. La floraison produit de petites fleurs regroupées en grappes terminales, attirant divers insectes pollinisateurs typiques des écosystèmes forestiers haïtiens. Fruits. Les fruits sont des capsules déhiscentes contenant des graines, contribuant à la dispersion naturelle de l'espèce dans les forêts des deux départements. Les parties utilisées dans les pratiques traditionnelles locales sont principalement les feuilles et les racines.",
@@ -11810,8 +12286,10 @@ const plantesData = [
     "familleDescription": "",
     "familleImage": "",
     "familleNum": "81",
-    "toxBadgeColor": "red",
-    "toxBadgeText": "Toxique"
+    "toxBadgeColor": "green",
+    "toxBadgeText": "Non toxique",
+    "usageType": "Médicinale",
+    "maladieSummary": "Digestif"
   },
   {
     "id": 241,
@@ -11830,10 +12308,10 @@ const plantesData = [
       "ht": "Kenèp"
     },
     "systeme": {
-      "fr": "M. bijugatus cible principalement le système nutritionnel, avec une indication documentée localement"
+      "fr": "Digestif, Cardiovasculaire"
     },
-    "toxicite": "unknown",
-    "toxiciteLevel": "unknown",
+    "toxicite": null,
+    "toxiciteLevel": "safe",
     "sections": {
       "introduction": "Melicoccus bijugatus (syn. Melicocca bijuga) est un arbre fruitier exotique largement cultivé et naturalisé dans les Départements du Sud et de la Grand'Anse d'Haïti. Il appartient à la famille des Sapindacées, une famille essentiellement composée d'arbustes et d'arbres à valeur inestimable, se distinguant par de riches usages alimentaires, médicinaux et spirituels. Cette famille présente une signature phytochimique dominée par les tanins, phénols, saponines et cellulose, ciblant préférentiellement les systèmes respiratoire, hépatique et digestif. Certaines espèces de cette famille — notamment Blighia sapida dont les fruits non mûrs contiennent de l'hypoglycine A mortelle — exigent une vigilance particulière quant aux stades de maturité et aux parties utilisées. Au sein de cette famille, le genre Melicoccus regroupe des arbres fruitiers tropicaux appréciés pour leurs drupes sucrées et leurs propriétés nutritionnelles. M. bijugatus, communément appelé « kenèp » en créole haïtien, constitue un fruit alimentaire de choix et une ressource mellifère de qualité dans les deux départements.",
       "description": "M. bijugatus est un arbre de taille moyenne à grande, pouvant atteindre 15 à 25 mètres de hauteur dans les conditions optimales des zones sèches haïtiennes. Tronc et écorce. Le tronc est droit, cylindrique, avec une écorce lisse à légèrement rugueuse de couleur gris-brun. L'écorce se détache parfois en plaques irrégulières chez les spécimens âgés. Feuilles. Les feuilles sont composées, alternes, à quatre folioles disposées en croix (bijuguées — d'où le nom d'espèce « bijugatus »). Les folioles sont ovales à elliptiques, coriaces, d'un vert brillant sur la face supérieure et plus pâle en dessous, avec des nervures bien marquées. Fleurs. Les fleurs sont petites, verdâtres à blanchâtres, regroupées en grappes terminales denses. Elles sont polygames — certains arbres portant des fleurs mâles, d'autres des fleurs femelles, d'autres encore des fleurs hermaphrodites. La floraison a lieu principalement en saison sèche dans le contexte haïtien. Fruits. Les fruits sont des drupes ovales de 2 à 4 cm de longueur, à péricarpe vert coriace et lisse. La chair translucide, gélatineuse et sucrée, entoure une grosse graine dure et brillante. Les fruits mûrissent en grappes pendantes et constituent la partie principalement consommée. Les parties utilisées sont les fruits (chair), les feuilles et les racines selon les usages traditionnels documentés.",
@@ -11859,8 +12337,10 @@ const plantesData = [
     "familleDescription": "",
     "familleImage": "",
     "familleNum": "81",
-    "toxBadgeColor": "yellow",
-    "toxBadgeText": "Données insuffisantes"
+    "toxBadgeColor": "green",
+    "toxBadgeText": "Non toxique",
+    "usageType": "Alimentaire et Médicinale",
+    "maladieSummary": "Digestif, Cardiovasculaire"
   },
   {
     "id": 242,
@@ -11878,10 +12358,10 @@ const plantesData = [
       "ht": "Savonèt"
     },
     "systeme": {
-      "fr": "S. saponaria cible préférentiellement le système cutané selon les usages documentés dans le Sud et l"
+      "fr": "Cutané"
     },
-    "toxicite": "toxic",
-    "toxiciteLevel": "toxic",
+    "toxicite": null,
+    "toxiciteLevel": "caution",
     "sections": {
       "introduction": "Sapindus saponaria L. (syn. Sapindus inaequalis) est un arbre natif rare des Départements du Sud et de la Grand'Anse, où il est connu sous le nom de « Savonèt ». Il appartient à la famille des Sapindacées, une famille botanique d'une valeur inestimable essentiellement représentée par des arbustes et des arbres. Cette famille se distingue par ses riches usages alimentaires — notamment avec l'aki (Blighia sapida) et le kenèp — médicinaux et spirituels, ainsi que par des propriétés détergentes remarquables. Sur le plan phytochimique, les Sapindacées expriment une signature dominée par la présence de saponines (sapindosides), de flavonoïdes, de tanins et de phénols, ciblant préférentiellement les systèmes respiratoire, hépatique et digestif. Il convient cependant de noter une vigilance particulière concernant certains membres de cette famille : Blighia sapida présente des fruits mortels lorsqu'ils ne sont pas parfaitement mûrs en raison de l'hypoglycine A et B, tandis que les fruits de Sapindus sont toxiques par voie orale. Au sein de cette famille, S. saponaria fait partie du genre Sapindus, reconnu mondialement pour ses propriétés détergentes naturelles exceptionnelles grâce à sa forte concentration en saponines triterpéniques. L'usage principal de cette espèce dans les deux départements est celui de détergent naturel et de remède topique pour les soins de la peau et des cheveux.",
       "description": "S. saponaria est un arbre de basse altitude, de saveur très douce, adapté au climat tropical des Départements du Sud et de la Grand'Anse. Tronc et écorce. L'arbre développe un tronc robuste à l'écorce rugueuse et grisâtre, qui contient également des saponines et est traditionnellement utilisée à des fins médicinales. Le bois est résistant et parfois exploité localement pour la construction. Feuilles. Les feuilles sont composées, pennées, portées par des pétioles robustes. Les folioles sont oblongues à lancéolées, à bords entiers, présentant une surface lisse et coriace. Elles contiennent des saponines et sont utilisées en friction pour leurs propriétés antimicrobiennes. Fleurs. Les fleurs sont petites, blanches à verdâtres, disposées en panicules terminales denses. Bien que discrètes, elles attirent divers pollinisateurs et sont essentielles à la formation des fruits. Fruits. Le fruit est une drupe sphérique, initialement verte puis brunâtre à maturité. Le péricarpe charnu contient la plus forte concentration de saponines de la plante, lui conférant ses propriétés détergentes exceptionnelles. À l'intérieur se trouve une graine sphérique, dure et noire, traditionnellement utilisée pour les jeux par les enfants haïtiens. Les parties utilisées sont principalement les péricarpes des fruits, les feuilles et l'écorce.",
@@ -11907,8 +12387,10 @@ const plantesData = [
     "familleDescription": "",
     "familleImage": "",
     "familleNum": "81",
-    "toxBadgeColor": "red",
-    "toxBadgeText": "Toxique"
+    "toxBadgeColor": "yellow",
+    "toxBadgeText": "Conditionnel",
+    "usageType": "Médicinale",
+    "maladieSummary": "Cutané"
   },
   {
     "id": 243,
@@ -11929,10 +12411,10 @@ const plantesData = [
       "ht": "Kayimit"
     },
     "systeme": {
-      "fr": "Le kayimit cible préférentiellement le système endocrinien, particulièrement dans la régulation glyc"
+      "fr": "Digestif, Endocrinien"
     },
-    "toxicite": "unknown",
-    "toxiciteLevel": "unknown",
+    "toxicite": null,
+    "toxiciteLevel": "safe",
     "sections": {
       "introduction": "Chrysophyllum cainito L. (syn. Chrysophyllum bicolor) est un arbre fruitier exotique largement cultivé dans les Départements du Sud et de la Grand'Anse d'Haïti. Il appartient à la famille des Sapotacées, une famille tropicale d'arbres et d'arbustes reconnue pour ses fruits nutritifs et ses usages thérapeutiques traditionnels. Au sein de cette famille, il fait partie du genre Chrysophyllum, qui regroupe environ 200 espèces d'arbres fruitiers tropicaux caractérisés par leurs feuilles au revers doré ou argenté et leurs fruits à pulpe laiteuse. Le kayimit est principalement valorisé pour son usage alimentaire — ses fruits sucrés et rafraîchissants — mais également pour ses propriétés médicinales documentées, particulièrement dans la gestion traditionnelle du diabète et des troubles digestifs.",
       "description": "C. cainito est un arbre de taille moyenne à grande, pouvant atteindre 15 à 20 mètres de hauteur dans les conditions optimales des basses altitudes haïtiennes. Tronc et écorce. Le tronc est droit, cylindrique, avec une écorce gris-brun à brun foncé, rugueuse et fissurée longitudinalement. L'écorce sécrète un latex blanc caractéristique lorsqu'elle est incisée — propriété défensive typique de la famille des Sapotacées. Feuilles. Les feuilles sont alternes, simples, coriaces et persistantes. Elles présentent une forme elliptique à oblongue, mesurant 8 à 15 cm de longueur. La face supérieure est vert foncé et brillante, tandis que la face inférieure est caractéristiquement dorée à cuivrée, d'où le nom du genre Chrysophyllum (du grec chrysos = or et phyllon = feuille). Cette coloration dorsale distinctive facilite l'identification de l'espèce. Fleurs. Les fleurs sont petites, blanches à jaunâtres, regroupées en fascicules axillaires. Elles sont hermaphrodites et présentent une corolle à 5 lobes, typique de la famille. Fruits. Le fruit est une baie globuleuse de 5 à 10 cm de diamètre, à peau lisse et brillante, variant du violet foncé au pourpre à maturité. La pulpe est blanche, translucide, très sucrée et de consistance gélatineuse. Elle contient 4 à 10 graines brunes, plates et luisantes, disposées en étoile au centre du fruit. Les parties utilisées sont principalement les fruits frais, les feuilles et l'écorce.",
@@ -11958,8 +12440,10 @@ const plantesData = [
     "familleDescription": "Avec ses 800 espèces réparties en 65 genres, les Sapotacées constituent une famille tropicale d'arbres et d'arbustes largement valorisée pour ses fruits nutritifs et ses propriétés thérapeutiques. Cette famille prospère particulièrement dans les régions chaudes d'Amérique, d'Afrique et d'Asie, où elle occupe des niches écologiques diverses allant des forêts humides aux zones semi-arides. Les genres à vocation alimentaire incluent Chrysophyllum (caïmite, kayimit), Manilkara (sapotillier), Pouteria (mamey) et Madhuca, tous produisant des fruits riches en sucres, fibres et vitamines. Sur le plan médicinal, les genres Chrysophyllum, Sideroxylon et Mimusops sont particulièrement reconnus pour leurs propriétés antidiabétiques et anti-inflammatoires. La signature phytochimique de cette famille est dominée par les saponines triterpéniques, les tanins condensés, les flavonoïdes et un latex riche en polyterpènes — notamment la gutta-percha chez certaines espèces. Ces composés ciblent préférentiellement les systèmes endocrinien et digestif. Bien que généralement non toxique, certaines espèces nécessitent une vigilance quant au dosage de leurs principes actifs concentrés.",
     "familleImage": "",
     "familleNum": "82",
-    "toxBadgeColor": "yellow",
-    "toxBadgeText": "Données insuffisantes"
+    "toxBadgeColor": "green",
+    "toxBadgeText": "Non toxique",
+    "usageType": "Alimentaire et Médicinale",
+    "maladieSummary": "Digestif, Endocrinien"
   },
   {
     "id": 244,
@@ -11977,10 +12461,10 @@ const plantesData = [
       "ht": "Ti kayimit"
     },
     "systeme": {
-      "fr": "Les usages documentés de C. oliviforme ciblent principalement le système nutritionnel et digestif. L"
+      "fr": "Digestif"
     },
-    "toxicite": "unknown",
-    "toxiciteLevel": "unknown",
+    "toxicite": null,
+    "toxiciteLevel": "safe",
     "sections": {
       "introduction": "Chrysophyllum oliviforme L. (syn. Chrysophyllum monopyrenum) est un arbuste natif des Caraïbes et d'Amérique tropicale, documenté dans les Départements du Sud et de la Grand'Anse. Il appartient à la famille des Sapotacées, une famille tropicale d'arbres et d'arbustes réputée pour ses fruits comestibles et ses usages médicinaux traditionnels. Cette famille se caractérise par la production de latex et une richesse en saponines, tanins et flavonoïdes, ciblant préférentiellement les systèmes endocrinien et digestif. Au sein de cette famille, le genre Chrysophyllum regroupe des espèces productrices de fruits charnus, dont plusieurs sont cultivées pour leurs qualités nutritionnelles comme la caïmite (Chrysophyllum cainito) et l'abiu (Chrysophyllum cainito var. jamaicense). Chrysophyllum oliviforme est une plante à double vocation : ses fruits constituent un aliment traditionnel apprécié dans la région, tandis que ses feuilles sont utilisées en médecine populaire pour leurs propriétés digestives et anti-inflammatoires.",
       "description": "C. oliviforme est un arbuste de basse altitude, commun dans les deux départements étudiés, pouvant atteindre 3 à 5 mètres de hauteur. Tiges et écorce. Le tronc est généralement droit avec une écorce lisse à légèrement rugueuse, de couleur gris-brun. Comme chez d'autres Sapotacées, l'écorce sécrète un latex blanc laiteux lorsqu'elle est entaillée, substance caractéristique de la famille. Feuilles. Les feuilles sont simples, alternes, coriaces et persistantes. Elles présentent une forme elliptique à oblongue avec un apex obtus à légèrement pointu. La face supérieure est vert foncé et luisante, tandis que la face inférieure montre souvent une teinte plus pâle avec une nervation bien marquée. Fleurs. Les fleurs sont petites, verdâtres à jaunâtres, regroupées en fascicules axillaires. Elles sont généralement bisexuées avec un calice à 5 sépales et une corolle tubulaire à 5 lobes. Fruit. Le fruit est une baie charnue, ovoïde à subglobuleuse, de 2 à 4 cm de diamètre. À maturité, il prend une couleur variant du jaune-orange au pourpre foncé. La pulpe est juteuse, de saveur douce et légèrement sucrée, entourant généralement une à deux graines brunes. Les parties utilisées sont les fruits pour l'alimentation et les feuilles pour les préparations médicinales.",
@@ -12006,8 +12490,10 @@ const plantesData = [
     "familleDescription": "",
     "familleImage": "",
     "familleNum": "82",
-    "toxBadgeColor": "yellow",
-    "toxBadgeText": "Données insuffisantes"
+    "toxBadgeColor": "green",
+    "toxBadgeText": "Non toxique",
+    "usageType": "Alimentaire et Médicinale",
+    "maladieSummary": "Digestif"
   },
   {
     "id": 245,
@@ -12028,10 +12514,10 @@ const plantesData = [
       "ht": "Sapoti"
     },
     "systeme": {
-      "fr": "Les usages traditionnels de M. zapota ciblent principalement le système digestif et le métabolisme g"
+      "fr": "Digestif, Sanguin"
     },
-    "toxicite": "unknown",
-    "toxiciteLevel": "unknown",
+    "toxicite": null,
+    "toxiciteLevel": "safe",
     "sections": {
       "introduction": "Manilkara zapota (L.) (syn. Achras zapota L.) est un arbre fruitier exotique de taille moyenne, introduit et cultivé dans les Départements du Sud et de la Grand'Anse où il demeure très rare. Il appartient à la famille des Sapotacées, reconnue pour ses arbres et arbustes tropicaux aux fruits souvent comestibles et nutritifs. Au sein de cette famille, il fait partie du genre Manilkara, qui rassemble des espèces productrices de latex et de fruits sucrés particulièrement appréciés. Son usage principal dans les deux départements est alimentaire — le fruit mûr étant consommé cru — mais les feuilles, l'écorce et les graines sont également valorisées en médecine traditionnelle pour leurs propriétés antidiabétiques et antidiarrhéiques.",
       "description": "M. zapota est un arbre de taille moyenne pouvant atteindre 15 à 20 mètres de hauteur, à croissance lente et longévité remarquable, adapté aux zones de basse altitude des Départements du Sud et de la Grand'Anse. Tronc et écorce. Le tronc est droit, pouvant atteindre 50 cm de diamètre, recouvert d'une écorce gris-brun rugueuse et fissurée. Comme chez toutes les Sapotacées, l'écorce sécrète un latex blanc collant lorsqu'elle est blessée — caractéristique défensive de la famille. Feuilles. Les feuilles sont simples, alternes, coriaces et persistantes, de forme elliptique à oblongue, mesurant 8 à 15 cm de longueur. Elles présentent une nervation pennée bien marquée et une surface supérieure vert foncé brillante. Leur texture coriace et leur saveur astringente témoignent de leur richesse en tanins. Fleurs. Les fleurs sont petites, blanc-verdâtre, solitaires ou groupées par 2-3 à l'aisselle des feuilles. Elles sont hermaphrodites et possèdent 6 sépales, 6 pétales et de nombreuses étamines. Fruit. Le fruit, appelé localement « sapoti », est une baie ovoïde à sphérique de 4 à 8 cm de diamètre, recouverte d'une peau rugueuse brun-roux. La chair est brun clair, très sucrée, parfumée et de texture granuleuse rappelant la poire. Elle renferme 1 à 6 graines noires brillantes, dures et aplaties. Les parties utilisées sont les fruits (consommation alimentaire), les feuilles, l'écorce et les graines (usage médicinal traditionnel).",
@@ -12057,8 +12543,10 @@ const plantesData = [
     "familleDescription": "",
     "familleImage": "",
     "familleNum": "82",
-    "toxBadgeColor": "yellow",
-    "toxBadgeText": "Données insuffisantes"
+    "toxBadgeColor": "green",
+    "toxBadgeText": "Non toxique",
+    "usageType": "Alimentaire",
+    "maladieSummary": "Digestif, Sanguin"
   },
   {
     "id": 246,
@@ -12076,10 +12564,10 @@ const plantesData = [
       "ht": "Jòndèf"
     },
     "systeme": {
-      "fr": "P. dominigensis cible principalement le système nutritionnel selon la tradition haïtienne, avec une "
+      "fr": "Médicinal"
     },
-    "toxicite": "unknown",
-    "toxiciteLevel": "unknown",
+    "toxicite": null,
+    "toxiciteLevel": "safe",
     "sections": {
       "introduction": "Pouteria dominigensis (syn. Lucuma dominigensis) est un arbre fruitier natif documenté dans les Départements du Sud et de la Grand'Anse, où il porte le nom évocateur de « Jòndèf » en référence à la couleur jaune orangée caractéristique de sa pulpe. Il appartient à la famille des Sapotacées, une famille tropicale d'arbres et arbustes reconnue pour ses fruits charnus souvent comestibles et ses usages médicinaux traditionnels. Cette famille se distingue par sa richesse en saponines, tanins, flavonoïdes et latex particulier, ciblant préférentiellement les systèmes digestif et endocrinien. Au sein de cette famille, le genre Pouteria regroupe de nombreuses espèces fruitières tropicales — dont le sapoti (Pouteria sapota) et plusieurs autres espèces endémiques des Caraïbes — caractérisées par leurs fruits à pulpe sucrée et leurs propriétés nutritionnelles remarquables. Pouteria dominigensis présente un double intérêt alimentaire et médicinal, ses fruits étant consommés frais tandis que ses feuilles et racines sont employées en médecine traditionnelle haïtienne pour leurs propriétés digestives et anti-inflammatoires.",
       "description": "P. dominigensis est un arbre de taille moyenne, typique des altitudes moyennes des Départements du Sud et de la Grand'Anse, présentant une saveur astringente caractéristique et un statut de conservation très préoccupant. Tronc et écorce. Le tronc est droit et robuste, recouvert d'une écorce brunâtre qui peut sécréter un latex blanchâtre lorsqu'elle est incisée — caractéristique commune aux Sapotacées et liée à la présence de canaux laticifères dans les tissus. Feuilles. Les feuilles sont alternes, simples, coriaces et persistantes, de forme elliptique à oblongue. Leur surface supérieure est vert foncé et brillante, tandis que la face inférieure est plus claire et parfois légèrement pubescente. Ces feuilles dégagent une saveur astringente marquée lorsqu'on les mâche, signature des tanins qu'elles renferment. Fleurs. Les fleurs sont petites, généralement bisexuées, de couleur blanchâtre à jaunâtre, regroupées en fascicules axillaires. Elles présentent la structure florale caractéristique des Sapotacées avec un calice persistant et une corolle à lobes soudés. Fruits. Le fruit est une baie charnue, de forme ovoïde à ellipsoïde, qui justifie pleinement son nom créole de « Jòndèf ». Sa pulpe présente une couleur jaune orangée intense évoquant effectivement un jaune d'œuf, due à sa richesse en caroténoïdes. La chair est sucrée mais également astringente, particulièrement chez les fruits non parfaitement mûrs. Les parties utilisées sont les fruits pour l'alimentation, et les feuilles et racines pour les usages médicinaux.",
@@ -12105,8 +12593,10 @@ const plantesData = [
     "familleDescription": "",
     "familleImage": "",
     "familleNum": "82",
-    "toxBadgeColor": "yellow",
-    "toxBadgeText": "Données insuffisantes"
+    "toxBadgeColor": "green",
+    "toxBadgeText": "Non toxique",
+    "usageType": "Alimentaire et Médicinale",
+    "maladieSummary": ""
   },
   {
     "id": 247,
@@ -12124,10 +12614,10 @@ const plantesData = [
       "ht": "Jòndèf"
     },
     "systeme": {
-      "fr": "Les systèmes physiologiques principalement concernés par les usages traditionnels de P. hotteana son"
+      "fr": "Digestif, Urinaire"
     },
-    "toxicite": "unknown",
-    "toxiciteLevel": "unknown",
+    "toxicite": null,
+    "toxiciteLevel": "safe",
     "sections": {
       "introduction": "Pouteria hotteana (syn. Lucuma hotteana) est un arbre endémique strict d'Haïti, localisé exclusivement dans le Massif de la Hotte en Grand'Anse. Il appartient à la famille des Sapotacées, une famille pantropicale d'arbres et arbustes reconnue pour ses fruits comestibles nutritifs et ses usages médicinaux diversifiés. Cette famille regroupe des genres économiquement importants comme Manilkara (sapotillier), Vitellaria (karité africain) et Chrysophyllum (caïmitier), tous valorisés pour leurs fruits sucrés et leurs propriétés thérapeutiques. Les Sapotacées se caractérisent par leur signature phytochimique dominée par les saponines triterpéniques, les tanins condensés, les flavonoïdes et un latex riche en gutta-percha chez certaines espèces. Ces composés ciblent préférentiellement les systèmes digestif et endocrinien, conférant des propriétés antioxydantes, anti-inflammatoires et régulatrices du métabolisme. Bien que généralement non toxiques, certaines espèces nécessitent une préparation adéquate en raison de la concentration de leurs principes actifs. En Haïti, cette famille compte plusieurs espèces endémiques vulnérables, dont P. hotteana constitue l'un des exemples les plus emblématiques de la richesse botanique unique du Massif de la Hotte. Son usage local combine dimension alimentaire — fruit consommé frais pour sa saveur anisée caractéristique — et applications médicinales traditionnelles, particulièrement comme antioxydant et digestif.",
       "description": "P. hotteana est un arbre de haute altitude, adapté aux conditions climatiques spécifiques du Massif de la Hotte, où il croît dans les formations forestières humides des versants montagneux de la Grand'Anse. Tronc et écorce. Le tronc développe une écorce lisse à légèrement rugueuse, caractéristique du genre Pouteria. Comme d'autres Sapotacées, l'arbre produit un latex blanchâtre lors de blessures de l'écorce, mécanisme de défense naturel contre les pathogènes et les herbivores. Feuilles. Les feuilles sont simples, alternes, coriaces et persistantes, adaptations typiques aux conditions d'altitude et aux variations climatiques du massif. Leur texture épaisse leur permet de résister aux stress hydriques occasionnels et aux vents montagnards. La nervation pennée est bien marquée, facilitant l'identification de l'espèce sur le terrain. Fleurs. Les fleurs, de petite taille et généralement blanchâtres, s'organisent en fascicules axillaires. Elles présentent la structure typique des Sapotacées avec un calice et une corolle à divisions multiples, attirant les insectes pollinisateurs locaux spécialisés dans la pollinisation des espèces forestières d'altitude. Fruits. Les fruits constituent la partie la plus remarquable de la plante : de forme ovoïde à globuleuse, ils développent une chair sucrée à saveur anisée distinctive. Cette saveur caractéristique résulte de la présence de composés aromatiques spécifiques, notamment des esters et des terpènes volatils qui se concentrent dans la pulpe à maturité. Les parties utilisées sont principalement les fruits frais et les feuilles.",
@@ -12153,8 +12643,10 @@ const plantesData = [
     "familleDescription": "",
     "familleImage": "",
     "familleNum": "82",
-    "toxBadgeColor": "yellow",
-    "toxBadgeText": "Données insuffisantes"
+    "toxBadgeColor": "green",
+    "toxBadgeText": "Non toxique",
+    "usageType": "Alimentaire et Médicinale",
+    "maladieSummary": "Digestif, Urinaire"
   },
   {
     "id": 248,
@@ -12173,10 +12665,10 @@ const plantesData = [
       "ht": "Sip"
     },
     "systeme": {
-      "fr": "Les usages médicinaux traditionnels de S. foetidissimum concernent principalement le système digesti"
+      "fr": "Digestif"
     },
-    "toxicite": "unknown",
-    "toxiciteLevel": "unknown",
+    "toxicite": null,
+    "toxiciteLevel": "safe",
     "sections": {
       "introduction": "Sideroxylon foetidissimum (syn. Mastichodendron foetidissimum) est un arbre natif des Caraïbes et d'Amérique tropicale, documenté dans les Départements du Sud et de la Grand'Anse. Il appartient à la famille des Sapotacées, reconnue pour ses arbres tropicaux aux fruits souvent comestibles et au bois précieux. Au sein de cette famille, il fait partie du genre Sideroxylon, un groupe d'arbres caractérisés par leur bois dense et résistant, riche en latex et en composés phénoliques. Dans les départements étudiés, le « sip » est principalement valorisé comme bois de construction de grande qualité et, dans une moindre mesure, utilisé en médecine traditionnelle pour ses propriétés anti-inflammatoires et digestives. Sa rareté croissante dans la région en fait une espèce nécessitant une attention particulière pour sa conservation.",
       "description": "S. foetidissimum est un arbre de taille moyenne à grande, poussant principalement en basse altitude dans les formations forestières des Départements du Sud et de la Grand'Anse. Tronc et écorce. Le tronc est droit et cylindrique, pouvant atteindre un diamètre considérable à maturité. L'écorce est rugueuse, de couleur gris-brun, et sécrète un latex blanchâtre caractéristique lorsqu'elle est incisée — propriété commune aux Sapotacées. Ce latex constitue une défense naturelle contre les pathogènes et les herbivores. Feuilles. Les feuilles sont simples, alternes, coriaces et persistantes. Elles présentent une forme elliptique à oblongue avec un apex obtus ou légèrement pointu. Leur surface supérieure est vert foncé et luisante, tandis que la face inférieure est plus claire. Les nervures sont bien marquées et parallèles. Leur saveur est amère, caractéristique révélatrice de la présence de tanins et de composés phénoliques. Fleurs et reproduction. L'arbre produit de petites fleurs discrètes, généralement groupées en fascicules axillaires. Ces fleurs sont hermaphrodites et présentent une corolle blanchâtre à jaunâtre. La pollinisation est assurée par divers insectes attirés par le nectar. Fruits. Les fruits sont des baies charnues, généralement de forme ovoïde, contenant une à plusieurs graines. À maturité, ils présentent une couleur variant du jaune au brun. Les parties utilisées sont principalement l'écorce et les feuilles pour les usages médicinaux, et le bois pour la construction.",
@@ -12202,8 +12694,10 @@ const plantesData = [
     "familleDescription": "",
     "familleImage": "",
     "familleNum": "82",
-    "toxBadgeColor": "yellow",
-    "toxBadgeText": "Données insuffisantes"
+    "toxBadgeColor": "green",
+    "toxBadgeText": "Non toxique",
+    "usageType": "Médicinale",
+    "maladieSummary": "Digestif"
   },
   {
     "id": 249,
@@ -12222,10 +12716,10 @@ const plantesData = [
       "ht": "Kòma"
     },
     "systeme": {
-      "fr": "Les usages thérapeutiques documentés de Sideroxylon salicifolium ciblent principalement le système d"
+      "fr": "Digestif"
     },
-    "toxicite": "unknown",
-    "toxiciteLevel": "unknown",
+    "toxicite": null,
+    "toxiciteLevel": "safe",
     "sections": {
       "introduction": "Sideroxylon salicifolium (syn. Dipholis salicifolia, Bumelia salicifolia) est un arbre natif des Caraïbes et d'Amérique tropicale, documenté dans les Départements du Sud et de la Grand'Anse. Il appartient à la famille des Sapotacées, une importante famille tropicale d'arbres et d'arbustes particulièrement valorisée pour ses usages alimentaires et médicinaux. Cette famille se distingue par ses fruits charnus souvent comestibles — comme le sapotillier (Manilkara zapota) et l'abiou (Pouteria caimito) — et ses propriétés thérapeutiques liées à la présence dominante de saponines, tanins, flavonoïdes et latex spécialisé. Sur le plan phytochimique, les Sapotacées ciblent préférentiellement les systèmes digestif et endocrinien grâce à leurs composés astringents et leurs sucres complexes. Plusieurs genres comme Chrysophyllum produisent des fruits nutritifs riches en vitamines A et C, tandis que d'autres comme Palaquium sécrètent la gutta-percha, latex aux propriétés industrielles remarquables. Une vigilance particulière s'impose néanmoins car certaines espèces renferment des principes actifs puissants exigeant une préparation adéquate. Sideroxylon salicifolium est principalement valorisé pour son bois de construction résistant et ses propriétés médicinales traditionnelles, notamment antidiarrhéiques et anti-inflammatoires.",
       "description": "S. salicifolium est un arbre de zones sèches, caractérisé par sa robustesse et son adaptation aux environnements arides des Départements du Sud et de la Grand'Anse. Tronc et bois. Le tronc développe un bois dense, dur et résistant, particulièrement apprécié localement pour la construction. L'écorce est rugueuse et brunâtre, typique des arbres adaptés aux milieux secs. Feuilles. Les feuilles sont simples, alternes, de forme lancéolée à elliptique — d'où le nom d'espèce « salicifolium » qui évoque la ressemblance avec les feuilles de saule. Elles sont coriaces, persistantes, avec une surface brillante et des nervures marquées. Leur texture résistante constitue une adaptation aux conditions de sécheresse. Fleurs. Les fleurs sont petites, discrètes, généralement regroupées en glomérules axillaires. Elles présentent la structure typique des Sapotacées avec des tépales disposés en plusieurs verticilles. Fruits. Les fruits sont de petites baies arrondies, contenant une ou plusieurs graines. Bien que la famille soit réputée pour ses fruits comestibles, ceux de S. salicifolium ne sont pas traditionnellement consommés en Haïti. Les parties utilisées sont principalement les feuilles pour les préparations médicinales et le bois pour la construction.",
@@ -12251,8 +12745,10 @@ const plantesData = [
     "familleDescription": "",
     "familleImage": "",
     "familleNum": "82",
-    "toxBadgeColor": "yellow",
-    "toxBadgeText": "Données insuffisantes"
+    "toxBadgeColor": "green",
+    "toxBadgeText": "Non toxique",
+    "usageType": "Médicinale",
+    "maladieSummary": "Digestif"
   },
   {
     "id": 250,
@@ -12270,10 +12766,10 @@ const plantesData = [
       "ht": "Bwa aniz"
     },
     "systeme": {
-      "fr": "Les usages traditionnels d'I. hottense ciblent exclusivement le système digestif. Par analogie avec "
+      "fr": "Digestif"
     },
-    "toxicite": "caution",
-    "toxiciteLevel": "caution",
+    "toxicite": "toxic",
+    "toxiciteLevel": "danger",
     "sections": {
       "introduction": "Illicium hottense est un arbre endémique strict d'Haïti appartenant à la famille des Schisandracées, une famille tropicale reconnue pour ses propriétés aromatiques exceptionnelles. Au sein de cette famille, il fait partie du genre Illicium, qui regroupe une trentaine d'espèces d'arbres aromatiques distribuées principalement en Asie et, de façon très ponctuelle, dans les Grandes Antilles. Son nom créole « Bwa aniz » témoigne de son parfum caractéristique rappelant l'anis, bien qu'il s'agisse d'une espèce botaniquement distincte de l'anis étoilé asiatique (Illicium verum). Dans les Départements du Sud et de la Grand'Anse, cette espèce rarissime est traditionnellement utilisée comme remède digestif, particulièrement contre les gaz intestinaux, grâce aux propriétés carminatives de ses feuilles et de son écorce.",
       "description": "I. hottense est un arbre de haute altitude, endémique du Massif de la Hotte dans le département de la Grand'Anse. Sa rareté extrême en fait l'une des espèces ligneuses les plus menacées d'Haïti. Tiges et écorce. Le tronc présente une écorce rugueuse et aromatique, dégageant une odeur anisée caractéristique lorsqu'elle est blessée. Cette propriété olfactive constitue un trait distinctif du genre Illicium et témoigne de la richesse en huiles essentielles des tissus ligneux. Feuilles. Les feuilles sont persistantes, coriaces et alternes, typiques des arbres de moyenne montagne tropicale. Elles dégagent un parfum intense lorsqu'on les froisse, révélateur de leur teneur en composés aromatiques volatils. Leur saveur est amère, caractéristique commune aux espèces médicinales du genre. Fleurs. Les fleurs sont solitaires ou groupées, présentant une structure primitive caractéristique des Schisandracées, avec de nombreuses pièces florales libres disposées en spirale. Fruits et graines. Le fruit est un follicule étoilé caractéristique du genre Illicium, contenant des graines aromatiques. Cependant, contrairement à son cousin asiatique I. verum, les graines d'I. hottense nécessitent une extrême prudence d'usage en raison de la toxicité potentielle documentée chez d'autres espèces du genre. Les parties utilisées dans les pratiques locales documentées sont les feuilles et l'écorce, les graines étant évitées par précaution.",
@@ -12299,8 +12795,10 @@ const plantesData = [
     "familleDescription": "Reconnue pour ses remarquables propriétés aromatiques, la famille des Schisandracées rassemble principalement des arbres et arbustes grimpants distribués en Asie et, de façon plus restreinte, dans les Caraïbes. Cette famille tropicale se distingue par une composition phytochimique riche en huiles essentielles à dominante phénolique — notamment l'anéthol et l'estragole — ainsi qu'en lignanes bioactifs et en sesquiterpènes volatils. Les genres à vocation aromatique incluent Illicium, dont plusieurs espèces asiatiques comme I. verum (anis étoilé) sont largement commercialisées pour leurs graines parfumées. Sur le plan médicinal, les Schisandracées ciblent préférentiellement le système digestif grâce à leurs composés carminatifs et antispasmodiques. Cependant, cette famille exige une vigilance particulière : certaines espèces d'Illicium — notamment I. anisatum du Japon — contiennent des neurotoxines puissantes responsables de convulsions et de troubles neurologiques graves, rendant cruciale l'identification précise des espèces utilisées.",
     "familleImage": "",
     "familleNum": "83",
-    "toxBadgeColor": "yellow",
-    "toxBadgeText": "Précautions"
+    "toxBadgeColor": "red",
+    "toxBadgeText": "Toxique",
+    "usageType": "Médicinale",
+    "maladieSummary": "Digestif"
   },
   {
     "id": 251,
@@ -12319,10 +12817,10 @@ const plantesData = [
       "ht": "Ti gason"
     },
     "systeme": {
-      "fr": "P. pentandra cible principalement le système immunitaire dans sa fonction de réponse fébrile et infl"
+      "fr": "Immunitaire"
     },
-    "toxicite": "unknown",
-    "toxiciteLevel": "unknown",
+    "toxicite": null,
+    "toxiciteLevel": "caution",
     "sections": {
       "introduction": "Picramnia pentandra Sw. (syn. Tariri pentandra) est un arbuste natif des Caraïbes, commun dans les Départements du Sud et de la Grand'Anse d'Haïti. Il appartient à la famille des Simaroubacées, une famille tropicale d'arbres et d'arbustes reconnue pour ses puissants composés amers et ses usages médicinaux ancestraux. Au sein de cette famille, le genre Picramnia regroupe une quinzaine d'espèces américaines caractérisées par leur saveur intensément amère et leurs propriétés fébrifuges. Dans la pharmacopée traditionnelle haïtienne, P. pentandra est l'une des plantes les plus respectées pour combattre la fièvre, d'où son usage répandu sous le nom de « Bwa moudong » — une décoction amère consommée lors d'épisodes fébriles.",
       "description": "P. pentandra est un arbuste de basse altitude, facilement reconnaissable à sa saveur amère caractéristique et à ses feuilles composées. Tiges et écorce. L'arbuste présente des tiges ligneuses ramifiées dont l'écorce, de couleur brun-gris, constitue l'une des parties médicinales traditionnellement récoltées. Le bois est dur et résistant, adapté aux conditions climatiques variables des zones de basse altitude. Feuilles. Les feuilles sont composées, alternes et imparipennées, comptant généralement 5 folioles — d'où l'épithète spécifique « pentandra ». Ces folioles sont oblongues à elliptiques, avec un limbe coriace et une nervation pennée bien marquée. Leur saveur amère intense se révèle immédiatement au contact de la langue. Fleurs. Les inflorescences se présentent sous forme de panicules axillaires portant de petites fleurs unisexuées, la plante étant généralement dioïque. Les fleurs mâles et femelles sont portées par des individus séparés. Fruit. Le fruit est une petite drupe charnue de couleur rouge à maturité, contenant une graine unique. Ces fruits, bien que non toxiques, ne présentent aucun intérêt alimentaire en raison de leur amertume excessive. Les parties utilisées dans les pratiques traditionnelles sont les feuilles, l'écorce et les racines.",
@@ -12349,7 +12847,9 @@ const plantesData = [
     "familleImage": "",
     "familleNum": "84",
     "toxBadgeColor": "yellow",
-    "toxBadgeText": "Données insuffisantes"
+    "toxBadgeText": "Conditionnel",
+    "usageType": "Alimentaire et Médicinale",
+    "maladieSummary": "Immunitaire"
   },
   {
     "id": 252,
@@ -12370,7 +12870,7 @@ const plantesData = [
       "ht": "Frèn"
     },
     "systeme": {
-      "fr": "S. glauca cible préférentiellement les systèmes digestif et immunitaire. L'espèce montre une efficac"
+      "fr": "Digestif, Immunitaire"
     },
     "toxicite": null,
     "toxiciteLevel": "safe",
@@ -12400,7 +12900,9 @@ const plantesData = [
     "familleImage": "",
     "familleNum": "84",
     "toxBadgeColor": "green",
-    "toxBadgeText": "Non toxique"
+    "toxBadgeText": "Non toxique",
+    "usageType": "Médicinale",
+    "maladieSummary": "Digestif, Immunitaire"
   },
   {
     "id": 253,
@@ -12419,10 +12921,10 @@ const plantesData = [
       "ht": "Flè klòch"
     },
     "systeme": {
-      "fr": "Les alcaloïdes tropaniques de B. suaveolens agissent comme antagonistes compétitifs des récepteurs m"
+      "fr": "Urinaire, Nerveux, Sanguin"
     },
     "toxicite": "toxic",
-    "toxiciteLevel": "toxic",
+    "toxiciteLevel": "danger",
     "sections": {
       "introduction": "Brugmansia suaveolens (syn. Datura suaveolens) est un arbuste exotique ornemental cultivé dans les Départements du Sud et de la Grand'Anse, où il est connu sous le nom créole de « Flè klòch » — littéralement « fleur cloche » — en référence à ses grandes fleurs pendantes en forme de trompette. Il appartient à la famille des Solanacées et fait partie du genre Brugmansia, un groupe d'arbustes néotropicaux tristement célèbres pour contenir les concentrations les plus élevées d'alcaloïdes tropaniques du règne végétal. Malgré sa beauté ornementale indéniable, cette espèce représente un danger mortel : toutes ses parties contiennent des niveaux extrêmement toxiques de scopolamine, d'atropine et d'hyoscyamine. Son usage traditionnel limité à des contextes rituels en Amérique du Sud ne doit pas masquer sa dangerosité absolue — de nombreux cas d'empoisonnements accidentels et de décès sont documentés chaque année à travers le monde.",
       "description": "B. suaveolens est un arbuste vivace pouvant atteindre 3 à 6 mètres de hauteur dans les conditions favorables des zones d'altitude moyenne d'Haïti. Tiges et port. L'arbuste présente un port érigé à étalé, avec des tiges ligneuses robustes et une écorce gris-brun. Les jeunes pousses sont pubescentes et de couleur verte. Feuilles. Les feuilles sont alternes, simples, ovales à elliptiques, mesurant 15 à 25 cm de longueur. Elles sont entières ou légèrement dentées, de couleur vert foncé sur le dessus et plus claires en dessous, avec une texture veloutée caractéristique. Leur saveur est âcre et amère — un signal d'alarme naturel de leur toxicité. Fleurs. Les fleurs constituent l'élément le plus spectaculaire de la plante : grandes trompettes pendantes de 15 à 30 cm de longueur, blanches à crème, parfois teintées de jaune ou de rose selon la variété. Elles s'épanouissent principalement le soir et dégagent un parfum intense et suave — d'où le nom scientifique suaveolens — destiné à attirer les pollinisateurs nocturnes. Cette floraison continue tout au long de l'année sous les climats tropicaux. Fruit et graines. Le fruit est une capsule ovoïde, lisse, de 8 à 12 cm de longueur, contenant de nombreuses graines plates et ailées. Contrairement aux fruits épineux du genre Datura, ceux de Brugmansia sont lisses. Toutes les parties de la plante sont utilisées dans certaines pratiques traditionnelles — fleurs, feuilles et racines — mais leur usage interne est strictement prohibé en raison de leur toxicité mortelle.",
@@ -12449,7 +12951,9 @@ const plantesData = [
     "familleImage": "",
     "familleNum": "85",
     "toxBadgeColor": "red",
-    "toxBadgeText": "Toxique"
+    "toxBadgeText": "Toxique",
+    "usageType": "Médicinale",
+    "maladieSummary": "Urinaire, Nerveux, Sanguin"
   },
   {
     "id": 254,
@@ -12469,10 +12973,10 @@ const plantesData = [
       "ht": "Piman zwazo"
     },
     "systeme": {
-      "fr": "Les effets thérapeutiques de C. frutescens ciblent principalement le système musculo-squelettique, a"
+      "fr": "Digestif, Musculosquelettique"
     },
-    "toxicite": "toxic",
-    "toxiciteLevel": "toxic",
+    "toxicite": null,
+    "toxiciteLevel": "caution",
     "sections": {
       "introduction": "Capsicum frutescens L. (syn. Capsicum annuum var. frutescens) est un arbuste exotique cultivé dans les Départements du Sud et de la Grand'Anse d'Haïti. Il appartient à la famille des Solanacées, cette vaste famille cosmopolite qui rassemble plus de 2 700 espèces d'herbes, d'arbustes et parfois d'arbres, remarquable par sa double nature : d'un côté des aliments de base mondiaux comme la tomate (Solanum lycopersicum), la pomme de terre (Solanum tuberosum) et l'aubergine (Solanum melongena), de l'autre des plantes aux alcaloïdes puissants comme le tabac (Nicotiana tabacum) et les daturas. Cette famille se caractérise phytochimiquement par une diversité exceptionnelle de métabolites secondaires — alcaloïdes tropaniques, capsaïcinoïdes, solanines, nicotine — ciblant préférentiellement les systèmes nerveux, musculo-squelettique et tégumentaire. Les genres alimentaires incluent Capsicum (piments), Solanum (tomates, aubergines) et Physalis (coqueret), tandis que les genres médicinaux comprennent Withania et Lycopersicon. Une vigilance absolue s'impose car certains membres comme Brugmansia (fleur cloche) contiennent des alcaloïdes tropaniques mortels, exigeant une identification botanique rigoureuse. Au sein de cette famille, Capsicum frutescens fait partie du genre Capsicum, qui regroupe les piments cultivés mondialement pour leurs fruits riches en capsaïcinoïdes. Son usage dans les deux départements est à la fois alimentaire comme épice et médicinal comme remède stimulant traditionnel contre la grippe.",
       "description": "C. frutescens est un arbuste pérenne de basse altitude, généralement cultivé comme plante annuelle, pouvant atteindre 1 à 2 mètres de hauteur selon les conditions de culture dans le contexte du Sud et de la Grand'Anse. Tiges et port. La plante présente un port arbustif avec des tiges ligneuses à la base, ramifiées, de couleur verte à brunâtre. Le système racinaire est pivotant et bien développé, adapté aux sols drainants des zones de culture haïtiennes. Feuilles. Les feuilles sont simples, alternes, ovales à lancéolées, de couleur vert foncé brillant. Elles mesurent généralement 3 à 8 cm de longueur et présentent un limbe entier à légèrement ondulé. La texture est lisse et glabre, caractéristique du genre Capsicum. Fleurs. Les fleurs sont petites, blanches à jaunâtres, solitaires ou groupées par 2-3 à l'aisselle des feuilles. Elles présentent une corolle à 5 pétales soudés et 5 étamines, typique de la famille des Solanacées. La floraison est continue dans les conditions tropicales d'Haïti. Fruits. Les fruits sont des baies charnues, de petite taille (1-3 cm), de forme conique à cylindrique, passant du vert au rouge vif à maturité. Ils sont portés dressés sur la plante, d'où le nom « piment oiseau » car ils sont facilement accessibles aux oiseaux qui en dispersent les graines. La chair renferme de nombreuses graines plates et blanches. Les parties utilisées sont principalement les fruits, et occasionnellement les feuilles selon les usages documentés dans le Sud et la Grand'Anse.",
@@ -12498,8 +13002,10 @@ const plantesData = [
     "familleDescription": "",
     "familleImage": "",
     "familleNum": "85",
-    "toxBadgeColor": "red",
-    "toxBadgeText": "Toxique"
+    "toxBadgeColor": "yellow",
+    "toxBadgeText": "Conditionnel",
+    "usageType": "Alimentaire et Médicinale",
+    "maladieSummary": "Digestif, Musculosquelettique"
   },
   {
     "id": 255,
@@ -12519,10 +13025,10 @@ const plantesData = [
       "ht": "Zozofine"
     },
     "systeme": {
-      "fr": "Les systèmes physiologiques concernés par l'usage externe de C. bicolor ne sont pas documentés spéci"
+      "fr": "Cutané, Musculosquelettique"
     },
-    "toxicite": "unknown",
-    "toxiciteLevel": "unknown",
+    "toxicite": null,
+    "toxiciteLevel": "safe",
     "sections": {
       "introduction": "Cestrum bicolor Urban (syn. Cestrum daphnoides) est un arbuste endémique d'Haïti, présent exclusivement dans les Départements du Sud et de la Grand'Anse selon l'inventaire BRH. Il appartient à la famille des Solanacées, une famille remarquable par sa dualité entre espèces alimentaires essentielles (tomate, pomme de terre, aubergine) et espèces à alcaloïdes puissants nécessitant une extrême prudence. Au sein de cette famille, Cestrum bicolor fait partie du genre Cestrum, qui regroupe environ 175 espèces d'arbustes tropicaux et subtropicaux, caractérisés par leurs fleurs tubulaires parfumées et leurs baies colorées. De nombreuses espèces du genre sont réputées pour leurs propriétés médicinales, mais aussi pour la présence d'alcaloïdes potentiellement bioactifs. L'usage documenté de C. bicolor dans le Sud et la Grand'Anse concerne principalement les bains thérapeutiques par macération, témoignant d'un emploi traditionnel externe respectueux de la nature potentiellement sensible des Solanacées.",
       "description": "C. bicolor est un arbuste de haute altitude, caractérisé par sa saveur amèrement légère et sa rareté extrême dans son aire de répartition naturelle. Tiges et port. L'arbuste présente des tiges ligneuses ramifiées, typiques du genre Cestrum, formant un port buissonnant adapté aux conditions d'altitude des massifs du Sud et de la Grand'Anse. L'écorce est généralement lisse à légèrement rugueuse selon l'âge des rameaux. Feuilles. Les feuilles sont simples, alternes, de forme ovale à elliptique, à marge entière. Elles présentent une texture coriace adaptée aux conditions d'altitude et dégagent une odeur caractéristique lorsqu'on les froisse, signe distinctif du genre Cestrum. Leur saveur amèrement légère témoigne de la présence probable de composés bioactifs. Fleurs. Comme la plupart des espèces du genre, C. bicolor produit des fleurs tubulaires, généralement regroupées en inflorescences terminales ou axillaires. Les fleurs présentent la structure typique des Solanacées avec cinq pétales soudés formant un tube, adapté à la pollinisation par des insectes spécialisés. Fruits. Les fruits sont des baies charnues, caractéristiques du genre Cestrum, contenant plusieurs graines et contribuant à la dispersion de l'espèce par la faune locale. Les parties utilisées dans les pratiques locales concernent probablement les feuilles et les rameaux, compte tenu du mode de préparation par macération dans les bains.",
@@ -12548,8 +13054,10 @@ const plantesData = [
     "familleDescription": "",
     "familleImage": "",
     "familleNum": "85",
-    "toxBadgeColor": "yellow",
-    "toxBadgeText": "Données insuffisantes"
+    "toxBadgeColor": "green",
+    "toxBadgeText": "Non toxique",
+    "usageType": "Médicinale",
+    "maladieSummary": "Cutané, Musculosquelettique"
   },
   {
     "id": 256,
@@ -12568,10 +13076,10 @@ const plantesData = [
       "ht": "Tabak"
     },
     "systeme": {
-      "fr": "Le tabac cible principalement le système nerveux central et périphérique par l'action de la nicotine"
+      "fr": "Respiratoire, Nerveux, Cutané"
     },
-    "toxicite": "toxic",
-    "toxiciteLevel": "toxic",
+    "toxicite": null,
+    "toxiciteLevel": "safe",
     "sections": {
       "introduction": "Nicotiana tabacum L. (syn. Nicotiana macrophylla) est une herbe exotique cultivée dans les Départements du Sud et de la Grand'Anse d'Haïti. Elle appartient à la famille des Solanacées, une famille végétale d'une remarquable diversité thérapeutique et alimentaire, regroupant aussi bien des légumes essentiels comme la tomate et l'aubergine que des plantes aux alcaloïdes les plus puissants connus. Au sein de cette famille, le genre Nicotiana occupe une place particulière par sa richesse en nicotine, alcaloïde tropanique aux effets neurotropes intenses. Cette plante représente un cas emblématique des paradoxes de l'ethnobotanique : traditionnellement utilisée comme médicament dans de nombreuses cultures, elle constitue aujourd'hui l'une des substances les plus addictogènes et dangereuses pour la santé humaine. Son usage documenté dans le Sud et la Grand'Anse relève principalement du domaine rituel et de certaines applications thérapeutiques externes, nécessitant une extrême prudence.",
       "description": "N. tabacum est une herbe annuelle robuste, d'apparence imposante, adaptée aux climats tropicaux de basse altitude. Tiges. La tige centrale est dressée, cylindrique, charnue et visqueuse au toucher, pouvant atteindre 1 à 2 mètres de hauteur selon les conditions de culture. Elle présente une surface légèrement duveteuse et sécrète une substance collante caractéristique. Feuilles. Les feuilles constituent la partie économiquement et médicinalement valorisée de la plante. Elles sont grandes, ovales à lancéolées, alternes, sessiles ou brièvement pétiolées, mesurant généralement 25 à 50 cm de longueur. Leur surface est couverte de poils glandulaires qui sécrètent la résine contenant les alcaloïdes. Les feuilles fraîches dégagent une odeur âcre caractéristique et présentent une saveur amère puis brûlante. Fleurs. L'inflorescence terminale forme une panicule de fleurs tubulaires roses à rouges, longues de 4 à 5 cm, attirant les pollinisateurs par leur nectar abondant. La corolle présente cinq lobes étalés. Fruit et graines. Le fruit est une capsule ovoïde contenant de très nombreuses graines minuscules, brunes et rugueuses. Une seule plante peut produire plusieurs milliers de graines. Les parties utilisées sont exclusivement les feuilles, récoltées avant la floraison pour optimiser leur teneur en principes actifs.",
@@ -12597,8 +13105,10 @@ const plantesData = [
     "familleDescription": "",
     "familleImage": "",
     "familleNum": "85",
-    "toxBadgeColor": "red",
-    "toxBadgeText": "Toxique"
+    "toxBadgeColor": "green",
+    "toxBadgeText": "Non toxique",
+    "usageType": "Médicinale",
+    "maladieSummary": "Respiratoire, Nerveux, Cutané"
   },
   {
     "id": 257,
@@ -12617,10 +13127,10 @@ const plantesData = [
       "ht": "Lanman"
     },
     "systeme": {
-      "fr": "S. americanum cible préférentiellement les systèmes nutritionnel et tégumentaire selon les usages do"
+      "fr": "Digestif"
     },
-    "toxicite": "toxic",
-    "toxiciteLevel": "toxic",
+    "toxicite": null,
+    "toxiciteLevel": "caution",
     "sections": {
       "introduction": "Solanum americanum (syn. Solanum nodiflorum) est une herbe native documentée dans les Départements du Sud et de la Grand'Anse. Elle appartient à la famille des Solanacées, vaste famille de plantes principalement herbacées et arbustives reconnue pour ses extraordinaires propriétés biologiques. Cette espèce fait partie du genre Solanum, l'un des plus vastes genres végétaux au monde avec plus de 1500 espèces incluant des aliments de base comme la pomme de terre, la tomate et l'aubergine, ainsi que de nombreuses plantes médicinales traditionnelles. Dans le contexte haïtien, S. americanum présente un profil d'usage mixte alimentaire et médicinal, mais nécessite une préparation très rigoureuse en raison de sa teneur en glycoalcaloïdes potentiellement toxiques à l'état cru. Son emploi traditionnel comme légume-feuille après cuisson prolongée témoigne d'un savoir empirique millénaire sur la détoxification des Solanacées sauvages.",
       "description": "S. americanum est une herbe annuelle de basse altitude, caractérisée par sa saveur astringente et son statut d'espèce rare dans les inventaires régionaux. Tiges. La tige est herbacée, dressée, ramifiée, pouvant atteindre 50 à 80 cm de hauteur. Elle présente une surface légèrement anguleuse et peut porter de fines pubescences selon les conditions de croissance. Feuilles. Les feuilles sont alternes, simples, ovales à lancéolées, avec un limbe vert foncé et des marges entières à légèrement dentées. Leur texture est relativement tendre mais présente une astringence marquée qui persiste même après cuisson légère. Fleurs. Les inflorescences sont des cymes scorpioïdes portant de petites fleurs blanches typiques des Solanacées, avec cinq pétales soudés à la base et cinq étamines jaunes proéminentes. La floraison s'étale sur plusieurs mois selon les conditions climatiques. Fruits. Les fruits sont de petites baies globuleuses, vertes puis noires à maturité, contenant de nombreuses graines plates et brunâtres. Ces baies, bien que comestibles dans certaines traditions culinaires après traitement, concentrent particulièrement les glycoalcaloïdes. Les parties utilisées dans les pratiques documentées localement sont principalement les feuilles, et occasionnellement les fruits après préparation spécialisée.",
@@ -12646,8 +13156,10 @@ const plantesData = [
     "familleDescription": "",
     "familleImage": "",
     "familleNum": "85",
-    "toxBadgeColor": "red",
-    "toxBadgeText": "Toxique"
+    "toxBadgeColor": "yellow",
+    "toxBadgeText": "Conditionnel",
+    "usageType": "Alimentaire et Médicinale",
+    "maladieSummary": "Digestif"
   },
   {
     "id": 258,
@@ -12665,10 +13177,10 @@ const plantesData = [
       "ht": "Tomat"
     },
     "systeme": {
-      "fr": "Les effets thérapeutiques documentés de S. lycopersicum concernent principalement les systèmes cardi"
+      "fr": "Cardiovasculaire, Reproducteur"
     },
-    "toxicite": "toxic",
-    "toxiciteLevel": "toxic",
+    "toxicite": null,
+    "toxiciteLevel": "safe",
     "sections": {
       "introduction": "Solanum lycopersicum L. (syn. Lycopersicon esculentum) est une herbe annuelle exotique, cultivée dans les Départements du Sud et de la Grand'Anse pour ses fruits comestibles. Elle appartient à la famille des Solanacées, un groupe de près de 2700 espèces mondiales principalement composé d'herbes et d'arbustes. Cette famille remarquable rassemble des espèces d'importance majeure tant alimentaire — tomate (Solanum lycopersicum), pomme de terre (Solanum tuberosum), aubergine (Solanum melongena), piments (Capsicum spp.) — que médicinale comme le tabac (Nicotiana tabacum) et diverses espèces de Solanum. Sur le plan phytochimique, elle se caractérise par une extraordinaire diversité d'alcaloïdes — notamment tropaniques, stéroïdiens et pyridiniques — agissant préférentiellement sur les systèmes nerveux, musculo-squelettique et tégumentaire. La famille produit également de remarquables caroténoïdes (lycopène, bêta-carotène), des flavonoïdes et des concentrations élevées en potassium et vitamines C et A. Une vigilance particulière s'impose avec certains genres : Brugmansia renferme des alcaloïdes tropaniques mortels, Nicotiana contient de la nicotine hautement toxique, et les parties vertes de nombreux Solanum accumulent des glycoalcaloïdes potentiellement dangereux. S. lycopersicum constitue l'un des légumes-fruits les plus consommés au monde, documenté dans le Sud et la Grand'Anse comme aliment de base et remède pour la santé cardiovasculaire et prostatique.",
       "description": "S. lycopersicum est une herbe annuelle à port dressé ou retombant, pouvant atteindre 1 à 3 mètres selon les variétés. Tiges et racines. Les tiges sont herbacées, anguleuses, pubescentes et deviennent ligneuses à la base avec l'âge. Elles émettent de nombreuses ramifications latérales et développent facilement des racines adventives au contact du sol. Le système racinaire principal est pivotant avec de nombreuses racines secondaires superficielles. Feuilles. Les feuilles sont composées pennées, alternes, de 15 à 45 cm de longueur, profondément divisées en 5 à 9 folioles principales dentées ou lobées. Elles dégagent une odeur caractéristique forte et légèrement acre due à la présence de composés volatils et de tomatine. La surface est recouverte de poils glandulaires donnant un aspect velouté. Fleurs. Les fleurs sont petites, jaunes, hermaphrodites, regroupées en grappes de 3 à 12 fleurs. Elles présentent 5 sépales, 5 pétales soudés à la base et 5 étamines soudées autour du pistil — disposition favorisant l'autofécondation. Fruit. Le fruit est une baie charnue, techniquement classée comme fruit mais culinairement utilisée comme légume. Sa forme varie de sphérique à ovoïde selon les cultivars, sa couleur de vert à rouge vif à maturité, avec des variétés jaunes, orange ou pourpres. La pulpe juteuse renferme de nombreuses petites graines plates et jaunes entourées d'un mucilage gélatineux. Dans le contexte du Sud et de la Grand'Anse, la tomate est principalement cultivée en saison sèche dans les zones d'altitude moyenne où les conditions climatiques sont plus favorables. Les parties utilisées sont principalement les fruits mûrs comme aliment, et les feuilles à des fins thérapeutiques spécifiques.",
@@ -12694,8 +13206,10 @@ const plantesData = [
     "familleDescription": "",
     "familleImage": "",
     "familleNum": "85",
-    "toxBadgeColor": "red",
-    "toxBadgeText": "Toxique"
+    "toxBadgeColor": "green",
+    "toxBadgeText": "Non toxique",
+    "usageType": "Alimentaire et Médicinale",
+    "maladieSummary": "Cardiovasculaire, Reproducteur"
   },
   {
     "id": 259,
@@ -12714,7 +13228,7 @@ const plantesData = [
       "ht": "Berejèn"
     },
     "systeme": {
-      "fr": "L'aubergine cible principalement le système cardiovasculaire et nutritionnel. Elle est documentée da"
+      "fr": "Cardiovasculaire"
     },
     "toxicite": null,
     "toxiciteLevel": "safe",
@@ -12744,7 +13258,9 @@ const plantesData = [
     "familleImage": "",
     "familleNum": "85",
     "toxBadgeColor": "green",
-    "toxBadgeText": "Non toxique"
+    "toxBadgeText": "Non toxique",
+    "usageType": "Alimentaire et Médicinale",
+    "maladieSummary": "Cardiovasculaire"
   },
   {
     "id": 260,
@@ -12763,10 +13279,10 @@ const plantesData = [
       "ht": "Zamorèt"
     },
     "systeme": {
-      "fr": "Le zamorèt cible préférentiellement le système hématopoïétique, conformément à son usage traditionne"
+      "fr": "Immunitaire, Sanguin"
     },
-    "toxicite": "toxic",
-    "toxiciteLevel": "toxic",
+    "toxicite": null,
+    "toxiciteLevel": "safe",
     "sections": {
       "introduction": "Solanum torvum Sw. (syn. Solanum ficifolium) est un arbuste pantropical commun documenté dans le Sud et la Grand'Anse. Il appartient à la famille des Solanacées, reconnue pour ses contrastes saisissants entre espèces comestibles essentielles (tomate, aubergine, piment) et plantes hautement toxiques (Brugmansia). Cette famille tropicale se distingue par ses alcaloïdes tropaniques puissants — atropine, scopolamine, hyoscyamine — ainsi que par des composés plus familiers comme la capsaïcine des piments et les caroténoïdes des fruits colorés. Les genres alimentaires incluent Solanum (tomate, aubergine), Capsicum (piments) et Physalis (coqueret), tandis que les genres médicinaux comprennent Nicotiana (tabac thérapeutique) et Withania (ashwagandha). Cependant, certaines espèces comme Brugmansia renferment des alcaloïdes mortels exigeant une vigilance absolue, et même les pommes de terre vertes contiennent de la solanine toxique. Cette dualité — entre nutrition et toxicité — caractérise fondamentalement les Solanacées et explique pourquoi leur usage traditionnel nécessite une connaissance précise de chaque espèce. Le zamorèt fait partie des espèces sûres de cette famille complexe, utilisé tant pour l'alimentation que comme fortifiant sanguin.",
       "description": "S. torvum est un arbuste vivace de basse altitude, pouvant atteindre 2 à 3 mètres de hauteur, formant souvent des buissons denses dans les zones perturbées. Tiges et port. L'arbuste développe des tiges ligneuses robustes, souvent épineuses, avec une écorce grisâtre. Les jeunes rameaux sont pubescents et présentent parfois des aiguillons courts le long des tiges principales. Feuilles. Les feuilles sont alternes, ovales à elliptiques, de 8 à 15 cm de longueur, à bord sinué ou légèrement lobé. Elles présentent une texture veloutée caractéristique due à une pubescence dense, et dégagent une odeur aromatique légèrement amère au froissement — signature typique du genre Solanum. Fleurs. Les fleurs blanches à corolle étoilée, typiques des Solanacées, sont regroupées en cymes terminales. Chaque fleur mesure environ 1-2 cm de diamètre avec cinq pétales soudés à la base et des étamines jaunes proéminentes au centre. Fruits. Les fruits sont de petites baies globuleuses de 8 à 12 mm de diamètre, d'abord vertes puis jaune-orangé à maturité. Ils contiennent de nombreuses graines plates et brunâtres. Ces petits fruits constituent la partie principalement utilisée, tant alimentaire que médicinale. Les parties utilisées sont les fruits jeunes (principalement), les feuilles et occasionnellement les racines.",
@@ -12792,8 +13308,10 @@ const plantesData = [
     "familleDescription": "",
     "familleImage": "",
     "familleNum": "85",
-    "toxBadgeColor": "red",
-    "toxBadgeText": "Toxique"
+    "toxBadgeColor": "green",
+    "toxBadgeText": "Non toxique",
+    "usageType": "Alimentaire",
+    "maladieSummary": "Immunitaire, Sanguin"
   },
   {
     "id": 261,
@@ -12814,10 +13332,10 @@ const plantesData = [
       "ht": "Twonpèt"
     },
     "systeme": {
-      "fr": "C. peltata cible préférentiellement les systèmes cardiovasculaire et urinaire. Les études pharmacolo"
+      "fr": "Urinaire, Cardiovasculaire"
     },
-    "toxicite": "toxic",
-    "toxiciteLevel": "toxic",
+    "toxicite": null,
+    "toxiciteLevel": "safe",
     "sections": {
       "introduction": "Cecropia peltata L. (syn. Ambaiba peltata) est un arbre natif des régions tropicales s'étendant du Mexique aux Caraïbes, abondant dans les Départements du Sud et de la Grand'Anse d'Haïti. Il appartient à la famille des Urticacées, une vaste famille tropicale reconnue pour ses propriétés médicinales cardiovasculaires et urinaires. Au sein de cette famille, il fait partie du genre Cecropia, un groupe d'arbres pionniers à croissance rapide, caractérisés par leurs grandes feuilles palmatilobées et leur bois léger. Le nom créole « Twonpèt » évoque probablement la forme tubulaire caractéristique des tiges creuses de la plante. Son usage dominant dans les deux départements est thérapeutique, principalement comme hypotenseur et diurétique, ce qui en fait l'une des plantes médicinales cardiovasculaires les plus utilisées localement.",
       "description": "C. peltata est un arbre pionnier à croissance rapide, typique des formations secondaires de basse altitude dans le Sud et la Grand'Anse. Tronc et tiges. Le tronc présente une caractéristique remarquable : il est creux, cloisonné par des diaphragmes internes, d'où le nom populaire de « bois trompette ». Cette structure anatomique unique permet à l'arbre de croître rapidement tout en économisant les ressources. L'écorce est lisse, gris clair, et se détache par plaques. Les jeunes rameaux sont également creux et portent des cicatrices foliaires proéminentes. Feuilles. Les feuilles constituent l'élément le plus distinctif : grandes (20-40 cm de diamètre), peltées — c'est-à-dire fixées au centre du limbe plutôt qu'au bord — et profondément palmatilobées en 7-11 lobes. La face supérieure est vert foncé et rugueuse, tandis que la face inférieure est blanchâtre et tomenteuse. Cette pilosité dense protège la plante contre la dessiccation et reflète le rayonnement solaire intense des zones dégradées qu'elle colonise. Fleurs et reproduction. C. peltata est dioïque, avec des pieds mâles et femelles séparés. Les inflorescences mâles sont des chatons pendants, tandis que les femelles forment des structures plus compactes. La pollinisation est anémophile (par le vent), adaptation typique des espèces pionnières. Fruit. Les fruits sont de petits akènes regroupés en infrutescences charnues, appréciés par les chauves-souris frugivores qui assurent la dispersion des graines sur de longues distances. Les parties utilisées dans les pratiques médicinales locales sont principalement les feuilles et l'écorce.",
@@ -12843,8 +13361,10 @@ const plantesData = [
     "familleDescription": "Les Urticacées rassemblent environ 2600 espèces réparties en 54 genres, dominées par les arbres et arbustes tropicaux, bien que certaines formes herbacées persistent dans les régions tempérées. Cette famille cosmopolite présente une diversité remarquable d'adaptations écologiques, des forêts pluviales aux zones arides. Sur le plan alimentaire, plusieurs genres offrent des ressources nutritives importantes : les figues sauvages (Ficus), les orties comestibles (Urtica) et certaines espèces de Pilea aux jeunes pousses consommées. Médicinalement, la famille excelle dans le traitement des affections cardiovasculaires et urinaires, grâce à ses genres phares comme Cecropia (hypotenseur), Urtica (diurétique) et Boehmeria (anti-inflammatoire). Sur le plan phytochimique, les Urticacées développent une signature distinctive dominée par les flavonoïdes, l'acide chlorogénique, les tanins et le potassium, ciblant préférentiellement les systèmes cardiovasculaire, urinaire et tégumentaire. Une vigilance particulière s'impose cependant avec le genre Urera, dont les poils urticants libèrent acide formique et histamine, provoquant des réactions cutanées sévères nécessitant des précautions de manipulation strictes.",
     "familleImage": "",
     "familleNum": "86",
-    "toxBadgeColor": "red",
-    "toxBadgeText": "Toxique"
+    "toxBadgeColor": "green",
+    "toxBadgeText": "Non toxique",
+    "usageType": "Médicinale",
+    "maladieSummary": "Urinaire, Cardiovasculaire"
   },
   {
     "id": 262,
@@ -12863,10 +13383,10 @@ const plantesData = [
       "ht": "Manman gèp / Gratgrat"
     },
     "systeme": {
-      "fr": "U. baccifera cible préférentiellement le système tégumentaire, bien que ses applications traditionne"
+      "fr": "Digestif, Urinaire"
     },
-    "toxicite": "unknown",
-    "toxiciteLevel": "unknown",
+    "toxicite": null,
+    "toxiciteLevel": "safe",
     "sections": {
       "introduction": "Urera baccifera (L.) (syn. Urtica baccifera L.) est un arbuste natif des régions tropicales américaines, commun dans les Départements du Sud et de la Grand'Anse d'Haïti où il pousse à moyenne altitude. Il appartient à la famille des Urticacées, une famille principalement composée d'arbustes et d'arbres, reconnue pour ses importants usages médicinaux et sa signature phytochimique dominée par le potassium, l'acide chlorogénique, les flavonoïdes et l'isoorientine, ciblant préférentiellement les systèmes cardiovasculaire, urinaire et tégumentaire. Au sein de cette famille, le genre Urera se distingue par la présence de poils urticants particulièrement irritants, contrairement à d'autres genres comme Cecropia qui sont dépourvus de cette caractéristique défensive. En Haïti, U. baccifera est documenté dans le Sud et la Grand'Anse pour ses propriétés anti-inflammatoires, antioxydantes et diurétiques, bien que son usage reste limité en raison de son fort pouvoir irritant pour la peau. La plante est également utilisée comme haie vive au Costa Rica selon les données TRAMIL.",
       "description": "U. baccifera est un arbuste de taille moyenne, caractérisé par la présence de poils urticants sur l'ensemble de ses parties aériennes, lui conférant ses noms créoles évocateurs de « Manman gèp » et « Gratgrat ». Tiges. Les tiges sont dressées, ramifiées, et recouvertes de poils urticants microscopiques contenant des substances irritantes. Ces poils constituent le principal mécanisme de défense de la plante contre les herbivores. Feuilles. Les feuilles sont alternes, simples, de forme ovale à lancéolée, avec des bords dentés. Leur surface est également pourvue de poils urticants, particulièrement denses sur la face inférieure. Ces feuilles dégagent une saveur amère caractéristique. Fleurs. Les inflorescences sont disposées en grappes axillaires, composées de petites fleurs unisexuées, les mâles et femelles étant généralement portées par la même plante (monoïques). Fruits. Les fruits sont de petites baies charnues qui donnent son nom spécifique « baccifera » (qui porte des baies) à l'espèce. Racines. Le système racinaire est bien développé et constitue l'une des parties utilisées traditionnellement. Les parties utilisées documentées dans le Sud et la Grand'Anse sont les feuilles, les tiges et les racines, bien que leur manipulation nécessite des précautions particulières.",
@@ -12892,8 +13412,10 @@ const plantesData = [
     "familleDescription": "",
     "familleImage": "",
     "familleNum": "86",
-    "toxBadgeColor": "yellow",
-    "toxBadgeText": "Données insuffisantes"
+    "toxBadgeColor": "green",
+    "toxBadgeText": "Non toxique",
+    "usageType": "Médicinale",
+    "maladieSummary": "Digestif, Urinaire"
   },
   {
     "id": 263,
@@ -12912,10 +13434,10 @@ const plantesData = [
       "ht": "Bwa kòt"
     },
     "systeme": {
-      "fr": "Selon les observations ethnobotaniques locales, C. spinosum ciblerait préférentiellement le système "
+      "fr": "Médicinal"
     },
-    "toxicite": "toxic",
-    "toxiciteLevel": "toxic",
+    "toxicite": null,
+    "toxiciteLevel": "safe",
     "sections": {
       "introduction": "Citharexylum spinosum L. (syn. Citharexylum fruticosum) est un arbre natif des Caraïbes et d'Amérique tropicale, documenté dans les Départements du Sud et de la Grand'Anse sous le nom créole de « Bwa kòt ». Il appartient à la famille des Verbénacées, une famille tropicale réputée pour ses propriétés médicinales et ses iridoïdes caractéristiques. Au sein de cette famille, le genre Citharexylum regroupe des arbres et arbustes à bois dur, dont plusieurs espèces caribéennes sont traditionnellement utilisées en construction navale et en menuiserie fine. L'usage de C. spinosum dans le Sud et la Grand'Anse est double : construction grâce à son bois résistant, et médecine traditionnelle par voie externe sous forme de bains thérapeutiques. La plante présente également un intérêt apicole remarquable, ses fleurs étant excellentes pour la production de miel.",
       "description": "C. spinosum est un arbre de basse altitude, au port dressé et élégant, pouvant atteindre 10 à 15 mètres de hauteur dans les conditions optimales des Départements du Sud et de la Grand'Anse. Tiges et écorce. Le tronc développe une écorce grisâtre à brunâtre, rugueuse avec l'âge, caractéristique des arbres du genre. Le bois, dense et résistant, justifie l'usage local en construction. Les jeunes rameaux portent souvent des épines acérées — d'où l'épithète spécifique spinosum — qui constituent une défense naturelle contre les herbivores. Feuilles. Les feuilles sont simples, opposées ou subopposées, de forme ovale à elliptique, avec une texture coriace et des nervures bien marquées. Elles présentent une saveur fade, caractéristique peu marquée qui contraste avec l'amertume prononcée d'autres Verbénacées. Fleurs. Les inflorescences sont des grappes terminales ou axillaires, composées de petites fleurs tubulaires blanches à crème, très mellifères et attractives pour les abeilles et autres pollinisateurs. Cette propriété mellifère fait de l'arbre une espèce d'intérêt apicole dans la région. Fruits. Les fruits sont de petites drupes charnues, d'abord vertes puis noirâtres à maturité, contenant généralement deux noyaux. Ces fruits peuvent attirer diverses espèces d'oiseaux, contribuant à la dispersion des graines. Les parties utilisées dans les pratiques traditionnelles sont les feuilles, les fleurs et l'écorce.",
@@ -12941,8 +13463,10 @@ const plantesData = [
     "familleDescription": "Les Verbénacées constituent une famille tropicale diversifiée de près de 1000 espèces réparties entre herbes, arbustes et arbres, particulièrement bien représentée dans les régions chaudes des Amériques. Cette famille se distingue par ses remarquables propriétés médicinales, avec des genres comme Verbena (verveine), Lippia (lippia) et Aloysia (verveine citronnelle) largement utilisés en phytothérapie traditionnelle pour leurs effets apaisants et digestifs. D'autres genres comme Lantana offrent des espèces ornementales colorées, tandis que Citharexylum fournit des bois de construction appréciés. Sur le plan phytochimique, les Verbénacées se caractérisent par une signature dominée par les iridoïdes (notamment la verbénaline), les flavonoïdes, les huiles essentielles et les tanins, ciblant préférentiellement les systèmes tégumentaire, respiratoire et digestif. Une vigilance particulière s'impose avec Lantana camara, dont les baies immatures contiennent des lantadènes hépatotoxiques et photosensibilisants, particulièrement dangereux pour le bétail mais nécessitant également prudence chez l'humain.",
     "familleImage": "",
     "familleNum": "87",
-    "toxBadgeColor": "red",
-    "toxBadgeText": "Toxique"
+    "toxBadgeColor": "green",
+    "toxBadgeText": "Non toxique",
+    "usageType": "Médicinale",
+    "maladieSummary": ""
   },
   {
     "id": 264,
@@ -12961,10 +13485,10 @@ const plantesData = [
       "ht": "Bonbonyen"
     },
     "systeme": {
-      "fr": "Selon la documentation disponible, L. camara cible principalement les systèmes respiratoire et cutan"
+      "fr": "Respiratoire, Cutané"
     },
-    "toxicite": "toxic",
-    "toxiciteLevel": "toxic",
+    "toxicite": null,
+    "toxiciteLevel": "caution",
     "sections": {
       "introduction": "Lantana camara L. (syn. Lantana aculeata) est un arbuste natif documenté dans les Départements du Sud et de la Grand'Anse d'Haïti, où il porte le nom créole de « bonbonyen ». Il appartient à la famille des Verbénacées, une famille botanique remarquable regroupant principalement des herbes, arbustes et arbres à forte valeur médicinale. Cette famille se caractérise par une signature phytochimique dominée par les iridoïdes (notamment la verbénaline), les flavonoïdes, les huiles essentielles et les tanins, ciblant préférentiellement les systèmes tégumentaire, respiratoire et cutané. Une vigilance particulière s'impose avec certaines espèces de cette famille qui renferment des principes actifs très puissants, notamment Lantana camara dont les baies non mûres contiennent des lantadènes hépatotoxiques. Au sein de cette famille, L. camara fait partie du genre Lantana, reconnu pour ses propriétés ornementales mais aussi pour sa toxicité documentée. Dans les Départements du Sud et de la Grand'Anse, cette plante est utilisée traditionnellement en médecine populaire, particulièrement pour les affections respiratoires, malgré les précautions nécessaires concernant son usage interne.",
       "description": "L. camara est un arbuste de basse altitude, abondant dans les régions étudiées, pouvant atteindre 1 à 2 mètres de hauteur dans les conditions haïtiennes. Tiges et rameaux. Les tiges sont quadrangulaires, souvent épineuses, avec une écorce rugueuse. Les jeunes rameaux présentent une pubescence fine et portent des épines recourbées qui constituent un mécanisme de défense physique contre les herbivores. Feuilles. Les feuilles sont opposées, simples, ovales à elliptiques, de 2 à 8 cm de longueur. Elles présentent une surface rugueuse au toucher, avec des nervures prononcées et un bord denté. Leur texture caractéristique résulte de la présence de poils scabres et de glandes sécrétrices d'huiles essentielles. Fleurs. L'inflorescence est un capitule dense et arrondi, portant de nombreuses petites fleurs tubulaires. Les couleurs varient du jaune à l'orange, souvent avec des nuances rouges, créant un effet décoratif apprécié. Cette variation chromatique s'intensifie avec l'âge des fleurs. Fruits. Les fruits sont de petites drupes charnues, d'abord vertes puis noires à maturité, groupées en capitules globuleux. C'est précisément dans ces fruits immatures que se concentrent les composés toxiques lantadènes. Les parties utilisées dans les pratiques locales sont les feuilles, les fleurs et occasionnellement les racines.",
@@ -12990,8 +13514,10 @@ const plantesData = [
     "familleDescription": "",
     "familleImage": "",
     "familleNum": "87",
-    "toxBadgeColor": "red",
-    "toxBadgeText": "Toxique"
+    "toxBadgeColor": "yellow",
+    "toxBadgeText": "Conditionnel",
+    "usageType": "Alimentaire et Médicinale",
+    "maladieSummary": "Respiratoire, Cutané"
   },
   {
     "id": 265,
@@ -13010,10 +13536,10 @@ const plantesData = [
       "ht": "Kouzen van"
     },
     "systeme": {
-      "fr": "Priva lappulacea cible principalement le système tégumentaire par application topique sur les plaies"
+      "fr": "Cutané"
     },
-    "toxicite": "unknown",
-    "toxiciteLevel": "unknown",
+    "toxicite": null,
+    "toxiciteLevel": "safe",
     "sections": {
       "introduction": "Priva lappulacea (L.) (syn. Verbena lappulacea L.) est une herbe native commune dans les Départements du Sud et de la Grand'Anse. Elle appartient à la famille des Verbénacées, une famille principalement composée d'herbes, d'arbustes et d'arbres, reconnue pour ses importants usages médicinaux et sa signature phytochimique dominée par les iridoïdes, les flavonoïdes, les tanins et les huiles essentielles. Cette famille cible préférentiellement les systèmes tégumentaire, respiratoire et cutané, bien que certaines espèces comme Lantana camara présentent une toxicité significative liée aux lantadènes. Au sein de cette famille, Priva lappulacea fait partie du genre Priva, qui comprend des herbes tropicales à propriétés adhésives et médicinales. L'espèce est utilisée localement sous le nom « Kouzen van », principalement pour le traitement externe des plaies et comme anti-inflammatoire. Son appellation française « Collant » fait référence à la nature adhésive de ses fruits qui s'accrochent facilement aux vêtements et au pelage des animaux, assurant ainsi sa dispersion.",
       "description": "P. lappulacea est une herbe dressée ou rampante, de croissance rapide, adaptée aux environnements perturbés de basse altitude dans le Sud et la Grand'Anse. Elle forme souvent des colonies denses le long des sentiers et dans les zones rudérales. Tiges. Les tiges sont quadrangulaires (caractéristique des Verbénacées), rugueuses au toucher, souvent ramifiées dès la base. Elles peuvent atteindre 50 à 100 cm de longueur selon les conditions de croissance. La surface est couverte de poils courts qui contribuent à la texture rugueuse de la plante. Feuilles. Les feuilles sont opposées, ovales à oblongues, à bords dentelés et surface rugueuse. Elles mesurent généralement 3 à 8 cm de longueur. Leur texture particulièrement rugueuse et leur saveur amère-piquante les rendent facilement identifiables. Les nervures sont bien marquées et la surface supérieure présente un aspect gaufré caractéristique. Fleurs. Les fleurs sont petites, blanches à roses pâles, disposées en épis terminaux denses. Chaque fleur mesure environ 2-3 mm de diamètre et présente une corolle tubulaire typique des Verbénacées, attirant principalement les petits insectes pollinisateurs. Fruits. Les fruits sont des nucules adhésives couvertes de crochets microscopiques, responsables du nom « Collant ». Cette adaptation permet une dispersion efficace par zoochorie (transport par les animaux). Les parties utilisées sont principalement les feuilles et les tiges, récoltées de préférence avant la floraison pour optimiser la concentration en principes actifs.",
@@ -13039,8 +13565,10 @@ const plantesData = [
     "familleDescription": "",
     "familleImage": "",
     "familleNum": "87",
-    "toxBadgeColor": "yellow",
-    "toxBadgeText": "Données insuffisantes"
+    "toxBadgeColor": "green",
+    "toxBadgeText": "Non toxique",
+    "usageType": "Médicinale",
+    "maladieSummary": "Cutané"
   },
   {
     "id": 266,
@@ -13059,10 +13587,10 @@ const plantesData = [
       "ht": "Vèvèn"
     },
     "systeme": {
-      "fr": "Selon les données scientifiques disponibles, S. jamaicensis agit principalement sur les systèmes ner"
+      "fr": "Digestif, Nerveux"
     },
-    "toxicite": "unknown",
-    "toxiciteLevel": "unknown",
+    "toxicite": null,
+    "toxiciteLevel": "safe",
     "sections": {
       "introduction": "Stachytarpheta jamaicensis (L.) Vahl (syn. Verbena jamaicensis) est une herbe vivace native documentée dans le Sud et la Grand'Anse. Elle appartient à la famille des Verbénacées, un groupe diversifié d'environ 1 000 espèces principalement composé d'herbes, d'arbustes et d'arbres répartis dans les régions tropicales et tempérées chaudes du monde. Cette famille présente une remarquable diversité d'usages, allant de l'alimentaire avec la verveine citronnelle (Aloysia citriodora) utilisée en tisanes aromatiques, au médicinal avec de nombreux genres comme Verbena, Stachytarpheta et Lippia reconnus pour leurs propriétés thérapeutiques. Sur le plan ornemental, plusieurs espèces de Lantana embellissent les jardins tropicaux. Phytochimiquement, les Verbénacées se caractérisent par une signature dominée par les iridoïdes — notamment la verbénaline — les flavonoïdes, les huiles essentielles et les tanins, conférant à cette famille des propriétés antioxydantes, anti-inflammatoires et antimicrobiennes ciblant préférentiellement les systèmes nerveux, digestif et tégumentaire. Une vigilance particulière s'impose cependant avec le genre Lantana, dont certaines espèces renferment des alcaloïdes hépatotoxiques comme le lantadène, particulièrement concentrés dans les baies immatures.",
       "description": "S. jamaicensis est une herbe vivace dressée pouvant atteindre 1 à 1,5 mètre de hauteur, caractérisée par sa croissance vigoureuse dans les zones perturbées des Départements du Sud et de la Grand'Anse. Tiges. Les tiges sont quadrangulaires (à section carrée), caractéristique typique de nombreuses Verbénacées, rigides et ramifiées, souvent teintées de pourpre à la base. Cette forme particulière facilite l'identification sur le terrain. Feuilles. Les feuilles sont opposées, ovales à lancéolées, de 3 à 8 cm de longueur, avec des marges dentées ou crénelées. Leur surface est rugueuse au toucher due à la présence de poils courts, et elles dégagent une odeur aromatique légèrement piquante lorsqu'on les froisse — signature olfactive des huiles essentielles qu'elles renferment. Fleurs. L'inflorescence est un épi terminal allongé et mince, pouvant mesurer 10 à 30 cm de longueur. Les petites fleurs bleues, violettes ou parfois blanches s'épanouissent de manière échelonnée le long de l'épi, créant un aspect décoratif distinctif. Chaque fleur tubulaire mesure environ 6 mm de diamètre et attire principalement les papillons et les abeilles. Fruit. Le fruit est une petite nucule sèche qui se divise en deux parties à maturité, facilitant la dispersion des graines par le vent et les animaux. Les parties utilisées comprennent les feuilles, les tiges jeunes et les fleurs, généralement récoltées avant la pleine floraison pour une concentration optimale en principes actifs.",
@@ -13088,8 +13616,10 @@ const plantesData = [
     "familleDescription": "",
     "familleImage": "",
     "familleNum": "87",
-    "toxBadgeColor": "yellow",
-    "toxBadgeText": "Données insuffisantes"
+    "toxBadgeColor": "green",
+    "toxBadgeText": "Non toxique",
+    "usageType": "Alimentaire et Médicinale",
+    "maladieSummary": "Digestif, Nerveux"
   },
   {
     "id": 267,
@@ -13110,10 +13640,10 @@ const plantesData = [
       "ht": "Lyan mòl"
     },
     "systeme": {
-      "fr": "C. verticillata cible principalement les systèmes tégumentaire et respiratoire, avec des effets docu"
+      "fr": "Urinaire, Respiratoire, Cardiovasculaire"
     },
-    "toxicite": "unknown",
-    "toxiciteLevel": "unknown",
+    "toxicite": null,
+    "toxiciteLevel": "safe",
     "sections": {
       "introduction": "Cissus verticillata (L.) (syn. Cissus sicyoides) est une liane native documentée dans les Départements du Sud et de la Grand'Anse, où elle est connue sous le nom de « Lyan mòl ». Elle appartient à la famille des Vitacées, reconnue pour ses riches usages alimentaires et médicinaux, et au genre Cissus, un groupe de lianes tropicales particulièrement valorisées dans les pharmacopées traditionnelles américaines et caribéennes pour leurs propriétés antidiabétiques remarquables. Son usage dominant dans les deux départements est médicinal, où elle est employée comme anti-inflammatoire, antioxydant, digestif, diurétique et hypotenseur, particulièrement contre le diabète, la grippe et les abcès.",
       "description": "C. verticillata est une liane vigoureuse de basse altitude, adaptée aux climats tropicaux humides des Départements du Sud et de la Grand'Anse. Tiges. Les tiges sont sarmenteuses, flexibles et peuvent atteindre plusieurs mètres de longueur. Elles présentent des nœuds renflés et des vrilles ramifiées qui permettent à la plante de s'accrocher aux supports. L'écorce est lisse, de couleur verte à brunâtre selon l'âge. Feuilles. Les feuilles sont simples, alternes, de forme ovale à cordée, avec des marges dentées. Elles présentent une nervation palmée caractéristique et une texture légèrement charnue. La surface supérieure est vert brillant, tandis que la face inférieure est plus claire. Fleurs. Les inflorescences sont des cymes axillaires composées de petites fleurs verdâtres, discrètes mais nombreuses. Chaque fleur présente quatre pétales caducs et quatre étamines. Fruit. Les fruits sont de petites baies globuleuses, d'abord vertes puis devenant rougeâtres à maturité, contenant généralement une à deux graines. Les parties utilisées dans les pratiques locales sont les feuilles, les tiges et les racines.",
@@ -13139,8 +13669,10 @@ const plantesData = [
     "familleDescription": "Reconnues pour leurs riches usages alimentaires et médicinaux, les Vitacées rassemblent environ 950 espèces réparties en 14 genres, dominées par les lianes grimpantes des régions tropicales et tempérées chaudes. Cette famille comprend des genres à forte valeur économique comme Vitis (vignes productrices de raisin), source mondiale de vin, jus et raisins secs, ainsi que des genres médicinaux traditionnels comme Cissus, largement utilisé dans les pharmacopées caribéennes et sud-américaines pour ses propriétés antidiabétiques et anti-inflammatoires. Sur le plan phytochimique, les Vitacées se distinguent par leur signature moléculaire dominée par le resvératrol — composé cardioprotecteur célèbre du raisin —, les anthocyanes responsables de la pigmentation des fruits, les flavonoïdes antioxydants, les tanins astringents et les acides organiques comme l'acide tartrique. Ces composés ciblent préférentiellement les systèmes tégumentaire, respiratoire et cardiovasculaire. Une vigilance s'impose car certaines espèces renferment des principes actifs puissants exigeant une préparation adéquate et un dosage strict, particulièrement pour les usages médicinaux prolongés.",
     "familleImage": "",
     "familleNum": "88",
-    "toxBadgeColor": "yellow",
-    "toxBadgeText": "Données insuffisantes"
+    "toxBadgeColor": "green",
+    "toxBadgeText": "Non toxique",
+    "usageType": "Médicinale",
+    "maladieSummary": "Urinaire, Respiratoire, Cardiovasculaire"
   },
   {
     "id": 268,
@@ -13158,10 +13690,10 @@ const plantesData = [
       "ht": "Rezen"
     },
     "systeme": {
-      "fr": "Selon la documentation locale des Départements du Sud et de la Grand'Anse, V. vinifera cible princip"
+      "fr": "Digestif, Cardiovasculaire"
     },
-    "toxicite": "caution",
-    "toxiciteLevel": "caution",
+    "toxicite": null,
+    "toxiciteLevel": "safe",
     "sections": {
       "introduction": "Vitis vinifera L. (syn. Vitis sylvestris) est une liane exotique cultivée dans les Départements du Sud et de la Grand'Anse d'Haïti, bien que sa production demeure rare. Elle appartient à la famille des Vitacées, dominée par des lianes grimpantes aux riches usages alimentaires et médicinaux. Cette famille se distingue par sa signature phytochimique remarquable, dominée par le resvératrol — un stilbène aux propriétés cardioprotectrices exceptionnelles —, les anthocyanes pigmentaires, les flavonoïdes et les tanins astringents. Ces composés ciblent préférentiellement les systèmes cardiovasculaire, tégumentaire et respiratoire, faisant des Vitacées une famille d'intérêt thérapeutique majeur. Il convient cependant de noter qu'une préparation adéquate et un dosage strict restent nécessaires pour certaines espèces de cette famille qui renferment des principes actifs très puissants. Au sein de cette famille, Vitis vinifera constitue l'espèce la plus étudiée mondialement, avec environ 10 000 publications scientifiques, et représente une source alimentaire et nutraceutique de premier plan. Dans les Départements du Sud et de la Grand'Anse, le raisin est consommé comme aliment frais ou transformé en jus nutritif, valorisant ses propriétés antioxydantes et cardiovasculaires.",
       "description": "V. vinifera est une liane grimpante ligneuse pouvant atteindre plusieurs mètres de longueur, adaptée aux altitudes moyennes des deux départements. Tiges et vrilles. La tige principale développe un tronc tortueux et une écorce fibreuse caractéristique. La plante grimpe grâce à des vrilles spiralées qui s'enroulent autour des supports, permettant à la liane de coloniser efficacement l'espace vertical disponible dans les jardins créoles. Feuilles. Les feuilles sont grandes, palmatilobées avec 3 à 5 lobes dentés, de couleur vert foncé sur la face supérieure et plus claire en dessous. Leur morphologie varie selon les cultivars, mais conserve cette architecture lobée distinctive. Fleurs. Les fleurs sont petites, verdâtres, regroupées en grappes denses. Elles sont généralement hermaphrodites chez les variétés cultivées, facilitant la fructification même en culture isolée. Fruit. Le fruit est une baie charnue de forme sphérique à ovoïde, regroupée en grappes pendantes. La couleur varie du vert-jaune au rouge-violet selon les cultivars, déterminée par la concentration en anthocyanes. La pulpe juteuse renferme les pépins, également valorisés pour leurs composés bioactifs. Les parties utilisées sont les fruits (consommation fraîche et transformation), les feuilles (usage médicinal traditionnel) et les pépins (source concentrée d'oligomères procyanidoliques).",
@@ -13187,8 +13719,10 @@ const plantesData = [
     "familleDescription": "",
     "familleImage": "",
     "familleNum": "88",
-    "toxBadgeColor": "yellow",
-    "toxBadgeText": "Précautions"
+    "toxBadgeColor": "green",
+    "toxBadgeText": "Non toxique",
+    "usageType": "Alimentaire et Médicinale",
+    "maladieSummary": "Digestif, Cardiovasculaire"
   },
   {
     "id": 269,
@@ -13206,7 +13740,7 @@ const plantesData = [
       "ht": "Safran"
     },
     "systeme": {
-      "fr": "Le curcuma cible préférentiellement les systèmes inflammatoire et digestif. Les curcuminoïdes inhibe"
+      "fr": "Digestif, Hépatique"
     },
     "toxicite": null,
     "toxiciteLevel": "safe",
@@ -13236,7 +13770,9 @@ const plantesData = [
     "familleImage": "",
     "familleNum": "89",
     "toxBadgeColor": "green",
-    "toxBadgeText": "Non toxique"
+    "toxBadgeText": "Non toxique",
+    "usageType": "Alimentaire et Médicinale",
+    "maladieSummary": "Digestif, Hépatique"
   },
   {
     "id": 270,
@@ -13254,10 +13790,10 @@ const plantesData = [
       "ht": "Jenjanm"
     },
     "systeme": {
-      "fr": "Le gingembre cible préférentiellement le système digestif, avec des effets documentés sur les nausée"
+      "fr": "Digestif"
     },
-    "toxicite": "caution",
-    "toxiciteLevel": "caution",
+    "toxicite": null,
+    "toxiciteLevel": "safe",
     "sections": {
       "introduction": "Zingiber officinale (syn. Amomum zingiber L.) est une herbe rhizomateuse exotique cultivée dans les Départements du Sud et de la Grand'Anse, appartenant à la famille des Zingibéracées. Au sein de cette famille, le genre Zingiber regroupe les véritables gingembres, dont Z. officinale constitue l'espèce la plus largement cultivée et utilisée mondialement pour ses propriétés culinaires et thérapeutiques. Dans le Sud et la Grand'Anse, le jenjanm occupe une place privilégiée comme condiment alimentaire et remède domestique traditionnel, particulièrement apprécié pour ses vertus digestives et anti-inflammatoires. Bien que sa production locale reste rare, cette plante demeure un élément important du patrimoine ethnobotanique régional.",
       "description": "Z. officinale est une herbe vivace tropicale de 60 à 100 cm de hauteur, cultivée principalement pour son rhizome aromatique charnu. Rhizome. Le rhizome constitue l'organe principal d'intérêt : horizontal, ramifié, noueux, de couleur beige à l'extérieur et jaune pâle à l'intérieur. Sa surface présente des cicatrices annulaires marquant les anciens points d'insertion des tiges aériennes. Ce rhizome dégage une odeur piquante caractéristique lorsqu'on le brise et développe une saveur brûlante distinctive. Tiges. Les tiges aériennes, appelées pseudotiges, sont formées par l'enroulement des gaines foliaires. Elles sont dressées, lisses et peuvent atteindre un mètre de hauteur dans les conditions climatiques favorables du Sud et de la Grand'Anse. Feuilles. Les feuilles sont alternes, lancéolées, de 15 à 30 cm de longueur, à nervures parallèles caractéristiques des monocotylédones. Elles dégagent un parfum épicé lorsqu'on les froisse. Fleurs. Dans les conditions haïtiennes, la floraison est rare. Lorsqu'elle survient, elle produit un épi terminal dense composé de fleurs jaune-vert à bractées colorées, typiques de la famille des Zingibéracées. La partie utilisée est exclusivement le rhizome, récolté après 8 à 10 mois de croissance.",
@@ -13283,8 +13819,10 @@ const plantesData = [
     "familleDescription": "",
     "familleImage": "",
     "familleNum": "89",
-    "toxBadgeColor": "yellow",
-    "toxBadgeText": "Précautions"
+    "toxBadgeColor": "green",
+    "toxBadgeText": "Non toxique",
+    "usageType": "Alimentaire et Médicinale",
+    "maladieSummary": "Digestif"
   },
   {
     "id": 271,
@@ -13303,10 +13841,10 @@ const plantesData = [
       "ht": "Gayak"
     },
     "systeme": {
-      "fr": "Le gaïac cible préférentiellement le système musculo-squelettique, où il trouve ses applications les"
+      "fr": "Musculosquelettique"
     },
-    "toxicite": "caution",
-    "toxiciteLevel": "caution",
+    "toxicite": null,
+    "toxiciteLevel": "safe",
     "sections": {
       "introduction": "Guaiacum officinale L. (syn. Guaiacum bijugum) est un arbre natif documenté dans les Départements du Sud et de la Grand'Anse. Il appartient à la famille des Zygophyllacées, reconnue pour ses bois exceptionnellement durs et ses propriétés médicinales anti-inflammatoires. Au sein de cette famille, il fait partie du genre Guaiacum, qui regroupe les essences ligneuses les plus précieuses des Caraïbes. Son usage principal concerne la construction — où il constitue un bois d'œuvre de première qualité — ainsi que la médecine traditionnelle, particulièrement pour le traitement des affections rhumatismales et inflammatoires.",
       "description": "G. officinale est un arbre de taille moyenne, caractéristique des formations xérophytes de basse altitude des Départements du Sud et de la Grand'Anse, où il devient de plus en plus rare. Tronc et bois. Le tronc développe un bois d'une densité exceptionnelle, parmi les plus élevées au monde, de couleur brun verdâtre à cœur très foncé. Ce bois présente une résistance remarquable à l'eau et aux agents de dégradation, propriété qui en fait un matériau de choix pour les constructions navales et les ouvrages exposés à l'humidité. L'écorce est grisâtre et rugueuse. Feuilles. Les feuilles sont composées paripennées, généralement à 2-3 paires de folioles coriaces, luisantes, de forme ovale à obovale. Elles présentent une adaptation remarquable à la sécheresse par leur texture épaisse et leur surface vernissée qui limite l'évaporation. Fleurs. Les fleurs sont petites, à 5 pétales bleus à violets, regroupées en cymes terminales. Elles attirent principalement les abeilles et autres pollinisateurs spécialisés des milieux secs. Fruit. Le fruit est une capsule cordiforme orange à rouge vif à maturité, s'ouvrant pour libérer des graines recouvertes d'un arille rouge écarlate, favorisant la dispersion par les oiseaux frugivores. Les parties utilisées sont le bois, les racines et l'écorce, chacune concentrant des composés actifs spécifiques.",
@@ -13332,7 +13870,9 @@ const plantesData = [
     "familleDescription": "Dominant les formations xérophytes tropicales, les Zygophyllacées rassemblent environ 285 espèces réparties en 22 genres, principalement sous forme d'arbres et d'arbustes adaptés aux climats arides. Cette famille se distingue par ses bois extrêmement durs et durables, dont certains — comme le gaïac (Guaiacum) — comptent parmi les plus précieux au monde pour leurs propriétés mécaniques exceptionnelles. Sur le plan médicinal, les Zygophyllacées constituent une ressource thérapeutique majeure, particulièrement reconnue pour le traitement des affections musculo-squelettiques et inflammatoires. La signature phytochimique familiale se caractérise par une forte concentration en lignanes guaiacoliques, en saponines triterpéniques, en résines complexes et en flavonoïdes, conférant à ces plantes leurs propriétés anti-inflammatoires et diurétiques documentées. Ces composés ciblent préférentiellement le système musculo-squelettique, expliquant l'usage traditionnel étendu contre les rhumatismes et l'arthrite. Il convient de noter qu'une vigilance particulière s'impose avec certaines espèces de cette famille, dont les principes actifs puissants exigent un dosage strict et une préparation adéquate pour éviter les effets indésirables.",
     "familleImage": "",
     "familleNum": "90",
-    "toxBadgeColor": "yellow",
-    "toxBadgeText": "Précautions"
+    "toxBadgeColor": "green",
+    "toxBadgeText": "Non toxique",
+    "usageType": "Médicinale",
+    "maladieSummary": "Musculosquelettique"
   }
 ];
