@@ -168,120 +168,121 @@ header h1 i {
     display: flex;
     flex-direction: column;
     background: white;
-    border-radius: 1rem;
+    border-radius: 12px;
     overflow: hidden;
-    box-shadow: 0 4px 6px -1px rgba(0,0,0,0.1);
+    border: 1px solid #e0e0e0;
     transition: transform 0.3s, box-shadow 0.3s;
     cursor: pointer;
 }
-
 .plant-card:hover {
-    transform: translateY(-0.25rem);
-    box-shadow: 0 20px 25px -5px rgba(0,0,0,0.1);
+    transform: translateY(-3px);
+    box-shadow: 0 8px 24px rgba(0,0,0,0.12);
 }
 
-.plant-card .h-48 {
-    height: 12rem;
+/* Card image */
+.card-img {
+    height: 200px;
     overflow: hidden;
-    position: relative;
+    background: #f5f5f5;
 }
-
-.plant-card img {
+.card-img img {
     width: 100%;
     height: 100%;
     object-fit: cover;
-    transition: transform 0.5s;
+    transition: transform 0.4s;
+}
+.plant-card:hover .card-img img {
+    transform: scale(1.05);
 }
 
-.plant-card:hover img {
-    transform: scale(1.1);
-}
-
-.plant-card .absolute {
-    position: absolute;
-    top: 0.75rem;
-    right: 0.75rem;
-    background: rgba(255,255,255,0.9);
-    padding: 0.25rem 0.75rem;
-    border-radius: 9999px;
-    font-size: 0.75rem;
-    font-weight: 600;
-    box-shadow: 0 1px 3px rgba(0,0,0,0.1);
-}
-
-.bg-green-100 { background-color: #dcfce7; color: #166534; }
-.bg-red-100 { background-color: #fee2e2; color: #991b1b; }
-.bg-purple-100 { background-color: #f3e8ff; color: #6b21a8; }
-
-.plant-card .p-5 {
-    padding: 1.25rem;
-}
-
-.text-\[\#c5a059\] {
-    color: #c5a059;
-    font-size: 0.75rem;
-    font-weight: 600;
-    text-transform: uppercase;
-    letter-spacing: 0.05em;
-}
-
-.plant-card h3 {
-    font-size: 1.125rem;
-    font-weight: 800;
-    font-style: italic;
-    margin: 0.25rem 0 0.25rem;
-    color: #111827;
-}
-
-.plant-card .text-gray-500 {
-    color: #6b7280;
-    font-size: 0.875rem;
-    margin-bottom: 0.75rem;
-}
-
-.plant-card .text-xs {
-    font-size: 0.75rem;
-    color: #4b5563;
-}
-
-.plant-card .flex {
+/* Card body */
+.card-body {
+    padding: 16px 18px 14px;
     display: flex;
-    align-items: flex-start;
-    gap: 0.5rem;
-    margin-bottom: 0.5rem;
+    flex-direction: column;
+    flex-grow: 1;
 }
 
-.plant-card .fa-heart-pulse,
-.plant-card .fa-virus-covid {
-    color: #2c5e3b;
-    width: 1rem;
-    text-align: center;
+/* Scientific name */
+.card-title {
+    font-size: 1.05rem;
+    font-weight: 700;
+    font-style: italic;
+    color: #1a1a1a;
+    margin: 0 0 4px;
+    line-height: 1.3;
 }
 
-.plant-card .font-bold {
+/* Creole name — blue link style */
+.card-creole {
+    color: #1a73e8;
+    font-size: 0.9rem;
+    font-weight: 600;
+    margin: 0 0 2px;
+}
+
+/* French name */
+.card-french {
+    color: #777;
+    font-size: 0.82rem;
+    margin: 0 0 8px;
+}
+
+/* Family — green link */
+.card-famille {
+    margin: 0 0 10px;
+    font-size: 0.85rem;
+}
+.card-famille a {
+    color: #28a745;
+    text-decoration: none;
+    font-weight: 600;
+}
+.card-famille a:hover {
+    text-decoration: underline;
+}
+
+/* Usage & Maladies fields */
+.card-field {
+    font-size: 0.82rem;
+    color: #333;
+    margin: 0 0 3px;
+    line-height: 1.4;
+}
+.card-field strong {
     font-weight: 600;
 }
 
-/* Toxicity badges */
-.tox-safe { background: #d4edda; color: #155724; }
-.tox-caution { background: #fff3cd; color: #856404; }
-.tox-danger { background: #f8d7da; color: #721c24; }
+/* Toxicity line */
+.card-tox {
+    font-size: 0.82rem;
+    font-weight: 600;
+    margin: 6px 0 10px;
+    color: #555;
+}
 
-/* Card buttons */
+/* Buttons */
+.card-buttons {
+    margin-top: auto;
+    display: flex;
+    gap: 8px;
+}
 .btn-fiche, .btn-desc {
     flex: 1;
     text-align: center;
-    padding: 7px 0;
-    font-size: 0.8rem;
-    font-weight: 600;
-    border-radius: 4px;
+    padding: 8px 0;
+    font-size: 0.82rem;
+    font-weight: 700;
+    border-radius: 6px;
     text-decoration: none;
     color: #fff;
     transition: opacity 0.2s;
+    border: none;
 }
 .btn-fiche { background: #28a745; }
-.btn-desc { background: #17a2b8; }
+.btn-desc { background: #2c3e50; }
 .btn-fiche:hover, .btn-desc:hover { opacity: 0.85; }
+.btn-fiche i, .btn-desc i { margin-right: 4px; }
 
 /* ===== GRILLE DES CATÉGORIES ===== */
 .grid-cols-1.md\:grid-cols-2.lg\:grid-cols-3 {

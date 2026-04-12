@@ -40,33 +40,29 @@ function renderPlantes(plantesToRender) {
         const usageType = p.usageType || 'Médicinale';
         const maladies = p.maladieSummary || '';
 
-        // Toxicity
+        // Toxicity dot + text
         const toxColor = p.toxBadgeColor || 'green';
         const toxText = p.toxBadgeText || 'Non toxique';
-        const toxCls = { green:'tox-safe', yellow:'tox-caution', orange:'tox-caution', red:'tox-danger' };
+        const toxDot = { green:'🟢', yellow:'🟡', orange:'🟠', red:'🔴' };
 
         return `
         <div class="plant-card" onclick="window.location='plante.html?id=${p.plantId}'">
-            <div class="h-48">
+            <div class="card-img">
                 <img src="${imgSrc}" alt="${p.nomScientifique}"
                      loading="lazy"
                      onerror="this.onerror=null;this.src='${placeholderSVG}';">
             </div>
-            <div class="p-5" style="display:flex;flex-direction:column;flex-grow:1;">
-                <h3>${p.nomScientifique}</h3>
-                ${nomCommun ? `<p class="text-gray-500" style="margin-bottom:2px;">« ${nomCommun} »</p>` : ''}
-                ${nomFr ? `<p style="color:#999;font-size:0.8rem;margin:0 0 8px;">${nomFr}</p>` : ''}
-                <p class="text-xs" style="margin-bottom:4px;"><span class="font-bold">Famille :</span> <a href="#" onclick="event.stopPropagation();document.getElementById('filterFamille').value='${(p.famille||'').replace(/'/g,"\\'")}';applyFilters();" style="color:#28a745;text-decoration:none;">${p.famille || ''}</a></p>
-                <p class="text-xs" style="margin-bottom:4px;"><span class="font-bold">Usage :</span> ${usageType}</p>
-                ${maladies ? `<p class="text-xs" style="margin-bottom:4px;"><span class="font-bold">Maladies :</span> ✅ ${maladies}</p>` : ''}
-                <div style="margin:6px 0 8px;">
-                    <span class="${toxCls[toxColor] || 'tox-safe'}" style="display:inline-block;font-size:0.7rem;font-weight:600;padding:2px 10px;border-radius:12px;">${toxText}</span>
-                </div>
-                <div style="margin-top:auto;display:flex;gap:6px;">
-                    <a href="plante.html?id=${p.plantId}" onclick="event.stopPropagation();"
-                       class="btn-fiche">Fiche</a>
-                    <a href="plante.html?id=${p.plantId}#s-description" onclick="event.stopPropagation();"
-                       class="btn-desc">Description</a>
+            <div class="card-body">
+                <h3 class="card-title">${p.nomScientifique}</h3>
+                ${nomCommun ? `<p class="card-creole">« ${nomCommun} »</p>` : ''}
+                ${nomFr ? `<p class="card-french">${nomFr}</p>` : ''}
+                <p class="card-famille"><a href="#" onclick="event.stopPropagation();document.getElementById('filterFamille').value='${(p.famille||'').replace(/'/g,"\\'")}';applyFilters();">${p.famille || ''}</a></p>
+                <p class="card-field"><strong>Usage :</strong> ${usageType}</p>
+                ${maladies ? `<p class="card-field"><strong>Maladies :</strong> ✅ ${maladies}</p>` : ''}
+                <p class="card-tox"><span>${toxDot[toxColor] || '🟢'}</span> ${toxText}</p>
+                <div class="card-buttons">
+                    <a href="plante.html?id=${p.plantId}" onclick="event.stopPropagation();" class="btn-fiche"><i class="fa-solid fa-file-lines"></i> Fiche</a>
+                    <a href="plante.html?id=${p.plantId}#s-description" onclick="event.stopPropagation();" class="btn-desc"><i class="fa-solid fa-book-open"></i> Description</a>
                 </div>
             </div>
         </div>`;
