@@ -3,13 +3,81 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Page d'Accueil — PMAA Haïti</title>
+<title>PMAA Haïti — Plantes Médicinales, Aromatiques et Alimentaires</title>
 <link rel="stylesheet" href="pmaa-styles.css">
+<style>
+  /* Homepage-specific styles */
+  .home-grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 20px;
+    max-width: 960px;
+    margin: 0 auto;
+  }
+  @media(max-width: 640px) { .home-grid { grid-template-columns: 1fr; } }
+
+  .home-box {
+    background: #fff;
+    border-radius: 10px;
+    padding: 28px 24px;
+    border: 1px solid #e0e0e0;
+    border-left: 5px solid #ccc;
+    transition: transform 0.2s, box-shadow 0.2s;
+  }
+  .home-box:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 6px 20px rgba(0,0,0,0.1);
+  }
+  .home-box .box-icon {
+    font-size: 28px;
+    margin-bottom: 10px;
+  }
+  .home-box h3 {
+    font-size: 16px;
+    font-weight: 700;
+    color: #1a3d2c;
+    margin: 0 0 8px;
+    line-height: 1.3;
+  }
+  .home-box p {
+    font-size: 13px;
+    color: #555;
+    line-height: 1.5;
+    margin: 0 0 12px;
+  }
+  .home-box .box-badge {
+    display: inline-block;
+    font-size: 11px;
+    font-weight: 600;
+    padding: 3px 12px;
+    border-radius: 20px;
+    color: #fff;
+  }
+  .section-audience {
+    background: #f8f7f4;
+    padding: 60px 0;
+  }
+  .section-audience h2 {
+    text-align: center;
+    font-size: 24px;
+    color: #1a3d2c;
+    margin-bottom: 8px;
+  }
+  .section-audience .subtitle {
+    text-align: center;
+    font-size: 14px;
+    color: #777;
+    margin-bottom: 36px;
+    max-width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+</style>
 </head>
 <body>
 <div id="topbar-placeholder"></div>
 
-<!-- SECTION 1: HERO -->
+<!-- HERO -->
 <section class="hero">
   <div class="hero-content">
     <h1 data-i18n="hero_title">Les Plantes du Grand Sud au Service de la Vie</h1>
@@ -51,141 +119,85 @@
   </div>
 </section>
 
-<!-- SECTION 2: AUDIENCE -->
-<section class="section-bg">
+<!-- 8 BOXES: 2-COLUMN GRID -->
+<section class="section-audience">
   <div class="container">
-    <h2 data-i18n="sec_audience_h">Qui Sommes-Nous Serve</h2>
-    <p class="section-subtitle" data-i18n="sec_audience_sub">PMAA facilite la collaboration entre décideurs, praticiens, communautés et chercheurs pour valoriser les plantes du Grand Sud.</p>
+    <h2 data-i18n="sec_audience_h">Qui Servons-Nous</h2>
+    <p class="subtitle" data-i18n="sec_audience_sub">PMAA facilite la collaboration entre décideurs, praticiens, communautés et chercheurs pour valoriser les plantes du Grand Sud.</p>
 
-    <div class="audience-grid">
-      <!-- ENV -->
-      <div class="aud-card" style="border-top: 4px solid #27AE60;">
-        <div class="aud-icon">🏞️</div>
+    <div class="home-grid">
+
+      <!-- 1. Environnement -->
+      <div class="home-box" style="border-left-color: #27AE60;">
+        <div class="box-icon">🏞️</div>
         <h3 data-fr="Ministère de l'Environnement" data-en="Ministry of the Environment" data-kr="Ministè Anviwònman">Ministère de l'Environnement</h3>
-        <p data-fr="Conservation, biodiversité, aires protégées et gestion durable des ressources forestières du Grand Sud." data-en="Conservation, biodiversity, protected areas and sustainable management of forest resources of the Grand Sud." data-kr="Konsèvasyon, byodivèsite, zòn pwoteje ak jèsyon dirab resous forè Gran Sid la.">Conservation, biodiversité, aires protégées et gestion durable des ressources forestières du Grand Sud.</p>
-        <span class="badge" style="background-color: #27AE60;" data-fr="Décideur · Conservation" data-en="Decision-maker · Conservation" data-kr="Dèsidè · Konsèvasyon">Décideur · Conservation</span>
+        <p data-fr="Conservation, biodiversité, aires protégées et gestion durable des ressources forestières du Grand Sud." data-en="Conservation, biodiversity, protected areas and sustainable management of forest resources." data-kr="Konsèvasyon, byodivèsite, zòn pwoteje ak jèsyon dirab resous forè Gran Sid la.">Conservation, biodiversité, aires protégées et gestion durable des ressources forestières du Grand Sud.</p>
+        <span class="box-badge" style="background:#27AE60;" data-fr="Décideur · Conservation" data-en="Decision-maker · Conservation" data-kr="Dèsidè · Konsèvasyon">Décideur · Conservation</span>
       </div>
 
-      <!-- SANTÉ -->
-      <div class="aud-card" style="border-top: 4px solid #E74C3C;">
-        <div class="aud-icon">🏥</div>
-        <h3 data-fr="Ministère de la Santé Publique" data-en="Ministry of Public Health" data-kr="Ministè Sante Piblik">Ministère de la Santé Publique</h3>
-        <p data-fr="Pharmacopée nationale, protocoles thérapeutiques, prévention des maladies et intégration des savoirs traditionnels." data-en="National pharmacopoeia, therapeutic protocols, disease prevention and integration of traditional knowledge." data-kr="Farmakopeya nasyonal, pwotokòl terape, prevansyon maladi ak entegrasyon konesans tradisyonel.">Pharmacopée nationale, protocoles thérapeutiques, prévention des maladies et intégration des savoirs traditionnels.</p>
-        <span class="badge" style="background-color: #E74C3C;" data-fr="Décideur · Santé" data-en="Decision-maker · Health" data-kr="Dèsidè · Sante">Décideur · Santé</span>
-      </div>
-
-      <!-- AGRI -->
-      <div class="aud-card" style="border-top: 4px solid #F39C12;">
-        <div class="aud-icon">🌾</div>
+      <!-- 2. Agriculture -->
+      <div class="home-box" style="border-left-color: #F39C12;">
+        <div class="box-icon">🌾</div>
         <h3 data-fr="Ministère de l'Agriculture" data-en="Ministry of Agriculture" data-kr="Ministè Agrikilti">Ministère de l'Agriculture</h3>
         <p data-fr="Protection des cultures, production durable, agroforesterie et soutien aux petits producteurs." data-en="Crop protection, sustainable production, agroforestry and support for small producers." data-kr="Pwoteksyon rekòt, pwoduksyon dirab, agroforestri ak sipò pou ti pwodiktè.">Protection des cultures, production durable, agroforesterie et soutien aux petits producteurs.</p>
-        <span class="badge" style="background-color: #F39C12;" data-fr="Décideur · Agriculture" data-en="Decision-maker · Agriculture" data-kr="Dèsidè · Agrikilti">Décideur · Agriculture</span>
+        <span class="box-badge" style="background:#F39C12;" data-fr="Décideur · Agriculture" data-en="Decision-maker · Agriculture" data-kr="Dèsidè · Agrikilti">Décideur · Agriculture</span>
       </div>
 
-      <!-- COMMERCE -->
-      <div class="aud-card" style="border-top: 4px solid #2980B9;">
-        <div class="aud-icon">📦</div>
+      <!-- 3. Santé -->
+      <div class="home-box" style="border-left-color: #E74C3C;">
+        <div class="box-icon">🏥</div>
+        <h3 data-fr="Ministère de la Santé Publique" data-en="Ministry of Public Health" data-kr="Ministè Sante Piblik">Ministère de la Santé Publique</h3>
+        <p data-fr="Pharmacopée nationale, protocoles thérapeutiques, prévention des maladies et intégration des savoirs traditionnels." data-en="National pharmacopoeia, therapeutic protocols, disease prevention and integration of traditional knowledge." data-kr="Farmakopeya nasyonal, pwotokòl terape, prevansyon maladi ak entegrasyon konesans tradisyonel.">Pharmacopée nationale, protocoles thérapeutiques, prévention des maladies et intégration des savoirs traditionnels.</p>
+        <span class="box-badge" style="background:#E74C3C;" data-fr="Décideur · Santé" data-en="Decision-maker · Health" data-kr="Dèsidè · Sante">Décideur · Santé</span>
+      </div>
+
+      <!-- 4. Commerce -->
+      <div class="home-box" style="border-left-color: #2980B9;">
+        <div class="box-icon">📦</div>
         <h3 data-fr="Ministère du Commerce" data-en="Ministry of Commerce" data-kr="Ministè Komès">Ministère du Commerce</h3>
         <p data-fr="Filières commerciales, certification internationale, standards d'exportation et développement économique." data-en="Commercial chains, international certification, export standards and economic development." data-kr="Filyè komèsyal, sètifikasyon entènasyonal, estanda ekspòtasyon ak devlopman ekonomik.">Filières commerciales, certification internationale, standards d'exportation et développement économique.</p>
-        <span class="badge" style="background-color: #2980B9;" data-fr="Décideur · Commerce" data-en="Decision-maker · Commerce" data-kr="Dèsidè · Komès">Décideur · Commerce</span>
+        <span class="box-badge" style="background:#2980B9;" data-fr="Décideur · Commerce" data-en="Decision-maker · Commerce" data-kr="Dèsidè · Komès">Décideur · Commerce</span>
       </div>
 
-      <!-- DOKTÈ FEY -->
-      <div class="aud-card" style="border-top: 4px solid #8E44AD;">
-        <div class="aud-icon">🌿</div>
+      <!-- 5. Doktè Fey -->
+      <div class="home-box" style="border-left-color: #8E44AD;">
+        <div class="box-icon">🌿</div>
         <h3 data-fr="Guérisseurs & Doktè Fey" data-en="Healers & Doktè Fey" data-kr="Gèrisè & Doktè Fey">Guérisseurs & Doktè Fey</h3>
         <p data-fr="Savoirs traditionnels, identification des plantes, propriétés ancestrales et transmission intergénérationnelle." data-en="Traditional knowledge, plant identification, ancestral properties and intergenerational transmission." data-kr="Konesans tradisyonel, idantifikasyon plant, kalite ansèstal ak transmisyon entèjenèrasyon.">Savoirs traditionnels, identification des plantes, propriétés ancestrales et transmission intergénérationnelle.</p>
-        <span class="badge" style="background-color: #8E44AD;" data-fr="Savoirs Traditionnels" data-en="Traditional Knowledge" data-kr="Konesans Tradisyonel">Savoirs Traditionnels</span>
+        <span class="box-badge" style="background:#8E44AD;" data-fr="Savoirs Traditionnels" data-en="Traditional Knowledge" data-kr="Konesans Tradisyonel">Savoirs Traditionnels</span>
       </div>
 
-      <!-- PUBLIC -->
-      <div class="aud-card" style="border-top: 4px solid #16A085;">
-        <div class="aud-icon">👨‍👩‍👧</div>
+      <!-- 6. Grand Public -->
+      <div class="home-box" style="border-left-color: #16A085;">
+        <div class="box-icon">👨‍👩‍👧</div>
         <h3 data-fr="Grand Public & Familles" data-en="General Public & Families" data-kr="Gwo Piblik & Fanmi">Grand Public & Familles</h3>
         <p data-fr="Guides pratiques, recettes, dosages sûrs, prévention et promotion de la santé communautaire." data-en="Practical guides, recipes, safe dosages, prevention and promotion of community health." data-kr="Gid pratik, resèt, doze sekirite, prevansyon ak pwomosyon sante kominoté.">Guides pratiques, recettes, dosages sûrs, prévention et promotion de la santé communautaire.</p>
-        <span class="badge" style="background-color: #16A085;" data-fr="Santé Communautaire" data-en="Community Health" data-kr="Sante Kominoté">Santé Communautaire</span>
+        <span class="box-badge" style="background:#16A085;" data-fr="Santé Communautaire" data-en="Community Health" data-kr="Sante Kominoté">Santé Communautaire</span>
       </div>
 
-      <!-- PRATICIENS -->
-      <div class="aud-card" style="border-top: 4px solid #D35400;">
-        <div class="aud-icon">🔬</div>
+      <!-- 7. Praticiens -->
+      <div class="home-box" style="border-left-color: #D35400;">
+        <div class="box-icon">🔬</div>
         <h3 data-fr="Naturopathes & Phytothérapeutes" data-en="Naturopaths & Phytotherapists" data-kr="Natiropat & Fitoterap">Naturopathes & Phytothérapeutes</h3>
         <p data-fr="Données phytochimiques détaillées, protocoles cliniques, interactions et research-based evidence." data-en="Detailed phytochemical data, clinical protocols, interactions and research-based evidence." data-kr="Done fitochimik detaye, pwotokòl klini, entèraksyon ak prèv baze sou rechèch.">Données phytochimiques détaillées, protocoles cliniques, interactions et research-based evidence.</p>
-        <span class="badge" style="background-color: #D35400;" data-fr="Praticiens" data-en="Practitioners" data-kr="Pratisyen">Praticiens</span>
+        <span class="box-badge" style="background:#D35400;" data-fr="Praticiens" data-en="Practitioners" data-kr="Pratisyen">Praticiens</span>
       </div>
 
-      <!-- CHERCHEURS -->
-      <div class="aud-card" style="border-top: 4px solid #2C3E50;">
-        <div class="aud-icon">🎓</div>
+      <!-- 8. Chercheurs -->
+      <div class="home-box" style="border-left-color: #2C3E50;">
+        <div class="box-icon">🎓</div>
         <h3 data-fr="Chercheurs & Académiques" data-en="Researchers & Academics" data-kr="Cherchè & Akademik">Chercheurs & Académiques</h3>
         <p data-fr="Base de données complète, publications TRAMIL/PubMed, données moléculaires et ressources scientifiques." data-en="Complete database, TRAMIL/PubMed publications, molecular data and scientific resources." data-kr="Baz done konplè, publikasyon TRAMIL/PubMed, done molekilè ak resous syantifik.">Base de données complète, publications TRAMIL/PubMed, données moléculaires et ressources scientifiques.</p>
-        <span class="badge" style="background-color: #2C3E50;" data-fr="Recherche" data-en="Research" data-kr="Rechèch">Recherche</span>
-      </div>
-    </div>
-  </div>
-</section>
-
-<!-- SECTION 7: MINISTRY PORTALS -->
-<section class="section-dark">
-  <div class="container">
-    <h2 style="color: white;" data-i18n="sec_min_h">Portails Ministériels</h2>
-    <p class="section-subtitle" style="color: #ccc;" data-i18n="sec_min_sub">Chaque ministère accède aux données spécialisées dont il a besoin pour agir.</p>
-
-    <div class="grid-4">
-      <!-- ENV -->
-      <div class="min-card" style="border-left: 5px solid #27AE60;">
-        <h3 data-fr="Ministère de l'Environnement" data-en="Ministry of the Environment" data-kr="Ministè Anviwònman">Ministère de l'Environnement</h3>
-        <ul>
-          <li data-fr="Cartographie des espèces par zone" data-en="Species mapping by zone" data-kr="Katografi espès pa zòn">Cartographie des espèces par zone</li>
-          <li data-fr="Statut UICN et conservation" data-en="IUCN status and conservation" data-kr="Estati UICN ak konsèvasyon">Statut UICN et conservation</li>
-          <li data-fr="Donnée écologiques & habitats" data-en="Ecological data & habitats" data-kr="Done ekolojik & abita">Donnée écologiques & habitats</li>
-          <li data-fr="Stratégies de protection" data-en="Protection strategies" data-kr="Estrateji pwoteksyon">Stratégies de protection</li>
-        </ul>
-        <a href="ministeres.html" class="btn btn-gold" data-fr="Accès Portail →" data-en="Access Portal →" data-kr="Aksè Potal →">Accès Portail →</a>
+        <span class="box-badge" style="background:#2C3E50;" data-fr="Recherche" data-en="Research" data-kr="Rechèch">Recherche</span>
       </div>
 
-      <!-- SANTÉ -->
-      <div class="min-card" style="border-left: 5px solid #E74C3C;">
-        <h3 data-fr="Ministère de la Santé" data-en="Ministry of Health" data-kr="Ministè Sante">Ministère de la Santé</h3>
-        <ul>
-          <li data-fr="Fiches thérapeutiques TRAMIL" data-en="TRAMIL therapeutic sheets" data-kr="Fich terape TRAMIL">Fiches thérapeutiques TRAMIL</li>
-          <li data-fr="Protocoles de phytothérapie" data-en="Phytotherapy protocols" data-kr="Pwotokòl fitoterap">Protocoles de phytothérapie</li>
-          <li data-fr="Usages documentés & Evidence" data-en="Documented uses & Evidence" data-kr="Itilizasyon dokimante & Prèv">Usages documentés & Evidence</li>
-          <li data-fr="Formation des professionnels" data-en="Professional training" data-kr="Fòmasyon pwofesyonèl">Formation des professionnels</li>
-        </ul>
-        <a href="ministeres.html" class="btn btn-gold" data-fr="Accès Portail →" data-en="Access Portal →" data-kr="Aksè Potal →">Accès Portail →</a>
-      </div>
-
-      <!-- AGRI -->
-      <div class="min-card" style="border-left: 5px solid #F39C12;">
-        <h3 data-fr="Ministère de l'Agriculture" data-en="Ministry of Agriculture" data-kr="Ministè Agrikilti">Ministère de l'Agriculture</h3>
-        <ul>
-          <li data-fr="Guide de production durable" data-en="Sustainable production guide" data-kr="Gid pwoduksyon dirab">Guide de production durable</li>
-          <li data-fr="Agroforesterie & protection" data-en="Agroforestry & protection" data-kr="Agroforestri & pwoteksyon">Agroforesterie & protection</li>
-          <li data-fr="Soutien aux petits producteurs" data-en="Support for small producers" data-kr="Sipò pou ti pwodiktè">Soutien aux petits producteurs</li>
-          <li data-fr="Semencerie & biodiversité" data-en="Seed banks & biodiversity" data-kr="Gremn bank & byodivèsite">Semencerie & biodiversité</li>
-        </ul>
-        <a href="ministeres.html" class="btn btn-gold" data-fr="Accès Portail →" data-en="Access Portal →" data-kr="Aksè Potal →">Accès Portail →</a>
-      </div>
-
-      <!-- COMMERCE -->
-      <div class="min-card" style="border-left: 5px solid #2980B9;">
-        <h3 data-fr="Ministère du Commerce" data-en="Ministry of Commerce" data-kr="Ministè Komès">Ministère du Commerce</h3>
-        <ul>
-          <li data-fr="Filières d'export PMAA" data-en="PMAA export chains" data-kr="Filyè ekspò PMAA">Filières d'export PMAA</li>
-          <li data-fr="Standards internationaux" data-en="International standards" data-kr="Estanda entènasyonal">Standards internationaux</li>
-          <li data-fr="Analyse de marché & prix" data-en="Market analysis & prices" data-kr="Analiz mache & pri">Analyse de marché & prix</li>
-          <li data-fr="Certification & qualité" data-en="Certification & quality" data-kr="Sètifikasyon & kalite">Certification & qualité</li>
-        </ul>
-        <a href="ministeres.html" class="btn btn-gold" data-fr="Accès Portail →" data-en="Access Portal →" data-kr="Aksè Potal →">Accès Portail →</a>
-      </div>
     </div>
   </div>
 </section>
 
 <div id="footer-placeholder"></div>
 
-<script src="pmaa-nav.js?v=20260411"></script>
+<script src="pmaa-nav.js?v=20260412"></script>
 <script>
 PMAA.renderNav('index');
 PMAA.renderFooter();
