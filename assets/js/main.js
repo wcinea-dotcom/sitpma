@@ -41,46 +41,57 @@ function renderPlantes(plantesToRender) {
         const systemes = p.maladieSummary || (p.systeme && p.systeme.fr) || '';
 
         // Toxicity badge
-        let toxBadgeHTML = '';
         const toxColor = p.toxBadgeColor || 'green';
         const toxText = p.toxBadgeText || 'Non toxique';
-        if (toxColor === 'green') {
-            toxBadgeHTML = `<span style="display:inline-flex;align-items:center;gap:4px;background:#DCF0E4;color:#0D5229;padding:2px 10px;border-radius:12px;font-size:11px;font-weight:700;">🟢 ${toxText}</span>`;
-        } else if (toxColor === 'yellow') {
-            toxBadgeHTML = `<span style="display:inline-flex;align-items:center;gap:4px;background:#FEF3CD;color:#7A5500;padding:2px 10px;border-radius:12px;font-size:11px;font-weight:700;">🟡 ${toxText}</span>`;
-        } else if (toxColor === 'orange') {
-            toxBadgeHTML = `<span style="display:inline-flex;align-items:center;gap:4px;background:#FEE5CC;color:#7A3000;padding:2px 10px;border-radius:12px;font-size:11px;font-weight:700;">🟠 ${toxText}</span>`;
-        } else if (toxColor === 'red') {
-            toxBadgeHTML = `<span style="display:inline-flex;align-items:center;gap:4px;background:#FDDCDC;color:#7A0000;padding:2px 10px;border-radius:12px;font-size:11px;font-weight:700;">🔴 ${toxText}</span>`;
-        }
+        const toxStyles = {
+            green:  'background:#dcfce7;color:#166534;border:1px solid #bbf7d0;',
+            yellow: 'background:#fef9c3;color:#854d0e;border:1px solid #fef08a;',
+            orange: 'background:#ffedd5;color:#9a3412;border:1px solid #fdba74;',
+            red:    'background:#fee2e2;color:#991b1b;border:1px solid #fecaca;'
+        };
+        const toxEmoji = { green:'🟢', yellow:'🟡', orange:'🟠', red:'🔴' };
+
+        // System badges
+        const sysBadges = systemes ? systemes.split(',').slice(0,3).map(s =>
+            `<span style="display:inline-block;background:#f0fdf4;color:#166534;font-size:10px;font-weight:600;padding:2px 8px;border-radius:10px;border:1px solid #bbf7d0;">${s.trim()}</span>`
+        ).join(' ') : '';
 
         return `
-        <div class="plant-card bg-white rounded-2xl shadow hover:shadow-xl transition-shadow duration-300 overflow-hidden border border-gray-100 flex flex-col">
-            <div class="relative overflow-hidden h-48 bg-[#e8f5e9]">
-                <img src="${imgSrc}"
-                     alt="${p.nomScientifique}"
-                     class="w-full h-full object-cover"
+        <div class="plant-card" style="background:#fff;border-radius:12px;overflow:hidden;border:1px solid #e5e7eb;display:flex;flex-direction:column;transition:box-shadow .3s,transform .3s;">
+            <div style="position:relative;height:200px;overflow:hidden;background:#e8f5e9;">
+                <img src="${imgSrc}" alt="${p.nomScientifique}"
+                     style="width:100%;height:100%;object-fit:cover;transition:transform .4s;"
                      loading="lazy"
-                     onerror="this.onerror=null;this.src='${placeholderSVG}';">
+                     onerror="this.onerror=null;this.src='${placeholderSVG}';"
+                     onmouseover="this.style.transform='scale(1.08)'"
+                     onmouseout="this.style.transform='scale(1)'">
+                <span style="position:absolute;top:8px;right:8px;${toxStyles[toxColor] || toxStyles.green}padding:3px 10px;border-radius:20px;font-size:10px;font-weight:700;letter-spacing:.3px;">
+                    ${toxEmoji[toxColor] || '🟢'} ${toxText}
+                </span>
+                <span style="position:absolute;bottom:0;left:0;right:0;background:linear-gradient(transparent,rgba(0,0,0,.6));padding:8px 12px 6px;color:#fff;font-size:11px;font-weight:600;">
+                    ${p.famille || ''}
+                </span>
             </div>
-            <div class="p-4 flex flex-col flex-grow">
-                <h3 class="font-bold text-gray-800 italic text-base leading-tight mb-1">${p.nomScientifique}</h3>
-                ${nomCommun ? `<p class="text-[#c5a059] font-semibold text-sm">« ${nomCommun} »</p>` : ''}
-                ${nomFr ? `<p class="text-gray-600 text-sm">${nomFr}</p>` : ''}
-                <p class="mt-2 mb-1"><a href="#" onclick="event.stopPropagation();document.getElementById('filterFamille').value='${p.famille}';applyFilters();" class="text-[#2c5e3b] text-sm font-semibold underline">${p.famille || ''}</a></p>
-                <div class="text-xs text-gray-700 mt-1 space-y-0.5">
-                    <p><strong>Usage :</strong> ${usageType}</p>
-                    ${systemes ? `<p><strong>Systèmes :</strong> ${systemes}</p>` : ''}
+            <div style="padding:14px 16px;display:flex;flex-direction:column;flex-grow:1;">
+                <h3 style="font-size:15px;font-weight:800;font-style:italic;color:#1a1a1a;margin:0 0 4px;line-height:1.3;">${p.nomScientifique}</h3>
+                ${nomCommun ? `<p style="color:#c5a059;font-weight:700;font-size:13px;margin:0 0 2px;">« ${nomCommun} »</p>` : ''}
+                ${nomFr ? `<p style="color:#6b7280;font-size:12px;margin:0 0 8px;">${nomFr}</p>` : '<div style="height:4px;"></div>'}
+                <div style="display:flex;align-items:center;gap:6px;margin-bottom:6px;">
+                    <span style="background:#f5f0e8;color:#92700a;font-size:10px;font-weight:700;padding:2px 8px;border-radius:10px;border:1px solid #e8dcc8;">
+                        <i class="fa-solid fa-mortar-pestle" style="margin-right:3px;font-size:9px;"></i>${usageType}
+                    </span>
                 </div>
-                <div class="mt-2">${toxBadgeHTML}</div>
-                <div class="flex gap-2 mt-3 pt-3 border-t border-gray-100">
-                    <a href="plante.html?id=${p.plantId}" onclick="event.stopPropagation();"
-                       class="flex-1 text-center py-1.5 px-3 bg-[#2c5e3b] text-white text-xs font-bold rounded-md hover:bg-[#1e4028] transition-colors no-underline">
-                        <i class="fa-solid fa-file-lines mr-1"></i> Fiche
+                ${sysBadges ? `<div style="display:flex;flex-wrap:wrap;gap:4px;margin-bottom:8px;">${sysBadges}</div>` : ''}
+                <div style="margin-top:auto;display:flex;gap:6px;padding-top:10px;border-top:1px solid #f3f4f6;">
+                    <a href="plante.html?id=${p.plantId}"
+                       style="flex:1;text-align:center;padding:8px 0;background:#1e4028;color:#fff;font-size:12px;font-weight:700;border-radius:6px;text-decoration:none;transition:background .2s;"
+                       onmouseover="this.style.background='#2c5e3b'" onmouseout="this.style.background='#1e4028'">
+                        <i class="fa-solid fa-file-lines" style="margin-right:4px;"></i>Fiche
                     </a>
-                    <a href="plante.html?id=${p.plantId}#s-description" onclick="event.stopPropagation();"
-                       class="flex-1 text-center py-1.5 px-3 bg-[#c5a059] text-white text-xs font-bold rounded-md hover:bg-[#a88540] transition-colors no-underline">
-                        <i class="fa-solid fa-book-open mr-1"></i> Description
+                    <a href="plante.html?id=${p.plantId}#s-description"
+                       style="flex:1;text-align:center;padding:8px 0;background:#c5a059;color:#fff;font-size:12px;font-weight:700;border-radius:6px;text-decoration:none;transition:background .2s;"
+                       onmouseover="this.style.background='#a88540'" onmouseout="this.style.background='#c5a059'">
+                        <i class="fa-solid fa-book-open" style="margin-right:4px;"></i>Description
                     </a>
                 </div>
             </div>
