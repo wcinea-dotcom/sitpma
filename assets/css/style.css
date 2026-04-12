@@ -270,6 +270,27 @@ header h1 i {
     font-weight: 600;
 }
 
+/* Toxicity badges */
+.tox-safe { background: #d4edda; color: #155724; }
+.tox-caution { background: #fff3cd; color: #856404; }
+.tox-danger { background: #f8d7da; color: #721c24; }
+
+/* Card buttons */
+.btn-fiche, .btn-desc {
+    flex: 1;
+    text-align: center;
+    padding: 7px 0;
+    font-size: 0.8rem;
+    font-weight: 600;
+    border-radius: 4px;
+    text-decoration: none;
+    color: #fff;
+    transition: opacity 0.2s;
+}
+.btn-fiche { background: #28a745; }
+.btn-desc { background: #17a2b8; }
+.btn-fiche:hover, .btn-desc:hover { opacity: 0.85; }
+
 /* ===== GRILLE DES CATÉGORIES ===== */
 .grid-cols-1.md\:grid-cols-2.lg\:grid-cols-3 {
     display: grid;

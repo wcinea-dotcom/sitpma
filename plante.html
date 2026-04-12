@@ -45,12 +45,15 @@
     .section-body { padding:16px 18px; }
     .section-body.collapsed { display:none; }
     .s-identite   .section-head { background:var(--vert2); }
-    .s-ecologie   .section-head { background:#2E6B5E; }
+    .s-description .section-head { background:#2E6B5E; }
+    .s-ecologie   .section-head { background:#3A7D6A; }
+    .s-molecules  .section-head { background:var(--bleu2); }
     .s-usages     .section-head { background:#B5541A; }
-    .s-pharma     .section-head { background:var(--bleu2); }
+    .s-posologie  .section-head { background:#6A4B8A; }
     .s-nutrition  .section-head { background:#5A7A2A; }
     .s-toxicologie .section-head { background:#8B2020; }
     .s-conservation .section-head { background:#5A4E2A; }
+    .s-valorisation .section-head { background:#6B5B3A; }
     .s-recherche  .section-head { background:#2A4A5A; }
     .s-resume     .section-head { background:var(--or); }
     /* GRID ROWS */
@@ -113,7 +116,7 @@
   <div class="fiche-page">
     <div id="famille-box-wrap"></div>
 
-    <!-- 1. IDENTITÉ -->
+    <!-- 1. IDENTITÉ & NOMENCLATURE -->
     <div class="section s-identite">
       <div class="section-head" onclick="toggleSection(this)">
         <span class="icon"><i class="fa-solid fa-seedling"></i></span> Identité & nomenclature
@@ -122,10 +125,10 @@
       <div class="section-body" id="s-identite"></div>
     </div>
 
-    <!-- 2. DESCRIPTION & MORPHOLOGIE -->
-    <div class="section s-ecologie">
+    <!-- 2. DESCRIPTION BOTANIQUE -->
+    <div class="section s-description">
       <div class="section-head" onclick="toggleSection(this)">
-        <span class="icon"><i class="fa-solid fa-microscope"></i></span> Description & morphologie
+        <span class="icon"><i class="fa-solid fa-microscope"></i></span> Description botanique
         <span class="toggle"><i class="fa-solid fa-chevron-down"></i></span>
       </div>
       <div class="section-body" id="s-description"></div>
@@ -140,7 +143,16 @@
       <div class="section-body" id="s-ecologie"></div>
     </div>
 
-    <!-- 4. USAGES ETHNOBOTANIQUES -->
+    <!-- 4. MOLÉCULES & PHARMACOLOGIE -->
+    <div class="section s-molecules">
+      <div class="section-head" onclick="toggleSection(this)">
+        <span class="icon"><i class="fa-solid fa-flask-vial"></i></span> Molécules & pharmacologie
+        <span class="toggle"><i class="fa-solid fa-chevron-down"></i></span>
+      </div>
+      <div class="section-body" id="s-pharma"></div>
+    </div>
+
+    <!-- 5. USAGES ETHNOBOTANIQUES -->
     <div class="section s-usages">
       <div class="section-head" onclick="toggleSection(this)">
         <span class="icon"><i class="fa-solid fa-mortar-pestle"></i></span> Usages ethnobotaniques
@@ -149,17 +161,8 @@
       <div class="section-body" id="s-usages"></div>
     </div>
 
-    <!-- 5. MOLÉCULES & PHARMACOLOGIE -->
-    <div class="section s-pharma">
-      <div class="section-head" onclick="toggleSection(this)">
-        <span class="icon"><i class="fa-solid fa-flask-vial"></i></span> Molécules & pharmacologie
-        <span class="toggle"><i class="fa-solid fa-chevron-down"></i></span>
-      </div>
-      <div class="section-body" id="s-pharma"></div>
-    </div>
-
     <!-- 6. POSOLOGIE -->
-    <div class="section s-nutrition">
+    <div class="section s-posologie">
       <div class="section-head" onclick="toggleSection(this)">
         <span class="icon"><i class="fa-solid fa-prescription-bottle-medical"></i></span> Posologie
         <span class="toggle"><i class="fa-solid fa-chevron-down"></i></span>
@@ -167,7 +170,16 @@
       <div class="section-body" id="s-posologie"></div>
     </div>
 
-    <!-- 7. SÉCURITÉ & TOXICOLOGIE -->
+    <!-- 7. NUTRITION & DIÉTÉTIQUE -->
+    <div class="section s-nutrition" id="s-nutrition-wrap" style="display:none;">
+      <div class="section-head" onclick="toggleSection(this)">
+        <span class="icon"><i class="fa-solid fa-apple-whole"></i></span> Nutrition & diététique
+        <span class="toggle"><i class="fa-solid fa-chevron-down"></i></span>
+      </div>
+      <div class="section-body" id="s-nutrition"></div>
+    </div>
+
+    <!-- 8. SÉCURITÉ & TOXICOLOGIE -->
     <div class="section s-toxicologie">
       <div class="section-head" onclick="toggleSection(this)">
         <span class="icon"><i class="fa-solid fa-triangle-exclamation"></i></span> Sécurité & toxicologie
@@ -176,7 +188,7 @@
       <div class="section-body" id="s-toxicologie"></div>
     </div>
 
-    <!-- 8. CONSERVATION & MENACES -->
+    <!-- 9. CONSERVATION & MENACES -->
     <div class="section s-conservation">
       <div class="section-head" onclick="toggleSection(this)">
         <span class="icon"><i class="fa-solid fa-shield-halved"></i></span> Conservation & menaces
@@ -185,16 +197,16 @@
       <div class="section-body" id="s-conservation"></div>
     </div>
 
-    <!-- 9. VALORISATION -->
-    <div class="section s-conservation">
-      <div class="section-head" onclick="toggleSection(this)" style="background:#6B5B3A;">
+    <!-- 10. VALORISATION -->
+    <div class="section s-valorisation">
+      <div class="section-head" onclick="toggleSection(this)">
         <span class="icon"><i class="fa-solid fa-gem"></i></span> Valorisation
         <span class="toggle"><i class="fa-solid fa-chevron-down"></i></span>
       </div>
       <div class="section-body" id="s-valeur"></div>
     </div>
 
-    <!-- 10. RECHERCHE & RÉFÉRENCES -->
+    <!-- 11. RECHERCHE & RÉFÉRENCES -->
     <div class="section s-recherche">
       <div class="section-head" onclick="toggleSection(this)">
         <span class="icon"><i class="fa-solid fa-book-open-reader"></i></span> Recherche & références
@@ -203,7 +215,7 @@
       <div class="section-body" id="s-recherche"></div>
     </div>
 
-    <!-- 11. À RETENIR -->
+    <!-- 12. À RETENIR -->
     <div class="section s-resume" id="s-resume-wrap" style="display:none;">
       <div class="section-head" onclick="toggleSection(this)">
         <span class="icon"><i class="fa-solid fa-star"></i></span> À retenir
@@ -226,7 +238,7 @@
 <div id="footer-placeholder"></div>
 
 <!-- Scripts -->
-<script src="pmaa-nav.js?v=20260411"></script>
+<script src="pmaa-nav.js?v=20260412"></script>
 <script>
   // Initialize PMAA navigation
   PMAA.renderNav('atlas');
@@ -337,7 +349,7 @@
         `<div class="famille-box"><strong><i class="fa-solid fa-layer-group"></i> Famille ${esc(safe(fiche.famille))}</strong><p>${esc(descFam)}</p></div>`;
     }
 
-    // 1. Identité
+    // 1. Identité & nomenclature
     document.getElementById('s-identite').innerHTML = rows([
       ['Nom scientifique', idt.nom_scientifique],
       ['Synonymes',        idt.synonymes],
@@ -347,34 +359,63 @@
       ['Genre',            idt.genre],
       ['Espèce',           idt.espece],
       ['Famille',          fiche.famille],
-      ['Systèmes',         usa.systemes_concernes],
     ]);
 
-    // 2. Description & morphologie
+    // 2. Description botanique
     document.getElementById('s-description').innerHTML = textSection(mor.description);
 
-    // 3. Écologie
+    // 3. Écologie & distribution
     document.getElementById('s-ecologie').innerHTML = textSection(mor.ecologie);
 
-    // 4. Usages
-    document.getElementById('s-usages').innerHTML = textSection(usa.usages_ethnobotaniques);
-
-    // 5. Molécules & pharmacologie
+    // 4. Molécules & pharmacologie
     document.getElementById('s-pharma').innerHTML = textSection(pha.molecules);
+
+    // 5. Usages ethnobotaniques
+    // Include systèmes concernés as a summary before the full text
+    let usagesHTML = '';
+    const sysConcernes = safe(usa.systemes_concernes);
+    if (sysConcernes) {
+      // Extract short system names from long text
+      const sysNames = [];
+      const sysPatterns = [
+        [/digestif/i, 'Digestif'], [/urinaire/i, 'Urinaire'], [/respirat/i, 'Respiratoire'],
+        [/nerveu/i, 'Nerveux'], [/cardiovascul|cardiaque/i, 'Cardiovasculaire'],
+        [/cutan|peau|dermat/i, 'Cutané'], [/immunit/i, 'Immunitaire'],
+        [/musculo|musculaire/i, 'Musculo-squelettique'], [/endocrin/i, 'Endocrinien'],
+        [/sanguin|hématolog/i, 'Sanguin'], [/hépatique|foie/i, 'Hépatique'],
+        [/reproduct/i, 'Reproducteur'], [/oculaire|œil/i, 'Oculaire'],
+      ];
+      sysPatterns.forEach(([pat, name]) => { if (pat.test(sysConcernes)) sysNames.push(name); });
+      if (sysNames.length) {
+        usagesHTML += `<div style="margin-bottom:12px;"><span class="info-label">Systèmes ciblés</span><div style="margin-top:4px;display:flex;flex-wrap:wrap;gap:4px;">` +
+          sysNames.map(n => `<span style="display:inline-block;background:#f0fdf4;color:#166534;font-size:11px;font-weight:600;padding:2px 10px;border-radius:12px;border:1px solid #bbf7d0;">${n}</span>`).join('') +
+          `</div></div>`;
+      }
+    }
+    usagesHTML += textSection(usa.usages_ethnobotaniques);
+    document.getElementById('s-usages').innerHTML = usagesHTML;
 
     // 6. Posologie
     document.getElementById('s-posologie').innerHTML = textSection(pha.posologie);
 
-    // 7. Toxicologie
+    // 7. Nutrition & diététique (shown only if data available beyond 'valeur')
+    const nutKeys = Object.keys(nut).filter(k => k !== 'valeur');
+    const nutInfo = nutKeys.length ? (nut.apport_nutritionnel || nut.details || nut.description || '') : '';
+    if (safe(nutInfo)) {
+      document.getElementById('s-nutrition-wrap').style.display = 'block';
+      document.getElementById('s-nutrition').innerHTML = textSection(nutInfo);
+    }
+
+    // 8. Sécurité & toxicologie
     const toxNiv = safe(tox.niveau);
     const tCls = toxClass(toxNiv);
     const toxBadge = toxNiv ? `<div style="margin-bottom:12px;"><span class="tox-badge ${tCls}">${esc(toxNiv)}</span></div>` : '';
     document.getElementById('s-toxicologie').innerHTML = toxBadge + textSection(tox.details);
 
-    // 8. Conservation
+    // 9. Conservation & menaces
     document.getElementById('s-conservation').innerHTML = textSection(con.menaces);
 
-    // 9. Valorisation
+    // 10. Valorisation
     document.getElementById('s-valeur').innerHTML = textSection(con.valeur);
 
     // 10. Recherche & références

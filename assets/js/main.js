@@ -43,32 +43,30 @@ function renderPlantes(plantesToRender) {
         // Toxicity
         const toxColor = p.toxBadgeColor || 'green';
         const toxText = p.toxBadgeText || 'Non toxique';
-        const toxBg = { green:'#d4edda', yellow:'#fff3cd', orange:'#ffe0b2', red:'#f8d7da' };
-        const toxFg = { green:'#155724', yellow:'#856404', orange:'#e65100', red:'#721c24' };
+        const toxCls = { green:'tox-safe', yellow:'tox-caution', orange:'tox-caution', red:'tox-danger' };
 
         return `
-        <div class="plant-card" onclick="window.location='plante.html?id=${p.plantId}'" style="cursor:pointer;background:#fff;border-radius:8px;overflow:hidden;border:1px solid #dee2e6;display:flex;flex-direction:column;transition:box-shadow .2s;">
-            <div style="height:200px;overflow:hidden;background:#f0f0f0;">
+        <div class="plant-card" onclick="window.location='plante.html?id=${p.plantId}'">
+            <div class="h-48">
                 <img src="${imgSrc}" alt="${p.nomScientifique}"
-                     style="width:100%;height:100%;object-fit:cover;"
                      loading="lazy"
                      onerror="this.onerror=null;this.src='${placeholderSVG}';">
             </div>
-            <div style="padding:12px 14px;display:flex;flex-direction:column;flex-grow:1;">
-                <h3 style="font-size:14px;font-weight:700;font-style:italic;color:#2d2d2d;margin:0 0 3px;line-height:1.3;">${p.nomScientifique}</h3>
-                ${nomCommun ? `<p style="color:#6c757d;font-size:12px;margin:0 0 2px;">« ${nomCommun} »</p>` : ''}
-                ${nomFr ? `<p style="color:#888;font-size:11px;margin:0 0 6px;">${nomFr}</p>` : ''}
-                <p style="font-size:11px;margin:0 0 4px;color:#495057;"><strong>Famille :</strong> <a href="#" onclick="event.stopPropagation();document.getElementById('filterFamille').value='${(p.famille||'').replace(/'/g,"\\'")}';applyFilters();" style="color:#28a745;text-decoration:none;">${p.famille || ''}</a></p>
-                <p style="font-size:11px;margin:0 0 4px;color:#495057;"><strong>Usage :</strong> ${usageType}</p>
-                ${maladies ? `<p style="font-size:11px;margin:0 0 4px;color:#495057;"><strong>Maladies :</strong> ✅ ${maladies}</p>` : ''}
+            <div class="p-5" style="display:flex;flex-direction:column;flex-grow:1;">
+                <h3>${p.nomScientifique}</h3>
+                ${nomCommun ? `<p class="text-gray-500" style="margin-bottom:2px;">« ${nomCommun} »</p>` : ''}
+                ${nomFr ? `<p style="color:#999;font-size:0.8rem;margin:0 0 8px;">${nomFr}</p>` : ''}
+                <p class="text-xs" style="margin-bottom:4px;"><span class="font-bold">Famille :</span> <a href="#" onclick="event.stopPropagation();document.getElementById('filterFamille').value='${(p.famille||'').replace(/'/g,"\\'")}';applyFilters();" style="color:#28a745;text-decoration:none;">${p.famille || ''}</a></p>
+                <p class="text-xs" style="margin-bottom:4px;"><span class="font-bold">Usage :</span> ${usageType}</p>
+                ${maladies ? `<p class="text-xs" style="margin-bottom:4px;"><span class="font-bold">Maladies :</span> ✅ ${maladies}</p>` : ''}
                 <div style="margin:6px 0 8px;">
-                    <span style="display:inline-block;background:${toxBg[toxColor]||toxBg.green};color:${toxFg[toxColor]||toxFg.green};font-size:10px;font-weight:600;padding:2px 10px;border-radius:12px;">${toxText}</span>
+                    <span class="${toxCls[toxColor] || 'tox-safe'}" style="display:inline-block;font-size:0.7rem;font-weight:600;padding:2px 10px;border-radius:12px;">${toxText}</span>
                 </div>
                 <div style="margin-top:auto;display:flex;gap:6px;">
                     <a href="plante.html?id=${p.plantId}" onclick="event.stopPropagation();"
-                       style="flex:1;text-align:center;padding:7px 0;background:#28a745;color:#fff;font-size:12px;font-weight:600;border-radius:4px;text-decoration:none;">Fiche</a>
+                       class="btn-fiche">Fiche</a>
                     <a href="plante.html?id=${p.plantId}#s-description" onclick="event.stopPropagation();"
-                       style="flex:1;text-align:center;padding:7px 0;background:#17a2b8;color:#fff;font-size:12px;font-weight:600;border-radius:4px;text-decoration:none;">Description</a>
+                       class="btn-desc">Description</a>
                 </div>
             </div>
         </div>`;
