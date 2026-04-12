@@ -53,7 +53,7 @@ const plantesData = [
     "toxBadgeColor": "green",
     "toxBadgeText": "Non toxique",
     "usageType": "Médicinale",
-    "maladieSummary": "Digestif, Urinaire"
+    "maladieSummary": "Reins & Digestion & Peau (Diurétique)"
   },
   {
     "id": 2,
@@ -103,7 +103,7 @@ const plantesData = [
     "toxBadgeColor": "yellow",
     "toxBadgeText": "Conditionnel",
     "usageType": "Médicinale",
-    "maladieSummary": "Respiratoire, Immunitaire"
+    "maladieSummary": "Digestion & Poumons & Fièvre"
   },
   {
     "id": 3,
@@ -156,7 +156,7 @@ const plantesData = [
     "toxBadgeColor": "green",
     "toxBadgeText": "Non toxique",
     "usageType": "Alimentaire et Médicinale",
-    "maladieSummary": "Digestif, Urinaire"
+    "maladieSummary": "Reins & Foie & Digestion (Diurétique)"
   },
   {
     "id": 4,
@@ -209,7 +209,7 @@ const plantesData = [
     "toxBadgeColor": "green",
     "toxBadgeText": "Non toxique",
     "usageType": "Médicinale",
-    "maladieSummary": "Urinaire, Cutané"
+    "maladieSummary": "Reins & Peau & Fièvre (Diurétique)"
   },
   {
     "id": 5,
@@ -260,7 +260,7 @@ const plantesData = [
     "toxBadgeColor": "green",
     "toxBadgeText": "Non toxique",
     "usageType": "Alimentaire et Médicinale",
-    "maladieSummary": "Immunitaire, Sanguin"
+    "maladieSummary": "Cœur & Peau & Nerveux (Antioxydant)"
   },
   {
     "id": 6,
@@ -312,7 +312,7 @@ const plantesData = [
     "toxBadgeColor": "green",
     "toxBadgeText": "Non toxique",
     "usageType": "Alimentaire et Médicinale",
-    "maladieSummary": "Cardiovasculaire"
+    "maladieSummary": "Cœur & Peau & Diabète (Antioxydant)"
   },
   {
     "id": 7,
@@ -363,7 +363,7 @@ const plantesData = [
     "toxBadgeColor": "yellow",
     "toxBadgeText": "Conditionnel",
     "usageType": "Médicinale",
-    "maladieSummary": "Digestif, Respiratoire, Nerveux"
+    "maladieSummary": "Reins & Digestion & Poumons (Vermifuge)"
   },
   {
     "id": 8,
@@ -413,7 +413,7 @@ const plantesData = [
     "toxBadgeColor": "green",
     "toxBadgeText": "Non toxique",
     "usageType": "Alimentaire et Médicinale",
-    "maladieSummary": "Digestif, Respiratoire, Cardiovasculaire"
+    "maladieSummary": "Cœur & Digestion & Poumons (Anti-inflammatoire)"
   },
   {
     "id": 9,
@@ -464,7 +464,7 @@ const plantesData = [
     "toxBadgeColor": "green",
     "toxBadgeText": "Non toxique",
     "usageType": "Alimentaire et Médicinale",
-    "maladieSummary": "Digestif, Urinaire, Cardiovasculaire"
+    "maladieSummary": "Reins & Cœur & Digestion (Diurétique)"
   },
   {
     "id": 10,
@@ -517,7 +517,7 @@ const plantesData = [
     "toxBadgeColor": "green",
     "toxBadgeText": "Non toxique",
     "usageType": "Alimentaire et Médicinale",
-    "maladieSummary": "Immunitaire, Cardiovasculaire"
+    "maladieSummary": "Cœur & Digestion & Poumons (Antimicrobien)"
   },
   {
     "id": 11,
@@ -569,7 +569,7 @@ const plantesData = [
     "toxBadgeColor": "yellow",
     "toxBadgeText": "Conditionnel",
     "usageType": "Médicinale",
-    "maladieSummary": "Nerveux, Cutané"
+    "maladieSummary": "Poumons & Peau & Douleurs (Anti-inflammatoire)"
   },
   {
     "id": 12,
@@ -621,7 +621,7 @@ const plantesData = [
     "toxBadgeColor": "yellow",
     "toxBadgeText": "Conditionnel",
     "usageType": "Alimentaire et Médicinale",
-    "maladieSummary": "Digestif, Immunitaire, Cardiovasculaire"
+    "maladieSummary": "Cœur & Digestion & Peau (Anti-inflammatoire)"
   },
   {
     "id": 13,
@@ -672,7 +672,7 @@ const plantesData = [
     "toxBadgeColor": "yellow",
     "toxBadgeText": "Conditionnel",
     "usageType": "Médicinale",
-    "maladieSummary": "Cutané"
+    "maladieSummary": "Peau & Douleurs & Infections (Anti-inflammatoire)"
   },
   {
     "id": 14,
@@ -723,7 +723,7 @@ const plantesData = [
     "toxBadgeColor": "green",
     "toxBadgeText": "Non toxique",
     "usageType": "Alimentaire et Médicinale",
-    "maladieSummary": "Digestif, Immunitaire, Oculaire"
+    "maladieSummary": "Digestion & Peau & Fièvre (Anti-inflammatoire)"
   },
   {
     "id": 15,
@@ -775,7 +775,7 @@ const plantesData = [
     "toxBadgeColor": "green",
     "toxBadgeText": "Non toxique",
     "usageType": "Alimentaire et Médicinale",
-    "maladieSummary": "Digestif"
+    "maladieSummary": "Digestion & Poumons & Peau (Anti-inflammatoire)"
   },
   {
     "id": 16,
@@ -825,7 +825,7 @@ const plantesData = [
     "toxBadgeColor": "green",
     "toxBadgeText": "Non toxique",
     "usageType": "Alimentaire et Médicinale",
-    "maladieSummary": "Digestif, Immunitaire"
+    "maladieSummary": "Digestion & Peau & Fièvre (Anti-inflammatoire)"
   },
   {
     "id": 17,
@@ -883,7 +883,7 @@ const plantesData = [
     "toxBadgeColor": "yellow",
     "toxBadgeText": "Conditionnel",
     "usageType": "Alimentaire et Médicinale",
-    "maladieSummary": "Digestif, Respiratoire"
+    "maladieSummary": "Digestion & Poumons & Douleurs (Anti-inflammatoire)"
   },
   {
     "id": 18,
@@ -936,7 +936,7 @@ const plantesData = [
     "toxBadgeColor": "yellow",
     "toxBadgeText": "Conditionnel",
     "usageType": "Alimentaire et Médicinale",
-    "maladieSummary": "Digestif, Immunitaire, Nerveux"
+    "maladieSummary": "Digestion & Peau & Fièvre (Anti-inflammatoire)"
   },
   {
     "id": 19,
@@ -987,7 +987,7 @@ const plantesData = [
     "toxBadgeColor": "yellow",
     "toxBadgeText": "Conditionnel",
     "usageType": "Alimentaire et Médicinale",
-    "maladieSummary": "Digestif"
+    "maladieSummary": "Digestion & Fièvre & Diabète (Anti-inflammatoire)"
   },
   {
     "id": 20,
@@ -1038,7 +1038,7 @@ const plantesData = [
     "toxBadgeColor": "yellow",
     "toxBadgeText": "Conditionnel",
     "usageType": "Alimentaire et Médicinale",
-    "maladieSummary": "Immunitaire, Nerveux, Cardiovasculaire"
+    "maladieSummary": "Cœur & Peau & Fièvre (Anti-inflammatoire)"
   },
   {
     "id": 21,
@@ -1089,7 +1089,7 @@ const plantesData = [
     "toxBadgeColor": "green",
     "toxBadgeText": "Non toxique",
     "usageType": "Médicinale",
-    "maladieSummary": "Nerveux, Cardiovasculaire, Cutané"
+    "maladieSummary": "Cœur & Poumons & Peau (Sédatif)"
   },
   {
     "id": 22,
@@ -1139,7 +1139,7 @@ const plantesData = [
     "toxBadgeColor": "green",
     "toxBadgeText": "Non toxique",
     "usageType": "Alimentaire et Médicinale",
-    "maladieSummary": "Digestif, Urinaire, Cardiovasculaire"
+    "maladieSummary": "Reins & Cœur & Digestion (Diurétique)"
   },
   {
     "id": 23,
@@ -1190,7 +1190,7 @@ const plantesData = [
     "toxBadgeColor": "green",
     "toxBadgeText": "Non toxique",
     "usageType": "Alimentaire et Médicinale",
-    "maladieSummary": "Nerveux"
+    "maladieSummary": "Peau & Douleurs & Nerveux (Anti-inflammatoire)"
   },
   {
     "id": 24,
@@ -1241,7 +1241,7 @@ const plantesData = [
     "toxBadgeColor": "green",
     "toxBadgeText": "Non toxique",
     "usageType": "Alimentaire et Médicinale",
-    "maladieSummary": "Oculaire"
+    "maladieSummary": "Digestion & Diabète & Douleurs (Anti-inflammatoire)"
   },
   {
     "id": 25,
@@ -1292,7 +1292,7 @@ const plantesData = [
     "toxBadgeColor": "green",
     "toxBadgeText": "Non toxique",
     "usageType": "Alimentaire et Médicinale",
-    "maladieSummary": "Digestif, Respiratoire"
+    "maladieSummary": "Digestion & Poumons & Peau (Anti-inflammatoire)"
   },
   {
     "id": 26,
@@ -1342,7 +1342,7 @@ const plantesData = [
     "toxBadgeColor": "green",
     "toxBadgeText": "Non toxique",
     "usageType": "Alimentaire",
-    "maladieSummary": "Digestif, Reproducteur, Endocrinien"
+    "maladieSummary": "Digestion & Peau & Douleurs (Anti-inflammatoire)"
   },
   {
     "id": 27,
@@ -1392,7 +1392,7 @@ const plantesData = [
     "toxBadgeColor": "green",
     "toxBadgeText": "Non toxique",
     "usageType": "Alimentaire et Médicinale",
-    "maladieSummary": "Urinaire, Sanguin"
+    "maladieSummary": "Reins & Sang & Immunité (Diurétique)"
   },
   {
     "id": 28,
@@ -1444,7 +1444,7 @@ const plantesData = [
     "toxBadgeColor": "green",
     "toxBadgeText": "Non toxique",
     "usageType": "Médicinale",
-    "maladieSummary": ""
+    "maladieSummary": "Peau & Douleurs & Infections (Anti-inflammatoire)"
   },
   {
     "id": 29,
@@ -1496,7 +1496,7 @@ const plantesData = [
     "toxBadgeColor": "green",
     "toxBadgeText": "Non toxique",
     "usageType": "Médicinale",
-    "maladieSummary": "Cutané, Musculosquelettique"
+    "maladieSummary": "Peau & Douleurs & Infections (Anti-inflammatoire)"
   },
   {
     "id": 30,
@@ -1548,7 +1548,7 @@ const plantesData = [
     "toxBadgeColor": "green",
     "toxBadgeText": "Non toxique",
     "usageType": "Médicinale",
-    "maladieSummary": "Sanguin"
+    "maladieSummary": "Digestion & Fièvre & Diabète (Antidiabétique)"
   },
   {
     "id": 31,
@@ -1600,7 +1600,7 @@ const plantesData = [
     "toxBadgeColor": "red",
     "toxBadgeText": "Toxique",
     "usageType": "Médicinale",
-    "maladieSummary": "Digestif, Nerveux, Cardiovasculaire"
+    "maladieSummary": "Cœur & Digestion & Peau"
   },
   {
     "id": 32,
@@ -1651,7 +1651,7 @@ const plantesData = [
     "toxBadgeColor": "green",
     "toxBadgeText": "Non toxique",
     "usageType": "Médicinale",
-    "maladieSummary": "Digestif, Cutané"
+    "maladieSummary": "Digestion & Peau & Douleurs (Anti-inflammatoire)"
   },
   {
     "id": 33,
@@ -1702,7 +1702,7 @@ const plantesData = [
     "toxBadgeColor": "green",
     "toxBadgeText": "Non toxique",
     "usageType": "Médicinale",
-    "maladieSummary": "Musculosquelettique"
+    "maladieSummary": "Cœur & Peau & Douleurs (Anti-inflammatoire)"
   },
   {
     "id": 34,
@@ -1753,7 +1753,7 @@ const plantesData = [
     "toxBadgeColor": "red",
     "toxBadgeText": "Toxique",
     "usageType": "Médicinale",
-    "maladieSummary": "Cardiovasculaire"
+    "maladieSummary": "Cœur & Parasites & Os & Muscles"
   },
   {
     "id": 35,
@@ -1806,7 +1806,7 @@ const plantesData = [
     "toxBadgeColor": "yellow",
     "toxBadgeText": "Conditionnel",
     "usageType": "Alimentaire",
-    "maladieSummary": "Musculosquelettique, Sanguin"
+    "maladieSummary": "Peau & Douleurs & Infections (Antimicrobien)"
   },
   {
     "id": 36,
@@ -1857,7 +1857,7 @@ const plantesData = [
     "toxBadgeColor": "yellow",
     "toxBadgeText": "Conditionnel",
     "usageType": "Alimentaire",
-    "maladieSummary": ""
+    "maladieSummary": "Reins & Digestion & Diabète (Diurétique)"
   },
   {
     "id": 37,
@@ -1907,7 +1907,7 @@ const plantesData = [
     "toxBadgeColor": "green",
     "toxBadgeText": "Non toxique",
     "usageType": "Médicinale",
-    "maladieSummary": "Musculosquelettique, Sanguin"
+    "maladieSummary": "Peau & Douleurs & Sang (Anti-inflammatoire)"
   },
   {
     "id": 38,
@@ -1959,7 +1959,7 @@ const plantesData = [
     "toxBadgeColor": "green",
     "toxBadgeText": "Non toxique",
     "usageType": "Médicinale",
-    "maladieSummary": "Cutané"
+    "maladieSummary": "Peau & Douleurs & Infections (Antimicrobien)"
   },
   {
     "id": 39,
@@ -2012,7 +2012,7 @@ const plantesData = [
     "toxBadgeColor": "green",
     "toxBadgeText": "Non toxique",
     "usageType": "Médicinale",
-    "maladieSummary": ""
+    "maladieSummary": "Peau & Fièvre & Douleurs (Antimicrobien)"
   },
   {
     "id": 40,
@@ -2063,7 +2063,7 @@ const plantesData = [
     "toxBadgeColor": "green",
     "toxBadgeText": "Non toxique",
     "usageType": "Médicinale",
-    "maladieSummary": "Nerveux"
+    "maladieSummary": "Cœur & Douleurs & Nerveux (Antioxydant)"
   },
   {
     "id": 41,
@@ -2114,7 +2114,7 @@ const plantesData = [
     "toxBadgeColor": "green",
     "toxBadgeText": "Non toxique",
     "usageType": "Médicinale",
-    "maladieSummary": "Nerveux"
+    "maladieSummary": "Peau & Fièvre & Douleurs (Anti-inflammatoire)"
   },
   {
     "id": 42,
@@ -2167,7 +2167,7 @@ const plantesData = [
     "toxBadgeColor": "green",
     "toxBadgeText": "Non toxique",
     "usageType": "Médicinale",
-    "maladieSummary": "Urinaire, Reproducteur"
+    "maladieSummary": "Reins & Peau & Infections (Antimicrobien)"
   },
   {
     "id": 43,
@@ -2223,7 +2223,7 @@ const plantesData = [
     "toxBadgeColor": "yellow",
     "toxBadgeText": "Conditionnel",
     "usageType": "Alimentaire",
-    "maladieSummary": "Urinaire, Cutané"
+    "maladieSummary": "Reins & Peau & Os & Muscles (Diurétique)"
   },
   {
     "id": 44,
@@ -2276,7 +2276,7 @@ const plantesData = [
     "toxBadgeColor": "green",
     "toxBadgeText": "Non toxique",
     "usageType": "Alimentaire et Médicinale",
-    "maladieSummary": "Digestif, Urinaire, Cutané"
+    "maladieSummary": "Reins & Cœur & Digestion (Diurétique)"
   },
   {
     "id": 45,
@@ -2326,7 +2326,7 @@ const plantesData = [
     "toxBadgeColor": "green",
     "toxBadgeText": "Non toxique",
     "usageType": "Alimentaire et Médicinale",
-    "maladieSummary": "Urinaire, Cardiovasculaire"
+    "maladieSummary": "Reins & Cœur & Peau (Diurétique)"
   },
   {
     "id": 46,
@@ -2382,7 +2382,7 @@ const plantesData = [
     "toxBadgeColor": "green",
     "toxBadgeText": "Non toxique",
     "usageType": "Médicinale",
-    "maladieSummary": ""
+    "maladieSummary": "Reins & Cœur & Peau (Diurétique)"
   },
   {
     "id": 47,
@@ -2432,7 +2432,7 @@ const plantesData = [
     "toxBadgeColor": "green",
     "toxBadgeText": "Non toxique",
     "usageType": "Médicinale",
-    "maladieSummary": ""
+    "maladieSummary": "Reins & Peau & Douleurs (Diurétique)"
   },
   {
     "id": 48,
@@ -2485,7 +2485,7 @@ const plantesData = [
     "toxBadgeColor": "green",
     "toxBadgeText": "Non toxique",
     "usageType": "Médicinale",
-    "maladieSummary": "Urinaire, Cardiovasculaire"
+    "maladieSummary": "Reins & Cœur & Peau (Diurétique)"
   },
   {
     "id": 49,
@@ -2538,7 +2538,7 @@ const plantesData = [
     "toxBadgeColor": "yellow",
     "toxBadgeText": "Conditionnel",
     "usageType": "Médicinale",
-    "maladieSummary": "Digestif, Cutané"
+    "maladieSummary": "Digestion & Peau & Diabète (Anti-inflammatoire)"
   },
   {
     "id": 50,
@@ -2591,7 +2591,7 @@ const plantesData = [
     "toxBadgeColor": "red",
     "toxBadgeText": "Toxique",
     "usageType": "Médicinale",
-    "maladieSummary": "Respiratoire, Immunitaire"
+    "maladieSummary": "Poumons & Peau & Douleurs (Anti-inflammatoire)"
   },
   {
     "id": 52,
@@ -2642,7 +2642,7 @@ const plantesData = [
     "toxBadgeColor": "green",
     "toxBadgeText": "Non toxique",
     "usageType": "Médicinale",
-    "maladieSummary": "Respiratoire"
+    "maladieSummary": "Poumons & Infections & Os & Muscles (Antimicrobien)"
   },
   {
     "id": 53,
@@ -2695,7 +2695,7 @@ const plantesData = [
     "toxBadgeColor": "green",
     "toxBadgeText": "Non toxique",
     "usageType": "Alimentaire et Médicinale",
-    "maladieSummary": "Cutané, Musculosquelettique"
+    "maladieSummary": "Poumons & Peau & Douleurs (Anti-inflammatoire)"
   },
   {
     "id": 54,
@@ -2745,7 +2745,7 @@ const plantesData = [
     "toxBadgeColor": "green",
     "toxBadgeText": "Non toxique",
     "usageType": "Médicinale",
-    "maladieSummary": "Digestif"
+    "maladieSummary": "Digestion & Fièvre & Douleurs (Anti-inflammatoire)"
   },
   {
     "id": 55,
@@ -2796,7 +2796,7 @@ const plantesData = [
     "toxBadgeColor": "green",
     "toxBadgeText": "Non toxique",
     "usageType": "Alimentaire et Médicinale",
-    "maladieSummary": "Respiratoire, Immunitaire"
+    "maladieSummary": "Reins & Poumons & Diabète (Diurétique)"
   },
   {
     "id": 56,
@@ -2847,7 +2847,7 @@ const plantesData = [
     "toxBadgeColor": "green",
     "toxBadgeText": "Non toxique",
     "usageType": "Médicinale",
-    "maladieSummary": "Respiratoire, Sanguin"
+    "maladieSummary": "Poumons & Peau & Douleurs (Anti-inflammatoire)"
   },
   {
     "id": 57,
@@ -2897,7 +2897,7 @@ const plantesData = [
     "toxBadgeColor": "green",
     "toxBadgeText": "Non toxique",
     "usageType": "Alimentaire et Médicinale",
-    "maladieSummary": "Digestif, Urinaire, Nerveux"
+    "maladieSummary": "Reins & Digestion & Nerveux (Diurétique)"
   },
   {
     "id": 58,
@@ -2947,7 +2947,7 @@ const plantesData = [
     "toxBadgeColor": "green",
     "toxBadgeText": "Non toxique",
     "usageType": "Médicinale",
-    "maladieSummary": "Respiratoire, Cutané"
+    "maladieSummary": "Reins & Poumons & Peau (Diurétique)"
   },
   {
     "id": 59,
@@ -3000,7 +3000,7 @@ const plantesData = [
     "toxBadgeColor": "green",
     "toxBadgeText": "Non toxique",
     "usageType": "Médicinale",
-    "maladieSummary": "Immunitaire, Cutané, Hépatique"
+    "maladieSummary": "Reins & Foie & Peau (Diurétique)"
   },
   {
     "id": 60,
@@ -3053,7 +3053,7 @@ const plantesData = [
     "toxBadgeColor": "green",
     "toxBadgeText": "Non toxique",
     "usageType": "Médicinale",
-    "maladieSummary": "Cutané"
+    "maladieSummary": "Peau & Fièvre & Douleurs (Anti-inflammatoire)"
   },
   {
     "id": 61,
@@ -3104,7 +3104,7 @@ const plantesData = [
     "toxBadgeColor": "green",
     "toxBadgeText": "Non toxique",
     "usageType": "Médicinale",
-    "maladieSummary": "Digestif, Nerveux"
+    "maladieSummary": "Digestion & Peau & Douleurs (Anti-inflammatoire)"
   },
   {
     "id": 62,
@@ -3155,7 +3155,7 @@ const plantesData = [
     "toxBadgeColor": "green",
     "toxBadgeText": "Non toxique",
     "usageType": "Médicinale",
-    "maladieSummary": "Reproducteur"
+    "maladieSummary": "Reins & Peau & Douleurs (Diurétique)"
   },
   {
     "id": 63,
@@ -3205,7 +3205,7 @@ const plantesData = [
     "toxBadgeColor": "green",
     "toxBadgeText": "Non toxique",
     "usageType": "Médicinale",
-    "maladieSummary": "Respiratoire, Oculaire"
+    "maladieSummary": "Digestion & Poumons & Peau (Anti-inflammatoire)"
   },
   {
     "id": 64,
@@ -3256,7 +3256,7 @@ const plantesData = [
     "toxBadgeColor": "green",
     "toxBadgeText": "Non toxique",
     "usageType": "Alimentaire et Médicinale",
-    "maladieSummary": "Digestif"
+    "maladieSummary": "Reins & Digestion & Peau (Diurétique)"
   },
   {
     "id": 65,
@@ -3310,7 +3310,7 @@ const plantesData = [
     "toxBadgeColor": "green",
     "toxBadgeText": "Non toxique",
     "usageType": "Médicinale",
-    "maladieSummary": "Urinaire, Sanguin"
+    "maladieSummary": "Reins & Digestion & Peau (Diurétique)"
   },
   {
     "id": 66,
@@ -3361,7 +3361,7 @@ const plantesData = [
     "toxBadgeColor": "green",
     "toxBadgeText": "Non toxique",
     "usageType": "Médicinale",
-    "maladieSummary": "Respiratoire"
+    "maladieSummary": "Digestion & Poumons & Peau (Anti-inflammatoire)"
   },
   {
     "id": 67,
@@ -3414,7 +3414,7 @@ const plantesData = [
     "toxBadgeColor": "green",
     "toxBadgeText": "Non toxique",
     "usageType": "Médicinale",
-    "maladieSummary": "Cardiovasculaire, Musculosquelettique"
+    "maladieSummary": "Cœur & Peau & Douleurs (Anti-inflammatoire)"
   },
   {
     "id": 68,
@@ -3466,7 +3466,7 @@ const plantesData = [
     "toxBadgeColor": "yellow",
     "toxBadgeText": "Conditionnel",
     "usageType": "Médicinale",
-    "maladieSummary": "Cutané"
+    "maladieSummary": "Peau & Fièvre & Douleurs (Anti-inflammatoire)"
   },
   {
     "id": 69,
@@ -3518,7 +3518,7 @@ const plantesData = [
     "toxBadgeColor": "green",
     "toxBadgeText": "Non toxique",
     "usageType": "Médicinale",
-    "maladieSummary": "Respiratoire, Cutané"
+    "maladieSummary": "Poumons & Peau & Infections (Cicatrisant)"
   },
   {
     "id": 70,
@@ -3568,7 +3568,7 @@ const plantesData = [
     "toxBadgeColor": "green",
     "toxBadgeText": "Non toxique",
     "usageType": "Médicinale",
-    "maladieSummary": "Endocrinien"
+    "maladieSummary": "Reins & Diabète & Douleurs (Diurétique)"
   },
   {
     "id": 71,
@@ -3619,7 +3619,7 @@ const plantesData = [
     "toxBadgeColor": "green",
     "toxBadgeText": "Non toxique",
     "usageType": "Alimentaire et Médicinale",
-    "maladieSummary": "Hépatique"
+    "maladieSummary": "Cœur & Foie & Digestion (Antioxydant)"
   },
   {
     "id": 72,
@@ -3670,7 +3670,7 @@ const plantesData = [
     "toxBadgeColor": "green",
     "toxBadgeText": "Non toxique",
     "usageType": "Médicinale",
-    "maladieSummary": "Digestif"
+    "maladieSummary": "Digestion & Peau & Douleurs (Anti-inflammatoire)"
   },
   {
     "id": 73,
@@ -3721,7 +3721,7 @@ const plantesData = [
     "toxBadgeColor": "green",
     "toxBadgeText": "Non toxique",
     "usageType": "Médicinale",
-    "maladieSummary": "Cutané"
+    "maladieSummary": "Peau & Douleurs & Infections (Anti-inflammatoire)"
   },
   {
     "id": 74,
@@ -3772,7 +3772,7 @@ const plantesData = [
     "toxBadgeColor": "green",
     "toxBadgeText": "Non toxique",
     "usageType": "Alimentaire et Médicinale",
-    "maladieSummary": "Urinaire, Cutané"
+    "maladieSummary": "Reins & Peau & Douleurs (Diurétique)"
   },
   {
     "id": 75,
@@ -3822,7 +3822,7 @@ const plantesData = [
     "toxBadgeColor": "yellow",
     "toxBadgeText": "Conditionnel",
     "usageType": "Médicinale",
-    "maladieSummary": "Musculosquelettique"
+    "maladieSummary": "Reins & Peau & Douleurs (Diurétique)"
   },
   {
     "id": 76,
@@ -3874,7 +3874,7 @@ const plantesData = [
     "toxBadgeColor": "green",
     "toxBadgeText": "Non toxique",
     "usageType": "Alimentaire et Médicinale",
-    "maladieSummary": "Digestif"
+    "maladieSummary": "Digestion & Peau & Douleurs (Anti-inflammatoire)"
   },
   {
     "id": 77,
@@ -3925,7 +3925,7 @@ const plantesData = [
     "toxBadgeColor": "green",
     "toxBadgeText": "Non toxique",
     "usageType": "Alimentaire et Médicinale",
-    "maladieSummary": "Respiratoire, Sanguin"
+    "maladieSummary": "Digestion & Poumons & Peau (Antioxydant)"
   },
   {
     "id": 78,
@@ -3976,7 +3976,7 @@ const plantesData = [
     "toxBadgeColor": "green",
     "toxBadgeText": "Non toxique",
     "usageType": "Alimentaire et Médicinale",
-    "maladieSummary": "Digestif, Cardiovasculaire, Hépatique"
+    "maladieSummary": "Cœur & Foie & Digestion (Anti-inflammatoire)"
   },
   {
     "id": 79,
@@ -4031,7 +4031,7 @@ const plantesData = [
     "toxBadgeColor": "green",
     "toxBadgeText": "Non toxique",
     "usageType": "Alimentaire",
-    "maladieSummary": "Digestif, Musculosquelettique"
+    "maladieSummary": "Reins & Digestion & Peau (Diurétique)"
   },
   {
     "id": 80,
@@ -4090,7 +4090,7 @@ const plantesData = [
     "toxBadgeColor": "green",
     "toxBadgeText": "Non toxique",
     "usageType": "Médicinale",
-    "maladieSummary": "Immunitaire, Cutané"
+    "maladieSummary": "Peau & Fièvre & Douleurs (Anti-inflammatoire)"
   },
   {
     "id": 81,
@@ -4141,7 +4141,7 @@ const plantesData = [
     "toxBadgeColor": "green",
     "toxBadgeText": "Non toxique",
     "usageType": "Alimentaire et Médicinale",
-    "maladieSummary": "Cutané, Endocrinien"
+    "maladieSummary": "Reins & Digestion & Peau (Diurétique)"
   },
   {
     "id": 82,
@@ -4192,7 +4192,7 @@ const plantesData = [
     "toxBadgeColor": "yellow",
     "toxBadgeText": "Conditionnel",
     "usageType": "Médicinale",
-    "maladieSummary": "Cutané"
+    "maladieSummary": "Cœur & Peau & Douleurs (Anti-inflammatoire)"
   },
   {
     "id": 83,
@@ -4243,7 +4243,7 @@ const plantesData = [
     "toxBadgeColor": "yellow",
     "toxBadgeText": "Conditionnel",
     "usageType": "Alimentaire",
-    "maladieSummary": "Nerveux, Cutané"
+    "maladieSummary": "Peau & Douleurs & Nerveux (Anti-inflammatoire)"
   },
   {
     "id": 84,
@@ -4294,7 +4294,7 @@ const plantesData = [
     "toxBadgeColor": "red",
     "toxBadgeText": "Toxique",
     "usageType": "Alimentaire et Médicinale",
-    "maladieSummary": "Nerveux, Cardiovasculaire, Cutané"
+    "maladieSummary": "Cœur & Peau & Douleurs (Analgésique)"
   },
   {
     "id": 85,
@@ -4347,7 +4347,7 @@ const plantesData = [
     "toxBadgeColor": "green",
     "toxBadgeText": "Non toxique",
     "usageType": "Médicinale",
-    "maladieSummary": "Respiratoire, Nerveux, Cardiovasculaire"
+    "maladieSummary": "Cœur & Poumons & Peau (Antispasmodique)"
   },
   {
     "id": 86,
@@ -4399,7 +4399,7 @@ const plantesData = [
     "toxBadgeColor": "green",
     "toxBadgeText": "Non toxique",
     "usageType": "Médicinale",
-    "maladieSummary": "Digestif, Hépatique"
+    "maladieSummary": "Foie & Digestion & Douleurs (Anti-inflammatoire)"
   },
   {
     "id": 87,
@@ -4452,7 +4452,7 @@ const plantesData = [
     "toxBadgeColor": "yellow",
     "toxBadgeText": "Conditionnel",
     "usageType": "Alimentaire et Médicinale",
-    "maladieSummary": ""
+    "maladieSummary": "Digestion & Peau & Fièvre (Anti-inflammatoire)"
   },
   {
     "id": 88,
@@ -4504,7 +4504,7 @@ const plantesData = [
     "toxBadgeColor": "green",
     "toxBadgeText": "Non toxique",
     "usageType": "Alimentaire et Médicinale",
-    "maladieSummary": "Digestif"
+    "maladieSummary": "Digestion & Diabète & Immunité (Antioxydant)"
   },
   {
     "id": 89,
@@ -4555,7 +4555,7 @@ const plantesData = [
     "toxBadgeColor": "green",
     "toxBadgeText": "Non toxique",
     "usageType": "Médicinale",
-    "maladieSummary": "Cardiovasculaire, Cutané"
+    "maladieSummary": "Cœur & Peau & Douleurs (Cicatrisant)"
   },
   {
     "id": 90,
@@ -4606,7 +4606,7 @@ const plantesData = [
     "toxBadgeColor": "yellow",
     "toxBadgeText": "Conditionnel",
     "usageType": "Médicinale",
-    "maladieSummary": "Cutané"
+    "maladieSummary": "Peau & Douleurs & Infections (Anti-inflammatoire)"
   },
   {
     "id": 91,
@@ -4657,7 +4657,7 @@ const plantesData = [
     "toxBadgeColor": "green",
     "toxBadgeText": "Non toxique",
     "usageType": "Alimentaire et Médicinale",
-    "maladieSummary": "Digestif"
+    "maladieSummary": "Digestion & Douleurs & Infections (Anti-inflammatoire)"
   },
   {
     "id": 92,
@@ -4710,7 +4710,7 @@ const plantesData = [
     "toxBadgeColor": "green",
     "toxBadgeText": "Non toxique",
     "usageType": "Médicinale",
-    "maladieSummary": "Digestif, Cardiovasculaire"
+    "maladieSummary": "Reins & Cœur & Digestion (Diurétique)"
   },
   {
     "id": 93,
@@ -4761,7 +4761,7 @@ const plantesData = [
     "toxBadgeColor": "green",
     "toxBadgeText": "Non toxique",
     "usageType": "Alimentaire",
-    "maladieSummary": "Cardiovasculaire"
+    "maladieSummary": "Cœur & Foie & Peau (Anti-inflammatoire)"
   },
   {
     "id": 94,
@@ -4811,7 +4811,7 @@ const plantesData = [
     "toxBadgeColor": "green",
     "toxBadgeText": "Non toxique",
     "usageType": "Alimentaire et Médicinale",
-    "maladieSummary": "Respiratoire, Cutané"
+    "maladieSummary": "Reins & Poumons & Peau (Diurétique)"
   },
   {
     "id": 95,
@@ -4861,7 +4861,7 @@ const plantesData = [
     "toxBadgeColor": "yellow",
     "toxBadgeText": "Conditionnel",
     "usageType": "Alimentaire et Médicinale",
-    "maladieSummary": "Urinaire, Cardiovasculaire"
+    "maladieSummary": "Reins & Cœur & Peau (Diurétique)"
   },
   {
     "id": 96,
@@ -4912,7 +4912,7 @@ const plantesData = [
     "toxBadgeColor": "green",
     "toxBadgeText": "Non toxique",
     "usageType": "Médicinale",
-    "maladieSummary": "Hépatique"
+    "maladieSummary": "Reins & Foie & Peau (Diurétique)"
   },
   {
     "id": 97,
@@ -4963,7 +4963,7 @@ const plantesData = [
     "toxBadgeColor": "green",
     "toxBadgeText": "Non toxique",
     "usageType": "Alimentaire",
-    "maladieSummary": "Immunitaire, Oculaire"
+    "maladieSummary": "Digestion & Peau & Diabète (Anti-inflammatoire)"
   },
   {
     "id": 98,
@@ -5013,7 +5013,7 @@ const plantesData = [
     "toxBadgeColor": "green",
     "toxBadgeText": "Non toxique",
     "usageType": "Médicinale",
-    "maladieSummary": "Cutané"
+    "maladieSummary": "Peau & Douleurs & Nerveux (Anti-inflammatoire)"
   },
   {
     "id": 99,
@@ -5065,7 +5065,7 @@ const plantesData = [
     "toxBadgeColor": "yellow",
     "toxBadgeText": "Conditionnel",
     "usageType": "Médicinale",
-    "maladieSummary": "Nerveux, Cardiovasculaire"
+    "maladieSummary": "Reins & Cœur & Peau (Diurétique)"
   },
   {
     "id": 100,
@@ -5115,7 +5115,7 @@ const plantesData = [
     "toxBadgeColor": "green",
     "toxBadgeText": "Non toxique",
     "usageType": "Alimentaire et Médicinale",
-    "maladieSummary": "Digestif, Urinaire"
+    "maladieSummary": "Reins & Digestion & Parasites (Diurétique)"
   },
   {
     "id": 101,
@@ -5166,7 +5166,7 @@ const plantesData = [
     "toxBadgeColor": "green",
     "toxBadgeText": "Non toxique",
     "usageType": "Alimentaire et Médicinale",
-    "maladieSummary": "Digestif, Urinaire, Nerveux"
+    "maladieSummary": "Reins & Foie & Digestion (Diurétique)"
   },
   {
     "id": 102,
@@ -5217,7 +5217,7 @@ const plantesData = [
     "toxBadgeColor": "yellow",
     "toxBadgeText": "Conditionnel",
     "usageType": "Alimentaire et Médicinale",
-    "maladieSummary": "Digestif, Urinaire"
+    "maladieSummary": "Reins & Foie & Digestion (Diurétique)"
   },
   {
     "id": 103,
@@ -5270,7 +5270,7 @@ const plantesData = [
     "toxBadgeColor": "green",
     "toxBadgeText": "Non toxique",
     "usageType": "Alimentaire et Médicinale",
-    "maladieSummary": "Endocrinien"
+    "maladieSummary": "Cœur & Digestion & Diabète (Anti-inflammatoire)"
   },
   {
     "id": 104,
@@ -5320,7 +5320,7 @@ const plantesData = [
     "toxBadgeColor": "green",
     "toxBadgeText": "Non toxique",
     "usageType": "Alimentaire et Médicinale",
-    "maladieSummary": "Urinaire, Cardiovasculaire"
+    "maladieSummary": "Reins & Cœur & Parasites (Diurétique)"
   },
   {
     "id": 105,
@@ -5371,7 +5371,7 @@ const plantesData = [
     "toxBadgeColor": "green",
     "toxBadgeText": "Non toxique",
     "usageType": "Médicinale",
-    "maladieSummary": ""
+    "maladieSummary": "Reins & Douleurs & Infections (Anti-inflammatoire)"
   },
   {
     "id": 106,
@@ -5421,7 +5421,7 @@ const plantesData = [
     "toxBadgeColor": "green",
     "toxBadgeText": "Non toxique",
     "usageType": "Médicinale",
-    "maladieSummary": "Digestif, Urinaire"
+    "maladieSummary": "Reins & Digestion & Poumons (Diurétique)"
   },
   {
     "id": 107,
@@ -5474,7 +5474,7 @@ const plantesData = [
     "toxBadgeColor": "yellow",
     "toxBadgeText": "Conditionnel",
     "usageType": "Médicinale",
-    "maladieSummary": "Cutané"
+    "maladieSummary": "Peau & Fièvre & Douleurs (Anti-inflammatoire)"
   },
   {
     "id": 108,
@@ -5524,7 +5524,7 @@ const plantesData = [
     "toxBadgeColor": "green",
     "toxBadgeText": "Non toxique",
     "usageType": "Médicinale",
-    "maladieSummary": "Respiratoire, Immunitaire, Reproducteur"
+    "maladieSummary": "Poumons & Peau & Douleurs (Anti-inflammatoire)"
   },
   {
     "id": 109,
@@ -5574,7 +5574,7 @@ const plantesData = [
     "toxBadgeColor": "green",
     "toxBadgeText": "Non toxique",
     "usageType": "Médicinale",
-    "maladieSummary": "Digestif, Respiratoire"
+    "maladieSummary": "Digestion & Poumons & Peau (Anti-inflammatoire)"
   },
   {
     "id": 110,
@@ -5624,7 +5624,7 @@ const plantesData = [
     "toxBadgeColor": "green",
     "toxBadgeText": "Non toxique",
     "usageType": "Médicinale",
-    "maladieSummary": ""
+    "maladieSummary": "Douleurs & Infections & Os & Muscles (Anti-inflammatoire)"
   },
   {
     "id": 111,
@@ -5674,7 +5674,7 @@ const plantesData = [
     "toxBadgeColor": "red",
     "toxBadgeText": "Toxique",
     "usageType": "Médicinale",
-    "maladieSummary": "Digestif, Respiratoire, Cutané"
+    "maladieSummary": "Digestion & Poumons & Peau (Antimicrobien)"
   },
   {
     "id": 112,
@@ -5727,7 +5727,7 @@ const plantesData = [
     "toxBadgeColor": "red",
     "toxBadgeText": "Toxique",
     "usageType": "Médicinale",
-    "maladieSummary": "Digestif, Cutané"
+    "maladieSummary": "Digestion & Peau & Parasites"
   },
   {
     "id": 113,
@@ -5779,7 +5779,7 @@ const plantesData = [
     "toxBadgeColor": "green",
     "toxBadgeText": "Non toxique",
     "usageType": "Médicinale",
-    "maladieSummary": "Nerveux"
+    "maladieSummary": "Digestion & Peau & Douleurs (Antimicrobien)"
   },
   {
     "id": 114,
@@ -5830,7 +5830,7 @@ const plantesData = [
     "toxBadgeColor": "green",
     "toxBadgeText": "Non toxique",
     "usageType": "Médicinale",
-    "maladieSummary": ""
+    "maladieSummary": "Reins & Peau & Douleurs (Diurétique)"
   },
   {
     "id": 115,
@@ -5880,7 +5880,7 @@ const plantesData = [
     "toxBadgeColor": "yellow",
     "toxBadgeText": "Conditionnel",
     "usageType": "Alimentaire et Médicinale",
-    "maladieSummary": "Immunitaire, Cutané"
+    "maladieSummary": "Digestion & Peau & Fièvre (Antioxydant)"
   },
   {
     "id": 116,
@@ -5931,7 +5931,7 @@ const plantesData = [
     "toxBadgeColor": "red",
     "toxBadgeText": "Toxique",
     "usageType": "Médicinale",
-    "maladieSummary": "Digestif"
+    "maladieSummary": "Cœur & Digestion & Douleurs (Anti-inflammatoire)"
   },
   {
     "id": 117,
@@ -5982,7 +5982,7 @@ const plantesData = [
     "toxBadgeColor": "red",
     "toxBadgeText": "Toxique",
     "usageType": "Médicinale",
-    "maladieSummary": "Cardiovasculaire"
+    "maladieSummary": "Cœur & Douleurs & Infections (Anti-inflammatoire)"
   },
   {
     "id": 118,
@@ -6032,7 +6032,7 @@ const plantesData = [
     "toxBadgeColor": "green",
     "toxBadgeText": "Non toxique",
     "usageType": "Alimentaire et Médicinale",
-    "maladieSummary": "Cardiovasculaire"
+    "maladieSummary": "Cœur & Digestion & Peau"
   },
   {
     "id": 119,
@@ -6083,7 +6083,7 @@ const plantesData = [
     "toxBadgeColor": "green",
     "toxBadgeText": "Non toxique",
     "usageType": "Alimentaire et Médicinale",
-    "maladieSummary": "Urinaire, Hépatique"
+    "maladieSummary": "Reins & Foie & Peau (Diurétique)"
   },
   {
     "id": 120,
@@ -6136,7 +6136,7 @@ const plantesData = [
     "toxBadgeColor": "green",
     "toxBadgeText": "Non toxique",
     "usageType": "Alimentaire",
-    "maladieSummary": ""
+    "maladieSummary": "Digestion & Diabète & Nerveux (Antidiabétique)"
   },
   {
     "id": 121,
@@ -6189,7 +6189,7 @@ const plantesData = [
     "toxBadgeColor": "green",
     "toxBadgeText": "Non toxique",
     "usageType": "Médicinale",
-    "maladieSummary": "Digestif, Cutané, Sanguin"
+    "maladieSummary": "Digestion & Peau & Douleurs (Antimicrobien)"
   },
   {
     "id": 122,
@@ -6240,7 +6240,7 @@ const plantesData = [
     "toxBadgeColor": "green",
     "toxBadgeText": "Non toxique",
     "usageType": "Alimentaire et Médicinale",
-    "maladieSummary": "Nerveux"
+    "maladieSummary": "Reins & Digestion & Peau (Diurétique)"
   },
   {
     "id": 123,
@@ -6291,7 +6291,7 @@ const plantesData = [
     "toxBadgeColor": "green",
     "toxBadgeText": "Non toxique",
     "usageType": "Médicinale",
-    "maladieSummary": "Nerveux"
+    "maladieSummary": "Digestion & Peau & Douleurs (Antimicrobien)"
   },
   {
     "id": 124,
@@ -6342,7 +6342,7 @@ const plantesData = [
     "toxBadgeColor": "yellow",
     "toxBadgeText": "Conditionnel",
     "usageType": "Alimentaire",
-    "maladieSummary": "Nerveux, Sanguin"
+    "maladieSummary": "Diabète & Nerveux & Parasites (Antidiabétique)"
   },
   {
     "id": 125,
@@ -6392,7 +6392,7 @@ const plantesData = [
     "toxBadgeColor": "green",
     "toxBadgeText": "Non toxique",
     "usageType": "Médicinale",
-    "maladieSummary": "Nerveux, Sanguin"
+    "maladieSummary": "Reins & Digestion & Diabète (Diurétique)"
   },
   {
     "id": 126,
@@ -6443,7 +6443,7 @@ const plantesData = [
     "toxBadgeColor": "yellow",
     "toxBadgeText": "Conditionnel",
     "usageType": "Alimentaire et Médicinale",
-    "maladieSummary": "Urinaire"
+    "maladieSummary": "Reins & Diabète & Nerveux (Diurétique)"
   },
   {
     "id": 127,
@@ -6496,7 +6496,7 @@ const plantesData = [
     "toxBadgeColor": "green",
     "toxBadgeText": "Non toxique",
     "usageType": "Alimentaire et Médicinale",
-    "maladieSummary": "Respiratoire, Cutané"
+    "maladieSummary": "Poumons & Peau & Diabète (Anti-inflammatoire)"
   },
   {
     "id": 128,
@@ -6547,7 +6547,7 @@ const plantesData = [
     "toxBadgeColor": "green",
     "toxBadgeText": "Non toxique",
     "usageType": "Médicinale",
-    "maladieSummary": "Digestif, Cutané"
+    "maladieSummary": "Digestion & Peau & Douleurs (Anti-inflammatoire)"
   },
   {
     "id": 129,
@@ -6598,7 +6598,7 @@ const plantesData = [
     "toxBadgeColor": "green",
     "toxBadgeText": "Non toxique",
     "usageType": "Médicinale",
-    "maladieSummary": "Digestif, Hépatique"
+    "maladieSummary": "Reins & Foie & Digestion (Diurétique)"
   },
   {
     "id": 130,
@@ -6651,7 +6651,7 @@ const plantesData = [
     "toxBadgeColor": "green",
     "toxBadgeText": "Non toxique",
     "usageType": "Alimentaire et Médicinale",
-    "maladieSummary": "Digestif"
+    "maladieSummary": "Digestion & Peau & Fièvre (Anti-inflammatoire)"
   },
   {
     "id": 131,
@@ -6702,7 +6702,7 @@ const plantesData = [
     "toxBadgeColor": "green",
     "toxBadgeText": "Non toxique",
     "usageType": "Médicinale",
-    "maladieSummary": "Digestif"
+    "maladieSummary": "Digestion & Douleurs"
   },
   {
     "id": 132,
@@ -6753,7 +6753,7 @@ const plantesData = [
     "toxBadgeColor": "green",
     "toxBadgeText": "Non toxique",
     "usageType": "Médicinale",
-    "maladieSummary": "Cutané"
+    "maladieSummary": "Peau & Douleurs & Infections (Antimicrobien)"
   },
   {
     "id": 133,
@@ -6806,7 +6806,7 @@ const plantesData = [
     "toxBadgeColor": "green",
     "toxBadgeText": "Non toxique",
     "usageType": "Médicinale",
-    "maladieSummary": "Urinaire, Cutané"
+    "maladieSummary": "Reins & Peau & Douleurs (Diurétique)"
   },
   {
     "id": 134,
@@ -6857,7 +6857,7 @@ const plantesData = [
     "toxBadgeColor": "yellow",
     "toxBadgeText": "Conditionnel",
     "usageType": "Médicinale",
-    "maladieSummary": "Digestif, Cardiovasculaire"
+    "maladieSummary": "Cœur & Digestion & Peau (Anti-inflammatoire)"
   },
   {
     "id": 135,
@@ -6910,7 +6910,7 @@ const plantesData = [
     "toxBadgeColor": "yellow",
     "toxBadgeText": "Conditionnel",
     "usageType": "Médicinale",
-    "maladieSummary": "Respiratoire, Cardiovasculaire"
+    "maladieSummary": "Cœur & Digestion & Poumons"
   },
   {
     "id": 136,
@@ -6961,7 +6961,7 @@ const plantesData = [
     "toxBadgeColor": "green",
     "toxBadgeText": "Non toxique",
     "usageType": "Alimentaire et Médicinale",
-    "maladieSummary": "Digestif, Nerveux"
+    "maladieSummary": "Digestion & Peau & Douleurs (Sédatif)"
   },
   {
     "id": 137,
@@ -7011,7 +7011,7 @@ const plantesData = [
     "toxBadgeColor": "green",
     "toxBadgeText": "Non toxique",
     "usageType": "Alimentaire et Médicinale",
-    "maladieSummary": "Digestif, Nerveux"
+    "maladieSummary": "Digestion & Peau & Nerveux (Antioxydant)"
   },
   {
     "id": 138,
@@ -7062,7 +7062,7 @@ const plantesData = [
     "toxBadgeColor": "green",
     "toxBadgeText": "Non toxique",
     "usageType": "Alimentaire",
-    "maladieSummary": "Digestif, Immunitaire, Nerveux"
+    "maladieSummary": "Cœur & Digestion & Peau (Antimicrobien)"
   },
   {
     "id": 139,
@@ -7113,7 +7113,7 @@ const plantesData = [
     "toxBadgeColor": "green",
     "toxBadgeText": "Non toxique",
     "usageType": "Alimentaire et Médicinale",
-    "maladieSummary": "Respiratoire, Immunitaire, Hépatique"
+    "maladieSummary": "Cœur & Foie & Digestion (Antimicrobien)"
   },
   {
     "id": 140,
@@ -7165,7 +7165,7 @@ const plantesData = [
     "toxBadgeColor": "green",
     "toxBadgeText": "Non toxique",
     "usageType": "Médicinale",
-    "maladieSummary": "Digestif, Respiratoire"
+    "maladieSummary": "Digestion & Poumons & Peau (Anti-inflammatoire)"
   },
   {
     "id": 141,
@@ -7215,7 +7215,7 @@ const plantesData = [
     "toxBadgeColor": "green",
     "toxBadgeText": "Non toxique",
     "usageType": "Médicinale",
-    "maladieSummary": "Digestif, Nerveux, Sanguin"
+    "maladieSummary": "Digestion & Peau & Douleurs (Antimicrobien)"
   },
   {
     "id": 142,
@@ -7265,7 +7265,7 @@ const plantesData = [
     "toxBadgeColor": "green",
     "toxBadgeText": "Non toxique",
     "usageType": "Alimentaire et Médicinale",
-    "maladieSummary": "Respiratoire, Immunitaire"
+    "maladieSummary": "Poumons & Peau & Douleurs (Anti-inflammatoire)"
   },
   {
     "id": 143,
@@ -7315,7 +7315,7 @@ const plantesData = [
     "toxBadgeColor": "green",
     "toxBadgeText": "Non toxique",
     "usageType": "Alimentaire et Médicinale",
-    "maladieSummary": "Digestif, Cardiovasculaire"
+    "maladieSummary": "Cœur & Digestion & Peau (Antidiabétique)"
   },
   {
     "id": 144,
@@ -7367,7 +7367,7 @@ const plantesData = [
     "toxBadgeColor": "green",
     "toxBadgeText": "Non toxique",
     "usageType": "Alimentaire et Médicinale",
-    "maladieSummary": "Cardiovasculaire, Sanguin"
+    "maladieSummary": "Cœur & Digestion & Peau (Antidiabétique)"
   },
   {
     "id": 145,
@@ -7417,7 +7417,7 @@ const plantesData = [
     "toxBadgeColor": "green",
     "toxBadgeText": "Non toxique",
     "usageType": "Alimentaire et Médicinale",
-    "maladieSummary": "Nerveux, Cardiovasculaire"
+    "maladieSummary": "Cœur & Digestion & Nerveux (Vermifuge)"
   },
   {
     "id": 146,
@@ -7467,7 +7467,7 @@ const plantesData = [
     "toxBadgeColor": "yellow",
     "toxBadgeText": "Conditionnel",
     "usageType": "Alimentaire et Médicinale",
-    "maladieSummary": "Digestif, Cardiovasculaire"
+    "maladieSummary": "Cœur & Foie & Digestion (Antimicrobien)"
   },
   {
     "id": 147,
@@ -7521,7 +7521,7 @@ const plantesData = [
     "toxBadgeColor": "green",
     "toxBadgeText": "Non toxique",
     "usageType": "Alimentaire et Médicinale",
-    "maladieSummary": "Digestif"
+    "maladieSummary": "Digestion & Diabète & Infections (Antidiabétique)"
   },
   {
     "id": 148,
@@ -7573,7 +7573,7 @@ const plantesData = [
     "toxBadgeColor": "green",
     "toxBadgeText": "Non toxique",
     "usageType": "Alimentaire et Médicinale",
-    "maladieSummary": "Digestif, Immunitaire"
+    "maladieSummary": "Foie & Digestion & Poumons (Anti-inflammatoire)"
   },
   {
     "id": 149,
@@ -7623,7 +7623,7 @@ const plantesData = [
     "toxBadgeColor": "green",
     "toxBadgeText": "Non toxique",
     "usageType": "Alimentaire et Médicinale",
-    "maladieSummary": "Digestif, Endocrinien"
+    "maladieSummary": "Digestion & Peau & Diabète (Antioxydant)"
   },
   {
     "id": 150,
@@ -7673,7 +7673,7 @@ const plantesData = [
     "toxBadgeColor": "green",
     "toxBadgeText": "Non toxique",
     "usageType": "Médicinale",
-    "maladieSummary": "Respiratoire"
+    "maladieSummary": "Digestion & Poumons & Peau (Anti-inflammatoire)"
   },
   {
     "id": 151,
@@ -7726,7 +7726,7 @@ const plantesData = [
     "toxBadgeColor": "green",
     "toxBadgeText": "Non toxique",
     "usageType": "Médicinale",
-    "maladieSummary": "Urinaire, Respiratoire, Endocrinien"
+    "maladieSummary": "Reins & Digestion & Poumons (Diurétique)"
   },
   {
     "id": 152,
@@ -7776,7 +7776,7 @@ const plantesData = [
     "toxBadgeColor": "green",
     "toxBadgeText": "Non toxique",
     "usageType": "Alimentaire et Médicinale",
-    "maladieSummary": "Digestif, Urinaire"
+    "maladieSummary": "Reins & Digestion & Poumons (Diurétique)"
   },
   {
     "id": 153,
@@ -7827,7 +7827,7 @@ const plantesData = [
     "toxBadgeColor": "green",
     "toxBadgeText": "Non toxique",
     "usageType": "Alimentaire",
-    "maladieSummary": "Digestif"
+    "maladieSummary": "Digestion & Peau & Diabète (Antimicrobien)"
   },
   {
     "id": 154,
@@ -7878,7 +7878,7 @@ const plantesData = [
     "toxBadgeColor": "green",
     "toxBadgeText": "Non toxique",
     "usageType": "Médicinale",
-    "maladieSummary": "Respiratoire, Cardiovasculaire, Cutané"
+    "maladieSummary": "Reins & Cœur & Poumons (Diurétique)"
   },
   {
     "id": 155,
@@ -7931,7 +7931,7 @@ const plantesData = [
     "toxBadgeColor": "green",
     "toxBadgeText": "Non toxique",
     "usageType": "Médicinale",
-    "maladieSummary": "Cutané, Musculosquelettique"
+    "maladieSummary": "Peau & Douleurs & Infections (Anti-inflammatoire)"
   },
   {
     "id": 156,
@@ -7981,7 +7981,7 @@ const plantesData = [
     "toxBadgeColor": "green",
     "toxBadgeText": "Non toxique",
     "usageType": "Alimentaire et Médicinale",
-    "maladieSummary": "Digestif, Immunitaire"
+    "maladieSummary": "Digestion & Peau & Fièvre (Anti-inflammatoire)"
   },
   {
     "id": 157,
@@ -8032,7 +8032,7 @@ const plantesData = [
     "toxBadgeColor": "yellow",
     "toxBadgeText": "Conditionnel",
     "usageType": "Alimentaire",
-    "maladieSummary": "Nerveux, Cardiovasculaire"
+    "maladieSummary": "Cœur & Nerveux & Infections (Antimicrobien)"
   },
   {
     "id": 158,
@@ -8082,7 +8082,7 @@ const plantesData = [
     "toxBadgeColor": "yellow",
     "toxBadgeText": "Conditionnel",
     "usageType": "Médicinale",
-    "maladieSummary": "Respiratoire, Cutané"
+    "maladieSummary": "Cœur & Digestion & Poumons (Antimicrobien)"
   },
   {
     "id": 159,
@@ -8132,7 +8132,7 @@ const plantesData = [
     "toxBadgeColor": "green",
     "toxBadgeText": "Non toxique",
     "usageType": "Médicinale",
-    "maladieSummary": "Digestif, Respiratoire, Cutané"
+    "maladieSummary": "Digestion & Poumons & Peau (Anti-inflammatoire)"
   },
   {
     "id": 160,
@@ -8183,7 +8183,7 @@ const plantesData = [
     "toxBadgeColor": "green",
     "toxBadgeText": "Non toxique",
     "usageType": "Médicinale",
-    "maladieSummary": "Respiratoire, Cutané"
+    "maladieSummary": "Poumons & Peau & Douleurs (Anti-inflammatoire)"
   },
   {
     "id": 161,
@@ -8235,7 +8235,7 @@ const plantesData = [
     "toxBadgeColor": "green",
     "toxBadgeText": "Non toxique",
     "usageType": "Médicinale",
-    "maladieSummary": ""
+    "maladieSummary": "Reins & Douleurs & Infections (Anti-inflammatoire)"
   },
   {
     "id": 162,
@@ -8287,7 +8287,7 @@ const plantesData = [
     "toxBadgeColor": "green",
     "toxBadgeText": "Non toxique",
     "usageType": "Médicinale",
-    "maladieSummary": "Reproducteur"
+    "maladieSummary": "Peau & Douleurs & Parasites"
   },
   {
     "id": 163,
@@ -8339,7 +8339,7 @@ const plantesData = [
     "toxBadgeColor": "green",
     "toxBadgeText": "Non toxique",
     "usageType": "Alimentaire et Médicinale",
-    "maladieSummary": "Digestif, Cardiovasculaire"
+    "maladieSummary": "Reins & Cœur & Digestion (Diurétique)"
   },
   {
     "id": 164,
@@ -8390,7 +8390,7 @@ const plantesData = [
     "toxBadgeColor": "green",
     "toxBadgeText": "Non toxique",
     "usageType": "Alimentaire et Médicinale",
-    "maladieSummary": "Digestif, Endocrinien"
+    "maladieSummary": "Cœur & Digestion & Diabète (Anti-inflammatoire)"
   },
   {
     "id": 165,
@@ -8440,7 +8440,7 @@ const plantesData = [
     "toxBadgeColor": "green",
     "toxBadgeText": "Non toxique",
     "usageType": "Alimentaire et Médicinale",
-    "maladieSummary": "Cardiovasculaire"
+    "maladieSummary": "Cœur & Peau & Diabète (Anti-inflammatoire)"
   },
   {
     "id": 166,
@@ -8492,7 +8492,7 @@ const plantesData = [
     "toxBadgeColor": "green",
     "toxBadgeText": "Non toxique",
     "usageType": "Alimentaire et Médicinale",
-    "maladieSummary": "Immunitaire"
+    "maladieSummary": "Digestion & Diabète & Douleurs (Antidiabétique)"
   },
   {
     "id": 167,
@@ -8543,7 +8543,7 @@ const plantesData = [
     "toxBadgeColor": "green",
     "toxBadgeText": "Non toxique",
     "usageType": "Alimentaire et Médicinale",
-    "maladieSummary": "Digestif, Cardiovasculaire"
+    "maladieSummary": "Cœur & Digestion & Peau (Antioxydant)"
   },
   {
     "id": 168,
@@ -8596,7 +8596,7 @@ const plantesData = [
     "toxBadgeColor": "green",
     "toxBadgeText": "Non toxique",
     "usageType": "Alimentaire et Médicinale",
-    "maladieSummary": "Respiratoire, Immunitaire"
+    "maladieSummary": "Cœur & Poumons & Douleurs (Anti-inflammatoire)"
   },
   {
     "id": 169,
@@ -8646,7 +8646,7 @@ const plantesData = [
     "toxBadgeColor": "yellow",
     "toxBadgeText": "Conditionnel",
     "usageType": "Médicinale",
-    "maladieSummary": "Respiratoire"
+    "maladieSummary": "Poumons & Peau & Douleurs (Anti-inflammatoire)"
   },
   {
     "id": 170,
@@ -8698,7 +8698,7 @@ const plantesData = [
     "toxBadgeColor": "green",
     "toxBadgeText": "Non toxique",
     "usageType": "Alimentaire et Médicinale",
-    "maladieSummary": "Digestif, Cardiovasculaire"
+    "maladieSummary": "Cœur & Digestion & Peau (Antimicrobien)"
   },
   {
     "id": 171,
@@ -8748,7 +8748,7 @@ const plantesData = [
     "toxBadgeColor": "yellow",
     "toxBadgeText": "Conditionnel",
     "usageType": "Alimentaire et Médicinale",
-    "maladieSummary": "Digestif, Immunitaire"
+    "maladieSummary": "Digestion & Diabète & Infections (Antidiabétique)"
   },
   {
     "id": 172,
@@ -8799,7 +8799,7 @@ const plantesData = [
     "toxBadgeColor": "green",
     "toxBadgeText": "Non toxique",
     "usageType": "Médicinale",
-    "maladieSummary": "Urinaire, Cardiovasculaire"
+    "maladieSummary": "Reins & Cœur & Peau (Diurétique)"
   },
   {
     "id": 173,
@@ -8852,7 +8852,7 @@ const plantesData = [
     "toxBadgeColor": "green",
     "toxBadgeText": "Non toxique",
     "usageType": "Médicinale",
-    "maladieSummary": "Cutané, Musculosquelettique"
+    "maladieSummary": "Digestion & Peau & Douleurs (Anti-inflammatoire)"
   },
   {
     "id": 174,
@@ -8903,7 +8903,7 @@ const plantesData = [
     "toxBadgeColor": "green",
     "toxBadgeText": "Non toxique",
     "usageType": "Alimentaire et Médicinale",
-    "maladieSummary": "Digestif, Respiratoire, Immunitaire"
+    "maladieSummary": "Cœur & Digestion & Poumons (Anti-inflammatoire)"
   },
   {
     "id": 175,
@@ -8954,7 +8954,7 @@ const plantesData = [
     "toxBadgeColor": "green",
     "toxBadgeText": "Non toxique",
     "usageType": "Médicinale",
-    "maladieSummary": "Endocrinien"
+    "maladieSummary": "Cœur & Digestion & Peau (Anti-inflammatoire)"
   },
   {
     "id": 176,
@@ -9005,7 +9005,7 @@ const plantesData = [
     "toxBadgeColor": "green",
     "toxBadgeText": "Non toxique",
     "usageType": "Alimentaire et Médicinale",
-    "maladieSummary": "Immunitaire"
+    "maladieSummary": "Reins & Digestion & Peau (Diurétique)"
   },
   {
     "id": 177,
@@ -9056,7 +9056,7 @@ const plantesData = [
     "toxBadgeColor": "yellow",
     "toxBadgeText": "Conditionnel",
     "usageType": "Médicinale",
-    "maladieSummary": "Digestif"
+    "maladieSummary": "Digestion & Peau & Douleurs (Anti-inflammatoire)"
   },
   {
     "id": 178,
@@ -9107,7 +9107,7 @@ const plantesData = [
     "toxBadgeColor": "green",
     "toxBadgeText": "Non toxique",
     "usageType": "Alimentaire",
-    "maladieSummary": "Nerveux"
+    "maladieSummary": "Peau & Fièvre & Diabète (Anti-inflammatoire)"
   },
   {
     "id": 179,
@@ -9158,7 +9158,7 @@ const plantesData = [
     "toxBadgeColor": "green",
     "toxBadgeText": "Non toxique",
     "usageType": "Médicinale",
-    "maladieSummary": "Digestif, Cardiovasculaire"
+    "maladieSummary": "Cœur & Digestion & Peau (Antidiabétique)"
   },
   {
     "id": 180,
@@ -9209,7 +9209,7 @@ const plantesData = [
     "toxBadgeColor": "green",
     "toxBadgeText": "Non toxique",
     "usageType": "Alimentaire et Médicinale",
-    "maladieSummary": ""
+    "maladieSummary": "Fièvre & Douleurs & Infections (Anti-inflammatoire)"
   },
   {
     "id": 181,
@@ -9261,7 +9261,7 @@ const plantesData = [
     "toxBadgeColor": "green",
     "toxBadgeText": "Non toxique",
     "usageType": "Médicinale",
-    "maladieSummary": "Digestif"
+    "maladieSummary": "Digestion & Peau & Douleurs (Anti-inflammatoire)"
   },
   {
     "id": 182,
@@ -9314,7 +9314,7 @@ const plantesData = [
     "toxBadgeColor": "yellow",
     "toxBadgeText": "Conditionnel",
     "usageType": "Médicinale",
-    "maladieSummary": "Digestif"
+    "maladieSummary": "Reins & Digestion & Peau (Diurétique)"
   },
   {
     "id": 183,
@@ -9365,7 +9365,7 @@ const plantesData = [
     "toxBadgeColor": "green",
     "toxBadgeText": "Non toxique",
     "usageType": "Alimentaire et Médicinale",
-    "maladieSummary": "Digestif, Cutané"
+    "maladieSummary": "Digestion & Peau & Douleurs (Antimicrobien)"
   },
   {
     "id": 184,
@@ -9417,7 +9417,7 @@ const plantesData = [
     "toxBadgeColor": "yellow",
     "toxBadgeText": "Conditionnel",
     "usageType": "Alimentaire et Médicinale",
-    "maladieSummary": "Digestif, Urinaire, Cardiovasculaire"
+    "maladieSummary": "Reins & Cœur & Digestion (Antidiabétique)"
   },
   {
     "id": 185,
@@ -9467,7 +9467,7 @@ const plantesData = [
     "toxBadgeColor": "yellow",
     "toxBadgeText": "Conditionnel",
     "usageType": "Alimentaire et Médicinale",
-    "maladieSummary": "Urinaire, Nerveux, Sanguin"
+    "maladieSummary": "Reins & Poumons & Peau (Diurétique)"
   },
   {
     "id": 186,
@@ -9519,7 +9519,7 @@ const plantesData = [
     "toxBadgeColor": "green",
     "toxBadgeText": "Non toxique",
     "usageType": "Médicinale",
-    "maladieSummary": "Digestif, Cardiovasculaire, Cutané"
+    "maladieSummary": "Cœur & Digestion & Poumons (Antimicrobien)"
   },
   {
     "id": 187,
@@ -9571,7 +9571,7 @@ const plantesData = [
     "toxBadgeColor": "green",
     "toxBadgeText": "Non toxique",
     "usageType": "Alimentaire et Médicinale",
-    "maladieSummary": "Cutané, Sanguin"
+    "maladieSummary": "Reins & Peau & Douleurs (Diurétique)"
   },
   {
     "id": 188,
@@ -9622,7 +9622,7 @@ const plantesData = [
     "toxBadgeColor": "green",
     "toxBadgeText": "Non toxique",
     "usageType": "Alimentaire et Médicinale",
-    "maladieSummary": "Digestif, Nerveux"
+    "maladieSummary": "Digestion & Peau & Nerveux (Antioxydant)"
   },
   {
     "id": 189,
@@ -9673,7 +9673,7 @@ const plantesData = [
     "toxBadgeColor": "green",
     "toxBadgeText": "Non toxique",
     "usageType": "Alimentaire et Médicinale",
-    "maladieSummary": "Nerveux, Cardiovasculaire"
+    "maladieSummary": "Cœur & Douleurs & Nerveux (Antioxydant)"
   },
   {
     "id": 190,
@@ -9724,7 +9724,7 @@ const plantesData = [
     "toxBadgeColor": "green",
     "toxBadgeText": "Non toxique",
     "usageType": "Médicinale",
-    "maladieSummary": "Nerveux, Reproducteur, Oculaire"
+    "maladieSummary": "Reins & Digestion & Peau (Antioxydant)"
   },
   {
     "id": 191,
@@ -9775,7 +9775,7 @@ const plantesData = [
     "toxBadgeColor": "green",
     "toxBadgeText": "Non toxique",
     "usageType": "Médicinale",
-    "maladieSummary": "Digestif, Cardiovasculaire"
+    "maladieSummary": "Cœur & Digestion & Douleurs (Anti-inflammatoire)"
   },
   {
     "id": 192,
@@ -9825,7 +9825,7 @@ const plantesData = [
     "toxBadgeColor": "green",
     "toxBadgeText": "Non toxique",
     "usageType": "Médicinale",
-    "maladieSummary": "Urinaire, Immunitaire, Nerveux"
+    "maladieSummary": "Reins & Cœur & Foie (Diurétique)"
   },
   {
     "id": 193,
@@ -9876,7 +9876,7 @@ const plantesData = [
     "toxBadgeColor": "green",
     "toxBadgeText": "Non toxique",
     "usageType": "Alimentaire et Médicinale",
-    "maladieSummary": "Digestif, Urinaire, Respiratoire"
+    "maladieSummary": "Reins & Digestion & Poumons (Diurétique)"
   },
   {
     "id": 194,
@@ -9929,7 +9929,7 @@ const plantesData = [
     "toxBadgeColor": "green",
     "toxBadgeText": "Non toxique",
     "usageType": "Alimentaire",
-    "maladieSummary": "Digestif, Cardiovasculaire, Cutané"
+    "maladieSummary": "Cœur & Digestion & Peau (Anti-inflammatoire)"
   },
   {
     "id": 195,
@@ -9982,7 +9982,7 @@ const plantesData = [
     "toxBadgeColor": "green",
     "toxBadgeText": "Non toxique",
     "usageType": "Alimentaire et Médicinale",
-    "maladieSummary": "Respiratoire, Immunitaire, Cutané"
+    "maladieSummary": "Digestion & Poumons & Peau (Antimicrobien)"
   },
   {
     "id": 196,
@@ -10035,7 +10035,7 @@ const plantesData = [
     "toxBadgeColor": "yellow",
     "toxBadgeText": "Conditionnel",
     "usageType": "Médicinale",
-    "maladieSummary": "Cutané"
+    "maladieSummary": "Peau & Douleurs & Os & Muscles (Analgésique)"
   },
   {
     "id": 197,
@@ -10085,7 +10085,7 @@ const plantesData = [
     "toxBadgeColor": "green",
     "toxBadgeText": "Non toxique",
     "usageType": "Alimentaire et Médicinale",
-    "maladieSummary": "Musculosquelettique, Hépatique"
+    "maladieSummary": "Foie & Digestion & Douleurs (Anti-inflammatoire)"
   },
   {
     "id": 198,
@@ -10137,7 +10137,7 @@ const plantesData = [
     "toxBadgeColor": "green",
     "toxBadgeText": "Non toxique",
     "usageType": "Alimentaire et Médicinale",
-    "maladieSummary": "Respiratoire"
+    "maladieSummary": "Poumons & Peau & Douleurs (Anti-inflammatoire)"
   },
   {
     "id": 199,
@@ -10188,7 +10188,7 @@ const plantesData = [
     "toxBadgeColor": "green",
     "toxBadgeText": "Non toxique",
     "usageType": "Médicinale",
-    "maladieSummary": "Respiratoire, Endocrinien"
+    "maladieSummary": "Reins & Digestion & Poumons (Diurétique)"
   },
   {
     "id": 200,
@@ -10240,7 +10240,7 @@ const plantesData = [
     "toxBadgeColor": "green",
     "toxBadgeText": "Non toxique",
     "usageType": "Médicinale",
-    "maladieSummary": "Digestif, Oculaire"
+    "maladieSummary": "Digestion & Peau & Douleurs (Anti-inflammatoire)"
   },
   {
     "id": 201,
@@ -10290,7 +10290,7 @@ const plantesData = [
     "toxBadgeColor": "green",
     "toxBadgeText": "Non toxique",
     "usageType": "Médicinale",
-    "maladieSummary": "Nerveux, Cutané"
+    "maladieSummary": "Peau & Douleurs & Nerveux (Anti-inflammatoire)"
   },
   {
     "id": 202,
@@ -10341,7 +10341,7 @@ const plantesData = [
     "toxBadgeColor": "green",
     "toxBadgeText": "Non toxique",
     "usageType": "Alimentaire et Médicinale",
-    "maladieSummary": "Digestif, Respiratoire, Nerveux"
+    "maladieSummary": "Digestion & Poumons & Nerveux (Antimicrobien)"
   },
   {
     "id": 203,
@@ -10394,7 +10394,7 @@ const plantesData = [
     "toxBadgeColor": "green",
     "toxBadgeText": "Non toxique",
     "usageType": "Alimentaire et Médicinale",
-    "maladieSummary": "Digestif"
+    "maladieSummary": "Digestion & Diabète & Douleurs (Anti-inflammatoire)"
   },
   {
     "id": 204,
@@ -10447,7 +10447,7 @@ const plantesData = [
     "toxBadgeColor": "green",
     "toxBadgeText": "Non toxique",
     "usageType": "Alimentaire et Médicinale",
-    "maladieSummary": ""
+    "maladieSummary": "Reins & Peau & Diabète (Diurétique)"
   },
   {
     "id": 205,
@@ -10497,7 +10497,7 @@ const plantesData = [
     "toxBadgeColor": "yellow",
     "toxBadgeText": "Conditionnel",
     "usageType": "Alimentaire",
-    "maladieSummary": "Cardiovasculaire, Sanguin"
+    "maladieSummary": "Cœur & Digestion & Peau (Antidiabétique)"
   },
   {
     "id": 206,
@@ -10548,7 +10548,7 @@ const plantesData = [
     "toxBadgeColor": "green",
     "toxBadgeText": "Non toxique",
     "usageType": "Alimentaire et Médicinale",
-    "maladieSummary": "Urinaire"
+    "maladieSummary": "Reins & Douleurs & Os & Muscles (Diurétique)"
   },
   {
     "id": 207,
@@ -10598,7 +10598,7 @@ const plantesData = [
     "toxBadgeColor": "yellow",
     "toxBadgeText": "Conditionnel",
     "usageType": "Médicinale",
-    "maladieSummary": "Cutané, Musculosquelettique"
+    "maladieSummary": "Digestion & Peau & Douleurs (Anti-inflammatoire)"
   },
   {
     "id": 208,
@@ -10650,7 +10650,7 @@ const plantesData = [
     "toxBadgeColor": "green",
     "toxBadgeText": "Non toxique",
     "usageType": "Alimentaire et Médicinale",
-    "maladieSummary": "Urinaire"
+    "maladieSummary": "Reins & Peau & Douleurs (Diurétique)"
   },
   {
     "id": 209,
@@ -10700,7 +10700,7 @@ const plantesData = [
     "toxBadgeColor": "green",
     "toxBadgeText": "Non toxique",
     "usageType": "Alimentaire et Médicinale",
-    "maladieSummary": "Digestif"
+    "maladieSummary": "Digestion & Peau & Douleurs (Anti-inflammatoire)"
   },
   {
     "id": 210,
@@ -10750,7 +10750,7 @@ const plantesData = [
     "toxBadgeColor": "green",
     "toxBadgeText": "Non toxique",
     "usageType": "Alimentaire et Médicinale",
-    "maladieSummary": "Cardiovasculaire"
+    "maladieSummary": "Reins & Cœur & Digestion (Diurétique)"
   },
   {
     "id": 211,
@@ -10801,7 +10801,7 @@ const plantesData = [
     "toxBadgeColor": "green",
     "toxBadgeText": "Non toxique",
     "usageType": "Médicinale",
-    "maladieSummary": "Cutané"
+    "maladieSummary": "Peau & Douleurs & Infections (Anti-inflammatoire)"
   },
   {
     "id": 212,
@@ -10853,7 +10853,7 @@ const plantesData = [
     "toxBadgeColor": "green",
     "toxBadgeText": "Non toxique",
     "usageType": "Médicinale",
-    "maladieSummary": "Respiratoire"
+    "maladieSummary": "Reins & Poumons & Peau (Diurétique)"
   },
   {
     "id": 213,
@@ -10904,7 +10904,7 @@ const plantesData = [
     "toxBadgeColor": "yellow",
     "toxBadgeText": "Conditionnel",
     "usageType": "Médicinale",
-    "maladieSummary": "Urinaire, Respiratoire, Immunitaire"
+    "maladieSummary": "Reins & Poumons & Peau (Diurétique)"
   },
   {
     "id": 214,
@@ -10955,7 +10955,7 @@ const plantesData = [
     "toxBadgeColor": "green",
     "toxBadgeText": "Non toxique",
     "usageType": "Alimentaire et Médicinale",
-    "maladieSummary": "Digestif, Cutané"
+    "maladieSummary": "Digestion & Peau & Douleurs (Anti-inflammatoire)"
   },
   {
     "id": 215,
@@ -11006,7 +11006,7 @@ const plantesData = [
     "toxBadgeColor": "green",
     "toxBadgeText": "Non toxique",
     "usageType": "Médicinale",
-    "maladieSummary": "Urinaire, Cutané"
+    "maladieSummary": "Reins & Peau & Douleurs (Diurétique)"
   },
   {
     "id": 216,
@@ -11056,7 +11056,7 @@ const plantesData = [
     "toxBadgeColor": "green",
     "toxBadgeText": "Non toxique",
     "usageType": "Médicinale",
-    "maladieSummary": "Urinaire, Cardiovasculaire, Cutané"
+    "maladieSummary": "Reins & Cœur & Peau (Diurétique)"
   },
   {
     "id": 217,
@@ -11107,7 +11107,7 @@ const plantesData = [
     "toxBadgeColor": "green",
     "toxBadgeText": "Non toxique",
     "usageType": "Médicinale",
-    "maladieSummary": "Urinaire, Cutané"
+    "maladieSummary": "Reins & Peau & Diabète (Diurétique)"
   },
   {
     "id": 218,
@@ -11159,7 +11159,7 @@ const plantesData = [
     "toxBadgeColor": "green",
     "toxBadgeText": "Non toxique",
     "usageType": "Médicinale",
-    "maladieSummary": "Digestif, Respiratoire"
+    "maladieSummary": "Digestion & Poumons & Peau (Anti-inflammatoire)"
   },
   {
     "id": 219,
@@ -11209,7 +11209,7 @@ const plantesData = [
     "toxBadgeColor": "yellow",
     "toxBadgeText": "Conditionnel",
     "usageType": "Alimentaire et Médicinale",
-    "maladieSummary": "Respiratoire"
+    "maladieSummary": "Cœur & Digestion & Poumons (Anti-inflammatoire)"
   },
   {
     "id": 220,
@@ -11259,7 +11259,7 @@ const plantesData = [
     "toxBadgeColor": "green",
     "toxBadgeText": "Non toxique",
     "usageType": "Alimentaire",
-    "maladieSummary": "Digestif"
+    "maladieSummary": "Digestion & Douleurs & Infections (Anti-inflammatoire)"
   },
   {
     "id": 221,
@@ -11310,7 +11310,7 @@ const plantesData = [
     "toxBadgeColor": "green",
     "toxBadgeText": "Non toxique",
     "usageType": "Alimentaire et Médicinale",
-    "maladieSummary": "Digestif"
+    "maladieSummary": "Digestion & Peau & Douleurs (Anti-inflammatoire)"
   },
   {
     "id": 222,
@@ -11363,7 +11363,7 @@ const plantesData = [
     "toxBadgeColor": "green",
     "toxBadgeText": "Non toxique",
     "usageType": "Alimentaire et Médicinale",
-    "maladieSummary": "Digestif"
+    "maladieSummary": "Digestion & Peau & Douleurs (Antioxydant)"
   },
   {
     "id": 223,
@@ -11415,7 +11415,7 @@ const plantesData = [
     "toxBadgeColor": "green",
     "toxBadgeText": "Non toxique",
     "usageType": "Alimentaire et Médicinale",
-    "maladieSummary": "Nerveux, Cardiovasculaire, Hépatique"
+    "maladieSummary": "Reins & Cœur & Foie (Diurétique)"
   },
   {
     "id": 224,
@@ -11465,7 +11465,7 @@ const plantesData = [
     "toxBadgeColor": "green",
     "toxBadgeText": "Non toxique",
     "usageType": "Alimentaire et Médicinale",
-    "maladieSummary": "Digestif"
+    "maladieSummary": "Digestion & Peau & Diabète (Anti-inflammatoire)"
   },
   {
     "id": 225,
@@ -11516,7 +11516,7 @@ const plantesData = [
     "toxBadgeColor": "green",
     "toxBadgeText": "Non toxique",
     "usageType": "Médicinale",
-    "maladieSummary": "Cutané, Endocrinien"
+    "maladieSummary": "Peau & Diabète & Douleurs (Anti-inflammatoire)"
   },
   {
     "id": 226,
@@ -11567,7 +11567,7 @@ const plantesData = [
     "toxBadgeColor": "green",
     "toxBadgeText": "Non toxique",
     "usageType": "Alimentaire et Médicinale",
-    "maladieSummary": "Immunitaire"
+    "maladieSummary": "Cœur & Douleurs & Nerveux (Anti-inflammatoire)"
   },
   {
     "id": 227,
@@ -11619,7 +11619,7 @@ const plantesData = [
     "toxBadgeColor": "green",
     "toxBadgeText": "Non toxique",
     "usageType": "Médicinale",
-    "maladieSummary": "Reproducteur"
+    "maladieSummary": "Reins & Peau & Douleurs (Diurétique)"
   },
   {
     "id": 228,
@@ -11669,7 +11669,7 @@ const plantesData = [
     "toxBadgeColor": "green",
     "toxBadgeText": "Non toxique",
     "usageType": "Alimentaire et Médicinale",
-    "maladieSummary": "Cutané"
+    "maladieSummary": "Peau & Douleurs & Infections (Antimicrobien)"
   },
   {
     "id": 229,
@@ -11724,7 +11724,7 @@ const plantesData = [
     "toxBadgeColor": "green",
     "toxBadgeText": "Non toxique",
     "usageType": "Médicinale",
-    "maladieSummary": ""
+    "maladieSummary": "Reins & Cœur & Digestion (Diurétique)"
   },
   {
     "id": 230,
@@ -11775,7 +11775,7 @@ const plantesData = [
     "toxBadgeColor": "green",
     "toxBadgeText": "Non toxique",
     "usageType": "Médicinale",
-    "maladieSummary": "Nerveux, Cutané"
+    "maladieSummary": "Reins & Peau & Douleurs (Diurétique)"
   },
   {
     "id": 231,
@@ -11825,7 +11825,7 @@ const plantesData = [
     "toxBadgeColor": "green",
     "toxBadgeText": "Non toxique",
     "usageType": "Alimentaire et Médicinale",
-    "maladieSummary": "Respiratoire, Immunitaire, Hépatique"
+    "maladieSummary": "Cœur & Foie & Digestion (Anti-inflammatoire)"
   },
   {
     "id": 232,
@@ -11875,7 +11875,7 @@ const plantesData = [
     "toxBadgeColor": "green",
     "toxBadgeText": "Non toxique",
     "usageType": "Alimentaire et Médicinale",
-    "maladieSummary": "Digestif, Nerveux, Cardiovasculaire"
+    "maladieSummary": "Cœur & Digestion & Poumons (Antimicrobien)"
   },
   {
     "id": 233,
@@ -11927,7 +11927,7 @@ const plantesData = [
     "toxBadgeColor": "green",
     "toxBadgeText": "Non toxique",
     "usageType": "Alimentaire et Médicinale",
-    "maladieSummary": "Nerveux"
+    "maladieSummary": "Nerveux & Infections & Parasites (Antimicrobien)"
   },
   {
     "id": 234,
@@ -11979,7 +11979,7 @@ const plantesData = [
     "toxBadgeColor": "green",
     "toxBadgeText": "Non toxique",
     "usageType": "Alimentaire et Médicinale",
-    "maladieSummary": "Digestif, Respiratoire, Cardiovasculaire"
+    "maladieSummary": "Cœur & Foie & Digestion (Antimicrobien)"
   },
   {
     "id": 235,
@@ -12029,7 +12029,7 @@ const plantesData = [
     "toxBadgeColor": "green",
     "toxBadgeText": "Non toxique",
     "usageType": "Alimentaire et Médicinale",
-    "maladieSummary": "Digestif, Immunitaire"
+    "maladieSummary": "Cœur & Digestion & Poumons (Antimicrobien)"
   },
   {
     "id": 236,
@@ -12080,7 +12080,7 @@ const plantesData = [
     "toxBadgeColor": "yellow",
     "toxBadgeText": "Conditionnel",
     "usageType": "Alimentaire et Médicinale",
-    "maladieSummary": "Digestif, Cardiovasculaire, Musculosquelettique"
+    "maladieSummary": "Reins & Cœur & Digestion (Diurétique)"
   },
   {
     "id": 237,
@@ -12131,7 +12131,7 @@ const plantesData = [
     "toxBadgeColor": "green",
     "toxBadgeText": "Non toxique",
     "usageType": "Médicinale",
-    "maladieSummary": "Digestif, Urinaire, Respiratoire"
+    "maladieSummary": "Reins & Digestion & Poumons (Diurétique)"
   },
   {
     "id": 238,
@@ -12185,7 +12185,7 @@ const plantesData = [
     "toxBadgeColor": "green",
     "toxBadgeText": "Non toxique",
     "usageType": "Médicinale",
-    "maladieSummary": "Digestif, Urinaire"
+    "maladieSummary": "Reins & Digestion & Peau (Diurétique)"
   },
   {
     "id": 239,
@@ -12237,7 +12237,7 @@ const plantesData = [
     "toxBadgeColor": "red",
     "toxBadgeText": "Toxique",
     "usageType": "Alimentaire et Médicinale",
-    "maladieSummary": "Hépatique"
+    "maladieSummary": "Foie & Peau & Diabète"
   },
   {
     "id": 240,
@@ -12289,7 +12289,7 @@ const plantesData = [
     "toxBadgeColor": "green",
     "toxBadgeText": "Non toxique",
     "usageType": "Médicinale",
-    "maladieSummary": "Digestif"
+    "maladieSummary": "Reins & Cœur & Digestion (Diurétique)"
   },
   {
     "id": 241,
@@ -12340,7 +12340,7 @@ const plantesData = [
     "toxBadgeColor": "green",
     "toxBadgeText": "Non toxique",
     "usageType": "Alimentaire et Médicinale",
-    "maladieSummary": "Digestif, Cardiovasculaire"
+    "maladieSummary": "Reins & Cœur & Digestion (Diurétique)"
   },
   {
     "id": 242,
@@ -12390,7 +12390,7 @@ const plantesData = [
     "toxBadgeColor": "yellow",
     "toxBadgeText": "Conditionnel",
     "usageType": "Médicinale",
-    "maladieSummary": "Cutané"
+    "maladieSummary": "Reins & Peau & Douleurs (Anti-inflammatoire)"
   },
   {
     "id": 243,
@@ -12443,7 +12443,7 @@ const plantesData = [
     "toxBadgeColor": "green",
     "toxBadgeText": "Non toxique",
     "usageType": "Alimentaire et Médicinale",
-    "maladieSummary": "Digestif, Endocrinien"
+    "maladieSummary": "Digestion & Peau & Diabète (Anti-inflammatoire)"
   },
   {
     "id": 244,
@@ -12493,7 +12493,7 @@ const plantesData = [
     "toxBadgeColor": "green",
     "toxBadgeText": "Non toxique",
     "usageType": "Alimentaire et Médicinale",
-    "maladieSummary": "Digestif"
+    "maladieSummary": "Digestion & Peau & Douleurs (Anti-inflammatoire)"
   },
   {
     "id": 245,
@@ -12546,7 +12546,7 @@ const plantesData = [
     "toxBadgeColor": "green",
     "toxBadgeText": "Non toxique",
     "usageType": "Alimentaire",
-    "maladieSummary": "Digestif, Sanguin"
+    "maladieSummary": "Digestion & Peau & Diabète (Anti-inflammatoire)"
   },
   {
     "id": 246,
@@ -12596,7 +12596,7 @@ const plantesData = [
     "toxBadgeColor": "green",
     "toxBadgeText": "Non toxique",
     "usageType": "Alimentaire et Médicinale",
-    "maladieSummary": ""
+    "maladieSummary": "Digestion & Peau & Douleurs (Anti-inflammatoire)"
   },
   {
     "id": 247,
@@ -12646,7 +12646,7 @@ const plantesData = [
     "toxBadgeColor": "green",
     "toxBadgeText": "Non toxique",
     "usageType": "Alimentaire et Médicinale",
-    "maladieSummary": "Digestif, Urinaire"
+    "maladieSummary": "Reins & Digestion & Douleurs (Diurétique)"
   },
   {
     "id": 248,
@@ -12697,7 +12697,7 @@ const plantesData = [
     "toxBadgeColor": "green",
     "toxBadgeText": "Non toxique",
     "usageType": "Médicinale",
-    "maladieSummary": "Digestif"
+    "maladieSummary": "Digestion & Diabète & Douleurs (Anti-inflammatoire)"
   },
   {
     "id": 249,
@@ -12748,7 +12748,7 @@ const plantesData = [
     "toxBadgeColor": "green",
     "toxBadgeText": "Non toxique",
     "usageType": "Médicinale",
-    "maladieSummary": "Digestif"
+    "maladieSummary": "Digestion & Peau & Douleurs (Anti-inflammatoire)"
   },
   {
     "id": 250,
@@ -12798,7 +12798,7 @@ const plantesData = [
     "toxBadgeColor": "red",
     "toxBadgeText": "Toxique",
     "usageType": "Médicinale",
-    "maladieSummary": "Digestif"
+    "maladieSummary": "Digestion & Os & Muscles"
   },
   {
     "id": 251,
@@ -12849,7 +12849,7 @@ const plantesData = [
     "toxBadgeColor": "yellow",
     "toxBadgeText": "Conditionnel",
     "usageType": "Alimentaire et Médicinale",
-    "maladieSummary": "Immunitaire"
+    "maladieSummary": "Reins & Digestion & Peau (Diurétique)"
   },
   {
     "id": 252,
@@ -12902,7 +12902,7 @@ const plantesData = [
     "toxBadgeColor": "green",
     "toxBadgeText": "Non toxique",
     "usageType": "Médicinale",
-    "maladieSummary": "Digestif, Immunitaire"
+    "maladieSummary": "Digestion & Fièvre & Douleurs (Anti-inflammatoire)"
   },
   {
     "id": 253,
@@ -12953,7 +12953,7 @@ const plantesData = [
     "toxBadgeColor": "red",
     "toxBadgeText": "Toxique",
     "usageType": "Médicinale",
-    "maladieSummary": "Urinaire, Nerveux, Sanguin"
+    "maladieSummary": "Reins & Nerveux & Parasites"
   },
   {
     "id": 254,
@@ -13005,7 +13005,7 @@ const plantesData = [
     "toxBadgeColor": "yellow",
     "toxBadgeText": "Conditionnel",
     "usageType": "Alimentaire et Médicinale",
-    "maladieSummary": "Digestif, Musculosquelettique"
+    "maladieSummary": "Digestion & Poumons & Peau (Anti-inflammatoire)"
   },
   {
     "id": 255,
@@ -13057,7 +13057,7 @@ const plantesData = [
     "toxBadgeColor": "green",
     "toxBadgeText": "Non toxique",
     "usageType": "Médicinale",
-    "maladieSummary": "Cutané, Musculosquelettique"
+    "maladieSummary": "Peau & Douleurs & Infections (Anti-inflammatoire)"
   },
   {
     "id": 256,
@@ -13108,7 +13108,7 @@ const plantesData = [
     "toxBadgeColor": "green",
     "toxBadgeText": "Non toxique",
     "usageType": "Médicinale",
-    "maladieSummary": "Respiratoire, Nerveux, Cutané"
+    "maladieSummary": "Cœur & Poumons & Peau (Sédatif)"
   },
   {
     "id": 257,
@@ -13159,7 +13159,7 @@ const plantesData = [
     "toxBadgeColor": "yellow",
     "toxBadgeText": "Conditionnel",
     "usageType": "Alimentaire et Médicinale",
-    "maladieSummary": "Digestif"
+    "maladieSummary": "Reins & Digestion & Peau (Diurétique)"
   },
   {
     "id": 258,
@@ -13209,7 +13209,7 @@ const plantesData = [
     "toxBadgeColor": "green",
     "toxBadgeText": "Non toxique",
     "usageType": "Alimentaire et Médicinale",
-    "maladieSummary": "Cardiovasculaire, Reproducteur"
+    "maladieSummary": "Reins & Cœur & Peau (Diurétique)"
   },
   {
     "id": 259,
@@ -13260,7 +13260,7 @@ const plantesData = [
     "toxBadgeColor": "green",
     "toxBadgeText": "Non toxique",
     "usageType": "Alimentaire et Médicinale",
-    "maladieSummary": "Cardiovasculaire"
+    "maladieSummary": "Reins & Cœur & Digestion (Diurétique)"
   },
   {
     "id": 260,
@@ -13311,7 +13311,7 @@ const plantesData = [
     "toxBadgeColor": "green",
     "toxBadgeText": "Non toxique",
     "usageType": "Alimentaire",
-    "maladieSummary": "Immunitaire, Sanguin"
+    "maladieSummary": "Peau & Diabète & Douleurs (Anti-inflammatoire)"
   },
   {
     "id": 261,
@@ -13364,7 +13364,7 @@ const plantesData = [
     "toxBadgeColor": "green",
     "toxBadgeText": "Non toxique",
     "usageType": "Médicinale",
-    "maladieSummary": "Urinaire, Cardiovasculaire"
+    "maladieSummary": "Reins & Cœur & Diabète (Diurétique)"
   },
   {
     "id": 262,
@@ -13415,7 +13415,7 @@ const plantesData = [
     "toxBadgeColor": "green",
     "toxBadgeText": "Non toxique",
     "usageType": "Médicinale",
-    "maladieSummary": "Digestif, Urinaire"
+    "maladieSummary": "Reins & Digestion & Peau (Diurétique)"
   },
   {
     "id": 263,
@@ -13466,7 +13466,7 @@ const plantesData = [
     "toxBadgeColor": "green",
     "toxBadgeText": "Non toxique",
     "usageType": "Médicinale",
-    "maladieSummary": ""
+    "maladieSummary": "Reins & Digestion & Peau (Diurétique)"
   },
   {
     "id": 264,
@@ -13517,7 +13517,7 @@ const plantesData = [
     "toxBadgeColor": "yellow",
     "toxBadgeText": "Conditionnel",
     "usageType": "Alimentaire et Médicinale",
-    "maladieSummary": "Respiratoire, Cutané"
+    "maladieSummary": "Reins & Digestion & Poumons (Diurétique)"
   },
   {
     "id": 265,
@@ -13568,7 +13568,7 @@ const plantesData = [
     "toxBadgeColor": "green",
     "toxBadgeText": "Non toxique",
     "usageType": "Médicinale",
-    "maladieSummary": "Cutané"
+    "maladieSummary": "Reins & Peau & Douleurs (Diurétique)"
   },
   {
     "id": 266,
@@ -13619,7 +13619,7 @@ const plantesData = [
     "toxBadgeColor": "green",
     "toxBadgeText": "Non toxique",
     "usageType": "Alimentaire et Médicinale",
-    "maladieSummary": "Digestif, Nerveux"
+    "maladieSummary": "Digestion & Peau & Diabète (Anti-inflammatoire)"
   },
   {
     "id": 267,
@@ -13672,7 +13672,7 @@ const plantesData = [
     "toxBadgeColor": "green",
     "toxBadgeText": "Non toxique",
     "usageType": "Médicinale",
-    "maladieSummary": "Urinaire, Respiratoire, Cardiovasculaire"
+    "maladieSummary": "Reins & Cœur & Poumons (Diurétique)"
   },
   {
     "id": 268,
@@ -13722,7 +13722,7 @@ const plantesData = [
     "toxBadgeColor": "green",
     "toxBadgeText": "Non toxique",
     "usageType": "Alimentaire et Médicinale",
-    "maladieSummary": "Digestif, Cardiovasculaire"
+    "maladieSummary": "Cœur & Digestion & Peau (Anti-inflammatoire)"
   },
   {
     "id": 269,
@@ -13772,7 +13772,7 @@ const plantesData = [
     "toxBadgeColor": "green",
     "toxBadgeText": "Non toxique",
     "usageType": "Alimentaire et Médicinale",
-    "maladieSummary": "Digestif, Hépatique"
+    "maladieSummary": "Foie & Digestion & Peau (Anti-inflammatoire)"
   },
   {
     "id": 270,
@@ -13822,7 +13822,7 @@ const plantesData = [
     "toxBadgeColor": "green",
     "toxBadgeText": "Non toxique",
     "usageType": "Alimentaire et Médicinale",
-    "maladieSummary": "Digestif"
+    "maladieSummary": "Digestion & Poumons & Peau (Anti-inflammatoire)"
   },
   {
     "id": 271,
@@ -13873,6 +13873,6 @@ const plantesData = [
     "toxBadgeColor": "green",
     "toxBadgeText": "Non toxique",
     "usageType": "Médicinale",
-    "maladieSummary": "Musculosquelettique"
+    "maladieSummary": "Reins & Douleurs & Parasites (Diurétique)"
   }
 ];
