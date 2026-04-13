@@ -5,194 +5,336 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>PMAA Haïti — Plantes Médicinales, Aromatiques et Alimentaires</title>
 <link rel="stylesheet" href="pmaa-styles.css">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
 <style>
-  /* Homepage-specific styles */
-  .home-grid {
-    display: grid;
-    grid-template-columns: repeat(2, 1fr);
-    gap: 20px;
-    max-width: 960px;
-    margin: 0 auto;
-  }
-  @media(max-width: 640px) { .home-grid { grid-template-columns: 1fr; } }
+/* ── HOMEPAGE SECTIONS ──────────────────────────── */
+.hp-section{padding:60px 40px;}
+.hp-section:nth-child(even){background:#f8f7f4;}
+.hp-inner{max-width:960px;margin:0 auto;}
 
-  .home-box {
-    background: #fff;
-    border-radius: 10px;
-    padding: 28px 24px;
-    border: 1px solid #e0e0e0;
-    border-left: 5px solid #ccc;
-    transition: transform 0.2s, box-shadow 0.2s;
-  }
-  .home-box:hover {
-    transform: translateY(-3px);
-    box-shadow: 0 6px 20px rgba(0,0,0,0.1);
-  }
-  .home-box .box-icon {
-    font-size: 28px;
-    margin-bottom: 10px;
-  }
-  .home-box h3 {
-    font-size: 16px;
-    font-weight: 700;
-    color: #1a3d2c;
-    margin: 0 0 8px;
-    line-height: 1.3;
-  }
-  .home-box p {
-    font-size: 13px;
-    color: #555;
-    line-height: 1.5;
-    margin: 0 0 12px;
-  }
-  .home-box .box-badge {
-    display: inline-block;
-    font-size: 11px;
-    font-weight: 600;
-    padding: 3px 12px;
-    border-radius: 20px;
-    color: #fff;
-  }
-  .section-audience {
-    background: #f8f7f4;
-    padding: 60px 0;
-  }
-  .section-audience h2 {
-    text-align: center;
-    font-size: 24px;
-    color: #1a3d2c;
-    margin-bottom: 8px;
-  }
-  .section-audience .subtitle {
-    text-align: center;
-    font-size: 14px;
-    color: #777;
-    margin-bottom: 36px;
-    max-width: 600px;
-    margin-left: auto;
-    margin-right: auto;
-  }
+/* Text block sections */
+.hp-text-section{display:grid;grid-template-columns:1fr;gap:24px;}
+.hp-text-section h2{font-size:26px;color:var(--green-dark);margin-bottom:4px;line-height:1.25;}
+.hp-text-section p{font-size:15px;color:var(--text-mid);font-family:Arial,sans-serif;line-height:1.7;}
+.hp-text-section .hp-tag{display:inline-block;padding:4px 14px;background:var(--green-pale);color:var(--green-mid);border-radius:20px;font-size:11px;font-family:Arial,sans-serif;font-weight:600;text-transform:uppercase;letter-spacing:1px;margin-bottom:10px;}
+
+/* Read more links */
+.hp-readmore{display:inline-flex;align-items:center;gap:6px;margin-top:12px;padding:9px 20px;background:var(--green-mid);color:#fff;border-radius:var(--radius-sm);font-size:13px;font-family:Arial,sans-serif;font-weight:600;text-decoration:none;transition:all .2s;}
+.hp-readmore:hover{background:var(--green-dark);transform:translateY(-1px);}
+
+/* Histoire split layout */
+.hp-split{display:grid;grid-template-columns:1fr 1fr;gap:40px;align-items:center;}
+.hp-split-img{border-radius:var(--radius);overflow:hidden;box-shadow:var(--shadow);}
+.hp-split-img img{width:100%;height:320px;object-fit:cover;display:block;}
+
+/* System cards */
+.hp-systems-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:22px;}
+.hp-sys-card{background:#fff;border-radius:var(--radius);overflow:hidden;box-shadow:var(--shadow-sm);border:1.5px solid var(--gray-mid);transition:all .25s;text-decoration:none;display:block;}
+.hp-sys-card:hover{box-shadow:var(--shadow-lg);border-color:var(--green-light);transform:translateY(-3px);}
+.hp-sys-card img{width:100%;height:160px;object-fit:cover;display:block;}
+.hp-sys-body{padding:18px 16px;}
+.hp-sys-body h3{font-size:15px;font-weight:bold;color:var(--green-dark);margin-bottom:6px;font-family:Arial,sans-serif;}
+.hp-sys-body p{font-size:12.5px;color:var(--text-mid);font-family:Arial,sans-serif;line-height:1.5;margin-bottom:12px;}
+.hp-sys-btn{display:inline-flex;align-items:center;gap:6px;padding:7px 14px;background:var(--green-pale);color:var(--green-mid);border-radius:20px;font-size:11.5px;font-family:Arial,sans-serif;font-weight:600;transition:all .2s;}
+.hp-sys-card:hover .hp-sys-btn{background:var(--green-mid);color:#fff;}
+
+/* Audience grid */
+.hp-aud-grid{display:grid;grid-template-columns:repeat(4,1fr);gap:20px;}
+.hp-aud-card{background:#fff;border-radius:var(--radius);padding:28px 20px;text-align:center;box-shadow:var(--shadow-sm);border:1.5px solid var(--gray-mid);transition:all .25s;text-decoration:none;display:block;position:relative;overflow:hidden;}
+.hp-aud-card::before{content:'';position:absolute;top:0;left:0;right:0;height:4px;border-radius:var(--radius) var(--radius) 0 0;}
+.hp-aud-card:hover{transform:translateY(-4px);box-shadow:var(--shadow-lg);border-color:var(--green-light);}
+.hp-aud-icon{font-size:42px;margin-bottom:14px;display:block;}
+.hp-aud-card h3{font-size:14px;font-weight:bold;color:var(--green-dark);margin-bottom:6px;font-family:Arial,sans-serif;line-height:1.3;}
+.hp-aud-card p{font-size:12px;color:var(--text-mid);font-family:Arial,sans-serif;line-height:1.5;}
+.hp-aud-tag{display:inline-block;margin-top:10px;padding:3px 10px;border-radius:10px;font-size:10.5px;font-family:Arial,sans-serif;font-weight:600;color:#fff;}
+
+/* Big CTA */
+.hp-cta{text-align:center;padding:72px 40px;background:linear-gradient(135deg,var(--green-dark),#0f2d1a);}
+.hp-cta h2{color:#fff;font-size:28px;margin-bottom:10px;}
+.hp-cta p{color:rgba(255,255,255,.75);font-size:15px;font-family:Arial,sans-serif;margin-bottom:28px;}
+.hp-cta-btn{display:inline-flex;align-items:center;gap:10px;padding:16px 40px;background:var(--gold);color:var(--green-dark);border-radius:var(--radius-sm);font-size:16px;font-weight:bold;font-family:Arial,sans-serif;text-decoration:none;transition:all .2s;box-shadow:0 4px 16px rgba(200,168,75,.4);}
+.hp-cta-btn:hover{background:#e0bc5a;transform:translateY(-2px);box-shadow:0 6px 24px rgba(200,168,75,.5);}
+
+/* Avertissement box */
+.hp-warn{background:#fff8e1;border:1px solid #ffe082;border-left:5px solid #f9a825;border-radius:var(--radius-sm);padding:22px 24px;margin-top:16px;}
+.hp-warn h3{font-size:16px;color:#e65100;margin-bottom:8px;font-family:Arial,sans-serif;}
+.hp-warn p{font-size:14px;color:#5d4037;font-family:Arial,sans-serif;line-height:1.65;}
+
+/* Responsive */
+@media(max-width:900px){
+  .hp-systems-grid{grid-template-columns:repeat(2,1fr);}
+  .hp-aud-grid{grid-template-columns:repeat(2,1fr);}
+  .hp-split{grid-template-columns:1fr;}
+}
+@media(max-width:600px){
+  .hp-section{padding:40px 20px;}
+  .hp-systems-grid{grid-template-columns:1fr;}
+  .hp-aud-grid{grid-template-columns:1fr;}
+  .hp-text-section h2{font-size:22px;}
+  .hero h1{font-size:26px !important;}
+}
 </style>
 </head>
 <body>
 <div id="topbar-placeholder"></div>
 
-<!-- HERO -->
-<section class="hero">
-  <div class="hero-content">
-    <h1 data-i18n="hero_title">Les Plantes du Grand Sud au Service de la Vie</h1>
-    <p class="hero-subtitle" data-i18n="hero_sub">Découvrez le patrimoine botanique extraordinaire du Grand Sud et de la Grand'Anse d'Haïti — une ressource vitale pour la santé, l'économie et la conservation.</p>
-
-    <div class="language-pills">
-      <span class="pill" data-fr="Français" data-en="French" data-kr="Franse">🇫🇷 Français</span>
-      <span class="pill" data-fr="English" data-en="English" data-kr="Angle">🇺🇸 English</span>
-      <span class="pill" data-fr="Kreyòl" data-en="Kreyòl" data-kr="Kreyòl">🇭🇹 Kreyòl</span>
-    </div>
-
-    <div class="hero-cta">
-      <a href="atlas.html" class="btn btn-gold" data-i18n="btn_atlas">Explorez l'Atlas →</a>
-      <a href="ministeres.html" class="btn btn-outline" data-i18n="btn_min">Portails Ministériels →</a>
-    </div>
-
-    <div class="hero-card">
+<!-- ═══════════════════════════════════════════════
+     1. HERO — Grande photo + titre
+     ═══════════════════════════════════════════════ -->
+<section class="hero" style="background:linear-gradient(rgba(15,45,26,.72),rgba(10,30,20,.82)),url('images/101_Alocasia_macrorrhizos-001.jpg') center/cover no-repeat;padding:80px 40px 90px;">
+  <div class="hero-content" style="text-align:center;max-width:800px;margin:0 auto;">
+    <h1 style="font-size:38px;line-height:1.2;margin-bottom:14px;">Bienvenue sur <span style="color:var(--gold);">Plantes du Sud</span></h1>
+    <p class="hero-subtitle" style="font-size:18px;max-width:640px;margin:0 auto 24px;">Au service de la vie — Découvrez le patrimoine botanique extraordinaire du Grand Sud et de la Grand'Anse d'Haïti.</p>
+    <div class="hero-card" style="display:grid;grid-template-columns:1fr 1fr 1fr 1fr;max-width:700px;margin:0 auto;padding:20px;">
       <div class="stat-item">
-        <span class="stat-number" data-target="5600">0</span>
-        <span class="stat-suffix">+</span>
-        <span class="stat-label" data-i18n="stat_especes">Espèces végétales recensées</span>
+        <span class="stat-number" style="font-size:28px;" data-target="5600">5600</span><span class="stat-suffix">+</span>
+        <span class="stat-label">Espèces végétales</span>
       </div>
       <div class="stat-item">
-        <span class="stat-number" data-target="40">0</span>
-        <span class="stat-suffix">%</span>
-        <span class="stat-label" data-i18n="stat_endemisme">Taux d'endémisme</span>
+        <span class="stat-number" style="font-size:28px;" data-target="40">40</span><span class="stat-suffix">%</span>
+        <span class="stat-label">Endémisme</span>
       </div>
       <div class="stat-item">
-        <span class="stat-number" data-target="80">0</span>
-        <span class="stat-suffix">%</span>
-        <span class="stat-label" data-i18n="stat_population">Population utilise les plantes</span>
+        <span class="stat-number" style="font-size:28px;" data-target="80">80</span><span class="stat-suffix">%</span>
+        <span class="stat-label">Population utilisatrice</span>
       </div>
       <div class="stat-item">
-        <span class="stat-number" data-target="270">0</span>
-        <span class="stat-suffix">+</span>
-        <span class="stat-label" data-i18n="stat_plantes">Plantes documentées Grand Sud</span>
+        <span class="stat-number" style="font-size:28px;" data-target="270">270</span><span class="stat-suffix">+</span>
+        <span class="stat-label">Plantes documentées</span>
       </div>
     </div>
   </div>
 </section>
 
-<!-- 8 BOXES: 2-COLUMN GRID -->
-<section class="section-audience">
-  <div class="container">
-    <h2 data-i18n="sec_audience_h">Qui Servons-Nous</h2>
-    <p class="subtitle" data-i18n="sec_audience_sub">PMAA facilite la collaboration entre décideurs, praticiens, communautés et chercheurs pour valoriser les plantes du Grand Sud.</p>
+<!-- ═══════════════════════════════════════════════
+     2. REMERCIEMENTS
+     ═══════════════════════════════════════════════ -->
+<section class="hp-section">
+  <div class="hp-inner hp-text-section">
+    <div>
+      <span class="hp-tag">Gratitude</span>
+      <h2><i class="fa-solid fa-heart" style="color:#c0392b;margin-right:8px;"></i>Remerciements</h2>
+      <p>Ce projet est le fruit d'une collaboration entre le Jardin Botanique des Cayes (JBC), des guérisseurs traditionnels du Grand Sud, des botanistes, des pharmaciens et des communautés locales qui ont généreusement partagé leurs savoirs ancestraux. Nous tenons à remercier chaleureusement tous ceux qui ont contribué à la collecte, la documentation et la préservation de ces connaissances inestimables sur les plantes médicinales d'Haïti.</p>
+      <a href="remerciements.html" class="hp-readmore"><i class="fa-solid fa-arrow-right"></i> Lire les remerciements complets</a>
+    </div>
+  </div>
+</section>
 
-    <div class="home-grid">
+<!-- ═══════════════════════════════════════════════
+     3. PRÉFACE / POURQUOI CE PROJET
+     ═══════════════════════════════════════════════ -->
+<section class="hp-section">
+  <div class="hp-inner hp-text-section">
+    <div>
+      <span class="hp-tag">Préface</span>
+      <h2><i class="fa-solid fa-book-open" style="color:var(--green-mid);margin-right:8px;"></i>Pourquoi ce projet ?</h2>
+      <p>Haïti possède l'une des flores les plus riches et les plus menacées de la Caraïbe, avec plus de 5 600 espèces végétales dont 40% sont endémiques. Pourtant, ce patrimoine reste largement non documenté et en voie de disparition. Le projet PMAA vise à créer la première base de données complète et accessible sur les plantes médicinales, aromatiques et alimentaires du Grand Sud — un outil indispensable pour la santé publique, la recherche scientifique et la conservation de la biodiversité.</p>
+      <a href="preface.html" class="hp-readmore"><i class="fa-solid fa-arrow-right"></i> Lire la préface complète</a>
+    </div>
+  </div>
+</section>
 
-      <!-- 1. Environnement -->
-      <div class="home-box" style="border-left-color: #27AE60;">
-        <div class="box-icon">🏞️</div>
-        <h3 data-fr="Ministère de l'Environnement" data-en="Ministry of the Environment" data-kr="Ministè Anviwònman">Ministère de l'Environnement</h3>
-        <p data-fr="Conservation, biodiversité, aires protégées et gestion durable des ressources forestières du Grand Sud." data-en="Conservation, biodiversity, protected areas and sustainable management of forest resources." data-kr="Konsèvasyon, byodivèsite, zòn pwoteje ak jèsyon dirab resous forè Gran Sid la.">Conservation, biodiversité, aires protégées et gestion durable des ressources forestières du Grand Sud.</p>
-        <span class="box-badge" style="background:#27AE60;" data-fr="Décideur · Conservation" data-en="Decision-maker · Conservation" data-kr="Dèsidè · Konsèvasyon">Décideur · Conservation</span>
+<!-- ═══════════════════════════════════════════════
+     4. AVERTISSEMENT
+     ═══════════════════════════════════════════════ -->
+<section class="hp-section">
+  <div class="hp-inner">
+    <div class="hp-warn">
+      <h3><i class="fa-solid fa-triangle-exclamation" style="margin-right:6px;"></i>Avertissement important</h3>
+      <p>Les informations présentées dans cette base de données sont fournies à titre éducatif et informatif uniquement. Elles ne remplacent en aucun cas un avis médical professionnel. L'utilisation des plantes médicinales comporte des risques, notamment des interactions médicamenteuses et des effets toxiques. Consultez toujours un professionnel de santé avant toute utilisation thérapeutique.</p>
+      <a href="avertissement.html" class="hp-readmore" style="background:#e65100;margin-top:16px;"><i class="fa-solid fa-arrow-right"></i> Lire l'avertissement complet</a>
+    </div>
+  </div>
+</section>
+
+<!-- ═══════════════════════════════════════════════
+     5. INTRODUCTION GÉNÉRALE
+     ═══════════════════════════════════════════════ -->
+<section class="hp-section">
+  <div class="hp-inner hp-text-section">
+    <div>
+      <span class="hp-tag">Introduction</span>
+      <h2><i class="fa-solid fa-seedling" style="color:var(--green-mid);margin-right:8px;"></i>Les plantes médicinales en Haïti</h2>
+      <p>En Haïti, plus de 80% de la population dépend des plantes médicinales pour ses soins de santé primaires. Cette tradition, héritée des peuples Taïnos et enrichie par les savoirs africains apportés durant la période coloniale, constitue un système médical complexe et efficace qui a permis à des millions de personnes de se soigner pendant des siècles. Le Grand Sud et la Grand'Anse abritent une biodiversité exceptionnelle avec des écosystèmes allant des mangroves côtières aux forêts de montagne du Massif de la Hotte, un hotspot de biodiversité mondiale.</p>
+      <a href="introduction.html" class="hp-readmore"><i class="fa-solid fa-arrow-right"></i> Lire l'introduction complète</a>
+    </div>
+  </div>
+</section>
+
+<!-- ═══════════════════════════════════════════════
+     6. HISTOIRE DE LA MÉDECINE TRADITIONNELLE
+     ═══════════════════════════════════════════════ -->
+<section class="hp-section">
+  <div class="hp-inner">
+    <span class="hp-tag" style="margin-bottom:16px;display:inline-block;">Histoire</span>
+    <div class="hp-split">
+      <div>
+        <h2 style="font-size:26px;color:var(--green-dark);margin-bottom:12px;line-height:1.25;"><i class="fa-solid fa-landmark" style="color:var(--gold);margin-right:8px;"></i>Histoire de la médecine traditionnelle en Haïti</h2>
+        <p style="font-size:15px;color:var(--text-mid);font-family:Arial,sans-serif;line-height:1.7;">La médecine traditionnelle haïtienne est un héritage millénaire qui puise ses racines dans trois grandes traditions : la pharmacopée des Taïnos, les savoirs botaniques africains transmis par les esclaves, et l'influence de la médecine coloniale européenne. Les « Doktè Fey » — guérisseurs par les plantes — sont les gardiens vivants de ce patrimoine. Leur rôle dans la santé communautaire reste fondamental, particulièrement dans les zones rurales du Grand Sud où l'accès aux structures médicales modernes demeure limité.</p>
+        <a href="histoire.html" class="hp-readmore"><i class="fa-solid fa-arrow-right"></i> Découvrir l'histoire complète</a>
       </div>
-
-      <!-- 2. Agriculture -->
-      <div class="home-box" style="border-left-color: #F39C12;">
-        <div class="box-icon">🌾</div>
-        <h3 data-fr="Ministère de l'Agriculture" data-en="Ministry of Agriculture" data-kr="Ministè Agrikilti">Ministère de l'Agriculture</h3>
-        <p data-fr="Protection des cultures, production durable, agroforesterie et soutien aux petits producteurs." data-en="Crop protection, sustainable production, agroforestry and support for small producers." data-kr="Pwoteksyon rekòt, pwoduksyon dirab, agroforestri ak sipò pou ti pwodiktè.">Protection des cultures, production durable, agroforesterie et soutien aux petits producteurs.</p>
-        <span class="box-badge" style="background:#F39C12;" data-fr="Décideur · Agriculture" data-en="Decision-maker · Agriculture" data-kr="Dèsidè · Agrikilti">Décideur · Agriculture</span>
+      <div class="hp-split-img">
+        <img src="images/121_Aristolochia_bilobata-001.jpg" alt="Plantes médicinales traditionnelles d'Haïti" loading="lazy">
       </div>
+    </div>
+  </div>
+</section>
 
-      <!-- 3. Santé -->
-      <div class="home-box" style="border-left-color: #E74C3C;">
-        <div class="box-icon">🏥</div>
-        <h3 data-fr="Ministère de la Santé Publique" data-en="Ministry of Public Health" data-kr="Ministè Sante Piblik">Ministère de la Santé Publique</h3>
-        <p data-fr="Pharmacopée nationale, protocoles thérapeutiques, prévention des maladies et intégration des savoirs traditionnels." data-en="National pharmacopoeia, therapeutic protocols, disease prevention and integration of traditional knowledge." data-kr="Farmakopeya nasyonal, pwotokòl terape, prevansyon maladi ak entegrasyon konesans tradisyonel.">Pharmacopée nationale, protocoles thérapeutiques, prévention des maladies et intégration des savoirs traditionnels.</p>
-        <span class="box-badge" style="background:#E74C3C;" data-fr="Décideur · Santé" data-en="Decision-maker · Health" data-kr="Dèsidè · Sante">Décideur · Santé</span>
-      </div>
+<!-- ═══════════════════════════════════════════════
+     7. SYSTÈMES DU CORPS
+     ═══════════════════════════════════════════════ -->
+<section class="hp-section">
+  <div class="hp-inner">
+    <div style="text-align:center;margin-bottom:36px;">
+      <span class="hp-tag">Systèmes du corps</span>
+      <h2 style="font-size:26px;color:var(--green-dark);margin-top:10px;">Les plantes par système physiologique</h2>
+      <p style="font-size:14px;color:var(--text-mid);font-family:Arial,sans-serif;max-width:600px;margin:8px auto 0;">Explorez les plantes médicinales classées selon les systèmes du corps humain qu'elles peuvent soutenir.</p>
+    </div>
+    <div class="hp-systems-grid">
 
-      <!-- 4. Commerce -->
-      <div class="home-box" style="border-left-color: #2980B9;">
-        <div class="box-icon">📦</div>
-        <h3 data-fr="Ministère du Commerce" data-en="Ministry of Commerce" data-kr="Ministè Komès">Ministère du Commerce</h3>
-        <p data-fr="Filières commerciales, certification internationale, standards d'exportation et développement économique." data-en="Commercial chains, international certification, export standards and economic development." data-kr="Filyè komèsyal, sètifikasyon entènasyonal, estanda ekspòtasyon ak devlopman ekonomik.">Filières commerciales, certification internationale, standards d'exportation et développement économique.</p>
-        <span class="box-badge" style="background:#2980B9;" data-fr="Décideur · Commerce" data-en="Decision-maker · Commerce" data-kr="Dèsidè · Komès">Décideur · Commerce</span>
-      </div>
+      <!-- Nerveux -->
+      <a href="systeme-nerveux.html" class="hp-sys-card">
+        <img src="images/131_Caryota_mitis-001.jpg" alt="Système nerveux" loading="lazy">
+        <div class="hp-sys-body">
+          <h3>🧠 Système Nerveux</h3>
+          <p>Plantes calmantes, anxiolytiques, antidépressives et neuroprotectrices utilisées dans la tradition haïtienne.</p>
+          <span class="hp-sys-btn">Découvrir les plantes →</span>
+        </div>
+      </a>
 
-      <!-- 5. Doktè Fey -->
-      <div class="home-box" style="border-left-color: #8E44AD;">
-        <div class="box-icon">🌿</div>
-        <h3 data-fr="Guérisseurs & Doktè Fey" data-en="Healers & Doktè Fey" data-kr="Gèrisè & Doktè Fey">Guérisseurs & Doktè Fey</h3>
-        <p data-fr="Savoirs traditionnels, identification des plantes, propriétés ancestrales et transmission intergénérationnelle." data-en="Traditional knowledge, plant identification, ancestral properties and intergenerational transmission." data-kr="Konesans tradisyonel, idantifikasyon plant, kalite ansèstal ak transmisyon entèjenèrasyon.">Savoirs traditionnels, identification des plantes, propriétés ancestrales et transmission intergénérationnelle.</p>
-        <span class="box-badge" style="background:#8E44AD;" data-fr="Savoirs Traditionnels" data-en="Traditional Knowledge" data-kr="Konesans Tradisyonel">Savoirs Traditionnels</span>
-      </div>
+      <!-- Digestif -->
+      <a href="systeme-digestif.html" class="hp-sys-card">
+        <img src="images/104_Pistia_stratiotes-001.jpg" alt="Système digestif" loading="lazy">
+        <div class="hp-sys-body">
+          <h3>🫁 Système Digestif</h3>
+          <p>Plantes pour les troubles gastriques, hépatiques, intestinaux, les coliques et les vers parasitaires.</p>
+          <span class="hp-sys-btn">Découvrir les plantes →</span>
+        </div>
+      </a>
 
-      <!-- 6. Grand Public -->
-      <div class="home-box" style="border-left-color: #16A085;">
-        <div class="box-icon">👨‍👩‍👧</div>
-        <h3 data-fr="Grand Public & Familles" data-en="General Public & Families" data-kr="Gwo Piblik & Fanmi">Grand Public & Familles</h3>
-        <p data-fr="Guides pratiques, recettes, dosages sûrs, prévention et promotion de la santé communautaire." data-en="Practical guides, recipes, safe dosages, prevention and promotion of community health." data-kr="Gid pratik, resèt, doze sekirite, prevansyon ak pwomosyon sante kominoté.">Guides pratiques, recettes, dosages sûrs, prévention et promotion de la santé communautaire.</p>
-        <span class="box-badge" style="background:#16A085;" data-fr="Santé Communautaire" data-en="Community Health" data-kr="Sante Kominoté">Santé Communautaire</span>
-      </div>
+      <!-- Cardiovasculaire -->
+      <a href="systeme-cardiovasculaire.html" class="hp-sys-card">
+        <img src="images/102_Colocasia_esculenta-001.jpg" alt="Système cardiovasculaire" loading="lazy">
+        <div class="hp-sys-body">
+          <h3>❤️ Système Cardiovasculaire</h3>
+          <p>Plantes hypotensives, cardiotoniques et vasculoprotectrices pour la santé du cœur et de la circulation.</p>
+          <span class="hp-sys-btn">Découvrir les plantes →</span>
+        </div>
+      </a>
 
-      <!-- 7. Praticiens -->
-      <div class="home-box" style="border-left-color: #D35400;">
-        <div class="box-icon">🔬</div>
-        <h3 data-fr="Naturopathes & Phytothérapeutes" data-en="Naturopaths & Phytotherapists" data-kr="Natiropat & Fitoterap">Naturopathes & Phytothérapeutes</h3>
-        <p data-fr="Données phytochimiques détaillées, protocoles cliniques, interactions et research-based evidence." data-en="Detailed phytochemical data, clinical protocols, interactions and research-based evidence." data-kr="Done fitochimik detaye, pwotokòl klini, entèraksyon ak prèv baze sou rechèch.">Données phytochimiques détaillées, protocoles cliniques, interactions et research-based evidence.</p>
-        <span class="box-badge" style="background:#D35400;" data-fr="Praticiens" data-en="Practitioners" data-kr="Pratisyen">Praticiens</span>
-      </div>
+      <!-- Respiratoire -->
+      <a href="systeme-respiratoire.html" class="hp-sys-card">
+        <img src="images/111_Dendropanax_arboreus-001.jpg" alt="Système respiratoire" loading="lazy">
+        <div class="hp-sys-body">
+          <h3>🌬️ Système Respiratoire</h3>
+          <p>Plantes expectorantes, antitussives et bronchodilatatrices pour les affections pulmonaires et respiratoires.</p>
+          <span class="hp-sys-btn">Découvrir les plantes →</span>
+        </div>
+      </a>
 
-      <!-- 8. Chercheurs -->
-      <div class="home-box" style="border-left-color: #2C3E50;">
-        <div class="box-icon">🎓</div>
-        <h3 data-fr="Chercheurs & Académiques" data-en="Researchers & Academics" data-kr="Cherchè & Akademik">Chercheurs & Académiques</h3>
-        <p data-fr="Base de données complète, publications TRAMIL/PubMed, données moléculaires et ressources scientifiques." data-en="Complete database, TRAMIL/PubMed publications, molecular data and scientific resources." data-kr="Baz done konplè, publikasyon TRAMIL/PubMed, done molekilè ak resous syantifik.">Base de données complète, publications TRAMIL/PubMed, données moléculaires et ressources scientifiques.</p>
-        <span class="box-badge" style="background:#2C3E50;" data-fr="Recherche" data-en="Research" data-kr="Rechèch">Recherche</span>
-      </div>
+      <!-- Immunitaire -->
+      <a href="systeme-immunitaire.html" class="hp-sys-card">
+        <img src="images/113_Schefflera_tremula-001.jpg" alt="Système immunitaire" loading="lazy">
+        <div class="hp-sys-body">
+          <h3>🛡️ Système Immunitaire</h3>
+          <p>Plantes immunostimulantes, antivirales, antibactériennes et antifongiques de la pharmacopée haïtienne.</p>
+          <span class="hp-sys-btn">Découvrir les plantes →</span>
+        </div>
+      </a>
+
+      <!-- Urinaire / Rénal -->
+      <a href="systeme-urinaire.html" class="hp-sys-card">
+        <img src="images/11_Ruellia_tuberosa-001.jpg" alt="Système urinaire" loading="lazy">
+        <div class="hp-sys-body">
+          <h3>💧 Système Urinaire & Rénal</h3>
+          <p>Plantes diurétiques, dépuratives et néphroprotectrices pour les affections rénales et urinaires.</p>
+          <span class="hp-sys-btn">Découvrir les plantes →</span>
+        </div>
+      </a>
 
     </div>
   </div>
+</section>
+
+<!-- ═══════════════════════════════════════════════
+     8. À QUI NOUS NOUS ADRESSONS
+     ═══════════════════════════════════════════════ -->
+<section class="hp-section">
+  <div class="hp-inner">
+    <div style="text-align:center;margin-bottom:36px;">
+      <span class="hp-tag">Nos publics</span>
+      <h2 style="font-size:26px;color:var(--green-dark);margin-top:10px;">À qui nous nous adressons</h2>
+      <p style="font-size:14px;color:var(--text-mid);font-family:Arial,sans-serif;max-width:600px;margin:8px auto 0;">PMAA facilite la collaboration entre décideurs, praticiens, communautés et chercheurs pour valoriser les plantes du Grand Sud.</p>
+    </div>
+    <div class="hp-aud-grid">
+
+      <a href="tradition.html" class="hp-aud-card" style="border-top:3px solid #8E44AD;">
+        <span class="hp-aud-icon">🌿</span>
+        <h3>Guérisseurs & Doktè Fey</h3>
+        <p>Savoirs traditionnels, identification et propriétés ancestrales des plantes.</p>
+        <span class="hp-aud-tag" style="background:#8E44AD;">Savoirs Traditionnels</span>
+      </a>
+
+      <a href="sante.html" class="hp-aud-card" style="border-top:3px solid #D35400;">
+        <span class="hp-aud-icon">⚕️</span>
+        <h3>Naturopathes & Phytothérapeutes</h3>
+        <p>Données phytochimiques, protocoles cliniques et evidence-based research.</p>
+        <span class="hp-aud-tag" style="background:#D35400;">Praticiens</span>
+      </a>
+
+      <a href="atlas.html" class="hp-aud-card" style="border-top:3px solid #2C3E50;">
+        <span class="hp-aud-icon">🎓</span>
+        <h3>Chercheurs & Académiques</h3>
+        <p>Base de données complète, publications TRAMIL/PubMed et données moléculaires.</p>
+        <span class="hp-aud-tag" style="background:#2C3E50;">Recherche</span>
+      </a>
+
+      <a href="sante.html" class="hp-aud-card" style="border-top:3px solid #16A085;">
+        <span class="hp-aud-icon">👨‍👩‍👧</span>
+        <h3>Grand Public & Familles</h3>
+        <p>Guides pratiques, recettes, dosages sûrs et santé communautaire.</p>
+        <span class="hp-aud-tag" style="background:#16A085;">Santé Communautaire</span>
+      </a>
+
+      <a href="ministeres.html" class="hp-aud-card" style="border-top:3px solid #27AE60;">
+        <span class="hp-aud-icon">🏞️</span>
+        <h3>Ministère de l'Environnement</h3>
+        <p>Conservation, biodiversité, aires protégées et gestion durable.</p>
+        <span class="hp-aud-tag" style="background:#27AE60;">Conservation</span>
+      </a>
+
+      <a href="ministeres.html" class="hp-aud-card" style="border-top:3px solid #F39C12;">
+        <span class="hp-aud-icon">🌾</span>
+        <h3>Ministère de l'Agriculture</h3>
+        <p>Agroforesterie, production durable et soutien aux producteurs.</p>
+        <span class="hp-aud-tag" style="background:#F39C12;">Agriculture</span>
+      </a>
+
+      <a href="ministeres.html" class="hp-aud-card" style="border-top:3px solid #E74C3C;">
+        <span class="hp-aud-icon">🏥</span>
+        <h3>Ministère de la Santé</h3>
+        <p>Pharmacopée nationale, protocoles thérapeutiques et prévention.</p>
+        <span class="hp-aud-tag" style="background:#E74C3C;">Santé Publique</span>
+      </a>
+
+      <a href="economie.html" class="hp-aud-card" style="border-top:3px solid #2980B9;">
+        <span class="hp-aud-icon">📦</span>
+        <h3>Ministère du Commerce</h3>
+        <p>Filières commerciales, certification et standards d'exportation.</p>
+        <span class="hp-aud-tag" style="background:#2980B9;">Commerce</span>
+      </a>
+
+    </div>
+  </div>
+</section>
+
+<!-- ═══════════════════════════════════════════════
+     9. GROS BOUTON — ACCÈS BASE DE DONNÉES
+     ═══════════════════════════════════════════════ -->
+<section class="hp-cta">
+  <h2><i class="fa-solid fa-database" style="margin-right:10px;"></i>Explorez notre Base de Données</h2>
+  <p>270+ plantes médicinales, aromatiques et alimentaires du Grand Sud documentées avec fiches complètes.</p>
+  <a href="atlas.html" class="hp-cta-btn"><i class="fa-solid fa-leaf"></i> Accéder à la Base de Données →</a>
 </section>
 
 <div id="footer-placeholder"></div>
