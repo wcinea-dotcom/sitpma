@@ -1,0 +1,358 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Le Système Digestif — Infographie PMAA Haïti</title>
+<link rel="stylesheet" href="pmaa-styles.css">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+<style>
+/* ── INFOGRAPHIC LAYOUT ─────────────────────── */
+.infographic-wrap{max-width:1100px;margin:0 auto;padding:40px 24px 60px;}
+.infographic-title{text-align:center;margin-bottom:10px;}
+.infographic-title h1{font-size:32px;color:#1a4a2e;line-height:1.2;}
+.infographic-title h1 span{color:#c8a84b;}
+.infographic-subtitle{text-align:center;font-size:15px;color:#4a5568;font-family:Arial,sans-serif;line-height:1.6;max-width:700px;margin:0 auto 40px;}
+
+/* Main two-column layout */
+.infographic-body{display:grid;grid-template-columns:340px 1fr;gap:0;position:relative;}
+
+/* SVG column */
+.svg-col{position:relative;display:flex;justify-content:center;}
+
+/* Data cards column */
+.cards-col{display:flex;flex-direction:column;gap:0;position:relative;}
+
+/* Connector lines */
+.organ-row{display:grid;grid-template-columns:340px 1fr;gap:0;align-items:center;position:relative;}
+
+/* Each organ card */
+.organ-card{background:#fff;border-radius:12px;padding:18px 20px;border:1.5px solid #e0e0e0;position:relative;transition:all .25s;margin:6px 0;margin-left:20px;}
+.organ-card:hover{box-shadow:0 6px 24px rgba(0,0,0,.1);border-color:#4caf73;transform:translateX(4px);}
+.organ-card::before{content:'';position:absolute;left:-20px;top:50%;width:20px;height:2px;background:#c8a84b;}
+.organ-header{display:flex;align-items:center;gap:10px;margin-bottom:8px;}
+.organ-icon{width:38px;height:38px;border-radius:10px;display:flex;align-items:center;justify-content:center;font-size:20px;flex-shrink:0;color:#fff;}
+.organ-header h3{font-size:15px;font-weight:bold;color:#1a4a2e;font-family:Arial,sans-serif;margin:0;line-height:1.2;}
+.organ-header .organ-latin{font-size:11px;color:#888;font-family:Arial,sans-serif;font-style:italic;}
+
+/* Fact bubbles */
+.organ-facts{display:flex;flex-wrap:wrap;gap:6px;margin-bottom:10px;}
+.fact-bubble{display:inline-flex;align-items:center;gap:5px;padding:4px 10px;border-radius:20px;font-size:11px;font-family:Arial,sans-serif;font-weight:600;background:#f0faf3;color:#1a4a2e;border:1px solid #d5edd9;}
+.fact-bubble .fact-num{color:#c8a84b;font-weight:800;font-size:12px;}
+
+/* Description */
+.organ-desc{font-size:12.5px;color:#4a5568;font-family:Arial,sans-serif;line-height:1.55;margin-bottom:10px;}
+
+/* Plant tags */
+.organ-plants{display:flex;flex-wrap:wrap;gap:5px;}
+.plant-tag{display:inline-flex;align-items:center;gap:4px;padding:3px 9px;border-radius:14px;font-size:10.5px;font-family:Arial,sans-serif;font-weight:600;background:#e8f5e9;color:#2d7a4f;border:1px solid #c8e6c9;}
+.plant-tag i{font-size:9px;}
+
+/* Section divider */
+.section-divider{text-align:center;margin:32px 0 24px;position:relative;}
+.section-divider::before{content:'';position:absolute;left:0;right:0;top:50%;height:1px;background:#e0e0e0;}
+.section-divider span{position:relative;background:#f8f7f4;padding:0 16px;font-size:13px;font-family:Arial,sans-serif;font-weight:700;color:#1a4a2e;text-transform:uppercase;letter-spacing:1px;}
+
+/* Stats banner */
+.stats-banner{display:grid;grid-template-columns:repeat(4,1fr);gap:16px;margin:32px 0;padding:28px 24px;background:linear-gradient(135deg,#1a4a2e,#0f2d1a);border-radius:14px;color:#fff;}
+.stat-box{text-align:center;}
+.stat-box .num{font-size:28px;font-weight:bold;color:#c8a84b;display:block;line-height:1;}
+.stat-box .lbl{font-size:11.5px;font-family:Arial,sans-serif;color:rgba(255,255,255,.75);margin-top:5px;line-height:1.3;}
+
+/* Warning box */
+.digest-warn{background:#fff8e1;border:1px solid #ffe082;border-left:5px solid #f9a825;border-radius:8px;padding:16px 20px;margin-top:24px;display:flex;gap:12px;align-items:flex-start;}
+.digest-warn i{color:#f9a825;font-size:18px;margin-top:2px;}
+.digest-warn p{font-size:13px;color:#5d4037;font-family:Arial,sans-serif;line-height:1.6;margin:0;}
+
+/* CTA */
+.digest-cta{text-align:center;margin-top:40px;}
+.digest-cta a{display:inline-flex;align-items:center;gap:8px;padding:14px 32px;background:#2d7a4f;color:#fff;border-radius:8px;font-size:15px;font-weight:bold;font-family:Arial,sans-serif;text-decoration:none;transition:all .2s;box-shadow:0 4px 14px rgba(45,122,79,.3);}
+.digest-cta a:hover{background:#1a4a2e;transform:translateY(-2px);}
+
+/* Responsive */
+@media(max-width:800px){
+  .organ-row{grid-template-columns:1fr;}
+  .svg-col{display:none;}
+  .organ-card::before{display:none;}
+  .organ-card{margin-left:0;}
+  .stats-banner{grid-template-columns:repeat(2,1fr);}
+}
+</style>
+</head>
+<body style="background:#f8f7f4;">
+<div id="topbar-placeholder"></div>
+
+<!-- PAGE HERO -->
+<section class="page-hero">
+  <div class="container">
+    <div class="page-hero-inner">
+      <div class="breadcrumb"><a href="index.html">Accueil</a> <span>›</span> <a href="systeme-digestif.html">Système Digestif</a> <span>›</span> Infographie</div>
+      <div class="page-hero-tag"><span style="margin-right:4px;">🫁</span> Infographie éducative</div>
+      <h2>Le Système Digestif <span>Expliqué</span></h2>
+      <p>Comprendre chaque organe, ses chiffres étonnants et les plantes médicinales qui le protègent.</p>
+    </div>
+  </div>
+</section>
+
+<div class="infographic-wrap">
+
+  <!-- STATS BANNER -->
+  <div class="stats-banner">
+    <div class="stat-box">
+      <span class="num">9 m</span>
+      <span class="lbl">Longueur totale du tube digestif</span>
+    </div>
+    <div class="stat-box">
+      <span class="num">38T</span>
+      <span class="lbl">Bactéries dans le microbiome intestinal</span>
+    </div>
+    <div class="stat-box">
+      <span class="num">32 m²</span>
+      <span class="lbl">Surface d'absorption de l'intestin grêle</span>
+    </div>
+    <div class="stat-box">
+      <span class="num">70%</span>
+      <span class="lbl">Du système immunitaire logé dans l'intestin</span>
+    </div>
+  </div>
+
+  <p class="infographic-subtitle">Le système digestif est bien plus qu'un simple tube — c'est un écosystème complexe qui abrite des trillions de micro-organismes, produit des hormones, et constitue la première ligne de défense immunitaire du corps. Découvrez chaque organe et les plantes médicinales haïtiennes qui les protègent.</p>
+
+  <!-- ═══════════════════════════════════════════
+       SVG DIGESTIVE SYSTEM + ORGAN CARDS
+       ═══════════════════════════════════════════ -->
+
+  <!-- 1. BOUCHE -->
+  <div class="section-divider"><span>Partie supérieure</span></div>
+
+  <div class="organ-card" style="border-left:4px solid #e74c3c;">
+    <div class="organ-header">
+      <div class="organ-icon" style="background:#e74c3c;">👄</div>
+      <div><h3>La Bouche <small style="font-weight:normal;color:#888;">(Cavité buccale)</small></h3></div>
+    </div>
+    <div class="organ-facts">
+      <span class="fact-bubble"><span class="fact-num">700+</span> espèces de bactéries</span>
+      <span class="fact-bubble"><span class="fact-num">1 L</span> de salive / jour</span>
+      <span class="fact-bubble"><span class="fact-num">32</span> dents chez l'adulte</span>
+      <span class="fact-bubble"><span class="fact-num">10 000</span> papilles gustatives</span>
+    </div>
+    <p class="organ-desc">La digestion commence ici. La salive contient l'amylase, une enzyme qui décompose les amidons. Les bactéries buccales forment un microbiome essentiel — un déséquilibre peut causer caries, gingivite et infections systémiques. Les plantes antibactériennes et anti-inflammatoires protègent cette première porte d'entrée.</p>
+    <div class="organ-plants">
+      <span class="plant-tag"><i class="fa-solid fa-leaf"></i> Goyavier (antiseptique buccal)</span>
+      <span class="plant-tag"><i class="fa-solid fa-leaf"></i> Clou de girofle (analgésique dentaire)</span>
+      <span class="plant-tag"><i class="fa-solid fa-leaf"></i> Sauge (anti-inflammatoire)</span>
+    </div>
+  </div>
+
+  <!-- 2. ŒSOPHAGE -->
+  <div class="organ-card" style="border-left:4px solid #e67e22;margin-top:16px;">
+    <div class="organ-header">
+      <div class="organ-icon" style="background:#e67e22;">📏</div>
+      <div><h3>L'Œsophage</h3></div>
+    </div>
+    <div class="organ-facts">
+      <span class="fact-bubble"><span class="fact-num">25 cm</span> de longueur</span>
+      <span class="fact-bubble"><span class="fact-num">3-4 sec</span> transit d'un bol alimentaire</span>
+      <span class="fact-bubble"><span class="fact-num">2 cm</span> de diamètre</span>
+      <span class="fact-bubble"><span class="fact-num">2</span> sphincters de protection</span>
+    </div>
+    <p class="organ-desc">Ce tube musculaire propulse les aliments de la bouche vers l'estomac par des contractions péristaltiques. Le sphincter inférieur empêche le reflux acide. Le reflux gastro-œsophagien (RGO), très fréquent, endommage la muqueuse et peut mener à des complications graves si non traité.</p>
+    <div class="organ-plants">
+      <span class="plant-tag"><i class="fa-solid fa-leaf"></i> Réglisse (anti-reflux, mucoprotecteur)</span>
+      <span class="plant-tag"><i class="fa-solid fa-leaf"></i> Aloe vera (cicatrisant muqueux)</span>
+      <span class="plant-tag"><i class="fa-solid fa-leaf"></i> Camomille (anti-spasmodique)</span>
+    </div>
+  </div>
+
+  <!-- 3. ESTOMAC -->
+  <div class="section-divider"><span>Organes centraux</span></div>
+
+  <div class="organ-card" style="border-left:4px solid #f39c12;">
+    <div class="organ-header">
+      <div class="organ-icon" style="background:#f39c12;">🫗</div>
+      <div><h3>L'Estomac <small style="font-weight:normal;color:#888;">(Gaster)</small></h3></div>
+    </div>
+    <div class="organ-facts">
+      <span class="fact-bubble"><span class="fact-num">1-1.5 L</span> de capacité</span>
+      <span class="fact-bubble"><span class="fact-num">pH 1.5-3.5</span> acidité extrême</span>
+      <span class="fact-bubble"><span class="fact-num">2-5 h</span> durée de digestion</span>
+      <span class="fact-bubble"><span class="fact-num">3 L</span> de suc gastrique / jour</span>
+      <span class="fact-bubble"><span class="fact-num">35 M</span> de glandes gastriques</span>
+    </div>
+    <p class="organ-desc">L'estomac est une usine chimique puissante. Son acide chlorhydrique (pH 1.5) est assez corrosif pour dissoudre le métal — seule une couche de mucus protège la paroi. Les 35 millions de glandes gastriques produisent enzymes, acide et hormones. L'infection à <em>H. pylori</em>, présente chez 50% de la population mondiale, est la cause principale des ulcères gastriques.</p>
+    <div class="organ-plants">
+      <span class="plant-tag"><i class="fa-solid fa-leaf"></i> Corossol / Kowosòl (gastroprotecteur)</span>
+      <span class="plant-tag"><i class="fa-solid fa-leaf"></i> Curcuma (anti-inflammatoire gastrique)</span>
+      <span class="plant-tag"><i class="fa-solid fa-leaf"></i> Gingembre / Jenjanm (anti-nausée)</span>
+      <span class="plant-tag"><i class="fa-solid fa-leaf"></i> Menthe (antispasmodique)</span>
+    </div>
+  </div>
+
+  <!-- 4. FOIE -->
+  <div class="organ-card" style="border-left:4px solid #8e44ad;margin-top:16px;">
+    <div class="organ-header">
+      <div class="organ-icon" style="background:#8e44ad;">🫘</div>
+      <div><h3>Le Foie <small style="font-weight:normal;color:#888;">(Hepar) — Le plus grand organe interne</small></h3></div>
+    </div>
+    <div class="organ-facts">
+      <span class="fact-bubble"><span class="fact-num">1.5 kg</span> poids moyen</span>
+      <span class="fact-bubble"><span class="fact-num">500+</span> fonctions métaboliques</span>
+      <span class="fact-bubble"><span class="fact-num">1.4 L</span> de sang filtré / minute</span>
+      <span class="fact-bubble"><span class="fact-num">800 mL</span> de bile / jour</span>
+      <span class="fact-bubble"><span class="fact-num">100%</span> capacité de régénération</span>
+    </div>
+    <p class="organ-desc">Le foie est l'organe le plus polyvalent du corps. Il filtre le sang, produit la bile, stocke le glycogène, synthétise des protéines, détoxifie les médicaments et l'alcool, et régule le cholestérol. C'est le seul organe capable de se régénérer complètement — même après la perte de 75% de sa masse. En Haïti, les maladies hépatiques liées à l'hépatite B et aux toxines environnementales sont un problème majeur de santé publique.</p>
+    <div class="organ-plants">
+      <span class="plant-tag"><i class="fa-solid fa-leaf"></i> Chardon-Marie (hépatoprotecteur #1)</span>
+      <span class="plant-tag"><i class="fa-solid fa-leaf"></i> Artichaut (stimulant biliaire)</span>
+      <span class="plant-tag"><i class="fa-solid fa-leaf"></i> Boldo (cholérétique)</span>
+      <span class="plant-tag"><i class="fa-solid fa-leaf"></i> Papaye / Papay (détoxifiant)</span>
+    </div>
+  </div>
+
+  <!-- 5. PANCRÉAS -->
+  <div class="organ-card" style="border-left:4px solid #2980b9;margin-top:16px;">
+    <div class="organ-header">
+      <div class="organ-icon" style="background:#2980b9;">🔬</div>
+      <div><h3>Le Pancréas</h3></div>
+    </div>
+    <div class="organ-facts">
+      <span class="fact-bubble"><span class="fact-num">15 cm</span> de longueur</span>
+      <span class="fact-bubble"><span class="fact-num">1.5 L</span> de suc pancréatique / jour</span>
+      <span class="fact-bubble"><span class="fact-num">2 M</span> d'îlots de Langerhans</span>
+      <span class="fact-bubble"><span class="fact-num">20+</span> enzymes digestives</span>
+    </div>
+    <p class="organ-desc">Cet organe a une double fonction : exocrine (production d'enzymes digestives) et endocrine (production d'insuline et de glucagon). Les 2 millions d'îlots de Langerhans régulent la glycémie — leur dysfonctionnement cause le diabète. En Haïti, le diabète de type 2 est en augmentation rapide, rendant les plantes hypoglycémiantes particulièrement précieuses.</p>
+    <div class="organ-plants">
+      <span class="plant-tag"><i class="fa-solid fa-leaf"></i> Momordica / Asosi (hypoglycémiant)</span>
+      <span class="plant-tag"><i class="fa-solid fa-leaf"></i> Cannelle (régulateur glycémique)</span>
+      <span class="plant-tag"><i class="fa-solid fa-leaf"></i> Fenugrec (stimulant pancréatique)</span>
+    </div>
+  </div>
+
+  <!-- 6. VÉSICULE BILIAIRE -->
+  <div class="organ-card" style="border-left:4px solid #27ae60;margin-top:16px;">
+    <div class="organ-header">
+      <div class="organ-icon" style="background:#27ae60;">💚</div>
+      <div><h3>La Vésicule Biliaire</h3></div>
+    </div>
+    <div class="organ-facts">
+      <span class="fact-bubble"><span class="fact-num">7-10 cm</span> de longueur</span>
+      <span class="fact-bubble"><span class="fact-num">50 mL</span> de capacité</span>
+      <span class="fact-bubble"><span class="fact-num">10x</span> concentration de la bile</span>
+    </div>
+    <p class="organ-desc">Ce petit réservoir en forme de poire stocke et concentre la bile produite par le foie. Lors d'un repas gras, elle se contracte pour libérer la bile dans le duodénum, essentielle à la digestion des graisses. Les calculs biliaires, formés par la cristallisation du cholestérol, touchent 10-15% de la population adulte.</p>
+    <div class="organ-plants">
+      <span class="plant-tag"><i class="fa-solid fa-leaf"></i> Menthe poivrée (antispasmodique biliaire)</span>
+      <span class="plant-tag"><i class="fa-solid fa-leaf"></i> Radis noir (cholérétique)</span>
+      <span class="plant-tag"><i class="fa-solid fa-leaf"></i> Pissenlit (draineur hépatobiliaire)</span>
+    </div>
+  </div>
+
+  <!-- 7. INTESTIN GRÊLE -->
+  <div class="section-divider"><span>Partie inférieure</span></div>
+
+  <div class="organ-card" style="border-left:4px solid #16a085;">
+    <div class="organ-header">
+      <div class="organ-icon" style="background:#16a085;">🔄</div>
+      <div><h3>L'Intestin Grêle <small style="font-weight:normal;color:#888;">(Duodénum + Jéjunum + Iléon)</small></h3></div>
+    </div>
+    <div class="organ-facts">
+      <span class="fact-bubble"><span class="fact-num">6-7 m</span> de longueur totale</span>
+      <span class="fact-bubble"><span class="fact-num">32 m²</span> de surface d'absorption</span>
+      <span class="fact-bubble"><span class="fact-num">5 M</span> de villosités par cm²</span>
+      <span class="fact-bubble"><span class="fact-num">90%</span> des nutriments absorbés ici</span>
+      <span class="fact-bubble"><span class="fact-num">3-5 h</span> temps de transit</span>
+    </div>
+    <p class="organ-desc">C'est le champion de l'absorption ! Grâce à ses millions de villosités et microvillosités, l'intestin grêle déploie une surface d'absorption équivalente à un terrain de tennis (32 m²). Il absorbe 90% de tous les nutriments : vitamines, minéraux, acides aminés, sucres et acides gras. Sa muqueuse se renouvelle entièrement tous les 3-5 jours — l'un des taux de renouvellement les plus rapides du corps.</p>
+    <div class="organ-plants">
+      <span class="plant-tag"><i class="fa-solid fa-leaf"></i> Psyllium (régulateur du transit)</span>
+      <span class="plant-tag"><i class="fa-solid fa-leaf"></i> Fenouil / Lansman (carminatif)</span>
+      <span class="plant-tag"><i class="fa-solid fa-leaf"></i> Guimauve (protecteur muqueux)</span>
+    </div>
+  </div>
+
+  <!-- 8. GROS INTESTIN / CÔLON -->
+  <div class="organ-card" style="border-left:4px solid #2c3e50;margin-top:16px;">
+    <div class="organ-header">
+      <div class="organ-icon" style="background:#2c3e50;">🦠</div>
+      <div><h3>Le Gros Intestin / Côlon <small style="font-weight:normal;color:#888;">(Le siège du microbiome)</small></h3></div>
+    </div>
+    <div class="organ-facts">
+      <span class="fact-bubble"><span class="fact-num">1.5 m</span> de longueur</span>
+      <span class="fact-bubble"><span class="fact-num">38 T</span> de bactéries (trillions)</span>
+      <span class="fact-bubble"><span class="fact-num">1 000+</span> espèces bactériennes</span>
+      <span class="fact-bubble"><span class="fact-num">70%</span> du système immunitaire</span>
+      <span class="fact-bubble"><span class="fact-num">12-36 h</span> temps de transit</span>
+      <span class="fact-bubble"><span class="fact-num">2 kg</span> poids du microbiome</span>
+    </div>
+    <p class="organ-desc">Le côlon abrite le plus grand écosystème du corps humain : le microbiome intestinal. Ces <strong>38 trillions de bactéries</strong> (plus que le nombre total de cellules humaines !) pèsent environ 2 kg et remplissent des fonctions vitales : synthèse de vitamines K et B12, production d'acides gras à chaîne courte, régulation immunitaire, et même influence sur l'humeur via l'axe intestin-cerveau. Un microbiome équilibré est la clé d'une bonne santé globale.</p>
+    <div class="organ-plants">
+      <span class="plant-tag"><i class="fa-solid fa-leaf"></i> Aloe / Lalwa (laxatif naturel)</span>
+      <span class="plant-tag"><i class="fa-solid fa-leaf"></i> Séné (stimulant péristaltique)</span>
+      <span class="plant-tag"><i class="fa-solid fa-leaf"></i> Plantain / Plantin (prébiotique)</span>
+      <span class="plant-tag"><i class="fa-solid fa-leaf"></i> Gingembre (anti-inflammatoire colique)</span>
+    </div>
+  </div>
+
+  <!-- 9. RECTUM -->
+  <div class="organ-card" style="border-left:4px solid #7f8c8d;margin-top:16px;">
+    <div class="organ-header">
+      <div class="organ-icon" style="background:#7f8c8d;">🔚</div>
+      <div><h3>Le Rectum & l'Anus <small style="font-weight:normal;color:#888;">(Sortie du système)</small></h3></div>
+    </div>
+    <div class="organ-facts">
+      <span class="fact-bubble"><span class="fact-num">12-15 cm</span> longueur du rectum</span>
+      <span class="fact-bubble"><span class="fact-num">2</span> sphincters de contrôle</span>
+      <span class="fact-bubble"><span class="fact-num">150 g</span> de selles / jour en moyenne</span>
+    </div>
+    <p class="organ-desc">Le rectum stocke temporairement les selles avant l'évacuation. Ses capteurs de pression signalent le besoin de défécation. Les hémorroïdes, fissures et inflammations rectales sont des affections courantes qui peuvent être soulagées par des plantes médicinales aux propriétés anti-inflammatoires et vasculoprotectrices.</p>
+    <div class="organ-plants">
+      <span class="plant-tag"><i class="fa-solid fa-leaf"></i> Hamamélis (vasculoprotecteur)</span>
+      <span class="plant-tag"><i class="fa-solid fa-leaf"></i> Marronnier d'Inde (anti-hémorroïdes)</span>
+      <span class="plant-tag"><i class="fa-solid fa-leaf"></i> Calendula (cicatrisant)</span>
+    </div>
+  </div>
+
+  <!-- ═══════════════════════════════════════════
+       KEY FACTS BOX
+       ═══════════════════════════════════════════ -->
+  <div class="section-divider" style="margin-top:40px;"><span>Le saviez-vous ?</span></div>
+
+  <div style="display:grid;grid-template-columns:1fr 1fr;gap:16px;margin-top:8px;">
+    <div style="background:#fff;border-radius:12px;padding:20px;border:1.5px solid #e0e0e0;">
+      <h4 style="font-size:14px;color:#1a4a2e;font-family:Arial,sans-serif;margin:0 0 8px;">🧬 L'axe intestin-cerveau</h4>
+      <p style="font-size:13px;color:#4a5568;font-family:Arial,sans-serif;line-height:1.6;margin:0;">L'intestin contient <strong>500 millions de neurones</strong> connectés au cerveau via le nerf vague. C'est pourquoi on l'appelle le « deuxième cerveau ». <strong>95% de la sérotonine</strong> (hormone du bonheur) est produite dans l'intestin, pas dans le cerveau !</p>
+    </div>
+    <div style="background:#fff;border-radius:12px;padding:20px;border:1.5px solid #e0e0e0;">
+      <h4 style="font-size:14px;color:#1a4a2e;font-family:Arial,sans-serif;margin:0 0 8px;">🛡️ Immunité & intestin</h4>
+      <p style="font-size:13px;color:#4a5568;font-family:Arial,sans-serif;line-height:1.6;margin:0;"><strong>70-80% du système immunitaire</strong> se trouve dans l'intestin (tissu lymphoïde GALT). Un microbiome sain est la meilleure défense contre les infections, les allergies et même les maladies auto-immunes.</p>
+    </div>
+    <div style="background:#fff;border-radius:12px;padding:20px;border:1.5px solid #e0e0e0;">
+      <h4 style="font-size:14px;color:#1a4a2e;font-family:Arial,sans-serif;margin:0 0 8px;">⏱️ Le voyage d'un repas</h4>
+      <p style="font-size:13px;color:#4a5568;font-family:Arial,sans-serif;line-height:1.6;margin:0;">De la bouche à l'élimination, un repas voyage pendant <strong>24 à 72 heures</strong> à travers 9 mètres de tube digestif. L'estomac prend 2-5h, l'intestin grêle 3-5h, et le côlon 12-36h.</p>
+    </div>
+    <div style="background:#fff;border-radius:12px;padding:20px;border:1.5px solid #e0e0e0;">
+      <h4 style="font-size:14px;color:#1a4a2e;font-family:Arial,sans-serif;margin:0 0 8px;">🇭🇹 En Haïti</h4>
+      <p style="font-size:13px;color:#4a5568;font-family:Arial,sans-serif;line-height:1.6;margin:0;">Les maladies digestives (diarrhée, parasitoses, ulcères) sont parmi les premières causes de consultation en Haïti. Les <strong>« té » (tisanes)</strong> digestives sont le remède traditionnel le plus utilisé — un savoir ancestral que la science moderne confirme progressivement.</p>
+    </div>
+  </div>
+
+  <!-- WARNING -->
+  <div class="digest-warn">
+    <i class="fa-solid fa-triangle-exclamation"></i>
+    <p><strong>Avertissement :</strong> Les plantes médicinales mentionnées dans cette infographie sont présentées à titre éducatif. Consultez toujours un professionnel de santé avant toute utilisation thérapeutique, particulièrement en cas de grossesse, d'allaitement ou de traitement médicamenteux en cours.</p>
+  </div>
+
+  <!-- CTA -->
+  <div class="digest-cta">
+    <a href="atlas.html"><i class="fa-solid fa-leaf"></i> Explorer les plantes digestives dans l'Atlas →</a>
+  </div>
+
+</div>
+
+<div id="footer-placeholder"></div>
+<script src="pmaa-nav.js?v=20260412"></script>
+<script>PMAA.renderNav('');PMAA.renderFooter();</script>
+</body>
+</html>

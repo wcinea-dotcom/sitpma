@@ -7,32 +7,361 @@
 <link rel="stylesheet" href="pmaa-styles.css">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
 <style>
-.page-content{max-width:800px;margin:0 auto;padding:48px 40px 72px;}
-.page-content p{font-size:15px;color:var(--text-mid);font-family:Arial,sans-serif;line-height:1.75;margin-bottom:16px;}
-.back-link{display:inline-flex;align-items:center;gap:6px;margin-bottom:24px;font-size:13px;font-family:Arial,sans-serif;color:var(--green-mid);text-decoration:none;font-weight:600;}
+/* ── PAGE LAYOUT ─────────────────────────────────── */
+.page-content{max-width:1200px;margin:0 auto;padding:48px 40px 72px;}
+.back-link{display:inline-flex;align-items:center;gap:6px;margin-bottom:32px;font-size:13px;font-family:Arial,sans-serif;color:var(--green-mid);text-decoration:none;font-weight:600;transition:color .2s;}
 .back-link:hover{color:var(--green-dark);}
-.sys-atlas-btn{display:inline-flex;align-items:center;gap:8px;padding:14px 28px;background:var(--green-mid);color:#fff;border-radius:var(--radius-sm);font-size:15px;font-weight:bold;font-family:Arial,sans-serif;text-decoration:none;transition:all .2s;margin-top:16px;}
-.sys-atlas-btn:hover{background:var(--green-dark);transform:translateY(-1px);}
+
+/* ── HERO INTRO SECTION ──────────────────────────── */
+.digest-intro{display:grid;grid-template-columns:1fr 1fr;gap:48px;align-items:start;margin-bottom:56px;}
+.digest-img-wrap{position:relative;border-radius:16px;overflow:hidden;box-shadow:var(--shadow-lg);border:2px solid var(--green-pale);}
+.digest-img-wrap img{width:100%;display:block;}
+.digest-img-caption{background:var(--green-dark);color:rgba(255,255,255,.9);padding:12px 18px;font-family:Arial,sans-serif;font-size:12px;text-align:center;letter-spacing:.3px;}
+.digest-img-caption strong{color:var(--gold);}
+
+.digest-text h3{font-size:26px;color:var(--green-dark);margin-bottom:18px;line-height:1.3;position:relative;padding-bottom:14px;}
+.digest-text h3::after{content:'';position:absolute;bottom:0;left:0;width:60px;height:3px;background:linear-gradient(90deg,var(--green-mid),var(--gold));border-radius:2px;}
+.digest-text p{font-size:15px;color:var(--text-mid);font-family:Arial,sans-serif;line-height:1.85;margin-bottom:16px;text-align:justify;}
+.digest-text .highlight-box{background:linear-gradient(135deg,var(--green-pale),#f0faf3);border-left:4px solid var(--green-mid);border-radius:0 10px 10px 0;padding:16px 20px;margin:20px 0;font-size:14px;color:var(--green-dark);line-height:1.7;}
+.digest-text .highlight-box i{color:var(--green-mid);margin-right:6px;}
+
+/* ── SECTION TITLES ──────────────────────────────── */
+.section-title{display:flex;align-items:center;gap:14px;margin-bottom:28px;}
+.section-title .icon-circle{width:48px;height:48px;border-radius:50%;display:flex;align-items:center;justify-content:center;font-size:22px;flex-shrink:0;}
+.section-title h3{font-size:24px;color:var(--green-dark);line-height:1.3;}
+.section-title h3 span{color:var(--gold);}
+
+/* ── MICROBIOTE & CERVEAU SECTION ────────────────── */
+.brain-gut-section{background:linear-gradient(135deg,#f8fdf9,var(--green-pale));border-radius:20px;padding:44px 40px;margin-bottom:56px;border:1.5px solid #d4ebd8;position:relative;overflow:hidden;}
+.brain-gut-section::before{content:'';position:absolute;top:-40px;right:-40px;width:200px;height:200px;background:radial-gradient(circle,rgba(45,122,79,.08),transparent);border-radius:50%;}
+.brain-gut-grid{display:grid;grid-template-columns:1fr 1fr;gap:32px;margin-top:8px;}
+.brain-gut-card{background:var(--white);border-radius:14px;padding:28px 24px;box-shadow:0 2px 16px rgba(0,0,0,.06);border:1px solid #e8f0e8;transition:all .25s;}
+.brain-gut-card:hover{transform:translateY(-3px);box-shadow:0 6px 28px rgba(0,0,0,.1);border-color:var(--green-light);}
+.brain-gut-card .card-icon{width:50px;height:50px;border-radius:14px;display:flex;align-items:center;justify-content:center;font-size:24px;margin-bottom:16px;}
+.brain-gut-card h4{font-size:17px;font-weight:bold;color:var(--green-dark);margin-bottom:10px;font-family:Arial,sans-serif;}
+.brain-gut-card p{font-size:14px;color:var(--text-mid);font-family:Arial,sans-serif;line-height:1.75;text-align:justify;}
+
+/* ── MICROBIOTE ROLE SECTION ─────────────────────── */
+.microbiote-roles{margin-bottom:56px;}
+.roles-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:24px;}
+.role-card{background:var(--white);border-radius:16px;padding:32px 24px;text-align:center;box-shadow:var(--shadow-sm);border:1.5px solid var(--gray-mid);transition:all .3s;position:relative;overflow:hidden;}
+.role-card::before{content:'';position:absolute;top:0;left:0;right:0;height:4px;border-radius:16px 16px 0 0;}
+.role-card:hover{transform:translateY(-4px);box-shadow:var(--shadow-lg);border-color:var(--green-light);}
+.role-card .role-icon{font-size:44px;margin-bottom:16px;display:block;}
+.role-card h4{font-size:17px;font-weight:bold;color:var(--green-dark);margin-bottom:10px;font-family:Arial,sans-serif;}
+.role-card p{font-size:13.5px;color:var(--text-mid);font-family:Arial,sans-serif;line-height:1.7;text-align:justify;}
+.role-card:nth-child(1)::before{background:linear-gradient(90deg,#27ae60,#2ecc71);}
+.role-card:nth-child(2)::before{background:linear-gradient(90deg,#2563a8,#5b9bd5);}
+.role-card:nth-child(3)::before{background:linear-gradient(90deg,var(--gold),#e0bc5a);}
+
+/* ── PLANTES SECTION ─────────────────────────────── */
+.plantes-section{background:var(--white);border-radius:20px;padding:44px 40px;margin-bottom:56px;box-shadow:var(--shadow-sm);border:1.5px solid #e8f0e8;}
+.plantes-intro{font-size:15px;color:var(--text-mid);font-family:Arial,sans-serif;line-height:1.8;margin-bottom:28px;text-align:justify;}
+
+/* ── TROUBLES SECTION ────────────────────────────── */
+.troubles-section{margin-bottom:56px;}
+.troubles-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:18px;}
+.trouble-item{background:var(--white);border-radius:12px;padding:18px 20px;display:flex;align-items:center;gap:14px;box-shadow:0 2px 8px rgba(0,0,0,.04);border:1px solid #eef2ee;transition:all .2s;}
+.trouble-item:hover{border-color:var(--green-light);transform:translateX(3px);}
+.trouble-item .t-icon{width:40px;height:40px;border-radius:10px;background:var(--green-pale);display:flex;align-items:center;justify-content:center;font-size:18px;flex-shrink:0;}
+.trouble-item .t-text{font-size:14px;font-family:Arial,sans-serif;color:var(--text-dark);font-weight:600;line-height:1.4;}
+
+/* ── MÉCANISMES SECTION ──────────────────────────── */
+.mecanismes-section{margin-bottom:56px;}
+.meca-grid{display:grid;grid-template-columns:1fr 1fr;gap:24px;}
+.meca-card{background:var(--white);border-radius:16px;padding:28px 24px;box-shadow:var(--shadow-sm);border:1.5px solid #e8f0e8;transition:all .25s;}
+.meca-card:hover{box-shadow:var(--shadow);border-color:var(--green-light);transform:translateY(-2px);}
+.meca-card h4{font-size:16px;font-weight:bold;color:var(--green-dark);margin-bottom:10px;font-family:Arial,sans-serif;display:flex;align-items:center;gap:10px;}
+.meca-card h4 i{color:var(--green-mid);font-size:18px;}
+.meca-card p{font-size:13.5px;color:var(--text-mid);font-family:Arial,sans-serif;line-height:1.75;text-align:justify;}
+.meca-card .plant-ref{display:inline-block;margin-top:10px;padding:4px 12px;background:var(--green-pale);border-radius:8px;font-size:12px;font-family:Arial,sans-serif;color:var(--green-dark);font-weight:600;}
+
+/* ── TABLE ───────────────────────────────────────── */
+.plant-table-wrap{overflow-x:auto;border-radius:14px;border:1.5px solid #d4ebd8;margin-top:24px;}
+.plant-table{width:100%;border-collapse:collapse;font-family:Arial,sans-serif;font-size:14px;}
+.plant-table thead{background:linear-gradient(135deg,var(--green-dark),#1a5a3a);}
+.plant-table th{color:#fff;padding:14px 18px;text-align:left;font-size:13px;font-weight:700;text-transform:uppercase;letter-spacing:.5px;}
+.plant-table td{padding:13px 18px;border-bottom:1px solid #eef2ee;color:var(--text-dark);}
+.plant-table tr:last-child td{border-bottom:none;}
+.plant-table tr:nth-child(even){background:#f8fcf9;}
+.plant-table tr:hover{background:var(--green-pale);}
+.plant-table .sci-name{font-style:italic;color:var(--green-dark);font-weight:600;}
+.plant-table .creole-name{font-weight:bold;color:var(--text-dark);}
+.plant-table .usage-tag{display:inline-block;padding:3px 10px;border-radius:8px;font-size:11.5px;font-weight:600;background:#fef5e0;color:#ca6f1e;}
+
+/* ── PRECAUTIONS ─────────────────────────────────── */
+.precautions-box{background:linear-gradient(135deg,#fef5e0,#fff8e8);border:2px solid var(--gold);border-radius:16px;padding:32px 28px;margin-bottom:48px;position:relative;}
+.precautions-box::before{content:'\26A0';position:absolute;top:-16px;left:24px;background:var(--gold);color:var(--green-dark);width:32px;height:32px;border-radius:50%;display:flex;align-items:center;justify-content:center;font-size:16px;font-weight:bold;}
+.precautions-box h4{font-size:18px;color:var(--green-dark);margin-bottom:14px;font-family:Arial,sans-serif;display:flex;align-items:center;gap:8px;}
+.precautions-box ul{list-style:none;padding:0;}
+.precautions-box li{font-size:14px;color:var(--text-mid);font-family:Arial,sans-serif;line-height:1.7;padding:8px 0;border-bottom:1px solid rgba(200,168,75,.2);display:flex;align-items:flex-start;gap:10px;}
+.precautions-box li:last-child{border-bottom:none;}
+.precautions-box li i{color:var(--red-haiti);margin-top:3px;flex-shrink:0;}
+
+/* ── CTA ─────────────────────────────────────────── */
+.cta-section{text-align:center;padding:44px 32px;background:linear-gradient(135deg,var(--green-dark),#0f2d1a);border-radius:20px;color:#fff;position:relative;overflow:hidden;}
+.cta-section::before{content:'';position:absolute;inset:0;background:url("data:image/svg+xml,%3Csvg width='60' height='60' viewBox='0 0 60 60' xmlns='http://www.w3.org/2000/svg'%3E%3Cg fill='%23ffffff' fill-opacity='0.03'%3E%3Cpath d='M36 34v-4h-2v4h-4v2h4v4h2v-4h4v-2h-4zm0-30V0h-2v4h-4v2h4v4h2V6h4V4h-4z'/%3E%3C/g%3E%3C/svg%3E");opacity:.4;}
+.cta-section h3{font-size:26px;margin-bottom:12px;position:relative;}
+.cta-section p{font-size:15px;color:rgba(255,255,255,.8);font-family:Arial,sans-serif;margin-bottom:24px;position:relative;}
+.sys-atlas-btn{display:inline-flex;align-items:center;gap:10px;padding:16px 32px;background:var(--gold);color:var(--green-dark);border-radius:var(--radius-sm);font-size:16px;font-weight:bold;font-family:Arial,sans-serif;text-decoration:none;transition:all .2s;position:relative;}
+.sys-atlas-btn:hover{background:#e0bc5a;transform:translateY(-2px);box-shadow:0 6px 20px rgba(200,168,75,.4);}
+
+/* ── RESPONSIVE ──────────────────────────────────── */
+@media(max-width:900px){
+  .digest-intro{grid-template-columns:1fr;gap:28px;}
+  .brain-gut-grid{grid-template-columns:1fr;}
+  .roles-grid{grid-template-columns:1fr;}
+  .troubles-grid{grid-template-columns:1fr 1fr;}
+  .meca-grid{grid-template-columns:1fr;}
+}
+@media(max-width:600px){
+  .page-content{padding:24px 16px 48px;}
+  .brain-gut-section,.plantes-section{padding:28px 20px;}
+  .troubles-grid{grid-template-columns:1fr;}
+  .digest-text h3{font-size:22px;}
+}
 </style>
 </head>
 <body>
 <div id="topbar-placeholder"></div>
 
+<!-- ── HERO ──────────────────────────────────────── -->
 <section class="page-hero">
   <div class="container">
     <div class="page-hero-inner">
-      <div class="breadcrumb"><a href="index.html">Accueil</a> <span>›</span> Systèmes du corps <span>›</span> Système Digestif</div>
-      <div class="page-hero-tag"><span style="margin-right:4px;">🫁</span> Système du corps</div>
-      <h2>Système Digestif</h2>
+      <div class="breadcrumb"><a href="index.html">Accueil</a> <span>&rsaquo;</span> <a href="index.html#systemes">Syst&egrave;mes du corps</a> <span>&rsaquo;</span> Syst&egrave;me Digestif</div>
+      <div class="page-hero-tag"><span style="margin-right:4px;">&#129732;</span> Syst&egrave;me 02 &mdash; Corps humain</div>
+      <h2>Syst&egrave;me <span>Digestif</span></h2>
+      <p>Le syst&egrave;me digestif transforme les aliments en nutriments absorbables par l&rsquo;organisme. Consid&eacute;r&eacute; comme le &laquo;&nbsp;deuxi&egrave;me cerveau&nbsp;&raquo;, il joue un r&ocirc;le central dans la sant&eacute; globale, l&rsquo;immunit&eacute; et le bien-&ecirc;tre.</p>
     </div>
   </div>
 </section>
 
+<!-- ── MAIN CONTENT ──────────────────────────────── -->
 <div class="page-content">
-  <a href="index.html" class="back-link"><i class="fa-solid fa-arrow-left"></i> Retour à l'accueil</a>
-  <p>Plantes qui agissent sur le système digestif : stomachiques, carminatives, laxatives, antidiarrhéiques, hépatoprotectrices, vermifuges. La tradition haïtienne est particulièrement riche en remèdes digestifs, les « té » (tisanes) étant le mode de préparation le plus courant.</p>
-  <p>Explorez les plantes médicinales du Grand Sud associées au système digestif dans notre atlas complet.</p>
-  <a href="atlas.html" class="sys-atlas-btn"><i class="fa-solid fa-leaf"></i> Explorer les plantes dans l'Atlas →</a>
+  <a href="index.html" class="back-link"><i class="fa-solid fa-arrow-left"></i> Retour &agrave; l&rsquo;accueil</a>
+
+  <!-- ── IMAGE + TEXTE SCIENTIFIQUE ──────────────── -->
+  <div class="digest-intro">
+    <div class="digest-img-wrap">
+      <img src="images/systeme-digestif.png" alt="Sch&eacute;ma anatomique complet du syst&egrave;me digestif humain : bouche, &oelig;sophage, estomac, foie, v&eacute;sicule biliaire, pancr&eacute;as, intestin gr&ecirc;le, c&ocirc;lon, rectum, anus" loading="lazy">
+      <div class="digest-img-caption"><strong>Figure 1</strong> &mdash; Anatomie du syst&egrave;me digestif : de la bouche &agrave; l&rsquo;anus, incluant les organes annexes (foie, pancr&eacute;as, v&eacute;sicule biliaire).</div>
+    </div>
+
+    <div class="digest-text">
+      <h3>Importance du syst&egrave;me digestif pour la sant&eacute; globale</h3>
+      <p>Le syst&egrave;me digestif constitue l&rsquo;un des piliers fondamentaux de la sant&eacute; humaine. Il s&rsquo;&eacute;tend de la bouche &agrave; l&rsquo;anus et comprend l&rsquo;estomac, l&rsquo;intestin gr&ecirc;le, le c&ocirc;lon, le foie, la v&eacute;sicule biliaire et le pancr&eacute;as. Selon les &eacute;tudes scientifiques, son r&ocirc;le d&eacute;passe largement la simple digestion des aliments : il assure l&rsquo;absorption des nutriments essentiels, participe &agrave; la d&eacute;fense immunitaire de l&rsquo;organisme et contribue &agrave; l&rsquo;&eacute;quilibre m&eacute;tabolique g&eacute;n&eacute;ral.</p>
+      <p>La recherche montre qu&rsquo;un syst&egrave;me digestif en bonne sant&eacute; est &eacute;troitement li&eacute; &agrave; la qualit&eacute; du sommeil, &agrave; la r&eacute;gulation de l&rsquo;humeur et &agrave; la capacit&eacute; de l&rsquo;organisme &agrave; r&eacute;sister aux infections. Lorsque l&rsquo;&eacute;quilibre digestif est perturb&eacute;, les cons&eacute;quences peuvent se manifester bien au-del&agrave; du tractus gastro-intestinal, affectant la peau, l&rsquo;&eacute;nergie, la clart&eacute; mentale et m&ecirc;me le syst&egrave;me cardiovasculaire.</p>
+      <div class="highlight-box">
+        <i class="fa-solid fa-brain"></i>
+        <strong>Le saviez-vous ?</strong> Le syst&egrave;me digestif est souvent appel&eacute; le &laquo;&nbsp;deuxi&egrave;me cerveau&nbsp;&raquo; en raison de son syst&egrave;me nerveux ent&eacute;rique, un r&eacute;seau complexe de neurones tapissant les parois intestinales, capable de fonctionner de mani&egrave;re autonome.
+      </div>
+      <p>En Ha&iuml;ti, les troubles digestifs &mdash; diarrh&eacute;es, parasitoses intestinales, coliques, reflux &mdash; figurent parmi les plaintes les plus courantes trait&eacute;es par les tradipraticiens du Sud et de la Grand&rsquo;Anse. La richesse de la pharmacop&eacute;e traditionnelle ha&iuml;tienne offre de nombreuses solutions document&eacute;es par le Jardin Botanique des Cayes.</p>
+    </div>
+  </div>
+
+  <!-- ── AXE INTESTIN-CERVEAU ────────────────────── -->
+  <div class="brain-gut-section">
+    <div class="section-title">
+      <div class="icon-circle" style="background:linear-gradient(135deg,#e8f0fb,#d4ebd8);">&#129504;</div>
+      <h3>L&rsquo;axe intestin-cerveau : <span>le deuxi&egrave;me cerveau</span></h3>
+    </div>
+    <p style="font-size:15px;color:var(--text-mid);font-family:Arial,sans-serif;line-height:1.8;margin-bottom:24px;text-align:justify;">
+      Selon les &eacute;tudes scientifiques, le tube digestif abrite un r&eacute;seau neuronal appel&eacute; <strong>syst&egrave;me nerveux ent&eacute;rique</strong>, si complexe et autonome que les chercheurs le d&eacute;signent comme le &laquo;&nbsp;deuxi&egrave;me cerveau&nbsp;&raquo;. Ce syst&egrave;me communique en permanence avec le cerveau via le <strong>nerf vague</strong>, formant ce que la science appelle l&rsquo;<strong>axe intestin-cerveau</strong> (<em>gut-brain axis</em>).
+    </p>
+
+    <div class="brain-gut-grid">
+      <div class="brain-gut-card">
+        <div class="card-icon" style="background:linear-gradient(135deg,#e8f0fb,#d0e4f7);">&#128172;</div>
+        <h4>Communication bidirectionnelle</h4>
+        <p>La recherche montre que l&rsquo;intestin et le cerveau &eacute;changent des signaux en permanence par voies nerveuses, hormonales et immunitaires. Cette communication bidirectionnelle influence l&rsquo;humeur, le stress, l&rsquo;app&eacute;tit et m&ecirc;me les fonctions cognitives. Un d&eacute;s&eacute;quilibre intestinal peut ainsi avoir des r&eacute;percussions sur l&rsquo;&eacute;tat psychologique.</p>
+      </div>
+      <div class="brain-gut-card">
+        <div class="card-icon" style="background:linear-gradient(135deg,#f0faf3,#d4ebd8);">&#129440;</div>
+        <h4>Le microbiote, m&eacute;diateur cl&eacute;</h4>
+        <p>Selon les &eacute;tudes scientifiques, le microbiote intestinal &mdash; l&rsquo;ensemble des micro-organismes vivant dans le tube digestif &mdash; joue un r&ocirc;le de m&eacute;diateur essentiel dans l&rsquo;axe intestin-cerveau. Ces micro-organismes produisent des neurotransmetteurs (dont la s&eacute;rotonine) et des m&eacute;tabolites qui influencent directement le fonctionnement c&eacute;r&eacute;bral.</p>
+      </div>
+      <div class="brain-gut-card">
+        <div class="card-icon" style="background:linear-gradient(135deg,#fef5e0,#fdebc4);">&#127793;</div>
+        <h4>Impact sur la sant&eacute; mentale</h4>
+        <p>La recherche montre qu&rsquo;un microbiote diversifi&eacute; et &eacute;quilibr&eacute; est associ&eacute; &agrave; un meilleur &eacute;tat de sant&eacute; mentale. Les d&eacute;s&eacute;quilibres du microbiote intestinal (dysbiose) ont &eacute;t&eacute; associ&eacute;s par la litt&eacute;rature scientifique &agrave; des troubles de l&rsquo;humeur, du stress et de l&rsquo;anxi&eacute;t&eacute;.</p>
+      </div>
+      <div class="brain-gut-card">
+        <div class="card-icon" style="background:linear-gradient(135deg,#fde8e8,#f5d0d0);">&#129657;</div>
+        <h4>Le nerf vague, autoroute de l&rsquo;information</h4>
+        <p>Le nerf vague constitue la principale voie de communication entre l&rsquo;intestin et le cerveau. Selon les recherches, il transmet des informations sur l&rsquo;&eacute;tat du microbiote, le niveau d&rsquo;inflammation et la composition des nutriments absorb&eacute;s, permettant au cerveau d&rsquo;adapter ses r&eacute;ponses en cons&eacute;quence.</p>
+      </div>
+    </div>
+  </div>
+
+  <!-- ── RÔLES DU MICROBIOTE ─────────────────────── -->
+  <div class="microbiote-roles">
+    <div class="section-title">
+      <div class="icon-circle" style="background:linear-gradient(135deg,var(--green-pale),#d4ebd8);">&#129440;</div>
+      <h3>R&ocirc;les du <span>microbiote intestinal</span></h3>
+    </div>
+    <p style="font-size:15px;color:var(--text-mid);font-family:Arial,sans-serif;line-height:1.8;margin-bottom:28px;text-align:justify;">
+      Selon les &eacute;tudes scientifiques, le microbiote intestinal constitue un v&eacute;ritable &eacute;cosyst&egrave;me vivant au sein du tube digestif. La recherche montre qu&rsquo;il remplit des fonctions essentielles pour le maintien de la sant&eacute; globale de l&rsquo;organisme.
+    </p>
+
+    <div class="roles-grid">
+      <div class="role-card">
+        <span class="role-icon">&#127860;</span>
+        <h4>Digestion &amp; Nutrition</h4>
+        <p>La recherche montre que le microbiote intestinal participe activement &agrave; la d&eacute;composition des fibres alimentaires, &agrave; la synth&egrave;se de certaines vitamines (notamment les vitamines B et K) et &agrave; l&rsquo;absorption optimale des nutriments. Sans un microbiote &eacute;quilibr&eacute;, le processus digestif serait incomplet et l&rsquo;assimilation des &eacute;l&eacute;ments nutritifs, compromise.</p>
+      </div>
+      <div class="role-card">
+        <span class="role-icon">&#128737;</span>
+        <h4>Immunit&eacute; &amp; D&eacute;fense</h4>
+        <p>Selon les &eacute;tudes scientifiques, le microbiote intestinal joue un r&ocirc;le majeur dans la maturation et la r&eacute;gulation du syst&egrave;me immunitaire. La recherche montre que les micro-organismes intestinaux contribuent &agrave; la barri&egrave;re de d&eacute;fense contre les pathog&egrave;nes, stimulent la production d&rsquo;anticorps et participent &agrave; la modulation de la r&eacute;ponse inflammatoire.</p>
+      </div>
+      <div class="role-card">
+        <span class="role-icon">&#128150;</span>
+        <h4>Bien-&ecirc;tre g&eacute;n&eacute;ral</h4>
+        <p>La recherche montre que le microbiote intestinal influence le bien-&ecirc;tre g&eacute;n&eacute;ral de l&rsquo;individu, au-del&agrave; de la digestion. Selon les &eacute;tudes scientifiques, il intervient dans la r&eacute;gulation du m&eacute;tabolisme &eacute;nerg&eacute;tique, la gestion du poids corporel, la qualit&eacute; du sommeil et m&ecirc;me l&rsquo;&eacute;quilibre &eacute;motionnel, via la production de neurotransmetteurs.</p>
+      </div>
+    </div>
+  </div>
+
+  <!-- ── PLANTES MÉDICINALES & MICROBIOTE ─────────── -->
+  <div class="plantes-section">
+    <div class="section-title">
+      <div class="icon-circle" style="background:linear-gradient(135deg,var(--green-pale),#c8e6c9);">&#127807;</div>
+      <h3>Plantes m&eacute;dicinales &amp; <span>&eacute;quilibre du microbiote</span></h3>
+    </div>
+    <p class="plantes-intro">
+      Selon les &eacute;tudes scientifiques, certaines plantes m&eacute;dicinales peuvent contribuer &agrave; maintenir l&rsquo;&eacute;quilibre du microbiote intestinal. La recherche montre que les compos&eacute;s bioactifs pr&eacute;sents dans les plantes &mdash; polyphénols, flavono&iuml;des, tanins, huiles essentielles &mdash; exercent des effets pr&eacute;biotiques, antimicrobiens s&eacute;lectifs et anti-inflammatoires qui favorisent un environnement intestinal sain. En Ha&iuml;ti, la tradition d&rsquo;utilisation des &laquo;&nbsp;t&eacute;&nbsp;&raquo; (tisanes) illustre cette relation ancestrale entre les plantes et la sant&eacute; digestive.
+    </p>
+
+    <!-- TROUBLES CIBLÉS -->
+    <h4 style="font-size:18px;color:var(--green-dark);margin-bottom:18px;font-family:Arial,sans-serif;"><i class="fa-solid fa-stethoscope" style="color:var(--green-mid);margin-right:8px;"></i>Troubles cibl&eacute;s par la pharmacop&eacute;e ha&iuml;tienne</h4>
+    <div class="troubles-grid" style="margin-bottom:36px;">
+      <div class="trouble-item">
+        <div class="t-icon">&#128167;</div>
+        <div class="t-text">Diarrh&eacute;es &amp; gastro-ent&eacute;rites</div>
+      </div>
+      <div class="trouble-item">
+        <div class="t-icon">&#129440;</div>
+        <div class="t-text">Parasitoses intestinales</div>
+      </div>
+      <div class="trouble-item">
+        <div class="t-icon">&#128168;</div>
+        <div class="t-text">Ballonnements &amp; coliques</div>
+      </div>
+      <div class="trouble-item">
+        <div class="t-icon">&#129326;</div>
+        <div class="t-text">Naus&eacute;es &amp; vomissements</div>
+      </div>
+      <div class="trouble-item">
+        <div class="t-icon">&#129729;</div>
+        <div class="t-text">Affections h&eacute;patiques</div>
+      </div>
+      <div class="trouble-item">
+        <div class="t-icon">&#9888;&#65039;</div>
+        <div class="t-text">Constipation</div>
+      </div>
+    </div>
+
+    <!-- MÉCANISMES D'ACTION -->
+    <h4 style="font-size:18px;color:var(--green-dark);margin-bottom:18px;font-family:Arial,sans-serif;"><i class="fa-solid fa-flask" style="color:var(--green-mid);margin-right:8px;"></i>M&eacute;canismes d&rsquo;action des plantes sur le syst&egrave;me digestif</h4>
+    <div class="meca-grid" style="margin-bottom:36px;">
+      <div class="meca-card">
+        <h4><i class="fa-solid fa-shield-virus"></i> Action antiparasitaire</h4>
+        <p>Le <em>Dysphania ambrosioides</em> (&laquo;&nbsp;Simenkontra&nbsp;&raquo;), l&rsquo;une des plantes les plus utilis&eacute;es de la pharmacop&eacute;e ha&iuml;tienne, contient de l&rsquo;ascaridol &mdash; un compos&eacute; aux propri&eacute;t&eacute;s antiparasitaires puissantes contre les n&eacute;matodes intestinaux. Son usage est valid&eacute; par le r&eacute;seau TRAMIL, mais sa toxicit&eacute; aux fortes doses impose un dosage strict.</p>
+        <span class="plant-ref">&#127807; Simenkontra &bull; TRAMIL</span>
+      </div>
+      <div class="meca-card">
+        <h4><i class="fa-solid fa-droplet"></i> Effets antidiarrh&eacute;iques</h4>
+        <p>Les tanins condens&eacute;s pr&eacute;sents dans de nombreuses plantes (<em>Psidium guajava</em>, <em>Spondias mombin</em>) exercent une action astringente sur les muqueuses intestinales, r&eacute;duisant la s&eacute;cr&eacute;tion liquidienne et ralentissant le transit intestinal.</p>
+        <span class="plant-ref">&#127807; Gwayav &bull; Monben</span>
+      </div>
+      <div class="meca-card">
+        <h4><i class="fa-solid fa-heart-pulse"></i> Protection h&eacute;patique</h4>
+        <p>Plusieurs esp&egrave;ces document&eacute;es &mdash; notamment le curcuma (<em>Curcuma longa</em>) et la moringa (<em>Moringa oleifera</em>) &mdash; pr&eacute;sentent des propri&eacute;t&eacute;s h&eacute;patoprotectrices document&eacute;es <em>in vitro</em> et sur mod&egrave;les animaux par la litt&eacute;rature scientifique.</p>
+        <span class="plant-ref">&#127807; Benn&egrave; &bull; Curcuma</span>
+      </div>
+      <div class="meca-card">
+        <h4><i class="fa-solid fa-seedling"></i> Soutien au microbiote</h4>
+        <p>Selon les &eacute;tudes scientifiques, certains compos&eacute;s v&eacute;g&eacute;taux agissent comme des pr&eacute;biotiques naturels, nourrissant s&eacute;lectivement les bact&eacute;ries b&eacute;n&eacute;fiques du microbiote. La recherche montre que les polyph&eacute;nols et les fibres solubles pr&eacute;sentes dans plusieurs plantes de la pharmacop&eacute;e ha&iuml;tienne favorisent la diversit&eacute; microbienne intestinale.</p>
+        <span class="plant-ref">&#127807; Pharmacop&eacute;e ha&iuml;tienne</span>
+      </div>
+    </div>
+
+    <!-- TABLEAU DES PLANTES -->
+    <h4 style="font-size:18px;color:var(--green-dark);margin-bottom:6px;font-family:Arial,sans-serif;"><i class="fa-solid fa-leaf" style="color:var(--green-mid);margin-right:8px;"></i>Plantes ha&iuml;tiennes du Sud &amp; Grand&rsquo;Anse &mdash; Syst&egrave;me Digestif</h4>
+    <p style="font-size:13px;color:var(--text-mid);font-family:Arial,sans-serif;margin-bottom:4px;line-height:1.6;">Esp&egrave;ces document&eacute;es par le Jardin Botanique des Cayes (BRH) dans les D&eacute;partements du Sud et de la Grand&rsquo;Anse.</p>
+
+    <div class="plant-table-wrap">
+      <table class="plant-table">
+        <thead>
+          <tr>
+            <th>Nom scientifique</th>
+            <th>Nom cr&eacute;ole</th>
+            <th>Usage principal</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td class="sci-name">Dysphania ambrosioides</td>
+            <td class="creole-name">Simenkontra</td>
+            <td><span class="usage-tag">Antiparasitaire intestinal</span></td>
+          </tr>
+          <tr>
+            <td class="sci-name">Allium cepa L.</td>
+            <td class="creole-name">Zonyon</td>
+            <td><span class="usage-tag">Antispasmodique, digestif</span></td>
+          </tr>
+          <tr>
+            <td class="sci-name">Allium sativum L.</td>
+            <td class="creole-name">Lay</td>
+            <td><span class="usage-tag">Antibact&eacute;rien, digestif</span></td>
+          </tr>
+          <tr>
+            <td class="sci-name">Psidium guajava</td>
+            <td class="creole-name">Gwayav</td>
+            <td><span class="usage-tag">Antidiarrh&eacute;ique</span></td>
+          </tr>
+          <tr>
+            <td class="sci-name">Spondias mombin L.</td>
+            <td class="creole-name">Monben</td>
+            <td><span class="usage-tag">Cicatrisant, antidiarrh&eacute;ique</span></td>
+          </tr>
+          <tr>
+            <td class="sci-name">Momordica charantia</td>
+            <td class="creole-name">Asosi</td>
+            <td><span class="usage-tag">Antiparasitaire, digestif</span></td>
+          </tr>
+          <tr>
+            <td class="sci-name">Moringa oleifera</td>
+            <td class="creole-name">Benn&egrave;</td>
+            <td><span class="usage-tag">H&eacute;patoprotecteur</span></td>
+          </tr>
+          <tr>
+            <td class="sci-name">Ruellia tuberosa</td>
+            <td class="creole-name">P&egrave;p&egrave;t</td>
+            <td><span class="usage-tag">Diur&eacute;tique, digestif</span></td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+  </div>
+
+  <!-- ── PRÉCAUTIONS ─────────────────────────────── -->
+  <div class="precautions-box">
+    <h4><i class="fa-solid fa-triangle-exclamation" style="color:var(--red-haiti);"></i> Pr&eacute;cautions importantes</h4>
+    <ul>
+      <li><i class="fa-solid fa-circle-exclamation"></i> Les plantes antiparasitaires (notamment <em>Dysphania ambrosioides</em>) sont <strong>contre-indiqu&eacute;es</strong> chez la femme enceinte et l&rsquo;enfant de moins de 12 ans en raison de leur toxicit&eacute; potentielle.</li>
+      <li><i class="fa-solid fa-circle-exclamation"></i> Les d&eacute;coctions d&rsquo;&eacute;corce d&rsquo;arbres &agrave; tanins concentr&eacute;s peuvent provoquer une <strong>constipation s&eacute;v&egrave;re</strong> en usage prolong&eacute;. Un suivi est recommand&eacute;.</li>
+      <li><i class="fa-solid fa-circle-exclamation"></i> L&rsquo;utilisation des plantes m&eacute;dicinales doit se faire de mani&egrave;re &eacute;clair&eacute;e, en respectant les dosages traditionnels et en consultant un professionnel de sant&eacute; en cas de doute.</li>
+    </ul>
+  </div>
+
+  <!-- ── CTA ─────────────────────────────────────── -->
+  <div class="cta-section">
+    <h3>&#127807; Explorez l&rsquo;atlas complet des plantes</h3>
+    <p>D&eacute;couvrez toutes les plantes m&eacute;dicinales du Grand Sud associ&eacute;es au syst&egrave;me digestif dans notre atlas ethnobotanique.</p>
+    <a href="atlas.html" class="sys-atlas-btn"><i class="fa-solid fa-leaf"></i> Explorer les plantes dans l&rsquo;Atlas &rarr;</a>
+  </div>
 </div>
 
 <div id="footer-placeholder"></div>
